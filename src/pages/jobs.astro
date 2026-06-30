@@ -1,0 +1,393 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+
+/* ===========================================================
+   求人一覧（Softr）のURL。公開後にここだけ差し替えてください。
+   例: https://jobs.agent-best.net  /  https://agentbest.softr.app
+   =========================================================== */
+const SOFTR_URL = 'https://agentbest.softr.app';
+
+const domains = [
+  { en: 'IT', jp: 'ソフトウェア・インフラ・SI' },
+  { en: 'SaaS', jp: '事業会社・スタートアップ' },
+  { en: 'M&A', jp: 'アドバイザリー・仲介' },
+  { en: 'Consulting', jp: '戦略・IT・業務コンサル' },
+];
+
+/* 取扱求人の一例（トップの見せ札。全件はSoftr側） */
+const sampleJobs = [
+  { title: 'プロダクトマネージャー（SaaS）', org: '急成長SaaS / 自社プロダクト', salary: '〜1,000万円', tags: ['SaaS', 'PdM'] },
+  { title: 'M&Aアドバイザー', org: '独立系アドバイザリーファーム', salary: '〜1,200万円', tags: ['M&A', 'アドバイザリー'] },
+  { title: 'SRE / プラットフォームエンジニア', org: '上場ベンチャー / IT', salary: '〜900万円', tags: ['IT', 'SRE'] },
+];
+
+const reasons = [
+  { no: '01', title: '領域を、絞る。', body: 'IT・SaaS・M&A・コンサルの4領域だけ。深く理解できる求人だけを掲載しています。' },
+  { no: '02', title: '一人が、一貫して。', body: '気になる一社があれば、入口から意思決定まで、担当が変わらず伴走します。' },
+  { no: '03', title: '相談して、決められる。', body: '求人を眺めるだけで終わらせない。領域のプロと話して、納得して選べます。' },
+];
+---
+
+<Layout
+  title="求人を探す｜20代・30代ハイクラスの転職｜株式会社エージェントベスト"
+  description="IT・SaaS・M&A・コンサル領域に特化した求人を掲載。20代・30代のハイクラス層へ、領域を絞った確かな求人と、領域のプロによる相談をお届けします。"
+>
+  <a id="top"></a>
+  <Header />
+
+  <main>
+    <!-- ============ HERO ============ -->
+    <section class="hero">
+      <span class="hero-vlabel vertical" aria-hidden="true">20s &ndash; 30s High-Class Career</span>
+      <div class="wrap hero-grid">
+        <div class="hero-lede">
+          <span class="eyebrow">Job Board</span>
+          <h1 class="hero-title">
+            確かな一社に、<br />出会う。
+          </h1>
+          <p class="hero-sub">20代・30代ハイクラスのための、求人。</p>
+          <p class="hero-body">
+            IT・SaaS・M&amp;A・コンサル。<br />
+            領域を絞り込んだ、確かな求人だけを掲載しています。
+            気になる一社があれば、領域のプロにそのまま相談できます。
+          </p>
+          <div class="hero-actions">
+            <a href={SOFTR_URL} target="_blank" rel="noopener" class="btn">
+              求人を探す <span class="arrow" aria-hidden="true">→</span>
+            </a>
+            <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn btn--ghost">
+              キャリアを相談する
+            </a>
+          </div>
+        </div>
+
+        <aside class="hero-stats" aria-label="求人サイトの概要">
+          <div class="stat">
+            <span class="stat-num">481<span class="stat-unit"> 件</span></span>
+            <span class="stat-label">取扱求人</span>
+          </div>
+          <div class="stat">
+            <span class="stat-num">4<span class="stat-unit"> 領域</span></span>
+            <span class="stat-label">専門特化</span>
+          </div>
+          <div class="stat">
+            <span class="stat-num">600&ndash;1,200<span class="stat-unit"> 万円</span></span>
+            <span class="stat-label">対象年収帯</span>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ BRIDGE（本体の思想との橋渡し） ============ -->
+    <section class="bridge">
+      <div class="wrap">
+        <p class="bridge-text reveal">
+          すべての求人を載せてはいません。<br />
+          専門領域で、確かに提案できるものだけを。
+        </p>
+      </div>
+    </section>
+
+    <!-- ============ DOMAINS（領域から探す） ============ -->
+    <section id="domains" class="section domains spine">
+      <div class="wrap">
+        <header class="sec-head reveal">
+          <span class="eyebrow">Browse by Domain</span>
+          <h2>領域から探す</h2>
+          <p class="sec-desc">扱うのは、深く理解できる4領域だけ。気になる領域から求人をご覧ください。</p>
+        </header>
+        <ul class="domain-grid reveal">
+          {domains.map((d, i) => (
+            <li class="domain-card">
+              <a href={SOFTR_URL} target="_blank" rel="noopener" class="domain-link">
+                <span class="domain-no">{String(i + 1).padStart(2, '0')}</span>
+                <span class="domain-en">{d.en}</span>
+                <span class="domain-jp">{d.jp}</span>
+                <span class="domain-go" aria-hidden="true">求人を見る →</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============ SAMPLE JOBS（取扱求人の一例） ============ -->
+    <section class="section jobs">
+      <div class="wrap">
+        <header class="sec-head reveal">
+          <span class="eyebrow">Featured Jobs</span>
+          <h2>取扱求人の一例</h2>
+          <p class="sec-desc">領域特化だからこその、確かな求人を掲載しています。</p>
+        </header>
+        <ul class="job-grid reveal">
+          {sampleJobs.map((j) => (
+            <li class="job-card">
+              <div class="job-top">
+                <div>
+                  <h3 class="job-title">{j.title}</h3>
+                  <p class="job-org">{j.org}</p>
+                </div>
+                <span class="job-salary">{j.salary}</span>
+              </div>
+              <div class="job-tags">
+                {j.tags.map((t) => (<span class="job-tag">{t}</span>))}
+              </div>
+            </li>
+          ))}
+        </ul>
+        <div class="jobs-more reveal">
+          <a href={SOFTR_URL} target="_blank" rel="noopener" class="btn">
+            求人をすべて見る <span class="arrow" aria-hidden="true">→</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ REASONS ============ -->
+    <section class="section reasons spine">
+      <div class="wrap">
+        <header class="sec-head reveal">
+          <span class="eyebrow">Why Agent Best</span>
+          <h2>この求人サイトについて</h2>
+        </header>
+        <div class="reason-rows">
+          {reasons.map((r) => (
+            <article class="reason-row reveal">
+              <span class="reason-no">{r.no}</span>
+              <div class="reason-text">
+                <h3>{r.title}</h3>
+                <p>{r.body}</p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ CTA ============ -->
+    <section id="contact" class="cta">
+      <div class="wrap cta-inner reveal">
+        <span class="eyebrow eyebrow--on-dark">Contact</span>
+        <h2 class="cta-title">気になる一社は、相談から。</h2>
+        <p class="cta-body">
+          求人を眺めるだけで終わらせない。現職中・情報収集の段階でも構いません。<br />
+          その一社が本当に合うか、領域のプロと一緒に見極めましょう。
+        </p>
+        <div class="cta-actions">
+          <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn btn--on-dark">
+            相談の日程を調整する <span class="arrow" aria-hidden="true">→</span>
+          </a>
+        </div>
+        <p class="cta-note">オンラインで30分ほど。現職中でも、情報収集の段階でもお気軽に。</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div class="footer-brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="footer-name">AGENT&nbsp;BEST</span>
+        <p class="footer-tag">20代・30代ハイクラスのための転職エージェント</p>
+      </div>
+      <p class="footer-meta">
+        株式会社エージェントベスト　許可番号 13-ユ-316964<br />
+        東京都港区六本木4-8-7　嶋田ビル5階
+      </p>
+    </div>
+    <div class="wrap footer-base">
+      <small>© {new Date().getFullYear()} Agent Best Inc.</small>
+      <a href="/" class="footer-contact-link">トップへ戻る</a>
+    </div>
+  </footer>
+
+  <script>
+    const els = document.querySelectorAll('.reveal');
+    const mq = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (mq.matches || !('IntersectionObserver' in window)) {
+      els.forEach((el) => el.classList.add('is-in'));
+    } else {
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); }
+        });
+      }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+      els.forEach((el) => io.observe(el));
+    }
+  </script>
+
+  <style>
+    /* ---------- HERO ---------- */
+    .hero {
+      position: relative;
+      padding-block: clamp(64px, 10vw, 132px);
+      border-bottom: 1px solid var(--hairline);
+      overflow: hidden;
+    }
+    .hero-vlabel {
+      position: absolute;
+      top: clamp(40px, 8vw, 96px);
+      right: clamp(10px, 2vw, 28px);
+      font-size: 0.66rem;
+      letter-spacing: 0.34em;
+      color: var(--slate-mute);
+      text-transform: uppercase;
+      opacity: .7;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: clamp(48px, 6vw, 80px);
+    }
+    @media (min-width: 900px) {
+      .hero-grid { grid-template-columns: minmax(0, 1.55fr) minmax(0, 0.85fr); align-items: end; }
+    }
+    .hero-title {
+      font-size: clamp(2.7rem, 7vw, 4.8rem);
+      font-weight: 700;
+      line-height: 1.3;
+      letter-spacing: 0.04em;
+      margin-top: 1.3rem;
+    }
+    .hero-sub {
+      font-family: var(--font-display);
+      font-size: clamp(1.05rem, 2.4vw, 1.4rem);
+      color: var(--teal);
+      margin-top: 1.5rem;
+      letter-spacing: 0.06em;
+    }
+    .hero-body {
+      color: var(--slate);
+      margin-top: 1.9rem;
+      max-width: 34em;
+      font-size: 0.98rem;
+    }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 2.8rem; }
+
+    /* ---------- HERO STATS ---------- */
+    .hero-stats {
+      border-left: 1px solid var(--hairline);
+      padding-left: clamp(20px, 3vw, 36px);
+      display: flex;
+      flex-direction: column;
+      gap: clamp(20px, 3vw, 30px);
+    }
+    .stat { display: flex; flex-direction: column; gap: 0.4rem; }
+    .stat-num {
+      font-family: var(--font-display); font-weight: 700;
+      font-size: clamp(1.6rem, 3.4vw, 2.1rem); letter-spacing: 0.03em; color: var(--ink);
+    }
+    .stat-unit { font-size: 0.8rem; font-weight: 500; color: var(--slate-mute); }
+    .stat-label { font-size: 0.74rem; letter-spacing: 0.1em; color: var(--slate-mute); }
+
+    /* ---------- BRIDGE ---------- */
+    .bridge { background: var(--paper-deep); border-bottom: 1px solid var(--hairline); }
+    .bridge-text {
+      font-family: var(--font-display);
+      font-size: clamp(1.2rem, 3vw, 1.9rem);
+      line-height: 1.9;
+      letter-spacing: 0.04em;
+      color: var(--ink);
+      padding-block: clamp(48px, 8vw, 96px);
+      text-align: center;
+    }
+
+    /* ---------- shared section head ---------- */
+    .sec-head { margin-bottom: clamp(40px, 6vw, 72px); }
+    .sec-head h2 { font-size: clamp(1.7rem, 4vw, 2.5rem); margin-top: 1rem; letter-spacing: 0.04em; }
+    .sec-desc { color: var(--slate); margin-top: 1rem; max-width: 36em; }
+
+    /* ---------- DOMAINS ---------- */
+    .domain-grid {
+      list-style: none; margin: 0; padding: 0; display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      border-top: 1px solid var(--hairline); border-left: 1px solid var(--hairline);
+    }
+    @media (min-width: 600px) { .domain-grid { grid-template-columns: repeat(2, 1fr); } }
+    .domain-card {
+      position: relative;
+      border-right: 1px solid var(--hairline); border-bottom: 1px solid var(--hairline);
+      transition: background .4s ease; overflow: hidden;
+    }
+    .domain-card::after {
+      content: ""; position: absolute; left: 0; bottom: 0; width: 100%; height: 2px;
+      background: var(--teal); transform: scaleX(0); transform-origin: left; transition: transform .4s ease;
+    }
+    .domain-card:hover { background: var(--paper-deep); }
+    .domain-card:hover::after { transform: scaleX(1); }
+    .domain-link {
+      display: block; text-decoration: none; color: inherit;
+      padding: clamp(26px, 3vw, 40px) clamp(22px, 2.4vw, 32px) clamp(30px, 3.4vw, 46px);
+    }
+    .domain-no { font-size: 0.72rem; letter-spacing: 0.16em; color: var(--slate-mute); }
+    .domain-en {
+      display: block; font-family: var(--font-display); font-weight: 700;
+      font-size: clamp(1.5rem, 3vw, 2rem); margin-top: 1.4rem; letter-spacing: 0.03em;
+    }
+    .domain-jp { display: block; margin-top: 0.7rem; color: var(--slate); font-size: 0.88rem; }
+    .domain-go { display: block; margin-top: 1.4rem; font-size: 0.8rem; color: var(--teal); letter-spacing: 0.06em; }
+
+    /* ---------- SAMPLE JOBS ---------- */
+    .jobs { background: var(--paper-deep); }
+    .job-grid {
+      list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(16px, 2vw, 22px);
+      grid-template-columns: 1fr;
+    }
+    @media (min-width: 760px) { .job-grid { grid-template-columns: repeat(3, 1fr); } }
+    .job-card {
+      background: var(--paper); border: 1px solid var(--hairline);
+      padding: clamp(22px, 3vw, 30px); display: flex; flex-direction: column; gap: 1.1rem;
+      transition: border-color .35s ease, transform .35s ease;
+    }
+    .job-card:hover { border-color: var(--teal); transform: translateY(-2px); }
+    .job-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 0.8rem; }
+    .job-title { font-size: 1.02rem; line-height: 1.5; letter-spacing: 0.02em; }
+    .job-org { color: var(--slate); font-size: 0.82rem; margin-top: 0.5rem; }
+    .job-salary { font-family: var(--font-display); font-weight: 700; font-size: 0.95rem; color: var(--ink); white-space: nowrap; }
+    .job-tags { display: flex; flex-wrap: wrap; gap: 0.5em; margin-top: auto; }
+    .job-tag {
+      font-size: 0.72rem; letter-spacing: 0.06em; color: var(--teal);
+      border: 1px solid var(--teal); border-radius: 999px; padding: 0.2em 0.9em;
+    }
+    .jobs-more { margin-top: clamp(32px, 4vw, 48px); text-align: center; }
+
+    /* ---------- REASONS ---------- */
+    .reason-rows { display: grid; gap: 0; }
+    .reason-row {
+      display: grid; grid-template-columns: auto 1fr; gap: clamp(20px, 4vw, 56px);
+      padding-block: clamp(32px, 4vw, 52px); border-top: 1px solid var(--hairline); align-items: start;
+    }
+    .reason-row:last-child { border-bottom: 1px solid var(--hairline); }
+    .reason-no { font-family: var(--font-display); font-size: clamp(1.1rem, 2vw, 1.4rem); color: var(--teal); letter-spacing: 0.08em; padding-top: 0.2em; }
+    .reason-text h3 { font-size: clamp(1.3rem, 2.6vw, 1.7rem); letter-spacing: 0.04em; }
+    .reason-text p { margin-top: 1rem; color: var(--slate); max-width: 40em; }
+
+    /* ---------- CTA ---------- */
+    .cta { background: var(--ink); color: var(--paper); padding-block: clamp(80px, 12vw, 140px); }
+    .eyebrow--on-dark { color: #B7D9CF; }
+    .eyebrow--on-dark::before { background: #B7D9CF; }
+    .cta-inner { text-align: center; }
+    .cta-title { font-size: clamp(2rem, 5vw, 3.3rem); margin-top: 1.2rem; letter-spacing: 0.05em; }
+    .cta-body { color: #C7CCD4; margin-top: 1.7rem; max-width: 38em; margin-inline: auto; line-height: 2; }
+    .cta-actions { margin-top: 2.8rem; }
+    .cta-note { margin-top: 1.8rem; font-size: 0.74rem; color: var(--slate-mute); }
+
+    /* ---------- FOOTER ---------- */
+    .site-footer { background: var(--ink); color: var(--paper); padding-top: clamp(48px, 7vw, 80px); border-top: 1px solid var(--hairline-on-dark); }
+    .footer-inner { display: grid; gap: clamp(28px, 5vw, 48px); padding-bottom: clamp(40px, 6vw, 64px); }
+    @media (min-width: 720px) { .footer-inner { grid-template-columns: 1fr 1fr; align-items: end; } }
+    .footer-brand { display: flex; flex-direction: column; gap: 0.4rem; }
+    .footer-brand .brand-mark { width: 14px; height: 14px; border: 1.5px solid #B7D9CF; position: relative; }
+    .footer-brand .brand-mark::after { content: ""; position: absolute; inset: 3px; background: #B7D9CF; }
+    .footer-name { font-family: var(--font-display); font-weight: 700; letter-spacing: 0.16em; font-size: 1.1rem; margin-top: 0.4rem; }
+    .footer-tag { color: #AEB6C2; font-size: 0.84rem; }
+    .footer-meta { color: #AEB6C2; font-size: 0.82rem; line-height: 1.9; }
+    @media (min-width: 720px) { .footer-meta { text-align: right; } }
+    .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; display: flex; flex-wrap: wrap; gap: 0.8rem 1.6rem; align-items: center; justify-content: space-between; }
+    .footer-base small { color: var(--slate-mute); letter-spacing: 0.06em; }
+    .footer-contact-link { font-size: 0.78rem; color: #AEB6C2; border-bottom: 1px solid transparent; transition: color .2s ease, border-color .2s ease; }
+    .footer-contact-link:hover { color: #B7D9CF; border-bottom-color: #B7D9CF; }
+  </style>
+</Layout>
