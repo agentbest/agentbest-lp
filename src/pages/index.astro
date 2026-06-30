@@ -1,0 +1,602 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+
+const domains = [
+  { en: 'IT', jp: 'ソフトウェア・インフラ・SI' },
+  { en: 'SaaS', jp: '事業会社・スタートアップ' },
+  { en: 'M&A', jp: 'アドバイザリー・仲介' },
+  { en: 'Consulting', jp: '戦略・IT・業務コンサル' },
+];
+
+const companies = [
+  'SaaS・自社プロダクト企業',
+  'スタートアップ／メガベンチャー',
+  'コンサルティングファーム',
+  'SIer・ITサービス',
+  'M&A・アドバイザリー',
+];
+
+const positions = [
+  'プロダクトマネージャー（PdM／PM）',
+  'ソフトウェアエンジニア',
+  'インフラ／SRE／プラットフォーム',
+  'ITコンサルタント',
+  '事業開発／セールス（SaaS）',
+];
+
+const strengths = [
+  {
+    no: '01',
+    title: '領域を、絞る。',
+    body: '広く扱うほど、一社一社への理解は薄くなります。エージェントベストは専門領域を絞り込むことで、企業の中身を深く理解し、提案の精度を高めています。',
+  },
+  {
+    no: '02',
+    title: '一人が、一貫して。',
+    body: '入口のご相談から、求人提案、選考、意思決定まで。担当が途中で変わることはありません。あなたの判断材料を最もよく知る一人が、最後まで伴走します。',
+  },
+  {
+    no: '03',
+    title: 'ミドル・ハイクラスに、専念する。',
+    body: '年収600〜1,200万円帯のキャリア判断に必要なのは、求人の量ではなく、確かな選択肢です。意思決定に足る情報と提案だけをお渡しします。',
+  },
+];
+
+/* === 転職支援事例：以下はサンプルです。実際の匿名化事例に差し替えてください === */
+const cases = [
+  { age: '30代', from: '大手SIer', to: 'SaaSスタートアップ', role: 'エンジニア → テックリード', salary: '750万', up: '＋150万' },
+  { age: '30代', from: '事業会社（企画）', to: 'SaaS企業', role: '企画 → プロダクトマネージャー', salary: '800万', up: '＋200万' },
+  { age: '40代', from: 'コンサルファーム', to: 'M&Aアドバイザリー', role: 'マネージャー → ディレクター', salary: '1,100万', up: '＋200万' },
+  { age: '20代', from: '受託開発', to: '自社プロダクト企業', role: 'エンジニア → エンジニア', salary: '600万', up: '＋120万' },
+];
+
+const process = [
+  { no: '01', title: 'ご相談・キャリア整理', body: '現状と志向を伺い、市場のなかでの立ち位置と選択肢を一緒に整理します。' },
+  { no: '02', title: '領域を絞った求人提案', body: '専門領域の理解にもとづき、合致度の高い求人だけを厳選してご提案します。' },
+  { no: '03', title: '応募・選考の伴走', body: '推薦・日程調整・面接対策・条件交渉まで、選考の各段階を支援します。' },
+  { no: '04', title: '意思決定・入社後フォロー', body: '複数オファーの比較から入社後の立ち上がりまで、判断を伴走します。' },
+];
+
+const company = [
+  { k: '会社名', v: '株式会社エージェントベスト' },
+  { k: '代表者', v: '代表取締役　松岡 良次' },
+  { k: '所在地', v: '東京都港区六本木4-8-7　嶋田ビル5階' },
+  { k: '事業内容', v: '有料職業紹介事業／採用支援（RPO）' },
+  { k: '許可番号', v: '13-ユ-316964' },
+];
+---
+
+<Layout>
+  <a id="top"></a>
+  <Header />
+
+  <main>
+    <!-- ============ HERO ============ -->
+    <section class="hero">
+      <span class="hero-vlabel vertical" aria-hidden="true">Middle &amp; High-Class Career</span>
+      <div class="wrap hero-grid">
+        <div class="hero-lede">
+          <span class="eyebrow">Recruiting Agency</span>
+          <h1 class="hero-title">
+            領域を絞った、<br />確かな提案。
+          </h1>
+          <p class="hero-sub">ミドル・ハイクラスのための転職エージェント。</p>
+          <p class="hero-body">
+            IT・SaaS・M&amp;A・コンサル。<br />
+            扱う領域を絞り込むからこそ、一社一社を深く理解し、
+            あなたのキャリアに本当に合う選択肢だけをお渡しします。
+          </p>
+          <div class="hero-actions">
+            <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn">
+              転職相談をはじめる <span class="arrow" aria-hidden="true">→</span>
+            </a>
+            <a href="#domains" class="btn btn--ghost">専門領域を見る</a>
+          </div>
+        </div>
+
+        <aside class="hero-index" aria-label="専門領域">
+          <span class="hero-index-label">Focused on</span>
+          <ul>
+            {domains.map((d) => (<li><span class="idx-en">{d.en}</span></li>))}
+          </ul>
+          <div class="hero-index-rule" aria-hidden="true"></div>
+          <span class="hero-index-foot">4 領域に専念</span>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ VISION（縦書きシグネチャー） ============ -->
+    <section class="vision" aria-labelledby="vision-h">
+      <div class="wrap vision-grid">
+        <div class="vision-side" aria-hidden="true">
+          <span class="vision-vlabel vertical">VISION</span>
+        </div>
+        <div class="vision-body reveal">
+          <h2 id="vision-h" class="vision-text">
+            最適な一社は、<br />
+            選択肢の多さの先にはない。
+          </h2>
+          <p class="vision-lead">
+            キャリアの岐路で本当に必要なのは、求人の数ではなく、
+            深く理解されたうえでの、確かな提案です。
+          </p>
+          <p class="vision-lead">
+            だから私たちは、領域を絞ります。扱う世界を狭くするほど、
+            一社の解像度は上がり、差し出せる提案は確かになる。
+          </p>
+          <p class="vision-sign">
+            転職は、人生の意思決定。<br />
+            その重みに見合う精度で、向き合います。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ DOMAINS ============ -->
+    <section id="domains" class="section domains spine">
+      <div class="wrap">
+        <header class="sec-head reveal">
+          <span class="eyebrow">Domains</span>
+          <h2>専門領域</h2>
+          <p class="sec-desc">
+            すべての業界を扱うことはしません。深く理解できる領域に、専念しています。
+          </p>
+        </header>
+        <ul class="domain-grid reveal">
+          {domains.map((d, i) => (
+            <li class="domain-card">
+              <span class="domain-no">{String(i + 1).padStart(2, '0')}</span>
+              <span class="domain-en">{d.en}</span>
+              <span class="domain-jp">{d.jp}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============ COVERAGE 取扱領域 ============ -->
+    <section class="section coverage">
+      <div class="wrap coverage-grid">
+        <header class="sec-head reveal">
+          <span class="eyebrow">Coverage</span>
+          <h2>取扱領域</h2>
+          <p class="sec-desc">専門領域のなかで、こうした企業・ポジションをお取り扱いしています。</p>
+        </header>
+        <div class="coverage-cols reveal" data-delay="1">
+          <div class="coverage-col">
+            <h3 class="coverage-h">対象企業</h3>
+            <ul class="coverage-list">
+              {companies.map((c) => (<li>{c}</li>))}
+            </ul>
+          </div>
+          <div class="coverage-col">
+            <h3 class="coverage-h">取扱ポジション</h3>
+            <ul class="coverage-list">
+              {positions.map((p) => (<li>{p}</li>))}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ AUDIENCE ============ -->
+    <section id="audience" class="section audience">
+      <div class="wrap audience-grid">
+        <div class="audience-head reveal">
+          <span class="eyebrow">For</span>
+          <h2>対象となる方</h2>
+        </div>
+        <div class="audience-body reveal" data-delay="1">
+          <p class="audience-headline">専門領域で実績を積んだ、<br />ミドル・ハイクラス層へ。</p>
+          <p class="audience-lead">これまでの経験を、次の意思決定にどう活かすか。一段上のキャリアを見据える方の伴走者でありたいと考えています。</p>
+          <ul class="audience-list">
+            <li>専門領域でキャリアを積み、次の一手を見極めたい方</li>
+            <li>求人の多さより、提案の確かさを求める方</li>
+            <li>意思決定まで、一貫して相談できる相手を探している方</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ STRENGTHS ============ -->
+    <section id="strengths" class="section strengths spine">
+      <div class="wrap">
+        <header class="sec-head reveal">
+          <span class="eyebrow">Why Agent Best</span>
+          <h2>選ばれる理由</h2>
+        </header>
+        <div class="strength-rows">
+          {strengths.map((s) => (
+            <article class="strength-row reveal">
+              <span class="strength-no">{s.no}</span>
+              <div class="strength-text">
+                <h3>{s.title}</h3>
+                <p>{s.body}</p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ CASES 転職支援事例（※サンプル。実データに差し替え） ============ -->
+    <section class="section cases">
+      <div class="wrap">
+        <header class="sec-head sec-head--center reveal">
+          <span class="eyebrow">Cases</span>
+          <h2>転職支援事例</h2>
+          <p class="sec-desc">領域を絞った提案が、確かな意思決定につながった例です。</p>
+        </header>
+        <ul class="case-grid">
+          {cases.map((c) => (
+            <li class="case-card reveal">
+              <span class="case-age">{c.age}</span>
+              <div class="case-move">
+                <span class="case-from">{c.from}</span>
+                <span class="case-arrow" aria-hidden="true">→</span>
+                <span class="case-to">{c.to}</span>
+              </div>
+              <p class="case-role">{c.role}</p>
+              <div class="case-salary">
+                <span class="case-sal-num">{c.salary}</span>
+                <span class="case-sal-up">{c.up}</span>
+              </div>
+            </li>
+          ))}
+        </ul>
+        <p class="case-note">※ 掲載事例は個人が特定されないよう一部を加工しています。</p>
+      </div>
+    </section>
+
+    <!-- ============ PROCESS ============ -->
+    <section id="process" class="section process">
+      <div class="wrap">
+        <header class="sec-head sec-head--center reveal">
+          <span class="eyebrow">Process</span>
+          <h2>支援の流れ</h2>
+          <p class="sec-desc">ご相談から入社後まで、ひとつながりで伴走します。</p>
+        </header>
+        <ol class="process-track reveal">
+          {process.map((p) => (
+            <li class="process-step">
+              <span class="process-no">{p.no}</span>
+              <h3>{p.title}</h3>
+              <p>{p.body}</p>
+            </li>
+          ))}
+        </ol>
+      </div>
+    </section>
+
+    <!-- ============ CTA ============ -->
+    <section id="contact" class="cta">
+      <div class="wrap cta-inner reveal">
+        <span class="eyebrow eyebrow--on-dark">Contact</span>
+        <h2 class="cta-title">確かな一社を、一緒に。</h2>
+        <p class="cta-body">
+          まずはお気軽にご相談ください。現職中・情報収集の段階でも構いません。<br />
+          キャリアの選択肢を、領域のプロと一緒に整理しましょう。
+        </p>
+        <div class="cta-actions">
+          <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn btn--on-dark">
+            相談の日程を調整する <span class="arrow" aria-hidden="true">→</span>
+          </a>
+        </div>
+        <p class="cta-note">オンラインで30分ほど。現職中でも、情報収集の段階でもお気軽に。</p>
+      </div>
+    </section>
+
+    <!-- ============ COMPANY ============ -->
+    <section id="company" class="section company spine">
+      <div class="wrap company-grid">
+        <header class="sec-head reveal">
+          <span class="eyebrow">Company</span>
+          <h2>会社概要</h2>
+        </header>
+        <dl class="company-table reveal" data-delay="1">
+          {company.map((row) => (
+            <div class="company-row">
+              <dt>{row.k}</dt>
+              <dd>{row.v}</dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div class="footer-brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="footer-name">AGENT&nbsp;BEST</span>
+        <p class="footer-tag">ミドル・ハイクラスのための転職エージェント</p>
+      </div>
+      <p class="footer-meta">
+        株式会社エージェントベスト　許可番号 13-ユ-316964<br />
+        東京都港区六本木4-8-7　嶋田ビル5階
+      </p>
+    </div>
+    <div class="wrap footer-base">
+      <small>© {new Date().getFullYear()} Agent Best Inc.</small>
+    </div>
+  </footer>
+
+  <script>
+    const els = document.querySelectorAll('.reveal');
+    const mq = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (mq.matches || !('IntersectionObserver' in window)) {
+      els.forEach((el) => el.classList.add('is-in'));
+    } else {
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); }
+        });
+      }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+      els.forEach((el) => io.observe(el));
+    }
+  </script>
+
+  <style>
+    /* ---------- HERO ---------- */
+    .hero {
+      position: relative;
+      padding-block: clamp(64px, 10vw, 132px);
+      border-bottom: 1px solid var(--hairline);
+      overflow: hidden;
+    }
+    .hero-vlabel {
+      position: absolute;
+      top: clamp(40px, 8vw, 96px);
+      right: clamp(10px, 2vw, 28px);
+      font-size: 0.66rem;
+      letter-spacing: 0.34em;
+      color: var(--slate-mute);
+      text-transform: uppercase;
+      opacity: .7;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: clamp(48px, 6vw, 80px);
+    }
+    @media (min-width: 900px) {
+      .hero-grid { grid-template-columns: minmax(0, 1.55fr) minmax(0, 0.85fr); align-items: end; }
+    }
+    .hero-title {
+      font-size: clamp(2.7rem, 7vw, 4.8rem);
+      font-weight: 700;
+      line-height: 1.3;
+      letter-spacing: 0.04em;
+      margin-top: 1.3rem;
+    }
+    .hero-sub {
+      font-family: var(--font-display);
+      font-size: clamp(1.05rem, 2.4vw, 1.4rem);
+      color: var(--teal);
+      margin-top: 1.5rem;
+      letter-spacing: 0.06em;
+    }
+    .hero-body {
+      color: var(--slate);
+      margin-top: 1.9rem;
+      max-width: 34em;
+      font-size: 0.98rem;
+    }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 2.8rem; }
+
+    .hero-index { border-left: 1px solid var(--hairline); padding-left: clamp(20px, 3vw, 36px); }
+    .hero-index-label {
+      font-size: 0.7rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--slate-mute);
+    }
+    .hero-index ul { list-style: none; margin: 1.1rem 0 0; padding: 0; }
+    .hero-index li { padding-block: 0.46rem; }
+    .idx-en {
+      font-family: var(--font-display); font-weight: 600; font-size: 1.18rem;
+      letter-spacing: 0.05em; color: var(--ink);
+    }
+    .hero-index-rule { height: 1px; background: linear-gradient(to right, var(--teal), transparent); margin-top: 1rem; }
+    .hero-index-foot { display: block; margin-top: 0.8rem; font-size: 0.8rem; color: var(--teal); letter-spacing: 0.08em; }
+
+    /* ---------- VISION ---------- */
+    .vision {
+      background: var(--ink);
+      color: var(--paper);
+      padding-block: clamp(84px, 13vw, 168px);
+    }
+    .vision-grid {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: clamp(28px, 6vw, 80px);
+      align-items: start;
+    }
+    .vision-side { display: flex; justify-content: center; padding-top: 0.4rem; }
+    .vision-vlabel {
+      font-family: var(--font-display);
+      font-weight: 500;
+      font-size: clamp(1rem, 2vw, 1.3rem);
+      letter-spacing: 0.5em;
+      color: #B7D9CF;
+    }
+    .vision-text {
+      font-family: var(--font-display);
+      font-weight: 500;
+      font-size: clamp(1.7rem, 4.6vw, 3.2rem);
+      line-height: 1.7;
+      letter-spacing: 0.04em;
+    }
+    .vision-lead {
+      color: #C7CCD4;
+      margin-top: clamp(1.6rem, 3vw, 2.4rem);
+      max-width: 38em;
+      line-height: 2.1;
+      font-weight: 300;
+    }
+    .vision-lead + .vision-lead { margin-top: 1.1rem; }
+    .vision-sign {
+      font-family: var(--font-display);
+      color: #B7D9CF;
+      margin-top: clamp(2rem, 4vw, 3rem);
+      font-size: clamp(1.05rem, 2vw, 1.35rem);
+      line-height: 1.9;
+      letter-spacing: 0.04em;
+    }
+
+    /* ---------- shared section head ---------- */
+    .sec-head { margin-bottom: clamp(40px, 6vw, 72px); }
+    .sec-head h2 { font-size: clamp(1.7rem, 4vw, 2.5rem); margin-top: 1rem; letter-spacing: 0.04em; }
+    .sec-desc { color: var(--slate); margin-top: 1rem; max-width: 36em; }
+    .sec-head--center { text-align: center; }
+    .sec-head--center .eyebrow { justify-content: center; }
+    .sec-head--center .sec-desc { margin-inline: auto; }
+
+    /* ---------- DOMAINS ---------- */
+    .domain-grid {
+      list-style: none; margin: 0; padding: 0; display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      border-top: 1px solid var(--hairline); border-left: 1px solid var(--hairline);
+    }
+    @media (min-width: 600px) { .domain-grid { grid-template-columns: repeat(2, 1fr); } }
+    .domain-card {
+      position: relative;
+      padding: clamp(26px, 3vw, 40px) clamp(22px, 2.4vw, 32px) clamp(30px, 3.4vw, 46px);
+      border-right: 1px solid var(--hairline); border-bottom: 1px solid var(--hairline);
+      transition: background .4s ease; overflow: hidden;
+    }
+    .domain-card::after {
+      content: ""; position: absolute; left: 0; bottom: 0; width: 100%; height: 2px;
+      background: var(--teal); transform: scaleX(0); transform-origin: left; transition: transform .4s ease;
+    }
+    .domain-card:hover { background: var(--paper-deep); }
+    .domain-card:hover::after { transform: scaleX(1); }
+    .domain-no { font-size: 0.72rem; letter-spacing: 0.16em; color: var(--slate-mute); }
+    .domain-en {
+      display: block; font-family: var(--font-display); font-weight: 700;
+      font-size: clamp(1.5rem, 3vw, 2rem); margin-top: 1.4rem; letter-spacing: 0.03em;
+    }
+    .domain-jp { display: block; margin-top: 0.7rem; color: var(--slate); font-size: 0.88rem; }
+
+    /* ---------- COVERAGE ---------- */
+    .coverage { background: var(--paper-deep); }
+    .coverage-cols { display: grid; gap: clamp(36px, 5vw, 72px); }
+    @media (min-width: 760px) { .coverage-cols { grid-template-columns: 1fr 1fr; } }
+    .coverage-h {
+      font-family: var(--font-display); font-size: 1.15rem; letter-spacing: 0.06em;
+      padding-bottom: 1rem; border-bottom: 1px solid var(--hairline);
+    }
+    .coverage-list { list-style: none; margin: 1.2rem 0 0; padding: 0; }
+    .coverage-list li {
+      position: relative; padding: 0.8rem 0 0.8rem 1.5em; color: var(--slate);
+      border-bottom: 1px solid var(--hairline);
+    }
+    .coverage-list li::before {
+      content: ""; position: absolute; left: 0; top: 1.35rem; width: 7px; height: 7px;
+      border: 1.5px solid var(--teal); transform: rotate(45deg);
+    }
+
+    /* ---------- AUDIENCE ---------- */
+    .audience-grid { display: grid; gap: clamp(36px, 5vw, 64px); }
+    @media (min-width: 860px) { .audience-grid { grid-template-columns: 0.7fr 1.3fr; align-items: start; } }
+    .audience-headline {
+      font-family: var(--font-display);
+      font-weight: 600;
+      font-size: clamp(1.5rem, 3.6vw, 2.3rem);
+      line-height: 1.7;
+      letter-spacing: 0.04em;
+      color: var(--ink);
+    }
+    .audience-lead { color: var(--slate); font-size: 0.98rem; margin-top: 1.4rem; max-width: 32em; line-height: 1.95; }
+    .audience-list { list-style: none; margin: 1.8rem 0 0; padding: 0; }
+    .audience-list li { position: relative; padding: 0.9rem 0 0.9rem 1.6em; border-top: 1px solid var(--hairline); color: var(--slate); }
+    .audience-list li::before {
+      content: ""; position: absolute; left: 0; top: 1.45rem; width: 8px; height: 8px;
+      border: 1.5px solid var(--teal); transform: rotate(45deg);
+    }
+
+    /* ---------- STRENGTHS ---------- */
+    .strength-rows { display: grid; gap: 0; }
+    .strength-row {
+      display: grid; grid-template-columns: auto 1fr; gap: clamp(20px, 4vw, 56px);
+      padding-block: clamp(32px, 4vw, 52px); border-top: 1px solid var(--hairline); align-items: start;
+    }
+    .strength-row:last-child { border-bottom: 1px solid var(--hairline); }
+    .strength-no { font-family: var(--font-display); font-size: clamp(1.1rem, 2vw, 1.4rem); color: var(--teal); letter-spacing: 0.08em; padding-top: 0.2em; }
+    .strength-text h3 { font-size: clamp(1.3rem, 2.6vw, 1.7rem); letter-spacing: 0.04em; }
+    .strength-text p { margin-top: 1rem; color: var(--slate); max-width: 40em; }
+
+    /* ---------- CASES ---------- */
+    .cases { background: var(--paper-deep); }
+    .case-grid {
+      list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(16px, 2vw, 22px);
+      grid-template-columns: 1fr;
+    }
+    @media (min-width: 680px) { .case-grid { grid-template-columns: 1fr 1fr; } }
+    .case-card {
+      background: var(--paper); border: 1px solid var(--hairline);
+      padding: clamp(24px, 3vw, 34px); display: flex; flex-direction: column; gap: 0.9rem;
+      transition: border-color .35s ease, transform .35s ease;
+    }
+    .case-card:hover { border-color: var(--teal); transform: translateY(-2px); }
+    .case-age {
+      align-self: flex-start; font-size: 0.74rem; letter-spacing: 0.12em; color: var(--teal);
+      border: 1px solid var(--teal); border-radius: 999px; padding: 0.2em 0.9em;
+    }
+    .case-move { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5em; font-family: var(--font-display); font-size: clamp(1.05rem, 2.2vw, 1.3rem); letter-spacing: 0.02em; }
+    .case-arrow { color: var(--teal); }
+    .case-to { color: var(--ink); }
+    .case-from { color: var(--slate); }
+    .case-role { color: var(--slate); font-size: 0.86rem; }
+    .case-salary { display: flex; align-items: baseline; gap: 0.8em; margin-top: auto; padding-top: 0.8rem; border-top: 1px solid var(--hairline); }
+    .case-sal-num { font-family: var(--font-display); font-weight: 700; font-size: 1.5rem; }
+    .case-sal-up { color: var(--teal); font-weight: 700; font-size: 0.95rem; letter-spacing: 0.04em; }
+    .case-note { margin-top: clamp(24px, 3vw, 36px); font-size: 0.76rem; color: var(--slate-mute); text-align: center; }
+
+    /* ---------- PROCESS ---------- */
+    .process-track {
+      list-style: none; margin: 0; padding: 0; display: grid; gap: 1px;
+      grid-template-columns: 1fr; background: var(--hairline); border: 1px solid var(--hairline);
+    }
+    @media (min-width: 720px) { .process-track { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 1000px) { .process-track { grid-template-columns: repeat(4, 1fr); } }
+    .process-step { background: var(--paper); padding: clamp(26px, 3vw, 38px) clamp(22px, 2.4vw, 30px) clamp(34px, 4vw, 50px); }
+    .process-no { font-family: var(--font-display); font-weight: 700; font-size: 1.5rem; color: var(--teal); }
+    .process-step h3 { font-size: 1.08rem; margin-top: 1.2rem; line-height: 1.5; letter-spacing: 0.03em; }
+    .process-step p { margin-top: 0.9rem; color: var(--slate); font-size: 0.88rem; }
+
+    /* ---------- CTA ---------- */
+    .cta { background: var(--ink); color: var(--paper); padding-block: clamp(80px, 12vw, 140px); }
+    .eyebrow--on-dark { color: #B7D9CF; }
+    .eyebrow--on-dark::before { background: #B7D9CF; }
+    .cta-inner { text-align: center; }
+    .cta-title { font-size: clamp(2rem, 5vw, 3.3rem); margin-top: 1.2rem; letter-spacing: 0.05em; }
+    .cta-body { color: #C7CCD4; margin-top: 1.7rem; max-width: 38em; margin-inline: auto; line-height: 2; }
+    .cta-actions { margin-top: 2.8rem; }
+    .cta-note { margin-top: 1.8rem; font-size: 0.74rem; color: var(--slate-mute); }
+
+    /* ---------- COMPANY ---------- */
+    .company-grid { display: grid; gap: clamp(36px, 5vw, 64px); }
+    @media (min-width: 860px) { .company-grid { grid-template-columns: 0.6fr 1.4fr; align-items: start; } }
+    .company-table { margin: 0; }
+    .company-row { display: grid; grid-template-columns: 1fr; gap: 0.2rem; padding-block: 1.1rem; border-top: 1px solid var(--hairline); }
+    @media (min-width: 560px) { .company-row { grid-template-columns: 9rem 1fr; gap: 1.5rem; } }
+    .company-row:last-child { border-bottom: 1px solid var(--hairline); }
+    .company-row dt { font-size: 0.84rem; font-weight: 700; color: var(--slate); letter-spacing: 0.04em; }
+    .company-row dd { margin: 0; color: var(--ink); font-size: 0.95rem; }
+
+    /* ---------- FOOTER ---------- */
+    .site-footer { background: var(--ink); color: var(--paper); padding-top: clamp(48px, 7vw, 80px); border-top: 1px solid var(--hairline-on-dark); }
+    .footer-inner { display: grid; gap: clamp(28px, 5vw, 48px); padding-bottom: clamp(40px, 6vw, 64px); }
+    @media (min-width: 720px) { .footer-inner { grid-template-columns: 1fr 1fr; align-items: end; } }
+    .footer-brand { display: flex; flex-direction: column; gap: 0.4rem; }
+    .footer-brand .brand-mark { width: 14px; height: 14px; border: 1.5px solid #B7D9CF; position: relative; }
+    .footer-brand .brand-mark::after { content: ""; position: absolute; inset: 3px; background: #B7D9CF; }
+    .footer-name { font-family: var(--font-display); font-weight: 700; letter-spacing: 0.16em; font-size: 1.1rem; margin-top: 0.4rem; }
+    .footer-tag { color: #AEB6C2; font-size: 0.84rem; }
+    .footer-meta { color: #AEB6C2; font-size: 0.82rem; line-height: 1.9; }
+    @media (min-width: 720px) { .footer-meta { text-align: right; } }
+    .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; }
+    .footer-base small { color: var(--slate-mute); letter-spacing: 0.06em; }
+  </style>
+</Layout>

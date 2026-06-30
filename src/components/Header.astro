@@ -1,0 +1,100 @@
+---
+const nav = [
+  { label: '専門領域', href: '#domains' },
+  { label: '対象となる方', href: '#audience' },
+  { label: '選ばれる理由', href: '#strengths' },
+  { label: '支援の流れ', href: '#process' },
+  { label: '会社概要', href: '#company' },
+];
+---
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a href="#top" class="brand" aria-label="株式会社エージェントベスト">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-name">AGENT&nbsp;BEST</span>
+    </a>
+
+    <nav class="nav" aria-label="メインナビゲーション">
+      {nav.map((item) => <a href={item.href}>{item.label}</a>)}
+    </nav>
+
+    <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn header-cta">
+      ご相談はこちら
+      <span class="arrow" aria-hidden="true">→</span>
+    </a>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter: saturate(140%) blur(10px);
+    border-bottom: 1px solid var(--hairline);
+  }
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 72px;
+  }
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65em;
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    font-size: 0.98rem;
+  }
+  .brand-mark {
+    width: 12px;
+    height: 12px;
+    border: 1.5px solid var(--teal);
+    position: relative;
+  }
+  .brand-mark::after {
+    content: "";
+    position: absolute;
+    inset: 3px;
+    background: var(--teal);
+  }
+  .nav {
+    display: flex;
+    gap: clamp(16px, 2.4vw, 34px);
+    font-size: 0.86rem;
+    font-weight: 500;
+    color: var(--slate);
+  }
+  .nav a {
+    position: relative;
+    padding-block: 4px;
+    transition: color .2s ease;
+  }
+  .nav a::after {
+    content: "";
+    position: absolute;
+    left: 0; bottom: 0;
+    width: 0; height: 1px;
+    background: var(--teal);
+    transition: width .25s ease;
+  }
+  .nav a:hover { color: var(--ink); }
+  .nav a:hover::after { width: 100%; }
+
+  .header-cta {
+    padding: 0.6em 1.2em;
+    font-size: 0.82rem;
+  }
+
+  @media (max-width: 880px) {
+    .nav { display: none; }
+  }
+  @media (max-width: 520px) {
+    .header-cta .arrow { display: none; }
+    .header-cta { padding: 0.6em 1em; }
+  }
+</style>
