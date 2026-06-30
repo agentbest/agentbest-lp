@@ -284,6 +284,7 @@ const company = [
           </a>
         </div>
         <p class="cta-note">オンラインで30分ほど。現職中でも、情報収集の段階でもお気軽に。</p>
+        <p class="cta-sub">採用・サービスに関する企業の方は <a href="/contact">お問い合わせフォーム</a> から。</p>
       </div>
     </section>
 
@@ -321,6 +322,7 @@ const company = [
     </div>
     <div class="wrap footer-base">
       <small>© {new Date().getFullYear()} Agent Best Inc.</small>
+      <a href="/contact" class="footer-contact-link">採用ご担当者さまはこちら</a>
     </div>
   </footer>
 
@@ -596,7 +598,9 @@ const company = [
     .footer-tag { color: #AEB6C2; font-size: 0.84rem; }
     .footer-meta { color: #AEB6C2; font-size: 0.82rem; line-height: 1.9; }
     @media (min-width: 720px) { .footer-meta { text-align: right; } }
-    .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; }
+    .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; display: flex; flex-wrap: wrap; gap: 0.8rem 1.6rem; align-items: center; justify-content: space-between; }
     .footer-base small { color: var(--slate-mute); letter-spacing: 0.06em; }
+    .footer-contact-link { font-size: 0.78rem; color: #AEB6C2; border-bottom: 1px solid transparent; transition: color .2s ease, border-color .2s ease; }
+    .footer-contact-link:hover { color: #B7D9CF; border-bottom-color: #B7D9CF; }
   </style>
 </Layout>

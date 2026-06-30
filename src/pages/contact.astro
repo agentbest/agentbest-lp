@@ -1,0 +1,283 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+
+// Googleフォーム送信設定（formResponse エンドポイントに送信）
+const FORM_ACTION =
+  'https://docs.google.com/forms/d/e/1FAIpQLSd8Zk9Rxsg292K8R_ttnRYa5d4uXMBkSFrnlEVTFts6feRx6g/formResponse';
+const ENTRY = {
+  company: 'entry.1620407772',
+  name: 'entry.2140471957',
+  email: 'entry.417521654',
+  message: 'entry.1952858857',
+};
+---
+
+<Layout
+  title="お問い合わせ｜株式会社エージェントベスト"
+  description="株式会社エージェントベストへのお問い合わせはこちら。採用のご相談、サービスに関するお問い合わせを承ります。"
+>
+  <Header />
+
+  <main>
+    <section class="contact">
+      <div class="wrap contact-grid">
+        <!-- 左：見出し -->
+        <header class="contact-head">
+          <span class="eyebrow">For Companies</span>
+          <h1>お問い合わせ</h1>
+          <p class="contact-lead">
+            採用ご担当者さま向けの窓口です。人材採用のご相談、サービスに関する
+            お問い合わせを承ります。内容を確認のうえ、担当者よりご連絡いたします。
+          </p>
+          <p class="contact-alt">
+            転職をお考えの方は、
+            <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener">こちらから面談予約</a>
+            をご利用ください。
+          </p>
+        </header>
+
+        <!-- 右：フォーム -->
+        <div class="contact-form-wrap">
+          <form id="contact-form" novalidate
+            data-action={FORM_ACTION}
+            data-company={ENTRY.company}
+            data-name={ENTRY.name}
+            data-email={ENTRY.email}
+            data-message={ENTRY.message}
+          >
+            <div class="field">
+              <label for="company">会社名 <span class="req">必須</span></label>
+              <input type="text" id="company" name="company" required autocomplete="organization" />
+            </div>
+
+            <div class="field">
+              <label for="name">お名前 <span class="req">必須</span></label>
+              <input type="text" id="name" name="name" required autocomplete="name" />
+            </div>
+
+            <div class="field">
+              <label for="email">メールアドレス <span class="req">必須</span></label>
+              <input type="email" id="email" name="email" required autocomplete="email" />
+            </div>
+
+            <div class="field">
+              <label for="message">お問い合わせ内容 <span class="req">必須</span></label>
+              <textarea id="message" name="message" rows="6" required></textarea>
+            </div>
+
+            <p class="form-error" id="form-error" role="alert"></p>
+
+            <button type="submit" class="btn submit-btn" id="submit-btn">
+              送信する <span class="arrow" aria-hidden="true">→</span>
+            </button>
+            <p class="privacy-note">
+              送信いただいた情報は、お問い合わせ対応の目的にのみ利用いたします。
+            </p>
+          </form>
+
+          <!-- 送信完了 -->
+          <div class="thanks" id="thanks" hidden>
+            <span class="thanks-mark" aria-hidden="true"></span>
+            <h2>送信しました</h2>
+            <p>
+              お問い合わせありがとうございます。<br />
+              内容を確認のうえ、担当者よりご連絡いたします。
+            </p>
+            <a href="/" class="btn btn--ghost">トップへ戻る</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div class="footer-brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="footer-name">AGENT&nbsp;BEST</span>
+        <p class="footer-tag">ミドル・ハイクラスのための転職エージェント</p>
+      </div>
+      <p class="footer-meta">
+        株式会社エージェントベスト　許可番号 13-ユ-316964<br />
+        東京都港区六本木4-8-7　嶋田ビル5階
+      </p>
+    </div>
+    <div class="wrap footer-base">
+      <small>© {new Date().getFullYear()} Agent Best Inc.</small>
+    </div>
+  </footer>
+
+  <script>
+    const form = document.getElementById('contact-form') as HTMLFormElement | null;
+    const thanks = document.getElementById('thanks');
+    const errBox = document.getElementById('form-error');
+    const submitBtn = document.getElementById('submit-btn') as HTMLButtonElement | null;
+
+    if (form && thanks && errBox && submitBtn) {
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        errBox.textContent = '';
+
+        const get = (id: string) =>
+          (document.getElementById(id) as HTMLInputElement | HTMLTextAreaElement).value.trim();
+        const company = get('company');
+        const name = get('name');
+        const email = get('email');
+        const message = get('message');
+
+        if (!company || !name || !email || !message) {
+          errBox.textContent = 'すべての項目をご入力ください。';
+          return;
+        }
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+          errBox.textContent = 'メールアドレスの形式をご確認ください。';
+          return;
+        }
+
+        submitBtn.disabled = true;
+        submitBtn.textContent = '送信中...';
+
+        const data = new FormData();
+        data.append(form.dataset.company!, company);
+        data.append(form.dataset.name!, name);
+        data.append(form.dataset.email!, email);
+        data.append(form.dataset.message!, message);
+
+        try {
+          // GoogleフォームはCORSを返さないため no-cors で送信（結果は読めないが送信は成立）
+          await fetch(form.dataset.action!, {
+            method: 'POST',
+            mode: 'no-cors',
+            body: data,
+          });
+          form.hidden = true;
+          thanks.hidden = false;
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        } catch (err) {
+          submitBtn.disabled = false;
+          submitBtn.textContent = '送信する';
+          errBox.textContent =
+            '送信に失敗しました。お手数ですが、時間をおいて再度お試しください。';
+        }
+      });
+    }
+  </script>
+
+  <style>
+    .contact { padding-block: clamp(64px, 10vw, 130px); }
+    .contact-grid {
+      display: grid;
+      gap: clamp(40px, 6vw, 80px);
+      align-items: start;
+    }
+    @media (min-width: 880px) {
+      .contact-grid { grid-template-columns: 0.85fr 1.15fr; }
+    }
+
+    .contact-head h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      margin-top: 1rem;
+      letter-spacing: 0.04em;
+    }
+    .contact-lead {
+      color: var(--slate);
+      margin-top: 1.6rem;
+      line-height: 2;
+      max-width: 30em;
+    }
+    .contact-alt {
+      margin-top: 1.6rem;
+      font-size: 0.9rem;
+      color: var(--slate);
+      padding-top: 1.4rem;
+      border-top: 1px solid var(--hairline);
+    }
+    .contact-alt a { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
+
+    .contact-form-wrap {
+      background: var(--paper-deep);
+      border: 1px solid var(--hairline);
+      padding: clamp(28px, 4vw, 52px);
+      border-radius: 3px;
+    }
+    .field { margin-bottom: 1.5rem; }
+    .field label {
+      display: block;
+      font-size: 0.86rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      margin-bottom: 0.6rem;
+      color: var(--ink);
+    }
+    .req {
+      font-size: 0.66rem;
+      font-weight: 600;
+      color: var(--teal);
+      border: 1px solid var(--teal);
+      border-radius: 999px;
+      padding: 0.1em 0.7em;
+      margin-left: 0.4em;
+      letter-spacing: 0.08em;
+      vertical-align: 1px;
+    }
+    .field input,
+    .field textarea {
+      width: 100%;
+      font-family: var(--font-sans);
+      font-size: 1rem;
+      color: var(--ink);
+      background: var(--paper);
+      border: 1px solid var(--hairline);
+      border-radius: 2px;
+      padding: 0.85em 1em;
+      transition: border-color .2s ease, box-shadow .2s ease;
+    }
+    .field textarea { resize: vertical; line-height: 1.8; }
+    .field input:focus,
+    .field textarea:focus {
+      outline: none;
+      border-color: var(--teal);
+      box-shadow: 0 0 0 3px color-mix(in srgb, var(--teal) 14%, transparent);
+    }
+
+    .form-error {
+      color: #B23B3B;
+      font-size: 0.86rem;
+      min-height: 1.2em;
+      margin-bottom: 0.6rem;
+    }
+    .submit-btn { width: 100%; justify-content: center; font-size: 0.98rem; padding-block: 1.05em; }
+    .submit-btn:disabled { opacity: .6; cursor: default; }
+    .privacy-note { margin-top: 1.2rem; font-size: 0.74rem; color: var(--slate-mute); text-align: center; }
+
+    /* 送信完了 */
+    .thanks { text-align: center; padding-block: clamp(20px, 4vw, 48px); }
+    .thanks-mark {
+      width: 48px; height: 48px; border-radius: 50%;
+      border: 2px solid var(--teal); display: inline-block; position: relative;
+    }
+    .thanks-mark::after {
+      content: ""; position: absolute; left: 16px; top: 9px;
+      width: 12px; height: 22px; border-right: 2px solid var(--teal); border-bottom: 2px solid var(--teal);
+      transform: rotate(40deg);
+    }
+    .thanks h2 { font-size: clamp(1.5rem, 3vw, 2rem); margin-top: 1.4rem; }
+    .thanks p { color: var(--slate); margin-top: 1rem; line-height: 2; }
+    .thanks .btn { margin-top: 2rem; }
+
+    /* ---------- FOOTER（indexと同一） ---------- */
+    .site-footer { background: var(--ink); color: var(--paper); padding-top: clamp(48px, 7vw, 80px); border-top: 1px solid var(--hairline-on-dark); margin-top: clamp(40px, 6vw, 80px); }
+    .footer-inner { display: grid; gap: clamp(28px, 5vw, 48px); padding-bottom: clamp(40px, 6vw, 64px); }
+    @media (min-width: 720px) { .footer-inner { grid-template-columns: 1fr 1fr; align-items: end; } }
+    .footer-brand { display: flex; flex-direction: column; gap: 0.4rem; }
+    .footer-brand .brand-mark { width: 14px; height: 14px; border: 1.5px solid #B7D9CF; position: relative; }
+    .footer-brand .brand-mark::after { content: ""; position: absolute; inset: 3px; background: #B7D9CF; }
+    .footer-name { font-family: var(--font-display); font-weight: 700; letter-spacing: 0.16em; font-size: 1.1rem; margin-top: 0.4rem; }
+    .footer-tag { color: #AEB6C2; font-size: 0.84rem; }
+    .footer-meta { color: #AEB6C2; font-size: 0.82rem; line-height: 1.9; }
+    @media (min-width: 720px) { .footer-meta { text-align: right; } }
+    .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; }
+    .footer-base small { color: var(--slate-mute); letter-spacing: 0.06em; }
+  </style>
+</Layout>

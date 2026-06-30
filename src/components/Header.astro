@@ -1,16 +1,16 @@
 ---
 const nav = [
-  { label: '専門領域', href: '#domains' },
-  { label: '対象となる方', href: '#audience' },
-  { label: '選ばれる理由', href: '#strengths' },
-  { label: '支援の流れ', href: '#process' },
-  { label: '会社概要', href: '#company' },
+  { label: '専門領域', href: '/#domains' },
+  { label: '対象となる方', href: '/#audience' },
+  { label: '選ばれる理由', href: '/#strengths' },
+  { label: '支援の流れ', href: '/#process' },
+  { label: '会社概要', href: '/#company' },
 ];
 ---
 
 <header class="site-header">
   <div class="wrap header-inner">
-    <a href="#top" class="brand" aria-label="株式会社エージェントベスト">
+    <a href="/" class="brand" aria-label="株式会社エージェントベスト">
       <span class="brand-mark" aria-hidden="true"></span>
       <span class="brand-name">AGENT&nbsp;BEST</span>
     </a>
@@ -19,10 +19,13 @@ const nav = [
       {nav.map((item) => <a href={item.href}>{item.label}</a>)}
     </nav>
 
-    <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn header-cta">
-      ご相談はこちら
-      <span class="arrow" aria-hidden="true">→</span>
-    </a>
+    <div class="header-actions">
+      <a href="/contact" class="header-sub-link">採用ご担当者さまはこちら</a>
+      <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn header-cta">
+        ご相談はこちら
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
   </div>
 </header>
 
@@ -85,6 +88,22 @@ const nav = [
   .nav a:hover { color: var(--ink); }
   .nav a:hover::after { width: 100%; }
 
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: clamp(12px, 1.6vw, 22px);
+  }
+  .header-sub-link {
+    font-size: 0.74rem;
+    color: var(--slate-mute);
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+    transition: color .2s ease;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 1px;
+  }
+  .header-sub-link:hover { color: var(--teal); border-bottom-color: var(--teal); }
+
   .header-cta {
     padding: 0.6em 1.2em;
     font-size: 0.82rem;
@@ -92,6 +111,9 @@ const nav = [
 
   @media (max-width: 880px) {
     .nav { display: none; }
+  }
+  @media (max-width: 600px) {
+    .header-sub-link { display: none; }
   }
   @media (max-width: 520px) {
     .header-cta .arrow { display: none; }
