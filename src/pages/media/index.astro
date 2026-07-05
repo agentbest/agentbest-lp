@@ -1,0 +1,92 @@
+---
+// src/pages/media/index.astro
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const posts = await getCollection('media');
+
+// 職種・業界ごとに記事を集計
+const groups = new Map();
+for (const p of posts) {
+  const key = p.data.jobType ?? p.data.industry;
+  if (!groups.has(key)) groups.set(key, { name: key, category: p.data.category, count: 0, slugPrefix: p.slug.replace(/-[a-z0-9-]+$/, '') });
+  groups.get(key).count++;
+}
+// ハブslug（記事slugの共通接頭辞）を求める: 記事slugからテーマ部分を除いた形
+// 職種・業界ごとの代表slugプレフィックスを最初の記事から推定
+const hubOf = new Map();
+for (const p of posts) {
+  const key = p.data.jobType ?? p.data.industry;
+  if (!hubOf.has(key)) hubOf.set(key, []);
+  hubOf.get(key).push(p.slug);
+}
+function commonPrefix(arr) {
+  if (arr.length === 1) return arr[0];
+  let pre = arr[0];
+  for (const s of arr) {
+    while (!s.startsWith(pre)) pre = pre.slice(0, -1);
+  }
+  return pre.replace(/-$/, '');
+}
+const jobGroups = [];
+const industryGroups = [];
+for (const [key, g] of groups) {
+  const hub = commonPrefix(hubOf.get(key));
+  const item = { name: key, count: g.count, hub };
+  if (g.category === '職種') jobGroups.push(item);
+  else industryGroups.push(item);
+}
+jobGroups.sort((a, b) => a.hub.localeCompare(b.hub));
+industryGroups.sort((a, b) => a.hub.localeCompare(b.hub));
+
+const title = 'キャリアメディア｜IT・SaaS・コンサル領域の転職情報';
+const description = 'IT・SaaS・コンサル領域の転職・キャリア情報を職種別・業界別に解説。年収相場・キャリアパス・面接対策まで、実務目線でまとめています。';
+---
+
+<Layout title={title} description={description}>
+  <section class="hub">
+    <h1>キャリアメディア</h1>
+    <p class="hub-lead">
+      IT・SaaS・コンサル領域の転職・キャリア情報を、職種別・業界別に整理しています。気になる職種・業界から記事一覧をご覧ください。
+    </p>
+
+    <h2>職種から探す</h2>
+    <ul class="cat-grid">
+      {jobGroups.map((g) => (
+        <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
+      ))}
+    </ul>
+
+    <h2>業界から探す</h2>
+    <ul class="cat-grid">
+      {industryGroups.map((g) => (
+        <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
+      ))}
+    </ul>
+
+    <aside class="cta">
+      <h2>キャリアの選択肢を、プロと整理しませんか</h2>
+      <p>エージェントベストは、IT・SaaS・コンサル領域に特化した転職エージェントです。</p>
+      <a href="/contact?utm_source=media&utm_medium=top" class="cta-button">無料キャリア面談を予約する</a>
+    </aside>
+  </section>
+</Layout>
+
+<style>
+  .hub { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; line-height: 1.9; color: #24292f; }
+  .hub h1 { font-size: 1.6rem; margin: .4em 0; }
+  .hub h2 { font-size: 1.25rem; margin: 2.2em 0 .8em; padding: .35em .8em; border-left: 5px solid #1c1c2e; background: #f6f8fa; border-radius: 4px; }
+  .hub-lead { color: #454e59; }
+  .cat-grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
+  .cat-grid li a {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: .8em 1em; border: 1px solid #e2e6ea; border-radius: 8px;
+    color: #1c1c2e; text-decoration: none; font-weight: 600; background: #fff;
+  }
+  .cat-grid li a:hover { border-color: #1c1c2e; }
+  .count { font-size: .78rem; color: #6b7684; font-weight: 400; }
+  .cta { margin-top: 3rem; padding: 2rem 1.5rem; border-radius: 12px; background: #1c1c2e; color: #fff; text-align: center; }
+  .cta h2 { background: none; border: none; color: #fff; padding: 0; margin: 0 0 .6em; }
+  .cta p { color: #d5d9e0; }
+  .cta-button { display: inline-block; margin-top: 1rem; padding: .8rem 2.4rem; background: #fff; color: #1c1c2e; border-radius: 8px; text-decoration: none; font-weight: 700; }
+</style>
