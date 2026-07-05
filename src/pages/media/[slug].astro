@@ -1,0 +1,131 @@
+---
+// src/pages/media/[slug].astro
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import AuthorBlock from '../../components/AuthorBlock.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('media');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post, all: posts },
+  }));
+}
+
+const { post, all } = Astro.props;
+const { Content } = await post.render();
+const related = (post.data.related ?? [])
+  .map((s) => all.find((p) => p.slug === s))
+  .filter(Boolean);
+---
+
+<Layout title={post.data.title} description={post.data.description}>
+  <article class="media-article">
+    <p class="breadcrumb">
+      <a href="/media">キャリアメディア</a> / {post.data.theme}
+    </p>
+    {post.data.image && <img class="eyecatch" src={post.data.image} alt="" width="1200" height="630" />}
+    <h1>{post.data.title}</h1>
+    <p class="meta">
+      {post.data.category}：{post.data.jobType ?? post.data.industry}
+      ｜更新日 {post.data.pubDate.toLocaleDateString('ja-JP')}
+    </p>
+    <Content />
+
+    {related.length > 0 && (
+      <div class="related">
+        <strong>関連記事</strong>
+        <ul>
+          {related.map((r) => (
+            <li><a href={`/media/${r.slug}`}>{r.data.title}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <AuthorBlock />
+
+    <aside class="cta">
+      <h2>キャリアの選択肢を、プロと整理しませんか</h2>
+      <p>エージェントベストは、IT・SaaS・コンサル領域に特化した転職エージェントです。20〜30代のキャリア設計を、求人紹介の前段階からサポートします。</p>
+      <a href={`/contact?utm_source=media&utm_medium=article&utm_campaign=${post.slug}`} class="cta-button">無料キャリア面談を予約する</a>
+    </aside>
+  </article>
+</Layout>
+
+
+<style is:global>
+  .media-article {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 32px 20px 64px;
+    line-height: 1.9;
+    color: #24292f;
+    font-size: 16px;
+  }
+  .media-article .breadcrumb { font-size: .85rem; color: #6b7684; margin-bottom: 12px; }
+  .media-article .breadcrumb a { color: #6b7684; }
+  .media-article .eyecatch { width: 100%; height: auto; border-radius: 12px; margin-bottom: 24px; }
+  .media-article h1 { font-size: 1.65rem; line-height: 1.5; margin: 8px 0 8px; }
+  .media-article .meta { font-size: .85rem; color: #6b7684; margin-bottom: 32px; }
+  .media-article h2 {
+    font-size: 1.3rem; margin: 2.5em 0 1em;
+    padding: .4em .8em; border-left: 5px solid #1c1c2e;
+    background: #f6f8fa; border-radius: 4px;
+  }
+  .media-article h3 { font-size: 1.1rem; margin: 2em 0 .8em; color: #1c1c2e; }
+  .media-article p { margin: 1.1em 0; }
+  .media-article table {
+    border-collapse: collapse; width: 100%;
+    font-size: .92rem; margin: 1.5em 0; display: block; overflow-x: auto;
+  }
+  .media-article th, .media-article td { border: 1px solid #d8dee4; padding: 9px 13px; }
+  .media-article th { background: #f6f8fa; white-space: nowrap; }
+  .media-article ul, .media-article ol { padding-left: 1.5em; margin: 1.1em 0; }
+  .media-article li { margin: .4em 0; }
+  .media-article hr { border: none; border-top: 1px solid #e6e9ec; margin: 2.5em 0; }
+  .media-article strong { color: #1c1c2e; }
+  .media-article .related {
+    margin-top: 3rem; padding: 1.2rem 1.4rem;
+    background: #f6f8fa; border-radius: 10px; font-size: .95rem;
+  }
+  .media-article .related ul { margin: .6em 0 0; }
+  .media-article .cta {
+    margin-top: 2rem; padding: 2rem 1.5rem; border-radius: 12px;
+    background: #1c1c2e; color: #fff; text-align: center;
+  }
+  .media-article .cta h2 {
+    background: none; border: none; color: #fff;
+    margin: 0 0 .6em; padding: 0; font-size: 1.25rem;
+  }
+  .media-article .cta p { color: #d5d9e0; font-size: .95rem; }
+  .media-article .cta-button {
+    display: inline-block; margin-top: 1rem; padding: .8rem 2.4rem;
+    background: #fff; color: #1c1c2e; border-radius: 8px;
+    text-decoration: none; font-weight: 700;
+  }
+  @media (max-width: 600px) {
+    .media-article { padding: 20px 16px 48px; font-size: 15.5px; }
+    .media-article h1 { font-size: 1.35rem; }
+    .media-article h2 { font-size: 1.15rem; }
+  }
+</style>
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.pubDate,
+  image: post.data.image,
+  author: {
+    '@type': 'Person',
+    name: '松岡 良次',
+    url: 'https://agent-best.net/profile',
+    sameAs: [
+      'https://x.com/r_matsuoka0919',
+      'https://www.facebook.com/ryouji.matsuoka919',
+      'https://www.linkedin.com/in/%E8%89%AF%E6%AC%A1-%E6%9D%BE%E5%B2%A1-87bb9851/'
+    ]
+  },
+})} />
