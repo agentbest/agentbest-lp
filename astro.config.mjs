@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 
-// 本番公開時は site を実際のドメインに変更してください
 export default defineConfig({
-  site: 'https://agent-best.co.jp',
+  site: 'https://www.agent-best.net',
+  integrations: [sitemap()],
 });
