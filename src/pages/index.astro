@@ -41,6 +41,11 @@ const strengths = [
     title: '若手ハイクラスに、専念する。',
     body: '20代・30代のキャリア判断に必要なのは、求人の量ではなく、市場価値を引き上げる確かな選択肢です。次の10年を決める一手だけを、お渡しします。',
   },
+  {
+    no: '04',
+    title: '隠れた優良企業を、見極める。',
+    body: '広く知られた企業だけが、最適な選択肢とは限りません。領域を深く理解しているからこそ、まだ表に出ていない優良スタートアップまで見極め、名前ではなく中身で確かな一社をご紹介できます。',
+  },
 ];
 
 /* === 転職支援事例：以下はサンプルです。実際の匿名化事例に差し替えてください === */
@@ -176,6 +181,27 @@ const company = [
               {positions.map((p) => (<li>{p}</li>))}
             </ul>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ HIDDEN GEMS 隠れた優良企業 ============ -->
+    <section class="section gems">
+      <div class="wrap gems-grid">
+        <div class="gems-side" aria-hidden="true">
+          <span class="gems-vlabel vertical">Hidden Gems</span>
+        </div>
+        <div class="gems-body reveal">
+          <h2 class="gems-title">
+            まだ知られていない、<br />
+            確かな一社を。
+          </h2>
+          <p class="gems-lead">
+            求人サイトや総合型エージェントに並ぶのは、すでに名前の知られた企業が中心です。けれど20代・30代の市場価値を大きく引き上げるのは、まだ広く知られていない優良スタートアップとの出会いであることも少なくありません。
+          </p>
+          <p class="gems-lead">
+            領域を絞り、経営者や事業の実態まで踏み込んで理解しているからこそ、名前ではなく中身で確かな一社を見極められます。表には出てきにくい、これから伸びる優良企業を、根拠とともにご紹介します。
+          </p>
         </div>
       </div>
     </section>
@@ -528,6 +554,21 @@ const company = [
       content: ""; position: absolute; left: 0; top: 1.35rem; width: 7px; height: 7px;
       border: 1.5px solid var(--teal); transform: rotate(45deg);
     }
+
+    /* ---------- HIDDEN GEMS ---------- */
+    .gems { border-bottom: 1px solid var(--hairline); }
+    .gems-grid { display: grid; grid-template-columns: auto 1fr; gap: clamp(28px, 6vw, 80px); align-items: start; }
+    .gems-side { display: flex; justify-content: center; padding-top: 0.3rem; }
+    .gems-vlabel {
+      font-family: var(--font-display); font-weight: 500;
+      font-size: clamp(1rem, 2vw, 1.3rem); letter-spacing: 0.5em; color: var(--teal);
+    }
+    .gems-title {
+      font-family: var(--font-display); font-weight: 500;
+      font-size: clamp(1.7rem, 4.6vw, 3rem); line-height: 1.7; letter-spacing: 0.04em; color: var(--ink);
+    }
+    .gems-lead { color: var(--slate); margin-top: clamp(1.6rem, 3vw, 2.2rem); max-width: 40em; line-height: 2.05; }
+    .gems-lead + .gems-lead { margin-top: 1.1rem; }
 
     /* ---------- AUDIENCE ---------- */
     .audience-grid { display: grid; gap: clamp(36px, 5vw, 64px); }
