@@ -1,6 +1,6 @@
 ---
 const nav = [
-  { label: '求人を探す', href: '/jobs' },
+  { label: '求人を探す', href: 'https://jobs.agent-best.net/' },
   { label: '専門領域', href: '/#domains' },
   { label: '対象となる方', href: '/#audience' },
   { label: '選ばれる理由', href: '/#strengths' },
@@ -27,7 +27,7 @@ const specialSites = {
     <nav class="nav" aria-label="メインナビゲーション">
       {nav.map((item) => <a href={item.href}>{item.label}</a>)}
       <div class="nav-dd">
-        <button type="button" class="nav-dd-trigger" aria-haspopup="true">特化サイト<span class="dd-caret" aria-hidden="true">▾</span></button>
+        <button type="button" class="nav-dd-trigger" aria-haspopup="true">特設サイト<span class="dd-caret" aria-hidden="true">▾</span></button>
         <div class="nav-dd-menu">
           {Object.entries(specialSites).map(([group, items]) => (
             <div class="dd-group">
