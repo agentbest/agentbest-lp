@@ -2,6 +2,7 @@
 // src/pages/media/hub/[cat].astro
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('media');
@@ -32,6 +33,7 @@ const description = `${name}の転職・キャリアに関する記事一覧で�
 ---
 
 <Layout title={title} description={description}>
+  <Header />
   <section class="hub">
     <p class="breadcrumb"><a href="/media">キャリアメディア</a> / {category === '職種' ? '職種別' : '業界別'}</p>
     <h1>{name}の転職情報</h1>

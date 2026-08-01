@@ -3,6 +3,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import AuthorBlock from '../../components/AuthorBlock.astro';
+import Header from '../../components/Header.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('media');
@@ -20,6 +21,7 @@ const related = (post.data.related ?? [])
 ---
 
 <Layout title={post.data.title} description={post.data.description}>
+  <Header />
   <article class="media-article">
     <p class="breadcrumb">
       <a href="/media">キャリアメディア</a> / {post.data.theme}
@@ -104,7 +106,43 @@ const related = (post.data.related ?? [])
     background: #fff; color: #1c1c2e; border-radius: 8px;
     text-decoration: none; font-weight: 700;
   }
+  /* 本文中に差し込む中間CTA（markdown本文に <aside class="cta-inline"> で記述） */
+  .media-article .cta-inline {
+    margin: 2.4em 0;
+    padding: 1.1rem 1.3rem;
+    border: 1px solid #d8dee4;
+    border-left: 4px solid #1c1c2e;
+    border-radius: 8px;
+    background: #f8fafb;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .media-article .cta-inline p {
+    margin: 0;
+    font-size: .93rem;
+    font-weight: 700;
+    color: #1c1c2e;
+  }
+  .media-article .cta-inline a {
+    flex-shrink: 0;
+    display: inline-block;
+    padding: .6rem 1.5rem;
+    background: #1c1c2e;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: .88rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .media-article .cta-inline a:hover { background: #33334d; }
+
   @media (max-width: 600px) {
+    .media-article .cta-inline { flex-direction: column; align-items: stretch; }
+    .media-article .cta-inline a { text-align: center; }
     .media-article { padding: 20px 16px 48px; font-size: 15.5px; }
     .media-article h1 { font-size: 1.35rem; }
     .media-article h2 { font-size: 1.15rem; }
@@ -121,7 +159,7 @@ const related = (post.data.related ?? [])
   author: {
     '@type': 'Person',
     name: '松岡 良次',
-    url: 'https://agent-best.net/profile',
+    url: 'https://www.agent-best.net/profile',
     sameAs: [
       'https://x.com/r_matsuoka0919',
       'https://www.facebook.com/ryouji.matsuoka919',

@@ -2,6 +2,7 @@
 // src/pages/media/index.astro
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
 
 const posts = await getCollection('media');
 
@@ -44,6 +45,7 @@ const description = 'IT・SaaS・コンサル領域の転職・キャリア情�
 ---
 
 <Layout title={title} description={description}>
+  <Header />
   <section class="hub">
     <h1>キャリアメディア</h1>
     <p class="hub-lead">
