@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["エドテック", "業界研究"]
 pubDate: 2026-07-05
 slug: "edtech-industry-guide"
+hub: "edtech-industry"
 image: "/images/media/edtech-industry-guide.png"
 related: ["edtech-industry-salary", "edtech-industry-career", "edtech-industry-trend", "cloud-industry-guide", "adtech-industry-guide"]
 ---
@@ -26,6 +27,11 @@ related: ["edtech-industry-salary", "edtech-industry-career", "edtech-industry-t
 **提供形態による分類**
 
 コンテンツビジネス（動画・問題集など学習素材そのもの）、プラットフォームビジネス（学習者と講師・コンテンツをつなぐ場）、SaaSビジネス（機能をサブスクリプションで提供）の3類型が主流だ。企業によってはこれらを複合的に展開しており、収益構造の理解なしに事業の成長性を正確に読み取ることは難しい。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場規模と成長の背景
 
@@ -96,6 +102,11 @@ BtoB型では、SaaS営業の基本（MEDDIC等の商談フレームワーク、
 
 **転職先として検討しやすい企業の特徴**
 シリーズB〜C程度のスタートアップで、法人営業組織の立ち上げ・拡大フェーズにある企業は、SaaS営業の型を持つ人材を積極的に採用する傾向がある。ただし教育ドメインへの関心の薄さは見透かされやすく、「なぜエドテックか」の動機は具体的に準備しておく必要がある。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## エドテック転職で見落とされやすいチェックポイント
 

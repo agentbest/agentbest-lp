@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["SAPコンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "sap-consultant-market-trend"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-market-trend.png"
 related: ["sap-consultant-from-scratch", "sap-consultant-salary", "sap-consultant-motivation", "recruiter-market-trend", "ai-engineer-market-trend"]
 ---
@@ -24,6 +25,11 @@ SAPの旧来バージョンであるECCの保守期限は段階的に延長さ�
 需要の総量は拡大しているものの、供給サイドの専門人材が不足しているため、経験者市場は売り手寄りの状況が続いている。一方で未経験・SAPベーシック資格のみの転職者に対しては選考の目が厳しくなる傾向があり、市場の二極化が進みつつある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## モジュール・領域別の採用ニーズ比較
 
@@ -91,6 +97,11 @@ SAPコンサルタントとして転職を検討する際、タイミングと�
 転職の目的が「年収向上」「上流案件への関与」「安定性」「専門性の深化」のいずれかによって、最適な転職先の軸が変わる。目的の優先順位を自分の中で整理してから市場に出ることが、条件交渉の質を高める上で有効だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

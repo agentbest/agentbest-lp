@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["UI/UXデザイナー", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "uiux-designer-how-to-use-agent"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-how-to-use-agent.png"
 related: ["uiux-designer-salary-600", "uiux-designer-salary-1000", "uiux-designer-in-20s", "db-engineer-how-to-use-agent", "enterprise-sales-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ UI/UXデザイナーの転職には、エンジニアや営業職とは異なる
 デザイン組織の採用は、チームの人数が少なく、文化的なフィットを重視するため、一般公開せずにエージェント経由や社員リファラルで充足させるケースが多い傾向にあります。市場に出ている求人だけを追うと、選択肢が実態より大幅に狭くなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを使う実質的なメリット
 
@@ -102,6 +108,11 @@ UI/UXデザイナーの転職には、エンジニアや営業職とは異なる
 - 書類通過率が改善し、最終的に複数社から内定を取得。年収は現職から15〜20%程度の上昇幅で着地（相場に基づく交渉の結果）
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

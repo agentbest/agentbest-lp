@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["GovTech", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "govtech-industry-career"
+hub: "govtech-industry"
 image: "/images/media/govtech-industry-career.png"
 related: ["govtech-industry-guide", "govtech-industry-salary", "govtech-industry-company", "web3-industry-career", "cloud-industry-career"]
 ---
@@ -26,6 +27,11 @@ GovTechの市場構造として押さえておくべきは、顧客が「公共�
 また、顧客である自治体・省庁の意思決定は多層的であることが多い。首長・議会・担当課・情報政策部門・外郭団体など、ステークホルダーが複数存在し、合意形成の複雑さは民間B2B以上になりやすい。この点を理解しているかどうかが、GovTechで活躍できる人材かどうかの一つの分岐点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-career">無料で相談する</a>
+</aside>
 
 ## 評価される経験・スキルセット
 
@@ -110,6 +116,11 @@ GovTechで数年のキャリアを積んだ後、どのような選択肢があ�
 都市のスマートシティ化、地方自治体の産業振興、教育・医療DXなど、GovTechの周辺領域でも「行政との協働経験」を持つ人材のニーズは高い。ベンチャー・スタートアップにとどまらず、地域金融機関・インフラ企業・大手SIerなどへの転身でも強みとなりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["広報／PR", "面接対策"]
 pubDate: 2026-07-04
 slug: "pr-interview"
+hub: "pr"
 image: "/images/media/pr-interview.png"
 related: ["pr-work-style", "pr-skills", "pr-career-path", "finance-interview", "ml-engineer-interview"]
 ---
@@ -22,6 +23,11 @@ related: ["pr-work-style", "pr-skills", "pr-career-path", "finance-interview", "
 **③ 人物・価値観領域**：情報リテラシー、誠実さ、不確実な状況での判断軸
 
 これら3領域を意識すると、面接準備の優先順位が明確になる。経験が浅いポジション（PR担当1〜3年目）への応募であれば①と③が、シニアや管理職ポジションであれば②と③の比重が高くなる傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -121,6 +127,11 @@ KPIや評価指標に関する質問は、特にSaaS・IT企業や、マーケ�
 | 広報部長・PR責任者 | 組織設計、クライシス対応実績、経営レベルの意思決定経験 | 高い（ポートフォリオの説明が重要） |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

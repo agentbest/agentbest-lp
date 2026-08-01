@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["M&Aアドバイザー", "年収相場"]
 pubDate: 2026-07-04
 slug: "ma-advisor-salary"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-salary.png"
 related: ["ma-advisor-interview", "ma-advisor-in-30s", "ma-advisor-future", "corporate-it-salary", "solution-architect-salary"]
 ---
@@ -45,6 +46,11 @@ M&Aアドバイザーのボーナスは、多くの機関で年1回（決算期�
 変動報酬の算定には「機関全体のフィー収入」「チームへの貢献度」「個人実績（担当案件の件数・規模）」が複合的に影響するため、自分のパフォーマンスだけでは制御できない部分も存在する。市況が冷えた年は全体のボーナスプールが圧縮されることがある点は、リスクとして認識しておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-salary">キャリアを相談する</a>
+</aside>
 
 ## 20代・30代別の年収レンジ
 
@@ -107,6 +113,11 @@ M&Aアドバイザーのボーナスは、多くの機関で年1回（決算期�
 このケースに共通するのは、「汎用的な実行経験の豊富さ」だけでなく「特定セクターへの親和性」と「クロスボーダー対応能力」という付加的な訴求点を組み合わせた点にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

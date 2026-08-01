@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["IoT・ハードウェアテック", "業界動向"]
 pubDate: 2026-07-05
 slug: "iot-industry-trend"
+hub: "iot-industry"
 image: "/images/media/iot-industry-trend.png"
 related: ["iot-industry-salary", "iot-industry-company", "iot-industry-guide", "ma-industry-trend", "web3-industry-trend"]
 ---
@@ -39,6 +40,11 @@ IoT・ハードウェアテック業界は、純粋なデバイス製造から�
 産業用IoTと半導体領域は採用積極度が高い状態が続きやすい構造にある。一方、コンシューマ向けウェアラブルは市場が成熟しつつあり、職種によっては採用が絞られる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用トレンド：業界が求める人材像の変化
 
@@ -97,6 +103,11 @@ SaaS企業でエンタープライズセールスを5〜7年経験した30代前
 また、製造業向けの商談は検討期間が長く、意思決定に複数部門が関与する構造になりやすい。SaaS営業で経験した「複数ステークホルダーへの提案・合意形成」の経験を、製造業の文脈で具体的に語れると評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

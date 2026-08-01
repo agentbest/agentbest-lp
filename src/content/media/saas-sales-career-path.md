@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["SaaS営業", "キャリアパス"]
 pubDate: 2026-07-03
 slug: "saas-sales-career-path"
+hub: "saas-sales"
 image: "/images/media/saas-sales-career-path.png"
 related: ["saas-sales-work-style", "saas-sales-motivation", "saas-sales-how-to-use-agent", "sre-career-path", "data-engineer-career-path"]
 ---
@@ -22,6 +23,11 @@ SaaS企業のフィールドセールスは、2020年代以降の採用市場に
 一方で、この職種特有の難しさとして挙げられるのが「キャリアの分岐が早い」という点です。IT・コンサル領域と比較すると、SaaS営業は30代前半までにマネジメントライン・専門職ライン・事業開発ライン・独立といった複数の岐路が訪れやすく、何も意識しないまま年数を重ねると、選択肢が事実上狭まることがあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-career-path">無料で相談する</a>
+</aside>
 
 ## 30代SaaS営業の主なキャリアパス
 
@@ -92,6 +98,11 @@ SaaSにおけるCSは「解約防止と追加受注の両立」が求められ�
 この型の場合、転職先として検討される傾向が高いのは「成長フェーズのSaaS企業でエンタープライズチームを立ち上げる」ポジションか、「現職よりも大規模なエンタープライズ案件を担当できる環境への移動」です。前者はマネジメントへの布石となり、後者は個人実績をさらに積み上げる方向性です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

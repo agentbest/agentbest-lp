@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["QAエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "qa-engineer-certification"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-certification.png"
 related: ["qa-engineer-company-size", "qa-engineer-english", "qa-engineer-career-guide", "dev-director-certification", "enterprise-sales-certification"]
 ---
@@ -31,6 +32,11 @@ QAエンジニアとして転職・昇進を検討する際、「資格を取る
 一部の企業では、資格取得が等級要件や昇進審査の参考条件として明示されています。この場合は戦略的に取得する意義があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## QAエンジニアが評価される資格・評価されにくい資格
 
@@ -89,6 +95,11 @@ Webアプリケーション開発の実務経験を3年程度持つエンジニ�
 5年以上の経験を持つQAエンジニアが転職や昇進を目指す場合、資格の取得より実績の整理・言語化に時間を使うほうが有効なケースが多いです。「何人規模のチームでどのようなテスト戦略を立案・実行し、品質指標がどう変化したか」という具体的な成果の提示が、資格の有無よりも評価に直結します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

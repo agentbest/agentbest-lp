@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["UI/UXデザイナー", "年収600万"]
 pubDate: 2026-07-04
 slug: "uiux-designer-salary-600"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-salary-600.png"
 related: ["uiux-designer-career-guide", "uiux-designer-certification", "uiux-designer-career-path", "frontend-engineer-salary-600", "it-architect-salary-600"]
 ---
@@ -27,6 +28,11 @@ UI/UXデザイナーとして年収600万円という水準を目指す際、多
 この表からわかるとおり、600万円はミドルの上位からシニアの入り口にかかる水準です。言い換えると、「手を動かすことへの評価」から「判断・設計・影響力への評価」へと切り替わる境界線に位置します。ここに、600万円が壁として感じられる構造的な理由があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 壁になりやすい要素：なぜ500万円台で止まるのか
 
@@ -85,6 +91,11 @@ UI/UXデザイナーとして年収600万円という水準を目指す際、多
 - **プロダクト戦略への参加実績**：ロードマップ議論やOKR設定の場に関与した経験は、マネジメント非依存の市場価値として機能する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

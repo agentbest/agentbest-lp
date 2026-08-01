@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["プロダクトデザイナー", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "product-designer-career-path"
+hub: "product-designer"
 image: "/images/media/product-designer-career-path.png"
 related: ["product-designer-work-style", "product-designer-skills", "product-designer-certification", "fas-consultant-career-path", "digital-marketer-career-path"]
 ---
@@ -22,6 +23,11 @@ SaaS・IT領域においてプロダクトデザイナーの役割は拡張し�
 この守備範囲の拡張が、キャリアパスの多様化を後押しした。「何が得意か」「どの種類の意思決定に関与したいか」という問いへの答えによって、目指すべき方向が変わる。30代はその問いを最も具体的に問い直せる時期であり、それが「30代でどこまで行けるか」という問いへの実質的な答えにもなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要なキャリアパス4類型
 
@@ -97,6 +103,11 @@ PMとしての責任範囲はロードマップ策定・KPI設定・開発チー
 この時期に「まだどちらか決めていない」という状態は、意思決定の先送りとして転職市場でネガティブに受け取られることがある。明示的な意図を持って行動していることを、職務経歴や面接の場で言語化できるかが重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

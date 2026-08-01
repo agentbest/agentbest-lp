@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["広報／PR", "市場動向"]
 pubDate: 2026-07-04
 slug: "pr-market-trend"
+hub: "pr"
 image: "/images/media/pr-market-trend.png"
 related: ["pr-work-style", "pr-interview", "pr-career-guide", "db-engineer-market-trend", "business-consultant-market-trend"]
 ---
@@ -31,6 +32,11 @@ IPOを目指すスタートアップや、Series B以降のスケールフェー
 一方で、求人数の増加とともに「応募者のレベル要件」も引き上げられる傾向がある。採用コストをかけるからこそ、即戦力性や専門性を重視する姿勢は強まっており、単純なメディア経験だけでは選考を通過しにくくなっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの質的変化：求められるスキルの変容
 
@@ -84,6 +90,11 @@ PR会社で5〜7年の経験を積んだ後、SaaS系の事業会社へ転職す
 選考で重視されるのは「何を発信したか」よりも「なぜその施策を設計したか」という思考の言語化である。メディア露出の数よりも、ビジネス目標とコミュニケーション設計の接続を説明できる候補者が評価される傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

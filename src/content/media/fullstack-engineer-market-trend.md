@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["フルスタックエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-market-trend"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-market-trend.png"
 related: ["fullstack-engineer-career-guide", "fullstack-engineer-english", "fullstack-engineer-motivation", "scm-consultant-market-trend", "data-scientist-market-trend"]
 ---
@@ -33,6 +34,11 @@ related: ["fullstack-engineer-career-guide", "fullstack-engineer-english", "full
 求人の中心となっているのは、Series A〜C程度のスタートアップとSaaSプロダクト企業だ。これらの企業は、少人数のエンジニアチームで迅速にプロダクトを前進させる必要があるため、特定のレイヤーに特化したスペシャリストよりも、複数の領域をまたいで自律的に動けるフルスタックエンジニアを好む傾向がある。
 
 一方、大手SIer・メガベンチャーにおいても、社内DX推進や新規プロダクト開発チームの立ち上げに際して、フルスタックの素養を持つエンジニアを求める動きが出てきている。ただし、これらの企業では「フルスタック＝なんでも屋」という誤解から、業務範囲が過剰に広がるリスクも存在するため、採用条件を精査する必要がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 報酬レンジと採用難易度の実態
 
@@ -89,6 +95,11 @@ related: ["fullstack-engineer-career-guide", "fullstack-engineer-english", "full
 - 生成AI APIを使った小規模なプロダクトを自力で完成させ、GitHubで公開しておく
 
 これらの準備を経ることで、年収850〜950万円帯のポジションへの転職が現実的な選択肢になるケースが多い。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["マーケティングマネージャー", "資格"]
 pubDate: 2026-07-04
 slug: "marketing-manager-certification"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-certification.png"
 related: ["marketing-manager-resume", "marketing-manager-career-guide", "marketing-manager-in-30s", "ml-engineer-certification", "bridge-se-certification"]
 ---
@@ -29,6 +30,11 @@ related: ["marketing-manager-resume", "marketing-manager-career-guide", "marketi
 資格はこれらの「証拠」に代わることができません。ただし、専門性を補強する文脈や、未経験領域への挑戦意欲を示す文脈では一定の意味を持ちます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 資格を評価軸で整理する
 
@@ -92,6 +98,11 @@ MBAは学位であり資格ではありませんが、マーケティングマ�
 この事例の本質は「資格が評価された」のではなく、「資格を取得した文脈と活用意図の説明が評価された」点にあります。資格を単独で提示するのでなく、「なぜ取ったか」「実務でどう使うか」の説明とセットにすることで初めて評価軸になりえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["データアナリスト", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "data-analyst-resume"
+hub: "data-analyst"
 image: "/images/media/data-analyst-resume.png"
 related: ["data-analyst-salary", "data-analyst-interview", "data-analyst-career-path", "mlops-engineer-resume", "mobile-engineer-resume"]
 ---
@@ -26,6 +27,11 @@ related: ["data-analyst-salary", "data-analyst-interview", "data-analyst-career-
 第三に、ポジションによってアナリストに求める役割が大きく異なります。事業会社のインハウスアナリストとコンサルティングファームのアナリストでは、期待されるアウトプットや関係者との関わり方が異なります。職務経歴書はその差異を踏まえて書き分けることが求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 構成の全体像：5ブロック設計
 
@@ -101,6 +107,11 @@ related: ["data-analyst-salary", "data-analyst-interview", "data-analyst-career-
 技術的な素地は強みになる一方で、「ビジネス文脈を読む力があるか」という点が問われます。職務経歴書では、データパイプライン構築やインフラ側の業務に加えて、分析やレポーティングに関わった経験を意識的に拾い上げます。たとえ業務の主軸でなかったとしても、「利用部門のKPI設計に関与した」「分析要件の定義を担った」といった記述が、ビジネス視点を持つアナリスト像の裏付けになります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

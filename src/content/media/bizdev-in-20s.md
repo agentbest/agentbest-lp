@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["事業開発", "20代転職"]
 pubDate: 2026-07-04
 slug: "bizdev-in-20s"
+hub: "bizdev"
 image: "/images/media/bizdev-in-20s.png"
 related: ["bizdev-in-30s", "bizdev-future", "bizdev-certification", "it-consultant-in-20s", "erp-consultant-in-20s"]
 ---
@@ -31,6 +32,11 @@ related: ["bizdev-in-30s", "bizdev-future", "bizdev-certification", "it-consulta
 求人票に「事業開発」と記載されていても、実際の業務比率は企業ステージや組織構造によって異なる。20代の転職者が押さえるべき最初の判断軸は、「自分が志望するのはどの類型か」を明確にすることだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-in-20s">キャリアを相談する</a>
+</aside>
 
 ## ポテンシャル採用の実態——何が評価されるか
 
@@ -101,6 +107,11 @@ related: ["bizdev-in-30s", "bizdev-future", "bizdev-certification", "it-consulta
 20代の初期キャリアで0→1の新規事業を主導できるポジションは希少だ。最初のステップは「事業開発の文脈で動く組織に身を置くこと」と位置づけ、パートナーシップや事業推進の実務から入ることも、中長期的には有効なルートとなりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

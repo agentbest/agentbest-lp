@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["データベースエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "db-engineer-in-30s"
+hub: "db-engineer"
 image: "/images/media/db-engineer-in-30s.png"
 related: ["db-engineer-motivation", "db-engineer-certification", "db-engineer-how-to-use-agent", "bridge-se-in-30s", "embedded-engineer-in-30s"]
 ---
@@ -32,6 +33,11 @@ related: ["db-engineer-motivation", "db-engineer-certification", "db-engineer-ho
 つまり、「既存の仕組みを維持する」ことだけが経験の中心にある場合、30代での転職は想定より難航しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力として評価されるスキルセット
 
@@ -106,6 +112,11 @@ SaaS企業・外資系IT・大手コンサルティングファームでは、�
 このケースのポイントは、「不足しているものを隠すのではなく、強みの汎用性を示した上で不足部分への自覚と補完策を提示した」点にある。30代の転職では、自己認識の精度が選考全体を通じた信頼感につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

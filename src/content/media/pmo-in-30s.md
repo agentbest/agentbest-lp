@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["PMO", "30代転職"]
 pubDate: 2026-07-04
 slug: "pmo-in-30s"
+hub: "pmo"
 image: "/images/media/pmo-in-30s.png"
 related: ["pmo-resume", "pmo-work-style", "pmo-failure", "project-manager-in-30s", "risk-consultant-in-30s"]
 ---
@@ -18,6 +19,11 @@ related: ["pmo-resume", "pmo-work-style", "pmo-failure", "project-manager-in-30s
 PMOポジションの求人は、大きく分けて「プロジェクト管理機能の立ち上げ・強化」と「稼働中プロジェクトへの補強」の二類型に集約されます。いずれも、配置後すぐに機能することが採用側の前提となっています。
 
 20代であれば「ポテンシャル採用」という形で素地を見る企業もありますが、30代に対してそのアプローチを取る企業は少数です。理由は単純で、PMOが扱うのは「複数ステークホルダーへの状況報告」「リスクの早期検知」「プロジェクト推進のボトルネック除去」といった、実務経験に裏打ちされた判断の連続だからです。教えながら育てる余裕がないプロジェクト環境がほとんどであり、30代採用では一定水準以上の独立稼働を前提とした要件設定がなされます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用側が「即戦力」として具体的に求めるもの
 
@@ -91,6 +97,11 @@ PMOの年収は業種・企業規模・役割スコープにより幅があり�
 | PMOマネージャー・部門責任者 | 900万〜1,300万円前後 |
 
 事業会社のインハウスPMOとコンサルファームのPMOコンサルタントでは水準が異なることが多く、後者はレバレッジのかかった評価構造（難易度の高い案件への従事、昇進スピード）が反映される傾向があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

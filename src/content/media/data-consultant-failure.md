@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["データ・アナリティクスコンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "data-consultant-failure"
+hub: "data-consultant"
 image: "/images/media/data-consultant-failure.png"
 related: ["data-consultant-salary-600", "data-consultant-future", "data-consultant-how-to-use-agent", "presales-failure", "ai-engineer-failure"]
 ---
@@ -47,6 +48,11 @@ related: ["data-consultant-salary-600", "data-consultant-future", "data-consulta
 
 コンサルファーム内でのデータ人材は、マネージャー昇進後にプロジェクト管理とビジネス開発の比率が上がる傾向があります。純粋に「分析の腕を磨き続けたい」という志向の方は、ファーム系よりもプロダクト企業や研究開発系の組織のほうが合いやすい場合があります。
 
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-failure">無料で相談する</a>
+</aside>
+
 ## 転職前に確認すべき10のチェックリスト
 
 以下は、内定受諾前・選考過程で必ず確認しておきたい項目です。
@@ -77,6 +83,11 @@ related: ["data-consultant-salary-600", "data-consultant-future", "data-consulta
 この失敗を回避するためには、転職前に「技術的な実装から離れることへの受容度」を自己確認しておくことと、選考プロセスで「シニアアナリスト以上の役割で求められることは何か」を具体的に聞き出すことが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

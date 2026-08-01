@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["データエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "data-engineer-how-to-use-agent"
+hub: "data-engineer"
 image: "/images/media/data-engineer-how-to-use-agent.png"
 related: ["data-engineer-in-30s", "data-engineer-certification", "data-engineer-from-scratch", "pmo-consultant-how-to-use-agent", "hrbp-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["data-engineer-in-30s", "data-engineer-certification", "data-engineer-
 データエンジニアは職種としての定義がまだ流動的で、企業によって「インフラエンジニア寄り」から「アナリティクスエンジニア寄り」まで求められるスキルの幅が広い。これは年収レンジの設定においても揺らぎを生みます。エージェントは同一企業・同一職種での過去の成約実績を持っており、「このポジションには実際にどの程度の交渉余地があるか」という情報を持っていることが多い。自己応募では得にくいこの情報格差は、最終的なオファーラインに影響しやすいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## データエンジニアの年収レンジの目安
 
@@ -89,6 +95,11 @@ related: ["data-engineer-in-30s", "data-engineer-certification", "data-engineer-
 結果として、非公開ポジションを含む複数企業の比較検討が可能になり、最終的な選択の納得感につながったという型です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["QAエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "qa-engineer-salary-600"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-salary-600.png"
 related: ["qa-engineer-work-style", "qa-engineer-salary", "qa-engineer-motivation", "data-consultant-salary-600", "fas-consultant-salary-600"]
 ---
@@ -25,6 +26,11 @@ QAエンジニアとして年収600万円の水準を目指す場合、多くの
 | QAマネージャー・部長職 | 750〜1,000万円以上 | 組織設計、品質保証方針の策定、経営層への報告 |
 
 この表から読み取れるのは、600万円という水準が「中堅の上位」から「シニアの入口」に位置することだ。つまり、600万円前後は単純な経験の蓄積だけではなく、役割の転換が問われるゾーンであるといえる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円前後で停滞しやすい理由
 
@@ -98,6 +104,11 @@ QAリードやQAマネージャーとして、チームの目標設定・育成�
 BtoB SaaS企業のQAリードポジションへ応募。自動化の実装経験よりも、「テスト戦略を考えて開発チームと連携できる人材」として評価され、年収650万円での内定を獲得。
 
 この型から読み取れる重要な示唆は、技術習得と「上流への関与実績」の両立が、評価向上における有効な組み合わせになりやすいということだ。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

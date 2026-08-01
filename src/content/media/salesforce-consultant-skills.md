@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["Salesforceコンサルタント", "必要スキル"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-skills"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-skills.png"
 related: ["salesforce-consultant-motivation", "salesforce-consultant-company-size", "salesforce-consultant-salary-1000", "web-marketer-skills", "fas-consultant-skills"]
 ---
@@ -30,6 +31,11 @@ Salesforceコンサルタントのスキルは、大きく以下の三層に分�
 市場価値の観点では、「技術×業務×コンサルティング」の掛け合わせが深い人材ほど、年収帯・職位・案件品質すべての面で優位に立ちやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-skills">無料で相談する</a>
+</aside>
 
 ## 三層別の具体的スキル一覧と優先度
 
@@ -106,6 +112,11 @@ Salesforceの技術知識が一定水準に達した段階では、同質的な�
 この案件では、技術的な設定難易度は高くなかった一方で、ステークホルダー間の利害調整と要件の上流設計が最も難易度の高い工程だった。「Salesforceが使える」だけではなく、「顧客の組織課題を整理してSalesforceで解決できる」コンサルタントに対する評価が高かったことは、スキル優先順位を考えるうえでの示唆となりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["DevOpsエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "devops-engineer-in-30s"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-in-30s.png"
 related: ["devops-engineer-english", "devops-engineer-motivation", "devops-engineer-company-size", "cto-vpoe-in-30s", "mlops-engineer-in-30s"]
 ---
@@ -26,6 +27,11 @@ DevOpsエンジニアの採用市場において、30代は「即戦力採用」
 30代での転職は、後者の「技術の一致」を前提としつつ、前者の「組織への影響力」も問われる点が、20代転職との根本的な違いです。採用担当者は履歴書を見た段階で「この人がチームに入ったら何が変わるか」を想定します。その問いに答えられる準備が不可欠です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代に求められるスキルセットの実態
 
@@ -93,6 +99,11 @@ DevOps職の採用プロセスは、一般的に「書類→技術スクリー�
 このケースが示すのは、「経験の読み替え」と「ターゲティングの精度」が30代転職の成否に大きく影響しやすいという点です。全スキルを網羅しようとするよりも、自身の強みが活きるポジションを特定する視点が求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

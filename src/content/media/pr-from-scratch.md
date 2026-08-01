@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["広報／PR", "未経験転職"]
 pubDate: 2026-07-04
 slug: "pr-from-scratch"
+hub: "pr"
 image: "/images/media/pr-from-scratch.png"
 related: ["pr-work-style", "pr-career-guide", "pr-salary", "dx-consultant-from-scratch", "business-planning-from-scratch"]
 ---
@@ -34,6 +35,11 @@ related: ["pr-work-style", "pr-career-guide", "pr-salary", "dx-consultant-from-s
 IT・SaaS・コンサル領域では、これに加えてコンテンツマーケティングやアナリストリレーションズが求められるケースもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験転職の現実｜採用される人・されない人
 
@@ -130,6 +136,11 @@ PR専業の会社（エージェンシー）に入社し、2〜3年で実務ス�
 「人と話すのが好き」「情報発信に興味がある」では不十分である。「自社のどのプロダクトのどの価値が、どのメディアのどの読者層に届いていないと思うか」「自分ならどのようなアングルで取材誘致を試みるか」という思考の筋道を示せると、説得力が増す。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

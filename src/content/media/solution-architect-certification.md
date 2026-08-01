@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["ソリューションアーキテクト", "資格"]
 pubDate: 2026-07-04
 slug: "solution-architect-certification"
+hub: "solution-architect"
 image: "/images/media/solution-architect-certification.png"
 related: ["solution-architect-in-20s", "solution-architect-salary", "solution-architect-motivation", "network-engineer-certification", "ml-engineer-certification"]
 ---
@@ -24,6 +25,11 @@ SAに求められる能力は、大きく「技術の深さ」「ビジネス翻
 この文脈において、資格の役割は主に「技術の深さ」の証明に限定される。かつ、その証明力は「実務経験の厚みが不透明なケース」において最も有効に機能する。経験豊富なシニアSAにとって資格の優先度は相対的に下がり、キャリア初期〜中期のSAにとっては有意な差別化手段になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格と、評価されにくい資格
 
@@ -102,6 +108,11 @@ SAに求められる能力は、大きく「技術の深さ」「ビジネス翻
 これらはあくまで市場における目安であり、企業規模・業種・個人の交渉力によって大きく変動する。資格取得が年収改定の直接要因になることは稀で、昇格評価の一素材として参照される程度の扱いになることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

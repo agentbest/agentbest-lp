@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["パートナーセールス／アライアンス", "30代転職"]
 pubDate: 2026-07-04
 slug: "partner-sales-in-30s"
+hub: "partner-sales"
 image: "/images/media/partner-sales-in-30s.png"
 related: ["partner-sales-company-size", "partner-sales-from-scratch", "partner-sales-work-style", "ai-engineer-in-30s", "pr-in-30s"]
 ---
@@ -18,6 +19,11 @@ related: ["partner-sales-company-size", "partner-sales-from-scratch", "partner-s
 まず職種の性質を整理しておきます。パートナーセールスとは、自社製品・サービスを代理店・SIer・ISV・コンサルティングファームなどのパートナー企業を通じて間接的に販売推進する役割です。アライアンスはやや広義で、事業提携・共同マーケティング・OEM連携など、戦略的なパートナーシップ全般を担います。
 
 両者は業務上重なる部分が多く、特にSaaS企業やIT企業では「パートナーセールス＆アライアンス」として一体的に募集されることが一般的です。エンドユーザーへの直販（ダイレクトセールス）とは異なり、**パートナー企業という法人を顧客・味方・チャネルとして同時に扱う**ことが、この職種の本質的な難しさであり面白さです。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代で採用市場が活況な背景
 
@@ -84,6 +90,11 @@ SaaSをはじめとするソフトウェア企業が成長軌道に乗った際�
 ### 自社プロダクトへの理解を後回しにする
 
 パートナーセールスは「直販しないから詳細なプロダクト理解は不要」と思われがちですが、実際にはパートナー企業への技術的な説明責任も発生します。特に競合製品との差異化ポイントや、他社ソリューションとのインテグレーション可否についての理解は、パートナー営業担当者の信頼を得るうえで必要です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

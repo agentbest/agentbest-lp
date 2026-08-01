@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["法務", "働き方"]
 pubDate: 2026-07-04
 slug: "legal-work-style"
+hub: "legal"
 image: "/images/media/legal-work-style.png"
 related: ["legal-company-size", "legal-future", "legal-career-path", "pmo-work-style", "corporate-it-work-style"]
 ---
@@ -32,6 +33,11 @@ related: ["legal-company-size", "legal-future", "legal-career-path", "pmo-work-s
 M&Aや証券規制・コンプライアンス対応・訴訟対応・日常的な契約審査など、担当領域によって繁忙期・業務の深さ・専門性の求め方が異なります。M&A担当はディールが走れば深夜・週末対応が続くことがあり、一方で日常審査を主業務とする担当者はある程度サイクルが読みやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度・残業時間の実態
 
@@ -96,6 +102,11 @@ M&Aや証券規制・コンプライアンス対応・訴訟対応・日常的�
 このケースが示すのは、「自由度の高さ」と「業務量の少なさ」はトレードオフになりやすく、自分がどちらに重きを置くかを明確にしないと、転職後のミスマッチが起きやすいという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

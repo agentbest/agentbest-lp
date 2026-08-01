@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["リーガルテック", "業界動向"]
 pubDate: 2026-07-05
 slug: "legaltech-industry-trend"
+hub: "legaltech-industry"
 image: "/images/media/legaltech-industry-trend.png"
 related: ["legaltech-industry-guide", "legaltech-industry-company", "legaltech-industry-salary", "edtech-industry-trend", "adtech-industry-trend"]
 ---
@@ -32,6 +33,11 @@ related: ["legaltech-industry-guide", "legaltech-industry-company", "legaltech-i
 **③ 生成AI・LLMの実用化**　契約書の条項比較・リスク抽出・英文翻訳といった作業に生成AIが活用されはじめており、従来は法律専門家の工数を要していた業務の一部が自動化されつつある。この動きはプロダクトの付加価値を高めると同時に、業界内の競争軸を「AI活用の深度」へとシフトさせている。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## セグメント別の成長性
 
@@ -98,6 +104,11 @@ related: ["legaltech-industry-guide", "legaltech-industry-company", "legaltech-i
 **結果の傾向**　年収は維持〜微増となるケースが多く、ストックオプションの付与がある企業では中長期の報酬上振れが期待できる。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

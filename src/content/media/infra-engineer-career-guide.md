@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["インフラエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "infra-engineer-career-guide"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-career-guide.png"
 related: ["infra-engineer-failure", "infra-engineer-from-scratch", "infra-engineer-how-to-use-agent", "cloud-engineer-career-guide", "digital-marketer-career-guide"]
 ---
@@ -38,6 +39,11 @@ AWS・Azure・GCPを活用したインフラの設計・構築・運用が中心
 インフラの中でもセキュリティやネットワークに特化した領域は、独立した専門職として扱われるケースが増えている。ゼロトラスト実装、SOC（セキュリティオペレーションセンター）運用設計、SD-WANなどのネットワーク最新技術に対応できる人材は、引き続き希少性が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値の構造：スキルセット別の年収レンジ
 
@@ -112,6 +118,11 @@ SREやプラットフォームエンジニア系ポジションを志望する�
 インフラエンジニアの転職では、総合型エージェントだけでなく、IT・テック領域に特化したエージェントやダイレクトリクルーティング型プラットフォームを並行活用することが有効になりやすい。特に年収600万円以上の求人は、一般公開されていないものが相当数存在する傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

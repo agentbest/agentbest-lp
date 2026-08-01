@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["プラットフォームエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "platform-engineer-career-path"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-career-path.png"
 related: ["platform-engineer-salary-600", "platform-engineer-certification", "platform-engineer-salary-1000", "freelance-consultant-career-path", "mlops-engineer-career-path"]
 ---
@@ -20,6 +21,11 @@ related: ["platform-engineer-salary-600", "platform-engineer-certification", "pl
 Kubernetes・Terraform・CI/CDパイプライン・オブザーバビリティ基盤といった技術スタックを扱いながら、組織横断的に開発生産性を高める役割を担う。そのため、純粋な技術的深度だけでなく、組織設計や開発文化への理解も求められる職種といえる。
 
 この性質が、30代以降のキャリア設計を複雑にしている。「エンジニアとして専門性を深める方向」と「組織・ビジネスへの影響力を広げる方向」、どちらに軸足を置くかによって、歩む道筋が大きく変わってくる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## キャリアパスの主要な分岐
 
@@ -95,6 +101,11 @@ Kubernetes・Terraform・CI/CDパイプライン・オブザーバビリティ�
 
 **コミュニティ・対外発信への関与**
 カンファレンスでの登壇・技術ブログの執筆・OSSへの貢献は、職務経歴書の外側で専門性を証明する手段になる。特にスタッフエンジニア以上の職位を目指す場合、社内外での「技術的影響力」を示す実績として評価されやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

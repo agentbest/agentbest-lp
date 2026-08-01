@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["デジタルマーケター", "働き方"]
 pubDate: 2026-07-04
 slug: "digital-marketer-work-style"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-work-style.png"
 related: ["digital-marketer-future", "digital-marketer-skills", "digital-marketer-company-size", "product-designer-work-style", "security-engineer-work-style"]
 ---
@@ -26,6 +27,11 @@ related: ["digital-marketer-future", "digital-marketer-skills", "digital-markete
 この3軸の組み合わせによって、同じ「デジタルマーケター」というタイトルであっても、残業時間・裁量度・リモート可否が大きく分岐する。以下で順に解説する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-work-style">キャリアを相談する</a>
+</aside>
 
 ## 組織種別ごとの労働環境比較
 
@@ -91,6 +97,11 @@ related: ["digital-marketer-future", "digital-marketer-skills", "digital-markete
 この例はあくまで一つの典型像であり、チーム規模・事業の成長速度・個人のロール定義によって実態は変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

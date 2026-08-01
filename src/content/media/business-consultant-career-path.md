@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["業務コンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "business-consultant-career-path"
+hub: "business-consultant"
 image: "/images/media/business-consultant-career-path.png"
 related: ["business-consultant-english", "business-consultant-from-scratch", "business-consultant-how-to-use-agent", "presales-career-path", "engineering-manager-career-path"]
 ---
@@ -20,6 +21,11 @@ related: ["business-consultant-english", "business-consultant-from-scratch", "bu
 ただし実務では両者の境界は曖昧なことも多く、SAPやSalesforceといったエンタープライズシステムの導入プロジェクトにおいて業務設計とIT設計を一体的に担うケースも珍しくありません。自身の経験がどちらの比重が大きいかを意識しておくことは、キャリアを考える上で重要な基点になります。
 
 キャリアの起点は大きく2パターンに分かれます。1つ目は新卒・第二新卒でコンサルティングファームに入社するルート、2つ目は事業会社の業務部門・企画部門・IT部門でのキャリアを経てコンサルに転身するルートです。後者は30代前後での参入が多く、現場感のある業務知識を武器に活躍する傾向があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## 30代で到達できるレベルの全体像
 
@@ -87,6 +93,11 @@ SaaS・プロダクト系のスタートアップやメガベンチャーは、�
 **判断の視点**：
 
 製造業の現場知識とERP・SCM領域でのプロジェクト経験は、いずれの選択においても強みとして機能します。マネージャー昇格を選ぶ場合は、ビジネス開発への関与度・育成の機会・報酬テーブルの変化を事前に確認することが重要です。事業会社転籍を選ぶ場合は、ポジションのレベル感（部長候補なのかマネージャー待遇なのか）と自律性の度合いを入念に確認することが求められます。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

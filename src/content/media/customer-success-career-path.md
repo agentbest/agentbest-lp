@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["カスタマーサクセス", "キャリアパス"]
 pubDate: 2026-07-03
 slug: "customer-success-career-path"
+hub: "customer-success"
 image: "/images/media/customer-success-career-path.png"
 related: ["customer-success-salary-600", "customer-success-company-size", "customer-success-work-style", "dx-consultant-career-path", "data-analyst-career-path"]
 ---
@@ -24,6 +25,11 @@ CSのキャリア選択肢は、一本道ではない。大きく分けると以
 **斜め（業界・規模の変更）**：同じCS職種のまま、スタートアップから大手SaaS企業へ、あるいは特定業界（金融・医療・製造）の専門知識を持つCS人材として市場価値を高める方向。
 
 どの方向に進むかは、個人の強みや志向によって異なる。まず自分が「管理職型」「専門職型」「事業家型」のどのタイプに近いかを見極めることが、キャリア設計の出発点になりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職位・経験年数別のキャリアマップ
 
@@ -98,6 +104,11 @@ CSとしての市場価値は、以下の3軸で評価されやすい。
 3. **業界ドメイン知識の有無**：金融・製造・医療・HR系など、特定領域のドメイン知識を持つCSは、その業界向けのSaaSを扱う企業で優先的に評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

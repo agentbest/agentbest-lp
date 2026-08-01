@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["社内SE", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "corporate-it-career-guide"
+hub: "corporate-it"
 image: "/images/media/corporate-it-career-guide.png"
 related: ["corporate-it-market-trend", "corporate-it-salary-600", "corporate-it-certification", "business-planning-career-guide", "marketing-manager-career-guide"]
 ---
@@ -38,6 +39,11 @@ ERPやSFAなどの業務システム導入プロジェクトにおいて、要�
 情報セキュリティ管理体制の構築、ISMS・Pマーク対応、インシデント対応が中心。専門性が高く、CISSP・情報処理安全確保支援士などの資格が評価される傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 社内SEの市場価値と年収相場
 
@@ -103,6 +109,11 @@ SIerや受託開発から社内SEに転職した人の一部が、キャリア�
 一方で注意が必要なのは、技術的なアウトプット（コード・設計書・構成図）が少なく、スキルの可視化が難しい点だ。転職活動においては、担当したシステム刷新の規模・削減したコストの概算・導入したシステムのユーザー数など、数値で表現できる成果を整理しておくことが重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["アドテック・マーケティングテック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "adtech-industry-career"
+hub: "adtech-industry"
 image: "/images/media/adtech-industry-career.png"
 related: ["adtech-industry-company", "adtech-industry-salary", "adtech-industry-guide", "ma-industry-career", "hrtech-industry-career"]
 ---
@@ -44,6 +45,11 @@ related: ["adtech-industry-company", "adtech-industry-salary", "adtech-industry-
 どの立場で経験を積んでいるかによって、転職先から評価される「強み」が異なります。代理店出身者が事業会社に移る場合に「PDCAサイクルが速くなる一方で予算権限と事業オーナーシップの感覚を問われる」など、類型間の移動に際して準備すべきことが変わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-career">無料で相談する</a>
+</aside>
 
 ## 評価される経験の積み方
 
@@ -99,6 +105,11 @@ related: ["adtech-industry-company", "adtech-industry-salary", "adtech-industry-
 複数企業・複数業種の戦略設計に携わりたい方にとっては、マーケティングコンサルティングファームや事業会社の経営企画・マーケティング戦略部門への移行も選択肢に入ります。ただし、コンサルティング未経験の場合はドキュメンテーションやロジック構成の様式が異なるため、準備コストを見込む必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

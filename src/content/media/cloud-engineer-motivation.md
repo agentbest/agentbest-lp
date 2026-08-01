@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["クラウドエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-motivation"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-motivation.png"
 related: ["cloud-engineer-failure", "cloud-engineer-career-path", "cloud-engineer-from-scratch", "security-consultant-motivation", "engineering-manager-motivation"]
 ---
@@ -24,6 +25,11 @@ related: ["cloud-engineer-failure", "cloud-engineer-career-path", "cloud-enginee
 | 入社後に何ができるか | 即戦力性・成長シナリオ | 「スキルアップしたい」 |
 
 採用側が「クラウドエンジニア」として求める人材像は、企業のフェーズや規模によって異なる。スタートアップであればゼロから基盤を設計できるアーキテクト志向が求められることが多く、大手SIerやエンタープライズ系では既存オンプレミス環境からの移行設計や運用標準化の経験が重視される傾向にある。志望動機は、この「求める人材像」との接続を示す文書と理解するのが実務的に有用である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -93,6 +99,11 @@ related: ["cloud-engineer-failure", "cloud-engineer-career-path", "cloud-enginee
 | 開発エンジニア（バックエンド等）経験者 | アプリ視点でのインフラ理解、DevOps意識 | インフラ固有の運用・障害対応経験の薄さを補足する |
 | 未経験・学習中 | 学習の具体的な実績、資格・個人開発 | 「やる気」だけでなく「行動の証拠」を示す |
 | クラウド経験者（プラットフォーム移行） | マルチクラウド視点、プラットフォーム間の比較判断 | 特定ベンダー依存に見えないよう留意 |
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

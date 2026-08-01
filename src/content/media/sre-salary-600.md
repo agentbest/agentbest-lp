@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["SRE", "年収600万"]
 pubDate: 2026-07-04
 slug: "sre-salary-600"
+hub: "sre"
 image: "/images/media/sre-salary-600.png"
 related: ["sre-in-20s", "sre-motivation", "sre-career-guide", "infra-engineer-salary-600", "game-engineer-salary-600"]
 ---
@@ -31,6 +32,11 @@ SREという職種の市場価値は、経験年数・業務範囲・在籍企�
 この表からも読み取れるように、500万〜650万円のレンジは経験3〜4年のエンジニアが多く集まる帯域であり、600万円はそこからの次のステージへの移行点に位置します。単純な年数の積み上げで自動的に超えられる水準ではなく、業務の質的変化が伴わないと停滞しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁が生まれる構造的な理由
 
@@ -95,6 +101,11 @@ SREには関連スキルが広く存在します。Kubernetes・Terraform・Prom
 このケースが示すように、経験の「内容」よりも「どう語るか」「何をオーナーとして担ったか」が、年収交渉の起点になりやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

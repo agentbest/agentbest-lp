@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["データエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "data-engineer-work-style"
+hub: "data-engineer"
 image: "/images/media/data-engineer-work-style.png"
 related: ["data-engineer-interview", "data-engineer-motivation", "data-engineer-skills", "scm-consultant-work-style", "project-manager-work-style"]
 ---
@@ -22,6 +23,11 @@ related: ["data-engineer-interview", "data-engineer-motivation", "data-engineer-
 また、バッチ処理やストリーミング処理のスケジュールはビジネス時間帯に集中しがちであるため、朝のデータ欠損やパイプライン停止は即座にビジネス判断に影響する。こうしたインシデント対応が重なる時期には、残業が集中する傾向がある。
 
 一方で、安定運用フェーズに入った組織では、パイプラインの大半がオーケストレーションツール（Apache AirflowやPrefectなど）で自動化されており、日常業務の負荷は比較的低く抑えられる。激務かどうかは「組織の成熟度」と「データ基盤の整備状況」に大きく依存する点を理解しておくことが重要である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## 組織フェーズ別の働き方の違い
 
@@ -66,6 +72,11 @@ related: ["data-engineer-interview", "data-engineer-motivation", "data-engineer-
 **金曜日**：週次スプリントの振り返りとドキュメント整備。個人のキャッチアップ時間（技術ブログ・OSSの調査）。
 
 この例では、残業は週に0〜3時間程度に収まるケースが多く、ミーティングの総量は週に5〜8時間程度が目安となる。ただし、大規模なデータ移行やシステム切り替えが重なる時期はこの限りではない。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

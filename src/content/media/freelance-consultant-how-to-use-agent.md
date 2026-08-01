@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["フリーコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-how-to-use-agent"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-how-to-use-agent.png"
 related: ["freelance-consultant-salary-1000", "freelance-consultant-salary-600", "freelance-consultant-resume", "product-manager-how-to-use-agent", "data-engineer-how-to-use-agent"]
 ---
@@ -26,6 +27,11 @@ related: ["freelance-consultant-salary-1000", "freelance-consultant-salary-600",
 また、フリーコンサルタントの報酬交渉は、年収交渉とは異なる複雑さを持つ。月額報酬・稼働率・成果報酬の有無・契約形態（準委任/請負）など、複数の変数が絡む。この条件整理においても、経験豊富なエージェントの介在は実質的な価値をもたらしやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントを使うべき理由
 
@@ -99,6 +105,11 @@ IT・SaaS・コンサル領域の案件ニーズは、マクロ環境や各社�
 このケースで重要なのは、エージェントが単なる仲介ではなく「スキルの見せ方の再設計」に貢献した点である。コンサルタント本人が当然視していた経験が、別の文脈では差別化要素になりうる。この再解釈はエージェントとの対話の中で生まれやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

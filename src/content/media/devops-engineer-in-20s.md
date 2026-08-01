@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["DevOpsエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "devops-engineer-in-20s"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-in-20s.png"
 related: ["devops-engineer-from-scratch", "devops-engineer-interview", "devops-engineer-future", "sap-consultant-in-20s", "dx-consultant-in-20s"]
 ---
@@ -18,6 +19,11 @@ related: ["devops-engineer-from-scratch", "devops-engineer-interview", "devops-e
 本記事では、ポテンシャル採用の実態・企業類型・年収水準・転職成功のための具体的な準備内容を順番に整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## DevOpsエンジニアとはどういう職種か——採用市場の文脈で押さえる
 
@@ -104,6 +110,11 @@ GCP・AWS・Azureのパートナー企業や、それらのサービスを活用
 このケースが示すのは、「業務経験を補完する自主構築の証拠」と「問題意識の言語化」がセットで求められるという点だ。資格単体・ポートフォリオ単体ではなく、両者と面接での説明能力が組み合わさることで評価が成立しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

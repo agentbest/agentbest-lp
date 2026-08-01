@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["クラウドエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-how-to-use-agent"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-how-to-use-agent.png"
 related: ["cloud-engineer-motivation", "cloud-engineer-english", "cloud-engineer-career-guide", "saas-sales-how-to-use-agent", "hr-consultant-how-to-use-agent"]
 ---
@@ -24,6 +25,11 @@ related: ["cloud-engineer-motivation", "cloud-engineer-english", "cloud-engineer
 また、年収交渉においても同様の非対称性がある。求人票に「〜〜万円」と記載されていても、それが現職年収の持ち込みで変動するのか、スキルセットによって上振れ余地があるのかはエージェントを通じて初めて確認できることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## クラウドエンジニアとしてエージェントを使うべき場面
 
@@ -89,6 +95,11 @@ related: ["cloud-engineer-motivation", "cloud-engineer-english", "cloud-engineer
 担当者との面談でプロジェクト経験を整理したところ、「オンプレからクラウドへの移行設計経験」はインターナルな事業会社において需要が高い経験であることが明確になった。職務経歴書の記述を「作業ベース」から「設計上の意思決定と課題解決」の観点に書き直したことで、書類通過率が改善した。また、担当者を通じて「実際の面接では設計の意図を問うケースが多い」という情報を得て、準備の焦点を絞ることができた。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

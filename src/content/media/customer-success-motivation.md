@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["カスタマーサクセス", "志望動機"]
 pubDate: 2026-07-03
 slug: "customer-success-motivation"
+hub: "customer-success"
 image: "/images/media/customer-success-motivation.png"
 related: ["customer-success-career-path", "customer-success-future", "customer-success-skills", "legal-motivation", "presales-motivation"]
 ---
@@ -26,6 +27,11 @@ related: ["customer-success-career-path", "customer-success-future", "customer-s
 また、CSはビジネスへの影響が数字で測定されます。顧客ヘルススコア、NRR（ネットレベニューリテンション）、チャーンレート、アップセル率などのKPIを意識しているかどうかが、経験者の評価軸になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用担当者が志望動機で確認している3つの視点
 
@@ -116,6 +122,11 @@ related: ["customer-success-career-path", "customer-success-future", "customer-s
 コンサルでは「提言して終わり」になりがちな構造に課題を感じており、顧客が実際に成果を出すまで伴走する役割に軸足を移したいという動機を、具体的なプロジェクトの経験から導くと自然な文脈が生まれます。「成果の実装フェーズへの関与」というキーワードが接続点になりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

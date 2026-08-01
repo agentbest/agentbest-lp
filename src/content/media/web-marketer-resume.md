@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["Webマーケター", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "web-marketer-resume"
+hub: "web-marketer"
 image: "/images/media/web-marketer-resume.png"
 related: ["web-marketer-skills", "web-marketer-work-style", "web-marketer-market-trend", "tech-lead-resume", "it-architect-resume"]
 ---
@@ -24,6 +25,11 @@ Webマーケターの経歴は、職種の幅広さゆえに整理が難しく�
 採用側からすると、「どの領域を、どのくらいの規模感で、どんな役割で経験してきたか」が読み取れない書類は評価しにくいとされています。経験の羅列ではなく、**構造化された文脈の提示**こそが、Webマーケターの職務経歴書に求められる本質です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 基本構成と各セクションの役割
 
@@ -129,6 +135,11 @@ Webマーケターの職務経歴書で最も重要かつ最も誤解されや�
 「LP制作」「広告運用」「レポート作成」は作業レベルの記述です。「なぜその施策を選択したか」「どういう仮説を持って実行したか」という思考プロセスを一言添えると、戦略的な視点があることが伝わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

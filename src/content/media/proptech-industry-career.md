@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["不動産テック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "proptech-industry-career"
+hub: "proptech-industry"
 image: "/images/media/proptech-industry-career.png"
 related: ["proptech-industry-guide", "proptech-industry-trend", "proptech-industry-company", "cloud-industry-career", "logitech-industry-career"]
 ---
@@ -24,6 +25,11 @@ related: ["proptech-industry-guide", "proptech-industry-trend", "proptech-indust
 キャリア上の特徴として注目すべき点は、業界そのものがスタートアップ〜成長期の企業を中心に構成されており、職種間の境界が比較的流動的であるという点だ。プロダクトマネージャーがセールスに関与したり、カスタマーサクセスがプロダクト改善に直接フィードバックするといった動き方が起きやすい。これは職域の広がりというメリットである一方、ジョブディスクリプションが曖昧なまま入社すると役割が不明確になるリスクにもなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-career">無料で相談する</a>
+</aside>
 
 ## 市場で評価される経験の構造
 
@@ -103,6 +109,11 @@ CSからPdMへの転向時、同業他社・類似ステージのスタートア
 不動産ドメインへの特化が深まるほど、他業界への転用可能性が相対的に下がるというトレードオフが存在する。長期的な市場価値を維持するには、不動産テックの経験を「SaaSオペレーションの実績」「複雑な業法規制下でのプロダクト開発経験」として再解釈し、他業界にも訴求できる整理をしておくことが有効である。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["広報／PR", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "pr-company-size"
+hub: "pr"
 image: "/images/media/pr-company-size.png"
 related: ["pr-salary-1000", "pr-from-scratch", "pr-interview", "data-engineer-company-size", "risk-consultant-company-size"]
 ---
@@ -35,6 +36,11 @@ related: ["pr-salary-1000", "pr-from-scratch", "pr-interview", "data-engineer-co
 - **社内調整の複雑さを学べる**：法務・IR・経営企画・事業部門との多層的な連携を経験することが、後のキャリアで有効に機能する場合がある
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-company-size">無料で相談する</a>
+</aside>
 
 ## スタートアップの広報・PRとは何か
 
@@ -95,6 +101,11 @@ related: ["pr-salary-1000", "pr-from-scratch", "pr-interview", "data-engineer-co
 複数の事業・フェーズでの広報経験は、独立後のサービス提供幅に直結する。大手一社のみの経験よりも、異なる規模・業種・フェーズでの実務経験を持つほうが、クライアントへの提案幅が広がりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

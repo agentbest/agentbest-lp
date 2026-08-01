@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["セキュリティエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "security-engineer-motivation"
+hub: "security-engineer"
 image: "/images/media/security-engineer-motivation.png"
 related: ["security-engineer-future", "security-engineer-english", "security-engineer-how-to-use-agent", "cto-vpoe-motivation", "corporate-it-motivation"]
 ---
@@ -32,6 +33,11 @@ related: ["security-engineer-future", "security-engineer-english", "security-eng
 セキュリティの脅威は常に変化するため、指示待ちではなく自ら学び続ける姿勢が求められます。志望動機の文章はその姿勢が現れる場でもあり、受動的な表現が並ぶと現場フィットが疑われます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -119,6 +125,11 @@ related: ["security-engineer-future", "security-engineer-english", "security-eng
 | SOC・CSIRT運用 | インシデント対応経験、分析業務への適性 | 継続的な監視業務への耐性も暗黙の評価項目 |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

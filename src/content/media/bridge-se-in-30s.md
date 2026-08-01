@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["ブリッジSE", "30代転職"]
 pubDate: 2026-07-04
 slug: "bridge-se-in-30s"
+hub: "bridge-se"
 image: "/images/media/bridge-se-in-30s.png"
 related: ["bridge-se-company-size", "bridge-se-career-guide", "bridge-se-career-path", "strategy-consultant-in-30s", "presales-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["bridge-se-company-size", "bridge-se-career-guide", "bridge-se-career-
 - **プロジェクトマネジメントの自律性**：エスカレーションなしにリスクを察知・対処できる判断力
 
 30代という年齢は、採用企業にとって「メンバーを率いられる」または「単独でプロジェクトを回せる」ことを期待させるシグナルでもある。そのため、前職で一人称のタスクしか経験していない場合、書類選考の段階で評価が低くなりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-in-30s">無料で相談する</a>
+</aside>
 
 ## 評価される経歴・スキルの構造
 
@@ -90,6 +96,11 @@ related: ["bridge-se-company-size", "bridge-se-career-guide", "bridge-se-career-
 ### マネジメント志向の有無を明確にする
 
 30代ブリッジSEのキャリアパスは、技術専門職として深める方向と、PdM・PMとしてマネジメント軸に転換する方向の二つに分かれやすい。転職活動時点でどちらを志向するかを整理しておかないと、オファー後に「求めているキャリアと異なる」という齟齬が生じることがある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

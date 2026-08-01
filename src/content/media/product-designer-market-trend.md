@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["プロダクトデザイナー", "市場動向"]
 pubDate: 2026-07-04
 slug: "product-designer-market-trend"
+hub: "product-designer"
 image: "/images/media/product-designer-market-trend.png"
 related: ["product-designer-work-style", "product-designer-in-30s", "product-designer-motivation", "salesforce-consultant-market-trend", "recruiter-market-trend"]
 ---
@@ -24,6 +25,11 @@ related: ["product-designer-work-style", "product-designer-in-30s", "product-des
 ### 職種定義の揺らぎが市場を複雑にしている
 
 「プロダクトデザイナー」という職種名は、企業によって要求スコープが異なるという特徴を持ちます。UI/UXデザイン専業に近い定義をとる企業もあれば、ユーザーリサーチからプロトタイピング、一部のPdM（プロダクトマネジメント）的業務まで包含する定義をとる企業もあります。この曖昧さが市場比較を難しくしており、求人票の職種名だけで判断すると期待値のずれが生じやすい点は、転職活動で留意すべき構造的な課題です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-market-trend">無料で相談する</a>
+</aside>
 
 ## 採用ニーズの質的変化
 
@@ -71,6 +77,11 @@ related: ["product-designer-work-style", "product-designer-in-30s", "product-des
 **採用側の視点**：SaaS企業としては「BtoCの体験設計力をBtoBの複雑なユースケースに応用できるか」を見たいが、ポートフォリオだけではその応用力が判断しにくい。面接では、過去のBtoC設計でどのようにビジネス目標を設定・検証したか、情報量の多い画面設計でどのような判断基準を持っているかが問われやすい。
 
 **転職成功に向けた着眼点**：ポートフォリオでは成果物の見た目より設計プロセスと判断の根拠を説明する構成が有効です。加えて、志望企業のプロダクトを事前に試用し、現状のUX上の課題を仮説として整理したうえで面接に臨む準備が、評価につながりやすいとされています。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

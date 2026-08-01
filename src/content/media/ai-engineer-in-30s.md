@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["AIエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "ai-engineer-in-30s"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-in-30s.png"
 related: ["ai-engineer-how-to-use-agent", "ai-engineer-market-trend", "ai-engineer-skills", "backend-engineer-in-30s", "cto-vpoe-in-30s"]
 ---
@@ -37,6 +38,11 @@ AIエンジニアの需要自体は拡大しているが、経験年数とスキ
 この表から読み取れるのは、「AIエンジニア」という肩書きの均質性は低く、何をどこまでやったかの具体性が評価を左右するという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 採用側が実際に重視するスキルと経験
 
@@ -82,6 +88,11 @@ AIエンジニアの需要自体は拡大しているが、経験年数とスキ
 **示唆**：コンサル経験はAI周辺ポジションでは高く評価されるが、AIエンジニアへの直接転職には技術的なポートフォリオが必須。エンジニアリングポジションを希望する場合は、技術側への投資を先行させるほうが合理的なケースが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

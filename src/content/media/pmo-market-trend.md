@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["PMO", "市場動向"]
 pubDate: 2026-07-04
 slug: "pmo-market-trend"
+hub: "pmo"
 image: "/images/media/pmo-market-trend.png"
 related: ["pmo-english", "pmo-career-guide", "pmo-certification", "data-analyst-market-trend", "mobile-engineer-market-trend"]
 ---
@@ -20,6 +21,11 @@ PMO求人は、大別すると「コンサルファーム・SIer等の常駐型�
 以前は「PMOはコンサルや外部ベンダーに委託するもの」という認識が多くの企業で一般的でした。しかし、基幹システム刷新・ERP導入・クラウド移行・データ基盤整備といったプロジェクトが長期・反復的に発生するようになったことで、外部依存のコストと情報流出リスクを意識する企業が増えています。その結果、内製PMO人材の採用が増え、かつポジションの格も上がりつつある傾向があります。
 
 求人のボリュームゾーンとしては、金融・製造・流通・医療などの「DX投資が本格化した非IT業界の大手企業」と、急速に組織拡大が進む「SaaS・スタートアップ」の2つが挙げられます。前者はガバナンス・コンプライアンス要件が厳しく、後者はスピードと柔軟性が求められる点で、同じPMOでも求められるスタンスが異なります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用ニーズの構造変化：「補佐」から「機能責任者」へ
 
@@ -77,6 +83,11 @@ PMO求人は、大別すると「コンサルファーム・SIer等の常駐型�
 - 社内調整・ステークホルダー管理の実績
 
 このポジションに採用された候補者の多くは、コンサルファームやSIerでPMOコンサルタントを5〜8年程度経験した後に「事業会社でオーナーシップを持ちたい」という動機で転職しているケースが目立ちます。年収面では、コンサルファーム時代より若干下がるケースもあれば、グレードや裁量の大きさを評価されて横ばい〜上昇するケースもあり、一律ではありません。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

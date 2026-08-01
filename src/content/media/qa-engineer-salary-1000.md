@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["QAエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "qa-engineer-salary-1000"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-salary-1000.png"
 related: ["qa-engineer-certification", "qa-engineer-how-to-use-agent", "qa-engineer-interview", "bizdev-salary-1000", "data-analyst-salary-1000"]
 ---
@@ -31,6 +32,11 @@ QAエンジニアとして年収1,000万円の水準に到達することは、�
 このテーブルが示す通り、1,000万円前後はシニアの上位からスタッフ・マネージャーレンジに相当する。職種内の相対的な位置づけとしては上位1〜2割程度の水準と見るのが自然であり、平均的なQAエンジニアのキャリアパスをそのまま延長しただけでは到達しにくい領域でもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## 到達者に共通する3つの軸
 
@@ -98,6 +104,11 @@ QAドメインを起点に、エンジニアリング組織全体の技術的意
 上記の経験を構造化して提示したことで、スタッフQAエンジニアとして年収1,100万円での内定を複数社から取得。「技術的なテスト設計能力」と「事業インパクトの言語化」「育成実績」が三位一体で評価されたケースである。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

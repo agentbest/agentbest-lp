@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["SAPコンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "sap-consultant-from-scratch"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-from-scratch.png"
 related: ["sap-consultant-in-30s", "sap-consultant-career-guide", "sap-consultant-salary-1000", "bizdev-from-scratch", "scm-consultant-from-scratch"]
 ---
@@ -28,6 +29,11 @@ SAPとは、ドイツ発のERPパッケージソフトウェアの代名詞で�
 未経験転職が現実的に目指せる入口は、機能コンサルタントまたは技術コンサルタントのジュニアポジションが中心になる。PMは実務経験を積んだ後のキャリアアップとして位置づける方が実態に即している。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験転職の現実：市場が求めるものと乖離しやすい点
 
@@ -115,6 +121,11 @@ SAPコンサルタントの報酬は、経験年数・モジュール・所属�
 外資系コンサルティングファームやフリーランス転向後は上記レンジより上振れするケースもあるが、それは特定のモジュールで深い専門性を確立した後の話である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

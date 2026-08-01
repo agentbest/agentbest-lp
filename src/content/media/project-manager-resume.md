@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["プロジェクトマネージャー", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "project-manager-resume"
+hub: "project-manager"
 image: "/images/media/project-manager-resume.png"
 related: ["project-manager-in-20s", "project-manager-certification", "project-manager-career-guide", "it-consultant-resume", "hrbp-resume"]
 ---
@@ -31,6 +32,11 @@ PMは職種の特性上、「自分で手を動かして成果を出した」の
 QCD（品質・コスト・納期）の達成率、課題解決がもたらしたビジネスインパクトなど、数字で語れる成果が重要です。ただし数字を羅列するだけでは不十分で、「なぜその成果が出たか」という因果関係を添えることで説得力が増します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の推奨構成
 
@@ -144,6 +150,11 @@ DXプロジェクトのPMを務めてまいりました。予算規模は5,000�
 ポイントは「業種」「規模感の数値」「強みの領域」「直近のハイライト」の4要素を含めることです。この要素が揃うと、採用担当者が候補者の「レイヤー感」を即座に把握できます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

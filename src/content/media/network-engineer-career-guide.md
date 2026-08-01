@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["ネットワークエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "network-engineer-career-guide"
+hub: "network-engineer"
 image: "/images/media/network-engineer-career-guide.png"
 related: ["network-engineer-how-to-use-agent", "network-engineer-failure", "network-engineer-resume", "saas-sales-career-guide", "pmo-career-guide"]
 ---
@@ -37,6 +38,11 @@ AWS・Azure・GCPにおけるVPC設計、Transit Gateway・ExpressRoute・Cloud 
 Ansible・Python・Terraformを活用したInfrastructure as Code（IaC）、CI/CDパイプラインへの統合など。従来のネットワークエンジニアの業務にソフトウェアエンジニアリングのアプローチを組み合わせる領域で、希少性が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値と年収レンジの目安
 
@@ -117,6 +123,11 @@ SIerからの転職では、「何を作ったか」だけでなく「どうい�
 ネットワークエンジニア案件は、IT系の総合エージェントと、インフラ・セキュリティ領域に特化したエージェントの両方を並行して使うことが実務上は効果的である。特化型のエージェントは、JD（求人票）に書かれていない現場の技術スタックや評価観点を把握していることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

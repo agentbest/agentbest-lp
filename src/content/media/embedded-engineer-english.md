@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["組み込みエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-english"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-english.png"
 related: ["embedded-engineer-failure", "embedded-engineer-salary-600", "embedded-engineer-in-20s", "game-engineer-english", "data-analyst-english"]
 ---
@@ -24,6 +25,11 @@ related: ["embedded-engineer-failure", "embedded-engineer-salary-600", "embedded
 **三つ目は、グローバル製品開発への参画**。車載・産業機器・医療機器など、製品そのものがグローバル展開を前提としているプロジェクトでは、国際標準規格（ISO 26262、IEC 62443など）の原文理解、海外パートナー企業との共同設計、英語でのコードレビューやドキュメント管理が日常業務に組み込まれやすい。
 
 逆に言えば、国内向け製品のファームウェア開発を主業務とするポジションであれば、英語の必要頻度は相対的に低い。英語力がキャリアのボトルネックになるかどうかは、在籍する企業の事業領域と、その人が目指すポジションによって大きく異なる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-english">無料で相談する</a>
+</aside>
 
 ## 英語力が求人市場でどう評価されるか
 
@@ -73,6 +79,11 @@ TOEIC換算で目安を示すと、次のような傾向が見られる。
 第二に、英文ライティングの精度を上げる。海外ベンダーへの問い合わせや技術仕様のやり取りは、口頭より文書が先行することが多い。Grammarly等のツールを活用しながら、簡潔で論理的な技術英文を書く練習は費用対効果が高い。
 
 第三に、ビジネス英会話は「最低限聞ける・話せる」を目指す。流暢さより、専門用語を使って意図を正確に伝え、相手の技術的な問いに答えられる水準を優先する方が実務では評価されやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

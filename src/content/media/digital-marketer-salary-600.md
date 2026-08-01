@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["デジタルマーケター", "年収600万"]
 pubDate: 2026-07-04
 slug: "digital-marketer-salary-600"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-salary-600.png"
 related: ["digital-marketer-failure", "digital-marketer-english", "digital-marketer-future", "data-consultant-salary-600", "project-manager-salary-600"]
 ---
@@ -25,6 +26,11 @@ related: ["digital-marketer-failure", "digital-marketer-english", "digital-marke
 | マネージャー・部門責任者 | P&L責任・事業貢献の定量化・組織設計 | 800万円〜 |
 
 表を見ると、中堅層（実務3〜5年）のレンジ上限付近に600万円が位置していることがわかります。つまり、600万円という数字は「上位中堅」と「スペシャリスト・リーダー層」の境目に相当します。この境界を越えるには、業務の熟練度だけでなく、**役割の質的変化**が求められます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁になる要素
 
@@ -82,6 +88,11 @@ SEO・コンテンツ戦略、グロースハック、マーケティングオ�
 同領域のスタートアップへ転職。年収650万円でのオファー。役割はマーケティングマネージャーとして予算責任を持つポジション。
 
 このケースが示すのは、**スキルの中身よりも「どのように役割を定義していたか」が評価に直結する**という構造です。同じ業務をしていても、「実行者」として語るか「成果の責任者」として語るかでは、採用側の評価が異なります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

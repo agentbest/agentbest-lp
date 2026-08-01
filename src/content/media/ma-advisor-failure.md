@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["M&Aアドバイザー", "転職失敗"]
 pubDate: 2026-07-04
 slug: "ma-advisor-failure"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-failure.png"
 related: ["ma-advisor-salary-1000", "ma-advisor-how-to-use-agent", "ma-advisor-resume", "corporate-planning-failure", "business-consultant-failure"]
 ---
@@ -28,6 +29,11 @@ M&Aアドバイザーの転職は、一般的なビジネスパーソンの転�
 **組織文化の特殊性**　FAとして独立採算に近い動き方をする組織もあれば、セクター横断でチームワークを重視する組織もあります。自分のスタイルとの適合が、パフォーマンスや定着率に直結します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターン5類型
 
@@ -107,6 +113,11 @@ M&A業界の採用は「今すぐ決断してほしい」というプレッシ�
 コンサルからM&Aアドバイザーへの転移は、分析能力の移転よりも「案件発掘・関係構築のスタイル変化」の適応がより重要です。この構造的な差異を、入社前に具体的なエピソードで確認しておくことが、ミスマッチを防ぐうえで有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

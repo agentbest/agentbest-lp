@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["シンクタンク研究員", "転職失敗"]
 pubDate: 2026-07-05
 slug: "thinktank-failure"
+hub: "thinktank"
 image: "/images/media/thinktank-failure.png"
 related: ["thinktank-english", "thinktank-how-to-use-agent", "thinktank-company-size", "freelance-consultant-failure", "cto-vpoe-failure"]
 ---
@@ -22,6 +23,11 @@ related: ["thinktank-english", "thinktank-how-to-use-agent", "thinktank-company-
 この「スキルと市場評価のずれ」こそが、シンクタンク研究員の転職失敗の根本にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターン｜5つの類型
 
@@ -110,6 +116,11 @@ related: ["thinktank-english", "thinktank-how-to-use-agent", "thinktank-company-
 - [ ] 転職後の2〜3年間のキャリアの具体像を持っているか
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

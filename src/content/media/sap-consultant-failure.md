@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["SAPコンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "sap-consultant-failure"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-failure.png"
 related: ["sap-consultant-salary-1000", "sap-consultant-in-30s", "sap-consultant-future", "fas-consultant-failure", "data-scientist-failure"]
 ---
@@ -60,6 +61,11 @@ SAAコンサルタント市場では、転職によって年収レンジが改�
 
 ---
 
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
+
 ## フェーズ別：後悔を防ぐチェックリスト
 
 以下は、転職プロセスの各フェーズで確認すべき事項を整理したものです。
@@ -94,6 +100,11 @@ FIモジュール（財務会計）でECC環境を中心に約10年の経験を�
 このように、条件面の優劣だけでなく、自分のキャリアの現在地と将来の方向性を基点に判断の軸を持つことが、後悔しない転職の土台となりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

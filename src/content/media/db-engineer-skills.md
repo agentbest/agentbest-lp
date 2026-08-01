@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["データベースエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "db-engineer-skills"
+hub: "db-engineer"
 image: "/images/media/db-engineer-skills.png"
 related: ["db-engineer-resume", "db-engineer-interview", "db-engineer-company-size", "sre-skills", "digital-marketer-skills"]
 ---
@@ -24,6 +25,11 @@ related: ["db-engineer-resume", "db-engineer-interview", "db-engineer-company-si
 採用市場では、この三層をバランスよく積み上げた人材が最も流動性が高く、年収交渉でも有利な傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## スキル別の市場評価：優先順位付きで解説
 
@@ -109,6 +115,11 @@ IaCツール（Terraform・CloudFormationなど）を用いてDB環境を構築�
 このような軌跡は、「PostgreSQLならこの人」という専門性と、設計・コミュニケーション能力の両立を示すキャリアとして、評価が安定しやすい型と言えます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

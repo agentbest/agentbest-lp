@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["Web3・ブロックチェーン", "業界年収"]
 pubDate: 2026-07-05
 slug: "web3-industry-salary"
+hub: "web3-industry"
 image: "/images/media/web3-industry-salary.png"
 related: ["web3-industry-company", "web3-industry-career", "web3-industry-guide", "fintech-industry-salary", "legaltech-industry-salary"]
 ---
@@ -24,6 +25,11 @@ Web3・ブロックチェーン業界の年収は、職種・ポジション・�
 業界全体として年収が押し上げられる要因は主に三つあります。第一に、ブロックチェーンエンジニアやZKP（ゼロ知識証明）研究者など、特定スキルの供給が著しく限られていること。第二に、シンガポール・ドバイ・ケイマン諸島などに拠点を置く海外エンティティと日本法人が並存するため、採用市場がグローバルの給与水準と連動しやすいこと。第三に、トークンによるアップサイドが期待できるため、キャッシュ年収を抑えた分を補填する形で企業側が柔軟なオファーを出しやすいことです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-salary">無料で相談する</a>
+</aside>
 
 ## 職種別 年収レンジの目安
 
@@ -92,6 +98,11 @@ Web3業界の転職では、提示年収の数字だけを比較すると実態�
 **給与通貨とレート変動リスク**：ドルやシンガポールドル建てで支払われる場合、円高が進行すると実質的な手取りが減少します。固定レート換算か変動レートかも確認事項です。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["DevOpsエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "devops-engineer-how-to-use-agent"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-how-to-use-agent.png"
 related: ["devops-engineer-company-size", "devops-engineer-skills", "devops-engineer-interview", "enterprise-sales-how-to-use-agent", "presales-how-to-use-agent"]
 ---
@@ -26,6 +27,11 @@ DevOpsエンジニアの転職が他の職種と異なる点は、「職種定�
 加えて、DevOpsポジションは非公開求人の比率が高い傾向があります。採用人数が少なく、スキルセットのフィット感が重視されるため、候補者に直接リーチすることを好む企業が多いためです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを使うことで得られる具体的な価値
 
@@ -92,6 +98,11 @@ DevOpsエンジニアの年収レンジは、ミッションとスキルセッ�
 このケースで機能したのは、「転職先の絞り込み精度」と「経験の言語化支援」の2点です。エージェントが職種理解を持っているかどうかによって、この2点の質は大きく異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

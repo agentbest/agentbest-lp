@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["ITコンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "it-consultant-failure"
+hub: "it-consultant"
 image: "/images/media/it-consultant-failure.png"
 related: ["it-consultant-career-guide", "it-consultant-in-30s", "it-consultant-salary-600", "solution-architect-failure", "recruiter-failure"]
 ---
@@ -80,6 +81,11 @@ ITコンサルの選考は複数回・複数人の面接が一般的で、その
 
 ---
 
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-failure">キャリアを相談する</a>
+</aside>
+
 ## ケーススタディ：SIer出身のAさん（32歳）の転職経験
 
 SIerで5年間、金融系クライアント向けのシステム要件定義・プロジェクト管理を担当してきたAさんが、「戦略・デジタル領域のコンサルにキャリアシフトしたい」と考え、複数の独立系コンサルファームへ転職活動を行ったケースを整理する。
@@ -119,6 +125,11 @@ SIerで5年間、金融系クライアント向けのシステム要件定義・
 - [ ] 当該ファームの「出口」事例を複数把握した
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

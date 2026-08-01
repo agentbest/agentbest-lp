@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["ITコンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "it-consultant-market-trend"
+hub: "it-consultant"
 image: "/images/media/it-consultant-market-trend.png"
 related: ["it-consultant-salary", "it-consultant-certification", "it-consultant-skills", "post-consultant-market-trend", "freelance-consultant-market-trend"]
 ---
@@ -22,6 +23,11 @@ ITコンサルタントの転職市場は、2025年から2026年にかけて構�
 - 戦略提言だけでなく、実行支援・PMO機能まで担える人材
 - SaaSやクラウドインフラの知識を前提とした業務改革提案ができる人材
 - 生成AI・データ分析を業務設計に組み込める人材
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 求人数・採用フローの変化
 
@@ -86,6 +92,11 @@ ERP関連は、SAPのサポート期限延長問題や基幹系のクラウド�
 - 年収レンジの目安としては、ファームからの転身では1,000〜1,200万円前後の提示が出るケースもあるが、企業規模・役割・地域によって幅がある
 
 この事例が示すのは、「上流志向」を実現するための道筋が一本ではないという点だ。大手戦略ファームに転職することが唯一の選択肢ではなく、事業会社内での「コンサルタント的ポジション」にもキャリアの発展余地が広がっている。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

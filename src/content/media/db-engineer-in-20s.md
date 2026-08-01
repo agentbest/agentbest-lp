@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["データベースエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "db-engineer-in-20s"
+hub: "db-engineer"
 image: "/images/media/db-engineer-in-20s.png"
 related: ["db-engineer-work-style", "db-engineer-salary-1000", "db-engineer-failure", "fas-consultant-in-20s", "marketing-manager-in-20s"]
 ---
@@ -45,6 +46,11 @@ DBエンジニアのポテンシャル採用において、「未経験でも歓
 | クラウドDB（AWS RDS等） | マネージドDBサービスの構成・運用経験 | 経験があれば大きな差別化になる。なくても学習意欲で補える場合あり |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代DBエンジニアの年収レンジと職場環境の実態
 
@@ -106,6 +112,11 @@ DB専任ではなくデータ基盤全体を担うポジションとして採用
 この型から読み取れるのは、ポテンシャル採用においては「何ができるか」だけでなく「なぜその判断をしたか」を言語化できる能力が、実際の技術力と同等かそれ以上に評価されるという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

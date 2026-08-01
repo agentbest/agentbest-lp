@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["プロジェクトマネージャー", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "project-manager-company-size"
+hub: "project-manager"
 image: "/images/media/project-manager-company-size.png"
 related: ["project-manager-work-style", "project-manager-skills", "project-manager-in-30s", "pr-company-size", "network-engineer-company-size"]
 ---
@@ -30,6 +31,11 @@ related: ["project-manager-work-style", "project-manager-skills", "project-manag
 スタートアップでは、意思決定のスピードが速い反面、PMが「正しい問いを立てる力」「不確実性の中で動く力」を問われる場面が多い。承認構造が薄い分、失敗のコストも自分に帰属しやすく、PDCA サイクルの体験密度が高まる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収・処遇の目安：段階別の比較
 
@@ -95,6 +101,11 @@ SaaS系スタートアップで3年間、プロダクト開発のPMを経験。M
 「大手→スタートアップ」の方向は市場全体として需要が安定しており、「スタートアップ→大手」は実績の言語化能力（大手の評価基準に合わせて自分の経験を伝える力）が転職成否を左右しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

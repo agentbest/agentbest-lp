@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["ブリッジSE", "年収1000万"]
 pubDate: 2026-07-04
 slug: "bridge-se-salary-1000"
+hub: "bridge-se"
 image: "/images/media/bridge-se-salary-1000.png"
 related: ["bridge-se-in-30s", "bridge-se-career-path", "bridge-se-certification", "strategy-consultant-salary-1000", "network-engineer-salary-1000"]
 ---
@@ -25,6 +26,11 @@ related: ["bridge-se-in-30s", "bridge-se-career-path", "bridge-se-certification"
 | シニアPM・事業責任者クラス | 戦略立案・ベンダーマネジメント全体 | 1,000〜1,400万円以上 |
 
 この表から読み取れるのは、年収1,000万円の到達には「経験年数だけでは不十分」という事実である。経験年数が8年を超えていても、役割がコーディネーターやサブPMの範囲にとどまる場合、850万円前後で頭打ちになりやすい傾向がある。役割の質が、年収水準を分ける最大の変数になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-salary-1000">無料で相談する</a>
+</aside>
 
 ## 到達者に共通する3つのキャリア経路
 
@@ -71,6 +77,11 @@ ITコンサルティング会社やシステムインテグレーターのコン
 **要因の分析：** 言語・技術・プロジェクト管理の三要素を兼ね備える点が希少性として評価された。また、転職前に「何を管理し、どのような判断をし、どの程度のリスクを扱ったか」を定量・定性の両面で整理した職務経歴書が、書類選考・面接の双方で機能した。
 
 このケースは「年収1,000万円を目指すにはどう動けばよいか」という問いに対し、一定の示唆を与えてくれる構造である。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["インフラエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "infra-engineer-salary-600"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-salary-600.png"
 related: ["infra-engineer-career-guide", "infra-engineer-skills", "infra-engineer-career-path", "corporate-planning-salary-600", "ma-advisor-salary-600"]
 ---
@@ -32,6 +33,11 @@ related: ["infra-engineer-career-guide", "infra-engineer-skills", "infra-enginee
 この表からわかる通り、600万円という数値は「中級の上位から上位層の入り口」にあたる水準です。この前後に市場での評価の段差が生じやすく、同じ「インフラエンジニア」という職種名を持っていても、スキルの深さや担う責任の範囲によって処遇が大きく異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円が壁になりやすい構造的な理由
 
@@ -98,6 +104,11 @@ Site Reliability Engineering（SRE）やプラットフォームエンジニア�
 この例のポイントは「転職先を変える前に、現職での実績を作る」という順序です。スキルと実績の積み上げが先にあることで、採用側の評価基準を満たしやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

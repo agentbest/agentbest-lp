@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["QAエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "qa-engineer-salary"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-salary.png"
 related: ["qa-engineer-salary-1000", "qa-engineer-market-trend", "qa-engineer-resume", "big4-consultant-salary", "platform-engineer-salary"]
 ---
@@ -45,6 +46,11 @@ QAエンジニアの年収に影響を与える要素は、経験年数だけで
 自動化・セキュリティ・パフォーマンス領域のスキルは、エンジニアとしての専門性として認識されやすく、評価軸が手動テストとは異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## QAエンジニアが年収を引き上げるための構造的なアプローチ
 
@@ -94,6 +100,11 @@ QAエンジニアの年収に影響を与える要素は、経験年数だけで
 転職後の年収は580万〜620万円レンジへの移行が起こりやすいケースです。同様のスキルと実績があっても、「語れる状態」にあるかどうかで内定条件に差が生じやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

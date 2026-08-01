@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["事業企画", "未経験転職"]
 pubDate: 2026-07-04
 slug: "business-planning-from-scratch"
+hub: "business-planning"
 image: "/images/media/business-planning-from-scratch.png"
 related: ["business-planning-certification", "business-planning-career-guide", "business-planning-market-trend", "product-manager-from-scratch", "embedded-engineer-from-scratch"]
 ---
@@ -25,6 +26,11 @@ related: ["business-planning-certification", "business-planning-career-guide", "
 | M&A・アライアンス型 | 提携交渉・デューデリジェンス補助・PMI | 事業会社の投資・戦略部門 |
 
 未経験転職を目指す場合、上記のどの類型かによって「何を準備すべきか」が変わります。なかでもスタートアップの新規事業開発型と大手の経営管理隣接型では、求められる経験の性質がほぼ異なる職種と考えてよいでしょう。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 事業企画に求められるスキルの構造
 
@@ -100,6 +106,11 @@ Excelによるピボット集計、基本的なSQL（SELECT・JOIN程度）、Go
 ### 財務・会計の基礎を押さえる
 
 事業企画の実務では、P&L（損益計算書）の構造理解、投資回収の試算、コスト構造の把握といった財務リテラシーが必要になる場面が多くあります。簿記3〜2級レベルの知識、またはファイナンス入門書1〜2冊分の理解が準備として有効です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

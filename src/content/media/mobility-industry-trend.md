@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["モビリティ・自動運転", "業界動向"]
 pubDate: 2026-07-05
 slug: "mobility-industry-trend"
+hub: "mobility-industry"
 image: "/images/media/mobility-industry-trend.png"
 related: ["mobility-industry-guide", "mobility-industry-career", "mobility-industry-salary", "game-industry-trend", "ec-industry-trend"]
 ---
@@ -20,6 +21,11 @@ related: ["mobility-industry-guide", "mobility-industry-career", "mobility-indus
 この変化を生み出した背景の一つが、2023年に施行された改正道路交通法における「レベル4」の解禁である。レベル4とは、特定の条件・エリア内であれば運転者なしでの自動走行が法的に認められた状態を指す。これにより、自治体や民間企業が主体となった有人・無人の移動サービスが順次立ち上がり、実証段階を卒業したビジネスモデルの模索が本格化した。
 
 一方、海外に目を向けると、北米ではWaymoが特定都市圏でのライドシェア型ロボタクシーを継続運用しており、中国でも複数のプレイヤーが都市部での商業サービスを展開している。グローバルな開発競争は収束ではなく、ステークホルダーの選別・集約の段階に入っていると見るのが実態に近い。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 業界構造の複層性を理解する
 
@@ -80,6 +86,11 @@ MaaS系のプロダクトPMとして数年の実績を積むと、交通イン�
 成長性という観点では、国内の高齢化・過疎化による移動弱者問題が市場の持続的な駆動力になりうる。公共交通の維持が困難な地域での自動運転活用は、採算よりも社会的必要性が先行するため、補助金・実証事業を通じた資金流入が続きやすい構造にある。
 
 一方でリスクも無視できない。技術開発コストが重く、収益化まで長期間を要するビジネスモデルが多いため、資金調達環境の変化が採用規模に直接影響しやすい。2023〜2024年にかけて、海外ではレイオフや事業縮小を選択したプレイヤーも複数存在した。企業を選ぶ際には、事業フェーズ・財務状況・収益化の見通しを確認する視点が不可欠である。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["IoT・ハードウェアテック", "業界年収"]
 pubDate: 2026-07-05
 slug: "iot-industry-salary"
+hub: "iot-industry"
 image: "/images/media/iot-industry-salary.png"
 related: ["iot-industry-guide", "iot-industry-trend", "iot-industry-career", "security-industry-salary", "edtech-industry-salary"]
 ---
@@ -34,6 +35,11 @@ IoT・ハードウェアテック業界の年収は、純粋なSaaS企業と比�
 上記はあくまで相場観の目安であり、同一企業内でもポジション・評価によって幅があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 職種別の年収レンジと特性
 
@@ -106,6 +112,11 @@ C/C++によるマイコン制御・RTOS・ドライバ開発が主戦場です�
 このケースに見られるように、同等の技術スキルでも「どのフェーズ・どのモデルの企業を選ぶか」が処遇の差を生む構造になっています。スキル自体のアップデートと並行して、転先企業のビジネスモデル理解が重要になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

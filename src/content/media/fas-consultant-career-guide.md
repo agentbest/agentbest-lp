@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["会計・財務コンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "fas-consultant-career-guide"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-career-guide.png"
 related: ["fas-consultant-salary-600", "fas-consultant-english", "fas-consultant-from-scratch", "solution-architect-career-guide", "pmo-consultant-career-guide"]
 ---
@@ -46,6 +47,11 @@ IFRS導入、収益認識基準への対応、サステナビリティ開示（C
 | スタートアップ・PE投資先 | CFO候補・管理部門立ち上げ | 管理体制構築・上場準備経験 |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値を左右する要因
 
@@ -129,6 +135,11 @@ IFRS導入、収益認識基準への対応、サステナビリティ開示（C
 財務DDやバリュエーションの経験を問う技術的な質問が出題されることがある。たとえば「EBITDAの正規化調整において注意すべき点は何か」「PPA（取得原価の配分）における主な識別可能資産の例を挙げてほしい」といった質問である。実務経験をベースに、自分の言葉で論理的に説明できる準備が求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

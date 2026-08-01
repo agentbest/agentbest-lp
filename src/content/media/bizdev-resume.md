@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["事業開発", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "bizdev-resume"
+hub: "bizdev"
 image: "/images/media/bizdev-resume.png"
 related: ["bizdev-company-size", "bizdev-skills", "bizdev-in-20s", "game-engineer-resume", "finance-resume"]
 ---
@@ -24,6 +25,11 @@ related: ["bizdev-company-size", "bizdev-skills", "bizdev-in-20s", "game-enginee
 また、事業開発は単独で完結する仕事ではなく、社内外の多くの関係者を巻き込む職種です。そのため、「個人の成果」と「チームや会社全体の成果」をどう切り分けて記述するかという問題も生じます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 書類通過率を左右する3つの構成要素
 
@@ -110,6 +116,11 @@ related: ["bizdev-company-size", "bizdev-skills", "bizdev-in-20s", "game-enginee
 転職先のフェーズや企業規模に応じて、自分の経験のどの側面を前面に出すかを調整することが大切です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

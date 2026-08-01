@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["カスタマーサクセス", "20代転職"]
 pubDate: 2026-07-03
 slug: "customer-success-in-20s"
+hub: "customer-success"
 image: "/images/media/customer-success-in-20s.png"
 related: ["customer-success-salary", "customer-success-work-style", "customer-success-career-guide", "it-architect-in-20s", "network-engineer-in-20s"]
 ---
@@ -27,6 +28,11 @@ related: ["customer-success-salary", "customer-success-work-style", "customer-su
 重要なのは、「CS未経験」と「ポテンシャル採用」は必ずしも同義ではない点だ。CS職自体の経験がなくても、業務の構造が近い職種（インサイドセールス、カスタマーサポート、SIerのプロジェクト管理、コンサルファームのアナリストなど）を経験していれば、ポテンシャルではなく準即戦力として評価されるケースも多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代CS転職の市場実態：フェーズ別・ポジション別の違い
 
@@ -97,6 +103,11 @@ CSの経験は皆無だったが、「顧客の成功を定義して動く」と
    CSからPdM・セールス・マーケティングへの異動実績がある企業は、CSを「キャリアの入口」として機能させていることを意味する。カルチャーデックや社員インタビューで確認できることがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

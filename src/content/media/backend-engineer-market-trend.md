@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["バックエンドエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "backend-engineer-market-trend"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-market-trend.png"
 related: ["backend-engineer-interview", "backend-engineer-work-style", "backend-engineer-from-scratch", "mlops-engineer-market-trend", "game-engineer-market-trend"]
 ---
@@ -31,6 +32,11 @@ related: ["backend-engineer-interview", "backend-engineer-work-style", "backend-
 求人全体の傾向として注目すべきは、「フルサイクル」を期待されるポジションの増加だ。設計からリリース・運用監視まで関与できるエンジニアへの需要が高まっており、コーディングのみに特化したポジションは相対的に需給が緩和しやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用ニーズの質的変化：3つの軸
 
@@ -104,6 +110,11 @@ related: ["backend-engineer-interview", "backend-engineer-work-style", "backend-
 - **セキュリティ要件の内製化**：外部委託していたセキュリティ実装を内製化する動きから、セキュアコーディング・脆弱性対応の経験が採用差別化につながりやすくなっている
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["サイバーセキュリティ", "業界動向"]
 pubDate: 2026-07-05
 slug: "security-industry-trend"
+hub: "security-industry"
 image: "/images/media/security-industry-trend.png"
 related: ["security-industry-guide", "security-industry-company", "security-industry-career", "edtech-industry-trend", "saas-industry-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["security-industry-guide", "security-industry-company", "security-indu
 ### AI・クラウドの普及に伴う攻撃面の拡大
 
 クラウドネイティブな環境の普及により、攻撃対象となりうる領域（アタックサーフェス）が拡大している。加えて、生成AIを活用したフィッシングやソーシャルエンジニアリングの手口が高度化しており、防御側もAIを活用した脅威検知・対応の自動化を推進するケースが増えている。この結果、従来の「境界防御」の発想から「ゼロトラスト」「SASE」などのアーキテクチャ設計が重視されるようになり、クラウドセキュリティやIDaaS周辺の専門人材の希少性が高まっている。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種別・採用トレンドの全体像
 
@@ -75,6 +81,11 @@ SOCアナリストやペネトレーションテスターといった実務職�
 ### 年収の「二極化」傾向
 
 市場全体の需要拡大とは裏腹に、汎用化した技術スキルのみを持つ人材と、希少な専門性・マネジメント能力を持つ人材の間で年収格差が広がる傾向にある。SOCの一次オペレーション業務は自動化・オフショア化の対象になりやすく、一方で設計・判断・対外折衝を伴う上位レイヤーの業務はむしろ需要が増している。この構造を踏まえると、中長期的なキャリア形成において「オペレーターから設計者・判断者への移行」を意識することが重要になる。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

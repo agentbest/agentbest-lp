@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["QAエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "qa-engineer-career-guide"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-career-guide.png"
 related: ["qa-engineer-english", "qa-engineer-future", "qa-engineer-how-to-use-agent", "product-manager-career-guide", "it-architect-career-guide"]
 ---
@@ -31,6 +32,11 @@ QAエンジニアは、ソフトウェア製品の品質を保証するために
 近年は自動化テストの設計・実装スキルが重視されるようになっています。Selenium・Playwright・Appiumなどのテスト自動化ツールへの習熟、CI/CDパイプラインへのテスト組み込み経験、Pythonや JavaScriptなどのスクリプト言語の実用的な読み書きができること——これらは上位層の求人において実質的な必須要件となりつつあります。
 
 加えて、アジャイル・スクラム開発への適応力、APIテストの経験（Postmanなど）、パフォーマンステストやセキュリティテストの基礎知識も、キャリアの幅を広げるうえで有効です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## QAエンジニアの市場価値と年収の目安
 
@@ -89,6 +95,11 @@ QAエンジニアの職務経歴書で最も差が出るのは「何をテスト
 - **品質判断の根拠を問う質問**：「どの段階でリリース可能と判断しますか」——テスト設計の思想と優先付けの論理を整理しておく
 - **開発チームとの連携事例**：QAが孤立していない組織での経験が評価されやすい
 - **不具合報告の質**：バグレポートの書き方・再現手順の精緻さ・開発者が動きやすい情報設計——これを具体的に語れるか
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

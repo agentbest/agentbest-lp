@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["エンタープライズセールス", "志望動機"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-motivation"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-motivation.png"
 related: ["enterprise-sales-career-guide", "enterprise-sales-certification", "enterprise-sales-how-to-use-agent", "recruiter-motivation", "corporate-it-motivation"]
 ---
@@ -31,6 +32,11 @@ related: ["enterprise-sales-career-guide", "enterprise-sales-certification", "en
 採用担当は志望動機を通じて、こうした業務特性を理解したうえで応募しているかを確認しています。「大きな案件を動かしたい」という言葉の裏に、長期的な関係構築への耐性、複数ステークホルダーへの対応経験、あるいはそれを学ぼうとする意欲があるかを読み取ろうとします。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 志望動機を構成する3つの軸
 
@@ -95,6 +101,11 @@ related: ["enterprise-sales-career-guide", "enterprise-sales-certification", "en
 書類の志望動機はこうした問いへの「仮説の種」として機能します。書類と口頭での説明に一貫性があり、具体的なエピソードで裏付けられると、評価が安定しやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

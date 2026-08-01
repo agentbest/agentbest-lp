@@ -8,10 +8,11 @@ export async function getStaticPaths() {
   const posts = await getCollection('media');
   const groups = new Map();
   for (const p of posts) {
-    const key = p.data.jobType ?? p.data.industry;
+    const key = p.data.jobType ?? p.data.industry ?? p.data.companyName;
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(p);
   }
+  // 後方互換：hub 未指定の記事群は従来どおり記事slugの共通接頭辞から推定する
   function commonPrefix(arr) {
     if (arr.length === 1) return arr[0];
     let pre = arr[0];
@@ -21,7 +22,9 @@ export async function getStaticPaths() {
     return pre.replace(/-$/, '');
   }
   return [...groups.entries()].map(([name, items]) => ({
-    params: { cat: commonPrefix(items.map((i) => i.slug)) },
+    params: {
+      cat: items.find((i) => i.data.hub)?.data.hub ?? commonPrefix(items.map((i) => i.slug)),
+    },
     props: { name, items, category: items[0].data.category },
   }));
 }
@@ -35,7 +38,7 @@ const description = `${name}の転職・キャリアに関する記事一覧で�
 <Layout title={title} description={description}>
   <Header />
   <section class="hub">
-    <p class="breadcrumb"><a href="/media">キャリアメディア</a> / {category === '職種' ? '職種別' : '業界別'}</p>
+    <p class="breadcrumb"><a href="/media">キャリアメディア</a> / {category === '職種' ? '職種別' : category === '企業' ? '企業別' : '業界別'}</p>
     <h1>{name}の転職情報</h1>
     <p class="hub-lead">
       {name}に関する転職・キャリア記事の一覧です。検討フェーズに応じてご活用ください。

@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["デジタルマーケター", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "digital-marketer-resume"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-resume.png"
 related: ["digital-marketer-certification", "digital-marketer-in-30s", "digital-marketer-from-scratch", "thinktank-resume", "mobile-engineer-resume"]
 ---
@@ -20,6 +21,11 @@ related: ["digital-marketer-certification", "digital-marketer-in-30s", "digital-
 また、デジタルマーケティングはツール・チャネルの変化が速く、在籍期間中に担当領域が変わるケースも多い。そのため、職務経歴書には「何の専門家か」が一目でわかる構造が求められる。SEO・運用型広告・MAツール・CRO・データ分析など、スキルセットが広範にわたる職種であるからこそ、採用ポジションに合わせた「強みの輪郭」を明示することが重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-resume">無料で相談する</a>
+</aside>
 
 ## 書類通過率を左右する4つの構成ポイント
 
@@ -118,6 +124,11 @@ related: ["digital-marketer-certification", "digital-marketer-in-30s", "digital-
 応募ポジションの要件を確認したうえで、同じ経験でも「何を前に出すか」を変えることが書類通過率の向上につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["社内SE", "20代転職"]
 pubDate: 2026-07-04
 slug: "corporate-it-in-20s"
+hub: "corporate-it"
 image: "/images/media/corporate-it-in-20s.png"
 related: ["corporate-it-from-scratch", "corporate-it-salary-1000", "corporate-it-motivation", "customer-success-in-20s", "it-consultant-in-20s"]
 ---
@@ -20,6 +21,11 @@ related: ["corporate-it-from-scratch", "corporate-it-salary-1000", "corporate-it
 背景にあるのは人材不足の構造的な問題です。社内SEは外部ベンダーや受託開発と異なり、自社業務の深い理解が必要なため、純粋なスキルよりも「この組織に長く馴染んで動ける人材」が求められやすい傾向があります。その結果、20代の若手に対して育成前提で採用するケースが一定数存在します。
 
 ただし注意が必要なのは、ポテンシャル採用とは「完全未経験でも歓迎」ではなく、「現時点では経験が浅くても素地がある人を採る」という意味合いが強いことです。企業側が求める「素地」の定義が採用判断を大きく左右します。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-in-20s">無料で相談する</a>
+</aside>
 
 ## 採用される20代の実態：どんな背景が評価されるか
 
@@ -92,6 +98,11 @@ related: ["corporate-it-from-scratch", "corporate-it-salary-1000", "corporate-it
 | スタートアップ（ストックオプション別） | 350〜500万円程度 |
 
 社内SEは残業が少ない傾向にあり、月額の額面で比較すると前職より下がる場合もあります。年収だけでなく、働き方・キャリア成長性との総合評価が求められます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

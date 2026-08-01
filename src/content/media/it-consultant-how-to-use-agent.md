@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["ITコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "it-consultant-how-to-use-agent"
+hub: "it-consultant"
 image: "/images/media/it-consultant-how-to-use-agent.png"
 related: ["it-consultant-in-20s", "it-consultant-interview", "it-consultant-career-guide", "customer-success-how-to-use-agent", "product-designer-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ ITコンサルタントのバックグラウンドは多様で、「SIer出身�
 ITコンサルタントの年収は経験・専門性・企業規模によって幅が大きく、同じロールでも企業によって提示額が異なることは珍しくない。エージェントは候補者の代わりに企業の採用担当と給与条件を交渉する立場にある。これは候補者が直接交渉するよりも、感情的なハードルが低く、かつ相場観を持った状態での交渉になるため、結果として条件が改善されやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェント選びの評価軸
 
@@ -77,6 +83,11 @@ ITコンサルタントの転職では、2〜3社のエージェントに並行�
 - **各エージェントの得意領域を把握する。** 大手総合型・IT専門型・コンサル特化型ではそれぞれ保有求人の傾向が異なる。目的別に使い分けることが合理的である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

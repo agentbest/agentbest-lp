@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["プロダクトデザイナー", "志望動機"]
 pubDate: 2026-07-04
 slug: "product-designer-motivation"
+hub: "product-designer"
 image: "/images/media/product-designer-motivation.png"
 related: ["product-designer-skills", "product-designer-market-trend", "product-designer-salary-1000", "product-manager-motivation", "business-consultant-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["product-designer-skills", "product-designer-market-trend", "product-d
 三点のうちいずれかが欠けていると、スキルが高くても「なぜうちでなければならないのか」という疑問が残ります。この問いに答えられるかどうかが、志望動機の核心です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -98,6 +104,11 @@ related: ["product-designer-skills", "product-designer-market-trend", "product-d
 | コンシューマー向けプロダクト | 感情・体験設計への感度 | 「ユーザーリサーチの実践」「プロトタイピングと検証の経験」「ブランドとの整合性を考慮した設計」 |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

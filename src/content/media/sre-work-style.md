@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["SRE", "働き方"]
 pubDate: 2026-07-04
 slug: "sre-work-style"
+hub: "sre"
 image: "/images/media/sre-work-style.png"
 related: ["sre-motivation", "sre-skills", "sre-resume", "strategy-consultant-work-style", "product-designer-work-style"]
 ---
@@ -36,6 +37,11 @@ SREの働き方が他のエンジニア職と最も異なる点は、**オンコ
 「SREがすべてのインフラ・運用タスクを引き受ける」組織と、「SREは共通基盤と信頼性向上施策に集中し、運用責任は開発チームに委譲する」組織では、業務量と種類が根本的に異なります。後者のモデルを採用している組織ほど、SREメンバーは改善・自動化・ツール開発に集中しやすく、慢性的な運用対応に追われにくい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-work-style">無料で相談する</a>
+</aside>
 
 ## 組織規模・フェーズ別の働き方の傾向
 
@@ -109,6 +115,11 @@ IT・SaaS・テック領域全体でリモートワークが普及する中、SR
 この例では、インシデントが発生しない通常日は定時前後に業務が完結しています。月に1〜2回程度、夜間にオンコール対応が発生するサイクルが続いているとのことです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

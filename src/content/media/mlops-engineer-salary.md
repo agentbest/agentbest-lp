@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["MLOpsエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-salary"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-salary.png"
 related: ["mlops-engineer-work-style", "mlops-engineer-market-trend", "mlops-engineer-salary-1000", "finance-salary", "corporate-planning-salary"]
 ---
@@ -29,6 +30,11 @@ MLOpsエンジニアの年収は、機械学習基盤の整備・運用という
 外資系IT・クラウドベンダー（大手クラウドプロバイダーの技術職など）は、給与水準が国内相場よりも高く設定されることが多く、経験とスキルが明確に評価されやすい構造です。スタートアップはキャッシュ年収では他より低くなる傾向があるものの、ストックオプションや成長速度を含めた「総報酬」で選択されるケースが多くなっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-salary">無料で相談する</a>
+</aside>
 
 ## 年収を決める3つの構造的要因
 
@@ -85,6 +91,11 @@ MLOpsは関連技術領域が広く、オーケストレーション（Airflow�
 このケースが示すのは、「実務経験 × 成果の言語化 × 対外的な発信」の組み合わせが、転職時の年収引き上げに機能しやすいという構造です。スキルを磨くことと、それを評価可能な形で提示することは、別の行為として意識する必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["シンクタンク研究員", "市場動向"]
 pubDate: 2026-07-05
 slug: "thinktank-market-trend"
+hub: "thinktank"
 image: "/images/media/thinktank-market-trend.png"
 related: ["thinktank-failure", "thinktank-work-style", "thinktank-career-path", "partner-sales-market-trend", "qa-engineer-market-trend"]
 ---
@@ -24,6 +25,11 @@ related: ["thinktank-failure", "thinktank-work-style", "thinktank-career-path", 
 - テック・データ領域では、政策立案・規制動向の調査を担うアナリスト人材への需要が新規に発生している
 
 いずれのカテゴリでも、単純な文献調査や定性分析にとどまらず、データエンジニアリングや定量モデル構築の素養が付加価値として評価される傾向が強まっている。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-market-trend">無料で相談する</a>
+</aside>
 
 ## 採用ニーズの変化：三つの構造的背景
 
@@ -82,6 +88,11 @@ related: ["thinktank-failure", "thinktank-work-style", "thinktank-career-path", 
 - 短納期・複数案件並行といったコンサルティング的な仕事の進め方
 
 この場合、転職成功の確度を高めるために有効とされるのが、在職中に個人プロジェクトやセカンドオピニオン的な活動で定量スキルを補強しておくこと、および職務経歴書において「政策分析の実績を事業インパクトに翻訳した表現」に書き換えることである。採用担当者が評価しやすい言語への変換が、書類選考の通過率に影響しやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

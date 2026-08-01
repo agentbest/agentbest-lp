@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["SaaS営業", "年収1000万"]
 pubDate: 2026-07-03
 slug: "saas-sales-salary-1000"
+hub: "saas-sales"
 image: "/images/media/saas-sales-salary-1000.png"
 related: ["saas-sales-interview", "saas-sales-future", "saas-sales-motivation", "web-marketer-salary-1000", "infra-engineer-salary-1000"]
 ---
@@ -33,6 +34,11 @@ SaaS営業の報酬は「固定給＋インセンティブ」で構成される�
 一方でIPO後・大企業化した後のSaaS企業では報酬の固定化が進みやすく、個人のパフォーマンスが報酬に直結する幅が狭まることもある。「SaaS＝高年収」という理解は構造を無視した単純化であり、どのフェーズの企業でどの役割を担うかが本質的な問いとなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円に近い層の実態
 
@@ -82,6 +88,11 @@ SMB（中小企業向け）で営業の基礎と数をこなし、30代前後で
 このルートが機能した理由はいくつかある。SIerでの提案経験がエンタープライズ顧客との対話を早期に可能にした点、インサイドセールスを起点にすることで商談の全体フローを構造的に理解していた点、そして転職先のフェーズを意識し「成長途上×エンタープライズ拡大期」の企業を選んだ点が挙げられる。単に「大きな会社に転職した」のではなく、報酬設計が変動報酬比率の高いフェーズにある企業を選択していることが共通している。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

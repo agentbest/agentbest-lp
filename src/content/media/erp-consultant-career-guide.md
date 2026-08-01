@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["ERPコンサルタント", "転職ガイド"]
 pubDate: 2026-07-05
 slug: "erp-consultant-career-guide"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-career-guide.png"
 related: ["erp-consultant-skills", "erp-consultant-career-path", "erp-consultant-market-trend", "mlops-engineer-career-guide", "uiux-designer-career-guide"]
 ---
@@ -34,6 +35,11 @@ ERPコンサルタントの業務は、大きく「上流フェーズ」と「�
 稼働後の定着化支援やサポート業務を専門とするポジションも存在し、特にグローバル展開案件では長期にわたるポストGo-live支援が重要視される。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## ERPコンサルタントが評価される4つの軸
 
@@ -125,6 +131,11 @@ ERPプロジェクトはチームで動くため、個人の貢献が曖昧に�
 SAP Rise with SAP、Oracle Fusion Cloud、Dynamics 365のSaaS化が進む中、「オンプレの設定知識のみ」では中長期的に市場価値が漸減するリスクがある。クラウドアーキテクチャの基礎・API連携・データ連携基盤（iPaaS等）への理解を継続的に更新することが、5〜10年スパンでの競争力維持につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

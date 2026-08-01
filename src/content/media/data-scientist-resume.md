@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["データサイエンティスト", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "data-scientist-resume"
+hub: "data-scientist"
 image: "/images/media/data-scientist-resume.png"
 related: ["data-scientist-certification", "data-scientist-in-20s", "data-scientist-interview", "it-consultant-resume", "mlops-engineer-resume"]
 ---
@@ -40,6 +41,11 @@ related: ["data-scientist-certification", "data-scientist-in-20s", "data-scienti
 A4換算で2〜3枚が目安です。4枚を超えると読み疲れが生じやすく、重要な実績が埋もれる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-resume">無料で相談する</a>
+</aside>
 
 ## スキルセクションの書き方
 
@@ -118,6 +124,11 @@ GitHubアカウントのURLやKaggleのランク・メダルは、技術力の�
 大学院や研究機関でのアカデミックな経験がある場合、その内容を実務文脈に接続して記述することが重要です。「〇〇の研究をしていた」という記載だけでは実務での活用可能性が伝わりにくく、「自然言語処理の研究で培った文書埋め込みの知識を、業務では検索ランキング改善に応用」のように橋渡しすることで評価されやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["CTO・VPoE候補", "将来性"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-future"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-future.png"
 related: ["cto-vpoe-salary", "cto-vpoe-from-scratch", "cto-vpoe-career-path", "partner-sales-future", "legal-future"]
 ---
@@ -18,6 +19,11 @@ related: ["cto-vpoe-salary", "cto-vpoe-from-scratch", "cto-vpoe-career-path", "p
 本稿では、CTO・VPoE候補としてのキャリアを検討している方、あるいはすでにその役割に近いポジションにある方に向けて、AI時代が生む構造変化と、その中で高く評価されやすいプロファイルを整理します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## CTO・VPoEの役割分担を改めて整理する
 
@@ -97,6 +103,11 @@ CTOに限らず、AI時代のエンジニアリングリーダーには、答え
 上記はあくまで市場の相場観として捉えてください。同一ポジション名であっても、組織の規模・責任範囲・事業フェーズによって報酬水準は大きく異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

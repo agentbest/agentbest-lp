@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["経営企画", "未経験転職"]
 pubDate: 2026-07-04
 slug: "corporate-planning-from-scratch"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-from-scratch.png"
 related: ["corporate-planning-how-to-use-agent", "corporate-planning-salary", "corporate-planning-salary-1000", "freelance-consultant-from-scratch", "thinktank-from-scratch"]
 ---
@@ -26,6 +27,11 @@ related: ["corporate-planning-how-to-use-agent", "corporate-planning-salary", "c
 求人票上で「経営企画」と記載されていても、実態が「予算管理中心の管理会計業務」である場合と、「事業戦略の立案とM&A検討を含む戦略業務」である場合では、要求されるスキルセットが大きく異なる。応募前に業務の実態を把握することが、ミスマッチ回避の第一歩となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験転職が難しい構造的な理由
 
@@ -98,6 +104,11 @@ SaaS企業の法人営業として5年間勤務し、後半3年はチームリ�
 このケースが示すのは、「営業→事業企画→経営企画」という2ステップの移行であり、各フェーズで経営数値と接点を持ち続けた点が連続性を生んでいる。資格取得は「証拠として機能するスキルを持っている」ことを示すための手段として機能した。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["Webマーケター", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "web-marketer-career-path"
+hub: "web-marketer"
 image: "/images/media/web-marketer-career-path.png"
 related: ["web-marketer-skills", "web-marketer-future", "web-marketer-resume", "customer-success-career-path", "fas-consultant-career-path"]
 ---
@@ -28,6 +29,11 @@ Webマーケターのキャリアは、大きく3つの軸で考えると整理�
 20代で複数のチャネル施策を経験しながら自分の「軸」を見極め、30代前半で方向性を定め、30代後半で成果を積み上げる——というキャリア設計が、比較的再現性の高いパターンとなっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-career-path">無料で相談する</a>
+</aside>
 
 ## スペシャリスト型：特定領域の第一人者になる
 
@@ -108,6 +114,11 @@ Webマーケターは、顧客獲得コスト・LTV・転換率など、事業�
 フリーランスとして安定して稼働する場合の年収の目安は、実績と領域によって差が大きく、600万円台から1,500万円超まで幅広い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["データ・アナリティクスコンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "data-consultant-work-style"
+hub: "data-consultant"
 image: "/images/media/data-consultant-work-style.png"
 related: ["data-consultant-english", "data-consultant-in-20s", "data-consultant-future", "business-consultant-work-style", "game-engineer-work-style"]
 ---
@@ -24,6 +25,11 @@ DAコンサルタントの労働環境を語る際に注意すべきなのは、
 これら三軸を無視して「データコンサルはきつい／楽だ」と結論づけることは難しい。以下でそれぞれの実態を順に見ていく。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## 所属組織別の稼働傾向
 
@@ -106,6 +112,11 @@ DAコンサルタントの労働環境を語る際に注意すべきなのは、
 この週の残業時間は推定10〜15時間程度。ただし月末のデリバリー前後にはこれが倍以上になる週もあるとされる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["ITコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "it-consultant-company-size"
+hub: "it-consultant"
 image: "/images/media/it-consultant-company-size.png"
 related: ["it-consultant-salary-1000", "it-consultant-how-to-use-agent", "it-consultant-in-30s", "ai-engineer-company-size", "devops-engineer-company-size"]
 ---
@@ -30,6 +31,11 @@ ITコンサルタントとしてのキャリアを考えるとき、「大手フ
 スタートアップでは、経営者や事業責任者と直接対話し、翌週には施策が動き出す、という経験が得られる場面が多い。意思決定の速度と自分の関与度の高さは、特定のフェーズにおいては大きなやりがいになりうる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## 待遇・報酬の比較
 
@@ -97,6 +103,11 @@ ITコンサルタントとしてのキャリアを考えるとき、「大手フ
 構造化された環境・明確な評価軸・チームでの仕事を好むなら大手ファーム。曖昧さへの耐性があり、自律的に動くことにやりがいを感じるならスタートアップが合いやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

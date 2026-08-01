@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["プロダクトマネージャー", "年収相場"]
 pubDate: 2026-07-04
 slug: "product-manager-salary"
+hub: "product-manager"
 image: "/images/media/product-manager-salary.png"
 related: ["product-manager-resume", "product-manager-failure", "product-manager-motivation", "dev-director-salary", "salesforce-consultant-salary"]
 ---
@@ -32,6 +33,11 @@ related: ["product-manager-resume", "product-manager-failure", "product-manager-
 これらはあくまで市場の傾向値であり、個人の交渉力・企業の資本力・ストックオプションの有無によって同じレンジ内でも相当の差が生じる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-salary">キャリアを相談する</a>
+</aside>
 
 ## 20代PdMの年収レンジと特徴
 
@@ -111,6 +117,11 @@ SaaS・サブスクリプション型ビジネスに特化した企業は、PdM�
 この型から読み取れることは、「実績の定量化」と「市場価値の高い環境への移動」の組み合わせが、年収の段階的な引き上げに機能しているという点である。1社内での昇給に留まらず、外部市場での評価を定期的に確認するプロセスが重要な役割を果たしている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

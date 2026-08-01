@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["AIエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "ai-engineer-resume"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-resume.png"
 related: ["ai-engineer-interview", "ai-engineer-work-style", "ai-engineer-skills", "bizdev-resume", "business-consultant-resume"]
 ---
@@ -24,6 +25,11 @@ AIエンジニアの職務経歴書には、他の職種にはない固有の難
 第三に、**役割の曖昧さ**が書類に出やすい。MLエンジニア・データサイエンティスト・リサーチエンジニア・MLOpsエンジニアは業務領域が重複しやすく、自分の役割を正確に言語化できていない候補者は多い。
 
 これらの課題を踏まえた上で、構成と記述の方針を設計する必要がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -113,6 +119,11 @@ AIエンジニアが応募するポジションは一様ではない。スター
 | 研究開発寄りの部門 | 論文実装経験、アーキテクチャへの深い理解 |
 
 同じ職歴でも、どの経験を前面に出すかによって書類の印象は変わる。応募先ごとにプロジェクト詳細の選択と順序を変えることは、特別な虚偽記載でも誇張でもなく、伝え方の最適化である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

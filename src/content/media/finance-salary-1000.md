@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["財務・経理", "年収1000万"]
 pubDate: 2026-07-04
 slug: "finance-salary-1000"
+hub: "finance"
 image: "/images/media/finance-salary-1000.png"
 related: ["finance-salary-600", "finance-failure", "finance-career-path", "bridge-se-salary-1000", "pr-salary-1000"]
 ---
@@ -31,6 +32,11 @@ related: ["finance-salary-600", "finance-failure", "finance-career-path", "bridg
 1,000万円という水準は「マネジメント・専門上位」と「高付加価値層」の境界に位置し、到達するためには単なる年次の蓄積ではなく、明確なジャンプアップの機会が必要になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収を左右する三つの構造的要因
 
@@ -96,6 +102,11 @@ related: ["finance-salary-600", "finance-failure", "finance-career-path", "bridg
 - **マネジメントか専門性かを曖昧にしたまま進む**：30代後半以降、「プレイヤーとしても中途半端、マネージャーとしても実績が薄い」という状態に陥るリスクがある
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

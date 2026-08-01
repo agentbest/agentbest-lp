@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["マーケティングマネージャー", "将来性"]
 pubDate: 2026-07-04
 slug: "marketing-manager-future"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-future.png"
 related: ["marketing-manager-career-path", "marketing-manager-salary-1000", "marketing-manager-from-scratch", "security-consultant-future", "freelance-consultant-future"]
 ---
@@ -53,6 +54,11 @@ related: ["marketing-manager-career-path", "marketing-manager-salary-1000", "mar
 これらは一朝一夕で習得できるものではなく、経験と専門性の積み上げを要する領域である。この意味において、マーケティングマネージャーというポジションは「消えにくい」と言える一方、高い専門性を持たない層にとっては代替圧力が増しやすい構造でもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-future">キャリアを相談する</a>
+</aside>
 
 ## スキルセットの変化：求人市場から読める傾向
 
@@ -129,6 +135,11 @@ IT企業でSEOおよびコンテンツマーケティングを担当してきた
 「マーケティングのプロ」であることは前提として、CFOやCEOと予算・優先順位の議論ができる財務・戦略言語を持つこと。これが欠けていると、予算決定の場から排除されやすく、ポジションの影響力が縮小しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

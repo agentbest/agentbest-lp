@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["ポストコンサル", "志望動機"]
 pubDate: 2026-07-05
 slug: "post-consultant-motivation"
+hub: "post-consultant"
 image: "/images/media/post-consultant-motivation.png"
 related: ["post-consultant-certification", "post-consultant-future", "post-consultant-from-scratch", "customer-success-motivation", "tech-lead-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["post-consultant-certification", "post-consultant-future", "post-consu
 つまり、志望動機は「コンサルとしての実績を伝える場」ではなく、「上記の懸念を一つひとつ解消する場」として機能させる必要がある。この視点が欠けていると、どれほど論理的な文章を書いても評価は伸びにくい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## NGパターンの分析
 
@@ -111,6 +117,11 @@ related: ["post-consultant-certification", "post-consultant-future", "post-consu
 | スタートアップ経営幹部 | 不確実性・リソース制約下でのオーナーシップの覚悟 | 大企業向けと同様の表現 |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

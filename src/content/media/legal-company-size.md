@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["法務", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "legal-company-size"
+hub: "legal"
 image: "/images/media/legal-company-size.png"
 related: ["legal-career-path", "legal-salary-600", "legal-motivation", "pmo-consultant-company-size", "ma-advisor-company-size"]
 ---
@@ -26,6 +27,11 @@ related: ["legal-career-path", "legal-salary-600", "legal-motivation", "pmo-cons
 この構造的な差異を前提に、各軸を掘り下げていく。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 待遇・報酬の比較
 
@@ -86,6 +92,11 @@ related: ["legal-career-path", "legal-salary-600", "legal-motivation", "pmo-cons
 このケースでは、大手のM&A法務専任チームや、ゴールドマンサックス的な投資銀行・PEファンドの法務部門ではなく、法律事務所への転籍や大手事業会社のM&A専任ポジションへの転換が一つの方向性として検討されやすい。幅広い経験に加え、「事業判断の文脈で法務を動かしてきた」実績は、一定の評価を受ける傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

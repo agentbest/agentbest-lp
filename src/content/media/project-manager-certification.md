@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["プロジェクトマネージャー", "資格"]
 pubDate: 2026-07-04
 slug: "project-manager-certification"
+hub: "project-manager"
 image: "/images/media/project-manager-certification.png"
 related: ["project-manager-salary-1000", "project-manager-market-trend", "project-manager-career-guide", "frontend-engineer-certification", "corporate-planning-certification"]
 ---
@@ -26,6 +27,11 @@ related: ["project-manager-salary-1000", "project-manager-market-trend", "projec
 ### 資格が評価されにくい場面
 
 一方、スタートアップや事業会社の内製開発組織、コンサルティングファームなどでは、採用基準における資格の比重は低くなる傾向がある。これらの環境では、「どのプロジェクトをどのような規模・複雑度で動かしたか」という実績の具体性が優先され、資格はあくまで副次情報として扱われる。資格取得のために学習した知識が実務に紐づかない場合、資格の記載が評価に中立な影響しか与えないこともある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-certification">キャリアを相談する</a>
+</aside>
 
 ## 主要なPM関連資格の比較
 
@@ -83,6 +89,11 @@ PM関連の資格は複数存在するが、認知度・実務との親和性・
 - 取得目的が「履歴書の行数を増やすこと」になっており、面接での説明が浅くなりやすい
 
 資格名そのものよりも、「その資格を取ることで何を学び、どう実務に応用したか」を語れるかどうかが、採用担当者の評価を分ける実際の軸である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

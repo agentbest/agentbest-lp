@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["モバイルエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-certification"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-certification.png"
 related: ["mobile-engineer-career-path", "mobile-engineer-failure", "mobile-engineer-future", "scm-consultant-certification", "sap-consultant-certification"]
 ---
@@ -30,6 +31,11 @@ related: ["mobile-engineer-career-path", "mobile-engineer-failure", "mobile-engi
 一方、スタートアップ・プロダクト開発会社・SaaS企業のほとんどは、資格の有無よりもポートフォリオやOSS貢献、技術ブログ等のアウトプットを重視する傾向が強い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-certification">無料で相談する</a>
+</aside>
 
 ## 評価されやすい資格・されにくい資格の分類
 
@@ -87,6 +93,11 @@ related: ["mobile-engineer-career-path", "mobile-engineer-failure", "mobile-engi
 逆に、同じ応募者がポートフォリオに公開アプリを複数持ち、GitHubのコードが高品質であれば、資格がなくても同等以上の評価を得られる可能性が高い。資格は「アウトプットが薄い部分を補う手段」として機能しやすいと理解しておくのが現実的である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

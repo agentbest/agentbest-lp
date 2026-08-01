@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["組み込みエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-how-to-use-agent"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-how-to-use-agent.png"
 related: ["embedded-engineer-certification", "embedded-engineer-resume", "embedded-engineer-from-scratch", "web-marketer-how-to-use-agent", "enterprise-sales-how-to-use-agent"]
 ---
@@ -36,6 +37,11 @@ related: ["embedded-engineer-certification", "embedded-engineer-resume", "embedd
 Webエンジニアなどと比較すると、組み込みエンジニアの年収相場は求人票上に記載されないか、記載されていても幅が大きい傾向にある。自動車Tier1メーカーへの転職と、スタートアップのIoTデバイス開発とでは、同じ「組み込みエンジニア」でも年収レンジが大きく異なりうる。エージェントを介することで、ポジションごとの実態に近い水準を事前に把握しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントを使う具体的なメリット
 
@@ -88,6 +94,11 @@ Webエンジニアなどと比較すると、組み込みエンジニアの年�
 このプロセスは、自力では難易度が高い。技術知識と採用市場の双方を理解したエージェントが存在して初めて機能するため、エージェント選びの段階での精度が転職結果を左右しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["生成AI・AI", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "ai-industry-company"
+hub: "ai-industry"
 image: "/images/media/ai-industry-company.png"
 related: ["ai-industry-salary", "ai-industry-trend", "ai-industry-guide", "web3-industry-company", "saas-industry-company"]
 ---
@@ -33,6 +34,11 @@ related: ["ai-industry-salary", "ai-industry-trend", "ai-industry-guide", "web3-
 自分が何を積み上げたいかという目的に照らして、まずレイヤーを絞ることが企業選びの起点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## 見るべき指標：事業の持続性を測る
 
@@ -102,6 +108,11 @@ AI領域の職種は、市場全体と比較して報酬水準が高い傾向に
 3. 採用職種のミッションが、コアの事業価値に直結しているかを確かめる
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-company">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

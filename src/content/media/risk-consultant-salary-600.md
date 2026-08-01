@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["リスク・ガバナンスコンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "risk-consultant-salary-600"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-salary-600.png"
 related: ["risk-consultant-motivation", "risk-consultant-resume", "risk-consultant-salary-1000", "tech-lead-salary-600", "ma-advisor-salary-600"]
 ---
@@ -20,6 +21,11 @@ related: ["risk-consultant-motivation", "risk-consultant-resume", "risk-consulta
 本記事では、この年収帯に至るまでの一般的なキャリアパターン、600万円の壁になりやすい要因、そして実際にどう動けば突破口が開きやすいかを構造的に整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## リスク・ガバナンスコンサルタントの年収レンジ全体像
 
@@ -102,6 +108,11 @@ CIA（公認内部監査人）、CISA（公認情報システム監査人）、C
 このケースが示すのは、「与えられた業務の中に専門軸の種を見つけ、自発的に深めた」という動きが評価の変化点になりやすいという構造だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

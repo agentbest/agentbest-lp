@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["フリーコンサルタント", "20代転職"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-in-20s"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-in-20s.png"
 related: ["freelance-consultant-skills", "freelance-consultant-career-path", "freelance-consultant-market-trend", "customer-success-in-20s", "finance-in-20s"]
 ---
@@ -33,6 +34,11 @@ related: ["freelance-consultant-skills", "freelance-consultant-career-path", "fr
 本記事では主に①と②を軸に論じる。③については「コンサルファームへの転職」という別文脈になるため、ここでは参照程度に触れるにとどめる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代が独立フリーコンサルタントになるための現実的な条件
 
@@ -103,6 +109,11 @@ related: ["freelance-consultant-skills", "freelance-consultant-career-path", "fr
 **④ 独立後のロールモデルが社内にいるか**：将来的な独立を視野に入れるなら、社内に独立経験者・フリーランス転向OBがいる環境は有益な示唆を得やすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

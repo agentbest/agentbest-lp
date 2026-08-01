@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["人事・組織コンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "hr-consultant-failure"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-failure.png"
 related: ["hr-consultant-motivation", "hr-consultant-from-scratch", "hr-consultant-english", "digital-marketer-failure", "marketing-manager-failure"]
 ---
@@ -20,6 +21,11 @@ related: ["hr-consultant-motivation", "hr-consultant-from-scratch", "hr-consulta
 戦略コンサルや会計・財務アドバイザリーは、成果物や手法が比較的標準化されています。一方、人事・組織領域は「組織設計」「人材開発」「評価制度構築」「HRテック導入支援」「CHROアドバイザリー」など、隣接する業務が広範に存在し、ファームやクライアント企業によって求められる役割が大きく異なります。
 
 この曖昧さが、転職時の「すり合わせ不足」を引き起こします。求職者は過去の成功経験をベースに「同じような仕事ができる」と想定し、採用側は採用時の説明より実態を理想化して伝えがちです。その結果、入社後のギャップが顕在化します。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-failure">キャリアを相談する</a>
+</aside>
 
 ## 転職失敗の主要パターン
 
@@ -93,6 +99,11 @@ HRBPが「経営の意思決定に関与するポジション」として機能�
 
 **何が原因だったか**
 面接では「過去の制度設計経験を活かせる」と説明を受けていましたが、実際に確認していたのは「業務の種類」だけで、「自分が担当するプロジェクトフェーズ」や「どのクライアントにどのような形で関与するか」の具体性が欠けていました。コンサルファームへの転職では、入社後の配属決定プロセスや、プロジェクト選択の自由度を面接段階で詳しく確認することが、ギャップ防止に有効です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["DevOpsエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "devops-engineer-career-guide"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-career-guide.png"
 related: ["devops-engineer-from-scratch", "devops-engineer-failure", "devops-engineer-market-trend", "mlops-engineer-career-guide", "solution-architect-career-guide"]
 ---
@@ -36,6 +37,11 @@ DevOpsエンジニアへの転職市場は、2020年代に入り明確に拡大�
 DevOpsエンジニアとSREは混同されがちです。SREはGoogleが定義した役割で、信頼性の定量的管理（SLO/SLA/エラーバジェット）と運用工数のエンジニアリングによる削減を主眼とします。DevOpsエンジニアはより開発プロセス・デリバリー基盤全体の最適化に比重を置く傾向があります。ただし現場では両者を兼務するケースも多く、求人票のタイトルは参考程度にとどめ、JD（職務記述書）の実態で判断することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## DevOpsエンジニアの市場価値
 
@@ -95,6 +101,11 @@ DevOps求人はタイトルが同じでも役割が大きく異なります。JD
 この方向性で活動した場合、特にSaaS系の企業・クラウドネイティブなスタートアップでシニアポジションに移行しやすい傾向があります。年収レンジは750万〜900万円程度が現実的な移行先として見えてきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

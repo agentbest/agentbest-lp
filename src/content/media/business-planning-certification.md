@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["事業企画", "資格"]
 pubDate: 2026-07-04
 slug: "business-planning-certification"
+hub: "business-planning"
 image: "/images/media/business-planning-certification.png"
 related: ["business-planning-work-style", "business-planning-motivation", "business-planning-english", "bizdev-certification", "bridge-se-certification"]
 ---
@@ -26,6 +27,11 @@ related: ["business-planning-work-style", "business-planning-motivation", "busin
 加えて、事業企画は業界・企業によってスコープが大きく異なる。SaaS企業の事業企画では、PLの読解からARR・チャーンレートの管理、プロダクトロードマップの調整まで求められることがある。一方、大手製造業の事業企画では、M&Aの検討や工場投資の意思決定支援が主務となるケースもある。このように業務の幅が広いため、特定の資格が汎用的に評価されにくい構造になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-certification">無料で相談する</a>
+</aside>
 
 ## 資格の評価軸：「知識補完」か「実績の代替」か
 
@@ -100,6 +106,11 @@ PMPやITストラテジストは、プロジェクト管理・ITアーキテク�
 重要なのは、資格取得と並行して「現職での数値改善に関わった経験」「チーム横断の施策推進経験」を具体的に言語化することだ。資格はあくまで補足情報であり、実績の叙述が評価の本体になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

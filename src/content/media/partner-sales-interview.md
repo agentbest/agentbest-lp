@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["パートナーセールス／アライアンス", "面接対策"]
 pubDate: 2026-07-04
 slug: "partner-sales-interview"
+hub: "partner-sales"
 image: "/images/media/partner-sales-interview.png"
 related: ["partner-sales-from-scratch", "partner-sales-failure", "partner-sales-company-size", "data-scientist-interview", "product-manager-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["partner-sales-from-scratch", "partner-sales-failure", "partner-sales-
 この三層を念頭に置くことで、各質問が「どの能力を確かめようとしているか」が見えやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問カテゴリーと回答の組み立て方
 
@@ -88,6 +94,11 @@ related: ["partner-sales-from-scratch", "partner-sales-failure", "partner-sales-
 半年間で低活性パートナーからの商談創出数が増加し、特定パートナーへの依存度が低下した。具体的な数値は各自の実績に基づいて語ることが前提だが、変化率・絶対数・期間の三点をセットで示せると説得力が高まる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

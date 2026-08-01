@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["プロジェクトマネージャー", "転職失敗"]
 pubDate: 2026-07-04
 slug: "project-manager-failure"
+hub: "project-manager"
 image: "/images/media/project-manager-failure.png"
 related: ["project-manager-skills", "project-manager-future", "project-manager-english", "security-engineer-failure", "finance-failure"]
 ---
@@ -35,6 +36,11 @@ PMの転職が難しい根本的な理由は、「ポジションの実態が社
 この「実態の不透明性」により、転職後に「聞いていた話と違う」と感じるケースが生じやすい。特にスタートアップからエンタープライズ、あるいはその逆の移行では、PMに求められる行動様式が大きく異なるため注意が必要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターン6つ
 
@@ -117,6 +123,11 @@ PMとして機能できるかどうかは、組織側の「プロジェクト運
 この事例から得られる示唆は、「面接で確認すべき質問を事前設計する」という準備の重要性である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

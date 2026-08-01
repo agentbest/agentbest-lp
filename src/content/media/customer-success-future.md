@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["カスタマーサクセス", "将来性"]
 pubDate: 2026-07-03
 slug: "customer-success-future"
+hub: "customer-success"
 image: "/images/media/customer-success-future.png"
 related: ["customer-success-resume", "customer-success-career-guide", "customer-success-from-scratch", "ai-engineer-future", "legal-future"]
 ---
@@ -24,6 +25,11 @@ CSが生まれた背景は、SaaSビジネスモデルの普及にある。買�
 この構造は、AI技術の台頭で変わるわけではない。むしろ、SaaS市場そのものが拡大傾向にある中で、CSという機能の需要は引き続き高まりやすい環境にある。問題は「CSという職種が必要か否か」ではなく、「どのCSが価値を持つか」という点にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-future">キャリアを相談する</a>
+</aside>
 
 ## AIが代替しやすい業務と代替しにくい業務
 
@@ -96,6 +102,11 @@ CSの年収感は、担当する顧客規模・自社のフェーズ・役割に
 このような軌跡において重要なのは、「業務を全うする」ことと「構造を理解して言語化する」ことを両立し続けた点にある。AI代替が進む業務の担い手としてとどまるのではなく、データと顧客の接点を設計する役割へと自発的に移行した。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

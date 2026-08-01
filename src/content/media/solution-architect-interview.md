@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["ソリューションアーキテクト", "面接対策"]
 pubDate: 2026-07-04
 slug: "solution-architect-interview"
+hub: "solution-architect"
 image: "/images/media/solution-architect-interview.png"
 related: ["solution-architect-market-trend", "solution-architect-in-20s", "solution-architect-failure", "devops-engineer-interview", "bridge-se-interview"]
 ---
@@ -28,6 +29,11 @@ SA職の面接で多くの企業が見ているのは、大きく分けて以下
 また、企業によってSAの職域が異なる点にも注意が必要だ。プリセールス（受注前の提案支援）に特化した企業もあれば、受注後の導入設計・技術支援まで担う企業も多い。面接準備の段階で、応募先のSA職がどのフェーズに重心を置いているかを確認しておくことが、回答の精度を高めるうえで重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の組み立て方
 
@@ -105,6 +111,11 @@ SA職の年収は経験年数・専門領域・転職先の類型によって幅
 面接の場での交渉力も、最終的なオファー額に影響しやすい。技術力だけでなく、ビジネス成果への貢献を言語化できているかが、年収水準を決める一因になる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

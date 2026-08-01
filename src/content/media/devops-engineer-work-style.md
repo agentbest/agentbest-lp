@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["DevOpsエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "devops-engineer-work-style"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-work-style.png"
 related: ["devops-engineer-motivation", "devops-engineer-future", "devops-engineer-english", "uiux-designer-work-style", "game-engineer-work-style"]
 ---
@@ -28,6 +29,11 @@ DevOpsエンジニアは、開発（Development）と運用（Operations）の�
 「DevOpsエンジニアは激務か」という問いに単純な答えがない理由は、この構造的多様性にあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## 勤務形態・残業実態の傾向
 
@@ -114,6 +120,11 @@ DevOpsエンジニアが特に負荷の高い状態になりやすい局面は�
 転職先や現職の環境を評価する際は、「SLO（サービスレベル目標）やError Budgetが設計されているか」「インシデントのポストモーテム文化があるか」といった指標を確認することで、組織のDevOps成熟度を間接的に把握できます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

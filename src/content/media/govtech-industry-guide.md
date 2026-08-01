@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["GovTech", "業界研究"]
 pubDate: 2026-07-05
 slug: "govtech-industry-guide"
+hub: "govtech-industry"
 image: "/images/media/govtech-industry-guide.png"
 related: ["govtech-industry-career", "govtech-industry-trend", "govtech-industry-company", "adtech-industry-guide", "iot-industry-guide"]
 ---
@@ -32,6 +33,11 @@ GovTech（Government Technology）とは、テクノロジーを活用して行�
 政府は「デジタル社会の実現に向けた重点計画」を継続的に改定しており、行政手続のオンライン化率向上、自治体システムの標準化・共通化が2025年度を目途に推進されています。これに伴い、GovTechスタートアップへの資金流入や、自治体との実証実験・PoC採用が増加傾向にあります。
 
 ただし、市場規模の絶対値については公的統計や調査機関によって定義が異なるため、ここでは特定の数値を断定的に示すことを避けます。重要なのは、「縮小しているセグメントへの参入」ではなく、「政策的後押しのある成長余地が大きい領域」であるという構造的事実です。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-guide">無料で相談する</a>
+</aside>
 
 ## 主要プレイヤーの類型と特徴
 
@@ -107,6 +113,11 @@ GovTechスタートアップの年収水準は、シリーズ（資金調達ス�
 ※ストックオプションは別途付与されることが多く、シリーズが早いほど潜在的なアップサイドは大きくなる傾向があります。ただし流動性リスクも伴います。
 
 大手SIerや行政機関は年功的な賃金体系が残っているケースが多く、20代後半〜30代の転職直後は年収が横ばいまたは下がる場合もあります。一方でコンサルティングファームは実力主義的な賃金体系であることが多く、入社時の交渉余地も比較的大きい傾向です。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

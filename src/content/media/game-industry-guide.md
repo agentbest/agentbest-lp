@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["ゲーム・エンタメテック", "業界研究"]
 pubDate: 2026-07-05
 slug: "game-industry-guide"
+hub: "game-industry"
 image: "/images/media/game-industry-guide.png"
 related: ["game-industry-company", "game-industry-trend", "game-industry-career", "govtech-industry-guide", "web3-industry-guide"]
 ---
@@ -37,6 +38,11 @@ related: ["game-industry-company", "game-industry-trend", "game-industry-career"
 かつてのゲーム・エンタメ企業は「コンテンツ制作会社」の色が強かった。しかし現在は、クラウドインフラ最適化、MLを活用したレコメンドやチート検知、リアルタイムマッチング、グローバルのCD/CIパイプライン整備など、純粋なテクノロジー企業と遜色のない技術課題を抱えている。採用の重心がプログラマーからSREやMLエンジニア、プラットフォームエンジニアへと移行しているのはその表れである。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## 主要プレイヤーの類型と特徴
 
@@ -121,6 +127,11 @@ UA（ユーザー獲得広告）の運用経験、LTVモデルの構築、クリ
 国内専業と、海外展開を前提としたタイトル開発・運営では、求められる英語力やコミュニケーション設計が異なる。特にXR・メタバース領域は開発パートナーやパブリッシャーが海外企業であるケースが多く、日常的な英語でのやり取りが発生しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["ソリューションアーキテクト", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "solution-architect-resume"
+hub: "solution-architect"
 image: "/images/media/solution-architect-resume.png"
 related: ["solution-architect-english", "solution-architect-salary-1000", "solution-architect-career-path", "uiux-designer-resume", "db-engineer-resume"]
 ---
@@ -32,6 +33,11 @@ SAは職種として幅が広い。クラウドベンダーのプリセールス
 この3軸が揃わない職務経歴書は、どれほど技術的に高度な内容を書いていても「すごそうだが評価しにくい」という印象で止まりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-resume">無料で相談する</a>
+</aside>
 
 ## 全体構成の推奨フォーマット
 
@@ -128,6 +134,11 @@ SAの職務経歴書でよく見られる、採点が難しくなる記述のパ
 | 「顧客満足度向上に貢献した」 | 定性的すぎて評価基準がない | 具体的なフィードバックや継続案件の有無を示す |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

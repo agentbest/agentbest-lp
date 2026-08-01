@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["Eコマース", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "ec-industry-career"
+hub: "ec-industry"
 image: "/images/media/ec-industry-career.png"
 related: ["ec-industry-company", "ec-industry-guide", "ec-industry-salary", "legaltech-industry-career", "healthtech-industry-career"]
 ---
@@ -47,6 +48,11 @@ Eコマース業界内には、以下のような職種が存在する。これ�
 このなかでも、「デジタルマーケティング × データ分析」「MD × EC運営」のような掛け合わせが強みになりやすい傾向がある。単一職能よりも、事業成長に直結する複数の領域を横断できる人材が市場で評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値が高まりやすい経験の条件
 
@@ -119,6 +125,11 @@ Eコマース担当者の職務経歴書でよく見られる課題は、「商�
 大手ECモールや大企業出身者は、分業された環境で特定職能を深めた実績が強みになる一方、「全体をどう見ていたか」という視点を補足する必要がある場合がある。スタートアップ出身者はその逆で、スケールの経験や組織管理経験を補う必要があることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-career">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

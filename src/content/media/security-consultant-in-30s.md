@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["セキュリティコンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "security-consultant-in-30s"
+hub: "security-consultant"
 image: "/images/media/security-consultant-in-30s.png"
 related: ["security-consultant-failure", "security-consultant-work-style", "security-consultant-resume", "embedded-engineer-in-30s", "marketing-manager-in-30s"]
 ---
@@ -28,6 +29,11 @@ related: ["security-consultant-failure", "security-consultant-work-style", "secu
 | SaaS・ITベンダーのセキュリティ部門 | プリセールス支援・顧客向けセキュリティ設計・製品活用支援 | 製品知識・ソリューション提案経験 |
 
 いずれの類型においても、技術と事業の橋渡し役という役割は共通している。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力採用で問われる3つの能力軸
 
@@ -76,6 +82,11 @@ SaaS・ITベンダー出身者はプリセールスや顧客折衝の経験か�
 このケースで有効なアプローチは、社内で推進したセキュリティ改善案件を「提案型プロジェクト」として職務経歴書に構造化することだ。たとえば「顧客要件に基づきセキュリティ設計を提案し、承認後に実装・検収まで担当した」という経験は、プロセス上はコンサルタントの業務フローに近い。この経験を適切に言語化できた転職者は、シニアコンサルタント・コンサルタントクラスでの採用に至るケースがある。
 
 加えて、この段階で登録セキスペやCISSPを取得・申請中の状態にしておくと、知識の水準担保として面接での説明が簡潔になりやすい。資格取得が採用を決定するのではなく、面接での技術ディスカッションを補完するものとして機能するという位置づけだ。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

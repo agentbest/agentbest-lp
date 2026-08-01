@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["エンジニアリングマネージャー", "年収1000万"]
 pubDate: 2026-07-04
 slug: "engineering-manager-salary-1000"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-salary-1000.png"
 related: ["engineering-manager-work-style", "engineering-manager-failure", "engineering-manager-market-trend", "fas-consultant-salary-1000", "bridge-se-salary-1000"]
 ---
@@ -26,6 +27,11 @@ related: ["engineering-manager-work-style", "engineering-manager-failure", "engi
 | コンサル・SIer系 | 700〜900万円 | プロジェクトマネージャー兼任が多い |
 
 この表から読み取れるのは、1,000万円という数字が特定の企業類型に固有のものではなく、「職責の厚み」と「組織フェーズの需要」が交差する地点で発生しやすいという点である。国内事業会社では部長職相当まで昇進すれば到達できるケースがある一方、外資系テックでは中間グレードのEMポジションから到達可能な設計になっていることも多い。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの構造
 
@@ -79,6 +85,11 @@ EMとして採用・チームビルディング・1on1を誠実に行ってい�
 
 **「プレイングマネージャー」として技術と管理の中途半端な状態が続く**
 特に開発リソースが不足している組織では、EMがコードを書き続けながら管理業務も担うという状態が長期化しやすい。この状態はEM本人の市場価値の定義を曖昧にし、次のポジションへの訴求を難しくする傾向がある。プレイングの比率については、組織との明示的な合意と、段階的な移行ロードマップの設定が望ましい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

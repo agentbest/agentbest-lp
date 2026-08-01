@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["SRE", "英語力"]
 pubDate: 2026-07-04
 slug: "sre-english"
+hub: "sre"
 image: "/images/media/sre-english.png"
 related: ["sre-from-scratch", "sre-resume", "sre-career-path", "fas-consultant-english", "ma-advisor-english"]
 ---
@@ -32,6 +33,11 @@ SREの実務は、インフラの設計・構築、可用性目標（SLO/SLA）�
 ### 社内外での知識共有
 
 英語でのテックブログ執筆、カンファレンスでの登壇、海外コミュニティへの貢献は、市場価値を高める活動として評価される傾向があります。ただしこれは、上級者が差別化するための要素であり、一般的なSRE業務の要件ではありません。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力レベル別：求人・年収・役割の変化
 
@@ -69,6 +75,11 @@ SREはすでに学習負荷の高い職種です。Kubernetes・eBPF・Chaos Eng
 **目指すキャリアの方向性**：グローバルな製品開発に携わりたい、海外拠点でのポジションを視野に入れている、という場合は英語学習の優先度が自然と高まります。一方、国内の事業会社でSREプラクティスを根付かせる役割を目指す場合は、日本語での技術コミュニケーション力や組織変革のスキルが優先されることもあります。
 
 **現職での英語接触頻度**：意識的な学習よりも、業務の中で英語に継続的に触れる環境が最も効率的な習得経路です。英語が必要なポジションへ一歩踏み出すことで、学習と実践が同時進行する状況を作り出せる場合があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

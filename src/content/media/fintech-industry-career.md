@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["フィンテック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "fintech-industry-career"
+hub: "fintech-industry"
 image: "/images/media/fintech-industry-career.png"
 related: ["fintech-industry-salary", "fintech-industry-guide", "fintech-industry-company", "healthtech-industry-career", "cloud-industry-career"]
 ---
@@ -30,6 +31,11 @@ related: ["fintech-industry-salary", "fintech-industry-guide", "fintech-industry
 | 大手金融系フィンテック・合弁 | コンプライアンス・ガバナンス重視 | 金融規制対応・既存金融との調整経験 |
 
 この三層で評価軸が異なることは、転職の際に職務経歴書の書き方にも影響します。スタートアップへの転職では「何を決断したか・何を作ったか」が問われやすく、大手系では「どう管理したか・どうリスクを制御したか」が問われる傾向があります。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場で評価されやすい経験の型
 
@@ -86,6 +92,11 @@ SaaS企業でのエンタープライズ営業経験者がフィンテックのB
 フィンテック企業への転職で失敗しやすいパターンのひとつは、企業フェーズと自身のキャリア志向のミスマッチです。「整備されたオペレーションの中で専門性を深めたい」タイプの人材が急成長スタートアップに入社すると、役割の曖昧さや制度の未整備にストレスを感じやすい傾向があります。
 
 自分が「立ち上げ」と「拡大・安定化」のどちらのフェーズを好むかを事前に自己認識しておくことは、転職後の定着と活躍に直接的に影響します。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-career">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

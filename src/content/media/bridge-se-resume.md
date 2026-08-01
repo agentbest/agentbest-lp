@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["ブリッジSE", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "bridge-se-resume"
+hub: "bridge-se"
 image: "/images/media/bridge-se-resume.png"
 related: ["bridge-se-career-path", "bridge-se-in-30s", "bridge-se-failure", "partner-sales-resume", "ma-advisor-resume"]
 ---
@@ -31,6 +32,11 @@ related: ["bridge-se-career-path", "bridge-se-in-30s", "bridge-se-failure", "par
 これらを職務経歴書の限られたスペースに収めるには、情報の優先順位付けと構造化が不可欠です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書全体の構成設計
 
@@ -150,6 +156,11 @@ TOEICスコアやベトナム語検定の記載は資格欄に入れるだけで
 担当したすべてのプロジェクトを均一に列挙する書き方では、読み手が重要な経験を識別しにくくなります。直近のプロジェクトや成果が出た案件は分量を増やし、古い・規模の小さい案件は2〜3行程度に圧縮するメリハリをつけることが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["Salesforceコンサルタント", "英語力"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-english"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-english.png"
 related: ["salesforce-consultant-salary", "salesforce-consultant-interview", "salesforce-consultant-company-size", "fas-consultant-english", "fullstack-engineer-english"]
 ---
@@ -16,6 +17,11 @@ related: ["salesforce-consultant-salary", "salesforce-consultant-interview", "sa
 Salesforceコンサルタントとして転職・キャリアアップを検討する際、「英語力はどの程度必要なのか」という疑問を持つ方は少なくない。結論から述べると、**日本国内のSalesforce案件の大多数は英語力がなくても成立する**一方で、英語力の有無は求人の選択肢の幅と年収水準に明確な差をもたらす傾向がある。本記事では、求人市場の構造・業務上の英語接触場面・英語力が実際に効いてくる条件を整理したうえで、キャリア設計への応用方法を解説する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力がなくても成立する案件の実態
 
@@ -77,6 +83,11 @@ Salesforceは年3回のメジャーリリース（Spring・Summer・Winter）を
 この2つのパターンが示すのは、英語力の優劣ではなく、「英語力があることで選択肢の集合が変わる」という構造的な差異である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

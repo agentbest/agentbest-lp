@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["プロダクトデザイナー", "年収相場"]
 pubDate: 2026-07-04
 slug: "product-designer-salary"
+hub: "product-designer"
 image: "/images/media/product-designer-salary.png"
 related: ["product-designer-market-trend", "product-designer-salary-600", "product-designer-interview", "digital-marketer-salary", "security-consultant-salary"]
 ---
@@ -29,6 +30,11 @@ related: ["product-designer-market-trend", "product-designer-salary-600", "produ
 上記の数値はあくまで目安であり、外資系テック企業・ユニコーン級スタートアップ・上場IT企業では上振れしやすい傾向があります。一方、受託開発会社やインハウスデザイン黎明期の中小企業では下振れするケースもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する3つの構造的要因
 
@@ -108,6 +114,11 @@ related: ["product-designer-market-trend", "product-designer-salary-600", "produ
 在籍企業内での昇給だけを追っていると、市場における自身の相対的なポジションが見えにくくなります。現職年収と市場の提示水準を比較するために、転職を前提としない状態であっても、年に一度程度は求人の実態レンジを確認する習慣が有用です。実際に選考に進むことで、自身のポートフォリオと成果の説明が市場でどのように評価されるかを把握できます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

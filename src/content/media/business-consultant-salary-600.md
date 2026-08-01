@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["業務コンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "business-consultant-salary-600"
+hub: "business-consultant"
 image: "/images/media/business-consultant-salary-600.png"
 related: ["business-consultant-salary", "business-consultant-failure", "business-consultant-resume", "dev-director-salary-600", "digital-marketer-salary-600"]
 ---
@@ -37,6 +38,11 @@ related: ["business-consultant-salary", "business-consultant-failure", "business
 この表から読み取れるように、所属する業態によって600万円に達する難易度と所要時間は大きく異なる。大手外資系ファームであれば、コンサルタントクラスの段階で600万円前後に届く場合があるのに対し、中堅の独立系ファームではシニア以上への昇格が実質的な分岐点になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 年収600万円の壁になる要素
 
@@ -101,6 +107,11 @@ related: ["business-consultant-salary", "business-consultant-failure", "business
 このケースが示すのは、年収の上昇が「経験の量」よりも「経験の整理の質」と「専門性の焦点化」によって生まれやすいという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["Webマーケター", "志望動機"]
 pubDate: 2026-07-04
 slug: "web-marketer-motivation"
+hub: "web-marketer"
 image: "/images/media/web-marketer-motivation.png"
 related: ["web-marketer-company-size", "web-marketer-salary", "web-marketer-career-path", "dev-director-motivation", "corporate-it-motivation"]
 ---
@@ -28,6 +29,11 @@ Webマーケターの採用担当者が志望動機を通じて確認したい�
 この3点が志望動機の中で有機的につながっていると、書類通過率が高まりやすい傾向があります。逆に言えば、どれかひとつが欠けると評価が下がりやすい構造です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-motivation">無料で相談する</a>
+</aside>
 
 ## 評価されやすい志望動機の「型」
 
@@ -105,6 +111,11 @@ Webマーケターの採用担当者が志望動機を通じて確認したい�
 異職種からの転職の場合は特に、「なぜWebマーケターか」という職種選択の根拠が弱いと判断されやすい傾向があります。自身の経験の中でマーケティングに近い要素（データ分析・コンテンツ制作・顧客理解など）を丁寧に抽出し、接続することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

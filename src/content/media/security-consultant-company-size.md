@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["セキュリティコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "security-consultant-company-size"
+hub: "security-consultant"
 image: "/images/media/security-consultant-company-size.png"
 related: ["security-consultant-career-path", "security-consultant-motivation", "security-consultant-resume", "inside-sales-company-size", "db-engineer-company-size"]
 ---
@@ -32,6 +33,11 @@ related: ["security-consultant-career-path", "security-consultant-motivation", "
 クライアントはベンチャー企業・中堅企業が多い傾向があり、意思決定が速いため、提案から実行・改善のサイクルを短期間で回しやすい。プロダクトや組織が変化し続ける環境の中で、セキュリティ課題も多様に変化するため、技術的な適応力と事業感覚の両方を鍛えやすい面がある。
 
 ただし、組織的な教育体制・メンター制度・評価プロセスが未整備であるケースは依然として多く、自律的に学習する意欲と習慣がなければ、成長を期待した転職が裏目に出ることもある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## 報酬・待遇の構造比較
 
@@ -82,6 +88,11 @@ related: ["security-consultant-career-path", "security-consultant-motivation", "
 | 経験7年以上・高度技術特化志向 | 専門ブティック・スタートアップ | 技術的自由度と市場評価が得やすい |
 
 上記はあくまで傾向であり、個人のスキルセット・家庭環境・リスク許容度によって適切な判断は異なる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

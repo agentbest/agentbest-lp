@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["フルスタックエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-english"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-english.png"
 related: ["fullstack-engineer-salary-1000", "fullstack-engineer-failure", "fullstack-engineer-resume", "corporate-it-english", "devops-engineer-english"]
 ---
@@ -24,6 +25,11 @@ related: ["fullstack-engineer-salary-1000", "fullstack-engineer-failure", "fulls
 理由は技術情報の流通構造にある。フロントエンド・バックエンド双方の最新仕様、クラウドインフラのアップデート、セキュリティ勧告のいずれも、一次情報は英語で発信される。これらを原文で読み、開発チーム内や外部ベンダーとの調整に使える人材は、特に外資系企業・グローバルSaaS・国際展開中のスタートアップで希少性が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## ポジション別・英語要件と年収レンジの目安
 
@@ -86,6 +92,11 @@ TOEIC等のスコアを目標に置くことには一定の合理性があるも
 TOEIC高スコアをエンジニアとしての「武器」にするという発想よりも、「自分が狙うポジションで実際に何が求められているか」をJDで確認し、そこから逆算して必要な英語力を特定するアプローチが実践的である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

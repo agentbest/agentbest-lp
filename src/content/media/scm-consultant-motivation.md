@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["SCM・調達コンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "scm-consultant-motivation"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-motivation.png"
 related: ["scm-consultant-in-30s", "scm-consultant-market-trend", "scm-consultant-salary-1000", "project-manager-motivation", "pmo-consultant-motivation"]
 ---
@@ -22,6 +23,11 @@ SCM（サプライチェーンマネジメント）・調達コンサルタン�
 - **中長期的なキャリアの一貫性**：なぜ今、この職種に移行するのかの論理的な説明ができているか
 
 SCM・調達コンサルタントへの転職者は、製造業・商社・小売の調達・物流部門出身者が多い傾向にあります。そのため、「現場経験を活かせる」という志望動機は多くの候補者が書いてくる想定範囲内であり、それだけでは差別化になりません。重要なのは、「どの現場経験の、何を、なぜコンサルティングという形で活かしたいのか」という具体性と論理の精度です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の三層構造
 
@@ -92,6 +98,11 @@ SCM・調達コンサルタントへの転職者は、製造業・商社・小�
 - 5年後に「SCMコンサルタントとして何ができる人材になっていたいか」
 
 特に最後の問いは、採用担当者が「この候補者をどう育成するか」を考える際の参照情報になります。キャリアの具体的なゴールイメージがある候補者は、採用後の活躍イメージを描きやすいため、評価されやすい傾向があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

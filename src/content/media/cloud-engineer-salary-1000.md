@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["クラウドエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-salary-1000"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-salary-1000.png"
 related: ["cloud-engineer-salary", "cloud-engineer-salary-600", "cloud-engineer-skills", "fas-consultant-salary-1000", "hr-consultant-salary-1000"]
 ---
@@ -30,6 +31,11 @@ related: ["cloud-engineer-salary", "cloud-engineer-salary-600", "cloud-engineer-
 この表から読み取れる構造上の特徴は二つある。第一に、日系大手では制度上の年収レンジに上限がある場合が多く、1,000万円を超えるには管理職ポジションへの昇格が実質的な条件になりやすい。第二に、外資系ベンダーや外資系コンサルでは、個人貢献型のシニアポジションでも1,000万円前後が射程に入りやすく、経験年数よりもスキルセットと実績が評価基軸になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するスキルの組み合わせ
 
@@ -89,6 +95,11 @@ related: ["cloud-engineer-salary", "cloud-engineer-salary-600", "cloud-engineer-
 クラウドベンダーやコンサルファームにおいて、顧客提案と技術設計を一体で担うポジションである。技術力を保持しながらビジネス貢献が直接的に評価されるため、年収レンジが高くなりやすい傾向がある。顧客折衝・提案書作成・プレゼンテーションへの比重が大きくなるため、コミュニケーション能力が求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

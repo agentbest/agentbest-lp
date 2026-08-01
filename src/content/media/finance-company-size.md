@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["財務・経理", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "finance-company-size"
+hub: "finance"
 image: "/images/media/finance-company-size.png"
 related: ["finance-future", "finance-motivation", "finance-salary-1000", "freelance-consultant-company-size", "sap-consultant-company-size"]
 ---
@@ -31,6 +32,11 @@ related: ["finance-future", "finance-motivation", "finance-salary-1000", "freela
 また、会計システムや業務プロセスが整備されているがゆえに、「仕組みをゼロから設計する」経験はほぼ生まれません。既存のフローに乗る形での習熟が中心となります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## スタートアップの財務・経理：裁量の広さと不確実性
 
@@ -87,6 +93,11 @@ related: ["finance-future", "finance-motivation", "finance-salary-1000", "freela
 このケースでは、スタートアップへの移行は財務全体を経験する観点で合理性がありますが、入社後に「整備が想定以上に遅れている」「CFO候補としての役割が曖昧」というギャップが生じやすいパターンでもあります。事前の情報収集と合意形成が判断の質を左右します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

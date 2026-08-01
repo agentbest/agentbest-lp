@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["MLOpsエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-english"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-english.png"
 related: ["mlops-engineer-skills", "mlops-engineer-from-scratch", "mlops-engineer-failure", "dev-director-english", "product-manager-english"]
 ---
@@ -41,6 +42,11 @@ MLOpsは、機械学習モデルの開発・デプロイ・運用を継続的に
 「英語が必須」という表現は、国内事業会社では「ドキュメントを読める程度」を指すことが多く、外資系ではスピーキングも含む実務運用能力を指すことが多い。求人票に記載された英語要件の解釈は、企業タイプと組み合わせて読み解く必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-english">無料で相談する</a>
+</aside>
 
 ## 英語力が年収・ポジションに与える実際の影響
 
@@ -109,6 +115,11 @@ MLOpsエンジニアにとって最も費用対効果が高い英語活動は、
 スピーキングを伸ばす最も効果的な方法は、英語を使う業務環境に身を置くことである。週1回の英語会議であっても、継続することで発話の反応速度・語彙の即応性は向上する。社外の学習法としては、技術系のオンライン英会話（技術トピックで会話できる講師との練習）や、英語でのポッドキャスト・YouTubeでの発話練習が実務語彙の習得には向いている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

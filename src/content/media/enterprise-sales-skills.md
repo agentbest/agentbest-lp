@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["エンタープライズセールス", "必要スキル"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-skills"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-skills.png"
 related: ["enterprise-sales-certification", "enterprise-sales-motivation", "enterprise-sales-failure", "engineering-manager-skills", "corporate-it-skills"]
 ---
@@ -18,6 +19,11 @@ related: ["enterprise-sales-certification", "enterprise-sales-motivation", "ente
 エンタープライズセールスとは、従業員数1,000名以上を目安とした大企業・官公庁・金融機関等を対象顧客とし、高単価・長期サイクルの商談を担う営業職です。SMB（中小企業向け）営業との最大の違いは、**意思決定者が複数存在し、購買プロセスが組織横断的に進む**点にあります。
 
 この構造上の特性が、求められるスキルセットを規定しています。単純な製品説明やクロージングのテクニックよりも、組織内政治の読み解き・複数ステークホルダーへの同時アプローチ・長期的な関係構築といった能力が重視されます。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-skills">キャリアを相談する</a>
+</aside>
 
 ## スキル全体像と市場価値への寄与度
 
@@ -83,6 +89,11 @@ related: ["enterprise-sales-certification", "enterprise-sales-motivation", "ente
 - **担当業界の有価証券報告書・決算説明資料を読む習慣**：顧客が何を経営課題として認識しているかが理解しやすくなります
 - **MEDDICやCHALLENGER SALEなどのフレームワークの実践適用**：知識として持つだけでなく、実際の案件に当てはめて振り返ることで定着します
 - **社内SEやPMとの積極的な情報共有**：技術的な理解が深まると、提案の解像度が上がります
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

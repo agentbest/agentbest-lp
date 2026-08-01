@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["QAエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "qa-engineer-future"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-future.png"
 related: ["qa-engineer-work-style", "qa-engineer-failure", "qa-engineer-certification", "it-architect-future", "corporate-planning-future"]
 ---
@@ -20,6 +21,11 @@ QAエンジニアという職種の将来性は、一言で言えば「役割の
 同時に、AIを活用したテスト自動生成ツールや、コードを解析してテストケースを提案する仕組みが普及し始めています。これらは「手動でテストケースを書く」「回帰テストを繰り返し実行する」といった定型作業を効率化する方向に働きます。
 
 この二つの変化が重なった結果、単純な手動テスト実行を主業務とするQAエンジニアは相対的に需要が縮む方向にあります。一方で、品質戦略の立案・テスト基盤の設計・開発プロセスへの組み込みを担えるQAエンジニアの需要は、むしろ拡大傾向にあります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 「消えるQA」と「残るQA」の構造的な差
 
@@ -86,6 +92,11 @@ SaaSプロダクトを例に挙げると、リリース後の障害発生率とN
 | QAアーキテクト・VPoQ相当 | 1,000万円以上も視野 |
 
 これらはあくまで市場の傾向を示す目安であり、企業の規模・フェーズ・事業ドメイン、および個人のスキルセットによって実際の提示額は変動します。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

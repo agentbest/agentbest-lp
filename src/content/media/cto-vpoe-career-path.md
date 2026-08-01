@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["CTO・VPoE候補", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-career-path"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-career-path.png"
 related: ["cto-vpoe-in-30s", "cto-vpoe-salary-600", "cto-vpoe-motivation", "qa-engineer-career-path", "data-analyst-career-path"]
 ---
@@ -36,6 +37,11 @@ related: ["cto-vpoe-in-30s", "cto-vpoe-salary-600", "cto-vpoe-motivation", "qa-e
 30代でどちらを目指すかによって、日々の仕事で鍛えるべきケイパビリティが変わる。この認識が、キャリア設計の起点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-career-path">無料で相談する</a>
+</aside>
 
 ## 30代前半・後半で分岐するキャリアの実態
 
@@ -110,6 +116,11 @@ CTO・VPoE候補として市場に認識されるためには、外部での技�
 CTO・VPoEが経営チームの一員として機能するには、他のC-suiteや責任者との協働経験が必要になる。予算折衝の経験がある、プロダクトロードマップの策定に参加した経験がある——こうした「技術以外の領域への越境」が、候補者としての総合的な評価につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

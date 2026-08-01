@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["プロダクトデザイナー", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "product-designer-career-guide"
+hub: "product-designer"
 image: "/images/media/product-designer-career-guide.png"
 related: ["product-designer-company-size", "product-designer-english", "product-designer-resume", "db-engineer-career-guide", "devops-engineer-career-guide"]
 ---
@@ -20,6 +21,11 @@ related: ["product-designer-company-size", "product-designer-english", "product-
 ただし、同じ「プロダクトデザイナー」という求人でも、企業によって期待スコープは大きく異なる。リサーチから情報設計・インタラクションデザイン・ビジュアル仕上げまで一貫して担うケースもあれば、エンジニアやPMと高度に分業しながら特定フェーズに集中するケースもある。転職活動においては、求人票の職種名だけで判断せず、期待業務の範囲を詳細に確認することが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## プロダクトデザイナーの仕事内容
 
@@ -120,6 +126,11 @@ related: ["product-designer-company-size", "product-designer-english", "product-
 どのフェーズが最適かは個人のキャリア目標によって異なる。「広く経験を積みたい」か「特定領域で深めたい」かを明確にしたうえで、求人の選定基準を設定することが有効だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

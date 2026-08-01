@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["SaaS営業", "20代転職"]
 pubDate: 2026-07-03
 slug: "saas-sales-in-20s"
+hub: "saas-sales"
 image: "/images/media/saas-sales-in-20s.png"
 related: ["saas-sales-motivation", "saas-sales-salary", "saas-sales-english", "project-manager-in-20s", "business-consultant-in-20s"]
 ---
@@ -26,6 +27,11 @@ SaaS型のビジネスモデルが国内に本格普及したのは2010年代後
 ただし、ここで言う「ポテンシャル採用」は新卒採用とは異なる。企業が期待するのは、SaaS固有の知識ではなく、法人営業のプロセスや顧客との信頼構築において一定の実績がある人材だ。「営業職から未経験でSaaS」という移行は現実的だが、「営業未経験でSaaS」という転職は一部の職種（SDR、カスタマーサクセス等）を除き難易度が高い傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-in-20s">無料で相談する</a>
+</aside>
 
 ## SaaS営業に求められるスキルと、経験の読み替え方
 
@@ -117,6 +123,11 @@ SaaS営業から展開できるキャリアは複数ある。フィールドセ�
 インセンティブの設計は企業によって大きく異なるため、固定給とインセンティブの割合は必ず事前に確認したい。特にアーリーフェーズの企業では、インセンティブ比率が高い代わりに固定給が低めに設定されているケースもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

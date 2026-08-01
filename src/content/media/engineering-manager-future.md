@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["エンジニアリングマネージャー", "将来性"]
 pubDate: 2026-07-04
 slug: "engineering-manager-future"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-future.png"
 related: ["engineering-manager-certification", "engineering-manager-salary", "engineering-manager-resume", "digital-marketer-future", "data-scientist-future"]
 ---
@@ -20,6 +21,11 @@ EMは、ソフトウェア開発組織において技術とマネジメントの
 国内においてEMという職種が広く認知されるようになったのは、メガベンチャーやSaaS企業がプロダクト組織を拡張し始めた2010年代後半以降であり、歴史としてはまだ浅い。そのため、職種定義やレベル感は企業によって大きく異なり、「テックリードに近いEM」から「事業部長に近いEM」まで、求められるケイパビリティの幅は広い。
 
 将来性を論じる前提として、この職種の多様性を理解しておく必要がある。EMの将来性は「EM一般」として語れるものではなく、その人が担っている機能の種類によって異なる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-future">無料で相談する</a>
+</aside>
 
 ## AI時代に問われるEMの役割変化
 
@@ -79,6 +85,11 @@ AIがコードを生成・補完するようになると、「何を作るか」
 - メンバーが「AIに仕事を奪われる」という漠然とした不安を抱えていたことを1on1で把握し、個別にキャリアの方向性を議論する時間を設けた
 
 技術的な実装はエンジニアが担いながらも、組織としての適応プロセスを設計・調整したのはEMであった。AIが普及した組織においても、変化の文脈を読んでチームの動き方を再設計する役割は人が担い続ける構造が、このケースからも見えてくる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

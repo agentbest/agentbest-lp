@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["ネットワークエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "network-engineer-failure"
+hub: "network-engineer"
 image: "/images/media/network-engineer-failure.png"
 related: ["network-engineer-interview", "network-engineer-from-scratch", "network-engineer-certification", "engineering-manager-failure", "post-consultant-failure"]
 ---
@@ -28,6 +29,11 @@ related: ["network-engineer-interview", "network-engineer-from-scratch", "networ
 いずれの段階でも、「技術力はあるが情報収集が甘かった」「焦りで意思決定が早すぎた」というケースが多く見られます。順に解説します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## 準備段階でよくある失敗
 
@@ -116,6 +122,11 @@ SIer系企業で5年間、主にネットワーク設計・構築を担当して
 - [ ] 現場社員との接点（カジュアル面談等）を得られたか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

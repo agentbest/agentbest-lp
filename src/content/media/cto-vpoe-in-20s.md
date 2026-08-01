@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["CTO・VPoE候補", "20代転職"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-in-20s"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-in-20s.png"
 related: ["cto-vpoe-skills", "cto-vpoe-salary", "cto-vpoe-certification", "business-consultant-in-20s", "enterprise-sales-in-20s"]
 ---
@@ -26,6 +27,11 @@ related: ["cto-vpoe-skills", "cto-vpoe-salary", "cto-vpoe-certification", "busin
 重要なのは、こうした枠はほぼ求人票に書かれないという点だ。「CTO候補」と明記されているポジションの多くは即戦力要件であり、ポテンシャル枠は採用担当者や経営者との対話のなかでその性質が明らかになることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用における評価の構造
 
@@ -107,6 +113,11 @@ SOの数値は特にバラつきが大きく、企業の調達額・フェーズ
 ポテンシャル採用の最終的な決断者はほぼ必ずCEOかCOOだ。最終面接では技術スキルよりも「一緒に組織を作れるか」という相性・思想的な共鳴が問われる。自分の組織論・技術哲学・事業への見方を率直に語れる準備が必要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

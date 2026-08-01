@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["採用担当", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "recruiter-how-to-use-agent"
+hub: "recruiter"
 image: "/images/media/recruiter-how-to-use-agent.png"
 related: ["recruiter-failure", "recruiter-market-trend", "recruiter-salary-600", "devops-engineer-how-to-use-agent", "cloud-engineer-how-to-use-agent"]
 ---
@@ -51,6 +52,11 @@ related: ["recruiter-failure", "recruiter-market-trend", "recruiter-salary-600",
 
 ---
 
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-how-to-use-agent">キャリアを相談する</a>
+</aside>
+
 ## 採用担当転職においてエージェントで確認すべき主な軸
 
 | 確認軸 | 詳細 |
@@ -92,6 +98,11 @@ related: ["recruiter-failure", "recruiter-market-trend", "recruiter-salary-600",
 このケースが示すのは、採用担当者が「転職エージェントの使い方を知っている」と感じていても、自分事として活用する視点を持てていなかったという点です。エージェントの機能を自分のために使うことを改めて意識することで、活動の質と選択肢が変わりやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

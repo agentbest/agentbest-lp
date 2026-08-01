@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["AIエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "ai-engineer-motivation"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-motivation.png"
 related: ["ai-engineer-future", "ai-engineer-in-20s", "ai-engineer-from-scratch", "post-consultant-motivation", "dev-director-motivation"]
 ---
@@ -36,6 +37,11 @@ AIエンジニアに求められるのは、モデルを構築する技術力だ
 「AIの分野で成長したいため」という動機は、ほぼすべての求人に使い回せる表現であり、選考官には差別化情報として機能しない。志望先企業のプロダクト・技術スタック・開発フェーズ・組織文化のいずれかに言及し、「なぜ他社ではなくここか」が伝わる構成にする必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい志望動機の構成フレーム
 
@@ -104,6 +110,11 @@ AIエンジニアに求められるのは、モデルを構築する技術力だ
 特に研究職・大学院からの転換は、「研究とエンジニアリングの違い」を理解しているかどうかを採用担当者が慎重に見る傾向がある。論文実装の経験だけでなく、チームでの開発経験や実用システムへの実装経験があれば積極的に言及するとよい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["エンタープライズセールス", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-career-path"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-career-path.png"
 related: ["enterprise-sales-company-size", "enterprise-sales-salary-600", "enterprise-sales-skills", "digital-marketer-career-path", "pmo-career-path"]
 ---
@@ -20,6 +21,11 @@ related: ["enterprise-sales-company-size", "enterprise-sales-salary-600", "enter
 そのため、エンタープライズセールスに求められるのは、「製品知識 × ステークホルダーマネジメント × 商流理解 × 長期関係構築」という複合的なスキルセットである。単純な提案力だけでなく、顧客の組織構造を読む力と、社内のSE・プリセールス・CSM・パートナー企業などを束ねるプロジェクト推進力が問われる。
 
 この複合性が、エンタープライズセールス経験者の市場価値を高める根拠でもあり、同時に「どのスキルをより深く磨くか」というキャリア設計の難しさにもつながっている。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-career-path">キャリアを相談する</a>
+</aside>
 
 ## 30代前半で問われる「深化 vs 転換」の判断
 
@@ -81,6 +87,11 @@ related: ["enterprise-sales-company-size", "enterprise-sales-salary-600", "enter
 この人物には複数の選択肢がある。現職でシニアAEへの昇格を目指しながら戦略担当顧客を増やすルート、同業他社でセールスマネージャーとして経験を積むルート、ITコンサルへ転身して上流工程への関与を広げるルート、そして成長フェーズのスタートアップでHead of Salesに挑戦するルートだ。
 
 判断の分岐点になるのは「何を拡張したいか」という問いだ。人への関与・組織構築に興味があればマネジメントへ、顧客との深い関係継続に充実感があればシニアAEへ、上流の課題設定から携わりたければコンサルへ、という形で方向性が絞れる。この段階で年収水準だけを基準にすると、転職後に目的意識を失いやすいという傾向がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

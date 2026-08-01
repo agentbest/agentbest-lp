@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["人事", "20代転職"]
 pubDate: 2026-07-04
 slug: "hrbp-in-20s"
+hub: "hrbp"
 image: "/images/media/hrbp-in-20s.png"
 related: ["hrbp-career-guide", "hrbp-company-size", "hrbp-from-scratch", "business-planning-in-20s", "thinktank-in-20s"]
 ---
@@ -31,6 +32,11 @@ HRISの整備やタレントマネジメントシステムの導入が進む中�
 採用競争力があり採用ブランドも確立しつつある成長企業では、「即戦力の経験者を取り合う」よりも「自社の文化を体現できる若手を育てる」という発想でポテンシャル採用を行うケースがあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-in-20s">無料で相談する</a>
+</aside>
 
 ## ポテンシャル採用が成立しやすい条件
 
@@ -95,6 +101,11 @@ HRISの整備やタレントマネジメントシステムの導入が進む中�
 第二新卒〜26歳程度の採用担当としての転職では、年収400〜500万円台がひとつの目安になりやすいです。スタートアップでストックオプションが付帯するケースもありますが、キャッシュ収入とのバランスは個別に精査が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

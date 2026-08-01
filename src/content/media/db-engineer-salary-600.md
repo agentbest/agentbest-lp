@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["データベースエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "db-engineer-salary-600"
+hub: "db-engineer"
 image: "/images/media/db-engineer-salary-600.png"
 related: ["db-engineer-salary-1000", "db-engineer-company-size", "db-engineer-work-style", "project-manager-salary-600", "inside-sales-salary-600"]
 ---
@@ -25,6 +26,11 @@ DBエンジニアの年収分布は、おおむね以下のような傾向があ
 | 10年超（スペシャリスト/マネジャー） | 800万円〜 | 技術戦略・組織マネジメント・コンサルティング |
 
 この表が示すように、「設計・チューニングができる」段階と「アーキテクチャ設計・提案ができる」段階の間に、600万円という水準が位置しやすい傾向があります。ここが多くのDBエンジニアにとって"停滞しやすい区間"になります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -86,6 +92,11 @@ ELT/ETLパイプラインの設計、データウェアハウス・データレ�
 **転職の結果**：自社開発SaaS企業のデータ基盤チームへ移行。採用ポジションはデータベース設計者兼データエンジニアリング担当。提示年収は680万円。
 
 この事例が示すのは、資格取得そのものが年収を上げるのではなく、「クラウド移行の実務文脈に自身の経験を接続できること」「設計判断を言語化できること」が評価の実態であるという点です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

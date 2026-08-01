@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["プラットフォームエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "platform-engineer-company-size"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-company-size.png"
 related: ["platform-engineer-in-30s", "platform-engineer-salary-600", "platform-engineer-market-trend", "business-consultant-company-size", "mlops-engineer-company-size"]
 ---
@@ -30,6 +31,11 @@ related: ["platform-engineer-in-30s", "platform-engineer-salary-600", "platform-
 この前提を踏まえたうえで、大手・スタートアップを比較する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-company-size">キャリアを相談する</a>
+</aside>
 
 ## 構造的な違いを理解する
 
@@ -92,6 +98,11 @@ related: ["platform-engineer-in-30s", "platform-engineer-salary-600", "platform-
 大手SIerで5年間インフラ設計を担当した後、シリーズAのSaaS企業にプラットフォームエンジニアとして入社。入社当初は手動デプロイが残る環境だったが、自身主導でCI/CDの整備・Kubernetes移行・SLO体制の導入を推進。3年後にはEngineering Managerに昇格。ストックオプションが一部液体化し、総報酬としては大手時代を上回る結果となった。「意思決定のスピードと裁量の大きさが、自分の成長速度を引き上げた」という評価をしている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

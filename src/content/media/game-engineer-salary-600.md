@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["ゲームエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "game-engineer-salary-600"
+hub: "game-engineer"
 image: "/images/media/game-engineer-salary-600.png"
 related: ["game-engineer-english", "game-engineer-in-20s", "game-engineer-market-trend", "sre-salary-600", "embedded-engineer-salary-600"]
 ---
@@ -32,6 +33,11 @@ related: ["game-engineer-english", "game-engineer-in-20s", "game-engineer-market
 この表から読み取れるのは、600万円という水準が「経験年数だけで自然に到達できる域」ではないという点です。経験3〜6年の層でもレンジの上限付近に位置し、多くの場合は何らかの評価上の差別化がなければ到達しにくい数字です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## 年収600万円の壁になりやすい要素
 
@@ -98,6 +104,11 @@ related: ["game-engineer-english", "game-engineer-in-20s", "game-engineer-market
 この種の動き方をしたケースでは、転職によって年収が600〜680万円前後のレンジに到達する事例が一定数見られます。重要なのは「スキルの深さ」と「成果の言語化」の両立であり、どちらか一方だけでは年収交渉の根拠として弱くなりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

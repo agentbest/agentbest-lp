@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["Eコマース", "業界年収"]
 pubDate: 2026-07-05
 slug: "ec-industry-salary"
+hub: "ec-industry"
 image: "/images/media/ec-industry-salary.png"
 related: ["ec-industry-guide", "ec-industry-company", "ec-industry-trend", "ai-industry-salary", "game-industry-salary"]
 ---
@@ -28,6 +29,11 @@ Eコマース業界の年収水準は、同じIT・デジタル領域の中で�
 これらの組み合わせによって、同一職種でも年収に数百万円規模の差が生じることはめずらしくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 職種別の年収レンジ
 
@@ -104,6 +110,11 @@ Eコマース業界で年収を引き上げやすい方向性として、以下�
 - **越境・グローバルEC経験**：英語対応実績に加え、各国の物流・決済・規制への理解を持つ人材は国内専業企業との差別化になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["フリーコンサルタント", "市場動向"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-market-trend"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-market-trend.png"
 related: ["freelance-consultant-motivation", "freelance-consultant-company-size", "freelance-consultant-resume", "sap-consultant-market-trend", "data-consultant-market-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["freelance-consultant-motivation", "freelance-consultant-company-size"
 **第三に、フリーランス新法（特定受託事業者に係る取引の適正化等に関する法律）の施行後の環境整備**です。2024年に施行されたこの法律により、発注側の契約・報酬に関する義務が明確化されました。これによって、フリーコンサルタントとして活動する際の法的リスクが一定程度低下し、独立を検討しやすい環境になりつつあると考えられます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求人・案件数の変化と二極化
 
@@ -112,6 +118,11 @@ related: ["freelance-consultant-motivation", "freelance-consultant-company-size"
 フリーコンサルタント向けのエージェントやマッチングプラットフォームは、この数年で選択肢が大幅に増えました。それぞれのプラットフォームで取り扱う案件の業種・規模・単価レンジに差異があるため、複数に登録してプロファイルを統一管理する戦略が一般化しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

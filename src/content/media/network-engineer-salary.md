@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["ネットワークエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "network-engineer-salary"
+hub: "network-engineer"
 image: "/images/media/network-engineer-salary.png"
 related: ["network-engineer-english", "network-engineer-skills", "network-engineer-salary-1000", "sap-consultant-salary", "saas-sales-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["network-engineer-english", "network-engineer-skills", "network-engine
 同じ「30代ネットワークエンジニア」でも、運用監視中心のキャリアと、クラウドネットワーク設計・セキュリティ領域を兼ねるキャリアでは、200〜300万円程度の差が生じやすい傾向がある。年収の絶対値よりも「どのレイヤーの仕事をしているか」が、市場評価を左右する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収を左右する4つの構造的要因
 
@@ -96,6 +102,11 @@ related: ["network-engineer-english", "network-engineer-skills", "network-engine
 この流れは一例だが、「担当フェーズを上流にシフトする」「勤務先の類型を変える」という2点が組み合わさると、年収の変化が起きやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

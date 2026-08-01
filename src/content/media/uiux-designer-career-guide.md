@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["UI/UXデザイナー", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "uiux-designer-career-guide"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-career-guide.png"
 related: ["uiux-designer-work-style", "uiux-designer-salary-600", "uiux-designer-certification", "thinktank-career-guide", "qa-engineer-career-guide"]
 ---
@@ -26,6 +27,11 @@ UI/UXデザイナーとしての転職を検討する際、まず理解してお
 転職活動においては、応募先が求める重心——UIとUXのどちらに期待を置いているか——を見極めることが、ミスマッチを防ぐうえで重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-career-guide">無料で相談する</a>
+</aside>
 
 ## 転職市場における需要と競争環境
 
@@ -108,6 +114,11 @@ UI/UXデザイナーの求人は、総合型エージェント・デザイン特
 - 新しいスキル領域（モーションデザイン、Design Ops等）の習得直後
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

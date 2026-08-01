@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["セキュリティエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "security-engineer-skills"
+hub: "security-engineer"
 image: "/images/media/security-engineer-skills.png"
 related: ["security-engineer-how-to-use-agent", "security-engineer-salary-1000", "security-engineer-interview", "salesforce-consultant-skills", "presales-skills"]
 ---
@@ -27,6 +28,11 @@ related: ["security-engineer-how-to-use-agent", "security-engineer-salary-1000",
 多くの技術者は1・2の習得に注力しがちだが、シニア層やマネジメント職で差がつくのは3・4の領域であることが多い。以下、各領域を詳述する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-skills">無料で相談する</a>
+</aside>
 
 ## 基盤技術スキル：土台の厚みが専門性の天井を決める
 
@@ -115,6 +121,11 @@ SaaSスタートアップから上場企業のセキュリティポジション�
 この構造から逆算すると、日常業務において「行動の言語化」——何をやったかだけでなく、なぜその判断をしたかを記録・整理しておく習慣が、転職活動時の準備時間の大幅な短縮につながる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

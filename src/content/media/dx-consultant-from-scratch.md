@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["DXコンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "dx-consultant-from-scratch"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-from-scratch.png"
 related: ["dx-consultant-career-path", "dx-consultant-certification", "dx-consultant-in-20s", "it-consultant-from-scratch", "ml-engineer-from-scratch"]
 ---
@@ -28,6 +29,11 @@ DXコンサルタントへの未経験転職は、正しいルートと準備を
 未経験からアクセスしやすいのは、実装・推進層と組織変革層の一部である。戦略・構想層は、経営視点や業界知識の深度が求められるため、実務経験を経た後に移行するのが現実的な順序といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用側が評価するスキルセット
 
@@ -117,6 +123,11 @@ DXコンサルタントの報酬は、所属する会社の規模・案件難易
 大手総合コンサルファームでは上限が引き上がる傾向にある一方、入社難易度も相応に高い。中堅・専門コンサルは実務機会が早期から得やすい代わりに、年収の天井が異なることが多い。自分のキャリア目標と照らして、入口を選ぶ視点が重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

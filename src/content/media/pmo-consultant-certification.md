@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["PMOコンサルタント", "資格"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-certification"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-certification.png"
 related: ["pmo-consultant-resume", "pmo-consultant-from-scratch", "pmo-consultant-in-20s", "qa-engineer-certification", "it-architect-certification"]
 ---
@@ -28,6 +29,11 @@ PMOコンサルタントの仕事は、プロジェクト管理の標準化・�
 コンサルファームにおいては、資格の有無よりも「思考の構造性」「クライアント対応力」「成果物の質」が評価の中心に置かれる傾向がある。ただし、特定の資格は「スクリーニングの通過要件」や「クライアントへの提案時の信頼性補完」として機能するケースがある。
 
 事業会社のPMOポジションでは、プロジェクト管理の知識体系を体系的に習得していることを示す資格が、採用担当者にとってわかりやすい評価軸になりやすい。特に社内標準化推進やPMO立ち上げなどの役割を担う場合、PMP等の国際資格は説得力を持つことが多い。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格：優先度別の整理
 
@@ -87,6 +93,11 @@ ITIL（ITサービスマネジメント）については、IT運用・サービ
 ### ケースB：コンサルファーム在籍中のPMP取得
 
 コンサルファームに在籍しながらPMPを取得するケースでは、取得のタイミングが「特定の大型案件へのアサイン可否」に影響することがある。グローバルプロジェクトや外資系クライアントの案件では、PMPの有無がアサイン条件として明示されるケースがあるためだ。この場合、資格は純粋にキャリア上の「選択肢の幅」を広げる機能を持つ。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

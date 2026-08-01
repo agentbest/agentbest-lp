@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["プロダクトマネージャー", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "product-manager-how-to-use-agent"
+hub: "product-manager"
 image: "/images/media/product-manager-how-to-use-agent.png"
 related: ["product-manager-in-20s", "product-manager-career-path", "product-manager-work-style", "db-engineer-how-to-use-agent", "security-consultant-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ PdMの採用は、特に経験者ポジションにおいて、公開求人よ�
 PdMの選考では、技術的なスキルの証明よりも「プロダクト思考の深さ」「意思決定のプロセス」「事業への貢献度の定量的な説明」が評価対象になりやすい。一般的な職務経歴書の書き方では、これらを採用側に適切に伝えにくいケースが多い。
 
 経験豊富なエージェントは、同職種の書類通過実績をもとに、どのような切り口で職務経歴を整理すれば各企業の評価軸に合致しやすいかを助言できる立場にある。面接フェーズでは、過去の受験者からのフィードバックをもとにした設問傾向の共有なども期待できる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントの選定基準
 
@@ -92,6 +98,11 @@ PdMのキャリアを正確に評価するには、職種固有の知識が必�
 5. 書類通過後、面接でのフィードバック収集を担当者に依頼し、次社以降の対策に活かす
 
 この流れを経ることで、求人票の文面だけでは判断できない採用側の期待値との整合を、転職活動の早い段階で調整しやすくなる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

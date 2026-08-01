@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["人事・組織コンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "hr-consultant-market-trend"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-market-trend.png"
 related: ["hr-consultant-career-guide", "hr-consultant-salary-600", "hr-consultant-work-style", "uiux-designer-market-trend", "inside-sales-market-trend"]
 ---
@@ -22,6 +23,11 @@ related: ["hr-consultant-career-guide", "hr-consultant-salary-600", "hr-consulta
 第二に、**組織再編・事業ポートフォリオ変革の加速**がある。M&Aや事業売却、カーブアウトが増加する中で、組織統合・文化融合・人員配置の最適化に関するアドバイザリーニーズが増している。従来の戦略コンサルタントだけでは対応しきれない「人と組織の着地」を担う専門家が求められている。
 
 第三に、**HRテック導入の普及と限界**が顕在化している。タレントマネジメントシステムやHRIS（人事情報管理システム）の導入が一巡した企業では、ツールの定着・活用・制度との連携を設計し直す段階に入っている。ここにも、技術と制度の両方を橋渡しできるコンサルタントへのニーズが生まれている。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 求人ニーズの内訳：どの専門領域で採用が増えているか
 
@@ -79,6 +85,11 @@ related: ["hr-consultant-career-guide", "hr-consultant-salary-600", "hr-consulta
 
 **【留意点】**
 コンサル未経験での転職では、「クライアントワークへの適応力」「仮説立案・構造化のスキル」が選考で重点的に確認される傾向がある。事業会社での実務経験を「プロジェクト化して語れるか」が、選考通過の分水嶺になりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

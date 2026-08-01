@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["データベースエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "db-engineer-market-trend"
+hub: "db-engineer"
 image: "/images/media/db-engineer-market-trend.png"
 related: ["db-engineer-english", "db-engineer-future", "db-engineer-salary-1000", "product-manager-market-trend", "saas-sales-market-trend"]
 ---
@@ -37,6 +38,11 @@ DBエンジニアの求人数は、IT・DX投資が一定水準を維持する�
 個人情報保護法制の改正や国際規格対応を背景に、アクセス制御・暗号化・監査ログ設計の知識を持つDBエンジニアの評価が上がっている。特に金融・医療・EC系の企業での需要が顕著だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル別・経験別の年収水準の目安
 
@@ -84,6 +90,11 @@ DBエンジニアの求人数は、IT・DX投資が一定水準を維持する�
 この事例が示す構造は、「新しい技術スタックのみを浅く理解しているエンジニア」よりも、「従来の深い専門性と新しい技術経験を組み合わせられるエンジニア」が採用市場で評価されやすい、という現在の傾向と一致している。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

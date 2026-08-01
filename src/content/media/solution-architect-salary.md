@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["ソリューションアーキテクト", "年収相場"]
 pubDate: 2026-07-04
 slug: "solution-architect-salary"
+hub: "solution-architect"
 image: "/images/media/solution-architect-salary.png"
 related: ["solution-architect-salary-600", "solution-architect-in-20s", "solution-architect-market-trend", "product-manager-salary", "web-marketer-salary"]
 ---
@@ -33,6 +34,11 @@ related: ["solution-architect-salary-600", "solution-architect-in-20s", "solutio
 SAAの難しさは、顧客のビジネス課題を理解する「事業理解力」と、それを技術構成に落とし込む「アーキテクチャ設計力」を同時に求められる点にある。この複合スキルの希少性が、年収水準を押し上げる構造的な要因になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-salary">無料で相談する</a>
+</aside>
 
 ## 年収レンジの全体像（目安）
 
@@ -109,6 +115,11 @@ SIerのプリセールス経験が評価され、外資系SaaS企業のSAポジ�
 ここで重要なのは、年収の上昇幅よりも「市場でのポジションの転換」にある。SIerのプリセールス担当から「SAという職種」として転職市場に認知されることで、その後のキャリアの選択肢が広がるという点が、この類型の本質的な意味合いになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

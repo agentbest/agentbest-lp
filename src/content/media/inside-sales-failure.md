@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["インサイドセールス", "転職失敗"]
 pubDate: 2026-07-03
 slug: "inside-sales-failure"
+hub: "inside-sales"
 image: "/images/media/inside-sales-failure.png"
 related: ["inside-sales-skills", "inside-sales-how-to-use-agent", "inside-sales-motivation", "security-engineer-failure", "frontend-engineer-failure"]
 ---
@@ -39,6 +40,11 @@ related: ["inside-sales-skills", "inside-sales-how-to-use-agent", "inside-sales-
 SaaS・IT領域を中心に、インサイドセールス職の需要は継続的に拡大しています。需要の急増は採用機会の増加をもたらす一方で、ポジションの設計が不十分な状態で採用が進む企業も存在します。結果として、「採用されたがロールが曖昧で成長実感が持てない」という転職後の不満につながりやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターン7つ
 
@@ -120,6 +126,11 @@ SaaS企業でフィールドセールスを3年経験したAさん（28歳）が
 - [ ] 架電時間帯・業務時間の標準
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

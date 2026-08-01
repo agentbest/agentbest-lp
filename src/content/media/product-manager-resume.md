@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["プロダクトマネージャー", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "product-manager-resume"
+hub: "product-manager"
 image: "/images/media/product-manager-resume.png"
 related: ["product-manager-market-trend", "product-manager-certification", "product-manager-skills", "ai-engineer-resume", "customer-success-resume"]
 ---
@@ -26,6 +27,11 @@ related: ["product-manager-market-trend", "product-manager-certification", "prod
 3. **結果への責任範囲**：KPIの設計者なのか、モニタリングのみなのか
 
 この3点が職務経歴書から読み取れない場合、面接に進む前に「具体性が薄い」と判断される傾向がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-resume">無料で相談する</a>
+</aside>
 
 ## 構成の全体設計
 
@@ -113,6 +119,11 @@ PdMの成果指標として記載しやすいものは以下の通り。すべ�
 - 動詞は「担当した」より「主導した」「策定した」「合意形成した」など能動的な語を選ぶ
 - 時制は「〜しました」ではなく「〜した」で統一（体言止めも可）
 - ファイル形式はPDF推奨。フォント・レイアウト崩れを防ぐため
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

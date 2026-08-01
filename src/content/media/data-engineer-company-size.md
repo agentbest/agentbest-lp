@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["データエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "data-engineer-company-size"
+hub: "data-engineer"
 image: "/images/media/data-engineer-company-size.png"
 related: ["data-engineer-certification", "data-engineer-skills", "data-engineer-career-guide", "fullstack-engineer-company-size", "hr-consultant-company-size"]
 ---
@@ -34,6 +35,11 @@ related: ["data-engineer-certification", "data-engineer-skills", "data-engineer-
 これはリスクと機会の両面を持つ。意思決定が速く、技術選定の裁量が大きい反面、参照できる社内ドキュメントやベストプラクティスが乏しく、自ら判断する場面が頻繁に発生する。また、ビジネスサイドとの距離が近いため、データ施策がどのようにプロダクトや収益に影響するかを直接把握しやすい環境である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 条件比較：年収・技術・成長・安定性
 
@@ -76,6 +82,11 @@ related: ["data-engineer-certification", "data-engineer-skills", "data-engineer-
 どちらが「正しい選択」かは、現在のスキルの深さ・組織との相性・リスク許容度・中期的なキャリアゴールによって異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

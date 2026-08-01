@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["シンクタンク研究員", "将来性"]
 pubDate: 2026-07-05
 slug: "thinktank-future"
+hub: "thinktank"
 image: "/images/media/thinktank-future.png"
 related: ["thinktank-how-to-use-agent", "thinktank-motivation", "thinktank-salary", "fullstack-engineer-future", "pr-future"]
 ---
@@ -31,6 +32,11 @@ related: ["thinktank-how-to-use-agent", "thinktank-motivation", "thinktank-salar
 この構造が意味することは、シンクタンク研究員の仕事が単純な情報収集・整理に留まらず、クライアントの意思決定を支える「解釈と判断の提供」に本質があるという点である。この特性が、AI代替論を単純に当てはめにくい理由の一つでもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-future">無料で相談する</a>
+</aside>
 
 ## AI技術がシンクタンク業務に与える影響
 
@@ -106,6 +112,11 @@ AI・大規模言語モデルの普及により、以下の業務は効率化・
 このケースが示唆するのは、AIによって生まれた「余白」をいかに使うかが、中長期的なキャリア分岐を決めやすいという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

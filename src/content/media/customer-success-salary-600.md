@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["カスタマーサクセス", "年収600万"]
 pubDate: 2026-07-03
 slug: "customer-success-salary-600"
+hub: "customer-success"
 image: "/images/media/customer-success-salary-600.png"
 related: ["customer-success-career-path", "customer-success-resume", "customer-success-work-style", "dev-director-salary-600", "game-engineer-salary-600"]
 ---
@@ -28,6 +29,11 @@ CS職の年収は、企業のフェーズ・事業規模・個人のポジショ
 ※上記はSaaS系企業（従業員数100〜1,000名規模）を参考にした目安であり、企業規模・資本状況・報酬体系によって大きく異なります。
 
 この表からわかるように、600万円という水準は「ICの上位からリードへの移行期」に重なります。つまり、ある段階で「量を増やす」アプローチが機能しなくなり、「影響範囲を広げる」方向への転換が求められる境界線でもあります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -84,6 +90,11 @@ CSの価値を組織内で可視化するうえで最も有効なのは、担当
 **転換点となった行動**：担当顧客のプロダクト活用状況を可視化するダッシュボードをスプレッドシートで自作し、チームに共有。これを機に「ヘルススコア運用」の社内プロセス整備を担当し、事実上のプロジェクトリードになった。この成果をドキュメントにまとめ、次の評価面談で昇格と報酬改定を申請。社内では希望通りの昇格が叶わなかったが、この実績を携えて転職活動を行い、シリーズC以降のSaaS企業でCS Leadポジションを獲得。年収620万円で入社。
 
 **示唆**：600万円到達のポイントは「活動量」ではなく「再現可能な仕組みを作れるか」という点にありました。また、社内と外部市場の両方を使う選択肢を持つことが、年収交渉力の実質的な強化につながっています。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

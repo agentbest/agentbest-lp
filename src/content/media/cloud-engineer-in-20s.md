@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["クラウドエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-in-20s"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-in-20s.png"
 related: ["cloud-engineer-market-trend", "cloud-engineer-salary", "cloud-engineer-salary-600", "customer-success-in-20s", "erp-consultant-in-20s"]
 ---
@@ -30,6 +31,11 @@ related: ["cloud-engineer-market-trend", "cloud-engineer-salary", "cloud-enginee
 企業側も、ゼロから育成するよりも「インフラの基礎概念を理解したうえでクラウドに転換できる人材」を採用するほうが投資対効果が高いと判断する場合があります。この判断が、20代エンジニアへのポテンシャル採用の需要を支えています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業タイプ別の採用傾向と狙い目の構造
 
@@ -106,6 +112,11 @@ related: ["cloud-engineer-market-trend", "cloud-engineer-salary", "cloud-enginee
 クラウドエンジニアの市場価値は、特定クラウドの習熟度だけでなく、セキュリティ・DevOps・コスト最適化・FinOpsといった周辺知識との掛け合わせによって高まりやすい傾向があります。20代のうちにどの方向性を深めるかを意識することが、30代以降の市場価値を規定します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

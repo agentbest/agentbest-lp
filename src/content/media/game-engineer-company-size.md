@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["ゲームエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "game-engineer-company-size"
+hub: "game-engineer"
 image: "/images/media/game-engineer-company-size.png"
 related: ["game-engineer-career-path", "game-engineer-interview", "game-engineer-motivation", "project-manager-company-size", "devops-engineer-company-size"]
 ---
@@ -32,6 +33,11 @@ related: ["game-engineer-career-path", "game-engineer-interview", "game-engineer
 反面、コードレビューの文化・設計レビューの仕組み・テスト自動化の整備といったエンジニアリングプラクティスが十分に確立していないケースも多く、技術的負債の蓄積リスクはスタートアップのほうが高い傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-company-size">キャリアを相談する</a>
+</aside>
 
 ## 4軸での比較
 
@@ -80,6 +86,11 @@ related: ["game-engineer-career-path", "game-engineer-interview", "game-engineer
 大手での3〜5年のスペシャリスト経験を経て、再度スタートアップにCTO候補として参画するパターンも見られる。「広く→深く→再び広く（上位視点）」という非線形なキャリア設計は、ゲームエンジニア領域において一定の有効性がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

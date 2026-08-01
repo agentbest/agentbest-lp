@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["経営企画", "30代転職"]
 pubDate: 2026-07-04
 slug: "corporate-planning-in-30s"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-in-30s.png"
 related: ["corporate-planning-skills", "corporate-planning-salary-600", "corporate-planning-future", "dx-consultant-in-30s", "bizdev-in-30s"]
 ---
@@ -28,6 +29,11 @@ related: ["corporate-planning-skills", "corporate-planning-salary-600", "corpora
 これら3点を面接の場で「証明」できない候補者は、どれだけ優れた職歴の羅列があっても選考を通過しにくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代・経営企画転職に求められるスキル要件
 
@@ -127,6 +133,11 @@ DX推進や業績管理の高度化を背景に、ITリテラシーの高い経�
 ※上記はあくまで参考水準であり、個人のスキル・経験・交渉力・企業業績によって大きく変動する。ストックオプションが含まれる場合、キャッシュ年収だけで比較することは難しい点にも留意が必要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

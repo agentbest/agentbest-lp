@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["フリーコンサルタント", "志望動機"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-motivation"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-motivation.png"
 related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-english", "freelance-consultant-future", "pmo-motivation", "frontend-engineer-motivation"]
 ---
@@ -33,6 +34,11 @@ related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-english
 書面で志望動機を記載する場合、文字数は100〜200字程度に圧縮されることが多い。簡潔さと具体性が同時に求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -116,6 +122,11 @@ related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-english
 書面と口頭では最適な情報量が異なる。口頭の場合は相手の反応を見ながら深掘りできるため、書面よりも短く、余白を残したほうがよい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

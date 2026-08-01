@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["テックリード", "資格"]
 pubDate: 2026-07-04
 slug: "tech-lead-certification"
+hub: "tech-lead"
 image: "/images/media/tech-lead-certification.png"
 related: ["tech-lead-salary", "tech-lead-work-style", "tech-lead-salary-600", "it-architect-certification", "fullstack-engineer-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["tech-lead-salary", "tech-lead-work-style", "tech-lead-salary-600", "i
 資格は、これら三点を直接証明する手段にはなりにくい。面接で語られる設計の意思決定プロセスや、GitHubのコミット履歴、アーキテクチャドキュメントのほうが、審査者に対して具体的な根拠を提供する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格・評価されにくい資格の分類
 
@@ -100,6 +106,11 @@ related: ["tech-lead-salary", "tech-lead-work-style", "tech-lead-salary-600", "i
 これらは、資格よりも「実際に何を考え、何を判断してきたか」を直接示せる媒体である。テックリードとして評価されるための自己投資を資格で代替しようとする発想は、リソース配分として非効率になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

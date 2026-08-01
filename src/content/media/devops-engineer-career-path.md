@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["DevOpsエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "devops-engineer-career-path"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-career-path.png"
 related: ["devops-engineer-in-30s", "devops-engineer-salary", "devops-engineer-work-style", "fas-consultant-career-path", "cloud-engineer-career-path"]
 ---
@@ -26,6 +27,11 @@ DevOpsエンジニアという職種は、ソフトウェア開発と運用の�
 一方で、「DevOps」という言葉の定義が組織によって大きく異なることも特徴的だ。インフラエンジニアの延長として捉える企業もあれば、ソフトウェアエンジニアがプラットフォーム基盤まで担う形で採用する企業もある。自身のDevOpsエンジニアとしての市場価値を正確に把握するには、スキルセットを職種名ではなく機能単位で整理する視点が有効になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-career-path">無料で相談する</a>
+</aside>
 
 ## キャリアパスの全体像
 
@@ -88,6 +94,11 @@ DevOpsエンジニアの業務と重なる部分が多いが、Platform Engineer
 この事例で重要なのは、「マネジメントへの打診を断る」という選択が必ずしも評価を下げるわけではなく、Individual Contributor（IC）トラックが整備された組織ではスペシャリストとしての昇格軸が機能しているという点だ。組織のキャリアラダー設計を確認することが、転職・社内異動を問わず判断の前提になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

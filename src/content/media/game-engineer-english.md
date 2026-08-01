@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["ゲームエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "game-engineer-english"
+hub: "game-engineer"
 image: "/images/media/game-engineer-english.png"
 related: ["game-engineer-resume", "game-engineer-future", "game-engineer-failure", "backend-engineer-english", "scm-consultant-english"]
 ---
@@ -33,6 +34,11 @@ related: ["game-engineer-resume", "game-engineer-future", "game-engineer-failure
 ①はリーディング中心であり、英語が苦手な人でも辞書と機械翻訳を駆使して乗り越えられる部分が多い。キャリアにおける英語の「投資対効果」が最も高いのは②と③の領域だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## 企業タイプ別・英語力の要求水準
 
@@ -115,6 +121,11 @@ GDCの発表資料を継続的に読み込み、最新のレンダリング技�
 - **英語コミュニティへの参加**：Discordの技術コミュニティや、英語フォーラムへの投稿経験は、採用面接での具体的なエピソードになる
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

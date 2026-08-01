@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["データアナリスト", "将来性"]
 pubDate: 2026-07-04
 slug: "data-analyst-future"
+hub: "data-analyst"
 image: "/images/media/data-analyst-future.png"
 related: ["data-analyst-in-30s", "data-analyst-company-size", "data-analyst-failure", "hr-consultant-future", "security-engineer-future"]
 ---
@@ -37,6 +38,11 @@ related: ["data-analyst-in-30s", "data-analyst-company-size", "data-analyst-fail
 ただし重要なのは、AIが「分析作業を代替する」のではなく、「定型的な実装作業の一部を補助する」段階にとどまっているという点です。「何を問うか」「どのデータで何を証明するか」「ビジネス上の意思決定とどう接続するか」という思考設計の部分は、現時点でAIが完全に代替できる領域ではありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-future">キャリアを相談する</a>
+</aside>
 
 ## スキル別に見る「代替されやすさ」の構造
 
@@ -108,6 +114,11 @@ AIに代替されるリスクよりも、AIを活用できない人材が相対�
 | マネージャー・リード | 1,200万円〜（企業依存） | 組織設計・事業戦略への接続 |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["ITアーキテクト", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "it-architect-career-path"
+hub: "it-architect"
 image: "/images/media/it-architect-career-path.png"
 related: ["it-architect-market-trend", "it-architect-interview", "it-architect-english", "business-consultant-career-path", "legal-career-path"]
 ---
@@ -18,6 +19,11 @@ ITアーキテクトというロールは、職種の中でも到達点が非常
 本稿では、ITアーキテクトのキャリアパスを「専門性の軸」と「影響範囲の軸」の二軸で整理し、30代が直面しやすい選択肢と、その選択に伴う現実的な変化を述べる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-career-path">無料で相談する</a>
+</aside>
 
 ## ITアーキテクトの職種定義と役割の幅
 
@@ -99,6 +105,11 @@ ITアーキテクトというロールは、職種の中でも到達点が非常
 30代前半時点でDepthが軸なら専門特化、Translationが軸ならCTO・EA方向が自然な延長線になりやすい。ただしこれらは二者択一ではなく、意識的にどちらを優先するかの問題だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

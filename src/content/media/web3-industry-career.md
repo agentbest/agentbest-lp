@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["Web3・ブロックチェーン", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "web3-industry-career"
+hub: "web3-industry"
 image: "/images/media/web3-industry-career.png"
 related: ["web3-industry-company", "web3-industry-guide", "web3-industry-trend", "proptech-industry-career", "govtech-industry-career"]
 ---
@@ -39,6 +40,11 @@ Web3業界の採用は、学歴や在籍企業名よりも「何を作り、何�
 ビジネス・事業開発職においても、特定のDAO（分散型自律組織）での活動履歴や、業界コミュニティでの発信実績が、職務経歴書上の肩書きと同等かそれ以上に評価されるケースがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-career">無料で相談する</a>
+</aside>
 
 ## 評価されやすい経験の種類
 
@@ -108,6 +114,11 @@ GitHubポートフォリオとハッカソン実績をベースに求職活動�
 このパターンで共通するのは、「在職中に実績を作ってから動く」という順序である。Web3業界では採用担当がコードを読める場合が多く、レジュメ上の記載よりも実際のアウトプットの質が先に評価される。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

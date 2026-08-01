@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["フロントエンドエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-certification"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-certification.png"
 related: ["frontend-engineer-career-path", "frontend-engineer-resume", "frontend-engineer-motivation", "hr-consultant-certification", "fas-consultant-certification"]
 ---
@@ -22,6 +23,11 @@ related: ["frontend-engineer-career-path", "frontend-engineer-resume", "frontend
 **一つ目は、実績が少ないキャリア初期段階**。経験年数が短く、ポートフォリオの充実度が十分でない時期には、学習の努力量や基礎知識の習得度合いを示す材料として資格が機能しやすい。
 
 **二つ目は、クライアントワークや公共系・エンタープライズ系の案件**。SIer、コンサルファームのIT部門、または官公庁・金融機関向け開発プロジェクトでは、資格保有が要件の一つとして明示されるケースがある。このような環境では、資格がビジネス上の信頼担保として機能する側面がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい資格・評価されにくい資格
 
@@ -89,6 +95,11 @@ related: ["frontend-engineer-career-path", "frontend-engineer-resume", "frontend
 | 2〜4年目 | ポートフォリオ強化を優先 | AWS認定（キャリア拡張に有効） |
 | 5年目以上 | 資格より実績・専門性 | 特定領域の技術発信・OSS活動を優先 |
 | フリーランス・独立 | 案件要件次第 | 応用情報・AWS認定（商流要件として） |
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

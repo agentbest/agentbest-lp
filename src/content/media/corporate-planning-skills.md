@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["経営企画", "必要スキル"]
 pubDate: 2026-07-04
 slug: "corporate-planning-skills"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-skills.png"
 related: ["corporate-planning-in-30s", "corporate-planning-salary-600", "corporate-planning-from-scratch", "mobile-engineer-skills", "security-engineer-skills"]
 ---
@@ -31,6 +32,11 @@ related: ["corporate-planning-in-30s", "corporate-planning-salary-600", "corpora
 | ITリテラシー（BIツール等） | データ可視化、業務効率化 | ★★★☆☆ | ★★☆☆☆ | 低〜中 |
 
 重要度は絶対値ではなく相対的な傾向であり、企業の規模・業種・経営企画部門の役割範囲によって変動する。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-skills">無料で相談する</a>
+</aside>
 
 ## 優先度が最も高いスキル：財務リテラシーと構造的思考
 
@@ -92,6 +98,11 @@ Aさんは、月次レポートの作成・KPI集計を主な業務としてお�
 ### 経験年数8年以上（マネジャークラス以上）
 
 事業・業界理解の深さと、経営者視点での意思決定支援能力が差別化要素になる。スキルの習得というより、「自社の成長課題を構造的に語れるか」「経営層と議論の俎上で渡り合えるか」という経験の質が問われる段階である。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

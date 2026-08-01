@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["フルスタックエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-failure"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-failure.png"
 related: ["fullstack-engineer-from-scratch", "fullstack-engineer-future", "fullstack-engineer-interview", "dev-director-failure", "fas-consultant-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["fullstack-engineer-from-scratch", "fullstack-engineer-future", "fulls
 また、技術の幅広さは強みである一方、選考においては専門性の深さを問われる場面も多い。フロントもバックも「中程度」という評価をされると、スペシャリストを優先する企業の選考ではスクリーニングで落とされやすくなる。転職市場における自分の立ち位置を誤って把握したまま進めると、無駄な選考時間を費やす結果になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターンと構造的な原因
 
@@ -99,6 +105,11 @@ related: ["fullstack-engineer-from-scratch", "fullstack-engineer-future", "fulls
 - [ ] オファー内容（固定給・変動給・ストックオプション等）を総合的に比較したか
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

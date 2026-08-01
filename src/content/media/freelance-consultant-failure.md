@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["フリーコンサルタント", "転職失敗"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-failure"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-failure.png"
 related: ["freelance-consultant-in-30s", "freelance-consultant-career-guide", "freelance-consultant-how-to-use-agent", "platform-engineer-failure", "scm-consultant-failure"]
 ---
@@ -26,6 +27,11 @@ related: ["freelance-consultant-in-30s", "freelance-consultant-career-guide", "f
 これらは独立後に初めて気づくケースが多く、軌道修正にも時間とコストがかかります。それぞれの構造を順に見ていきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-failure">無料で相談する</a>
+</aside>
 
 ## 失敗パターン1｜収入・契約の仕組みを甘く見ていた
 
@@ -115,6 +121,11 @@ SIer在籍時に複数の業務改善プロジェクトを経験した後、フ�
 | 7 | 出口の想定 | 2〜3年後の選択肢（転職・継続・顧問化）を複数描けているか |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

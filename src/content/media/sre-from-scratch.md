@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["SRE", "未経験転職"]
 pubDate: 2026-07-04
 slug: "sre-from-scratch"
+hub: "sre"
 image: "/images/media/sre-from-scratch.png"
 related: ["sre-career-path", "sre-interview", "sre-salary", "enterprise-sales-from-scratch", "security-engineer-from-scratch"]
 ---
@@ -22,6 +23,11 @@ SRE（Site Reliability Engineering）は、Googleが提唱したエンジニア�
 インフラエンジニアやサーバーサイドエンジニアと混同されやすいが、SREが他職種と異なる点は「信頼性を定量的に扱う責任を持つ」ことにある。SLI（サービスレベル指標）を設定し、障害の影響をコードで測定・改善するサイクルを回す。コードを書く能力と運用知識の両方が求められる点が、採用難易度を高める主因でもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-from-scratch">無料で相談する</a>
+</aside>
 
 ## 「未経験」の実態——スタートラインは一様ではない
 
@@ -112,6 +118,11 @@ Pythonまたはシェルスクリプトでのトイル削減スクリプトの�
 上記はSaaS・IT企業の正社員・東京圏を想定した目安であり、事業会社かSIか、企業の規模感、個人の実績によって大きく変動する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

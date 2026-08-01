@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["法務", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "legal-how-to-use-agent"
+hub: "legal"
 image: "/images/media/legal-how-to-use-agent.png"
 related: ["legal-failure", "legal-work-style", "legal-salary-1000", "hr-consultant-how-to-use-agent", "fas-consultant-how-to-use-agent"]
 ---
@@ -40,6 +41,11 @@ related: ["legal-failure", "legal-work-style", "legal-salary-1000", "hr-consulta
 | リーガルカウンセル（弁護士資格あり） | 法的リスク管理・訴訟指揮・渉外対応 | 800〜1,400万円程度 |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを活用するべき実際的な理由
 
@@ -90,6 +96,11 @@ related: ["legal-failure", "legal-work-style", "legal-salary-1000", "hr-consulta
 エージェントを活用する実際的な価値はここに出やすい。「守秘義務に配慮しながらも採用側に伝わる表現にリライトする」「業種別・フェーズ別の企業に対してどのように経験を訴求するか」という点において、エージェントの知見が機能しやすい。加えて、法律事務所からインハウスへの転職は年収レンジの変化を伴いやすく（上がる場合も下がる場合もある）、年収以外の条件（業務範囲の広さ・裁量・キャリアの方向性）を総合的に比較する判断において、市場観を持つエージェントは有用な情報源となりうる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

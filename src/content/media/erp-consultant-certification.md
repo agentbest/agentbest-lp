@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["ERPコンサルタント", "資格"]
 pubDate: 2026-07-05
 slug: "erp-consultant-certification"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-certification.png"
 related: ["erp-consultant-salary-600", "erp-consultant-salary-1000", "erp-consultant-work-style", "game-engineer-certification", "cto-vpoe-certification"]
 ---
@@ -24,6 +25,11 @@ ERPコンサルタントという職種において、資格は採用の絶対�
 ただし、資格で補完できるのはあくまでも知識面です。コンサルタントとして求められる課題整理力、クライアントへの提案力、プロジェクト管理能力は、資格からは直接測れません。この点を踏まえた上で、どの資格が評価されやすいかを見ていきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい資格の類型
 
@@ -103,6 +109,11 @@ ERPコンサルタントの年収は、経験・役割・担当製品・所属�
 年収帯の目安としては、ERPコンサルタントは経験年数・役割によって400万円台後半から1,200万円以上まで広く分布します。資格よりも、担当したプロジェクトの規模や役割、業種専門性のほうが、年収レンジに与える影響が大きい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

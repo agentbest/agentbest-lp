@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["法務", "年収600万"]
 pubDate: 2026-07-04
 slug: "legal-salary-600"
+hub: "legal"
 image: "/images/media/legal-salary-600.png"
 related: ["legal-certification", "legal-failure", "legal-career-path", "sre-salary-600", "ml-engineer-salary-600"]
 ---
@@ -32,6 +33,11 @@ related: ["legal-certification", "legal-failure", "legal-career-path", "sre-sala
 500万円台から600万円台への移行は、「担当者として与えられた仕事をこなす」フェーズから、「主体的に法的課題を設定し、ビジネスに貢献する」フェーズへの転換を意味します。この質的変化が、処遇の差につながりやすい構造になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円が「壁」になりやすい理由
 
@@ -99,6 +105,11 @@ related: ["legal-certification", "legal-failure", "legal-career-path", "sre-sala
 **結果の傾向：** このような経験の構造を持つ候補者は、同職種内での年収改善幅が大きい傾向があります。上記の条件では、年収680〜720万円程度の提示を受けるケースが観察されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

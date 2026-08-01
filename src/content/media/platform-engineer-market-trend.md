@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["プラットフォームエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "platform-engineer-market-trend"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-market-trend.png"
 related: ["platform-engineer-company-size", "platform-engineer-certification", "platform-engineer-salary-1000", "data-engineer-market-trend", "pmo-market-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["platform-engineer-company-size", "platform-engineer-certification", "
 ただし、名称変更に留まるケースと、本質的に職務内容・組織設計が変化しているケースは区別して捉える必要がある。後者においては、開発者体験（Developer Experience）の向上という明確なミッションが与えられ、プロダクトマネジメント的な思考が求められるポジションが増えている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 2026年時点の求人市場の動向
 
@@ -96,6 +102,11 @@ related: ["platform-engineer-company-size", "platform-engineer-certification", "
 個人スキルとして評価される段階から、組織として「プラットフォームエンジニアリングチーム」を設置する企業が増えつつある。Team Topologiesの「プラットフォームチーム」の概念が設計根拠として参照されるケースも増えており、マネジメント・チームビルディングの経験が付加価値になってきている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

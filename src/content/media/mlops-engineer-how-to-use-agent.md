@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["MLOpsエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-how-to-use-agent"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-how-to-use-agent.png"
 related: ["mlops-engineer-company-size", "mlops-engineer-future", "mlops-engineer-career-guide", "backend-engineer-how-to-use-agent", "pmo-consultant-how-to-use-agent"]
 ---
@@ -36,6 +37,11 @@ MLOpsは、機械学習モデルの開発・実験管理・デプロイ・監視
 | 研究開発型企業 | モデルの本番展開サポート | MLエンジニア・研究者との協業経験 |
 
 この多様性は、「自分のどのスキルが評価されるか」が企業によって異なることを意味する。エージェントが仲介する価値の一つは、候補者のスキルセットを整理し、どの企業タイプでどう評価されやすいかを言語化してくれる点にある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを活用すべき理由
 
@@ -83,6 +89,11 @@ MLOpsの採用選考では、技術面接とシステムデザイン面接の両
 **背景**：事業会社でデータサイエンティストとして数年経験を積み、モデルの本番デプロイや監視を任されるようになったが、組織にMLOpsの専任担当がおらず、自身がその役割を兼任していた。転職先では「MLOps専任」として評価されたいと考えているが、公式な肩書きがないため市場で自分をどう訴求すればよいかわからない。
 
 **エージェント活用のポイント**：この場合、エージェントが担う重要な役割は「スキルの言語化支援」である。具体的には、担当してきた業務を「モデルのCI/CD構築」「実験管理基盤の整備」「本番モデルの監視・アラート設計」などのMLOps的語彙に変換し、職務経歴書に落とし込む支援が有効に機能する。担当業務の中にMLOpsとして評価されるエッセンスがどれだけ含まれているかを整理することで、肩書き上の不一致を補うことができる。また、こうした「MLOpsに近い経験を持つML系出身者」を歓迎する企業を把握しているエージェントであれば、マッチングの精度が高まる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

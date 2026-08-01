@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["Webマーケター", "年収600万"]
 pubDate: 2026-07-04
 slug: "web-marketer-salary-600"
+hub: "web-marketer"
 image: "/images/media/web-marketer-salary-600.png"
 related: ["web-marketer-future", "web-marketer-work-style", "web-marketer-career-guide", "solution-architect-salary-600", "enterprise-sales-salary-600"]
 ---
@@ -29,6 +30,11 @@ Webマーケターの年収は、業界・企業規模・役割によって幅�
 この表からわかるように、年収600万円は「担当者からマネージャーへの移行期」に重なる。スキルセットや役割の質が問われ始める境界線であるため、ここで伸び悩む人が多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁が生じる構造的な理由
 
@@ -108,6 +114,11 @@ Webマーケターの年収は、業界・企業規模・役割によって幅�
 この型が示すのは、スキルそのものよりも「スキルの見せ方」と「舞台の選択」が年収に与える影響の大きさだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

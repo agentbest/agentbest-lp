@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["事業開発", "年収600万"]
 pubDate: 2026-07-04
 slug: "bizdev-salary-600"
+hub: "bizdev"
 image: "/images/media/bizdev-salary-600.png"
 related: ["bizdev-how-to-use-agent", "bizdev-future", "bizdev-english", "hrbp-salary-600", "sre-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["bizdev-how-to-use-agent", "bizdev-future", "bizdev-english", "hrbp-sa
 600万円という水準は、「実務を自走できる」から「事業に対して構造的な影響を与えられる」に移行する境目に位置します。この境目を超えられない人には、特定のパターンが見受けられます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -101,6 +107,11 @@ related: ["bizdev-how-to-use-agent", "bizdev-future", "bizdev-english", "hrbp-sa
 次の会社ではパートナーアライアンスの主担当として採用。年収680万円でのオファーを受け入れた。業務内容の難易度は大きく変わっていないが、「役割の定義と自分の語り方」が変わったことで市場評価が変化した。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

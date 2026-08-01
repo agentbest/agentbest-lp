@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["エンタープライズセールス", "年収600万"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-salary-600"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-salary-600.png"
 related: ["enterprise-sales-failure", "enterprise-sales-work-style", "enterprise-sales-company-size", "partner-sales-salary-600", "big4-consultant-salary-600"]
 ---
@@ -29,6 +30,11 @@ related: ["enterprise-sales-failure", "enterprise-sales-work-style", "enterprise
 600万円帯は「担当者としての標準的な成熟」を示す水準である一方、そこから先の報酬増加は「単価の高い案件を継続的にクローズできるか」「組織への影響範囲を広げられるか」という別の問いに移行します。この構造的な断層が、多くの実務者が感じる「600万円の壁」の正体です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 壁になる要素：なぜ600万円で停滞しやすいのか
 
@@ -81,6 +87,11 @@ related: ["enterprise-sales-failure", "enterprise-sales-work-style", "enterprise
 外資系・SaaS系企業の求人を通じた情報収集、エージェントとの面談を通じたオファー水準の確認などを通じて、「自分が600万円で止まっているのは市場全体の傾向なのか、在籍企業固有の問題なのか」を切り分けることが最初の判断軸となります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

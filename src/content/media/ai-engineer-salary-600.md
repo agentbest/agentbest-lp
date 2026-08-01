@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["AIエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "ai-engineer-salary-600"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-salary-600.png"
 related: ["ai-engineer-english", "ai-engineer-career-guide", "ai-engineer-skills", "it-architect-salary-600", "bridge-se-salary-600"]
 ---
@@ -31,6 +32,11 @@ AIエンジニアとして年収600万円の水準を目指す、あるいはそ
 この表からわかるように、600万円という数字は「中堅エンジニアの上限〜シニアの入り口」に位置します。つまり、役割の質が変わるかどうかの境界線にあたるわけです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円前後で滞留しやすい理由
 
@@ -104,6 +110,11 @@ LLM（大規模言語モデル）の普及により、AIの「動かす部分」
 この事例が示すのは、技術の再習得より「既存スキルの再解釈と文脈の整備」が有効な場合があるという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["エンジニアリングマネージャー", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "engineering-manager-how-to-use-agent"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-how-to-use-agent.png"
 related: ["engineering-manager-company-size", "engineering-manager-skills", "engineering-manager-market-trend", "corporate-planning-how-to-use-agent", "finance-how-to-use-agent"]
 ---
@@ -38,6 +39,11 @@ EMポジションはレイヤーが上がるほど、固定給・変動給・ス
 エージェントは複数の企業のオファー傾向を把握していることが多く、候補者が条件の妥当性を判断するうえでの参考情報を提供できる立場にあります。自分一人では比較軸の設定自体が難しい局面において、客観的な視点は機能しやすいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## EM転職における年収レンジの目安
 
@@ -107,6 +113,11 @@ EM転職においては、1社に絞るよりも2〜3社を並行して利用す
 複数利用の際は、各エージェントへの情報共有の範囲と、選考状況の連携方法をあらかじめ明確にしておくことが運用上のトラブルを防ぎます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

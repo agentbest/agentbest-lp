@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["PMOコンサルタント", "市場動向"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-market-trend"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-market-trend.png"
 related: ["pmo-consultant-english", "pmo-consultant-career-guide", "pmo-consultant-career-path", "corporate-planning-market-trend", "data-scientist-market-trend"]
 ---
@@ -31,6 +32,11 @@ ERP導入・クラウド移行・データ基盤構築といったITプロジェ
 経験豊富なPMOコンサルタントの絶対数が市場の需要に追いついていない。特に、複数の大型プロジェクトを経験し、上流から実行管理まで一貫して担った実績を持つ人材は、引き合いが強い状態が続いている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの質的変化：「管理者」から「変革の担い手」へ
 
@@ -102,6 +108,11 @@ SIer在籍5〜6年。金融・流通・製造のいずれかの業界向けシ�
 PMO活動は成果の可視化が難しい職種でもある。「プロジェクト納期を〇週間短縮」「リスク早期検知により予算超過を防止」「複数ベンダー間の調整コストを削減」といった形で、自身の関与が生み出した価値を定量・定性の両面で語れる準備が、面接評価に直結する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

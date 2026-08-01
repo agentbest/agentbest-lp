@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["事業企画", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "business-planning-company-size"
+hub: "business-planning"
 image: "/images/media/business-planning-company-size.png"
 related: ["business-planning-career-guide", "business-planning-interview", "business-planning-resume", "security-consultant-company-size", "bridge-se-company-size"]
 ---
@@ -22,6 +23,11 @@ related: ["business-planning-career-guide", "business-planning-interview", "busi
 一方、スタートアップにおける事業企画は、事業の存続・成長に直接紐づく判断を日常的に求められます。新規プロダクトの市場性検証、KPI設計、資金調達に向けた事業計画書の作成、パートナーシップ交渉まで、職種の境界が曖昧なまま機能横断的な業務を担うケースが多く見られます。
 
 この構造的な差異を理解した上で、次に具体的な評価軸ごとに比較します。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要評価軸での比較
 
@@ -78,6 +84,11 @@ related: ["business-planning-career-guide", "business-planning-interview", "busi
 大手企業の事業企画経験は、採用側に「一定の論理思考・プロセス管理能力がある」という安心感を与えますが、「具体的に何を動かしたか」を問われた際に答えにくい場合、評価が頭打ちになりやすい傾向があります。一方、スタートアップでの経験は実行力・オーナーシップの証左として機能しやすいですが、組織規模・事業フェーズ・担当領域の説明が不十分だと、評価軸が定まりにくいという側面もあります。
 
 いずれの環境においても、「自分がどの意思決定に関与し、何を変えたか」を言語化できる人材が評価されやすい構造は共通しています。環境選びよりも、環境の中でどう動いたかが最終的な市場価値を決めます。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

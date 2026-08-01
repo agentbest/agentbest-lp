@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["Salesforceコンサルタント", "年収1000万"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-salary-1000"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-salary-1000.png"
 related: ["salesforce-consultant-career-path", "salesforce-consultant-in-20s", "salesforce-consultant-salary", "qa-engineer-salary-1000", "ai-engineer-salary-1000"]
 ---
@@ -30,6 +31,11 @@ Salesforceコンサルタントとして年収1,000万円に到達すること�
 この表から読み取れる構造的な事実は2点あります。第一に、正社員として年収1,000万円に到達するには、おおむねシニアコンサルタント以上、あるいはマネージャー職相当のポジションが必要になる傾向があります。第二に、フリーランス転向後は稼働条件次第で比較的早期に1,000万円を超えやすい反面、案件の安定性・社会保険の自己負担・営業コストなどを加味する必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリアの特徴
 
@@ -90,6 +96,11 @@ Salesforce認定資格は、一定以上のポジションを目指すうえで�
 一方、大手ファームや外資系コンサルに直接転じようとする際には、「プロジェクトマネジメント経験」「英語力」「大規模案件の実績」が前提として求められることが多く、準備なしに移行できるポジションは限られます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

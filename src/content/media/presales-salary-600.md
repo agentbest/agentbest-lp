@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["セールスエンジニア／プリセールス", "年収600万"]
 pubDate: 2026-07-03
 slug: "presales-salary-600"
+hub: "presales"
 image: "/images/media/presales-salary-600.png"
 related: ["presales-market-trend", "presales-how-to-use-agent", "presales-in-20s", "business-consultant-salary-600", "solution-architect-salary-600"]
 ---
@@ -35,6 +36,11 @@ related: ["presales-market-trend", "presales-how-to-use-agent", "presales-in-20s
 600万円というラインは、「3〜5年目の節目」と「企業の評価上限」が重なりやすいレンジに位置する。この水準で停滞を感じる場合、個人の努力よりも「在籍している環境の構造」に原因があることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -102,6 +108,11 @@ SIer系や国内パッケージベンダーの場合、職種別の給与レン�
 移行時のポイントとして、英語の流暢さよりも「技術的な提案力と顧客折衝の経験」を評価するポジションを選ぶことが、ミスマッチを防ぐうえで重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

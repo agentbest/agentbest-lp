@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["開発ディレクター", "面接対策"]
 pubDate: 2026-07-04
 slug: "dev-director-interview"
+hub: "dev-director"
 image: "/images/media/dev-director-interview.png"
 related: ["dev-director-salary", "dev-director-company-size", "dev-director-in-20s", "bridge-se-interview", "sre-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["dev-director-salary", "dev-director-company-size", "dev-director-in-2
 この三層のすべてにわたって具体的なエピソードを用意できているかどうかが、選考の通過率に影響しやすい。特に上位層ビジネスパーソンを採用する企業ほど、「何をしたか」より「なぜその判断をしたか」の説明に重点を置く傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問とその構造的な回答の組み立て方
 
@@ -116,6 +122,11 @@ related: ["dev-director-salary", "dev-director-company-size", "dev-director-in-2
 交渉の場面では、現年収の提示を求められる前に「自分はどのような貢献ができるか」を先に述べておくことで、交渉の文脈を実績ベースに置きやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

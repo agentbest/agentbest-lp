@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["機械学習エンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "ml-engineer-in-20s"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-in-20s.png"
 related: ["ml-engineer-in-30s", "ml-engineer-english", "ml-engineer-salary-600", "pmo-consultant-in-20s", "ai-engineer-in-20s"]
 ---
@@ -30,6 +31,11 @@ related: ["ml-engineer-in-30s", "ml-engineer-english", "ml-engineer-salary-600",
 逆にいえば、ITの実務経験がほぼなく、学習したのがオンライン講座のみ、という状態でのポテンシャル採用は非常に限られたポジションに絞られる。書籍やハンズオン教材での学習は、採用担当者には「学習意欲の証明」として映るが、「技術力の証明」にはなりにくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業タイプ別・採用難易度と狙い目の整理
 
@@ -99,6 +105,11 @@ related: ["ml-engineer-in-30s", "ml-engineer-english", "ml-engineer-salary-600",
 学習に費やした時間の絶対量よりも、「何を学んで何を作り、それによってどのような理解が得られたか」を説明できるかどうかが採用判断に影響しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

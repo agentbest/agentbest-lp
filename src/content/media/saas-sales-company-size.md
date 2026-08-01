@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["SaaS営業", "大手vsスタートアップ"]
 pubDate: 2026-07-03
 slug: "saas-sales-company-size"
+hub: "saas-sales"
 image: "/images/media/saas-sales-company-size.png"
 related: ["saas-sales-how-to-use-agent", "saas-sales-certification", "saas-sales-career-guide", "dev-director-company-size", "presales-company-size"]
 ---
@@ -24,6 +25,11 @@ SaaS営業のキャリアを検討する際、「大手企業とスタートア�
 スタートアップでは、分業体制が整備されていないケースが多く、リード獲得から契約締結、場合によってはオンボーディングの初期対応まで、一人の担当者が担うことがある。非効率に見える反面、商談の全体設計・顧客との深い関係構築・プロダクトフィードバックの橋渡しなど、幅広い経験を短期間で積みやすい環境でもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-company-size">キャリアを相談する</a>
+</aside>
 
 ## 4軸での比較
 
@@ -85,6 +91,11 @@ SaaS営業のキャリアを検討する際、「大手企業とスタートア�
 - **キャリアの見通しやすさ vs 意思決定への関与度**：組織が大きいほど個人の影響範囲は限られる。逆にスタートアップでは自分の判断が事業に直結する場面が多く、それを楽しめるかどうかが重要な適性の問いになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

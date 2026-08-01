@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["会計・財務コンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "fas-consultant-future"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-future.png"
 related: ["fas-consultant-failure", "fas-consultant-from-scratch", "fas-consultant-work-style", "tech-lead-future", "infra-engineer-future"]
 ---
@@ -35,6 +36,11 @@ related: ["fas-consultant-failure", "fas-consultant-from-scratch", "fas-consulta
 重要なのは、AIや会計ソフトウェアの高度化は「会計・財務コンサルタントの仕事をなくす」のではなく、「誰でもできる部分を代替し、難易度の高い部分だけを残す」という方向に働く点である。これは職種の需要が消えるというより、専門家に期待される水準が引き上げられることを意味する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-future">無料で相談する</a>
+</aside>
 
 ## AI時代に価値を持ち続ける専門性の条件
 
@@ -77,6 +83,11 @@ AIや自動化ツールの台頭を「脅威」としてではなく、「より
 もう一つの型として、コンサルファームや事業会社の財務部門での経験をベースに、管理会計・KPI設計の専門家として製造業やSaaS企業に対するグロース支援を担う独立コンサルタントのキャリアも増えている。SaaS企業ではMRR・ARR・チャーンレートといった業種固有の指標設計が重要であり、財務の基礎知識とSaaS事業モデルへの理解を組み合わせた専門家は希少性がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

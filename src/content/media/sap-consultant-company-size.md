@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["SAPコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "sap-consultant-company-size"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-company-size.png"
 related: ["sap-consultant-salary-1000", "sap-consultant-skills", "sap-consultant-resume", "partner-sales-company-size", "qa-engineer-company-size"]
 ---
@@ -37,6 +38,11 @@ SAPコンサルタントが所属する組織は、大きく次のように分�
 | S/4HANA移行案件 | 大規模グローバル移行が豊富 | 中堅向け移行・クラウド移行が多い |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## 大手ファームで得られるもの・失うもの
 
@@ -95,6 +101,11 @@ SAPコンサルタントが所属する組織は、大きく次のように分�
 → 大手出身のブランドを維持しつつ、スタートアップ・ブティックファームで経営者に近いポジションを経験することで、独立後の営業・提案力を醸成するルートが考えられます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

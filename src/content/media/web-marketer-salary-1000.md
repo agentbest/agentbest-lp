@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["Webマーケター", "年収1000万"]
 pubDate: 2026-07-04
 slug: "web-marketer-salary-1000"
+hub: "web-marketer"
 image: "/images/media/web-marketer-salary-1000.png"
 related: ["web-marketer-how-to-use-agent", "web-marketer-salary-600", "web-marketer-failure", "mlops-engineer-salary-1000", "hrbp-salary-1000"]
 ---
@@ -26,6 +27,11 @@ Webマーケターとして年収1,000万円の水準に到達することは、
 | VPoM・CMO相当 | 10年以上 | 1,200万円〜 |
 
 この表から読み取れるのは、年収1,000万円が「マネージャー層の上限〜事業責任者」に相当する水準であるということです。純粋な実務担当者として1,000万円に到達するケースは限られており、多くの場合、何らかの形でスコープの拡張か、業界・企業の選択が伴います。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 1,000万円到達者に共通する3つの構造
 
@@ -72,6 +78,11 @@ Webマーケターとして年収1,000万円の水準に到達することは、
 **施策の実行者にとどまること：** 施策を確実に実行できるが、KPIの設計・予算の意思決定・チームへの権限委譲といった上流に関与できていない状態。年収700〜800万円の手前で伸び悩む傾向がある。
 
 **業界・企業の選択を後回しにすること：** 実力があっても、マーケティング投資対効果が測りにくい業界や、年功序列の強い組織体系では報酬が上がりにくい。企業・業界の「報酬ポテンシャル」を転職時に精査することが重要です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

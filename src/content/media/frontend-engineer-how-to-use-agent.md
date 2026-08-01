@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["フロントエンドエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-how-to-use-agent"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-how-to-use-agent.png"
 related: ["frontend-engineer-salary-1000", "frontend-engineer-work-style", "frontend-engineer-failure", "platform-engineer-how-to-use-agent", "legal-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["frontend-engineer-salary-1000", "frontend-engineer-work-style", "fron
 加えて、エージェントは選考中に企業の意向をある程度把握できる立場にあります。「書類は通過したが技術面接の通過率が低い」「給与交渉のタイミングと上限感」といった情報は、個人の直接応募では入手しにくい部分です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントを選ぶ際の判断軸
 
@@ -98,6 +104,11 @@ GitHubのリポジトリや過去のプロジェクト概要を整理し、技�
 このプロセス全体を通じて、エージェントは「情報の橋渡し役」として機能します。エージェントに丸投げするのではなく、自分の意思と判断を軸に置きながら活用することが成果につながりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

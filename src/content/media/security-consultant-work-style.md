@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["セキュリティコンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "security-consultant-work-style"
+hub: "security-consultant"
 image: "/images/media/security-consultant-work-style.png"
 related: ["security-consultant-in-30s", "security-consultant-salary-600", "security-consultant-how-to-use-agent", "data-analyst-work-style", "freelance-consultant-work-style"]
 ---
@@ -24,6 +25,11 @@ related: ["security-consultant-in-30s", "security-consultant-salary-600", "secur
 加えて、所属先が「独立系セキュリティ専門ファーム」「総合コンサルティングファーム」「SIer・ITベンダーのセキュリティ部門」「事業会社のセキュリティ部門（インハウス）」のいずれかによっても、働き方の実態は相当変わる。以降ではこの2軸（業務領域×所属組織）を意識しながら説明を進める。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 領域・組織別の働き方比較
 
@@ -88,6 +94,11 @@ IR専門のポジションに就いている場合、年間を通じて均等に
 この例では、週の残業時間は平均10〜20時間程度の範囲に収まりやすい。一方で、複数案件が重なるタイミングや、クライアントから急ぎの追加調査が入った際は、この水準を超えることも珍しくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

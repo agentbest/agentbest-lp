@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["DevOpsエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "devops-engineer-english"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-english.png"
 related: ["devops-engineer-from-scratch", "devops-engineer-salary-600", "devops-engineer-resume", "business-planning-english", "security-consultant-english"]
 ---
@@ -22,6 +23,11 @@ DevOpsという職種の性格上、技術文書・公式ドキュメントの�
 一方「話す・書く英語」については、チーム構成や事業ドメインによって要求水準が大きく分かれる。この非対称性を理解した上でスキルアップ投資を考えることが、キャリア設計の起点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## ロール・環境別の英語要求水準
 
@@ -91,6 +97,11 @@ DevOpsという職種の性格上、技術文書・公式ドキュメントの�
 6〜12ヶ月程度の継続投資により、外資系企業の技術面接（英語面接を含む）への通過率が改善するケースがある。年収変化は個人差があるものの、国内SIer水準から外資系プロダクト企業水準へ移行する際、200〜400万円前後の変化が生じることがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

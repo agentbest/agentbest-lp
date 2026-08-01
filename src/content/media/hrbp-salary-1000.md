@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["人事", "年収1000万"]
 pubDate: 2026-07-04
 slug: "hrbp-salary-1000"
+hub: "hrbp"
 image: "/images/media/hrbp-salary-1000.png"
 related: ["hrbp-motivation", "hrbp-company-size", "hrbp-english", "bizdev-salary-1000", "security-engineer-salary-1000"]
 ---
@@ -39,6 +40,11 @@ related: ["hrbp-motivation", "hrbp-company-size", "hrbp-english", "bizdev-salary
 いずれのケースでも、「一般的な人事担当者」の延長ではなく、何らかの専門性・役職・市場価値の軸が必要であることがわかります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 到達者に共通するキャリアの構造
 
@@ -96,6 +102,11 @@ HRBPという機能が国内でも普及しつつある背景には、人事を�
 HRコンサルへの転身は年収上昇の有効な手段ですが、35歳以降は採用側の要件が厳しくなる傾向があるため、検討するならば30代前半が動きやすい時期です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

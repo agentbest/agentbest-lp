@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["事業企画", "市場動向"]
 pubDate: 2026-07-04
 slug: "business-planning-market-trend"
+hub: "business-planning"
 image: "/images/media/business-planning-market-trend.png"
 related: ["business-planning-certification", "business-planning-interview", "business-planning-motivation", "ai-engineer-market-trend", "hrbp-market-trend"]
 ---
@@ -30,6 +31,11 @@ related: ["business-planning-certification", "business-planning-interview", "bus
 一方、求人数が増えている分だけ採用難易度も上がっており、「ポジションは増えたが、実際に選考を通過しやすくなったわけではない」という構造が生まれている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの質的な変化
 
@@ -96,6 +102,11 @@ related: ["business-planning-certification", "business-planning-interview", "bus
 この懸念を払拭するためには、コンサル時代に「クライアントの事業に深く関与し、数字の変化を追ったプロジェクト経験」を具体的なエピソードとして語れるか否かが選考の分岐点になりやすい。また、面接においては「なぜコンサルではなく事業会社か」という問いに対して、事業への当事者性を軸にした答えを構築しておくことが、選考通過の確度を高める傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

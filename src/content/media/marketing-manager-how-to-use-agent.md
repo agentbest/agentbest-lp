@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["マーケティングマネージャー", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "marketing-manager-how-to-use-agent"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-how-to-use-agent.png"
 related: ["marketing-manager-resume", "marketing-manager-future", "marketing-manager-motivation", "enterprise-sales-how-to-use-agent", "big4-consultant-how-to-use-agent"]
 ---
@@ -20,6 +21,11 @@ related: ["marketing-manager-resume", "marketing-manager-future", "marketing-man
 この「定義のばらつき」が、転職活動を複雑にしている最大の要因です。求人票に記載された役割と、入社後に実際に期待されることが乖離しやすいポジションであり、特に「プレイングマネージャーか、ピュアマネージャーか」という点は内情を把握していなければ判断できません。また、年収レンジの幅も広く、同じタイトルでも経験・成果・組織規模によって条件が大きく異なります。
 
 さらに、採用側もマーケティングマネージャーへの期待値を言語化できていないケースがあります。「とにかく成果を出せる人材が欲しい」という漠然とした要件を持つ企業は多く、候補者が自分のスキルセットを企業ニーズに的確に接続するには、一定の情報非対称を解消する必要があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを使うべき5つの理由
 
@@ -69,6 +75,11 @@ BtoBのSaaS企業でインサイドセールスとマーケ連携を担当して
 
 **得られた示唆**
 自己評価と企業評価のギャップを埋める情報を持っているエージェントであれば、応募戦略・選考準備・条件交渉のすべてで具体的な貢献が得られます。逆に、エージェントが企業の内情を把握していない場合は、一般的な転職サイトを利用するのと本質的に変わらない結果になりやすいです。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

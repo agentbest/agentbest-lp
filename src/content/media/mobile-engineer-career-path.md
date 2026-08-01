@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["モバイルエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-career-path"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-career-path.png"
 related: ["mobile-engineer-from-scratch", "mobile-engineer-in-30s", "mobile-engineer-certification", "dev-director-career-path", "backend-engineer-career-path"]
 ---
@@ -26,6 +27,11 @@ related: ["mobile-engineer-from-scratch", "mobile-engineer-in-30s", "mobile-engi
 - **事業貢献軸**：プロダクトマネジメントやCTO・VPoEなど、技術と経営を接続するポジションを目指す
 
 どの軸が「正解」かは個人の志向・環境・会社規模によって異なる。重要なのは、いずれの方向においても「モバイル特有の価値」を起点にした積み上げが可能であるという点だ。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## 各キャリアパスの実態と市場評価
 
@@ -92,6 +98,11 @@ Flutter・React Nativeの普及により、「ネイティブのみ」を強み�
 ### セキュリティとコンプライアンス対応の重要性
 
 金融・医療・法人向けアプリの増加に伴い、セキュリティ設計や規制対応（個人情報保護法・金融庁ガイドライン等）を経験したモバイルエンジニアの希少性は高まっている。転職市場において、この経験はポジションの選択肢を広げる要素になりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

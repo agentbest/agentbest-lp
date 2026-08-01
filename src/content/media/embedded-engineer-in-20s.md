@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["組み込みエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-in-20s"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-in-20s.png"
 related: ["embedded-engineer-resume", "embedded-engineer-in-30s", "embedded-engineer-future", "security-consultant-in-20s", "hr-consultant-in-20s"]
 ---
@@ -26,6 +27,11 @@ related: ["embedded-engineer-resume", "embedded-engineer-in-30s", "embedded-engi
 - 品質・安全要件が厳しい領域（車載・医療）ほど、開発プロセス自体の習得が重要になる
 
 こうした特性から、即戦力採用では実機経験や特定アーキテクチャの知識が重視される。ただし、20代のポテンシャル採用においては、「基礎がある人材をどこまで育てられるか」という採用側の方針が色濃く出るため、経験の有無よりも素地と志向性が選考軸になりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## ポテンシャル採用における評価軸
 
@@ -83,6 +89,11 @@ Web系に比べて習得に時間がかかること、成果が見えにくい�
 4. **面接での語り方**：「なぜ組み込みか」に対し、趣味の製作で実機が動いたときの感覚を起点に、ソフトとハードの境界に近い層での開発に興味があることを具体的に説明
 
 このようなケースでは、実務経験の有無よりも「自分で課題を設定して動くものを作った経験」を軸に評価されやすい。転職後の想定年収は350〜420万円程度からのスタートになることが多いが、実務経験を積むにつれて数年内に大幅に上昇する余地がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

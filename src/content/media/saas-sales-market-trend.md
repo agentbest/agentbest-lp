@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["SaaS営業", "市場動向"]
 pubDate: 2026-07-03
 slug: "saas-sales-market-trend"
+hub: "saas-sales"
 image: "/images/media/saas-sales-market-trend.png"
 related: ["saas-sales-future", "saas-sales-resume", "saas-sales-from-scratch", "uiux-designer-market-trend", "fullstack-engineer-market-trend"]
 ---
@@ -36,6 +37,11 @@ SaaS営業の転職市場は、2024年後半から2025年にかけての調整�
 一方でスタートアップ〜グロース段階のSaaS企業は引き続き積極的な採用姿勢を持つ層が一定数存在します。シリーズB〜D相当の資金調達を経た企業が、商談・受注の仕組みを整備するフェーズで即戦力を必要としているケースが多く、転職者にとっては裁量の大きい環境を選びやすい時期ともいえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：企業が今求めるプロフィールとは
 
@@ -95,6 +101,11 @@ SaaS営業の年収は、企業フェーズ・ポジション・個人の実績�
 **示唆**：業界特化×プロセス管理の再現性の組み合わせは、エンタープライズ向けSaaSへのステップアップで有効に機能しやすい構造といえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

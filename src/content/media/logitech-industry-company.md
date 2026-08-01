@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["物流テック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "logitech-industry-company"
+hub: "logitech-industry"
 image: "/images/media/logitech-industry-company.png"
 related: ["logitech-industry-guide", "logitech-industry-career", "logitech-industry-salary", "healthtech-industry-company", "game-industry-company"]
 ---
@@ -35,6 +36,11 @@ related: ["logitech-industry-guide", "logitech-industry-career", "logitech-indus
 この類型の違いは、求められるスキルにも直結する。WMS・TMS系のSaaS企業であればカスタマーサクセスや導入コンサルの経験が活かしやすく、ロボティクス系であればハードウェアの知識や製造業との折衝経験が重視されやすい。転職候補を絞り込む際は、まず自分の強みがどの類型と親和性が高いかを確認することが出発点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-company">無料で相談する</a>
+</aside>
 
 ## 財務・事業指標で企業の実態を読む
 
@@ -102,6 +108,11 @@ SaaS型の物流テック企業を評価する際、売上高の絶対値だけ�
 5. **組織の意思決定構造の確認**：プロダクト・ロードマップの決定プロセスに現場知見が反映されているか。特にCTO・CPO以外にドメイン専門家が経営に近い位置にいるかどうかを確認する。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

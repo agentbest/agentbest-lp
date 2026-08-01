@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["ソリューションアーキテクト", "20代転職"]
 pubDate: 2026-07-04
 slug: "solution-architect-in-20s"
+hub: "solution-architect"
 image: "/images/media/solution-architect-in-20s.png"
 related: ["solution-architect-work-style", "solution-architect-salary", "solution-architect-english", "cto-vpoe-in-20s", "engineering-manager-in-20s"]
 ---
@@ -30,6 +31,11 @@ SAという職種名は、企業によって定義が大きく異なる。転職
 20代のポテンシャル採用が現実的なのは、主に**プリセールスSAとプロダクトSA**の領域である。エンタープライズSAは設計実績や業界知識が問われるため、未経験からの参入難易度は高い傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-in-20s">無料で相談する</a>
+</aside>
 
 ## なぜ20代のポテンシャル採用が成立するのか
 
@@ -123,6 +129,11 @@ SAの選考では技術力と同等に、「顧客の課題を技術で整理し
 国内SaaS企業のプロダクトSAとして転職。入社後はオンボーディングで自社プロダクトを習得しながら、既存SAに同行する形でキャリアを積んでいる。年収は前職比で100〜150万円程度の上昇が見込まれる目安の範囲であった。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

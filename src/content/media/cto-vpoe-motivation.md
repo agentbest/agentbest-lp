@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["CTO・VPoE候補", "志望動機"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-motivation"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-motivation.png"
 related: ["cto-vpoe-work-style", "cto-vpoe-career-path", "cto-vpoe-career-guide", "thinktank-motivation", "presales-motivation"]
 ---
@@ -39,6 +40,11 @@ CTO・VPoE候補の採用選考において、志望動機は「なぜその企�
 同一企業でも両ポジションを兼務するケースは多いですが、採用ポジションの主眼がどちらにあるかを確認し、軸を合わせることが基本です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構成ロジック
 
@@ -111,6 +117,11 @@ CTO・VPoE候補の志望動機として評価されやすい構成は、以下�
 面接では志望動機を「読み上げる」のではなく、自分の経験と組織への構想を対話の中で重ねていく姿勢が、経営陣との信頼構築につながりやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

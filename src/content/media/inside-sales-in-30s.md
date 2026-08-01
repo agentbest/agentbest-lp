@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["インサイドセールス", "30代転職"]
 pubDate: 2026-07-03
 slug: "inside-sales-in-30s"
+hub: "inside-sales"
 image: "/images/media/inside-sales-in-30s.png"
 related: ["inside-sales-resume", "inside-sales-salary", "inside-sales-market-trend", "post-consultant-in-30s", "network-engineer-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["inside-sales-resume", "inside-sales-salary", "inside-sales-market-tre
 また、30代転職では「次のキャリアとして何を目指しているか」という問いも重要度を増す。インサイドセールスマネージャー、営業戦略、RevOps（Revenue Operations）といったキャリアの延長線上をどう描くかが、採用企業の中長期的な投資判断に影響する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用企業が30代に求める要素
 
@@ -92,6 +98,11 @@ IT商社のフィールドセールスからSaaS企業のインサイドセー�
 このケーススタディが示すのは、職種のラベルの有無より、業務の構造的理解と言語化能力が評価軸になるという点である。30代の転職においては、経験の「名称」ではなく「本質的な業務内容」を整理する作業が、書類・面接双方において有効に機能しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

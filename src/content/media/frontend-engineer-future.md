@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["フロントエンドエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-future"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-future.png"
 related: ["frontend-engineer-skills", "frontend-engineer-resume", "frontend-engineer-salary-1000", "fullstack-engineer-future", "risk-consultant-future"]
 ---
@@ -28,6 +29,11 @@ Webサービス・SaaSプロダクト・社内システムのUI刷新・モバ�
 コードを書く行為そのものの希少性が低下すると、アーキテクチャ設計・パフォーマンスチューニング・アクセシビリティの実装・テスト設計といった、**ツールが自動化しにくい判断領域**の価値が相対的に高まる。市場における報酬水準も、この軸に沿って二極化する傾向が見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## スキル別の将来性と市場価値
 
@@ -90,6 +96,11 @@ Aさんが着目したのはパフォーマンス領域だった。自社プロ�
 このケースが示す本質は、既存の経験を横に広げるのではなく、**一つの領域を深掘りしてビジネス成果に接続した点**にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

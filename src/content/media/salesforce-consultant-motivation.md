@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["Salesforceコンサルタント", "志望動機"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-motivation"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-motivation.png"
 related: ["salesforce-consultant-career-guide", "salesforce-consultant-interview", "salesforce-consultant-how-to-use-agent", "cloud-engineer-motivation", "dev-director-motivation"]
 ---
@@ -34,6 +35,11 @@ Salesforceコンサルタントは、技術的な知識と顧客折衝の両方�
 SIer系、コンサルティングファーム系、独立系ベンダー、インハウスコンサルなど、Salesforceコンサルタントが在籍する組織形態は多様です。それぞれに特性が異なるため、「コンサルタントになりたい」という記述に加え、「なぜその組織でコンサルタントをしたいのか」まで踏み込むことで、志望動機の深度が一段上がります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構成要素
 
@@ -100,6 +106,11 @@ SIer系、コンサルティングファーム系、独立系ベンダー、イ�
 「現職では技術的な成長機会が限られていたため」という記述は、事実であっても、採用担当者には「不満からの転職」と受け取られやすい傾向があります。現職で得たものを肯定的に示したうえで、さらに発展させたい方向性として志望動機を組み立てる構成が適切です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

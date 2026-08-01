@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["人事", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "hrbp-how-to-use-agent"
+hub: "hrbp"
 image: "/images/media/hrbp-how-to-use-agent.png"
 related: ["hrbp-resume", "hrbp-failure", "hrbp-work-style", "bridge-se-how-to-use-agent", "marketing-manager-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["hrbp-resume", "hrbp-failure", "hrbp-work-style", "bridge-se-how-to-us
 人事は機能が多岐にわたる。採用・労務・人材開発・制度設計・HRBPなど、各領域の専門性は異なる。企業が求めるポジションに対して、自分の経験のどの部分がどう評価されるかを正確に読み解くには、企業の内部事情に精通した媒介者が必要になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## 人事・HRBPの転職でエージェントを使うべき理由
 
@@ -115,6 +121,11 @@ HRBPとは何か、組織開発と人材開発の違いは何か、採用経験�
 また、職務経歴書においては「採用数・充足率」だけでなく、「どんな組織課題に対してどのようなアプローチで採用要件を設計したか」「労務対応において事業部門とどう連携したか」という視点で記述することで、HRBPとしての素養を示しやすくなる。エージェントのフィードバックを活用して書類を磨く進め方が、特にこのようなキャリアチェンジ的な転職において有効に働きやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

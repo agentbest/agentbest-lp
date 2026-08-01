@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["SAPコンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "sap-consultant-motivation"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-motivation.png"
 related: ["sap-consultant-work-style", "sap-consultant-resume", "sap-consultant-career-guide", "ai-engineer-motivation", "marketing-manager-motivation"]
 ---
@@ -40,6 +41,11 @@ SAPというプロダクトは、基幹業務（会計・人事・SCM・調達�
 したがって、志望動機には「この仕事を続ける理由」が間接的に示されている必要があります。プロジェクト型の働き方への適性、業務改革・システム実装の何に面白さを感じているか、中長期のキャリアイメージとの整合性などが、読み手の視点ではチェックポイントになります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構成フレーム
 
@@ -100,6 +106,11 @@ SAPというプロダクトは、基幹業務（会計・人事・SCM・調達�
 「業界トップクラスの規模を誇る貴社で〜」という書き方は、採用担当者には定型文として認識されやすく、選社の説得力を持ちません。SAPコンサルタントの求人では、企業によって得意業種・モジュール・プロジェクトフェーズ（新規導入・バージョン移行・保守運用）が異なります。その具体的な特性との接点を示すことが、応募先を選んだ理由の説明として機能します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

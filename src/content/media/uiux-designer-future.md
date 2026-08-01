@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["UI/UXデザイナー", "将来性"]
 pubDate: 2026-07-04
 slug: "uiux-designer-future"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-future.png"
 related: ["uiux-designer-motivation", "uiux-designer-how-to-use-agent", "uiux-designer-failure", "mlops-engineer-future", "finance-future"]
 ---
@@ -18,6 +19,11 @@ UI/UXデザイナーという職種は、AIが多くのデザイン作業を自�
 デジタルプロダクトの開発サイクルが短縮し、SaaSをはじめとするソフトウェアビジネスが成熟するにつれ、デザインの品質がプロダクトの競争力に直結するという認識は経営層にも浸透してきた。採用市場においても、UI/UXデザイナーの求人数はIT領域全体と比較して堅調に推移しており、特にtoBのSaaS企業やコンサルティングファームのデジタル部門では継続的な採用意欲が見られる傾向にある。
 
 一方で、市場は二極化しつつある。ツールの習熟度と表層的なUI制作に特化したポジションは、生成AIや自動化ツールの台頭によって代替圧力を受けやすい。他方、ビジネス課題とユーザー行動を接続して戦略レベルで設計に関与できるデザイナーは、むしろ希少性が高まっている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AIがUI/UXデザイン業務に与える影響の実態
 
@@ -74,6 +80,11 @@ SaaS企業で数年間UIデザインを担当したデザイナーが、プロ�
 このような転換においては、まずリサーチの補助的な役割から始め、インタビューの設計や分析フェーズに徐々に関与していくことで、「課題発見から設計まで一貫して担える人材」として評価が変わりやすい。次のステップとしては、施策の効果をデータで追うためにSQL等の基礎的なデータ操作スキルを習得するデザイナーも増えており、これによってビジネスサイドとの協議においても発言の根拠を持てるようになる。
 
 転職市場においても、UIの実装スキルに加えて「リサーチ設計ができる」「指標を意識した設計判断ができる」「プロダクト全体の方向性に関与した経験がある」という要素を提示できるケースは、評価されやすい傾向が見られる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

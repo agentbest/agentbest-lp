@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["GovTech", "業界年収"]
 pubDate: 2026-07-05
 slug: "govtech-industry-salary"
+hub: "govtech-industry"
 image: "/images/media/govtech-industry-salary.png"
 related: ["govtech-industry-guide", "govtech-industry-trend", "govtech-industry-career", "legaltech-industry-salary", "hrtech-industry-salary"]
 ---
@@ -32,6 +33,11 @@ GovTech企業の収益構造は大きく三つに分類できる。第一は行�
 行政との契約は複数年・大型になるほど企業の売上安定性が高まり、報酬原資の確保につながりやすい。また、国・都道府県・基礎自治体のどの層を主要顧客とするかも重要で、中央省庁・都道府県を主戦場とする企業は単価が高くなりやすく、従業員への還元余力も生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 職種別年収レンジの目安
 
@@ -92,6 +98,11 @@ GovTech企業の収益構造は大きく三つに分類できる。第一は行�
 **転職時に検討すべき論点**：プロダクトの行政向けユニットエコノミクスが健全か（解約率・契約更新率）、調達構造の透明性、エクイティの行使条件、といった財務・事業面の確認が固定給と同等以上に重要になる。SaaS型GovTech転職においては「ストックオプションの実質的な価値」を過信しない姿勢が、結果的にリスクを抑えることにつながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

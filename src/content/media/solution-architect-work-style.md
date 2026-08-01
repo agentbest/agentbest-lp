@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["ソリューションアーキテクト", "働き方"]
 pubDate: 2026-07-04
 slug: "solution-architect-work-style"
+hub: "solution-architect"
 image: "/images/media/solution-architect-work-style.png"
 related: ["solution-architect-in-30s", "solution-architect-from-scratch", "solution-architect-career-guide", "data-consultant-work-style", "saas-sales-work-style"]
 ---
@@ -22,6 +23,11 @@ SAが多忙になりやすい背景には、職務の性質上、複数の利害
 また、担当する案件数が増えると「並列で複数案件を抱える」状態が常態化しやすい。特にSaaS企業やクラウドベンダーのSAは、1人が数社から十数社の顧客を並行して支援する体制が一般的であるため、コンテキストスイッチの頻度が高くなる。
 
 ただし、「激務＝長時間労働」とは必ずしもイコールではない。仕事の密度が高くても、裁量や時間管理の自由度が確保されている環境であれば、総労働時間は抑えられるケースもある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-work-style">キャリアを相談する</a>
+</aside>
 
 ## 雇用形態・企業タイプ別の働き方の傾向
 
@@ -79,6 +85,11 @@ SIer・コンサルファームでは、顧客企業への常駐が発生する�
 **金曜日**：週内の積み残し対応、次週の準備、自己学習・資格対応（業務時間の一部を充当している組織もある）
 
 この例では、移動を伴う日程が週に1〜2日程度に抑えられており、残りはリモートで業務が完結している。ただし、商談フェーズが重なる週や四半期末は上記よりも密度が高くなりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

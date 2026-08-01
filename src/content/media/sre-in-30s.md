@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["SRE", "30代転職"]
 pubDate: 2026-07-04
 slug: "sre-in-30s"
+hub: "sre"
 image: "/images/media/sre-in-30s.png"
 related: ["sre-interview", "sre-career-guide", "sre-salary-1000", "ai-engineer-in-30s", "engineering-manager-in-30s"]
 ---
@@ -24,6 +25,11 @@ SRE（Site Reliability Engineering）は、ソフトウェアエンジニアリ�
 - **組織貢献層**：開発チームとの協働、障害文化の醸成、ドキュメント整備
 
 20代採用では技術層の素養があれば可能性を評価されるケースがあるが、30代では設計・判断層と組織貢献層に一定の厚みがあることを前提として選考が進む傾向にある。「SREとして動ける状態か」ではなく「SREチームをより良い方向に動かせるか」が問われる、という理解が採用意図の本質に近い。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用企業が重視する評価ポイント
 
@@ -68,6 +74,11 @@ Terraform・Ansible・Pulumiなどによるインフラのコード化と、GitH
 
 **示唆**  
 SREとしての職種経験がない場合でも、実務内容がSREの責任領域と重なっていれば、フレームの再解釈と言語化によって市場評価を得られる場合がある。重要なのは経験の「ラベル」ではなく「思考と判断のプロセスを言語化できているか」である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

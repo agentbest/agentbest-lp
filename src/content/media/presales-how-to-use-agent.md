@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["セールスエンジニア／プリセールス", "転職エージェント活用"]
 pubDate: 2026-07-03
 slug: "presales-how-to-use-agent"
+hub: "presales"
 image: "/images/media/presales-how-to-use-agent.png"
 related: ["presales-english", "presales-career-guide", "presales-motivation", "web-marketer-how-to-use-agent", "corporate-it-how-to-use-agent"]
 ---
@@ -36,6 +37,11 @@ related: ["presales-english", "presales-career-guide", "presales-motivation", "w
 プリセールス・セールスエンジニアのポジションは、外資系ソフトウェアベンダーや国内のSaaS・クラウド企業が採用する際、競合他社への情報開示を避けるために非公開で進めるケースが少なくありません。また、既存チームの増員や特定顧客領域への専任配置など、急ぎで埋める必要があるポジションもエージェント経由で先行して公募されることが多い傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを選ぶ際に確認すべき5つの観点
 
@@ -97,6 +103,11 @@ SIer（システムインテグレーター）でインフラ・ネットワー�
 面接においても、「なぜSaaSか」という問いへの回答構成・技術デモのロールプレイ対策など、職種特有の選考プロセスへの準備支援があるかどうかが、結果に影響しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

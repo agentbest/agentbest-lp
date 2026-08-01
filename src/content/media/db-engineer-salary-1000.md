@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["データベースエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "db-engineer-salary-1000"
+hub: "db-engineer"
 image: "/images/media/db-engineer-salary-1000.png"
 related: ["db-engineer-skills", "db-engineer-company-size", "db-engineer-how-to-use-agent", "cto-vpoe-salary-1000", "game-engineer-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["db-engineer-skills", "db-engineer-company-size", "db-engineer-how-to-
 年収1,000万円はシニア以上の技術力を持つ層、または技術とマネジメントの両軸を担う層に現れやすい水準です。スペシャリスト路線でも届くケースはありますが、それには後述するような市場で希少とされるスキルの組み合わせが求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円に到達しやすい3つのキャリアパターン
 
@@ -100,6 +106,11 @@ related: ["db-engineer-skills", "db-engineer-company-size", "db-engineer-how-to-
 スキル面での追加投資として効果が高いのは、クラウド（AWS・GCP・Azure）のマネージドDB・データ基盤サービスの実践的な経験を積み上げることです。これにより、オンプレ特化の印象を薄め、より幅広い企業からの評価対象になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

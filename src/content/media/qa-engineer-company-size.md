@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["QAエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "qa-engineer-company-size"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-company-size.png"
 related: ["qa-engineer-future", "qa-engineer-skills", "qa-engineer-salary", "ai-engineer-company-size", "corporate-planning-company-size"]
 ---
@@ -26,6 +27,11 @@ QAエンジニアとして次のキャリアを検討するとき、「大手企
 つまり、大手・スタートアップという切り口の前に、「その組織がQAをどう位置づけているか」を確認することが、選択の精度を高める第一歩になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 大手企業のQAエンジニア：構造的な特徴
 
@@ -111,6 +117,11 @@ SIer系の大手企業で4年間、手動テストと不具合管理を中心に
 スタートアップで5年間QAを一手に担い、幅広い経験は得たものの「組織的なQAマネジメント」の経験が薄いと感じているエンジニアが、大手企業のQAリードポジションに転じるケース。既存の組織・プロセスの中で、QA組織の運営や品質指標の仕組みづくりを経験することで、マネジメント領域の実績を積む。この型は、技術的な幅はあるが「組織での再現性」を示す経験が不足していると感じる場合に検討しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

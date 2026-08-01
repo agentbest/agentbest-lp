@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["セールスエンジニア／プリセールス", "資格"]
 pubDate: 2026-07-03
 slug: "presales-certification"
+hub: "presales"
 image: "/images/media/presales-certification.png"
 related: ["presales-in-20s", "presales-motivation", "presales-how-to-use-agent", "mlops-engineer-certification", "recruiter-certification"]
 ---
@@ -30,6 +31,11 @@ related: ["presales-in-20s", "presales-motivation", "presales-how-to-use-agent",
 したがって、採用担当者・面接官の視点では、資格は「最低限の技術的な語彙と概念を持っているか」を確認するための補助的な証跡として機能しやすいです。それ以上でも以下でもない、という認識が現実的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-certification">無料で相談する</a>
+</aside>
 
 ## 資格の評価における「文脈依存性」
 
@@ -98,6 +104,11 @@ related: ["presales-in-20s", "presales-motivation", "presales-how-to-use-agent",
 一方、すでに同領域での実務経験が十分にある候補者が同じ資格を持っていても、採用評価への影響は限定的になりやすいです。資格の機能は「実務経験との相対関係」で変わるという点が重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

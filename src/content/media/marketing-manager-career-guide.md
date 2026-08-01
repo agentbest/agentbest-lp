@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["マーケティングマネージャー", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "marketing-manager-career-guide"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-career-guide.png"
 related: ["marketing-manager-salary-1000", "marketing-manager-future", "marketing-manager-english", "corporate-planning-career-guide", "post-consultant-career-guide"]
 ---
@@ -34,6 +35,11 @@ related: ["marketing-manager-salary-1000", "marketing-manager-future", "marketin
 マーケティングマネージャーの業務範囲は、在籍する企業の業種や成長フェーズによって大きく異なります。たとえばSaaS系スタートアップでは、PLG（プロダクト主導型成長）の推進やインバウンドリード獲得施策に注力する傾向があります。一方、大手消費財メーカーでは、ブランドコミュニケーションや流通チャネル戦略に重きが置かれることが多いです。
 
 コンサルティングファームやエンタープライズ向けBtoB企業では、アカウントベースドマーケティング（ABM）や営業支援コンテンツの設計・管理が主要業務になるケースも見られます。転職先を選ぶ際には「何のマーケティング」を担う職種なのかを、求人票の文言だけでなく面接での質疑応答を通じて確認することが重要です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職市場における市場価値
 
@@ -98,6 +104,11 @@ BtoB SaaS企業でインバウンドマーケティングを専任担当して�
 この場合に評価される経験の典型は「チームの代表として他部門と交渉・調整した経験」「インターンや業務委託の方向けに業務整理・指示出しをした経験」「予算のない中でKPIを設計し経営に報告した経験」です。正式なマネージャー職でなくても、実質的にマネジメントに近い役割を担っていた経験は、適切に言語化することで評価対象になりえます。
 
 面接では、施策の詳細よりも「なぜその判断をしたか」「結果をどう振り返り次に活かしたか」という思考プロセスが問われる傾向があります。自分の判断の根拠と学習サイクルを言語化しておくことが、このパターンの転職では特に重要です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

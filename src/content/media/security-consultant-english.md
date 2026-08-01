@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["セキュリティコンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "security-consultant-english"
+hub: "security-consultant"
 image: "/images/media/security-consultant-english.png"
 related: ["security-consultant-salary-1000", "security-consultant-in-30s", "security-consultant-certification", "hrbp-english", "marketing-manager-english"]
 ---
@@ -34,6 +35,11 @@ related: ["security-consultant-salary-1000", "security-consultant-in-30s", "secu
 CISSP、CISM、CEH、OSSTPなど、グローバルで通用するセキュリティ資格の試験は基本的に英語で実施される（一部に日本語試験が存在するものの、教材・公式リソースの充実度は英語の方が高い）。これらの資格取得のプロセスが英語力の底上げにつながる側面もあり、資格保有自体が英語力の間接的な証明として機能することもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力の水準別・求人と年収の目安
 
@@ -90,6 +96,11 @@ CISA、NIST、ENISA等の公開ドキュメント、主要ベンダーのホワ�
 読む英語から書く・話す英語へのステップアップには、意識的にアウトプットの場を設ける必要がある。社内の英語報告書の草稿を引き受ける、英語の技術ブログを書くといった積み重ねが、座学よりも実用的な英語力の向上に結びつきやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

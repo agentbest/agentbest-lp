@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["ITコンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "it-consultant-salary-600"
+hub: "it-consultant"
 image: "/images/media/it-consultant-salary-600.png"
 related: ["it-consultant-motivation", "it-consultant-salary-1000", "it-consultant-future", "network-engineer-salary-600", "security-consultant-salary-600"]
 ---
@@ -36,6 +37,11 @@ ITコンサルタントとして年収600万円を超えることは、決して
 この非対称性こそが、600万円の壁が語られやすい理由の一つだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収600万円で止まりやすい要因
 
@@ -101,6 +107,11 @@ ITコンサルタントの市場価値を高める上で、「IT×〇〇業界�
 このケースで重要なのは、技術スキルそのものを変えたわけではない点だ。同じERPの知識を「業界の経営課題に接続して語る」ことができたことで、外部市場での評価グレードが一段上がった。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

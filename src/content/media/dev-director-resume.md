@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["開発ディレクター", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "dev-director-resume"
+hub: "dev-director"
 image: "/images/media/dev-director-resume.png"
 related: ["dev-director-salary-1000", "dev-director-market-trend", "dev-director-skills", "digital-marketer-resume", "inside-sales-resume"]
 ---
@@ -31,6 +32,11 @@ related: ["dev-director-salary-1000", "dev-director-market-trend", "dev-director
 職務経歴書が果たすべき役割は、この二軸を統合した「意思決定者としての開発ディレクター像」を採用担当者に想像させることにある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-resume">キャリアを相談する</a>
+</aside>
 
 ## 採用担当者が職務経歴書で見ている評価軸
 
@@ -122,6 +128,11 @@ A氏の最初の職務経歴書には「○○システムのリニューアル�
 5. **最新のプロジェクトが薄い**：最新のプロジェクトに最も紙面を割くのが基本。古いプロジェクトほど簡潔にまとめる
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

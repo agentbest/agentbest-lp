@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["SRE", "年収1000万"]
 pubDate: 2026-07-04
 slug: "sre-salary-1000"
+hub: "sre"
 image: "/images/media/sre-salary-1000.png"
 related: ["sre-in-20s", "sre-failure", "sre-future", "platform-engineer-salary-1000", "business-consultant-salary-1000"]
 ---
@@ -31,6 +32,11 @@ SREという職種は、ソフトウェアエンジニアリングの手法で�
 経験年数はあくまで参考であり、技術的な影響範囲や組織貢献の深さが実際の評価基準の中心となります。年収1,000万円は「シニア〜スタッフ相当」の領域に位置し、運用の守りにとどまらない、エンジニアリングによる改善・設計への貢献が問われる水準です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通する3つの特徴
 
@@ -91,6 +97,11 @@ SREの職域は広く、選ぶ専門領域によって到達しやすい年収�
 現時点では、Kubernetes・クラウド基盤の経験は採用の前提条件として機能しつつあり、差別化の軸はオブザーバビリティやPlatform Engineeringへ移行する傾向が見られます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

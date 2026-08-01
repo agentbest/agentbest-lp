@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["プロダクトマネージャー", "英語力"]
 pubDate: 2026-07-04
 slug: "product-manager-english"
+hub: "product-manager"
 image: "/images/media/product-manager-english.png"
 related: ["product-manager-in-30s", "product-manager-resume", "product-manager-how-to-use-agent", "corporate-it-english", "data-analyst-english"]
 ---
@@ -32,6 +33,11 @@ PdMの業務で英語が必要になる主な場面は以下の通りです。
 これらを踏まえると、英語力の影響は「日常会話ができるか」という表層的な話ではなく、情報取得の質・連携できるチームの幅・応募できるポジションのレンジという3軸に及びます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力別・求人の傾向と年収レンジ
 
@@ -82,6 +88,11 @@ PdMの業務で英語が必要になる主な場面は以下の通りです。
 この型から示唆されるのは、英語力は「転職前に完成させる必要はなく、実務に耐えうる最低ラインを超えた状態で入社し、実践の中で伸ばす」という進め方が現実的に機能しやすいということです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

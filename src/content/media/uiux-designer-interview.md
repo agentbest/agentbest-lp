@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["UI/UXデザイナー", "面接対策"]
 pubDate: 2026-07-04
 slug: "uiux-designer-interview"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-interview.png"
 related: ["uiux-designer-motivation", "uiux-designer-skills", "uiux-designer-certification", "recruiter-interview", "tech-lead-interview"]
 ---
@@ -24,6 +25,11 @@ UI/UXデザイナーの転職面接では、ポートフォリオの提示だけ
 また、SaaS・IT・コンサル領域の企業では、デザイナーにビジネス指標への理解が求められるケースが増えている。コンバージョン率・離脱率・タスク達成率といった指標を設計判断に組み込める思考力が、採用の可否に直結しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価軸別・頻出質問の全体像
 
@@ -108,6 +114,11 @@ UI/UXデザイナーの転職面接では、ポートフォリオの提示だけ
 - **成果のないプロジェクトも提示できる**：失敗した案件や改善が途中だったプロジェクトでも、「何を学んだか」を語れれば、経験の深さを示す素材になる
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

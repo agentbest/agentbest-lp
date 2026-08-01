@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["CTO・VPoE候補", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-how-to-use-agent"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-how-to-use-agent.png"
 related: ["cto-vpoe-interview", "cto-vpoe-career-guide", "cto-vpoe-skills", "corporate-planning-how-to-use-agent", "risk-consultant-how-to-use-agent"]
 ---
@@ -30,6 +31,11 @@ CTO・VPoE・技術担当役員クラスのポジションは、求人票とし�
 こうした場をセッティングできるか否かは、エージェントが企業側とどれだけ深い関係を持っているかに依存する。「求人を預かっている」だけでなく、「採用責任者・CEOと直接やりとりしている」エージェントでなければ、この入口を機能させることができない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを活用する具体的なメリット
 
@@ -95,6 +101,11 @@ CTOやVPoE候補の強みは、技術的深度だけでなく組織設計・意�
 **ポイント**：タイトルと実務の乖離を整理し、フェーズとミッションがマッチする企業を選んだことが、転職後の早期貢献につながっている。エージェントが果たした役割は、求人を紹介することより「候補者の価値を翻訳する」ことに近い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

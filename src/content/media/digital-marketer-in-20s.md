@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["デジタルマーケター", "20代転職"]
 pubDate: 2026-07-04
 slug: "digital-marketer-in-20s"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-in-20s.png"
 related: ["digital-marketer-company-size", "digital-marketer-salary-600", "digital-marketer-salary", "legal-in-20s", "pmo-consultant-in-20s"]
 ---
@@ -29,6 +30,11 @@ related: ["digital-marketer-company-size", "digital-marketer-salary-600", "digit
 - **ドメイン知識との接点**：前職・専攻・趣味領域で特定の業界知識があるか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 採用される20代の3つの典型パターン
 
@@ -103,6 +109,11 @@ related: ["digital-marketer-company-size", "digital-marketer-salary-600", "digit
 結果として、成長期SaaSのインサイドマーケター（リードナーチャリング担当）に転職。年収は営業時代の430万円から460万円にやや上昇した形で着地した事例の型である。重要なのは年収増ではなく、ドメインの切り替えと経験の幅の拡張にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

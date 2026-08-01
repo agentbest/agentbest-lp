@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["SAPコンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "sap-consultant-career-guide"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-career-guide.png"
 related: ["sap-consultant-from-scratch", "sap-consultant-skills", "sap-consultant-interview", "saas-sales-career-guide", "strategy-consultant-career-guide"]
 ---
@@ -51,6 +52,11 @@ SAPは多数のモジュールで構成されており、コンサルタント�
 S/4HANAへの移行需要は2025年以降も継続的に見込まれており、旧来のECC（ERP Central Component）経験者がS/4HANAの知識・実績を加えた場合、市場評価が上がりやすい構造になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## 転職市場における需給構造
 
@@ -126,6 +132,11 @@ SAPコンサルタントの有資格者・実務経験者の絶対数は限ら�
 SAPコンサルタントの転職においては、IT・コンサル領域に精通したエージェントを活用することが望ましい傾向があります。モジュール・業界・フェーズごとに求人の特性が異なるため、求人票だけでは判断しにくい「プロジェクトの実態・文化」などの情報を補完できるかが選定基準の一つになります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

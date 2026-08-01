@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["財務・経理", "未経験転職"]
 pubDate: 2026-07-04
 slug: "finance-from-scratch"
+hub: "finance"
 image: "/images/media/finance-from-scratch.png"
 related: ["finance-english", "finance-salary", "finance-career-path", "frontend-engineer-from-scratch", "hr-consultant-from-scratch"]
 ---
@@ -32,6 +33,11 @@ related: ["finance-english", "finance-salary", "finance-career-path", "frontend-
 一方、決算業務以上の領域は、会計基準の解釈や税法の適用判断を誤ると即座に経営情報・対外開示に影響するため、企業側のリスク許容度が低い。ここを目指す場合は、まず下位の職域で実務経験を積んだうえでのキャリアシフトが現実的なルートとなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験から採用される人の共通要因
 
@@ -101,6 +107,11 @@ IT・SaaS・コンサル出身者の場合、業界知識をそのまま活か�
 - 入社前にfreeeの無料トライアルで基本操作を習得し、面接でデモンストレーションできた
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["プラットフォームエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "platform-engineer-from-scratch"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-from-scratch.png"
 related: ["platform-engineer-work-style", "platform-engineer-career-guide", "platform-engineer-how-to-use-agent", "embedded-engineer-from-scratch", "corporate-it-from-scratch"]
 ---
@@ -20,6 +21,11 @@ related: ["platform-engineer-work-style", "platform-engineer-career-guide", "pla
 具体的には、CI/CDパイプラインの整備、Kubernetesクラスターの管理、IaC（Infrastructure as Code）の標準化、内部ポータル（IDPと呼ばれることもある）の構築などが主な職責として挙げられます。DevOpsの思想を組織的に実装する役割、と理解するのが最も近いでしょう。
 
 この職種が注目を集めている背景には、Kubernetes・Terraform・GitHubActionsといったツールの普及とともに、「インフラを扱える人材」への需要が特定の技術スタックを超えてプラットフォーム全体に広がったことがあります。IT・SaaS・コンサル各領域でプラットフォームチームが新設されるケースが増えており、採用市場でも存在感が高まっています。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験が意味する「2つの状況」
 
@@ -91,6 +97,11 @@ DockerやCI/CDを日常的に扱う環境に身を置くことで、プラット
 | 5年以上（チームリード・アーキテクチャ設計も担う） | 850〜1,200万円程度 |
 
 SaaS・テック系企業と従来型の大企業では同等スキルでも提示額に差がある傾向があるため、求人票の条件とともに技術スタック・チーム構成の確認を優先するとよいでしょう。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

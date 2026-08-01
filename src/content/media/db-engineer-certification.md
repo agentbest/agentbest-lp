@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["データベースエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "db-engineer-certification"
+hub: "db-engineer"
 image: "/images/media/db-engineer-certification.png"
 related: ["db-engineer-motivation", "db-engineer-how-to-use-agent", "db-engineer-resume", "product-manager-certification", "product-designer-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["db-engineer-motivation", "db-engineer-how-to-use-agent", "db-engineer
 転職市場においては、1と3が直接的に影響します。ただし、外資系テック企業やスタートアップ、SaaS企業の多くは実務ポートフォリオやGitHub・プロジェクト実績を重視する傾向があり、資格の影響度は相対的に小さくなりやすい構造です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい資格と評価されにくい資格
 
@@ -91,6 +97,11 @@ IPA（情報処理推進機構）が実施する国家試験であり、日本�
 この状況が示唆するのは、「現在の市場で取得を目指す資格」と「これまで取得した資格のどれを前面に出すか」を分けて考えることが有効だという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

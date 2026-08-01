@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["サイバーセキュリティ", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "security-industry-career"
+hub: "security-industry"
 image: "/images/media/security-industry-career.png"
 related: ["security-industry-company", "security-industry-salary", "security-industry-trend", "consulting-industry-career", "proptech-industry-career"]
 ---
@@ -28,6 +29,11 @@ related: ["security-industry-company", "security-industry-salary", "security-ind
 多くの転職希望者は「技術系」に集中しがちだが、実際の労働市場ではガバナンス系・ビジネス系の人材不足が慢性的に続いており、技術バックグラウンドを持ちながら上流業務に転じられる人材への需要は高い傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種別・年収レンジの目安
 
@@ -103,6 +109,11 @@ CISSP・CEH・情報処理安全確保支援士などの資格は、スクリー
 **結果の傾向**：スタートアップ・メガベンチャーのセキュリティ部門立ち上げポジション、あるいはセキュリティベンダーのSE職で内定が出やすかったとされる型。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-career">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["テックリード", "市場動向"]
 pubDate: 2026-07-04
 slug: "tech-lead-market-trend"
+hub: "tech-lead"
 image: "/images/media/tech-lead-market-trend.png"
 related: ["tech-lead-how-to-use-agent", "tech-lead-skills", "tech-lead-interview", "business-consultant-market-trend", "digital-marketer-market-trend"]
 ---
@@ -31,6 +32,11 @@ SaaSビジネスの競争環境においては、プロダクトの技術品質�
 LLMを活用したプロダクト開発・AIパイプライン設計が実務に組み込まれる企業が増えた結果、AI活用の技術設計を主導できるテックリードへの需要が新たに生まれています。単に「生成AIを触れる」ではなく、技術選定・品質評価・リスク管理まで担える人材像が求められています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求人数と採用ニーズの変化
 
@@ -100,6 +106,11 @@ LLMを活用したプロダクト開発・AIパイプライン設計が実務に
 このパターンでは、現職よりも年収が200〜400万円程度上昇するケースが見られますが、企業の規模・資金状況・交渉力によって大きく異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["戦略コンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-skills"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-skills.png"
 related: ["strategy-consultant-career-guide", "strategy-consultant-motivation", "strategy-consultant-in-20s", "devops-engineer-skills", "business-consultant-skills"]
 ---
@@ -28,6 +29,11 @@ related: ["strategy-consultant-career-guide", "strategy-consultant-motivation", 
 この三層を意識することで、「今の自分に最も不足しているのはどの層か」を明確に把握できる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-skills">無料で相談する</a>
+</aside>
 
 ## コアスキル：業務遂行の土台
 
@@ -121,6 +127,11 @@ PowerPointを中心としたスライドで「So What（だからなんなのか
 この例が示すのは、「前職の強みを初期の差別化に転換しつつ、コアスキルの吸収を加速させ、応用スキルを前倒しで習得する」という複線的な戦略の有効性だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

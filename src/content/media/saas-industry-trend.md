@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["SaaS", "業界動向"]
 pubDate: 2026-07-05
 slug: "saas-industry-trend"
+hub: "saas-industry"
 image: "/images/media/saas-industry-trend.png"
 related: ["saas-industry-salary", "saas-industry-company", "saas-industry-career", "ma-industry-trend", "ai-industry-trend"]
 ---
@@ -31,6 +32,11 @@ SaaS業界は2026年時点においても、日本の法人市場における主
 | 上場後・成熟期 | ARR100億円超 | ポジション別に濃淡あり | 事業変革への貢献可能性 |
 
 転職を検討する際、「SaaS企業」とひとくくりにして比較するのではなく、どのフェーズの企業に移るかによって、求められるスキルセットも年収の伸び方も大きく異なります。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-trend">無料で相談する</a>
+</aside>
 
 ## 2026年の採用トレンド：職種別の変化
 
@@ -75,6 +81,11 @@ SaaSへの転職が「年収アップの手段」として認知されてきた�
 
 **結果の傾向：**
 コンサル5年目でSaaS転職を行った場合、プリセールスまたはCSMポジションであれば年収水準を維持または小幅に上げて移行できるケースが多い一方、PdMへの転向は前職でのプロダクト関与実績がなければポジションのグレードを下げて入社する選択を求められる場合もあります。短期の年収よりも、3〜5年後の市場価値を軸に意思決定することが有効です。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

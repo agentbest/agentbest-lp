@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["データ・アナリティクスコンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "data-consultant-future"
+hub: "data-consultant"
 image: "/images/media/data-consultant-future.png"
 related: ["data-consultant-career-path", "data-consultant-resume", "data-consultant-salary", "sap-consultant-future", "product-manager-future"]
 ---
@@ -18,6 +19,11 @@ related: ["data-consultant-career-path", "data-consultant-resume", "data-consult
 本稿では、データ・アナリティクスコンサルタントを取り巻く環境変化を整理したうえで、AI時代においても価値を発揮し続けるために必要な条件を実務的な視点から論じる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-future">キャリアを相談する</a>
+</aside>
 
 ## データ・アナリティクスコンサルタントを取り巻く環境変化
 
@@ -102,6 +108,11 @@ Aの分析は正確だが、クライアントが「次に何をすべきか」�
 いずれも所属組織（外資系ファーム・国内コンサル・事業会社・スタートアップなど）によって水準は異なり、個人のスキルセットや実績によって幅があることに留意が必要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

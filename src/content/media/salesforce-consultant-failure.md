@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["Salesforceコンサルタント", "転職失敗"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-failure"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-failure.png"
 related: ["salesforce-consultant-market-trend", "salesforce-consultant-salary", "salesforce-consultant-salary-600", "enterprise-sales-failure", "product-manager-failure"]
 ---
@@ -31,6 +32,11 @@ Salesforceの各種認定資格は客観的なスキルの証明として機能�
 SIer系・独立系コンサルファーム・事業会社内製化チーム・スタートアップのSaaS企業では、固定給・変動給の比率、賞与の計算方法、リモートワーク手当などが異なります。月収の数値だけで比較すると、年収ベースで入社前の想定と異なる結果になる場合があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターンと対応チェックリスト
 

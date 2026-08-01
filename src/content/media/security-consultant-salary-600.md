@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["セキュリティコンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "security-consultant-salary-600"
+hub: "security-consultant"
 image: "/images/media/security-consultant-salary-600.png"
 related: ["security-consultant-company-size", "security-consultant-work-style", "security-consultant-how-to-use-agent", "fullstack-engineer-salary-600", "marketing-manager-salary-600"]
 ---
@@ -28,6 +29,11 @@ related: ["security-consultant-company-size", "security-consultant-work-style", 
 | 事業会社セキュリティ部門 | 350〜500万円 | 500〜650万円 | 650〜900万円（ポジション依存） |
 
 この表からも読み取れるように、600万円という水準は「どこにいるか」と「何年目か」だけで到達できることもあれば、構造的に届きにくい環境に置かれていることもある。年収600万円を目標とするなら、まず自分が現在どの象限にいるかを把握することが出発点になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -85,6 +91,11 @@ CISSP・CEH・情報処理安全確保支援士（登録セキスペ）・CompTI
 **結果：** 専業セキュリティベンダーへ転職し、年収640万円（クラウドセキュリティアーキテクト職）。「クラウド×金融規制×ペネトレーション経験」の掛け合わせが評価の決め手となった。
 
 このケースが示すのは、技術力を「特定ドメインの文脈」に位置づけ直すことで、市場評価が変わりうるという構造である。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

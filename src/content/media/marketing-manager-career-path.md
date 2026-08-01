@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["マーケティングマネージャー", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "marketing-manager-career-path"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-career-path.png"
 related: ["marketing-manager-company-size", "marketing-manager-how-to-use-agent", "marketing-manager-salary-1000", "sre-career-path", "qa-engineer-career-path"]
 ---
@@ -26,6 +27,11 @@ related: ["marketing-manager-company-size", "marketing-manager-how-to-use-agent"
 逆に言えば、成果の可視化と言語化ができているマーケティングマネージャーは、市場での希少性が相対的に高まりやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-career-path">無料で相談する</a>
+</aside>
 
 ## キャリアパスの三軸
 
@@ -91,6 +97,11 @@ SaaS・IT系企業においては、CMO相当の役職に就いた場合、年�
 このような「タイトルより機能・権限で選ぶ」転職の考え方は、30代の選択肢として合理性があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

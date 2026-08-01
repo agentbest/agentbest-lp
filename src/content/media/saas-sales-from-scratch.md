@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["SaaS営業", "未経験転職"]
 pubDate: 2026-07-03
 slug: "saas-sales-from-scratch"
+hub: "saas-sales"
 image: "/images/media/saas-sales-from-scratch.png"
 related: ["saas-sales-market-trend", "saas-sales-certification", "saas-sales-interview", "scm-consultant-from-scratch", "solution-architect-from-scratch"]
 ---
@@ -18,6 +19,11 @@ SaaS営業（フィールドセールス）への未経験転職は、IT・コ�
 重要なのは、SaaS営業を一括りに捉えないことです。対象顧客の規模・扱うプロダクト・求められる商談フェーズによって、必要スキルも採用難易度も大きく異なります。本記事では、未経験転職者が知るべき職種の内部構造と、現実的な参入ルートを整理します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## SaaS営業の職種マップを把握する
 
@@ -98,6 +104,11 @@ SaaSの構造理解・プロダクト知識・顧客課題の解像度を高め�
 - **前職の数値実績の整理**：売上貢献・業務改善・コスト削減など、何らかの定量的な成果として言語化できる経験を棚卸しする
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

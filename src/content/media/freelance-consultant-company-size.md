@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["フリーコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-company-size"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-company-size.png"
 related: ["freelance-consultant-certification", "freelance-consultant-salary", "freelance-consultant-english", "pmo-company-size", "tech-lead-company-size"]
 ---
@@ -38,6 +39,11 @@ related: ["freelance-consultant-certification", "freelance-consultant-salary", "
 スタートアップ案件では、経営層に直接アクセスできる分、提言が即座に施策へ転換されやすいです。その分、「企画から実行まで自ら動く」ことを期待されるケースも多く、純粋なアドバイザリー機能にとどまらない関与が求められる場面もあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## キャリアへの影響という観点
 
@@ -80,6 +86,11 @@ SaaSプロダクトのグロース戦略を専門とする35歳のフリーコ�
 - **中長期のキャリアゴール**：再度雇用される側に戻る可能性があるのか、フリー継続なのか、起業を目指すのかによっても判断軸は異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

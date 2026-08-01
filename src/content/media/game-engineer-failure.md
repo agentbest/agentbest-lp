@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["ゲームエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "game-engineer-failure"
+hub: "game-engineer"
 image: "/images/media/game-engineer-failure.png"
 related: ["game-engineer-career-path", "game-engineer-future", "game-engineer-work-style", "risk-consultant-failure", "post-consultant-failure"]
 ---
@@ -20,6 +21,11 @@ related: ["game-engineer-career-path", "game-engineer-future", "game-engineer-wo
 失敗のパターンは大きく「情報収集フェーズ」「選考フェーズ」「意思決定フェーズ」の3段階に分類できる。それぞれの段階で見落としが生じやすい観点が異なるため、フェーズごとに分けて理解することが有効だ。
 
 共通して言えるのは、ゲーム業界固有の慣行——たとえばタイトル依存の事業構造、リリース前後の繁閑差、IPの継続性リスクなど——を一般的なIT企業と同列で評価してしまうことが、失敗の根本原因になりやすいという点である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## 失敗パターン1：タイトルの将来性を見極めずに入社する
 
@@ -112,6 +118,11 @@ related: ["game-engineer-career-path", "game-engineer-future", "game-engineer-wo
 - [ ] 試用期間中の給与・評価条件を確認した
 - [ ] 入社後の配属タイトル・チームが内定通知書等に明記されているか確認した
 - [ ] 違和感のある点を曖昧なままにせず、入社前に解消した
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

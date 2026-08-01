@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["総合コンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "big4-consultant-company-size"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-company-size.png"
 related: ["big4-consultant-motivation", "big4-consultant-work-style", "big4-consultant-market-trend", "mobile-engineer-company-size", "cto-vpoe-company-size"]
 ---
@@ -20,6 +21,11 @@ related: ["big4-consultant-motivation", "big4-consultant-work-style", "big4-cons
 この「構造化された環境」は、コンサルタントとしての基礎を習得する上で大きな優位性をもたらします。同期・先輩・マネージャーといった周囲の人材の水準が高く、日常業務を通じたラーニングが機能しやすい傾向があります。また、クライアントの規模も大企業・上場企業が中心となるため、複雑なステークホルダー構造を扱う経験が自然と積まれます。
 
 一方で、プロジェクトにおける個人の担当領域は明確に分割されることが多く、全体設計からデリバリーまでを一気通貫で担う機会は、上位職位になるまで限られる場合があります。また、昇格・評価のサイクルや報酬体系はレイヤーごとに標準化されており、個人の貢献がそのまま報酬に直結するわけではありません。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## スタートアップ（コンサル・アドバイザリー機能を持つ企業）の構造的特徴
 
@@ -63,6 +69,11 @@ related: ["big4-consultant-motivation", "big4-consultant-work-style", "big4-cons
 大手時代に培ったデリバリーの型・クライアントコミュニケーションの質は、スタートアップでの案件遂行においてそのまま機能します。一方、スタートアップでは提案書のデザインや営業プロセスの整備まで担当することになり、大手では経験しにくかった「ゼロからの仕組み構築」の経験が加わります。
 
 移行後の年収は大手時代と横並びに抑えた設計にしてもらいつつ、ストックオプションによる将来的な報酬の上振れ可能性を確保するという構成が選ばれることがあります。この「現在の報酬は大きく落とさず、将来の上振れを取りに行く」という設計は、スタートアップへの移行を検討する際の一つの現実的な交渉モデルです。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

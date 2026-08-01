@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["マーケティングマネージャー", "年収600万"]
 pubDate: 2026-07-04
 slug: "marketing-manager-salary-600"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-salary-600.png"
 related: ["marketing-manager-career-path", "marketing-manager-certification", "marketing-manager-career-guide", "ml-engineer-salary-600", "mobile-engineer-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["marketing-manager-career-path", "marketing-manager-certification", "m
 重要なのは、600万円という数字が「年功で自然に到達するライン」ではなく、「担う責任の質」によって左右されるラインだという点です。同じマネージャー職でも、管理するチームの規模・予算規模・事業インパクトの大きさによって提示年収には大きな差が生じやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁が生じる構造的な理由
 
@@ -99,6 +105,11 @@ SaaS・IT・コンサル領域では、マーケティングマネージャー�
 この型で重要なのは、転職によって職務の「質」を変えた点です。成果の語り方を整備したうえで、より大きな責任を持つポジションに移行することで、年収が是正されました。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

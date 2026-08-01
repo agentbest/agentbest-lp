@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["PMO", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "pmo-career-guide"
+hub: "pmo"
 image: "/images/media/pmo-career-guide.png"
 related: ["pmo-certification", "pmo-career-path", "pmo-motivation", "post-consultant-career-guide", "finance-career-guide"]
 ---
@@ -30,6 +31,11 @@ PMOの主な機能は大きく3つに分類されます。
 PMOを「プロジェクトの裏方」と捉える向きもありますが、大規模なDXや基幹システム刷新では、PMOが実質的に意思決定の中枢を担うケースも少なくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## PMOのポジション分類と仕事内容
 
@@ -106,6 +112,11 @@ PMOスキルそのものは汎用性が高いため、スキルだけでの差�
 PMOポジションは公開求人と非公開求人が混在しており、特にシニアポジションは非公開で採用が進むことが多い傾向があります。特定の業界に強いエージェント、またはコンサル・IT領域に特化したエージェントを活用することで、非公開求人へのアクセスや面接対策の実効性が高まりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["Salesforceコンサルタント", "年収600万"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-salary-600"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-salary-600.png"
 related: ["salesforce-consultant-from-scratch", "salesforce-consultant-interview", "salesforce-consultant-salary-1000", "inside-sales-salary-600", "marketing-manager-salary-600"]
 ---
@@ -25,6 +26,11 @@ Salesforceコンサルタントとして年収600万円を超えることは、�
 | 7年以上 | マネージャー・アーキテクト・独立系 | 戦略+テクノロジー系ファーム・フリーランス | 800万円〜 |
 
 上記はあくまで市場における一般的な傾向であり、個人のスキルセット・保有資格・担当領域・雇用形態によって大きく前後します。重要なのは、「2〜4年の層」が最も分散が大きいという点です。同じ経験年数でも480万円に留まる方もいれば、650万円に達する方もいます。この差がどこから生まれるかを理解することが、600万円突破の本質的なカギになります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -92,6 +98,11 @@ PM方向であれば、プロジェクトのスコープ管理・リスク管理
 - 結果：入社時680万円、1年後に750万円の目標設定
 
 この型で重要なのは、「組織の規模を落とすことで経験の幅を広げた」という点です。給与原資が大きい組織ほど良いわけではなく、「自分がどんな仕事に関与できるか」という環境選択が年収改善の前提条件になります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

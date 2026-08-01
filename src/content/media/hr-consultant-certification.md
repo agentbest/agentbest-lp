@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["人事・組織コンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "hr-consultant-certification"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-certification.png"
 related: ["hr-consultant-english", "hr-consultant-skills", "hr-consultant-career-guide", "customer-success-certification", "devops-engineer-certification"]
 ---
@@ -26,6 +27,11 @@ related: ["hr-consultant-english", "hr-consultant-skills", "hr-consultant-career
 - 専門性の標榜が必要なファームのサービスラインアップに合わせる局面
 
 すなわち、資格の意義は「実績の代替」ではなく「実績を裏付ける補助線」として機能するときに最も発揮される。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格の分類と位置づけ
 
@@ -94,6 +100,11 @@ related: ["hr-consultant-english", "hr-consultant-skills", "hr-consultant-career
 4. **現在の実績が薄い部分を補完する機能を持つか、あるいは既存の強みを深化させるか**
 
 特に3番目の問いは、実務経験を積める環境にある人材にとって最も重要な判断軸になりやすい。資格取得の学習時間を副業・プロボノ・社内プロジェクトへの参画に充てることで得られる実績との比較は、必ず検討したい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

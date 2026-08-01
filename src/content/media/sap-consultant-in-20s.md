@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["SAPコンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "sap-consultant-in-20s"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-in-20s.png"
 related: ["sap-consultant-certification", "sap-consultant-motivation", "sap-consultant-english", "cto-vpoe-in-20s", "network-engineer-in-20s"]
 ---
@@ -26,6 +27,11 @@ SAPコンサルタントは、習得に時間がかかる専門職である。ER
 この需給ギャップが、20代ポテンシャル採用の主な動機である。採用後に2〜3年かけて育成することを前提としており、30代以降のキャリア採用とは採用側の期待値が異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代SAPコンサルタント転職の採用評価軸
 
@@ -108,6 +114,11 @@ SAP社が提供するオンライン学習プラットフォームを通じて�
 SAP S/4HANAの移行期限（2027年のSAP ECC保守終了）に向けて、2025〜2026年にかけて移行案件が集中する見通しとされている。この時期は需要が最も高まるタイミングであり、20代で参入するなら早めに動くほど実務経験の蓄積期間を長く確保できる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

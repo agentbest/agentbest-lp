@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["PMO", "働き方"]
 pubDate: 2026-07-04
 slug: "pmo-work-style"
+hub: "pmo"
 image: "/images/media/pmo-work-style.png"
 related: ["pmo-career-path", "pmo-certification", "pmo-english", "recruiter-work-style", "dx-consultant-work-style"]
 ---
@@ -26,6 +27,11 @@ PMOの働き方は、職種名が同じであっても、次の3つの軸によ�
 この3軸を無視して「PMOは激務か否か」を語ることは、本質的に困難です。以降ではこの軸に沿って、残業・リモート・プレッシャーの実態を掘り下げます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-work-style">キャリアを相談する</a>
+</aside>
 
 ## 所属先別：稼働水準と労働環境の比較
 
@@ -98,6 +104,11 @@ PMOはプロジェクトメンバーの疲弊・不満・隠れたリスクを�
 この型から読み取れるのは、「PMOは平均的には激務ではないが、山場のフェーズに稼働が集中する」という構造です。年間を通して高稼働が続くというよりも、特定の2〜4か月間に集中的な負荷がかかるパターンが一般的と言えます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

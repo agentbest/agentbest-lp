@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["財務・経理", "働き方"]
 pubDate: 2026-07-04
 slug: "finance-work-style"
+hub: "finance"
 image: "/images/media/finance-work-style.png"
 related: ["finance-market-trend", "finance-failure", "finance-career-guide", "mlops-engineer-work-style", "post-consultant-work-style"]
 ---
@@ -32,6 +33,11 @@ related: ["finance-market-trend", "finance-failure", "finance-career-guide", "ml
 | 通常期 | 定常業務全般 | 5〜15時間程度 | 比較的安定 |
 
 上記はあくまで相場観であり、会社の規模・体制・システム整備状況によって数値は変動する。ERP（統合基幹業務システム）の導入度合いや、連結子会社の数によっても大きく異なる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務になりやすい条件・なりにくい条件
 
@@ -87,6 +93,11 @@ related: ["finance-market-trend", "finance-failure", "finance-career-guide", "ml
 IPO準備期間は内部統制整備・監査対応・開示書類作成が同時進行し、繁忙期には月100時間超の残業になることもある。その分、年収は相場より高めに設定されているケースが多く、IPO後のポジション・ストックオプション等が見返りとして提示される傾向がある。
 
 この3者を比較すると、「財務・経理」という同じ職種名でも、働き方・年収・求められるスキルセットは大きく異なることがわかる。転職先を検討する際は職種名だけでなく、企業の上場区分・フェーズ・システム環境を必ず確認することが重要である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

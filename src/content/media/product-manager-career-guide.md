@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["PdM", "プロダクトマネージャー", "転職"]
 pubDate: 2026-07-03
 slug: "product-manager-career-guide"
+hub: "product-manager-career-guide"
 image: "/images/media/product-manager-career-guide.png"
 ---
 
@@ -15,6 +16,11 @@ image: "/images/media/product-manager-career-guide.png"
 プロダクトマネージャーは、SaaS・AI領域を中心に求人数が増え続けている一方、経験者の絶対数が少ない職種です。結果として、PdM経験3年以上の人材は複数社から声がかかる売り手市場が続いています。
 
 一方で「未経験からPdM」の門は狭く、隣接職種からの社内転換が現実的なルートになります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-career-guide">無料で相談する</a>
+</aside>
 
 ## 企業タイプで役割がまったく違う
 
@@ -45,6 +51,11 @@ image: "/images/media/product-manager-career-guide.png"
 
 **3. エンジニア・デザイナーとの協働**
 技術的制約を理解した上で交渉できるか。開発チームからの信頼を得た具体的なエピソードが問われます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 隣接職種からPdMになるには
 

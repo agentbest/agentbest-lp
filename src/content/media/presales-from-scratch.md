@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["セールスエンジニア／プリセールス", "未経験転職"]
 pubDate: 2026-07-03
 slug: "presales-from-scratch"
+hub: "presales"
 image: "/images/media/presales-from-scratch.png"
 related: ["presales-motivation", "presales-in-30s", "presales-failure", "pmo-consultant-from-scratch", "fas-consultant-from-scratch"]
 ---
@@ -34,6 +35,11 @@ related: ["presales-motivation", "presales-in-30s", "presales-failure", "pmo-con
 SaaS・クラウドインフラ・セキュリティ・ERP・製造系ソフトウェアなど、製品の複雑性が高いほどプリセールスの価値が増す構造になっており、近年はSaaS領域での需要が顕著に高まっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-from-scratch">無料で相談する</a>
+</aside>
 
 ## 求められるスキルセットの実像
 
@@ -118,6 +124,11 @@ IT業界での法人営業経験があれば、商談プロセスへの理解は
 **結果の傾向**：こうした準備を経た候補者は、「技術力はあるが場数が少ない」という評価から「プリセールスとして基礎が整っている」という評価へシフトしやすい。年収レンジとしては、SIer時代の水準から1〜2割程度改善する事例が多い傾向にある（企業規模・製品領域により大きく異なる）。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

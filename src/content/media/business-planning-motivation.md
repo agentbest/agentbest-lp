@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["事業企画", "志望動機"]
 pubDate: 2026-07-04
 slug: "business-planning-motivation"
+hub: "business-planning"
 image: "/images/media/business-planning-motivation.png"
 related: ["business-planning-skills", "business-planning-salary", "business-planning-certification", "hr-consultant-motivation", "cloud-engineer-motivation"]
 ---
@@ -26,6 +27,11 @@ related: ["business-planning-skills", "business-planning-salary", "business-plan
 この3点が欠けた志望動機は、どれほど丁寧に書かれていても「熱意の表明文」にとどまる。事業企画職では、思考プロセスそのものが選考材料になるという認識が重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構成
 
@@ -105,6 +111,11 @@ related: ["business-planning-skills", "business-planning-salary", "business-plan
 事業企画の業務範囲は企業によって大きく異なる。KPI設計・新規事業立ち上げ・予算策定・パートナー交渉・経営会議資料の作成など、求められるスキルセットの幅が広い。応募先の求人内容や事業フェーズを踏まえず、一般的な「事業企画職像」に基づいて書かれた志望動機は、応募先に対する解像度の低さとして読まれやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

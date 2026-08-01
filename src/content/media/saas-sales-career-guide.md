@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["SaaS営業", "転職ガイド"]
 pubDate: 2026-07-03
 slug: "saas-sales-career-guide"
+hub: "saas-sales"
 image: "/images/media/saas-sales-career-guide.png"
 related: ["saas-sales-how-to-use-agent", "saas-sales-motivation", "saas-sales-skills", "marketing-manager-career-guide", "engineering-manager-career-guide"]
 ---
@@ -32,6 +33,11 @@ SaaSプロダクトを展開する組織では、営業プロセスが分業化�
 | ソリューションエンジニア（SE） | 技術的提案のサポート | 複雑な案件でフィールドセールスと協働 |
 
 フィールドセールスは「Account Executive（AE）」と呼ばれることも多く、担当する案件の規模によってSMB（中小企業）担当とエンタープライズ（大企業）担当に分かれる場合がある。後者になるほど、1件の受注規模が大きくなり、社内外の多数のステークホルダーを巻き込んだ複雑な提案が求められる傾向にある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-career-guide">無料で相談する</a>
+</aside>
 
 ## SaaS営業の仕事内容と評価指標
 
@@ -104,6 +110,11 @@ SaaS営業への転職を検討する際、企業のフェーズ（シリーズA
 | 上場済み・成熟期 | 分業体制が整備・安定した環境 | 専門性を磨きたい・安定を重視する |
 
 また、プロダクト自体の市場適合度（PMF：Product Market Fit）が十分に検証されているかどうかも重要な確認点である。営業力でカバーできる範囲には限界があり、プロダクトの競争優位性が弱い状況では、どれほど優秀な営業であっても成果を出しにくい環境になりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

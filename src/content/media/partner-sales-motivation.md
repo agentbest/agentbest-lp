@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["パートナーセールス／アライアンス", "志望動機"]
 pubDate: 2026-07-04
 slug: "partner-sales-motivation"
+hub: "partner-sales"
 image: "/images/media/partner-sales-motivation.png"
 related: ["partner-sales-in-30s", "partner-sales-future", "partner-sales-work-style", "cloud-engineer-motivation", "dx-consultant-motivation"]
 ---
@@ -42,6 +43,11 @@ related: ["partner-sales-in-30s", "partner-sales-future", "partner-sales-work-st
 この3軸を満たせる志望動機が、書類選考を通過しやすい傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-motivation">無料で相談する</a>
+</aside>
 
 ## 評価されやすい志望動機の構成
 
@@ -117,6 +123,11 @@ related: ["partner-sales-in-30s", "partner-sales-future", "partner-sales-work-st
 **改善の方向：** 挑戦したいという意欲は持ちつつ、「なぜこの会社・このタイミングか」という外部要因と、「自分のどのスキルが通用するか」という内部要因を両立させる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

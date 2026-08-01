@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["法務", "英語力"]
 pubDate: 2026-07-04
 slug: "legal-english"
+hub: "legal"
 image: "/images/media/legal-english.png"
 related: ["legal-failure", "legal-work-style", "legal-resume", "data-engineer-english", "data-analyst-english"]
 ---
@@ -24,6 +25,11 @@ related: ["legal-failure", "legal-work-style", "legal-resume", "data-engineer-en
 **英語必須型**：クロスボーダーM&A、国際仲裁・訴訟、グローバル本社との法務ガバナンス構築など、英語での交渉・プレゼン・スピーキングが日常業務に入るポジション。法律専門用語を英語で運用できる水準が前提となる。
 
 このように区分すると、「法務に英語は必要か」という問いへの答えは「どのポジションを目指すか次第」という構造になる。重要なのは、英語力の有無が年収やポジションの幅に与える影響は、この区分を跨ぐ瞬間に最も大きく現れるという点である。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力が求人数・年収に与える影響
 
@@ -75,6 +81,11 @@ related: ["legal-failure", "legal-work-style", "legal-resume", "data-engineer-en
 英検1級・TOEFL・IELTSなどの取得は、英語への真剣な取り組みを示す一つの指標にはなるが、それ単体で年収やポジションが変わるわけではない。採用担当者が見るのは「このスコアを持つ人が、実際の法務業務で英語をどう使えるか」という実務想定である。
 
 一方で、英語力が全くない状態からTOEIC730〜800点台に到達することで、応募可能な求人の幅が明確に広がる段階的な変化は存在する。スコア目標を設定するとすれば、この水準が一つの現実的な目安となりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

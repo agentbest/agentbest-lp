@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["組み込みエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-skills"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-skills.png"
 related: ["embedded-engineer-in-20s", "embedded-engineer-salary", "embedded-engineer-motivation", "erp-consultant-skills", "pr-skills"]
 ---
@@ -46,6 +47,11 @@ related: ["embedded-engineer-in-20s", "embedded-engineer-salary", "embedded-engi
 安全規格や開発プロセスの理解も市場価値に影響します。機能安全（ISO 26262やIEC 61508）、セキュリティ（IEC 62443）、医療機器向けのIEC 62304などの規格知識は、車載・産業・医療領域への専門化を図る上で実質的な参入障壁になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## スキル別・市場価値への影響度マップ
 
@@ -98,6 +104,11 @@ related: ["embedded-engineer-in-20s", "embedded-engineer-salary", "embedded-engi
 ※上記はあくまで市場の相場観に基づく目安であり、企業規模・業種・事業フェーズによって大きく異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

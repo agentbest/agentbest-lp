@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["採用担当", "転職失敗"]
 pubDate: 2026-07-04
 slug: "recruiter-failure"
+hub: "recruiter"
 image: "/images/media/recruiter-failure.png"
 related: ["recruiter-market-trend", "recruiter-resume", "recruiter-how-to-use-agent", "business-planning-failure", "game-engineer-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["recruiter-market-trend", "recruiter-resume", "recruiter-how-to-use-ag
 もう一つは**職務の汎用性に対する誤解**だ。採用担当の業務は、スカウト文面の作成から面接設計、採用広報、組織戦略の立案まで幅広い。しかし市場では「採用担当＝エージェント管理と面接調整ができる人材」と狭く捉えられる場合もあり、自分が担ってきた業務の価値が正確に伝わらないことがある。レベル感の齟齬が起きると、入社後に担う役割が想定と大きく異なる事態につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターン5つ
 
@@ -113,6 +119,11 @@ IT系メガベンチャーの採用担当として3年間、エンジニア採�
 この事例では、「採用戦略への関与」という言葉の定義が転職者と企業側でずれていた。企業側は「数を採るための施策を考えてほしい」という意図で記載していたが、転職者は「採用の設計思想から関与できる」と解釈していた。面接時に「現在の採用担当の1週間の業務比率」「戦略的な議論が行われる会議体の頻度」などを確認していれば、入社前に気づける可能性があった。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

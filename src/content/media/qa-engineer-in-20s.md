@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["QAエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "qa-engineer-in-20s"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-in-20s.png"
 related: ["qa-engineer-company-size", "qa-engineer-salary-600", "qa-engineer-future", "engineering-manager-in-20s", "security-engineer-in-20s"]
 ---
@@ -33,6 +34,11 @@ QAエンジニア（Quality Assurance Engineer）は、ソフトウェアの品�
 手動テストの経験を足がかりに、Seleniumや Playwright・JMeterといったツールの活用、さらにテスト設計技法（境界値分析・同値分割・デシジョンテーブルなど）の体系的な習得へと進むルートが整備されている企業も増えている。スキルの段階が可視化されているため、成長の見通しを立てやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 採用企業が20代に期待する素養
 
@@ -99,6 +105,11 @@ JSTQB（日本ソフトウェアテスト資格認定委員会）が提供する
 自動化テストの習得を並行して進めている場合、PythonやJavaScriptを用いたSeleniumやPlaywrightの簡易スクリプトをGitHubに公開しておくことは、書類選考での差別化につながりやすい。完成度より「どのような考え方でテストを設計したか」のコメントが評価される傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

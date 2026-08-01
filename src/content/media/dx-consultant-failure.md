@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["DXコンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "dx-consultant-failure"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-failure.png"
 related: ["dx-consultant-work-style", "dx-consultant-resume", "dx-consultant-company-size", "db-engineer-failure", "customer-success-failure"]
 ---
@@ -30,6 +31,11 @@ DXコンサルタントへの転職、あるいはDXコンサルタントとし�
 この3層はそれぞれ見落とされやすいポイントが異なるため、順に掘り下げる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## 失敗パターン①：役割・業務内容のミスマッチ
 
@@ -108,6 +114,11 @@ DXコンサルタントの年収は経験・ポジションによって幅が広
 - 社外活動（登壇・発信・副業）への会社のスタンス
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["人事・組織コンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "hr-consultant-career-path"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-career-path.png"
 related: ["hr-consultant-how-to-use-agent", "hr-consultant-salary-1000", "hr-consultant-failure", "mlops-engineer-career-path", "sap-consultant-career-path"]
 ---
@@ -24,6 +25,11 @@ related: ["hr-consultant-how-to-use-agent", "hr-consultant-salary-1000", "hr-con
 人事・組織コンサルタントの強みは、組織設計・人材マネジメント・変革推進という、事業の成否に直結するドメインの専門性にあります。この専門性は、コンサルティング継続、事業会社人事部門、HRテック・SaaS企業、スタートアップの経営管理、独立・フリーランスなど、複数の方向に展開可能です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代における主な選択肢と市場価値
 
@@ -105,6 +111,11 @@ HRBPや人事企画部門のマネージャーから始まり、実績次第でC
 コンサルティング経験は事業会社において差別化要因になりやすい一方、「実装・継続運用」という文脈に適応するために一定の視点の転換が求められます。移行を検討する際は、「提案することへの達成感」が強い人ほど事業会社での慣れが必要になる可能性があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

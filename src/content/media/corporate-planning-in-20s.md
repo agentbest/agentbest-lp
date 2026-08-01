@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["経営企画", "20代転職"]
 pubDate: 2026-07-04
 slug: "corporate-planning-in-20s"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-in-20s.png"
 related: ["corporate-planning-company-size", "corporate-planning-in-30s", "corporate-planning-how-to-use-agent", "thinktank-in-20s", "security-consultant-in-20s"]
 ---
@@ -24,6 +25,11 @@ related: ["corporate-planning-company-size", "corporate-planning-in-30s", "corpo
 ただし、この傾向はあくまで「経験者採用枠」に限った話である。企業の成長フェーズや組織構造によっては、論理的思考力・数値処理能力・ビジネス感覚を重視した「ポテンシャル採用」が行われており、こちらでは20代の転職者にも十分な機会がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用が発生しやすい企業の特徴
 
@@ -97,6 +103,11 @@ related: ["corporate-planning-company-size", "corporate-planning-in-30s", "corpo
 職務経歴書では、単なる業務列挙を避け、「課題→アプローチ→アウトプット→インパクト」の構造で記述することが有効である。面接では、ケース面接形式や「もしこの企業の経営企画担当なら何から取り組むか」という問いかけが行われることもあるため、志望企業のIR資料・決算説明書を事前に読み込んでおくことが最低限の準備となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

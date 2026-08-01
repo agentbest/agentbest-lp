@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["SAPコンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "sap-consultant-english"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-english.png"
 related: ["sap-consultant-in-30s", "sap-consultant-interview", "sap-consultant-work-style", "legal-english", "security-consultant-english"]
 ---
@@ -20,6 +21,11 @@ SAPコンサルタントのキャリアにおいて、英語力は「あれば�
 一方でグローバル型の案件は様相が異なる。外資系企業のシステム展開、日系グローバル企業の海外拠点への横展開、または海外拠点を含むテンプレート策定プロジェクトでは、英語でのドキュメント作成・会議・レポーティングが日常的に求められる。SAP自体がドイツ発のグローバルソフトウェアであり、公式ドキュメントや新機能のリリースノートは英語で提供される点も、英語力の重要性を下支えしている。
 
 つまり英語力の必要性は、プロジェクトの性質によって大きく異なる。問題は、英語力の有無がそのプロジェクトへのアクセス可否を決定的に左右するという点である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-english">無料で相談する</a>
+</aside>
 
 ## 英語力のレベル別・求人・年収への影響
 
@@ -77,6 +83,11 @@ SAP Help Portal・SAP Notes・SAP Community上のドキュメントは英語が�
 ### プロジェクト選択で英語接触機会を増やす
 
 転職・社内異動いずれの場面でも、英語使用案件へのアサインを意図的に選ぶことが効果的である。業務外の英語学習よりも、実務上の必要性に駆られた学習の方が定着しやすく、短期間での実力向上につながりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

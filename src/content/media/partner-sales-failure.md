@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["パートナーセールス／アライアンス", "転職失敗"]
 pubDate: 2026-07-04
 slug: "partner-sales-failure"
+hub: "partner-sales"
 image: "/images/media/partner-sales-failure.png"
 related: ["partner-sales-interview", "partner-sales-company-size", "partner-sales-how-to-use-agent", "thinktank-failure", "digital-marketer-failure"]
 ---
@@ -43,6 +44,11 @@ related: ["partner-sales-interview", "partner-sales-company-size", "partner-sale
 同じ「パートナーセールス」という肩書きでも、既存パートナーへの売上支援が中心の企業もあれば、新規パートナー開拓・アライアンス契約交渉・エコシステム設計まで担う企業もあります。「アライアンス推進」の求人が実態は「代理店管理事務」だったというケースも稀ではありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-failure">無料で相談する</a>
+</aside>
 
 ## 転職後に後悔した人のよくある失敗パターン
 
@@ -103,6 +109,11 @@ related: ["partner-sales-interview", "partner-sales-company-size", "partner-sale
 「パートナー数」は実態を反映しない指標になりやすい点に注意が必要です。面接段階では「稼働率」「過去12ヶ月のパートナー経由売上の推移」「競合製品との価格・機能比較での優位性」を具体的に確認することで、入社後のギャップを減らすことができます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

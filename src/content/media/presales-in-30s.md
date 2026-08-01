@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["セールスエンジニア／プリセールス", "30代転職"]
 pubDate: 2026-07-03
 slug: "presales-in-30s"
+hub: "presales"
 image: "/images/media/presales-in-30s.png"
 related: ["presales-work-style", "presales-from-scratch", "presales-salary-600", "strategy-consultant-in-30s", "hr-consultant-in-30s"]
 ---
@@ -21,6 +22,11 @@ related: ["presales-work-style", "presales-from-scratch", "presales-salary-600",
 - **プリセールス**：SIer・コンサルティングファーム・エンタープライズソフトウェア領域で多く使われる呼称。提案書・ソリューション設計・見積根拠の策定まで担うケースも多い
 
 どちらも「技術が分かる人間が商談に入る」という本質は共通しており、現場では混用されていることも少なくありません。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代転職者が置かれる市場環境
 
@@ -91,6 +97,11 @@ IT・SaaS・クラウド領域の成長に伴い、セールスエンジニア�
 **取り組み**：職務経歴書を「技術作業の羅列」から「提案・調整・成果」の文脈に再構成。社内IT提案の場面を「ステークホルダーへの技術提案→承認獲得→導入支援」の流れで記述。また、面接では「社内の複数部門に対してどう技術的な合意を取ったか」を具体的なエピソードとして準備。
 
 **結果の傾向**：このような再構成を行った候補者は、「商談経験はないが、技術提案の構造は理解している」として評価されやすくなる傾向があります。中堅SaaS企業のSEポジションへの転換が実現しやすい型です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

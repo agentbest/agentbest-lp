@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["人事・組織コンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "hr-consultant-english"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-english.png"
 related: ["hr-consultant-how-to-use-agent", "hr-consultant-resume", "hr-consultant-skills", "freelance-consultant-english", "thinktank-english"]
 ---
@@ -28,6 +29,11 @@ related: ["hr-consultant-how-to-use-agent", "hr-consultant-resume", "hr-consulta
 **コーポレートH側（事業会社の人事部門）での人事コンサルタント出身者**については、外資系の日本法人HR部門では英語が一定以上必須であるケースが多い。グローバルの人事制度標準化を担う役割では、海外HQとの交渉を英語で行う場面が中心になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力別の求人・年収傾向
 
@@ -85,6 +91,11 @@ related: ["hr-consultant-how-to-use-agent", "hr-consultant-resume", "hr-consulta
 なお、TOEIC 900点以上を持ちながら「会議で発言できない」という状況は、コンサルタントとしては実質的にマイナスに映ることがある。スコアよりも、英語で「情報を取り、主張を伝え、相手の意図を正確に把握できる」実用性の方が、採用側の評価基準として重視されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

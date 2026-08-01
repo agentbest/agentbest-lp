@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["生成AI・AI", "業界動向"]
 pubDate: 2026-07-05
 slug: "ai-industry-trend"
+hub: "ai-industry"
 image: "/images/media/ai-industry-trend.png"
 related: ["ai-industry-career", "ai-industry-company", "ai-industry-salary", "logitech-industry-trend", "healthtech-industry-trend"]
 ---
@@ -20,6 +21,11 @@ AI関連ビジネスは大きく三層に分類できる。第一層は基盤モ
 2024年頃まで、スタートアップ投資の多くは第二層に集中していた。しかし2025年以降は、第三層——医療・法務・製造・金融といった規制産業へのAI浸透——が投資・採用の両面で急速に存在感を増している。汎用モデルのコモディティ化が進むなかで、「どの業種のどの業務課題を解くか」という特化度がプロダクト差別化の軸になりつつあるためである。
 
 この構造変化は転職市場に対して二つの影響を与えている。一つは、純粋な研究職（基礎モデル開発）よりも、エンジニアリングと事業理解を掛け合わせたロールの需要が相対的に伸びていること。もう一つは、IT・SaaS出身者が「AI転職」を検討する際の参入経路が多様化していることである。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：2026年時点の主要ロール
 
@@ -74,6 +80,11 @@ AI関連採用市場が今後も成長を続けると考えられる構造的な
 第三に、日本市場固有の要因として、少子高齢化による労働力不足がAI活用の必然性を高めている点が挙げられる。製造・物流・医療・介護といった人手不足の深刻な業種でのAI導入は、単なるコスト削減ではなく事業継続のための投資という性格を帯びつつある。
 
 ただし、AI関連市場の成長が均質に続くわけではない。基礎モデルのコモディティ化が加速した場合、第二層（APIラッパー型SaaS）の収益性が圧迫されるリスクは引き続き存在する。また、生成AIに関連したハルシネーション問題・著作権リスク・セキュリティリスクへの企業側の懸念が採用判断に影響する局面もあり得る。転職の際は、企業の事業モデルの持続性と技術依存の構造についても精査する姿勢が重要になる。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

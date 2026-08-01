@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["パートナーセールス／アライアンス", "未経験転職"]
 pubDate: 2026-07-04
 slug: "partner-sales-from-scratch"
+hub: "partner-sales"
 image: "/images/media/partner-sales-from-scratch.png"
 related: ["partner-sales-resume", "partner-sales-salary-1000", "partner-sales-salary", "uiux-designer-from-scratch", "ai-engineer-from-scratch"]
 ---
@@ -22,6 +23,11 @@ related: ["partner-sales-resume", "partner-sales-salary-1000", "partner-sales-sa
 **アライアンス**は、より戦略的なパートナーシップ構築が中心です。協業によって市場開拓・製品開発・事業拡大を図る契約を設計・推進する役割であり、法務・財務・マーケティングなど複数部門を横断したプロジェクトマネジメント能力が求められます。
 
 実務レベルでは、この二つは重複する部分が多く、特にスタートアップや中規模のSaaS企業では一人が兼任するケースが一般的です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験転職の現実：どこまで許容されるか
 
@@ -100,6 +106,11 @@ SaaSベンダーの直販営業として1〜3年程度の経験を積んだ後�
 | Head of / VP クラス | 1,200万円以上 | 戦略立案・組織構築まで責任範囲が及ぶ場合 |
 
 インセンティブ設計は企業によって異なり、パートナー経由売上に対するコミッション型の報酬制度を採用している企業では、基本給を抑えつつ変動報酬の割合を高く設定しているケースがあります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

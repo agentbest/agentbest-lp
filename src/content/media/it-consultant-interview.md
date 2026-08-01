@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["ITコンサル", "面接対策", "転職"]
 pubDate: 2026-07-03
 slug: "it-consultant-interview"
+hub: "it-consultant"
 image: "/images/media/it-consultant-interview.png"
 related: ["it-consultant-motivation", "it-consultant-resume", "it-consultant-career-guide", "it-consultant-salary", "it-consultant-skills"]
 ---
@@ -16,6 +17,11 @@ related: ["it-consultant-motivation", "it-consultant-resume", "it-consultant-car
 ITコンサルの面接では、回答の内容と同じ重みで話し方の構造が評価されます。結論から話す、事実と解釈を分ける、質問に正面から答える。これらは面接テクニックではなく、コンサルタントの日常業務そのものだからです。
 
 準備の第一歩は、想定問答の暗記ではなく「どんな質問にも構造で答える」型を身につけることです。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -88,6 +94,11 @@ ITコンサルの面接では、回答の内容と同じ重みで話し方の構
 - **通信・音声品質**：ファシリテーションが商売道具の職種である以上、聞き取りにくい環境は実務能力の懸念に直結します
 
 最終面接は対面指定のファームも残っています。オンラインで通過した話し方が対面でも同じ品質で出せるよう、最終前に一度は声に出した練習をしておくと安心です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

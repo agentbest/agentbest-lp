@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["フリーコンサルタント", "年収相場"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-salary"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-salary.png"
 related: ["freelance-consultant-career-path", "freelance-consultant-motivation", "freelance-consultant-skills", "post-consultant-salary", "game-engineer-salary"]
 ---
@@ -38,6 +39,11 @@ related: ["freelance-consultant-career-path", "freelance-consultant-motivation",
 目安として、グロスの売上が1,500万円であっても、税・社会保険料・経費を差し引いた実質の可処分所得は900〜1,100万円程度のレンジに収まることが多い。フリーコンサルタントの「年収」を語る際は、グロスなのか手取りなのかを必ず区別して考える習慣が必要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-salary">キャリアを相談する</a>
+</aside>
 
 ## 年代別・経験別の年収レンジ
 
@@ -105,6 +111,11 @@ PMOや業務改善領域で安定的な稼働を確保しているものの、�
 一般的には、年収（グロス）が800〜1,000万円を超えてくると、法人化によるコスト管理・節税の恩恵を受けやすくなるとされる。ただし法人維持コスト（税理士費用・社会保険料・登記費用等）との兼ね合いがあるため、税理士との相談のうえで判断することが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

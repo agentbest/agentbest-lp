@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["人事・組織コンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "hr-consultant-resume"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-resume.png"
 related: ["hr-consultant-career-guide", "hr-consultant-how-to-use-agent", "hr-consultant-company-size", "erp-consultant-resume", "network-engineer-resume"]
 ---
@@ -29,6 +30,11 @@ related: ["hr-consultant-career-guide", "hr-consultant-how-to-use-agent", "hr-co
 この4点を意識するだけで、同じ経歴でも伝わる密度が大きく変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## 全体構成の設計
 
@@ -137,6 +143,11 @@ related: ["hr-consultant-career-guide", "hr-consultant-how-to-use-agent", "hr-co
 自身のポジショニングを明確にし、「何でもできます」ではなく「この領域が核です」と伝えられる構成にすることが、書類選考を通過するうえで重要な判断基準となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

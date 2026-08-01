@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["インフラエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "infra-engineer-motivation"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-motivation.png"
 related: ["infra-engineer-in-20s", "infra-engineer-in-30s", "infra-engineer-how-to-use-agent", "uiux-designer-motivation", "strategy-consultant-motivation"]
 ---
@@ -31,6 +32,11 @@ related: ["infra-engineer-in-20s", "infra-engineer-in-30s", "infra-engineer-how-
 実績・スキル・課題意識が現在のキャリア文脈と整合しているかどうかが、「この人は本当にできるか」という判断の補助線になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 志望動機に盛り込むべき三要素
 
@@ -128,6 +134,11 @@ related: ["infra-engineer-in-20s", "infra-engineer-in-30s", "infra-engineer-how-
 応募先のJD（求人票）と自身の専門性を照らし合わせ、どの角度から訴求するかを事前に設計しておくと、より適合性の高い志望動機を作成しやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

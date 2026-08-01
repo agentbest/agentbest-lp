@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["DXコンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "dx-consultant-career-path"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-career-path.png"
 related: ["dx-consultant-salary-600", "dx-consultant-salary", "dx-consultant-from-scratch", "ma-advisor-career-path", "product-manager-career-path"]
 ---
@@ -34,6 +35,11 @@ DXコンサルタントという職種は、ITとビジネス変革を橋渡し�
 30代という時間軸で見ると、多くの人がシニアコンサルタントからマネージャー、あるいはシニアマネージャーの区間を歩んでいることになる。この区間は、「専門家として貢献するフェーズ」から「組織・事業に責任を持つフェーズ」への移行期であり、スキルセットと価値観の両面で岐路を迎えやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代に訪れる三つの分岐
 
@@ -87,6 +93,11 @@ DXの文脈では、特定ドメイン（製造業DX・金融DX・小売DX等）
 **変革推進の実績**：「支援した」ではなく「変えた」と言えるプロジェクトの経験。KPIの改善・新規サービスのローンチ・プロセスの廃止や刷新といった、具体的なビフォー・アフターを語れる経験が市場評価を上げる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

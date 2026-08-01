@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["PMOコンサルタント", "英語力"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-english"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-english.png"
 related: ["pmo-consultant-certification", "pmo-consultant-failure", "pmo-consultant-future", "mlops-engineer-english", "digital-marketer-english"]
 ---
@@ -26,6 +27,11 @@ PMO（Project Management Office）コンサルタントの職域は広く、大�
 つまり、「PMOコンサルタントに英語は必要か」という問いへの正確な答えは、「担当する案件の性質による」です。ただし、英語力の有無が中長期的なキャリアの広がりと報酬水準に影響を与える構造は明確に存在します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力による求人の違い：市場の構造
 
@@ -97,6 +103,11 @@ PMOとしてのキャリアに英語力を組み込む場合、以下の観点�
 外資系コンサルティングファームのPMO・プログラムマネジメント領域では、英語を前提とした採用が標準化されています。これらのファームでは、マネージャー以上の職位になるとクライアントがグローバル本社レベルになることも多く、英語力が年収と職位の両面でレバレッジとして機能しやすい環境といえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

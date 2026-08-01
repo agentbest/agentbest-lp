@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["財務・経理", "20代転職"]
 pubDate: 2026-07-04
 slug: "finance-in-20s"
+hub: "finance"
 image: "/images/media/finance-in-20s.png"
 related: ["finance-company-size", "finance-how-to-use-agent", "finance-failure", "ai-engineer-in-20s", "cto-vpoe-in-20s"]
 ---
@@ -26,6 +27,11 @@ related: ["finance-company-size", "finance-how-to-use-agent", "finance-failure",
 **会計基準の複雑化による長期育成の必要性**　IFRS対応・グループ連結・税務コンプライアンスの複雑化により、どうせ数年かかるなら早い段階から自社の業務に慣れさせたほうが効率的、という採用思想が一部企業に広がっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-in-20s">キャリアを相談する</a>
+</aside>
 
 ## ポテンシャル採用が起きやすい企業の類型
 
@@ -99,6 +105,11 @@ related: ["finance-company-size", "finance-how-to-use-agent", "finance-failure",
 重要なのは、財務・経理は資格・経験・専門性の蓄積によって明確に市場価値が上がる職種であり、短期的な年収より専門性の深さを優先した選択が、5〜10年単位では合理的になりやすいという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

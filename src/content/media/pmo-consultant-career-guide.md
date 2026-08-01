@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["PMOコンサルタント", "転職ガイド"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-career-guide"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-career-guide.png"
 related: ["pmo-consultant-salary-1000", "pmo-consultant-future", "pmo-consultant-skills", "project-manager-career-guide", "strategy-consultant-career-guide"]
 ---
@@ -38,6 +39,11 @@ PMOコンサルタントの業務は、担当するフェーズやプロジェ�
 特に大規模なSAP導入やクラウド移行、基幹システム刷新といったプロジェクトでは、PMOコンサルタントの需要が高まる傾向にあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## PMOコンサルタントの市場価値と年収水準
 
@@ -123,6 +129,11 @@ IT系SIerでシステム開発プロジェクトのサブリーダーを3年経�
 入社後1〜2年はアナリスト・ジュニアコンサルタントとして実務を重ね、案件の種類・規模のバリエーションを積む期間となることが多いです。クライアントとの直接対話経験を増やし、3〜4年でシニアコンサルタント相当の責任範囲を担えるようになると、PMOコンサルタントとしての市場価値が安定してきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

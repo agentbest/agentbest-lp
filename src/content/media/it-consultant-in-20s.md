@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["ITコンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "it-consultant-in-20s"
+hub: "it-consultant"
 image: "/images/media/it-consultant-in-20s.png"
 related: ["it-consultant-company-size", "it-consultant-failure", "it-consultant-salary-600", "devops-engineer-in-20s", "saas-sales-in-20s"]
 ---
@@ -26,6 +27,11 @@ related: ["it-consultant-company-size", "it-consultant-failure", "it-consultant-
 結果として、20代前半〜後半の応募者に対して「現時点のスキルより、伸びしろと素地を評価する」という採用スタンスが定着しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求められる素地：何が選考で評価されるか
 
@@ -110,6 +116,11 @@ ITコンサルへの転職で気になる年収は、ポジション・ファー
 前職がSaaS・IT系の場合、基本給は同水準〜やや上昇、インセンティブモデルからプロジェクト評価モデルへの移行となるため、変動要素の性質が変わります。外資系ファームは固定給が高い傾向がある一方、国内系は職位昇格による段階的な報酬上昇になるケースが多いです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

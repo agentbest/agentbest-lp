@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["パートナーセールス／アライアンス", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "partner-sales-resume"
+hub: "partner-sales"
 image: "/images/media/partner-sales-resume.png"
 related: ["partner-sales-english", "partner-sales-salary", "partner-sales-in-30s", "bizdev-resume", "embedded-engineer-resume"]
 ---
@@ -24,6 +25,11 @@ related: ["partner-sales-english", "partner-sales-salary", "partner-sales-in-30s
 - 数字はあるが、それがチーム全体の成果なのか、自分の施策に起因するものなのかが判別できない
 
 採用側が知りたいのは、「パートナーエコシステムの中であなたがどのようなレバーを引いたか」である。これを記述できているかどうかが、書類選考の通過率に直結しやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-resume">キャリアを相談する</a>
+</aside>
 
 ## 採用担当者が職務経歴書で見ているポイント
 
@@ -106,6 +112,11 @@ IT・SaaS・コンサルの採用文脈において、パートナーセール�
 > 担当代理店30社（うち重点代理店5社を主担当）の営業支援を統括。重点代理店のうち3社において自社製品の提案機会が限定的であったため、ニーズヒアリングの結果を踏まえた提案ガイドの作成とロールプレイング研修を四半期ごとに実施。当該3社の自社製品関連商談が半期で〇〇件から〇〇件に増加し、パートナー経由売上は前年比120%を達成。社内では製品マーケティングチームと連携し、代理店向けコンテンツの月次更新体制を確立した。
 
 変換後の記述では、施策の目的・背景・具体的な内容・成果・社内連携のすべてが1段落に収まっている。採用担当者が「この人に入社してもらったら、パートナーに対して何ができるか」をイメージしやすくなる点が重要である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

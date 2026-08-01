@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["クラウドエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-resume"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-resume.png"
 related: ["cloud-engineer-interview", "cloud-engineer-motivation", "cloud-engineer-salary-600", "recruiter-resume", "salesforce-consultant-resume"]
 ---
@@ -30,6 +31,11 @@ related: ["cloud-engineer-interview", "cloud-engineer-motivation", "cloud-engine
 スキルシートに記載されたサービス名が「業務での実績」で裏付けられているかどうかも、精度の高い採用担当者は注意深く確認する。「使用経験あり」と「設計責任を持って導入した」は全く異なる習熟度を示す。職務経歴の各プロジェクト記述が、スキルシートの内容と整合しているかを意識して記述する必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -137,6 +143,11 @@ related: ["cloud-engineer-interview", "cloud-engineer-motivation", "cloud-engine
 | 全プロジェクトが同じ粒度で書かれている | 強みの所在が不明 | 最もアピールしたいプロジェクトは詳細に、周辺は簡潔に差をつける |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

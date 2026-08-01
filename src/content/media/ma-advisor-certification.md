@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["M&Aアドバイザー", "資格"]
 pubDate: 2026-07-04
 slug: "ma-advisor-certification"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-certification.png"
 related: ["ma-advisor-skills", "ma-advisor-english", "ma-advisor-career-path", "pr-certification", "erp-consultant-certification"]
 ---
@@ -28,6 +29,11 @@ M&Aアドバイザーという職種に関心を持つと、「どの資格を�
 つまり、資格は「個人に課される参入要件」というよりも「チームとしての信頼性・業務範囲を担保するもの」として機能している。個人単位で見れば、資格なしでも採用されキャリアを形成することは十分に可能だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格・評価されにくい資格
 
@@ -92,6 +98,11 @@ IT系の法人営業出身者が無資格のままM&A仲介会社に転職する
 国内外のビジネススクールでMBAを取得し、戦略コンサル・外資系投資銀行に入社するケース。MBAが直接的に業務資格として機能するわけではないが、「ファイナンス・戦略・組織」を統合的に学んだ証明として評価されやすい。外資系アドバイザリーや事業会社のM&A部門を目指すルートとして機能している。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

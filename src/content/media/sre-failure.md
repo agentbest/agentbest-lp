@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["SRE", "転職失敗"]
 pubDate: 2026-07-04
 slug: "sre-failure"
+hub: "sre"
 image: "/images/media/sre-failure.png"
 related: ["sre-future", "sre-career-guide", "sre-salary", "business-planning-failure", "bridge-se-failure"]
 ---
@@ -32,6 +33,11 @@ SREはSite Reliability Engineeringの略ですが、その実態は企業によ�
 求人票に「SRE」と記載があっても、実際の業務がどの類型に近いかは、面接や情報収集なしには判断しにくい状況です。転職後に「思っていたより運用業務が多かった」「コードをほとんど書かない」という不満が生じやすい背景には、この定義の曖昧さがあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターンとその構造
 
@@ -110,6 +116,11 @@ SREの業務には、オンコール体制への参加が含まれることが�
 - [ ] 直近の退職者・チームの変化について確認したか（聞ける範囲で）
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

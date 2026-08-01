@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["シンクタンク研究員", "英語力"]
 pubDate: 2026-07-05
 slug: "thinktank-english"
+hub: "thinktank"
 image: "/images/media/thinktank-english.png"
 related: ["thinktank-resume", "thinktank-company-size", "thinktank-career-path", "infra-engineer-english", "cloud-engineer-english"]
 ---
@@ -29,6 +30,11 @@ related: ["thinktank-resume", "thinktank-company-size", "thinktank-career-path",
 このうち、英語力が採用要件として明示されるのは主に「国際機関・外資系シンクタンク」および「大学附属・独立系研究機関の国際プロジェクト枠」です。一方、政府系や民間系コンサル型であっても、昇格・昇給・業務の質を上げていく過程で英語力の差が顕在化しやすい構造があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-english">無料で相談する</a>
+</aside>
 
 ## 英語力が「採用要件」になる場面
 
@@ -98,6 +104,11 @@ OECD、世界銀行、アジア開発銀行などの国際機関、あるいは�
 英語での研究論文を複数執筆・掲載した実績がある場合、英語圏の大学・研究機関のポスドク枠や研究員ポストへの応募が可能になります。純粋な年収という観点では必ずしも高くならない場合もありますが、専門家としての国際認知度という意味での市場価値向上には寄与しやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

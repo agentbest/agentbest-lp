@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["ポストコンサル", "年収相場"]
 pubDate: 2026-07-05
 slug: "post-consultant-salary"
+hub: "post-consultant"
 image: "/images/media/post-consultant-salary.png"
 related: ["post-consultant-from-scratch", "post-consultant-motivation", "post-consultant-certification", "sap-consultant-salary", "presales-salary"]
 ---
@@ -26,6 +27,11 @@ related: ["post-consultant-from-scratch", "post-consultant-motivation", "post-co
 この3変数を無視して「ポストコンサルの平均年収」を語ると、実態から大きくずれた情報になる。特にスタートアップは固定給が低い代わりにエクイティ（ストックオプション）での上振れが期待できる構造であり、名目の年収だけで比較することには注意が必要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収レンジ早見表：転身先別・年代別
 
@@ -100,6 +106,11 @@ related: ["post-consultant-from-scratch", "post-consultant-motivation", "post-co
 一社のオファーに即応すると、市場における自分の価値が見えないまま条件を決定することになる。最低でも2〜3社からオファーを取得した状態で比較することで、交渉の根拠が生まれ、現職水準以上のオファーを引き出しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

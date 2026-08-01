@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["ブリッジSE", "働き方"]
 pubDate: 2026-07-04
 slug: "bridge-se-work-style"
+hub: "bridge-se"
 image: "/images/media/bridge-se-work-style.png"
 related: ["bridge-se-market-trend", "bridge-se-future", "bridge-se-failure", "project-manager-work-style", "big4-consultant-work-style"]
 ---
@@ -33,6 +34,11 @@ related: ["bridge-se-market-trend", "bridge-se-future", "bridge-se-failure", "pr
 オフショアで開発されたコードや成果物の品質チェックは、ブリッジSEが最終確認を担うケースが多い。リリース直前など品質チェックが集中するフェーズは、負荷が高くなりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-work-style">キャリアを相談する</a>
+</aside>
 
 ## フェーズ別の業務負荷の傾向
 
@@ -101,6 +107,11 @@ SIer系やエンタープライズ系のクライアントでは、週に一定�
 このケースでは、残業は週に2〜3日・1〜2時間程度が目安となる傾向にある。オフショアの質問が集中する水曜と、成果物レビューが重なる木曜がやや負荷の高い日となっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

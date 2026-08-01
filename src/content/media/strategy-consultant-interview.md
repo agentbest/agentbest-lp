@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["戦略コンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-interview"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-interview.png"
 related: ["strategy-consultant-salary", "strategy-consultant-in-30s", "strategy-consultant-failure", "dev-director-interview", "db-engineer-interview"]
 ---
@@ -33,6 +34,11 @@ related: ["strategy-consultant-salary", "strategy-consultant-in-30s", "strategy-
 ファームの規模・性格によってプロセスの詳細は異なるが、上記は広く見られる構成の傾向として参考にしてほしい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## フィット面接：頻出質問と回答の組み立て方
 
@@ -105,6 +111,11 @@ STAR形式（Situation・Task・Action・Result）で組み立てる方法論は
 この型で重要なのは、「答えを出す」ことよりも「答えを出すための問いの立て方」を面接官に見せることだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

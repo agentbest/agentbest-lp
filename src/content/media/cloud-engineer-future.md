@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["クラウドエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-future"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-future.png"
 related: ["cloud-engineer-skills", "cloud-engineer-company-size", "cloud-engineer-market-trend", "db-engineer-future", "legal-future"]
 ---
@@ -20,6 +21,11 @@ related: ["cloud-engineer-skills", "cloud-engineer-company-size", "cloud-enginee
 この状況が意味するのは、クラウドエンジニアへの需要が「一時的な移行期の特需」ではなく、継続的な運用・最適化・設計改善という定常的な業務として定着しつつある、ということだ。移行が完了した企業でも、コスト最適化、セキュリティ強化、マルチクラウド対応、DR（災害復旧）設計の見直しといった継続的な課題が常に存在する。
 
 一方で、クラウドプラットフォーム自体の高度化とAIによる運用自動化が進むことで、「インフラを物理的に構築・設定する」という従来型のオペレーション業務は、確実に機械やスクリプトに代替されやすい領域として圧縮されつつある。この点を正確に理解することが、将来性を考える上での出発点になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## AIの台頭がクラウドエンジニアの役割に与える影響
 
@@ -76,6 +82,11 @@ TerraformやAnsibleを使って構成管理する、というレベルは今後�
 **結果：** 開発組織全体のプラットフォーム設計や、新規サービスのインフラアーキテクチャレビューに関与するポジションへ移行。年収レンジとしては、一般的にこの層は700万〜1,000万円台の水準が目安となる案件に接触しやすくなる傾向がある。
 
 **示唆：** このキャリアが示すのは、「運用経験＋設計思想の言語化」という組み合わせが、単なるスキルセットの足し算ではなく、質的な役割転換をもたらしうるということだ。SREに限らず、FinOpsやMLOpsを起点にした類似の転換パターンも存在する。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

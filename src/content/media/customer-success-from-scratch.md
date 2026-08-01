@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["カスタマーサクセス", "未経験転職"]
 pubDate: 2026-07-03
 slug: "customer-success-from-scratch"
+hub: "customer-success"
 image: "/images/media/customer-success-from-scratch.png"
 related: ["customer-success-skills", "customer-success-in-20s", "customer-success-resume", "data-analyst-from-scratch", "data-consultant-from-scratch"]
 ---
@@ -26,6 +27,11 @@ related: ["customer-success-skills", "customer-success-in-20s", "customer-succes
 - **定期レビュー（QBR等）**：顧客の経営課題や目標に対し、サービスの活用状況を評価・提案する
 - **チャーン防止**：解約の兆候がある顧客に対して、適切なタイミングで介入する
 - **アップセル・クロスセル支援**：顧客の成長に応じた上位プランや追加機能の提案
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験でも採用される理由
 
@@ -111,6 +117,11 @@ CSは「製品を売る」より「成果を出させる」職種であるため
 2. **SaaSプロダクトの体験**：無料トライアルや個人利用を通じて、SaaSの操作感・価値提供の構造を自分で経験する
 3. **志望企業のプロダクト研究**：CSは担当プロダクトへの深い理解が前提であり、面接前に志望企業の製品の強み・ユーザーの課題を調べておく
 4. **自己分析の言語化**：前職の「顧客成果への貢献経験」を、CS的な視点で再解釈して言語化する
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

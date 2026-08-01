@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["人事・組織コンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "hr-consultant-in-30s"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-in-30s.png"
 related: ["hr-consultant-work-style", "hr-consultant-certification", "hr-consultant-salary-1000", "engineering-manager-in-30s", "pmo-consultant-in-30s"]
 ---
@@ -41,6 +42,11 @@ related: ["hr-consultant-work-style", "hr-consultant-certification", "hr-consult
 総合ファームは問題解決フレームワークの適用力・提案書の論理構成力を重視しやすく、特化型ファームは特定制度設計の経験や業界固有の実装知識を評価しやすい。HRテック寄りのファームであれば、要件定義やデータモデリングの経験が加点要因になる。転職活動の初期段階でファームの性格を見極めることが、準備効率を大きく左右する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代に求められる「即戦力」の実態
 
@@ -100,6 +106,11 @@ related: ["hr-consultant-work-style", "hr-consultant-certification", "hr-consult
 **語り方のポイント：** 「制度を作った」ではなく「課題を定義し、多様なステークホルダーを動かし、成果を確認した」という構造で語ることで、コンサルティング業務との親和性を自然に示せる。この提示方法は、書類・面接双方で評価される傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

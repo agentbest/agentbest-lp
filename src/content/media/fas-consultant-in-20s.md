@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["会計・財務コンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "fas-consultant-in-20s"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-in-20s.png"
 related: ["fas-consultant-from-scratch", "fas-consultant-career-guide", "fas-consultant-in-30s", "tech-lead-in-20s", "hr-consultant-in-20s"]
 ---
@@ -31,6 +32,11 @@ CFOアジェンダ支援として、グループ管理会計の高度化・予�
 会計基準対応・内部統制・非財務情報開示（サステナビリティ会計）など、会計的専門性が特に求められる領域を担います。公認会計士資格保有者の比率が高い環境です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代ポテンシャル採用の実態
 
@@ -102,6 +108,11 @@ CFOアジェンダ支援として、グループ管理会計の高度化・予�
 FAS系アドバイザリーのスタッフとして入社し、初年度は案件のデータ整理・財務モデリングの補助から入る。2年目以降はサブリード機能を担う段階に移行しやすい。年収は転職時に一時的に横ばい〜微増程度になる場合もあるが、3〜4年スパンで市場価値が積み上がりやすい類型です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

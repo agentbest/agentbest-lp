@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["ブリッジSE", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "bridge-se-company-size"
+hub: "bridge-se"
 image: "/images/media/bridge-se-company-size.png"
 related: ["bridge-se-motivation", "bridge-se-resume", "bridge-se-salary-600", "devops-engineer-company-size", "it-architect-company-size"]
 ---
@@ -53,6 +54,11 @@ related: ["bridge-se-motivation", "bridge-se-resume", "bridge-se-salary-600", "d
 
 ---
 
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-company-size">無料キャリア面談を予約する</a>
+</aside>
+
 ## どちらが適合しやすいか：プロファイル別の考え方
 
 ### 大手を選ぶ傾向が強いプロファイル
@@ -82,6 +88,11 @@ related: ["bridge-se-motivation", "bridge-se-resume", "bridge-se-salary-600", "d
 どちらが「正解」かではなく、「5年後にどのポジションにいたいか」という問いに照らして選択するのが実際的な判断軸になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

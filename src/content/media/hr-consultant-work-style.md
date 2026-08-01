@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["人事・組織コンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "hr-consultant-work-style"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-work-style.png"
 related: ["hr-consultant-from-scratch", "hr-consultant-motivation", "hr-consultant-career-path", "mobile-engineer-work-style", "business-planning-work-style"]
 ---
@@ -26,6 +27,11 @@ related: ["hr-consultant-from-scratch", "hr-consultant-motivation", "hr-consulta
 この3変数が組み合わさることで、同じ「人事・組織コンサルタント」という肩書きでも、週あたりの実労働時間や出社頻度、クライアントとの接触頻度に大きな幅が生まれる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## ファーム種別ごとの激務度・残業時間の傾向
 
@@ -106,6 +112,11 @@ HR特化ファームは、組織診断・サーベイ設計・タレントマネ
 退勤時刻は21時前後が多く、クライアントの決算時期や成果物の締切前後は23時を超えるケースもある。ただし、このペースが毎週続くわけではなく、比較的余裕のある週（18〜19時退勤）も一定割合で存在する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

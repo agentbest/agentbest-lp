@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["カスタマーサクセス", "転職エージェント活用"]
 pubDate: 2026-07-03
 slug: "customer-success-how-to-use-agent"
+hub: "customer-success"
 image: "/images/media/customer-success-how-to-use-agent.png"
 related: ["customer-success-future", "customer-success-interview", "customer-success-from-scratch", "bizdev-how-to-use-agent", "hrbp-how-to-use-agent"]
 ---
@@ -26,6 +27,11 @@ CSポジションはプロダクトの成熟度、顧客セグメント、組織
 加えて、CS専任ポジションの多くは非公開求人として流通していることがあります。特に組織の第一号CSや、CSのリーダー・マネージャークラスの採用は、大手求人サイトに掲載される前にエージェント経由で充足されるケースも珍しくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントが提供する価値：職種固有の視点で整理する
 
@@ -83,6 +89,11 @@ CS職の年収は経験年数や業種だけでなく、ARRの規模・ARRに対
 このケースで重要な点は、「経験の不足」が問題ではなく、「経験の語り方」が採用基準と合っていなかったことです。エージェントが企業の評価軸を把握していたことで、応募書類の焦点を変えられた事例として参考になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

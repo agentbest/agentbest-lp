@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["デジタルマーケター", "必要スキル"]
 pubDate: 2026-07-04
 slug: "digital-marketer-skills"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-skills.png"
 related: ["digital-marketer-english", "digital-marketer-interview", "digital-marketer-career-guide", "infra-engineer-skills", "hrbp-skills"]
 ---
@@ -27,6 +28,11 @@ related: ["digital-marketer-english", "digital-marketer-interview", "digital-mar
 レイヤー1は他職種との差別化に直結し、レイヤー2はポジションの入り口として問われやすい。レイヤー3とレイヤー4は近年の採用市場で急速に重視度が高まっており、これらが揃うと年収レンジが一段上がる傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## レイヤー別スキル詳解
 
@@ -105,6 +111,11 @@ SaaS企業でコンテンツSEOを担当して3年。記事制作・KW選定・�
 このケースが示すのは、既存スキルに「隣接する実務経験」と「数値で説明できる責任範囲」を加えることが、市場価値の引き上げにつながりやすいという構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

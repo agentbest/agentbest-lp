@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["インサイドセールス", "転職エージェント活用"]
 pubDate: 2026-07-03
 slug: "inside-sales-how-to-use-agent"
+hub: "inside-sales"
 image: "/images/media/inside-sales-how-to-use-agent.png"
 related: ["inside-sales-salary-1000", "inside-sales-salary-600", "inside-sales-company-size", "legal-how-to-use-agent", "tech-lead-how-to-use-agent"]
 ---
@@ -34,6 +35,11 @@ related: ["inside-sales-salary-1000", "inside-sales-salary-600", "inside-sales-c
 また、インサイドセールスは職種として歴史が浅く、評価基準が企業ごとにまだ標準化されていない。「前職でのアポイント獲得数」「パイプライン貢献額」「受注率への関与度」のいずれを重視するかは採用企業によって異なる。この評価軸のばらつきが、自己分析と求人マッチングを難しくしている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを使うことで何が変わるか
 
@@ -89,6 +95,11 @@ related: ["inside-sales-salary-1000", "inside-sales-salary-600", "inside-sales-c
 このケースが示すのは、エージェントの価値が「求人紹介」だけでなく、「自己認識の補正」と「交渉の代理」にもあるという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

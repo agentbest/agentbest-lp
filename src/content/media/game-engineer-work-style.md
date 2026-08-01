@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["ゲームエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "game-engineer-work-style"
+hub: "game-engineer"
 image: "/images/media/game-engineer-work-style.png"
 related: ["game-engineer-career-path", "game-engineer-interview", "game-engineer-motivation", "tech-lead-work-style", "corporate-planning-work-style"]
 ---
@@ -22,6 +23,11 @@ related: ["game-engineer-career-path", "game-engineer-interview", "game-engineer
 - **インフラ・SREエンジニア**: クラウド基盤の設計・運用を担う。大規模イベント時のトラフィック制御など、イベントスケジュールに連動した業務ピークがある
 - **エンジンエンジニア（ゲームエンジン開発）**: UnrealやUnity等のカスタマイズ、独自エンジン開発を担当。プロジェクト全体の基盤を支えるため、仕様変更の影響を受けにくく、比較的安定したスケジュールで動きやすい傾向がある
 - **ツールエンジニア**: デザイナーやプランナーが使う社内ツールを開発・維持する。プロジェクト進行の影響を受けるが、直接的なリリーススケジュールの圧力は相対的に小さい
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度を左右する3つの要因
 
@@ -91,6 +97,11 @@ related: ["game-engineer-career-path", "game-engineer-interview", "game-engineer
 - この期間の残業は週20〜30時間程度になることもある。翌週に振替休暇を取得する運用
 
 この型から読み取れるのは、「定常期は比較的安定しているが、イベントや障害対応のタイミングに集中的な負荷がかかる」という波のある働き方である。事前にこの波のパターンを理解しているかどうかが、業務の持続可能性に大きく影響する。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

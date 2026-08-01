@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["ゲーム・エンタメテック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "game-industry-career"
+hub: "game-industry"
 image: "/images/media/game-industry-career.png"
 related: ["game-industry-company", "game-industry-salary", "game-industry-trend", "ma-industry-career", "consulting-industry-career"]
 ---
@@ -37,6 +38,11 @@ IT・SaaS・コンサル出身者がこの業界に転じる場合、多くは�
 - **IP（知的財産）への理解**：エンタメ領域ではIPが資産の中核であり、その価値保全・拡張に関する視点を持っているかどうかが差になることがある
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-career">キャリアを相談する</a>
+</aside>
 
 ## 職種別の報酬レンジと求められるスキルセット
 
@@ -106,6 +112,11 @@ BtoBのSaaS企業でプロダクトマネージャーを5年経験したAさん�
 採用面接において「なぜゲーム・エンタメテックか」という問いへの回答の深さは、業界未経験者の場合に特に注目されます。プレイヤー・視聴者としての体験をビジネス視点で語る能力、業界トレンドへの把握（スマートフォン市場の成熟・クラウドゲーミングの動向・コンソール市場の変化等）を示すことが、文化的適合性の評価につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-career">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

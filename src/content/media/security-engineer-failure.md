@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["セキュリティエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "security-engineer-failure"
+hub: "security-engineer"
 image: "/images/media/security-engineer-failure.png"
 related: ["security-engineer-motivation", "security-engineer-market-trend", "security-engineer-interview", "sap-consultant-failure", "uiux-designer-failure"]
 ---
@@ -30,6 +31,11 @@ related: ["security-engineer-motivation", "security-engineer-market-trend", "sec
 セキュリティという領域は、ペネトレーションテスト・SOC運用・GRC（ガバナンス・リスク・コンプライアンス）・クラウドセキュリティ・製品セキュリティなど、方向性が大きく異なる専門分野を内包している。これらは求人票上では「セキュリティエンジニア」の一言でまとめられることが多く、自分の専門性と求められるスキルのズレが面接段階では見えにくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターン8選
 
@@ -97,6 +103,11 @@ SIerでインフラ・セキュリティ全般を担当していた30代前半�
 このケースで事前に確認できていたとすれば、「予算の承認ラインと過去の承認実績」「担当範囲に技術的な実装が含まれるか」の2点が最も重要だった。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

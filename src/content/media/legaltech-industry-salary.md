@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["リーガルテック", "業界年収"]
 pubDate: 2026-07-05
 slug: "legaltech-industry-salary"
+hub: "legaltech-industry"
 image: "/images/media/legaltech-industry-salary.png"
 related: ["legaltech-industry-trend", "legaltech-industry-company", "legaltech-industry-career", "ma-industry-salary", "mobility-industry-salary"]
 ---
@@ -42,6 +43,11 @@ related: ["legaltech-industry-trend", "legaltech-industry-company", "legaltech-i
 特筆すべきは、弁護士資格を持ちつつプロダクト開発やビジネス側に関与できる「ハイブリッド人材」の希少性が高く、報酬交渉において有利に働きやすい点である。法律事務所のアソシエイト弁護士と比較してもリーガルテック企業の待遇が同等以上になるケースは珍しくなく、近年は弁護士のキャリアパスとしてリーガルテック転職が一定の注目を集めている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-salary">無料で相談する</a>
+</aside>
 
 ## 職種別の年収構造と評価軸
 
@@ -104,6 +110,11 @@ SaaS系PMの一般的な水準と概ね重なるが、弁護士経験や企業�
 この例が示すように、ポジション選択によって年収の出発点は大きく異なる。法務ドメイン経験者がカスタマーサクセス的な役割に就くと前職水準に近いレンジに留まりやすい一方、ビジネス開発・プロダクトへの関与度が高いポジションほど年収の天井が上がる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["プロジェクトマネージャー", "年収600万"]
 pubDate: 2026-07-04
 slug: "project-manager-salary-600"
+hub: "project-manager"
 image: "/images/media/project-manager-salary-600.png"
 related: ["project-manager-in-20s", "project-manager-market-trend", "project-manager-failure", "devops-engineer-salary-600", "legal-salary-600"]
 ---
@@ -34,6 +35,11 @@ IT・SaaS・コンサル領域でのPMの年収分布を俯瞰すると、400万
 数値はあくまで相場観の目安であり、企業規模・地域・個人の交渉力などによって幅がある点に留意されたい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -99,6 +105,11 @@ IT・SaaS・コンサル領域でのPMの年収分布を俯瞰すると、400万
 この事例が示すのは、スキルの絶対量ではなく「どのスキルをどの文脈で使えるか」という組み合わせの希少性が報酬に反映されやすいという構造だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

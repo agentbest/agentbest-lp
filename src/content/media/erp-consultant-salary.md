@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["ERPコンサルタント", "年収相場"]
 pubDate: 2026-07-05
 slug: "erp-consultant-salary"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-salary.png"
 related: ["erp-consultant-interview", "erp-consultant-in-20s", "erp-consultant-skills", "partner-sales-salary", "data-consultant-salary"]
 ---
@@ -38,6 +39,11 @@ ERPコンサルタントの年収は、年代・経験フェーズ・プロジ�
 | ERP製品ベンダー（プリセールス・CS） | 中〜高 | インセンティブ設計がある場合も |
 
 フリーランスについては年間稼働率が収入に直結するため、年収換算の単純比較は難しい。事業継続コスト（社会保険・税務・無稼働リスク）を加味したネット換算で比較する必要がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する5つの変数
 
@@ -88,6 +94,11 @@ ERP導入プロジェクトは「業務要件定義→Fit/Gap→設計→開発�
 **年収引き上げの構造的な理由**：Oracle Cloud人材の絶対数の少なさ＋グローバル案件対応可能という希少性の掛け合わせが市場評価を押し上げた。SIer在籍時に年収750万円台だったのは、組織の報酬テーブルの制約によるものであり、市場価値との乖離が存在していた。
 
 このパターンは特定個人の話ではなく、同様の経歴構造を持つ人材が転職活動において評価されやすい傾向として観察されるものだ。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

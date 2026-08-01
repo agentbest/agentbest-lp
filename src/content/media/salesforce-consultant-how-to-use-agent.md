@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["Salesforceコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-how-to-use-agent"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-how-to-use-agent.png"
 related: ["salesforce-consultant-salary-600", "salesforce-consultant-career-path", "salesforce-consultant-interview", "it-architect-how-to-use-agent", "embedded-engineer-how-to-use-agent"]
 ---
@@ -47,6 +48,11 @@ Salesforceコンサルタントの年収は、経験・資格・雇用形態・�
 このレンジの幅は「交渉余地が大きい」ことを意味します。エージェントは複数社の給与テーブルや候補者の内定実績データを保有しており、自己応募では得にくい年収上積みが実現しやすいとされています。企業によっては、エージェント経由のオファーと直接応募のオファーで数十万円の差が生じることもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## Salesforceコンサルタント転職でエージェントを使う具体的な理由
 
@@ -102,6 +108,11 @@ Salesforceコンサルタントの採用では、技術面接に加えてケー�
 この型から読み取れるのは、エージェントが単なる求人紹介にとどまらず、「どの順番でキャリアを構築するか」「どの表現が採用担当者に刺さるか」を整理する役割を担った点です。候補者単独では、自分の経験を過小評価するか、逆に背伸びしすぎたポジションに応募して選考落ちを繰り返すパターンに陥りやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

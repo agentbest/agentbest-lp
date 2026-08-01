@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["ポストコンサル", "転職エージェント活用"]
 pubDate: 2026-07-05
 slug: "post-consultant-how-to-use-agent"
+hub: "post-consultant"
 image: "/images/media/post-consultant-how-to-use-agent.png"
 related: ["post-consultant-resume", "post-consultant-career-path", "post-consultant-certification", "business-consultant-how-to-use-agent", "thinktank-how-to-use-agent"]
 ---
@@ -34,6 +35,11 @@ related: ["post-consultant-resume", "post-consultant-career-path", "post-consult
 ただし、交渉の主体はあくまでも求職者本人である。エージェントは「橋渡し」であり、相場観の提供・伝達役として機能するにとどまる点は理解しておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントの選び方：4つの評価軸
 
@@ -86,6 +92,11 @@ related: ["post-consultant-resume", "post-consultant-career-path", "post-consult
 このプロセスでは、エージェントが「面接内容のフィードバックを取得して次回に活かす」という機能を果たしている点が、自己応募との最大の差になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

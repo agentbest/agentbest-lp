@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["セールスエンジニア／プリセールス", "志望動機"]
 pubDate: 2026-07-03
 slug: "presales-motivation"
+hub: "presales"
 image: "/images/media/presales-motivation.png"
 related: ["presales-how-to-use-agent", "presales-failure", "presales-salary-600", "fas-consultant-motivation", "bizdev-motivation"]
 ---
@@ -36,6 +37,11 @@ related: ["presales-how-to-use-agent", "presales-failure", "presales-salary-600"
 この三軸を踏まえると、「志望動機で何を伝えるべきか」の輪郭が見えてきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 志望動機を書く前に整理すべき四つの問い
 
@@ -123,6 +129,11 @@ related: ["presales-how-to-use-agent", "presales-failure", "presales-salary-600"
 このような文脈で語ることで、「なぜプリセールスか」という問いに対して説得力のある答えを示すことができます。また、導入後の視点を持つプリセールスは希少性が高いという文脈も補強材料になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["Salesforceコンサルタント", "市場動向"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-market-trend"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-market-trend.png"
 related: ["salesforce-consultant-future", "salesforce-consultant-career-path", "salesforce-consultant-skills", "cto-vpoe-market-trend", "freelance-consultant-market-trend"]
 ---
@@ -22,6 +23,11 @@ Salesforceコンサルタントの転職市場は、2025年から2026年にか�
 一方、採用企業側の変化として目立つのは「スコープの拡張」だ。かつては「Sales CloudまたはService Cloudの導入経験があれば応募可」という水準の求人も多かったが、現在は要件に「上流工程の経験」「複数クラウド横断の経験」「ビジネス要件定義の主導経験」が明記されるケースが増えている。求人数は増えていても、実際に条件を満たせる候補者の絶対数は限られるため、市場は「供給不足のまま高度化している」という構造にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：何が求められるようになったか
 
@@ -86,6 +92,11 @@ Salesforce認定資格は依然として採用基準における確認事項で�
 採用担当者の視点では、「資格を持っている上で何を実際に設計・実装できたか」という実績の説明が重視される傾向にある。職務経歴書において、資格の列挙に止まらず、「どのような規模・複雑度のプロジェクトで、どの工程を主導したか」を具体的に記述することが、書類通過率に影響しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

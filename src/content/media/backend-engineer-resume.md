@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["バックエンドエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "backend-engineer-resume"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-resume.png"
 related: ["backend-engineer-salary-1000", "backend-engineer-certification", "backend-engineer-interview", "ma-advisor-resume", "freelance-consultant-resume"]
 ---
@@ -50,6 +51,11 @@ related: ["backend-engineer-salary-1000", "backend-engineer-certification", "bac
 すべての成果に数値が求められるわけではないが、少なくとも2〜3項目は定量化を目指すと説得力が増す。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職務経歴書の構成と各セクションの書き方
 
@@ -125,6 +131,11 @@ related: ["backend-engineer-salary-1000", "backend-engineer-certification", "bac
 | 6年以上（シニア〜リード） | アーキテクチャ設計、技術選定の判断軸、チーム・組織への貢献 | 抽象的な「リード経験」に留まらず具体性を持たせる |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

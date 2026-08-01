@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["エドテック", "業界動向"]
 pubDate: 2026-07-05
 slug: "edtech-industry-trend"
+hub: "edtech-industry"
 image: "/images/media/edtech-industry-trend.png"
 related: ["edtech-industry-salary", "edtech-industry-guide", "edtech-industry-career", "ec-industry-trend", "ai-industry-trend"]
 ---
@@ -28,6 +29,11 @@ related: ["edtech-industry-salary", "edtech-industry-guide", "edtech-industry-ca
 2024〜2025年にかけて顕著だったのは、BtoBセグメントの拡大です。リスキリング支援に対する国の助成金制度の整備、企業における人的資本経営への関心の高まりが重なり、法人向けラーニングプラットフォームへの投資が増加傾向にあります。2026年においても、この流れは継続するとみられています。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 2026年の主要トレンド：採用に直結する三つの変化
 
@@ -95,6 +101,11 @@ SaaSのセールス経験者が転職先としてエドテックを選ぶケー�
 **採用ポジションの設置背景**：増員なのか欠員補充なのか、組織フェーズはどこにあるかを面接で確認する
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

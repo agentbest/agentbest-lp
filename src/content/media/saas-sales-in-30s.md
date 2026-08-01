@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["SaaS営業", "30代転職"]
 pubDate: 2026-07-03
 slug: "saas-sales-in-30s"
+hub: "saas-sales"
 image: "/images/media/saas-sales-in-30s.png"
 related: ["saas-sales-skills", "saas-sales-career-guide", "saas-sales-work-style", "uiux-designer-in-30s", "qa-engineer-in-30s"]
 ---
@@ -25,6 +26,11 @@ SaaS企業の営業組織は、機能ごとに役割が細分化されている�
 | エンタープライズ営業 | 大手・複数部門への提案・展開 | 対面中心・複数ステークホルダー |
 
 30代での転職で最も求人数が多く、かつ実務経験が評価されやすいのはフィールドセールスとエンタープライズ営業の領域だ。一方で、ISやCSへの転職は30代未経験では難易度がやや上がる傾向がある。企業側が「管理や育成もできる人材」を期待するケースが増えるためだ。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-in-30s">無料で相談する</a>
+</aside>
 
 ## 30代に求められる即戦力の実態
 
@@ -100,6 +106,11 @@ SaaS営業の年収は、扱う製品の単価・対象顧客規模・インセ�
 シリーズB以降・上場前後の企業は年収水準が高めに設定されやすい一方、組織設計が未整備な場合もある。ロールモデルとなる先輩社員の在籍年数・ポジションの構成・離職率の傾向などを面接で確認しておくことが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

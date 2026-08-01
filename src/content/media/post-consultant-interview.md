@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["ポストコンサル", "面接対策"]
 pubDate: 2026-07-05
 slug: "post-consultant-interview"
+hub: "post-consultant"
 image: "/images/media/post-consultant-interview.png"
 related: ["post-consultant-in-20s", "post-consultant-market-trend", "post-consultant-certification", "tech-lead-interview", "hrbp-interview"]
 ---
@@ -26,6 +27,11 @@ related: ["post-consultant-in-20s", "post-consultant-market-trend", "post-consul
 これらの懸念は面接官が明示的に質問するとは限りません。表向きは標準的な質問でも、評価しているのは上記の懸念への答えであることがほとんどです。したがって、個々の質問に答えるだけでなく、回答全体でどのような人物像を伝えるかを設計しておく必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -109,6 +115,11 @@ SaaS企業やコンサルファーム出身者を多く採用している企業�
 この設計によって「コンサル色を消そうとしている」という不自然さを出さずに、面接官が抱える懸念に対して根拠のある答えを提示できます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

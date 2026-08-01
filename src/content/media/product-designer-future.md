@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["プロダクトデザイナー", "将来性"]
 pubDate: 2026-07-04
 slug: "product-designer-future"
+hub: "product-designer"
 image: "/images/media/product-designer-future.png"
 related: ["product-designer-from-scratch", "product-designer-resume", "product-designer-motivation", "digital-marketer-future", "hrbp-future"]
 ---
@@ -30,6 +31,11 @@ related: ["product-designer-from-scratch", "product-designer-resume", "product-d
 一方で、「グラフィックを整える」「画面を作る」という意味でのデザイン業務については、生成AIツールの精度向上によって自動化・効率化が進んでいる。この点において、職種内部での役割の分岐が起きている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI時代における役割の変容：何が代替され、何が残るか
 
@@ -99,6 +105,11 @@ Figmaのプラグイン・生成AIを活用したプロトタイピング・デ�
 これらの取り組みを通じて、「デザインを作る人」から「デザインプロセスを設計する人」としての役割を獲得し、シニアデザイナーへの昇格・年収のレンジ移動につながった。このケースが示すのは、技術的なスキルの向上だけでなく、「組織の中でどう機能するか」の設計力がシニア移行の鍵になりやすいという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["バックエンドエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "backend-engineer-career-path"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-career-path.png"
 related: ["backend-engineer-in-30s", "backend-engineer-certification", "backend-engineer-resume", "partner-sales-career-path", "security-engineer-career-path"]
 ---
@@ -28,6 +29,11 @@ related: ["backend-engineer-in-30s", "backend-engineer-certification", "backend-
 この構造を前提にすると、30代でどこまで行けるかという問いへの答えは「第二段階の選択の質」によって大きく変わってくる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職位・年収の目安レンジ
 
@@ -106,6 +112,11 @@ ScalaとGoを主軸にしており、マイクロサービスのアーキテク�
 これらは転職活動の直前に整えようとしても間に合いにくい。日常業務の中で意識的に積み上げていくことが、中長期的な市場価値に影響しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

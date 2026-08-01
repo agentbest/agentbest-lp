@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["Salesforceコンサルタント", "資格"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-certification"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-certification.png"
 related: ["salesforce-consultant-future", "salesforce-consultant-salary", "salesforce-consultant-company-size", "ma-advisor-certification", "business-planning-certification"]
 ---
@@ -20,6 +21,11 @@ Salesforce関連の資格は、Salesforce社が体系的に整備した認定制
 この資格体系が他のIT資格と異なるのは、製品バージョンのアップデートに追随する「メンテナンス試験」が定期的に課される点である。つまり取得して終わりではなく、継続的な学習が求められる設計になっている。これは採用側からすれば、資格保持者が一定の知識を継続的に更新しているという間接的なシグナルになる。
 
 一方で、コンサルタントの評価軸は資格だけではない。プロジェクト経験・業務要件の整理力・顧客折衝能力・チームマネジメントの実績といった要素の方が、特に経験年数が積み上がるにつれて比重が高くなる傾向にある。資格はあくまで「土台の証明」であり、それ自体が差別化要因になりにくい局面も多い。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい資格・されにくい資格
 
@@ -94,6 +100,11 @@ SIer出身で3年間、基幹システムの導入PMOを担当。Salesforce製�
 
 **示唆**
 資格の機能は「証明」よりも「学習プロセスの可視化」にある場合が多い。特にキャリアチェンジ・業種転換を伴う転職では、資格取得の行動自体がナラティブとして機能する。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

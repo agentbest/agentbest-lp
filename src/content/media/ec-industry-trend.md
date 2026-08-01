@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["Eコマース", "業界動向"]
 pubDate: 2026-07-05
 slug: "ec-industry-trend"
+hub: "ec-industry"
 image: "/images/media/ec-industry-trend.png"
 related: ["ec-industry-salary", "ec-industry-company", "ec-industry-career", "security-industry-trend", "healthtech-industry-trend"]
 ---
@@ -28,6 +29,11 @@ Eコマース業界は、コロナ禍を経た市場の再編・成熟と、AI�
 **第三に、AIを活用したパーソナライゼーションと需要予測の実用化。** レコメンドエンジンや在庫最適化のためのAI活用は、一部の先端事業者だけのものではなくなりつつある。生成AIを活用した商品説明文・バナー制作の効率化なども実務に組み込まれ始めており、ツール活用能力と業務知識の組み合わせが問われるようになっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用トレンド：求められる職種とスキルの変化
 
@@ -77,6 +83,11 @@ Eコマース業界は一枚岩ではなく、事業モデルによって成長�
 **EC支援・テクノロジーベンダー：** EC事業者向けにツール・代理店・コンサルティングを提供する企業群。複数クライアントの事業課題に触れられるため、知識・経験の蓄積速度が速い傾向にある。一方で、クライアントの意思決定に関与できる範囲には限界がある点を理解した上で選ぶ必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

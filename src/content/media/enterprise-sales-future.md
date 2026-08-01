@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["エンタープライズセールス", "将来性"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-future"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-future.png"
 related: ["enterprise-sales-salary-1000", "enterprise-sales-salary-600", "enterprise-sales-certification", "backend-engineer-future", "data-analyst-future"]
 ---
@@ -20,6 +21,11 @@ related: ["enterprise-sales-salary-1000", "enterprise-sales-salary-600", "enterp
 本記事では、構造的な変化の背景・業務別のAI影響度・キャリアとして生き残るための条件を順に整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AIがエンタープライズセールスに与える影響の構造
 
@@ -100,6 +106,11 @@ CxOや事業部長クラスと対等に議論できるかどうかは、エン�
 「AIが普及しても人間がやること」と「AIに任せること」の境界を自分なりに整理し、前者に集中できる環境を自ら設計できる人が、今後のエンタープライズセールスで高い評価を維持しやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

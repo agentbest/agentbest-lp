@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["インフラエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "infra-engineer-how-to-use-agent"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-how-to-use-agent.png"
 related: ["infra-engineer-career-guide", "infra-engineer-failure", "infra-engineer-in-30s", "ma-advisor-how-to-use-agent", "ai-engineer-how-to-use-agent"]
 ---
@@ -42,6 +43,11 @@ related: ["infra-engineer-career-guide", "infra-engineer-failure", "infra-engine
 インフラエンジニアは市場での希少性が高まっている局面では特に、提示額が「交渉の余地がある初回提示」であることが多い。この点をエージェントが補助することで、最終年収が変わるケースは少なくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェント選定の基準
 
@@ -87,6 +93,11 @@ related: ["infra-engineer-career-guide", "infra-engineer-failure", "infra-engine
 このケースでは、エージェントの介在によって「書類通過できる求人の質」と「最終的な年収提示額」の両面に影響が出やすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

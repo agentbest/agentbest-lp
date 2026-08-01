@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["プラットフォームエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "platform-engineer-resume"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-resume.png"
 related: ["platform-engineer-market-trend", "platform-engineer-work-style", "platform-engineer-in-30s", "fullstack-engineer-resume", "freelance-consultant-resume"]
 ---
@@ -28,6 +29,11 @@ related: ["platform-engineer-market-trend", "platform-engineer-work-style", "pla
 職務経歴書において重要なのは、応募先の「プラットフォームエンジニア像」に対して、自身の経験が構造的に対応していることを示すことです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## 全体構成：推奨するセクション順
 
@@ -141,6 +147,11 @@ A4で2〜3枚に収めることを目安とし、3枚を超える場合はプロ
 「高可用性を実現した」「安定稼働を維持した」という表現は評価が難しいです。「SLO 99.9%に対して達成率が改善した」「前四半期比でインシデント件数が減少した」など、比較基準を加えると評価者の判断がしやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

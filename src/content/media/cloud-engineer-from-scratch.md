@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["クラウドエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-from-scratch"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-from-scratch.png"
 related: ["cloud-engineer-salary-600", "cloud-engineer-future", "cloud-engineer-skills", "embedded-engineer-from-scratch", "erp-consultant-from-scratch"]
 ---
@@ -32,6 +33,11 @@ related: ["cloud-engineer-salary-600", "cloud-engineer-future", "cloud-engineer-
 未経験からの参入としては、「クラウド運用・監視」が最もハードルが低い傾向にある。まずこの領域で実務経験を積み、徐々に構築・設計領域へキャリアを広げていくのが現実的な経路だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験者が直面する「採用ギャップ」の構造
 
@@ -125,6 +131,11 @@ related: ["cloud-engineer-salary-600", "cloud-engineer-future", "cloud-engineer-
 クラウドエンジニアの報酬は、資格の保有数より「担当できる業務の範囲と深さ」に比例しやすい。資格はスキルの証明として一定の意味を持つが、実務での判断経験が伴わなければ報酬への反映は限定的になる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

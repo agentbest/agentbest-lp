@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["機械学習エンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "ml-engineer-salary"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-salary.png"
 related: ["ml-engineer-failure", "ml-engineer-resume", "ml-engineer-company-size", "sap-consultant-salary", "risk-consultant-salary"]
 ---
@@ -29,6 +30,11 @@ related: ["ml-engineer-failure", "ml-engineer-resume", "ml-engineer-company-size
 上記のレンジが広い理由は後述しますが、同一の経験年数でも「下限」と「上限」に300〜400万円の差が生じやすい職種であることは、まず前提として押さえておく必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-salary">無料で相談する</a>
+</aside>
 
 ## 年収を左右する3つの構造的要因
 
@@ -106,6 +112,11 @@ related: ["ml-engineer-failure", "ml-engineer-resume", "ml-engineer-company-size
 このケースで重要なのは、保有していた技術力そのものは転職前後で変わっていない点です。「同じ実績をどの文脈で語るか」が評価を変えた要因です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

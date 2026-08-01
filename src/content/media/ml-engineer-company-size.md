@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["機械学習エンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "ml-engineer-company-size"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-company-size.png"
 related: ["ml-engineer-english", "ml-engineer-how-to-use-agent", "ml-engineer-motivation", "presales-company-size", "digital-marketer-company-size"]
 ---
@@ -24,6 +25,11 @@ related: ["ml-engineer-english", "ml-engineer-how-to-use-agent", "ml-engineer-mo
 第二に、**チームの技術水準が学習機会を規定する**。コードレビューの質、論文輪読の文化、MLOpsの成熟度——こうした要素は個人の努力だけでは補えず、組織が持つ集合知に大きく依存する。
 
 つまり「どちらが良い環境か」という問いは、「自分が今どのフェーズにいて、何を吸収したいか」によって答えが変わる。この前提を踏まえたうえで、各軸の違いを見ていく。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-company-size">キャリアを相談する</a>
+</aside>
 
 ## 大手企業とスタートアップの比較：6つの軸
 
@@ -81,6 +87,11 @@ related: ["ml-engineer-english", "ml-engineer-how-to-use-agent", "ml-engineer-mo
 ### 経験7年目以上：影響範囲の観点から
 
 この層になると、「何ができるか」よりも「どのような影響を組織・事業に与えられるか」が問われるようになる。組織設計・採用・技術戦略の立案に関与したいなら、スタートアップでのエンジニアリングマネージャーやVPoEポジションへの挑戦が一つの選択肢になる。一方、大規模なシステムで技術的な難題に向き合い続けたいという志向であれば、大手のシニアスタッフエンジニア的なキャリアが適合しやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

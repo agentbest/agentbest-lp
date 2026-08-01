@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["人事", "面接対策"]
 pubDate: 2026-07-04
 slug: "hrbp-interview"
+hub: "hrbp"
 image: "/images/media/hrbp-interview.png"
 related: ["hrbp-career-guide", "hrbp-how-to-use-agent", "hrbp-motivation", "bridge-se-interview", "bizdev-interview"]
 ---
@@ -18,6 +19,11 @@ related: ["hrbp-career-guide", "hrbp-how-to-use-agent", "hrbp-motivation", "brid
 本稿では、面接で問われる質問の背景にある採用側の意図を整理したうえで、回答を構成するための実践的な枠組みを提示する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-interview">キャリアを相談する</a>
+</aside>
 
 ## 面接官が人事候補者に確認していること
 
@@ -106,6 +112,11 @@ HRBPや人事マネジャーポジションで特に頻出する行動面接の�
 「採用した30名のうち、1年後の在籍率が従来比で15ポイント改善した」という数値に加え、「改善の要因として面接評価シートの刷新と入社前フォローの導入が寄与した」という施策の構造説明を添えることで、再現性のある思考を示せる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

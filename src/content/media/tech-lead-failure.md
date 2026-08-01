@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["テックリード", "転職失敗"]
 pubDate: 2026-07-04
 slug: "tech-lead-failure"
+hub: "tech-lead"
 image: "/images/media/tech-lead-failure.png"
 related: ["tech-lead-company-size", "tech-lead-salary", "tech-lead-salary-1000", "data-scientist-failure", "hr-consultant-failure"]
 ---
@@ -26,6 +27,11 @@ related: ["tech-lead-company-size", "tech-lead-salary", "tech-lead-salary-1000",
 コーディングテストやシステム設計の面接ではスキルを示せます。しかし「エンジニアチームを動かした経験」「PdMやビジネスサイドと技術的意思決定を擦り合わせた経験」は、面接で再現しにくく、採用側も定性的にしか評価できません。このギャップが、入社後の期待値ズレを生みやすい土台となっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターン5つ
 
@@ -108,6 +114,11 @@ Aさんは、SaaS企業でシニアエンジニアを6年経験した後、急�
 Aさんの転職活動上の問題点は、面接時に「テックリードとして何をする人か」を確認した一方で、「その業務をどれだけの権限と時間で行えるか」を深掘りしなかった点にありました。職種名の確認に留まらず、「1週間の実際の業務配分」「最後に技術的意思決定を主導した事例」を面接中に聞けていれば、入社後のギャップを大幅に縮められた可能性があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["デジタルマーケター", "将来性"]
 pubDate: 2026-07-04
 slug: "digital-marketer-future"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-future.png"
 related: ["digital-marketer-from-scratch", "digital-marketer-career-path", "digital-marketer-in-30s", "it-architect-future", "embedded-engineer-future"]
 ---
@@ -32,6 +33,11 @@ SEOも同様だ。コンテンツの初稿生成、メタディスクリプシ�
 裏を返せば、特定ツールの操作スキルのみを強みにしてきたマーケターほど、自動化の波を受けやすい構造にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキルの将来性を「代替されやすさ」で分類する
 
@@ -96,6 +102,11 @@ SQLの基礎やBIツールの扱いに一定の習熟があると、データチ
 このパターンに共通するのは、「ツール依存から卒業するタイミングを意図的に設けた」点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

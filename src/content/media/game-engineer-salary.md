@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["ゲームエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "game-engineer-salary"
+hub: "game-engineer"
 image: "/images/media/game-engineer-salary.png"
 related: ["game-engineer-skills", "game-engineer-salary-600", "game-engineer-certification", "product-designer-salary", "post-consultant-salary"]
 ---
@@ -22,6 +23,11 @@ related: ["game-engineer-skills", "game-engineer-salary-600", "game-engineer-cer
 一般的な傾向として、スマートフォンゲームを主軸とする国内大手パブリッシャーはスケールメリットによる収益基盤が安定しており、年収水準が高い傾向があります。一方、開発専業のスタジオや中小インディーデベロッパーは、プロジェクト規模や経営状況により待遇にばらつきが出やすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## 年代・経験年数別の年収レンジ
 
@@ -95,6 +101,11 @@ Unreal EngineおよびUnityは国内ゲーム開発の主要エンジンです�
 「ゲームエンジニア」という枠の外にも選択肢が広がっています。ゲームエンジン（UnrealやUnity）の習熟はメタバース・VR/AR・リアルタイム映像領域でも高く評価されており、隣接領域への越境が年収改善の選択肢になるケースも増えています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

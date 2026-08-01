@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["ソリューションアーキテクト", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "solution-architect-career-guide"
+hub: "solution-architect"
 image: "/images/media/solution-architect-career-guide.png"
 related: ["solution-architect-from-scratch", "solution-architect-salary-1000", "solution-architect-market-trend", "web-marketer-career-guide", "embedded-engineer-career-guide"]
 ---
@@ -33,6 +34,11 @@ related: ["solution-architect-from-scratch", "solution-architect-salary-1000", "
 所属企業によって関与するフェーズは異なります。SIer・ITベンダーでは商談から納品まで広く関わる傾向があり、クラウドプロバイダー（ハイパースケーラー）や外資系SaaSベンダーでは、セールス支援の色合いが強く「プリセールスSA」として機能することが一般的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 転職市場における需要と市場価値
 
@@ -111,6 +117,11 @@ SA職の求人は、一般公開されていないポジションが相当数あ
 外資系企業は通年採用が多い一方で、国内SIerや大手ITベンダーは期初（4月前後）に採用計画が動き始めることがあります。ただし、SAのような希少職種は欠員補充ベースで動くことも多く、「良いポジションが出たタイミング」が実質的な転職適期になりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

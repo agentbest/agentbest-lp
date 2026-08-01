@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["ブリッジSE", "資格"]
 pubDate: 2026-07-04
 slug: "bridge-se-certification"
+hub: "bridge-se"
 image: "/images/media/bridge-se-certification.png"
 related: ["bridge-se-future", "bridge-se-skills", "bridge-se-failure", "product-designer-certification", "mlops-engineer-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["bridge-se-future", "bridge-se-skills", "bridge-se-failure", "product-
 資格は主に②と③を補完するシグナルとして機能する。ただし、資格そのものが採用の必要条件になることは少なく、「実務経験を補強する証明」という位置づけで評価されることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい資格の類型
 
@@ -102,6 +108,11 @@ IPAのプロジェクトマネージャ試験は、国内市場では一定の�
 この三点セットは、書類選考の段階で「実務経験＋資格による裏付け」を同時に伝える構成として機能しやすい。ただし資格取得のタイムラインは6〜18か月単位になることも多く、転職活動の時期との調整が必要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["業務コンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "business-consultant-skills"
+hub: "business-consultant"
 image: "/images/media/business-consultant-skills.png"
 related: ["business-consultant-english", "business-consultant-resume", "business-consultant-salary-1000", "finance-skills", "embedded-engineer-skills"]
 ---
@@ -22,6 +23,11 @@ related: ["business-consultant-english", "business-consultant-resume", "business
 - **ドメイン層**：特定業界・業務領域（例：SCM、会計・財務、人事・組織、CRM）の専門知識
 
 この三層は独立しているのではなく、相互に補完し合う構造にある。ファウンデーション層が弱ければ、ドメイン知識があっても問題の本質を切り取れない。逆にドメイン層が薄ければ、クライアントとの信頼関係構築に時間がかかりやすく、実装フェーズでの提言が空論になるリスクが高まる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## スキル別の重要度と市場価値への影響
 
@@ -82,6 +88,11 @@ WBS（作業分解構成図）の設計、スケジュール管理、課題・�
 **Phase3（導入・定着支援）**：想定外の抵抗が購買部門から生じた。Aさんはファシリテーションと変革管理のスキルを組み合わせ、現場担当者向けの説明ワークショップを複数回実施し、懸念の解消と新プロセスへの移行をサポートした。
 
 このケースが示すのは、プロジェクトのフェーズによって前面に出るスキルが異なるという点である。単一スキルの深さより、複数スキルを文脈に応じて切り替えられる「スキルの可用性」が市場価値を決める傾向が強い。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

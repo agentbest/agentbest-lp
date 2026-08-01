@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["セキュリティエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "security-engineer-career-path"
+hub: "security-engineer"
 image: "/images/media/security-engineer-career-path.png"
 related: ["security-engineer-failure", "security-engineer-future", "security-engineer-motivation", "partner-sales-career-path", "mlops-engineer-career-path"]
 ---
@@ -31,6 +32,11 @@ related: ["security-engineer-failure", "security-engineer-future", "security-eng
 20代のうちは一つの領域を深めることが優先されやすいが、30代に差し掛かると「自分がどの象限で価値を最大化するか」を意識的に選択する局面が訪れる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代が直面するキャリア分岐点
 
@@ -88,6 +94,11 @@ SaaS企業やテック企業では、プロダクトセキュリティエンジ�
 これらはあくまで市場全体の傾向を示す目安であり、個別の企業・評価・交渉によって大幅に上下する。特に、外資系企業や高成長のスタートアップでは、ストックオプションや業績連動報酬を含めた総報酬での評価が一般的であり、固定給のみの比較では実態を掴みにくい点に留意が必要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

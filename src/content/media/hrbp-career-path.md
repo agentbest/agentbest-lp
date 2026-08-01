@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["人事", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "hrbp-career-path"
+hub: "hrbp"
 image: "/images/media/hrbp-career-path.png"
 related: ["hrbp-skills", "hrbp-salary-1000", "hrbp-career-guide", "thinktank-career-path", "data-consultant-career-path"]
 ---
@@ -30,6 +31,11 @@ related: ["hrbp-skills", "hrbp-salary-1000", "hrbp-career-guide", "thinktank-car
 階層軸では、スタッフ→シニアスタッフ→マネージャー→シニアマネージャー／部長→CHROまたは独立系、というスケールが一般的に存在する。30代はこの軸において「マネージャー以上をどう目指すか」、あるいは「階層を上るより専門性で市場価値を高めるか」という岐路に差し掛かる段階といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代の機能別経験と30代の接続パターン
 
@@ -97,6 +103,11 @@ HRBPとして機能するためには、人事の専門知識に加えて「事�
 このパターンに共通するのは、「現職内での役割拡張」を意図的に設計している点である。転職による機能追加も有効だが、既存環境でのストレッチ経験を積んだうえで転職市場に出る方が、ポジションの獲得確率や条件面での評価を高めやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["モバイルエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-skills"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-skills.png"
 related: ["mobile-engineer-in-20s", "mobile-engineer-interview", "mobile-engineer-in-30s", "embedded-engineer-skills", "pmo-consultant-skills"]
 ---
@@ -27,6 +28,11 @@ related: ["mobile-engineer-in-20s", "mobile-engineer-interview", "mobile-enginee
 転職市場においては、1層だけ深い「スペシャリスト型」よりも、2〜3層を横断して語れるエンジニアが高く評価される傾向がある。採用担当者が面接で確認したいのは、「この人はコードを書けるか」だけでなく「プロダクトの品質と速度をどう両立させてきたか」という文脈理解である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## プラットフォーム別・必須スキルの概観
 
@@ -100,6 +106,11 @@ FlutterやReact Nativeは、スタートアップや中規模のプロダクト�
 - **デザイナーとの協業力**：デザインシステムの実装経験や、Figmaを読み込んで実装に落とし込む能力
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

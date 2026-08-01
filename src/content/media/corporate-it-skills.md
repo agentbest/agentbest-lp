@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["社内SE", "必要スキル"]
 pubDate: 2026-07-04
 slug: "corporate-it-skills"
+hub: "corporate-it"
 image: "/images/media/corporate-it-skills.png"
 related: ["corporate-it-from-scratch", "corporate-it-in-20s", "corporate-it-salary-600", "enterprise-sales-skills", "solution-architect-skills"]
 ---
@@ -36,6 +37,11 @@ related: ["corporate-it-from-scratch", "corporate-it-in-20s", "corporate-it-sala
 この表が示すように、技術系スキルは「基礎資格として必要だが、それだけでは差別化できない」ポジションに置かれることが多い。中堅以上の転職市場では、ビジネス理解とマネジメント力の有無が評価を大きく左右する傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-skills">キャリアを相談する</a>
+</aside>
 
 ## 技術スキルの詳細と優先順位
 
@@ -112,6 +118,11 @@ PMP（Project Management Professional）やIPAのプロジェクトマネージ�
 このケースが示すのは、「何を使ったか」よりも「どんな変化をもたらしたか」を言語化できることの重要性だ。社内SEの市場価値は、技術スタックの豊富さよりも、ビジネス成果との接続で語られる経験の有無に左右されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

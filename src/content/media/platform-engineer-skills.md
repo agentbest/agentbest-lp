@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["プラットフォームエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "platform-engineer-skills"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-skills.png"
 related: ["platform-engineer-in-20s", "platform-engineer-in-30s", "platform-engineer-career-path", "salesforce-consultant-skills", "hrbp-skills"]
 ---
@@ -29,6 +30,11 @@ related: ["platform-engineer-in-20s", "platform-engineer-in-30s", "platform-engi
 これらは独立したスキルセットではなく、互いに連携して機能する。たとえば、クラウドアーキテクチャの知識がなければCI/CDの設計判断は浅くなり、オブザーバビリティの理解がなければ自動化基盤の信頼性担保は難しい。習得の順序と相互依存性を意識することが、成長の効率を左右する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## 優先順位別スキルマップ
 
@@ -106,6 +112,11 @@ SRE（Site Reliability Engineering）の概念の理解も連動して評価さ�
 | リード・スタッフ | IDP設計・組織横断推進・チームビルドを担える | 1,200万円〜 |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["データベースエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "db-engineer-from-scratch"
+hub: "db-engineer"
 image: "/images/media/db-engineer-from-scratch.png"
 related: ["db-engineer-salary-600", "db-engineer-how-to-use-agent", "db-engineer-english", "enterprise-sales-from-scratch", "corporate-planning-from-scratch"]
 ---
@@ -20,6 +21,11 @@ DBエンジニアの業務は、大きく「設計・構築」「運用・保守
 **設計・構築**では、アプリケーションの要件を受けてテーブル設計、正規化、インデックス設計を行い、データベースそのものを構築する。**運用・保守**では、稼働中のデータベースの監視、バックアップ設計、障害対応が中心となる。**チューニング・最適化**は、クエリの実行計画を読み解き、パフォーマンスのボトルネックを特定して改善する高度な業務で、深い実務経験が問われる領域だ。
 
 未経験者が最初に携わりやすいのは運用・保守の周辺業務であり、設計やチューニングは実務経験を積みながら段階的に担当できるようになる構造になっている。この「入口」と「キャリアの奥行き」が明確な職種であるため、学習計画を立てやすい反面、単純な運用担当にとどまると市場価値の向上が停滞しやすいという側面もある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験転職に必要なスキルセット
 
@@ -90,6 +96,11 @@ DBエンジニアの年収は、担う業務の深度と対象システムの規
 最初の1年は監視・バックアップ確認・定例作業が中心。並行して社内の既存スキーマを読む習慣をつけることで、設計の文脈を吸収していった。
 
 このような段階的なアプローチが、未経験転職における実態に近い流れといえる。短期間での即戦力化を期待する求人には適合しにくいが、「育成を前提としたポジション」への応募であれば十分に競争力を持てる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["CTO・VPoE候補", "必要スキル"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-skills"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-skills.png"
 related: ["cto-vpoe-motivation", "cto-vpoe-in-30s", "cto-vpoe-interview", "digital-marketer-skills", "erp-consultant-skills"]
 ---
@@ -22,6 +23,11 @@ CTOは技術戦略の最終意思決定者として、プロダクトのアー�
 VPoE（Vice President of Engineering）は、エンジニアリング組織そのものの設計・運営責任者です。採用・育成・評価制度の設計、開発生産性の管理、チーム間の依存関係のマネジメントなど、「人と組織を通じてアウトプットを最大化する」機能を担います。
 
 両者が同一人物である組織も存在しますが、成長フェーズが一定を超えた企業ではそれぞれ専任が置かれる傾向があります。どちらを志向するかによって、強化すべきスキルの優先順位が変わることを前提として読み進めてください。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値を決めるスキルの全体マップ
 
@@ -100,6 +106,11 @@ CTO・VPoE候補として転職市場に出た場合の年収は、企業のフ�
 | 大手・上場企業 | 500名以上 | 1,800万〜3,000万円以上 |
 
 ストックオプションや業績連動報酬が含まれる場合、上記の固定給部分に加えて総報酬が大きく異なる点に注意が必要です。またスタートアップのCTO兼任ポジションでは、フェーズ初期において報酬水準よりもエクイティの構成が重要な変数になります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

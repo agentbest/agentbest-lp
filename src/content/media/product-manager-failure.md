@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["プロダクトマネージャー", "転職失敗"]
 pubDate: 2026-07-04
 slug: "product-manager-failure"
+hub: "product-manager"
 image: "/images/media/product-manager-failure.png"
 related: ["product-manager-salary-600", "product-manager-salary-1000", "product-manager-certification", "finance-failure", "big4-consultant-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["product-manager-salary-600", "product-manager-salary-1000", "product-
 ### 自己評価と市場評価のズレ
 
 PdMとしての実績は可視化しにくい。「売上をX%向上させた」「DAUをY万人伸ばした」という数値はある程度示せるが、それが自分の意思決定によるものか、市場環境やエンジニアリングの貢献によるものかを切り分けることは難しい。この曖昧さが、過剰な自己評価にも過小な自己評価にもつながりやすく、年収交渉や役割期待値の設定を歪める要因になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある転職失敗パターン5類型
 
@@ -88,6 +94,11 @@ PdMの年収はポジションのスコープ・在籍企業のフェーズ・�
 | VP of Product / CPO候補 | 1,300万円〜 | 事業フェーズ・組織規模で大きく変わる |
 
 交渉においては、「市場に出回っているオファーの最高値」を基準にするより、自分がその企業においてどの程度の価値を生み出せるかを具体的に語れる状態で臨む方が、入社後の期待値のミスマッチを防ぎやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

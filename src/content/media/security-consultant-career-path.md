@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["セキュリティコンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "security-consultant-career-path"
+hub: "security-consultant"
 image: "/images/media/security-consultant-career-path.png"
 related: ["security-consultant-english", "security-consultant-in-30s", "security-consultant-market-trend", "marketing-manager-career-path", "partner-sales-career-path"]
 ---
@@ -31,6 +32,11 @@ related: ["security-consultant-english", "security-consultant-in-30s", "security
 多くのセキュリティコンサルタントは20代後半までに特定の区分でのジュニア〜ミドルレベルの経験を積み、30代前半にシニアコンサルタントやリードとしてプロジェクトを主導する役割に移行する。この時点で「自分はどの方向で市場価値を高めるか」を明示的に考えておくと、その後の選択が整合的になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## 30代で現れる三つの主要なキャリア分岐
 
@@ -91,6 +97,11 @@ related: ["security-consultant-english", "security-consultant-in-30s", "security
 この型が示すことは、「現在の技術軸に隣接するスキル領域を在職中に仕込む」という準備と、「外部市場での価値を数値で確認する」という行動の組み合わせが、30代のキャリア転換では機能しやすいということである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

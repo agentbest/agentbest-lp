@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["モバイルエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-english"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-english.png"
 related: ["mobile-engineer-resume", "mobile-engineer-salary", "mobile-engineer-in-30s", "engineering-manager-english", "security-consultant-english"]
 ---
@@ -24,6 +25,11 @@ related: ["mobile-engineer-resume", "mobile-engineer-salary", "mobile-engineer-i
 | 海外本社またはフルリモート（グローバル） | ビジネス会話〜流暢に近いレベル | 海外スタートアップ、外資系本社採用、海外リモート |
 
 重要なのは、「英語ができないと採用されない求人がある」のではなく、「英語ができると応募できる求人の絶対数が増える」という理解の仕方です。国内向けの事業会社や受託開発の現場では、英語力が問われないケースのほうが依然として多数派です。一方で、外資系テックジャイアントの日本拠点やグローバルプロダクトを開発しているスタートアップでは、採用時点でのリーディング能力と、チームとのテキストコミュニケーション能力が前提になる傾向があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## 実務における英語の使用場面
 
@@ -79,6 +85,11 @@ OSSに貢献する際や、英語を公用語とするチームで働く場合�
 1. **技術の深化（〜3年）** SwiftUI・Jetpack Composeなどのモダンな開発スキル、設計パターンの理解、テスト・CI/CDの実装経験を積む
 2. **英語技術情報の習慣化（2年目ごろから並行）** 公式ドキュメントを原文で読む習慣、英語のコミットメッセージ・Issue作成を実践する
 3. **英語コミュニケーションの実用化（上位ポジション転職の前後）** オンライン英会話や英語ミーティングへの参加を通じて、スピーキングの実用レベルを上げる
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

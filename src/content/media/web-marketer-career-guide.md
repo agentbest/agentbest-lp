@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["Webマーケター", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "web-marketer-career-guide"
+hub: "web-marketer"
 image: "/images/media/web-marketer-career-guide.png"
 related: ["web-marketer-how-to-use-agent", "web-marketer-skills", "web-marketer-in-30s", "strategy-consultant-career-guide", "scm-consultant-career-guide"]
 ---
@@ -35,6 +36,11 @@ Webマーケターの転職市場は、職種名の広さゆえに「同じ職�
 実務では複数の領域を掛け持ちするケースが多い一方、大手企業やスタートアップのPMF後フェーズでは専門化が進んでいる。転職先の規模感や成長フェーズによって、求められる幅と深さのバランスが変わる点を意識しておきたい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## Webマーケターの市場価値を構造的に理解する
 
@@ -117,6 +123,11 @@ Webマーケターは成果が数値として残りやすい職種でありな�
 オファー提示後の交渉は可能だが、「なぜその金額が妥当か」という根拠を用意することが前提となる。現在の年収だけでなく、担当していた施策の事業インパクト、希望先のポジションレンジなどを把握したうえで、具体的な数値を示して交渉するほうが受け入れられやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

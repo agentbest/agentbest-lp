@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["組み込みエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-motivation"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-motivation.png"
 related: ["embedded-engineer-english", "embedded-engineer-company-size", "embedded-engineer-interview", "pmo-motivation", "bridge-se-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["embedded-engineer-english", "embedded-engineer-company-size", "embedd
 逆に言えば、これら3点のどれかが欠けた志望動機は、どれほど熱意の言葉を重ねても評価されにくい構造になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構成フレーム
 
@@ -125,6 +131,11 @@ related: ["embedded-engineer-english", "embedded-engineer-company-size", "embedd
 | 経験者（異なるデバイス領域から） | 技術的な共通点と新領域への意欲 | 現職域の否定ではなく「次のフェーズ」として描く |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["経営企画", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "corporate-planning-career-guide"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-career-guide.png"
 related: ["corporate-planning-salary-1000", "corporate-planning-in-30s", "corporate-planning-certification", "digital-marketer-career-guide", "network-engineer-career-guide"]
 ---
@@ -30,6 +31,11 @@ related: ["corporate-planning-salary-1000", "corporate-planning-in-30s", "corpor
 スタートアップやメガベンチャーでは、これらに加えて事業推進・新規事業開発・IR対応まで担うことがあり、「経営企画」という肩書きが指すスコープは実質的に幅広い。転職活動においては、求人票の職種名ではなく、業務範囲と意思決定への関与度を個別に確認することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 経営企画の市場価値と年収レンジ
 
@@ -102,6 +108,11 @@ related: ["corporate-planning-salary-1000", "corporate-planning-in-30s", "corpor
 - 経営企画と財務・事業部の権限バランス
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

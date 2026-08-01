@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["DXコンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "dx-consultant-salary-1000"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-salary-1000.png"
 related: ["dx-consultant-skills", "dx-consultant-company-size", "dx-consultant-career-path", "platform-engineer-salary-1000", "backend-engineer-salary-1000"]
 ---
@@ -34,6 +35,11 @@ DXコンサルタントとして年収1,000万円に到達することは、職�
 コンサルティングファームでは年次・グレード制による固定的な昇給が基本となり、マネージャー職に昇格した段階で年収1,000万円前後に到達するケースが多い。一方、SaaSベンダーや独立型では売上貢献や案件獲得に連動するインセンティブ・変動報酬の比率が高く、同じポジション名でも個人差が大きくなる。到達を目指す際には、自分がどちらの報酬モデルに適合するかを見極めることが重要な判断軸となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリアの特徴
 
@@ -95,6 +101,11 @@ DXという領域は技術側とビジネス側の中間に位置する。技術
 - 年収水準が構造的に低い業態（事業会社の一部）にとどまっている
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

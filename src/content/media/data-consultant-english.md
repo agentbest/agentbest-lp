@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["データ・アナリティクスコンサルタント", "英語力"]
 pubDate: 2026-07-05
 slug: "data-consultant-english"
+hub: "data-consultant"
 image: "/images/media/data-consultant-english.png"
 related: ["data-consultant-how-to-use-agent", "data-consultant-career-path", "data-consultant-salary-600", "tech-lead-english", "sap-consultant-english"]
 ---
@@ -32,6 +33,11 @@ related: ["data-consultant-how-to-use-agent", "data-consultant-career-path", "da
 インドや東南アジアのオフショアエンジニアリングチームと連携するプロジェクトでは、モデル設計の意図の共有・コードレビューのフィードバック・スプリント運営が英語で行われるケースがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-english">無料で相談する</a>
+</aside>
 
 ## 求人市場の実態：英語要件と求人数の関係
 
@@ -98,6 +104,11 @@ related: ["data-consultant-how-to-use-agent", "data-consultant-career-path", "da
 ステークホルダーとの要件定義・ワークショップ・レビューセッションを英語で主導できるかどうかは、シニアポジションへの移行において重要な評価軸となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["GovTech", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "govtech-industry-company"
+hub: "govtech-industry"
 image: "/images/media/govtech-industry-company.png"
 related: ["govtech-industry-career", "govtech-industry-trend", "govtech-industry-salary", "iot-industry-company", "edtech-industry-company"]
 ---
@@ -30,6 +31,11 @@ GovTech領域への転職を検討するとき、「官公庁・自治体向け�
 この3点を踏まえた上で、企業を評価するための具体的な軸に移る。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-company">キャリアを相談する</a>
+</aside>
 
 ## 企業を評価するための5つの判断軸
 
@@ -105,6 +111,11 @@ GovTechにおける企業の競争力は、「どこまで標準化されたプ�
 重要なのは、収益構造やスケール設計の理解なしに「GovTechだから安定」と判断しないことである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-company">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

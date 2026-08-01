@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["社内SE", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "corporate-it-career-path"
+hub: "corporate-it"
 image: "/images/media/corporate-it-career-path.png"
 related: ["corporate-it-certification", "corporate-it-company-size", "corporate-it-in-30s", "fullstack-engineer-career-path", "db-engineer-career-path"]
 ---
@@ -31,6 +32,11 @@ related: ["corporate-it-certification", "corporate-it-company-size", "corporate-
 この類型は固定的ではなく、多くの社内SEが複数を兼務しながら経験を積む。問題は、兼務の結果として「何でもできるが、何かの専門家でもない」という状態に陥りやすい点にある。30代でキャリアを考える際、この点が最初の論点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代社内SEが直面するキャリアの分岐点
 
@@ -103,6 +109,11 @@ related: ["corporate-it-certification", "corporate-it-company-size", "corporate-
 基礎的なITパスポート・基本情報技術者は、すでに実務経験がある30代の評価には大きく影響しない。取得済みであれば問題ないが、これから取得するためにリソースを投じるのは費用対効果が低い傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

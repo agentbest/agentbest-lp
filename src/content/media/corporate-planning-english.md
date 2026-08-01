@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["経営企画", "英語力"]
 pubDate: 2026-07-04
 slug: "corporate-planning-english"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-english.png"
 related: ["corporate-planning-company-size", "corporate-planning-salary-1000", "corporate-planning-from-scratch", "pr-english", "pmo-english"]
 ---
@@ -32,6 +33,11 @@ related: ["corporate-planning-company-size", "corporate-planning-salary-1000", "
 外資系企業の日本法人において、報告体系が英語で設計されている職場では、内部資料・スラックのメッセージ・戦略レビューのデッキまで英語が基幹言語となります。日本語での業務が例外的な扱いになるため、ビジネス英語の運用能力は採用の絶対要件です。このような環境では、英語力そのものよりも「英語で戦略的な議論ができるかどうか」が評価軸になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-english">無料で相談する</a>
+</aside>
 
 ## 英語力の有無が求人数と年収に与える影響
 
@@ -72,6 +78,11 @@ related: ["corporate-planning-company-size", "corporate-planning-salary-1000", "
 - **外資系と日系グローバル、どちらを志向するか：** 外資系は英語が前提となるため採用基準が厳しい一方、報酬水準が高い傾向があります。日系グローバル企業は英語力の要件がより柔軟で、段階的にキャリアを積みやすい側面があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

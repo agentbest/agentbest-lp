@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["業務コンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "business-consultant-in-30s"
+hub: "business-consultant"
 image: "/images/media/business-consultant-in-30s.png"
 related: ["business-consultant-resume", "business-consultant-skills", "business-consultant-in-20s", "game-engineer-in-30s", "saas-sales-in-30s"]
 ---
@@ -32,6 +33,11 @@ related: ["business-consultant-resume", "business-consultant-skills", "business-
 実際のプロジェクトでは三者が重なり合うケースも多く、業務コンサルタントがIT要件の調整に踏み込んだり、業務改革の方向性として事業戦略の議論に参加したりすることも珍しくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代転職において採用側が見ているもの
 
@@ -104,6 +110,11 @@ related: ["business-consultant-resume", "business-consultant-skills", "business-
 30代転職の場合、前職の年収・経験年数・ドメインの希少性によってエントリー職位が変わりやすい。事業会社から未経験に近い状態で転職する場合は「コンサルタント」職位からのスタートとなることが多く、コンサルティングファームやSIerで近接経験がある場合は「シニアコンサルタント」相当での採用提示を受けるケースも見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

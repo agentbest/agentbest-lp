@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["SCM・調達コンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "scm-consultant-career-path"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-career-path.png"
 related: ["scm-consultant-failure", "scm-consultant-work-style", "scm-consultant-salary-600", "ml-engineer-career-path", "platform-engineer-career-path"]
 ---
@@ -22,6 +23,11 @@ SCM（サプライチェーンマネジメント）および調達領域のコ�
 この職域の市場価値の源泉は、「再現可能な課題解決の型を持っているか」にあります。製造業・流通業・小売業といった異なる業種をまたいで、調達コスト削減・リードタイム短縮・在庫水準の適正化を数値で示した経験が積み上がるほど、エージェントに対する説明力が高まります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## 30代のキャリアパスにおける主要な分岐
 
@@ -79,6 +85,11 @@ SCM（サプライチェーンマネジメント）および調達領域のコ�
 この事例において重要なのは、「何を積みたいか」の解像度です。組織マネジメントとグローバル経験を優先するなら事業会社、SCMテクノロジーの商業的活用に関心があるならSaaSという選択が整合的といえます。ファームを継続する場合は、パートナー昇進に向けたビジネスデベロップメントへの明確な意志が問われる段階です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

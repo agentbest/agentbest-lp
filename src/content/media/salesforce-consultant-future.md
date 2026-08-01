@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["Salesforceコンサルタント", "将来性"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-future"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-future.png"
 related: ["salesforce-consultant-failure", "salesforce-consultant-interview", "salesforce-consultant-salary-1000", "sre-future", "risk-consultant-future"]
 ---
@@ -24,6 +25,11 @@ Salesforceは世界的にCRM市場におけるシェアを保ち続けており�
 ただし「需要がある＝どのコンサルタントも安泰」とはならない。後述するように、求められるスキルの質が変化しており、一定の適応ができない場合は案件単価・キャリア上の評価が停滞する可能性がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-future">無料で相談する</a>
+</aside>
 
 ## AI時代が変えるSalesforceコンサルタントの役割
 
@@ -101,6 +107,11 @@ Agentforceのような生成AIエージェント機能をどの業務課題に�
 AI・自動化が進んでも、システム導入後の「人が変わるプロセス」は人間が設計・推進するしかない。利用率を上げるためのKPIの設定・経営層との合意形成・現場ユーザーの抵抗への対処といった能力は、ツールがいくら進化しても代替されにくい。この軸を持つコンサルタントは、プロジェクトの成否に直結する存在として評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

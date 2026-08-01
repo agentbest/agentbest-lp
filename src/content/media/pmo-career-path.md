@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["PMO", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "pmo-career-path"
+hub: "pmo"
 image: "/images/media/pmo-career-path.png"
 related: ["pmo-career-guide", "pmo-salary-1000", "pmo-failure", "business-consultant-career-path", "security-consultant-career-path"]
 ---
@@ -18,6 +19,11 @@ PMOというポジションは、プロジェクト管理支援という性質�
 PMOの仕事は本質的に支援機能であるため、成果が「プロジェクトの成功」に帰属しやすく、自身の市場価値として可視化しにくい側面がある。加えて、PMOという肩書きは組織によって役割の範囲が大きく異なる。スケジュール管理と進捗報告にほぼ限定されるケースもあれば、ガバナンス設計やポートフォリオマネジメントまで担うケースもある。
 
 この定義の曖昧さが、「PMOとして何年やっても次のステップが見えない」という感覚を生む一因だと考えられる。キャリアを設計するうえでは、まず自分が担っているPMO業務の実態——意思決定への関与度、組織横断の範囲、扱う課題の複雑さ——を正確に言語化することが出発点になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-career-path">キャリアを相談する</a>
+</aside>
 
 ## PMOの役割レベルと年収の目安
 
@@ -68,6 +74,11 @@ Product Manager（プロダクトマネージャー）への転向は、特にIT
 **転職活動での論点**：PMOとしての実績を「何を管理したか」ではなく「何が問題でどう変えたか」という課題解決の文脈で語ることが評価につながった。SIer出身のため、ITシステム領域の業務知識とPMOとしての構造整理力を組み合わせることで、ITコンサル・業務改革系のコンサルファームとの親和性を提示できた。
 
 **留意点**：面接では「コンサルタントとしてどんな課題に向き合いたいか」という仮説力を問われる。この問いに対して、PMO経験から導かれる自分なりの仮説を持っていることが評価ポイントとなりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

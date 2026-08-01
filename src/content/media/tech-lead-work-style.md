@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["テックリード", "働き方"]
 pubDate: 2026-07-04
 slug: "tech-lead-work-style"
+hub: "tech-lead"
 image: "/images/media/tech-lead-work-style.png"
 related: ["tech-lead-career-guide", "tech-lead-future", "tech-lead-certification", "infra-engineer-work-style", "pr-work-style"]
 ---
@@ -30,6 +31,11 @@ related: ["tech-lead-career-guide", "tech-lead-future", "tech-lead-certification
 つまり「テックリードは激務か」という問いに対しては、「ポジション設計・組織規模・フェーズによって大きく異なる」が最も正確な答えになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 激務度に影響する主要因
 
@@ -119,6 +125,11 @@ related: ["tech-lead-career-guide", "tech-lead-future", "tech-lead-certification
 シニアが揃っているため、テックリードの実装比率は50〜60%程度を確保しやすい。ただし横断プロジェクトの巻き込まれ次第で変動する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

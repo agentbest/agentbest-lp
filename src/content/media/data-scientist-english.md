@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["データサイエンティスト", "英語力"]
 pubDate: 2026-07-04
 slug: "data-scientist-english"
+hub: "data-scientist"
 image: "/images/media/data-scientist-english.png"
 related: ["data-scientist-resume", "data-scientist-in-20s", "data-scientist-from-scratch", "saas-sales-english", "hr-consultant-english"]
 ---
@@ -33,6 +34,11 @@ related: ["data-scientist-resume", "data-scientist-in-20s", "data-scientist-from
 - **国内完結型企業**：英語は論文読解程度で済むことが多く、日常業務での使用頻度は低い傾向にある
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力が求人数・年収に与える影響
 
@@ -88,6 +94,11 @@ TOEIC 800台・英語での技術文書作成が可能になったタイミン�
 TOEIC等のスコアは企業の足切り基準として機能することもあるため、目標とする市場区分に応じてスコアを意識することは有用だが、スコアよりも実際の運用能力が選考で重視されるケースが増えている点は留意したい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

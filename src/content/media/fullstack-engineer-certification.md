@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["フルスタックエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-certification"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-certification.png"
 related: ["fullstack-engineer-career-path", "fullstack-engineer-company-size", "fullstack-engineer-salary", "business-planning-certification", "scm-consultant-certification"]
 ---
@@ -26,6 +27,11 @@ related: ["fullstack-engineer-career-path", "fullstack-engineer-company-size", "
 - **社内評価・報酬テーブルとの連動**：一部企業では資格保有が等級要件や手当の対象になっている
 
 逆に、資格が機能しにくい場面としては、スタートアップや外資系のソフトウェアエンジニア採用、OSSコントリビューションやGitHub上の実績が重視される環境が挙げられる。こうした文脈では、資格よりもポートフォリオや技術発信の方が評価に直結しやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格の傾向と特徴
 
@@ -79,6 +85,11 @@ Webスタートアップで5年間バックエンド中心に開発してきた�
 この場合、面接での技術力の証明は実績ベースで行えるが、書類スクリーニングを通過する確度という観点では資格が機能した。一方で、資格取得よりも先に技術ポートフォリオや職務経歴書の整理に時間を費やした方が、複数社に並行してアプローチできるという判断もあり得る。
 
 この事例が示すのは、「資格が採用決定を左右するわけではないが、特定の採用フローにおいてスクリーニング通過の確度を高める補助として機能する」という構造である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

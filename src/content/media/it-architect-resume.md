@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["ITアーキテクト", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "it-architect-resume"
+hub: "it-architect"
 image: "/images/media/it-architect-resume.png"
 related: ["it-architect-future", "it-architect-career-path", "it-architect-company-size", "db-engineer-resume", "scm-consultant-resume"]
 ---
@@ -30,6 +31,11 @@ ITアーキテクトの転職において、職務経歴書は書類選考を突
 転職市場において「ITアーキテクト」というタイトルが自己申告である場合も多く、職務経歴書の内容によってどの水準として評価されるかが決まります。タイトルに頼らず、実際に担った意思決定の質と範囲を丁寧に記述することが求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -111,6 +117,11 @@ ITアーキテクトの職務経歴書でよく見られる課題を整理しま
 **成果の定量化が抽象的**：「パフォーマンスが改善した」「安定性が向上した」という表現は、可能な範囲で数値や変化量を添えるとより説得力が増します。守秘義務の範囲内で、相対値・割合・比較期間を添えるだけでも効果的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

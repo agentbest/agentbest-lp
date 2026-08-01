@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["組み込みエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-failure"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-failure.png"
 related: ["embedded-engineer-market-trend", "embedded-engineer-how-to-use-agent", "embedded-engineer-career-guide", "digital-marketer-failure", "fullstack-engineer-failure"]
 ---
@@ -34,6 +35,11 @@ related: ["embedded-engineer-market-trend", "embedded-engineer-how-to-use-agent"
 組み込みは成果物を外部に公開しにくい領域である。製品化されたものは守秘義務があり、PoC段階のコードは社外持ち出し不可というケースも多い。「何を作ったか」を説明できても、「どう難しかったか」「なぜその設計を選んだか」を言語化する訓練が不足している転職者が目立つ。これが書類・面接双方で評価のブレにつながる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## フェーズ別・よくある失敗とその回避策
 
@@ -117,6 +123,11 @@ related: ["embedded-engineer-market-trend", "embedded-engineer-how-to-use-agent"
 - [ ] オファーレターの年収・等級・評価制度の詳細を確認したか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

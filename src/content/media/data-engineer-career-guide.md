@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["データエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "data-engineer-career-guide"
+hub: "data-engineer"
 image: "/images/media/data-engineer-career-guide.png"
 related: ["data-engineer-company-size", "data-engineer-future", "data-engineer-how-to-use-agent", "project-manager-career-guide", "partner-sales-career-guide"]
 ---
@@ -35,6 +36,11 @@ related: ["data-engineer-company-size", "data-engineer-future", "data-engineer-h
 転職市場においては、この全領域を網羅する「フルスタック型」だけでなく、特定領域の深い専門性を持つ「スペシャリスト型」も高く評価される傾向にある。自身がどのポジションに近いかを整理しておくことが、求人のマッチング精度を高める上で重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-career-guide">無料で相談する</a>
+</aside>
 
 ## 市場価値の構造――年収レンジとスキルの関係
 
@@ -104,6 +110,11 @@ GitHubやZenn・個人ブログなどで、自身が構築したパイプライ�
 データエンジニアのポジションは、一般的な転職媒体だけでなく、IT・テック特化型の媒体やエージェントが求人量・質ともに充実している傾向がある。特に外資系やスタートアップのポジションは、媒体に掲載されないケースも多いため、複数チャネルを並行して活用することが推奨される。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

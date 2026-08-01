@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["業務コンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "business-consultant-motivation"
+hub: "business-consultant"
 image: "/images/media/business-consultant-motivation.png"
 related: ["business-consultant-certification", "business-consultant-salary-600", "business-consultant-skills", "dev-director-motivation", "frontend-engineer-motivation"]
 ---
@@ -31,6 +32,11 @@ related: ["business-consultant-certification", "business-consultant-salary-600",
 特に独立系・専業系のコンサルティングファームでは、類似したサービスを提供する競合他社との比較がされやすいです。「御社のプロジェクト実績に魅力を感じた」という記述は、選択理由として弱い。どの領域の、どのような課題に対するアプローチが自分のキャリア目標と接続しているかを示す必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -105,6 +111,11 @@ related: ["business-consultant-certification", "business-consultant-salary-600",
 | 異業種からの転向 | 業務課題への当事者経験 | 「なぜ今コンサルへ」という転換の論理を丁寧に説明する |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

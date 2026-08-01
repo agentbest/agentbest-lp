@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["データサイエンティスト", "30代転職"]
 pubDate: 2026-07-04
 slug: "data-scientist-in-30s"
+hub: "data-scientist"
 image: "/images/media/data-scientist-in-30s.png"
 related: ["data-scientist-interview", "data-scientist-skills", "data-scientist-motivation", "tech-lead-in-30s", "web-marketer-in-30s"]
 ---
@@ -23,6 +24,11 @@ related: ["data-scientist-interview", "data-scientist-skills", "data-scientist-m
 - **職種転換転職**：SIer、コンサル、事業会社の企画・マーケティング職など隣接領域から転換する転職
 
 後者は「未経験転職」と呼ばれることもあるが、30代においては完全な未経験という文脈が成立しにくい。何らかの業務でデータに関わった経験や、ビジネス課題の構造化経験が評価の起点になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 即戦力採用で問われる4つの評価軸
 
@@ -95,6 +101,11 @@ related: ["data-scientist-interview", "data-scientist-skills", "data-scientist-m
 ### 誤り3：職種転換の説明が「動機」で終わる
 
 「データサイエンスに興味を持ったから」という動機説明では、30代転職の文脈として不足する。「これまでの業務経験でこういう課題感が生じ、データサイエンスの手法で解決できると判断した」という問題意識の流れが、採用担当者の納得感につながる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

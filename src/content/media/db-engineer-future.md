@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["データベースエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "db-engineer-future"
+hub: "db-engineer"
 image: "/images/media/db-engineer-future.png"
 related: ["db-engineer-in-20s", "db-engineer-company-size", "db-engineer-career-path", "data-scientist-future", "finance-future"]
 ---
@@ -34,6 +35,11 @@ related: ["db-engineer-in-20s", "db-engineer-company-size", "db-engineer-career-
 二つ目は、AIシステムの基盤としてのデータベース需要の拡大である。RAG（Retrieval-Augmented Generation）アーキテクチャの普及に伴い、ベクトルデータベース（pgvector・Pinecone・Weaviate等）の設計・運用経験を持つエンジニアへの需要が急速に高まっている。また、LLMへの入力となるデータの品質管理・パイプライン構築においても、データベース設計の知識が前提になるケースが増えている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-future">無料で相談する</a>
+</aside>
 
 ## スキルセットの市場価値：現状と展望
 
@@ -87,6 +93,11 @@ dbt・Airflow・Sparkといったデータパイプラインツールをデー�
 **ポイント：** 「レガシーの深い理解」と「モダン技術への適応」を両立させたことで、単なるクラウドエンジニアでも単なるRDBMS専門家でもない独自のポジションを確立した。既存の専門性を「捨てる」のではなく「接続する」発想が重要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

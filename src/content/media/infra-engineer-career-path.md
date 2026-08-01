@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["インフラエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "infra-engineer-career-path"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-career-path.png"
 related: ["infra-engineer-english", "infra-engineer-resume", "infra-engineer-certification", "hrbp-career-path", "pr-career-path"]
 ---
@@ -28,6 +29,11 @@ related: ["infra-engineer-english", "infra-engineer-resume", "infra-engineer-cer
 この3軸は排他的ではなく、実際には「深化しながら越境する」「マネジメントに移行しながら技術的権威も保つ」といった複合的な動きが多い。ただし、30代以降はこれらの方向性を意識的に選ばないと、どの軸においても中途半端な立ち位置になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-career-path">無料で相談する</a>
+</aside>
 
 ## 年代別・スキル別のポジション分布
 
@@ -93,6 +99,11 @@ Aさんが迷っているのは、（1）クラウドアーキテクト方向に
 マネージャー志向がある場合は、現職でのリード経験獲得が近道になりやすい。セキュリティへの越境は、CISSP・CompTIA Security+などの取得と並行して、現職で関連業務（脆弱性診断補助・セキュリティ設計レビュー等）に関わることがスムーズな移行を促す。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

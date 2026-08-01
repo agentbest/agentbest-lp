@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["採用担当", "面接対策"]
 pubDate: 2026-07-04
 slug: "recruiter-interview"
+hub: "recruiter"
 image: "/images/media/recruiter-interview.png"
 related: ["recruiter-how-to-use-agent", "recruiter-career-path", "recruiter-motivation", "fas-consultant-interview", "security-engineer-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["recruiter-how-to-use-agent", "recruiter-career-path", "recruiter-moti
 これらを踏まえると、採用担当の面接準備は「何を話すか」よりも「どの粒度・視点で語るか」の設計が重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -113,6 +119,11 @@ HRBPとしての素養や、ビジネスパートナーとしての姿勢を測�
 エンジニア採用は技術的知識がなければできないという誤解が面接官側にある場合もあります。「技術的な評価は現場エンジニアと連携して行い、自身は候補者体験・クロージング・採用要件の言語化を担った」という役割分担の明示と、採用した人材のその後の活躍（離職率・評価結果など）を語れると、採用の質に責任を持っていたことが伝わりやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

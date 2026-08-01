@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["PMO", "英語力"]
 pubDate: 2026-07-04
 slug: "pmo-english"
+hub: "pmo"
 image: "/images/media/pmo-english.png"
 related: ["pmo-interview", "pmo-from-scratch", "pmo-market-trend", "freelance-consultant-english", "fas-consultant-english"]
 ---
@@ -32,6 +33,11 @@ PMOとして英語力が求められる場面は、職場環境や案件特性�
 PMBOKやPrince2などのフレームワーク文書、グローバル共通のプロジェクト管理ツール（Jira・Confluenceの英語設定など）を扱う際には、英語の読解力が実務に直結します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力がPMOの求人市場に与える影響
 
@@ -107,6 +113,11 @@ PMBOKガイドや各PMI発行文書は英語が原典です。日本語訳と原
 社内に外国籍メンバーがいる場合、観察者として英語会議に参加するだけでもリスニング力の訓練になります。徐々に発言機会を作り、英語でのファシリテーション経験に繋げていく段階的なアプローチが現実的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

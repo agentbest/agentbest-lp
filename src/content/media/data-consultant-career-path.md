@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["データ・アナリティクスコンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "data-consultant-career-path"
+hub: "data-consultant"
 image: "/images/media/data-consultant-career-path.png"
 related: ["data-consultant-market-trend", "data-consultant-company-size", "data-consultant-motivation", "ai-engineer-career-path", "pmo-career-path"]
 ---
@@ -39,6 +40,11 @@ related: ["data-consultant-market-trend", "data-consultant-company-size", "data-
 多くの人にとって30代前半が最初の大きな分岐点となる。後述するが、この時期の選択が「以降のキャリアの文脈」を決定する傾向が強い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代で選べる主なキャリアパス
 
@@ -110,6 +116,11 @@ related: ["data-consultant-market-trend", "data-consultant-company-size", "data-
 技術スキルはあくまで前提条件として評価されることが多く、上記の要素の有無がポジションの幅を決める傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

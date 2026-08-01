@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["ゲームエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "game-engineer-resume"
+hub: "game-engineer"
 image: "/images/media/game-engineer-resume.png"
 related: ["game-engineer-failure", "game-engineer-motivation", "game-engineer-in-30s", "pmo-consultant-resume", "mobile-engineer-resume"]
 ---
@@ -37,6 +38,11 @@ Web系のエンジニアであれば「〇〇サービスの機能開発」と�
 これらが抜け落ちていると、採用側は「プロとして完成品を出した経験があるのか」「規模感のある組織で連携した経験はあるか」を読み取れない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の基本構成と各項目の書き方
 
@@ -119,6 +125,11 @@ Web系のエンジニアであれば「〇〇サービスの機能開発」と�
 情報量は増えているが、採用側が「この人に何を任せられるか」「技術的にどの水準か」「チームの中でどういう役割を担える人か」を判断できる記述になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

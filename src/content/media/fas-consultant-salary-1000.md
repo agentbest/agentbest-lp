@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["会計・財務コンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "fas-consultant-salary-1000"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-salary-1000.png"
 related: ["fas-consultant-resume", "fas-consultant-from-scratch", "fas-consultant-motivation", "fullstack-engineer-salary-1000", "ai-engineer-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["fas-consultant-resume", "fas-consultant-from-scratch", "fas-consultan
 この表から読み取れる重要な示唆は、会計系コンサルファームにおいては**マネージャー昇格が年収1,000万円到達の実質的な閾値**になりやすいという点です。一方、事業会社経由でもCFOや財務部長クラスに到達すれば同水準に届く構造になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収1,000万円到達が「難しい」のではなく「遅れやすい」理由
 
@@ -90,6 +96,11 @@ related: ["fas-consultant-resume", "fas-consultant-from-scratch", "fas-consultan
 これらの壁を乗り越えるために有効なアプローチのひとつは、定期的に転職市場における自己評価を更新することです。オファーを受けるかどうかに関わらず、転職エージェントとの対話を通じて市場相場・需要領域・ポジションの選択肢を把握することは、現職でのキャリア交渉にも間接的に有効に機能します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

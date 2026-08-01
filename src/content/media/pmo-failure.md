@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["PMO", "転職失敗"]
 pubDate: 2026-07-04
 slug: "pmo-failure"
+hub: "pmo"
 image: "/images/media/pmo-failure.png"
 related: ["pmo-salary-600", "pmo-interview", "pmo-motivation", "security-engineer-failure", "it-consultant-failure"]
 ---
@@ -28,6 +29,11 @@ PMOが転職先として難しい理由は、「PMO」という職名の定義�
 前職がどのタイプだったかに関わらず、転職先が異なるタイプであれば、求められるスキルセットも日常業務の粒度もまったく変わります。求人票の「PMO経験者歓迎」という文言だけでは、このギャップを事前に見抜くことができないため、選考段階での情報収集が特に重要になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターン5選
 
@@ -110,6 +116,11 @@ PMOの年収は、業種・会社規模・職位によって幅が大きいで�
 - [ ] 使用するフレームワーク・ツールは業界標準に近いか、社内独自のものか
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

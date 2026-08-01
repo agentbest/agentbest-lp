@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["DevOpsエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "devops-engineer-salary-1000"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-salary-1000.png"
 related: ["devops-engineer-interview", "devops-engineer-salary-600", "devops-engineer-career-guide", "freelance-consultant-salary-1000", "mobile-engineer-salary-1000"]
 ---
@@ -30,6 +31,11 @@ DevOpsエンジニアの年収は、経験年数・担当領域・事業環境�
 1,000万円は「上位層の入口」に相当します。到達率は決して高くありませんが、特定のスキルと環境が揃えば到達可能なゾーンであり、「一部の例外が届く水準」とは性質が異なります。条件が整った場合に、6〜10年程度のキャリアで現実的に視野に入る水準と理解するのが適切です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 到達者に共通するスキルの構造
 
@@ -108,6 +114,11 @@ DevOpsエンジニアの年収は、経験年数・担当領域・事業環境�
 このパターンに共通するのは、「実装の質を高めながら、設計の上流を担う機会を自ら作る」という行動です。待機的にポジションが与えられるのを待つのではなく、スコープを能動的に広げた点が特徴的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

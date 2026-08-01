@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["機械学習エンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "ml-engineer-career-guide"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-career-guide.png"
 related: ["ml-engineer-english", "ml-engineer-future", "ml-engineer-in-30s", "recruiter-career-guide", "big4-consultant-career-guide"]
 ---
@@ -31,6 +32,11 @@ related: ["ml-engineer-english", "ml-engineer-future", "ml-engineer-in-30s", "re
 転職活動においては、どの役割を志望するかを自己分析段階で明確にしておくことが重要だ。求人票の「機械学習エンジニア」という名称だけでは実態が把握しにくいため、JDに記載された技術スタックや業務詳細を丁寧に読み解く必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-career-guide">無料で相談する</a>
+</aside>
 
 ## 求められるスキルと評価軸
 
@@ -122,6 +128,11 @@ GitHubやKaggle上の成果は補助的な参考資料として有効だが、�
 専門性の高いポジションでは、エージェント経由でないと表に出ない非公開求人も多い。一方で、GitHubやLinkedInを経由したスカウト・ダイレクトリクルーティングも機械学習領域では活発なため、両方を並行させることが情報の網羅性という観点から有効だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

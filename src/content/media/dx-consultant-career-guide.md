@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["DXコンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "dx-consultant-career-guide"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-career-guide.png"
 related: ["dx-consultant-motivation", "dx-consultant-career-path", "dx-consultant-english", "security-consultant-career-guide", "pmo-career-guide"]
 ---
@@ -32,6 +33,11 @@ DXコンサルタントへの転職を検討する際、多くの候補者が直
 大手ファームのDXコンサルタントであれば、週の大半をクライアント先に常駐しながら、ステークホルダーへのヒアリング、ワークショップ設計・ファシリテーション、成果物の作成と上位レビューに費やすことが一般的です。プロジェクトの期間は3か月〜1年超まで幅があり、複数プロジェクトの掛け持ちも珍しくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## DXコンサルタントの市場価値と報酬水準
 
@@ -105,6 +111,11 @@ DXコンサルタントとしての転職は、プロジェクトの区切り（
 また、コンサルファームの採用は通年行われる場合が多い一方、事業会社の採用は予算確定後の4〜6月・10〜12月に求人が増える傾向があります。市場のタイミングと個人の状況を照らし合わせながら、活動開始時期を設計するのが現実的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

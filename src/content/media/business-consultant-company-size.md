@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["業務コンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "business-consultant-company-size"
+hub: "business-consultant"
 image: "/images/media/business-consultant-company-size.png"
 related: ["business-consultant-english", "business-consultant-how-to-use-agent", "business-consultant-career-guide", "it-architect-company-size", "frontend-engineer-company-size"]
 ---
@@ -22,6 +23,11 @@ related: ["business-consultant-english", "business-consultant-how-to-use-agent",
 一方、スタートアップにおける業務コンサルタント（あるいはそれに相当するポジション）は、役割の境界が曖昧である傾向があります。提案から実行、場合によっては運用まで、一人で担うことが多く、管理会計や採用・組織設計といった隣接領域まで関与を求められるケースも珍しくありません。「コンサルタント」という肩書より「事業推進」「BizOps」「PMO」といった呼称で採用されることもあります。
 
 この違いは優劣ではなく、構造の違いです。どちらが自分の志向と合致するかを判断する前提として、この違いを認識しておくことが重要です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## 四軸での比較
 
@@ -69,6 +75,11 @@ ITコンサル経験3年・30歳前後。上流工程での提案経験はある
 大手ファーム出身・32歳。案件経験を5年積んだが、「絵を描くだけでなく、実行まで携わりたい」という動機が強くなっている。シリーズBのSaaS系スタートアップに業務推進責任者として参画。KPI設計・オペレーション構築・採用要件定義まで一手に担い、入社2年でBizOps領域でのリードポジションを確立。
 
 このパターンが機能する条件は、「ファームでの経験を実行に転換したい」という明確な意志と、不確実性を前向きに捉えられる志向性が伴っていることです。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

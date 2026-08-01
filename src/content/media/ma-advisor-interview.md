@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["M&Aアドバイザー", "面接対策"]
 pubDate: 2026-07-04
 slug: "ma-advisor-interview"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-interview.png"
 related: ["ma-advisor-from-scratch", "ma-advisor-in-20s", "ma-advisor-career-guide", "web-marketer-interview", "ml-engineer-interview"]
 ---
@@ -30,6 +31,11 @@ M&Aアドバイザーのポジションには、大きく分けて「インバ�
 上記の違いを踏まえず、すべての面接で同一の回答軸を持ち込むと、組織との適合性を疑われやすい。まず応募先が「どの機能をアドバイザーに期待しているか」を解像度高く理解することが、対策の起点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-interview">無料で相談する</a>
+</aside>
 
 ## フェーズ別の頻出質問と回答の組み立て方
 
@@ -101,6 +107,11 @@ M&Aアドバイザーは財務面のリードを担いながらも、法律事�
 特にオーナー系企業の売却案件では、財務的合理性だけでなく、創業者の心理的抵抗や後継者問題への感度が案件の成否を左右しやすい。こうした非定量的な局面をどう乗り越えたかを語れると、面接官の印象に残りやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

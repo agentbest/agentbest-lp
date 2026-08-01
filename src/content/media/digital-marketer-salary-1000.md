@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["デジタルマーケター", "年収1000万"]
 pubDate: 2026-07-04
 slug: "digital-marketer-salary-1000"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-salary-1000.png"
 related: ["digital-marketer-skills", "digital-marketer-english", "digital-marketer-market-trend", "corporate-planning-salary-1000", "db-engineer-salary-1000"]
 ---
@@ -47,6 +48,11 @@ related: ["digital-marketer-skills", "digital-marketer-english", "digital-market
 広告運用だけ、SEOだけといった単一チャネルの実務者は市場に一定数存在する。希少性が高まるのは、チャネル横断の戦略立案・データ分析・プロダクト理解・英語対応などの組み合わせが加わった時点からである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円に到達しやすいキャリアパス
 
@@ -111,6 +117,11 @@ SaaS・EC・メディアなど、マーケティングが事業の中核にあ�
 転職市場での評価において、「担当しました」と「○○という仮説のもとで○○を実施し、結果として○○の指標が○○%改善しました」では、評価が大きく異なる。実績の言語化は、日常業務の中で習慣として積み上げておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

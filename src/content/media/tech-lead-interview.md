@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["テックリード", "面接対策"]
 pubDate: 2026-07-04
 slug: "tech-lead-interview"
+hub: "tech-lead"
 image: "/images/media/tech-lead-interview.png"
 related: ["tech-lead-salary-600", "tech-lead-salary", "tech-lead-skills", "ma-advisor-interview", "business-planning-interview"]
 ---
@@ -29,6 +30,11 @@ related: ["tech-lead-salary-600", "tech-lead-salary", "tech-lead-skills", "ma-ad
 これらは独立して問われるわけではなく、一つの質問の中に複数の軸が混在しています。回答を組み立てる際は、「どの軸で評価されているか」を意識しながら構造化することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問カテゴリ別・回答の組み立て方
 
@@ -113,6 +119,11 @@ IT・SaaS・コンサル領域のテックリードポジションでは特に�
 スタートアップのシリーズA前後と、大企業のプロダクト部門とでは、テックリードに求められる比重が異なります。前者では0→1の判断力と速度感、後者では組織規模に見合ったプロセス設計や調整力が重視される傾向があります。応募先がどのフェーズにあり、技術組織の課題が何かを事前に分析した上で、エピソードの選び方を調整することが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

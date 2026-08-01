@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["広報／PR", "英語力"]
 pubDate: 2026-07-04
 slug: "pr-english"
+hub: "pr"
 image: "/images/media/pr-english.png"
 related: ["pr-interview", "pr-salary-1000", "pr-from-scratch", "digital-marketer-english", "pmo-consultant-english"]
 ---
@@ -46,6 +47,11 @@ related: ["pr-interview", "pr-salary-1000", "pr-from-scratch", "digital-marketer
 **PR・コミュニケーションコンサルタント（外資系クライアント対応）**：クライアントが外資系企業の場合、担当者として日常的な英語コミュニケーションが発生します。コンサルファームの広報・PR部門でも同様の状況が生じやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-english">無料で相談する</a>
+</aside>
 
 ## 英語力が年収・ポジションに与える影響
 
@@ -96,6 +102,11 @@ TOEICスコアについては、600点台では「読み書きの基礎がある
 広報・PR職でまず求められるのはスピーキング流暢性よりも「正確な情報を正しく伝えるライティング能力」であることが多く、会話より先に読み書きを鍛えることが実務への近道になりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

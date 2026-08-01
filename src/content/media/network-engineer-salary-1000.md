@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["ネットワークエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "network-engineer-salary-1000"
+hub: "network-engineer"
 image: "/images/media/network-engineer-salary-1000.png"
 related: ["network-engineer-career-guide", "network-engineer-salary", "network-engineer-company-size", "backend-engineer-salary-1000", "mobile-engineer-salary-1000"]
 ---
@@ -28,6 +29,11 @@ related: ["network-engineer-career-guide", "network-engineer-salary", "network-e
 この表から読み取れる通り、1,000万円は「シニア〜スペシャリスト層」の上位に位置する水準であり、市場全体から見れば少数派に当たる。しかし「到達できない例外的な水準」ではなく、特定のキャリア戦略を意識的に実行した人が辿り着く領域と捉えるのが実態に近い。
 
 重要なのは、同じ経験年数でも在籍する企業種別や担う役割によって年収に大きな差が生まれる点である。ネットワーク運用・監視を中心とする受託ポジションと、大規模クラウドインフラのアーキテクト職では、技術の難易度だけでなく事業への貢献インパクトが異なり、報酬設計に反映されやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 到達者に共通する3つのキャリアパターン
 
@@ -88,6 +94,11 @@ related: ["network-engineer-career-guide", "network-engineer-salary", "network-e
 転職後の年収は1,100万円程度に到達。技術の方向性を「オンプレの深化」から「ハイブリッドへの拡張」へシフトしたことが、市場での希少性につながったケースである。
 
 この型に共通するのは、「既存の強みを捨てず、市場ニーズとの接続点を見つけてスキルセットを更新した」点にある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["バックエンドエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "backend-engineer-failure"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-failure.png"
 related: ["backend-engineer-market-trend", "backend-engineer-career-guide", "backend-engineer-skills", "security-engineer-failure", "corporate-it-failure"]
 ---
@@ -26,6 +27,11 @@ related: ["backend-engineer-market-trend", "backend-engineer-career-guide", "bac
 この3層はそれぞれ独立しておらず、情報収集が甘いまま判断を急ぐと、交渉フェーズでも誤った条件を受け入れてしまう。以下では各層を掘り下げる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## 情報収集フェーズでよくある失敗
 
@@ -123,6 +129,11 @@ related: ["backend-engineer-market-trend", "backend-engineer-career-guide", "bac
 - [ ] 入社時期について現職の引き継ぎを考慮した上で交渉したか
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

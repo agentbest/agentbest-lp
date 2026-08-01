@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["データサイエンティスト", "志望動機"]
 pubDate: 2026-07-04
 slug: "data-scientist-motivation"
+hub: "data-scientist"
 image: "/images/media/data-scientist-motivation.png"
 related: ["data-scientist-market-trend", "data-scientist-english", "data-scientist-career-guide", "presales-motivation", "db-engineer-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["data-scientist-market-trend", "data-scientist-english", "data-scienti
 とくにデータサイエンティスト職は、職種のなかでも「なんとなく需要があるから」という動機での応募が多いと見なされる傾向があります。それだけに、論理的な文脈と業務への具体的な解像度が、他候補者との差別化につながりやすいポイントです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -101,6 +107,11 @@ related: ["data-scientist-market-trend", "data-scientist-english", "data-scienti
 自分のバックグラウンドに「不足」と見なされやすい側面があるとすれば、志望動機のなかでそこに触れたうえで補完行動を示すことが、透明性のある候補者という印象につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

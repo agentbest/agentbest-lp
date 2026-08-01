@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["QAエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "qa-engineer-in-30s"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-in-30s.png"
 related: ["qa-engineer-future", "qa-engineer-salary-1000", "qa-engineer-interview", "web-marketer-in-30s", "ml-engineer-in-30s"]
 ---
@@ -20,6 +21,11 @@ related: ["qa-engineer-future", "qa-engineer-salary-1000", "qa-engineer-intervie
 一方で、採用市場における30代への期待値は明確に高い。20代の採用と比較して、ポテンシャルよりも即時の業務貢献が前提となる。具体的には、テスト設計・実行の経験にとどまらず、QAプロセスの改善提案、テスト自動化の推進、あるいはQAチームのリード経験が選考の判断軸になりやすい。
 
 また、30代転職者のバックグラウンドは大きく二つに分かれる。一つは開発エンジニアやインフラエンジニアからQAへの転向。もう一つは、すでにQAとして5年以上の経験を持ち、ポジションや環境を変える転職である。前者は技術的深度を活かした「自動化QA」への参入として評価されやすく、後者はQAプロセス設計やマネジメント経験が評価の中心になる傾向がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 求められるスキルセットの実態
 
@@ -82,6 +88,11 @@ QAエンジニアの業務は、開発チーム・プロダクトマネージャ
 **選考での評価ポイント**：開発視点での品質リスク理解と、自動化への技術的素地があることが高く評価された。「QAの文脈で開発を語れるエンジニア」という希少性が、20代の未経験者や純粋なQA経験者との差別化につながった。
 
 **結果の傾向**：スタートアップ・成長期SaaSを中心に複数のオファーを得やすく、年収も現職維持またはやや増加という着地になりやすい型である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

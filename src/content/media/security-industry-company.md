@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["サイバーセキュリティ", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "security-industry-company"
+hub: "security-industry"
 image: "/images/media/security-industry-company.png"
 related: ["security-industry-trend", "security-industry-salary", "security-industry-guide", "fintech-industry-company", "web3-industry-company"]
 ---
@@ -35,6 +36,11 @@ related: ["security-industry-trend", "security-industry-salary", "security-indus
 この分類を軸に「自分がどの専門領域で市場価値を高めたいか」を先に定めることが、企業選びの出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-company">無料で相談する</a>
+</aside>
 
 ## 技術的成長環境を評価する5つの指標
 
@@ -108,6 +114,11 @@ MDRやSOC系の企業では、SIEM・SOAR・EDRへの投資水準が技術者の
 このケースにおいて、「攻撃技術を主軸にキャリアを構築したい」という目標が明確であれば、選択肢Bが志向と一致する。一方で、「まずセキュリティの全体像を掴みたい」という段階であれば、選択肢Aも有力な選択肢になりうる。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

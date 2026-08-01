@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["事業開発", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "bizdev-company-size"
+hub: "bizdev"
 image: "/images/media/bizdev-company-size.png"
 related: ["bizdev-english", "bizdev-career-path", "bizdev-certification", "ma-advisor-company-size", "data-scientist-company-size"]
 ---
@@ -22,6 +23,11 @@ related: ["bizdev-english", "bizdev-career-path", "bizdev-certification", "ma-ad
 スタートアップにおける事業開発は、より広義かつ流動的な業務範囲を持つ傾向がある。PMF（プロダクト・マーケット・フィット）前後の段階では、顧客開拓・提携交渉・事業仮説の検証・プロダクトチームへのフィードバックループ構築など、マーケティング・セールス・プロダクトと領域が重なる業務を担うことが多い。「事業をゼロから動かす」という性質が強く、意思決定のスピードと実行密度が全く異なる。
 
 この構造的な差異を理解せずに転職すると、「想定していた仕事と違う」という感覚を抱きやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 4軸での比較
 
@@ -93,6 +99,11 @@ related: ["bizdev-english", "bizdev-career-path", "bizdev-certification", "ma-ad
 - 曖昧な状況でも自己判断・自走できる
 - 中長期で起業・独立・事業家としてのキャリアを描いている
 - 報酬の一部不確実性を受け入れられる生活設計になっている
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

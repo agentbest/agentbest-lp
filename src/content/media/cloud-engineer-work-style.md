@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["クラウドエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-work-style"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-work-style.png"
 related: ["cloud-engineer-motivation", "cloud-engineer-salary", "cloud-engineer-in-30s", "thinktank-work-style", "sap-consultant-work-style"]
 ---
@@ -22,6 +23,11 @@ related: ["cloud-engineer-motivation", "cloud-engineer-salary", "cloud-engineer-
 3. **クラウド成熟度（導入期・移行期・安定運用期）**
 
 これらの組み合わせによって、日常的な業務の密度、残業時間、リモートワークの比率が大きく変化する。一口に「クラウドエンジニア」と言っても、AWS環境の新規構築を担うプロジェクトに参加しているエンジニアと、既存のインフラを安定運用しながら最適化を推進するエンジニアとでは、日々の働き方はほぼ別職種に近い。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## フェーズ別の業務負荷
 
@@ -91,6 +97,11 @@ related: ["cloud-engineer-motivation", "cloud-engineer-salary", "cloud-engineer-
 - **マルチクラウド（AWS＋GCP / Azureなど）**：大規模移行案件での需要
 
 スキルが上がるほど「案件を選ぶ」側に立ちやすくなり、労働条件・リモート比率・残業量などの交渉余地が生まれる。逆に言えば、特定のクラウドサービスの操作しかできない状態では、条件の良いポジションへの移行が難しくなる局面もある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

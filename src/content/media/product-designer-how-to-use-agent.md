@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["プロダクトデザイナー", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "product-designer-how-to-use-agent"
+hub: "product-designer"
 image: "/images/media/product-designer-how-to-use-agent.png"
 related: ["product-designer-motivation", "product-designer-interview", "product-designer-in-20s", "bizdev-how-to-use-agent", "infra-engineer-how-to-use-agent"]
 ---
@@ -40,6 +41,11 @@ related: ["product-designer-motivation", "product-designer-interview", "product-
 エージェントは複数の企業・候補者の報酬事例を把握しており、交渉の際のリファレンスとして機能しうる。候補者が直接交渉するよりも、第三者が市場相場を根拠に提示する方が受け入れられやすい場合がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェント活用が合わない場面
 
@@ -101,6 +107,11 @@ IT・SaaS・スタートアップに特化したエージェントは、デザ�
 エージェントに「現在の年収水準」「希望年収と根拠」「他社のオファー状況（ある場合）」を正確に伝えた上で、交渉を委ねる。感情的な交渉を避けられる点と、相場観を根拠にした提示が可能になる点が利点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["PMOコンサルタント", "職務経歴書"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-resume"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-resume.png"
 related: ["pmo-consultant-how-to-use-agent", "pmo-consultant-future", "pmo-consultant-skills", "frontend-engineer-resume", "bizdev-resume"]
 ---
@@ -26,6 +27,11 @@ PMOの業務は、プロジェクト推進の「裏方」として機能する�
 さらに、コンサルタントとしての観点が加わると、「問題を発見・定義し、構造化して解決策を設計したプロセス」を示すことが求められます。単なる管理補佐的なPMOと、コンサルタント的PMOとでは、採用側の期待値が異なるため、自分がどちら側に寄ったキャリアを積んできたかを意識して記述する必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の基本構成と各セクションの方針
 
@@ -101,6 +107,11 @@ PMBOKやPRINCE2などのプロジェクト管理手法、アジャイル・ス�
 資格については、PMP（Project Management Professional）やPMS（プロジェクトマネージャ試験・IPA）などは取得の事実を記載するだけでなく、「大規模プロジェクト参画中に取得・実務適用」など文脈と結びつけると、実践性の証明として機能しやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

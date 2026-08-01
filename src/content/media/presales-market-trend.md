@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["セールスエンジニア／プリセールス", "市場動向"]
 pubDate: 2026-07-04
 slug: "presales-market-trend"
+hub: "presales"
 image: "/images/media/presales-market-trend.png"
 related: ["presales-company-size", "presales-resume", "presales-english", "pr-market-trend", "fullstack-engineer-market-trend"]
 ---
@@ -32,6 +33,11 @@ related: ["presales-company-size", "presales-resume", "presales-english", "pr-ma
 3. **カスタマーサクセスとの境界の曖昧化**：プリセールスフェーズとポストセールスフェーズを一気通貫で担う「テクニカルアカウントマネージャー（TAM）」型の求人も増加しており、SEとしてのキャリアがより多様な方向に分岐しやすくなっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 業種・規模別の採用ニーズ比較
 
@@ -108,6 +114,11 @@ AI・生成AIを活用したソリューションの普及に伴い、SE職の�
 年収変化としては、前職比で1〜2割程度の増加となるケースが多い傾向があるが、外資系の評価制度・インセンティブ設計によって実収入の変動幅は大きくなりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

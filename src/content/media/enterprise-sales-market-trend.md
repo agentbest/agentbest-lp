@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["エンタープライズセールス", "市場動向"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-market-trend"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-market-trend.png"
 related: ["enterprise-sales-career-path", "enterprise-sales-career-guide", "enterprise-sales-future", "saas-sales-market-trend", "devops-engineer-market-trend"]
 ---
@@ -31,6 +32,11 @@ related: ["enterprise-sales-career-path", "enterprise-sales-career-guide", "ente
 - **AI・データ関連スタートアップ**：エンタープライズ領域への本格参入フェーズに入った企業
 
 これらの採用主体によって求められる経験の重みが異なる点は、転職活動において見落とされやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-market-trend">無料で相談する</a>
+</aside>
 
 ## 求人数・報酬水準の傾向
 
@@ -89,6 +95,11 @@ related: ["enterprise-sales-career-path", "enterprise-sales-career-guide", "ente
 **転職後の変化と課題**：セールスフォースを中心としたCRM運用・パイプライン管理・ウィンロス分析のプロセスへの適応に最初の3〜4ヶ月を要した。一方で業種知識の深さがすぐに信頼につながり、早期に大型案件の担当を任された。
 
 **示唆**：業種知識・大型案件経験はSIer出身者にも十分移転可能であり、「SaaSの作法」への適応意欲と学習速度を選考でどう伝えるかが転職成否を左右しやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

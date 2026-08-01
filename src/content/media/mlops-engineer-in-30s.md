@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["MLOpsエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-in-30s"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-in-30s.png"
 related: ["mlops-engineer-skills", "mlops-engineer-salary-1000", "mlops-engineer-career-guide", "it-consultant-in-30s", "cto-vpoe-in-30s"]
 ---
@@ -22,6 +23,11 @@ MLOpsとは、機械学習モデルの開発・学習・デプロイ・監視・
 日本国内では、MLOpsという職種名での採用が本格化したのは2020年代以降であり、専門職として体系化されている期間はまだ短い状況です。このことが採用構造に二つの影響を与えています。
 
 一つは、経験者の絶対数が少ないこと。もう一つは、企業によって求める役割の粒度が大きく異なることです。ある企業では機械学習パイプラインの設計が中心業務となり、別の企業ではクラウドインフラの管理やデータ品質の担保が主たる業務になります。転職活動では、求人票の「MLOpsエンジニア」という表記の背後にある具体的な業務内容を精査することが不可欠です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## 30代転職で問われる「即戦力」の実態
 
@@ -90,6 +96,11 @@ Kubernetes・CI/CDの実務経験を持ち、Pythonでのアプリケーショ�
 事業会社のデータプラットフォームチームにMLOpsエンジニアとして入社。既存のバックエンドエンジニア時代の年収から約150万円程度の改善。業務では当初KubernetesベースのMLパイプライン管理を担当し、6ヶ月後にはFeatureStoreの設計にも関与するようになりました。
 
 このケースが示すのは、未経験からの転換ではなく「既存の強みをMLOpsの文脈に接続する」という戦略が、30代転職では現実的な経路になりやすいということです。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

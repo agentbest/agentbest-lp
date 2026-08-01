@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["ゲームエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "game-engineer-interview"
+hub: "game-engineer"
 image: "/images/media/game-engineer-interview.png"
 related: ["game-engineer-work-style", "game-engineer-how-to-use-agent", "game-engineer-career-path", "data-consultant-interview", "web-marketer-interview"]
 ---
@@ -30,6 +31,11 @@ related: ["game-engineer-work-style", "game-engineer-how-to-use-agent", "game-en
 経験年数や応募職位によって比重は変わるが、3〜5年以上の経験者には設計・思想面の問いが増える傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-interview">無料で相談する</a>
+</aside>
 
 ## カテゴリ別の頻出質問と回答の組み立て方
 
@@ -97,6 +103,11 @@ related: ["game-engineer-work-style", "game-engineer-how-to-use-agent", "game-en
 特に「なぜゲーム開発か」という問いに対しては、業界愛の表明に終わらず、「ゲームというプロダクトの特性（リアルタイム処理・高い没入感の要求・インタラクティビティ）が技術的に面白い」という観点で語れると、エンジニアとしての動機の深さが伝わりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

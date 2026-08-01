@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["SRE", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "sre-company-size"
+hub: "sre"
 image: "/images/media/sre-company-size.png"
 related: ["sre-salary", "sre-certification", "sre-future", "uiux-designer-company-size", "finance-company-size"]
 ---
@@ -20,6 +21,11 @@ SRE（Site Reliability Engineering）は、Googleが体系化したとされる�
 重要なのは、「SRE」という肩書きが会社によって指す職責の範囲が大きく異なるという点だ。大手企業では専門化が進んでおり、SREはSLO設計やトイル削減、インシデント対応プロセスの整備に集中できることが多い。一方スタートアップでは、SREがインフラ設計・コスト最適化・セキュリティ対応・CI/CD整備をほぼ一手に担うケースも珍しくない。
 
 この「職責の広さ」の違いが、成長の方向性・スピード・年収レンジ・将来の転職市場での見え方にすべて影響する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-company-size">キャリアを相談する</a>
+</aside>
 
 ## 大手とスタートアップの主要項目比較
 
@@ -79,6 +85,11 @@ SRE経験が3年未満で、SREプラクティスの体系的な理解がまだ�
 ### 生活・リスク許容度
 
 ストックオプションの価値は実現するまで確定しない。家族構成・ライフステージ・財務的な余裕度によって、固定給の安定性に置くウェイトは当然変わる。収入の安定を優先すべき時期にスタートアップを選ぶ場合は、基本給の水準とエクイティの条件を詳細に確認することが重要だ。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

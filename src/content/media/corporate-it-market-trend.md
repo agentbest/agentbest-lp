@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["社内SE", "市場動向"]
 pubDate: 2026-07-04
 slug: "corporate-it-market-trend"
+hub: "corporate-it"
 image: "/images/media/corporate-it-market-trend.png"
 related: ["corporate-it-salary", "corporate-it-resume", "corporate-it-salary-600", "data-engineer-market-trend", "risk-consultant-market-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["corporate-it-salary", "corporate-it-resume", "corporate-it-salary-600
 また、業種別に見ると、製造業・小売業・医療・金融といった、従来ITリソースを外部依存してきた業種での内製化需要が顕著に高まっている。大手ITベンダー出身者やSIer経験者が「顧客企業の内側」に転じるキャリアパスが増加しているのは、この需要を背景としている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの質的変化
 
@@ -87,6 +93,11 @@ CIOやCDO直下のポジションを中心に、ITロードマップの策定・
 逆に、スキルセットが技術寄りに特化している場合（インフラ構築・コーディングが主業務だった場合）は、事業会社の社内SEポジションへの評価が下がりやすい傾向がある。その場合は、IT企画よりもクラウドエンジニア・インフラエンジニア側のポジションを検討することが合理的な場合もある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

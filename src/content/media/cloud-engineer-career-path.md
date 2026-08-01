@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["クラウドエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-career-path"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-career-path.png"
 related: ["cloud-engineer-salary-1000", "cloud-engineer-salary", "cloud-engineer-failure", "pmo-consultant-career-path", "mobile-engineer-career-path"]
 ---
@@ -24,6 +25,11 @@ related: ["cloud-engineer-salary-1000", "cloud-engineer-salary", "cloud-engineer
 30代に入ると、技術習熟度が一定水準に達したうえで「何を強みとして打ち出すか」という問いが顕在化しやすい。技術専門家として深く掘り下げるか、チームや組織を動かす側に軸足を移すか、あるいは事業側に近づくかという選択が実務を通じて問われ始める。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代で現れる主な分岐点
 
@@ -83,6 +89,11 @@ related: ["cloud-engineer-salary-1000", "cloud-engineer-salary", "cloud-engineer
 フリーランスを選ぶ動機が「単純な収入増」であれば、外資系企業や高待遇のスタートアップへの正社員転職という選択肢も比較対象として検討する価値がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

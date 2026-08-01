@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["不動産テック", "業界年収"]
 pubDate: 2026-07-05
 slug: "proptech-industry-salary"
+hub: "proptech-industry"
 image: "/images/media/proptech-industry-salary.png"
 related: ["proptech-industry-trend", "proptech-industry-career", "proptech-industry-guide", "adtech-industry-salary", "govtech-industry-salary"]
 ---
@@ -28,6 +29,11 @@ related: ["proptech-industry-trend", "proptech-industry-career", "proptech-indus
 業界全体として、エンジニア・プロダクトマネージャーはIT業界に準じた水準、営業・事業開発は不動産業の慣習を脱した成果連動型の設計を取る企業が増えています。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種別年収レンジの目安
 
@@ -100,6 +106,11 @@ SaaS型のように月次・年次で収益が積み上がるビジネスモデ�
 企業が「すぐに採用できなければ事業進行に支障が出る」と判断している職種であれば、交渉余地は広がりやすくなります。求人票の採用背景・配属先の状況を丁寧にヒアリングすることで、この判断材料を得やすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

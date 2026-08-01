@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["インサイドセールス", "年収1000万"]
 pubDate: 2026-07-03
 slug: "inside-sales-salary-1000"
+hub: "inside-sales"
 image: "/images/media/inside-sales-salary-1000.png"
 related: ["inside-sales-english", "inside-sales-salary-600", "inside-sales-motivation", "network-engineer-salary-1000", "hr-consultant-salary-1000"]
 ---
@@ -25,6 +26,11 @@ related: ["inside-sales-english", "inside-sales-salary-600", "inside-sales-motiv
 | 5年以上（部門責任者・ISコンサルタント） | 800〜1,100万円以上 | 外資系・成熟SaaS・コンサル転身 |
 
 この表からわかる通り、年収1,000万円に近づくためには「経験年数の蓄積」だけでなく、「役割の高度化」と「市場の選択」が必要になります。同じインサイドセールスという肩書きでも、国内中堅SaaS企業のシニアSDRと外資系ソフトウェア企業のIS部門長では、報酬体系の設計自体が異なります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリアパターン
 
@@ -67,6 +73,11 @@ related: ["inside-sales-english", "inside-sales-salary-600", "inside-sales-motiv
 第二に、職種としての歴史が浅いため、「IS出身の上位ポジション」のロールモデルがまだ少なく、社内での昇進ルートが整備されていない企業が多い状況です。
 
 これらの構造的な問題を踏まえると、企業の「IS職に対する投資意識」と「報酬設計の透明性」を転職時に確認することは、中長期のキャリア設計において重要な判断軸になります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

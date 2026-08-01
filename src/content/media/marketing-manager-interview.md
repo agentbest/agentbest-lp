@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["マーケティングマネージャー", "面接対策"]
 pubDate: 2026-07-04
 slug: "marketing-manager-interview"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-interview.png"
 related: ["marketing-manager-motivation", "marketing-manager-company-size", "marketing-manager-market-trend", "devops-engineer-interview", "fullstack-engineer-interview"]
 ---
@@ -31,6 +32,11 @@ related: ["marketing-manager-motivation", "marketing-manager-company-size", "mar
 特にSaaS企業やコンサルティングファームでは、「マーケティングが事業数値にどう接続しているか」を非常に重視する傾向がある。施策の精度よりも、施策と事業KPIの論理的なつながりを説明できるかが問われやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -118,6 +124,11 @@ SaaS・IT領域の企業では、マーケティング予算がARR（年間経�
 これらを整理することで、質問が変わっても一貫した回答の「素材」を持った状態で面接に臨めるようになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

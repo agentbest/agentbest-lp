@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["フィンテック", "業界年収"]
 pubDate: 2026-07-05
 slug: "fintech-industry-salary"
+hub: "fintech-industry"
 image: "/images/media/fintech-industry-salary.png"
 related: ["fintech-industry-guide", "fintech-industry-company", "fintech-industry-trend", "security-industry-salary", "ai-industry-salary"]
 ---
@@ -22,6 +23,11 @@ related: ["fintech-industry-guide", "fintech-industry-company", "fintech-industr
 1. **企業のフェーズ**：グロース期のスタートアップか、既存大手か、外資系かによって基本給・インセンティブの設計が異なる
 2. **職種の希少性**：金融知識とエンジニアリングの両方を要求されるポジションは相対的に高水準になりやすい
 3. **収益モデルとの連動性**：手数料・スプレッド収益を直接生み出す職種（プロダクト・セールス・リスク管理）は評価されやすい
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種別の年収レンジ目安
 
@@ -94,6 +100,11 @@ Series B以降で大型資金調達を完了した企業は、採用競争力を
 ### ベンチマークを複数持つ
 
 「前職の給与」ではなく、「当該職種・スキルセットに対する市場相場」を根拠に交渉することが基本です。IT・SaaS市場との横断比較も有効です。フィンテックのエンジニア報酬はSaaS系とほぼ同水準か、金融知識の希少性によってそれ以上になる場合もあります。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

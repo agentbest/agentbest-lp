@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["ブリッジSE", "市場動向"]
 pubDate: 2026-07-04
 slug: "bridge-se-market-trend"
+hub: "bridge-se"
 image: "/images/media/bridge-se-market-trend.png"
 related: ["bridge-se-interview", "bridge-se-english", "bridge-se-resume", "data-scientist-market-trend", "data-analyst-market-trend"]
 ---
@@ -27,6 +28,11 @@ related: ["bridge-se-interview", "bridge-se-english", "bridge-se-resume", "data-
 
 **第三に、採用企業の業種分布の拡散。**  
 以前はSIer・受託開発会社・ゲーム会社といった業種が主な採用元だったが、現在は事業会社がオフショア開発を内製化する流れのなかで、EC・フィンテック・ヘルステック・製造業のDX推進部門などからの採用ニーズが増加している。事業会社採用の場合、待遇水準が一般的にSIerよりも幅広くなる傾向があり、ポジションによってはマネジメント職として採用されるケースもある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 拠点別・規模別の採用ニーズの違い
 
@@ -79,6 +85,11 @@ SIer在籍中にベトナム拠点とのウォーターフォール型開発プ�
 生成AIおよびコード自動生成ツールの普及は、オフショア開発の業務量分布に変化をもたらしつつある。単純なコーディング工程は自動化圧力を受ける一方で、**要件の整理・仕様の曖昧さの解消・品質判断・文化的背景を踏まえたコミュニケーション設計**といった領域は依然として人間が担う部分が大きい。
 
 これはブリッジSEにとって、「言語の橋渡し役」から「知識・判断の統合者」へのロール再定義を意味する。具体的には、AIツールを活用して仕様ドキュメントを効率化しながら、人間にしか担えない「解釈の調整」に注力できる人材が評価されやすい方向へ市場が移行しつつある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

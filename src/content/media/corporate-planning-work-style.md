@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["経営企画", "働き方"]
 pubDate: 2026-07-04
 slug: "corporate-planning-work-style"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-work-style.png"
 related: ["corporate-planning-from-scratch", "corporate-planning-motivation", "corporate-planning-resume", "thinktank-work-style", "mobile-engineer-work-style"]
 ---
@@ -28,6 +29,11 @@ related: ["corporate-planning-from-scratch", "corporate-planning-motivation", "c
 - **経営層との距離**：CEOや取締役に近いポジションほど、深夜・休日の緊急対応が求められる局面が生じやすい
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業タイプ別の働き方比較
 
@@ -98,6 +104,11 @@ IR対応や外部開示資料の責任範囲が増加。決算発表前後の繁
 コンサルティングファーム出身者が経営企画に転職した場合、「プロジェクトが終わっても仕事が終わらない」という感覚を持つケースがある一方、「決裁者が社内にいる分、実行速度が出る」という点に満足感を覚えるケースも多く見られます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

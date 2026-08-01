@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["セールスエンジニア／プリセールス", "英語力"]
 pubDate: 2026-07-03
 slug: "presales-english"
+hub: "presales"
 image: "/images/media/presales-english.png"
 related: ["presales-market-trend", "presales-failure", "presales-in-30s", "ai-engineer-english", "embedded-engineer-english"]
 ---
@@ -32,6 +33,11 @@ related: ["presales-market-trend", "presales-failure", "presales-in-30s", "ai-en
 1. **一次情報へのアクセス**：製品リリースノート、セキュリティアドバイザリ、APIドキュメント、プロダクトブログは英語で発信されることが多い。翻訳を待たずに情報を取得・顧客に提供できるSEは、技術的信頼性が高まる。
 2. **グローバルコミュニティへの参加**：Slack・Discordベースの製品コミュニティ、海外カンファレンス（AWS re:Invent、Dreamforceなど）で得た知識を商談に活かせる。
 3. **社内コミュニケーションの幅**：外資系企業でのポジションでは、英語でのプレゼンや技術Q&Aを求められる場面が定期的に発生する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力別の求人と年収の傾向
 
@@ -80,6 +86,11 @@ related: ["presales-market-trend", "presales-failure", "presales-in-30s", "ai-en
 スピーキングの流暢さよりも、「技術的に正確な内容を簡潔に伝える」力の方がSEの文脈では評価されやすい。完璧な発音よりも、PoC結果を英語で構造的に説明できることの方が実務的な価値が高い。
 
 また、担当製品の英語ドキュメントを読む習慣を持つことは、英語力と技術理解の双方を同時に強化する。特定のプロダクト（CRM・セキュリティ・データ基盤など）のリリースノートや技術ブログを継続的に読むことで、専門語彙が自然に積み上がる傾向がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

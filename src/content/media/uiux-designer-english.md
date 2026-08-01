@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["UI/UXデザイナー", "英語力"]
 pubDate: 2026-07-04
 slug: "uiux-designer-english"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-english.png"
 related: ["uiux-designer-from-scratch", "uiux-designer-salary", "uiux-designer-certification", "db-engineer-english", "partner-sales-english"]
 ---
@@ -28,6 +29,11 @@ UI/UXデザイナーとして市場で活躍するうえで、英語力がどこ
 外資系企業のUI/UXデザイナー求人では、応募要件として「英語でのコミュニケーション能力」を明示しているケースが多く見られます。ここでいう英語力は、流暢な会話能力を指すとは限らず、「英語で設計仕様書を読み書きできる」「英語のデザインレビューに参加できる」といった業務遂行レベルを意味することがほとんどです。
 
 一方、国内に本社を置く企業でも、海外展開をしているプロダクトや、海外チームと協業する組織においては、英語を「あれば望ましい」スキルとして評価する傾向があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-english">無料で相談する</a>
+</aside>
 
 ## 英語力別・求人と年収の傾向
 
@@ -75,6 +81,11 @@ FigmaのプラグインドキュメントやAPIリファレンス、アクセシ
 - **キャリア初期（経験1〜3年）**：まずUI/UXデザインの専門スキルの深化を優先するのが合理的です。英語は並行して読解力から着手し、ツールや論文の一次情報にアクセスできるレベルを目指すことが現実的な目安です。
 - **中堅層（経験4〜7年）**：求人の選択肢を広げる段階として、ビジネス会話レベルへの到達を視野に入れると、グローバル求人へのアクセスが実質的に拡大します。
 - **シニア層（経験8年以上）**：デザインリードやマネジメント層のポジションを目指す場合、英語での利害関係者とのコミュニケーション能力は採用側から明確に評価されやすい傾向があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

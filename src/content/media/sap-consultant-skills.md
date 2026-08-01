@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["SAPコンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "sap-consultant-skills"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-skills.png"
 related: ["sap-consultant-english", "sap-consultant-company-size", "sap-consultant-career-path", "engineering-manager-skills", "marketing-manager-skills"]
 ---
@@ -22,6 +23,11 @@ SAPコンサルタントに求められるスキルは、大きく「SAP技術�
 多くの求人票やスキルシートでは技術スキルが前面に出るが、実際のプロジェクト評価や年収レンジに影響するのは三層目のコンサルティングスキルであることが多い。逆に言えば、技術スキルはある水準を超えると差別化要因になりにくく、業務知識と対人能力が競争力を決定づけやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## 三層のスキルと市場価値への影響
 
@@ -105,6 +111,11 @@ SAPコンサルタントが顧客企業に提供する本質的な価値は、�
 **転換後の変化**：独立系コンサルファームやERP専業ファームでは、顧客折衝機会が早期から発生するため、コンサルティングスキルの習得が加速しやすい。製造業ドメインの知識を持ちながらFI/COとMMの連携を説明できる人材は、業界での需要が安定しやすい傾向がある。年収は転職直後こそ横ばいになるケースもあるが、2〜3年後に上昇するパターンが見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

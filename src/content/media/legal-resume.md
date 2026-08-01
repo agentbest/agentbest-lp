@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["法務", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "legal-resume"
+hub: "legal"
 image: "/images/media/legal-resume.png"
 related: ["legal-career-path", "legal-company-size", "legal-motivation", "frontend-engineer-resume", "ai-engineer-resume"]
 ---
@@ -24,6 +25,11 @@ related: ["legal-career-path", "legal-company-size", "legal-motivation", "fronte
 もう一点、法務職特有の難しさとして「定量化しにくい成果」があります。営業であれば売上数値、エンジニアであれば開発実績が示せますが、法務の貢献は「リスクを未然に防ぐ」「不利な条項を修正する」という形をとるため、数字で表現しにくい傾向があります。それでも、採用担当者が定性的な説明だけでは評価しづらいのも事実です。どう「見える化」するかが、法務職の職務経歴書のコアな課題です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の基本構成
 
@@ -119,6 +125,11 @@ related: ["legal-career-path", "legal-company-size", "legal-motivation", "fronte
 - **TOEIC**：700点台以上であれば記載を検討。英文契約対応経験がある場合は点数より「英文契約交渉の実務経験あり」という記述の方が評価されやすい傾向
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

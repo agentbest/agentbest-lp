@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["事業開発", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "bizdev-career-guide"
+hub: "bizdev"
 image: "/images/media/bizdev-career-guide.png"
 related: ["bizdev-market-trend", "bizdev-future", "bizdev-motivation", "hrbp-career-guide", "solution-architect-career-guide"]
 ---
@@ -31,6 +32,11 @@ related: ["bizdev-market-trend", "bizdev-future", "bizdev-motivation", "hrbp-car
 スタートアップ初期のフェーズでは「何でもやる」事業サイドの中核として機能することが多く、大企業や成長期のSaaS企業では特定機能に特化した役割として設計される傾向にある。転職先の規模・フェーズによって求められるスキルセットが本質的に異なる点は、後述の判断軸でも重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 事業開発の市場価値と年収水準
 
@@ -123,6 +129,11 @@ BizDev担当が1〜2名の場合、自分で仮説を立てて動く能力が求
 転職エージェントを活用する場合は、「IT・SaaS・スタートアップ領域の事業開発経験を持つ候補者の転職支援に実績があるか」を確認した上で相談することが、求人の質と紹介の精度を高める上で有効になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

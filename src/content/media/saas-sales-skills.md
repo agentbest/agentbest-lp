@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["SaaS営業", "必要スキル"]
 pubDate: 2026-07-03
 slug: "saas-sales-skills"
+hub: "saas-sales"
 image: "/images/media/saas-sales-skills.png"
 related: ["saas-sales-certification", "saas-sales-how-to-use-agent", "saas-sales-salary-1000", "ml-engineer-skills", "risk-consultant-skills"]
 ---
@@ -24,6 +25,11 @@ SaaSのビジネスモデルは、顧客が製品を「所有」するのでは�
 第二に、**製品理解の深度が商談の品質を決める**。SaaS製品は機能アップデートが頻繁で、顧客の業務プロセスとの接続方法が多様なため、自社製品を「売る」だけでなく「顧客環境に実装する」という視点が必要になる。
 
 第三に、**データドリブンな行動管理が前提**となる。CRMやSFA上での案件管理、パイプラインの予実管理、勝率・平均受注額のモニタリングなど、数値で自らの活動を可視化する習慣がないと組織内での信頼を得にくい傾向がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-skills">キャリアを相談する</a>
+</aside>
 
 ## スキルの全体像と機能別分類
 
@@ -88,6 +94,11 @@ SaaS営業の経験年数やポジションによって、優先して磨くべ�
 具体的には、案件ごとに「課題の緊急度」「意思決定者へのアクセス可否」「競合優位性の相対評価」の3軸でスコアリングし、SFA上で管理していた実績が評価の根拠になった。数値が高かったわけではなく、**思考と行動の構造が説明できた**点が採用側の確信につながっていた。
 
 これは、スキルそのものの高さより「スキルを言語化・構造化できるか」が転職市場での評価に影響しやすいことを示す典型的な型といえる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

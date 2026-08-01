@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["M&A仲介", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "ma-industry-company"
+hub: "ma-industry"
 image: "/images/media/ma-industry-company.png"
 related: ["ma-industry-trend", "ma-industry-salary", "ma-industry-career", "ec-industry-company", "govtech-industry-company"]
 ---
@@ -38,6 +39,11 @@ M&A仲介業界への転職を検討する際、最初の壁となるのが「�
 一部の企業は相談着手時に「着手金」「月額顧問料」などのフロントフィーを設定するが、成功報酬のみで収益を得るモデルも多い。フロントフィーの有無は、担当者のインセンティブ設計や案件クローズへのプレッシャーの質に影響する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-company">無料で相談する</a>
+</aside>
 
 ## 企業選択で見るべき定量指標
 
@@ -98,6 +104,11 @@ M&A仲介企業の報酬は、基本的にインセンティブ（成功報酬�
 - **マネジメントポジションの割合と、プレイヤーとして長期活躍している人の比率**：どちらの方向性で長期的に自分を活かしたいかによって判断が変わる
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

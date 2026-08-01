@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["フリーコンサルタント", "面接対策"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-interview"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-interview.png"
 related: ["freelance-consultant-from-scratch", "freelance-consultant-career-path", "freelance-consultant-salary-600", "inside-sales-interview", "product-designer-interview"]
 ---
@@ -33,6 +34,11 @@ related: ["freelance-consultant-from-scratch", "freelance-consultant-career-path
 この構造を把握しておくだけで、面接前の準備に優先順位をつけやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問のカテゴリと回答の組み立て方
 
@@ -105,6 +111,11 @@ STAR形式（Situation／Task／Action／Result）を用いることは広く知
 このような案件では「プロセスの標準化経験があります」という一般的な回答より、「SaaS企業のCS組織では、ルーティン業務の標準化より先に例外対応のナレッジ整理を優先することで、現場の抵抗感を下げながら進めることが有効と考えています」といった、固有の視点を持った回答が印象に残りやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

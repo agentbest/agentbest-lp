@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["インフラエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "infra-engineer-work-style"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-work-style.png"
 related: ["infra-engineer-salary-600", "infra-engineer-from-scratch", "infra-engineer-resume", "data-scientist-work-style", "backend-engineer-work-style"]
 ---
@@ -41,6 +42,11 @@ related: ["infra-engineer-salary-600", "infra-engineer-from-scratch", "infra-eng
 SIerや成長期のスタートアップは、リソースが限られた状態で高い可用性要件を求められるため、負荷が集中しやすい傾向があります。一方、事業会社の情報システム部門やインフラ構築・設計に特化したコンサルポジションは、運用対応が切り離されている分、生活リズムが安定しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 残業の構造：「多い・少ない」の二項対立より重要なこと
 
@@ -94,6 +100,11 @@ toB向けSaaSのインフラを一人ないし少人数で担当。クラウド�
 顧客企業のAWS/Azure移行プロジェクトを複数並走で担当。設計・構築フェーズ中心で、運用フェーズは別チームへ引き渡しする体制。深夜作業はリリース時に限定され、計画的な対応が中心。リモートワークは週3〜4日が標準。残業は繁忙プロジェクトとの重なり方によって変動しやすく、月30〜50時間程度の幅がある。案件を通じて多様な技術スタックに触れられ、資格取得支援制度が充実しているケースも多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

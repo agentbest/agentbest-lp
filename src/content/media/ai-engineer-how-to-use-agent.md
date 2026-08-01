@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["AIエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "ai-engineer-how-to-use-agent"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-how-to-use-agent.png"
 related: ["ai-engineer-in-20s", "ai-engineer-work-style", "ai-engineer-english", "product-manager-how-to-use-agent", "erp-consultant-how-to-use-agent"]
 ---
@@ -36,6 +37,11 @@ AIエンジニアの採用においては、機械学習の理論的理解・実
 レベルの高いAI関連ポジション、とりわけリードやシニアクラスの求人は、公開求人として出回る前にエージェント経由でクローズされるケースが多い。優秀な候補者を競合に知られる前に採用したいという企業側の事情が背景にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントを活用することで得られる具体的なメリット
 
@@ -97,6 +103,11 @@ AIエンジニアとの相性において最も重要なのは、担当者が技
 **結果の傾向**：こうしたケースでは、自己応募と比較して選考通過率が高まる傾向があるとされる。特に、応募書類における技術的な実績の書き方のフィードバックが、書類選考の通過率に影響しやすいと報告されることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

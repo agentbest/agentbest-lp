@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["ブリッジSE", "転職失敗"]
 pubDate: 2026-07-04
 slug: "bridge-se-failure"
+hub: "bridge-se"
 image: "/images/media/bridge-se-failure.png"
 related: ["bridge-se-motivation", "bridge-se-interview", "bridge-se-resume", "ma-advisor-failure", "infra-engineer-failure"]
 ---
@@ -22,6 +23,11 @@ related: ["bridge-se-motivation", "bridge-se-interview", "bridge-se-resume", "ma
 また、「オフショア開発」という業務形態そのものが企業によって大きく異なります。外注コントロール型なのか、自社ラボ型なのか、現地法人に常駐するのかによって、日常業務の質と難度は大きく変わります。求人票の文言だけではこの違いが判別しにくく、入社後に「思っていた仕事と違う」という事態が生じやすいのです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターン5つ
 
@@ -109,6 +115,11 @@ related: ["bridge-se-motivation", "bridge-se-interview", "bridge-se-resume", "ma
 - 年収水準だけでなく、入社後6ヶ月・1年時点での業務ロードマップを面接で確認する
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

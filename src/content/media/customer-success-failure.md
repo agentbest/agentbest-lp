@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["カスタマーサクセス", "転職失敗"]
 pubDate: 2026-07-03
 slug: "customer-success-failure"
+hub: "customer-success"
 image: "/images/media/customer-success-failure.png"
 related: ["customer-success-future", "customer-success-company-size", "customer-success-in-20s", "devops-engineer-failure", "network-engineer-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["customer-success-future", "customer-success-company-size", "customer-
 求職者側も「CS職への転職」を目指す動機として、「顧客と深く関わりたい」「SaaS業界でキャリアを積みたい」といった抽象的なものにとどまりがちである。動機と実態のギャップが大きいほど、入社後の後悔も深くなる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## 失敗パターン別：原因と兆候の整理
 
@@ -106,6 +112,11 @@ related: ["customer-success-future", "customer-success-company-size", "customer-
 このケースで重要なのは、「聞きにくいことを丁寧に聞いた」点ではなく、「業務実態を数字と具体例で確認した」点である。面接は企業を評価する場でもあるという認識を持つことが、ミスマッチ防止の第一歩となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

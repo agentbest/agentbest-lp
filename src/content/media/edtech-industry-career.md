@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["エドテック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "edtech-industry-career"
+hub: "edtech-industry"
 image: "/images/media/edtech-industry-career.png"
 related: ["edtech-industry-salary", "edtech-industry-guide", "edtech-industry-trend", "ec-industry-career", "security-industry-career"]
 ---
@@ -31,6 +32,11 @@ related: ["edtech-industry-salary", "edtech-industry-guide", "edtech-industry-tr
 また、エドテック企業の多くは、教育の「成果」を数値で証明することに対して、他のSaaSと比べて独自の難しさを抱えている。学習効果はプロダクトだけで決まらず、学習者の動機・環境・時間投資にも左右される。この曖昧さを扱う能力が、この業界で長く評価される人材の共通点の一つになっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-career">無料で相談する</a>
+</aside>
 
 ## 職種別：エドテックで評価される経験の型
 
@@ -115,6 +121,11 @@ BtoC領域では特に、ユーザー獲得コスト（CAC）と生涯顧客価�
 **学習ドメインの深さをどこまで強みにするか**：教育工学・インストラクショナルデザインの知識は差別化要因になり得るが、特定の学習分野（語学・IT資格・コンプライアンスなど）への深い知識が強みになる場合と、汎用的なビジネススキルとして整理した方が良い場合がある。転職先の業界・職種に応じて、訴求ポイントを使い分ける判断が求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

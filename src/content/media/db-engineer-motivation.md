@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["データベースエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "db-engineer-motivation"
+hub: "db-engineer"
 image: "/images/media/db-engineer-motivation.png"
 related: ["db-engineer-salary-600", "db-engineer-english", "db-engineer-how-to-use-agent", "pmo-motivation", "recruiter-motivation"]
 ---
@@ -26,6 +27,11 @@ related: ["db-engineer-salary-600", "db-engineer-english", "db-engineer-how-to-u
 これらは、文章の量や修辞で補えるものではなく、書き手が実際に経験・思考してきた内容から自ずと滲み出るものである。裏を返せば、この3軸を意識して経験を整理しなおすことが、志望動機を書く前の最も重要な準備になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -107,6 +113,11 @@ related: ["db-engineer-salary-600", "db-engineer-english", "db-engineer-how-to-u
 志望動機と転職理由は、面接では区別して聞かれることが多いが、書類段階で混在させると「逃げの転職」という印象を持たれやすい。前職での経験を記述する際は、批判的なトーンを避け、「そこで得た気づきが次のステップへの動機になった」という前向きな文脈で統一することが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

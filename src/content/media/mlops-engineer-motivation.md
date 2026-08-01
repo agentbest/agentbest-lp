@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["MLOpsエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-motivation"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-motivation.png"
 related: ["mlops-engineer-in-30s", "mlops-engineer-how-to-use-agent", "mlops-engineer-career-guide", "strategy-consultant-motivation", "dx-consultant-motivation"]
 ---
@@ -28,6 +29,11 @@ MLOpsは2020年代以降に急速に整備されてきた職種であり、採�
 志望動機は「なぜMLOpsか」「なぜ御社か」「なぜ自分か」という3軸の交点を示す文章である、という認識が出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構成
 
@@ -99,6 +105,11 @@ MLOpsを志望する場合は、運用・自動化・信頼性・スケーラビ
 - **大企業・ML活用成熟フェーズ**：専門性の深さ、標準化・ガバナンス・組織横断の推進力が重視される傾向がある
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

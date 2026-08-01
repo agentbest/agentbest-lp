@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["組み込みエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-market-trend"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-market-trend.png"
 related: ["embedded-engineer-motivation", "embedded-engineer-english", "embedded-engineer-how-to-use-agent", "dev-director-market-trend", "tech-lead-market-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["embedded-engineer-motivation", "embedded-engineer-english", "embedded
 換言すれば、求人数の増加と「欲しい人材像のハードル上昇」が同時進行している状況だ。市場全体としては追い風だが、スキルのアップデートなしに転職活動をしても、期待した結果が得られにくくなっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：三つの産業トレンドを読む
 
@@ -84,6 +90,11 @@ related: ["embedded-engineer-motivation", "embedded-engineer-english", "embedded
 **副業・業務委託の活用増加：** スタートアップや中小メーカーを中心に、正社員採用と並行して業務委託・顧問契約で組み込みの専門知識を確保する動きもある。転職一辺倒ではなく、自身のキャリア戦略に応じた形態の選択肢として意識しておく価値はある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

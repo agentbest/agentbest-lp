@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["機械学習エンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "ml-engineer-in-30s"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-in-30s.png"
 related: ["ml-engineer-certification", "ml-engineer-company-size", "ml-engineer-in-20s", "salesforce-consultant-in-30s", "hr-consultant-in-30s"]
 ---
@@ -41,6 +42,11 @@ related: ["ml-engineer-certification", "ml-engineer-company-size", "ml-engineer-
 | コンサルティングファーム | クライアント向け提案・実装 | 上流設計・要件定義・成果物の言語化 |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 求められるスキルセットの実態
 
@@ -99,6 +105,11 @@ related: ["ml-engineer-certification", "ml-engineer-company-size", "ml-engineer-
 また、転職先として最初に選ぶのは、分析からMLまで一貫して手を動かせるスタートアップや事業会社内のデータ組織が適しているケースが多い。高い技術専門性が求められる環境より、まず本番稼働の経験を積める環境を選ぶことが、その後のキャリアパスを広げやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

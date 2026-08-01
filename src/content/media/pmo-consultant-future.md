@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["PMOコンサルタント", "将来性"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-future"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-future.png"
 related: ["pmo-consultant-failure", "pmo-consultant-salary-600", "pmo-consultant-salary-1000", "db-engineer-future", "ai-engineer-future"]
 ---
@@ -33,6 +34,11 @@ PMO（Project Management Office）が企業内に設置される理由は、プ�
 しかし、省力化が進んだことで「コンサルタントとしての本質的な仕事」が浮き彫りになっているとも言える。ステークホルダー間の利害調整、経営層への提言、プロジェクト構造設計、組織的な変革管理——これらは構造上、人間の判断と対話が不可欠な領域である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-future">キャリアを相談する</a>
+</aside>
 
 ## AI代替されにくい業務・されやすい業務の整理
 
@@ -103,6 +109,11 @@ Bさんは一方で、クライアント企業の経営層と定期的に対話�
 上流領域（ガバナンス設計、変革管理、PMO組織構築）に特化した人材はこのレンジの上位に位置しやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

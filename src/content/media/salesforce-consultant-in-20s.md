@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["Salesforceコンサルタント", "20代転職"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-in-20s"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-in-20s.png"
 related: ["salesforce-consultant-skills", "salesforce-consultant-salary-600", "salesforce-consultant-market-trend", "devops-engineer-in-20s", "corporate-it-in-20s"]
 ---
@@ -18,6 +19,11 @@ Salesforceコンサルタントへの転職を20代で検討するとき、多�
 Salesforceは国内外の中堅・大企業を中心に導入が続いており、それに伴い実装・運用を支援するコンサルタントの需要は高い水準を維持しています。一方、社内でSalesforce経験を長期間積んだシニア人材の絶対数は限られており、特にSI・コンサルファームは中長期的な要員計画の観点から20代の育成枠を意識的に設けている傾向があります。
 
 もうひとつの背景として、Salesforceの製品群が急速に拡張していることが挙げられます。Sales Cloud・Service CloudといったCRM領域に加え、Marketing Cloud・Data Cloud・Agentforce（AI/自動化）など新しいプロダクトラインが増えるほど、企業はその専門領域ごとにコンサルタントを必要とします。新プロダクトほど「経験10年以上の専門家」が市場にいないため、20代がゼロベースで学んで専門性を確立しやすい構造があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## ポテンシャル採用で見られる「評価軸」の実態
 
@@ -77,6 +83,11 @@ SalesforceをERPやマーケティングツールと連携させて運用する�
 - 内定時の提示年収は前職比で微増〜同水準程度だったが、1〜2年の実務を経て認定取得を積み重ねる計画で転職を決断
 
 **ポイント：** この型のキャリアが機能した理由は、「営業業務とSalesforceの接点を自分の言葉で説明できた」点にあります。単に操作できるではなく、「営業プロセスのどこにSalesforceのどの機能が効いていたか」を説明できることが、コンサルタントとしての適性の証左として評価されました。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

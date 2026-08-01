@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["マーケティングマネージャー", "市場動向"]
 pubDate: 2026-07-04
 slug: "marketing-manager-market-trend"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-market-trend.png"
 related: ["marketing-manager-how-to-use-agent", "marketing-manager-future", "marketing-manager-interview", "cto-vpoe-market-trend", "ai-engineer-market-trend"]
 ---
@@ -37,6 +38,11 @@ related: ["marketing-manager-how-to-use-agent", "marketing-manager-future", "mar
 スタートアップ〜スケールアップ帯では「プレイングマネージャー」として手を動かしながらチームを率いられる人材が評価されやすい。大手や外資ではむしろ、ステークホルダー管理やP\&Lへの貢献を証明できるかどうかが問われる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：3つの構造的シフト
 
@@ -92,6 +98,11 @@ BtoBソフトウェア企業のマーケティングマネージャー、経験6
 書類通過率が改善し、最終面接まで進む企業が増加。受注貢献への言語化と、業務効率化の具体的な数値提示が評価される傾向が確認された。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

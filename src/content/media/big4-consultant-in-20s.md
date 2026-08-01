@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["総合コンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "big4-consultant-in-20s"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-in-20s.png"
 related: ["big4-consultant-motivation", "big4-consultant-salary-600", "big4-consultant-how-to-use-agent", "mobile-engineer-in-20s", "business-planning-in-20s"]
 ---
@@ -24,6 +25,11 @@ related: ["big4-consultant-motivation", "big4-consultant-salary-600", "big4-cons
 加えて、DX・AI関連の需要増により、クライアント側の課題の幅が広がっている。特定の業界知識やSaaS・ERPの実務経験を持つ20代は、「即戦力に近いポテンシャル人材」として評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## ポテンシャル採用とは何か：実態の整理
 
@@ -106,6 +112,11 @@ M&Aデューデリジェンス、内部統制、リスク管理といった金�
 これらはあくまで目安であり、ファームの規模・外資/日系・専門領域・個人の交渉力によって変動する。外資系ファームでは固定給が高い傾向があり、一方でプロジェクト稼働率や評価に応じた変動要素も大きい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["AIエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "ai-engineer-company-size"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-company-size.png"
 related: ["ai-engineer-english", "ai-engineer-interview", "ai-engineer-career-path", "backend-engineer-company-size", "solution-architect-company-size"]
 ---
@@ -26,6 +27,11 @@ AIエンジニアの求人市場において、「大手」と「スタートア
 この前提を踏まえたうえで、4軸の比較を見ていく。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 4軸で比較する：報酬・技術環境・キャリアパス・組織特性
 
@@ -93,6 +99,11 @@ AIエンジニアの求人市場において、「大手」と「スタートア
 この場合、まず「何を解消したいのか」を整理することが有効だ。意思決定速度の課題であれば、シリーズBからCフェーズのAIスタートアップを検討することで、一定の組織体制が整いつつも実験サイクルが速い環境を確保できる可能性がある。一方、報酬総額の確実性を優先するなら、大手テック企業の専門職ポジションや、AI投資に積極的な事業会社への移行という選択肢もある。「スタートアップ＝すべてがリスク」「大手＝すべてが安定」という二項対立で捉えず、フェーズと業種を絞り込んで検討することが現実的なアプローチといえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["クラウドエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-skills"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-skills.png"
 related: ["cloud-engineer-english", "cloud-engineer-salary-1000", "cloud-engineer-certification", "fullstack-engineer-skills", "embedded-engineer-skills"]
 ---
@@ -34,6 +35,11 @@ related: ["cloud-engineer-english", "cloud-engineer-salary-1000", "cloud-enginee
 「市場重要度」は求人要件・年収帯に与える影響度、「習得優先度」はキャリア初期〜中期での投資配分の目安を指す。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-skills">無料で相談する</a>
+</aside>
 
 ## 基盤技術：クラウドの「前提条件」として機能する
 
@@ -129,6 +135,11 @@ CI/CDのパイプライン（GitHub ActionsやJenkins）との組み合わせに
 - **ステークホルダー調整**：開発・セキュリティ・経営の三者間での要件整合
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

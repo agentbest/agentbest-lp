@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["フルスタックエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-work-style"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-work-style.png"
 related: ["fullstack-engineer-from-scratch", "fullstack-engineer-motivation", "fullstack-engineer-future", "dx-consultant-work-style", "tech-lead-work-style"]
 ---
@@ -27,6 +28,11 @@ related: ["fullstack-engineer-from-scratch", "fullstack-engineer-motivation", "f
 この範囲のうちどこまでを期待されているかは、企業規模・フェーズ・チーム構成によって大きく異なる。スタートアップの初期メンバーとして入社すれば上記すべてに触れることもある一方、大企業のフルスタックポジションでは実質的にフロント・バック2領域に絞られるケースも珍しくない。
 
 **働き方の質は「担当範囲の定義」と「チームの人員構成」によって決まる**という点を、まず認識しておくことが重要である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度の実態：企業フェーズと役割で変わる負荷
 
@@ -120,6 +126,11 @@ IT・SaaS領域の自社開発企業では、フルリモートまたは週1〜2
 **障害対応のローテーション**：オンコール・深夜対応が個人に集中しないよう、シフト制や手当の仕組みが整備されているか。
 
 **技術的負債の認識**：経営層も含めてリファクタリングや技術投資に理解がある組織かどうかは、中長期的な労働負荷に直結する。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

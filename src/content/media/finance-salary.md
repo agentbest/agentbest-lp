@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["財務・経理", "年収相場"]
 pubDate: 2026-07-04
 slug: "finance-salary"
+hub: "finance"
 image: "/images/media/finance-salary.png"
 related: ["finance-career-guide", "finance-resume", "finance-market-trend", "erp-consultant-salary", "customer-success-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["finance-career-guide", "finance-resume", "finance-market-trend", "erp
 上記からわかるように、20代は業務の習熟段階であり、年収の伸びは緩やかになりやすい。一方、30代中盤以降はポジションの「幅」が年収に直結し、同年代でも200〜300万円程度の差が生じやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-salary">無料で相談する</a>
+</aside>
 
 ## 年収を左右する3つの構造的要因
 
@@ -103,6 +109,11 @@ related: ["finance-career-guide", "finance-resume", "finance-market-trend", "erp
 在籍企業での昇給は構造上、市場価値の変化に追いつかないことがある。財務・経理分野では、特定の上流業務スキルの需給バランスが変化しやすいため、2〜3年に一度、転職市場での自身の市場価値を確認する習慣を持つことが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

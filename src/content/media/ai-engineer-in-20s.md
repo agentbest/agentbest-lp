@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["AIエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "ai-engineer-in-20s"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-in-20s.png"
 related: ["ai-engineer-resume", "ai-engineer-skills", "ai-engineer-company-size", "it-consultant-in-20s", "saas-sales-in-20s"]
 ---
@@ -28,6 +29,11 @@ AI領域の採用市場は、他のIT職種と比較して需給のバランス�
 ただし、ポテンシャル採用は「誰でも通る」ものではない。採用側が求めるのは「伸びる素地の証明」であり、成果物のない状態での応募は難易度が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## 採用企業の類型と難易度の比較
 
@@ -83,6 +89,11 @@ AI技術に詳しくても、「それをどのように事業に活かすか」
 年収の目安としては、このような経歴でSaaS企業のAI機能開発ポジションに転職した場合、転職前の年収から横ばいから微増程度のオファーが多く、600〜750万円前後のレンジが提示されるケースがある（企業規模・職種グレードにより前後する）。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

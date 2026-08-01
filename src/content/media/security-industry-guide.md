@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["サイバーセキュリティ", "業界研究"]
 pubDate: 2026-07-05
 slug: "security-industry-guide"
+hub: "security-industry"
 image: "/images/media/security-industry-guide.png"
 related: ["security-industry-salary", "security-industry-company", "security-industry-trend", "govtech-industry-guide", "ma-industry-guide"]
 ---
@@ -45,6 +46,11 @@ related: ["security-industry-salary", "security-industry-company", "security-ind
 | ペネトレーションテスト・レッドチーム | 攻撃者視点の脆弱性評価 | セキュリティ専門ブティック、独立系 |
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要企業の類型と転職先としての特性
 
@@ -98,6 +104,11 @@ SaaS型でセキュリティを提供するスタートアップは、製品開�
 | ペネトレーションテスター（シニア） | 700〜1,200万円程度 | 実力評価型で個人差が大きい |
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## ケーススタディ：SIerインフラエンジニアからセキュリティコンサルへの転身
 

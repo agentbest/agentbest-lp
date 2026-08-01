@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["機械学習エンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "ml-engineer-salary-600"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-salary-600.png"
 related: ["ml-engineer-interview", "ml-engineer-company-size", "ml-engineer-motivation", "fas-consultant-salary-600", "bizdev-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["ml-engineer-interview", "ml-engineer-company-size", "ml-engineer-moti
 この表からわかるとおり、年収600万円は「3〜4年目後半から5年目初頭」に到達可能な水準であると同時に、次のステージへ移行できるかどうかの分岐点でもあります。600万円台前半で停滞が続く場合、問題はスキルの絶対量よりも「評価される形での貢献ができているかどうか」にある場合が多いです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁をつくる要素
 
@@ -101,6 +107,11 @@ related: ["ml-engineer-interview", "ml-engineer-company-size", "ml-engineer-moti
 **結果の傾向**：SaaS企業または外資系メガテック系企業への転職により、650万〜750万円前後の提示を受けるケースが多い。「本番に関わった実績」と「言語化された貢献内容」が評価のポイントとして挙げられることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

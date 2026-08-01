@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["SCM・調達コンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "scm-consultant-resume"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-resume.png"
 related: ["scm-consultant-future", "scm-consultant-interview", "scm-consultant-company-size", "digital-marketer-resume", "sre-resume"]
 ---
@@ -26,6 +27,11 @@ SCM・調達コンサルタントの職務経歴書には、一般的なコン�
 これらを踏まえると、SCM・調達コンサルタントの職務経歴書で評価される書類は「専門性の深さと幅のバランスが伝わる構造」になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## 推奨フォーマットと全体構成
 
@@ -118,6 +124,11 @@ SKU別の需要変動係数・調達リードタイム・欠品コストを分�
 **グローバル調達経験**：海外サプライヤーとの交渉・グローバル標準化プロジェクトへの参画経験がある場合は、言語対応能力とあわせて記述する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

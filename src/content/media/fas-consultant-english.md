@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["会計・財務コンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "fas-consultant-english"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-english.png"
 related: ["fas-consultant-in-30s", "fas-consultant-resume", "fas-consultant-certification", "platform-engineer-english", "hrbp-english"]
 ---
@@ -26,6 +27,11 @@ related: ["fas-consultant-in-30s", "fas-consultant-resume", "fas-consultant-cert
 この3軸の組み合わせで英語の必要水準は変わります。たとえば、国内の中堅製造業を主なクライアントとする独立系コンサルティングファームで、国内M&Aのみを手がける場合、英語の実務使用頻度は相対的に低い傾向があります。一方、外資系FASファームや、クロスボーダーM&AをメインとするBig4内のチームでは、英語でのメール・資料作成・先方カウンターパートとの会議が日常業務となります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力別・求人市場の実態
 
@@ -84,6 +90,11 @@ related: ["fas-consultant-in-30s", "fas-consultant-resume", "fas-consultant-cert
 実務での英語経験を積む方法として、現職でのグローバルプロジェクトへの参加・申し出、海外クライアント対応機会の獲得、英語でのウェビナー・研修への参加などが考えられます。英語での財務モデル操作やIFRS関連ドキュメントの英語原文読解から始めるのも、無理なく実務英語に慣れる方法のひとつです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

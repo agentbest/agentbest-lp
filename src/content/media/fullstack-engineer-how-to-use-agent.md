@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["フルスタックエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-how-to-use-agent"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-how-to-use-agent.png"
 related: ["fullstack-engineer-company-size", "fullstack-engineer-skills", "fullstack-engineer-resume", "sap-consultant-how-to-use-agent", "big4-consultant-how-to-use-agent"]
 ---
@@ -28,6 +29,11 @@ related: ["fullstack-engineer-company-size", "fullstack-engineer-skills", "fulls
 **ポートフォリオの見せ方に戦略が必要**
 
 フロントエンドのみ、あるいはバックエンドのみで構成されたポートフォリオと異なり、フルスタックの実績は「どこを深く、どこを広く担ったか」を言語化しなければ評価されにくい。この整理ができていないと、書類段階での評価が低くなるリスクがある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントが機能しやすい場面
 
@@ -85,6 +91,11 @@ IT・SaaS領域では、優秀なエンジニア採用を目的として、求�
 **活用後の変化**：IT特化型エージェントとの初回面談で、同スタックを持つ候補者の直近の内定事例（年収レンジ・ポジション名・企業フェーズ）を共有してもらい、自身の市場価値に対する解像度が上がった。職務経歴書については、「プロダクト全体のアーキテクチャ設計への関与度」と「チームへの技術的な影響範囲」を軸に整理するよう助言を受け、書類通過率が改善した。最終的に、希望に近い条件でオファーを受けた企業への入社を決定した。
 
 このように、エージェントが機能する場面は「求人紹介」だけではなく、自己評価の精度を上げることと、書類・面接準備の質を高めることにも及ぶ。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

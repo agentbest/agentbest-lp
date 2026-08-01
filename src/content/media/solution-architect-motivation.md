@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["ソリューションアーキテクト", "志望動機"]
 pubDate: 2026-07-04
 slug: "solution-architect-motivation"
+hub: "solution-architect"
 image: "/images/media/solution-architect-motivation.png"
 related: ["solution-architect-market-trend", "solution-architect-in-30s", "solution-architect-how-to-use-agent", "digital-marketer-motivation", "it-architect-motivation"]
 ---
@@ -26,6 +27,11 @@ related: ["solution-architect-market-trend", "solution-architect-in-30s", "solut
 また、SaaS・クラウドベンダー・ITコンサルティングファームなど、SAを採用する企業は共通して「顧客価値の創出」を事業の核に置いています。志望動機がその文脈と整合していなければ、技術スキルがどれほど高くても評価が止まるケースは少なくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の3要素
 
@@ -112,6 +118,11 @@ SAを採用する組織は大きく以下の4類型に分類でき、それぞ�
 志望動機の骨格は変えず、上記の「強調すべき点」を文中のどこに厚みを持たせるかで調整するアプローチが実務的に機能しやすいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

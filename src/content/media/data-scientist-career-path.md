@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["データサイエンティスト", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "data-scientist-career-path"
+hub: "data-scientist"
 image: "/images/media/data-scientist-career-path.png"
 related: ["data-scientist-english", "data-scientist-work-style", "data-scientist-salary-600", "hr-consultant-career-path", "presales-career-path"]
 ---
@@ -27,6 +28,11 @@ related: ["data-scientist-english", "data-scientist-work-style", "data-scientist
 データに基づく意思決定をビジネス側に近い立場で担う方向です。プロダクトマネージャー・ストラテジスト・データ活用コンサルタントとしてのキャリアが代表的です。技術の細部より、分析結果をいかに事業に結びつけるかに重点が置かれます。
 
 三軸は排他的ではなく、途中でシフトしたり組み合わせたりすることも実際には多く見られます。しかし、30代前半に「どこに力を入れるか」を意識するかしないかで、35〜40代の選択肢の幅が変わりやすい点は認識しておく価値があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-career-path">キャリアを相談する</a>
+</aside>
 
 ## 経験年数・役割別の年収レンジ目安
 
@@ -77,6 +83,11 @@ related: ["data-scientist-english", "data-scientist-work-style", "data-scientist
 どちらの軸でも市場価値は十分あると判断できる状況だったが、「5年後にどちらの自分でいたいか」という問いに立ち返り、マネジメント軸での転職を選択。ポジションの設計が明確な企業に絞って活動した。
 
 このパターンが示すのは、どちらが正しいかではなく、自分のキャリアの「目的地を先に決める」ことが判断軸の整理に有効だという点です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

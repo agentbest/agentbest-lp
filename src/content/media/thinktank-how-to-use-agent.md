@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["シンクタンク研究員", "転職エージェント活用"]
 pubDate: 2026-07-05
 slug: "thinktank-how-to-use-agent"
+hub: "thinktank"
 image: "/images/media/thinktank-how-to-use-agent.png"
 related: ["thinktank-in-20s", "thinktank-salary", "thinktank-resume", "dx-consultant-how-to-use-agent", "product-designer-how-to-use-agent"]
 ---
@@ -34,6 +35,11 @@ related: ["thinktank-in-20s", "thinktank-salary", "thinktank-resume", "dx-consul
 シンクタンク研究員の転職先は、同業他社にとどまらず、コンサルティングファーム、事業会社の政策・渉外部門、官公庁・独立行政法人、国際機関、スタートアップのリサーチ部門など多岐にわたる。それぞれで評価される専門性の切り出し方、求められるアウトプットの性質、年収水準が異なるため、自分のキャリア資産をどの方向に展開するかの軸設定が難しい。
 
 市場全体を俯瞰した情報提供は、エージェントが持つ機能のなかで最も活用価値が高い部分のひとつである。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを活用すべき具体的な理由
 
@@ -100,6 +106,11 @@ related: ["thinktank-in-20s", "thinktank-salary", "thinktank-resume", "dx-consul
 | 非公開求人の厚み | 公開求人にない上位・専門職ポジションを保有しているか |
 | 情報提供の質 | 選考フィードバック・組織内部情報の精度はどの程度か |
 | 対応スタンス | 希望を一方的に誘導せず、候補者の軸を整理する対話ができるか |
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["ERPコンサルタント", "転職失敗"]
 pubDate: 2026-07-05
 slug: "erp-consultant-failure"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-failure.png"
 related: ["erp-consultant-in-20s", "erp-consultant-certification", "erp-consultant-market-trend", "digital-marketer-failure", "business-consultant-failure"]
 ---
@@ -59,6 +60,11 @@ ERPコンサルタントの年収は、企業形態（ファーム系・ユー�
 「どのようにプロジェクトにアサインされるのか」「アサインされないとき何をするのか」は面接で率直に確認すべき点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-failure">無料で相談する</a>
+</aside>
 
 ## ケーススタディ：「スペックの一致」と「実態の不一致」
 
@@ -116,6 +122,11 @@ ERPコンサルタントの年収は、企業形態（ファーム系・ユー�
 - [ ] 福利厚生（特にリモートワーク・出張手当・資格支援）の実態を確認したか
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

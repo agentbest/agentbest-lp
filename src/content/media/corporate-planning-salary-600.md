@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["経営企画", "年収600万"]
 pubDate: 2026-07-04
 slug: "corporate-planning-salary-600"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-salary-600.png"
 related: ["corporate-planning-market-trend", "corporate-planning-salary", "corporate-planning-salary-1000", "sre-salary-600", "freelance-consultant-salary-600"]
 ---
@@ -32,6 +33,11 @@ related: ["corporate-planning-market-trend", "corporate-planning-salary", "corpo
 この表からわかるとおり、600万円は「シニアスタッフ〜マネージャー昇格直前」に相当する水準に位置づけられやすい。言い換えると、スタッフとして一定の実績を積んだ段階で到達可能ではあるが、そこから先に進むためには「業務を遂行する人材」から「意思決定に貢献する人材」への変容が求められる局面に差し掛かっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁が生じる構造的な理由
 
@@ -100,6 +106,11 @@ related: ["corporate-planning-market-trend", "corporate-planning-salary", "corpo
 この事例が示すのは、「経営企画の業務量をこなす」だけでは評価の天井が見えやすいという点である。事業貢献に直結する経験を意図的に組み込み、それを転職市場で通じる言語で表現できるかどうかが、処遇の改善に影響しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

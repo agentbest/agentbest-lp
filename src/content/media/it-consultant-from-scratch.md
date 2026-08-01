@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["ITコンサル", "未経験", "転職"]
 pubDate: 2026-07-03
 slug: "it-consultant-from-scratch"
+hub: "it-consultant"
 image: "/images/media/it-consultant-from-scratch.png"
 related: ["it-consultant-career-guide", "it-consultant-motivation", "it-consultant-salary", "it-consultant-interview", "it-consultant-skills"]
 ---
@@ -22,6 +23,11 @@ ITコンサルの求人で「未経験可」とある場合、その意味は「
 - **論理性・地頭**：構造化して考え、話せる力（若手ポテンシャル採用の場合）
 
 未経験転職の戦略は、この3つのうち自分がどれで勝負するかを決めることから始まります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年代別の難易度
 
@@ -86,6 +92,11 @@ ITコンサルの求人で「未経験可」とある場合、その意味は「
 
 **10〜12ヶ月：クライアント接点の確保**
 定例会議での説明パートを持つなど、クライアントの前に立つ機会を意識的に取りに行きます。社内評価だけでなくクライアントからの信頼を得た未経験者は、2年目以降の成長曲線が大きく変わります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

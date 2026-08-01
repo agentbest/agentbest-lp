@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["プロダクトマネージャー", "面接対策"]
 pubDate: 2026-07-04
 slug: "product-manager-interview"
+hub: "product-manager"
 image: "/images/media/product-manager-interview.png"
 related: ["product-manager-in-30s", "product-manager-market-trend", "product-manager-from-scratch", "ai-engineer-interview", "presales-interview"]
 ---
@@ -35,6 +36,11 @@ related: ["product-manager-in-30s", "product-manager-market-trend", "product-man
 | 技術理解質問 | エンジニアと協働できる素地の確認 | APIの基礎・技術負債の概念など | 用語ではなく概念の理解 |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の組み立て方
 
@@ -113,6 +119,11 @@ MAU減少のような分析問題は、仮説の列挙よりも「セグメン�
 - **逆質問の準備**：「プロダクトの意思決定権はどこにありますか？」「PdMが最も影響を発揮できる場面はどこですか？」など、組織の実態を確認する質問は、候補者の本気度と職種理解の深さを示す機会でもある
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["ITコンサル", "転職", "コンサルティング"]
 pubDate: 2026-07-03
 slug: "it-consultant-career-guide"
+hub: "it-consultant"
 image: "/images/media/it-consultant-career-guide.png"
 related: ["it-consultant-salary", "it-consultant-career-path", "it-consultant-interview", "it-consultant-from-scratch", "it-consultant-resume"]
 ---
@@ -21,6 +22,11 @@ ITコンサルタントは、クライアント企業の経営課題をITの活�
 - **定着化**：業務移行支援、運用設計、チェンジマネジメント
 
 SIerとの違いは「作ること」ではなく「経営課題を解くこと」が起点になる点です。同じ要件定義でも、コンサルは業務・経営の側から、SIerはシステムの側からアプローチする、と整理すると分かりやすいでしょう。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## ファームの種類と特徴
 
@@ -83,6 +89,11 @@ ITコンサル転職の標準的なスケジュールは、準備1ヶ月・応�
 オファー面談では、想定アサイン領域・昇格の考え方・稼働の実態を確認してください。提示年収の比較だけで決めると、入社後の納得感を損ねやすくなります。
 
 現職が繁忙な場合、応募時期を繁忙期の谷に合わせる調整も有効です。面接は平日夜・オンラインで対応するファームが増えており、在職中の活動は以前より現実的になっています。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

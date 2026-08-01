@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["エンタープライズセールス", "30代転職"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-in-30s"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-in-30s.png"
 related: ["enterprise-sales-company-size", "enterprise-sales-skills", "enterprise-sales-resume", "embedded-engineer-in-30s", "finance-in-30s"]
 ---
@@ -22,6 +23,11 @@ related: ["enterprise-sales-company-size", "enterprise-sales-skills", "enterpris
 採用企業が30代に求めるのは、こうした複雑な商談サイクルを自律的にハンドリングした経験です。20代での採用と決定的に異なる点はここにあります。ポテンシャルではなく、実績に基づく再現性が評価軸の中心に置かれます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代転職者に求められるスキルセット
 
@@ -83,6 +89,11 @@ related: ["enterprise-sales-company-size", "enterprise-sales-skills", "enterpris
 Situation（状況）・Task（課題）・Action（行動）・Result（結果）の構造で実績を語るSTAR形式は、エンタープライズセールスの選考で特に有効です。複雑な案件ほど状況説明が長くなりがちですが、面接時間内に収めるために「3分で概要を伝え、深掘りには詳細で答える」という準備が実務的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

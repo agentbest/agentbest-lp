@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["HRテック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "hrtech-industry-career"
+hub: "hrtech-industry"
 image: "/images/media/hrtech-industry-career.png"
 related: ["hrtech-industry-guide", "hrtech-industry-company", "hrtech-industry-trend", "consulting-industry-career", "ec-industry-career"]
 ---
@@ -24,6 +25,11 @@ HRテック業界を一括りにすると、採用管理（ATS）、タレント
 採用管理・労務系のプロダクトは中小企業向けの件数型ビジネスが多く、エンタープライズ向けのタレントマネジメント・スキルデータ系は、顧客単価が高く、導入支援の深さが競争優位になりやすい。自分が志望する企業がどのカテゴリに属し、どのセグメントを主戦場にしているかを把握することが、キャリア設計の出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-career">無料で相談する</a>
+</aside>
 
 ## 職種別の評価構造と求められる経験
 
@@ -89,6 +95,11 @@ HRテック企業でのCS・コンサル経験者は、複数社の人事課題�
 採用管理系のCSM経験者が、タレントマネジメント系や学習管理系のプロダクトに移るケースもある。HRドメインの知識を持ちながら、異なるプロダクト・顧客層の経験を積むことで、HR領域全体の解像度が高まり、将来的に事業責任者や独立系HRコンサルタントへの展開につながりやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

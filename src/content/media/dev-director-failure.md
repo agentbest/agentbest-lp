@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["開発ディレクター", "転職失敗"]
 pubDate: 2026-07-04
 slug: "dev-director-failure"
+hub: "dev-director"
 image: "/images/media/dev-director-failure.png"
 related: ["dev-director-how-to-use-agent", "dev-director-work-style", "dev-director-salary", "devops-engineer-failure", "project-manager-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["dev-director-how-to-use-agent", "dev-director-work-style", "dev-direc
 加えて、開発ディレクターのポジションは求人票の記載と実態が乖離しやすい職種でもある。「プロダクト全体の開発を統括」と書かれていても、実際には特定フェーズのみを担う役割であったり、技術スタックの選定権がなかったりするケースがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-failure">無料で相談する</a>
+</aside>
 
 ## 失敗パターン別の構造分析
 
@@ -122,6 +128,11 @@ PdMが強いオーナーシップを持つ組織に開発ディレクターと�
 このケースで教訓となるのは、面接段階で「全体の意思決定に関与」という表現の具体的な範囲を掘り下げなかった点だ。権限の「範囲」と「深さ」を入社前に確認することは、ポジションの選定と同等に重要な判断軸となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

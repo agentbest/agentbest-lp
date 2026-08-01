@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["採用担当", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "recruiter-career-guide"
+hub: "recruiter"
 image: "/images/media/recruiter-career-guide.png"
 related: ["recruiter-how-to-use-agent", "recruiter-future", "recruiter-english", "infra-engineer-career-guide", "business-consultant-career-guide"]
 ---
@@ -32,6 +33,11 @@ related: ["recruiter-how-to-use-agent", "recruiter-future", "recruiter-english",
 採用だけでなく、組織設計・人材育成・カルチャー形成にも関与する上位職。採用担当からのキャリアアップ先として認識されていることが多いが、事業側との折衝スキルが求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 採用担当の市場価値と年収の目安
 
@@ -99,6 +105,11 @@ related: ["recruiter-how-to-use-agent", "recruiter-future", "recruiter-english",
 採用担当として転職する場合、面接官は「この人に自社の採用課題を解決できるか」という視点で見ている。事前に求人票・企業の採用広報・採用ブログなどを分析し、「おそらく〇〇という課題があると推察しているが、この認識は合っているか」という問いかけができると印象が変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

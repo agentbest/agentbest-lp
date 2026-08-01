@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["セキュリティコンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "security-consultant-motivation"
+hub: "security-consultant"
 image: "/images/media/security-consultant-motivation.png"
 related: ["security-consultant-interview", "security-consultant-resume", "security-consultant-skills", "mobile-engineer-motivation", "product-designer-motivation"]
 ---
@@ -27,6 +28,11 @@ related: ["security-consultant-interview", "security-consultant-resume", "securi
 自身のスキル・経験を自社のどの課題・サービスラインに接続できるかを、応募者が理解しているか。
 
 この三点が揃って初めて「読み手を動かす志望動機」になります。多くの応募者が脱落するのは、①はあっても②③が抽象的なケースです。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -93,6 +99,11 @@ related: ["security-consultant-interview", "security-consultant-resume", "securi
 | 専門セキュリティファーム | 特定技術領域の深さ（ペネトレーション・CSIRT等）、専門性への志向 | 技術的なキャリアパスへの理解を示す |
 | ベンダー系セキュリティ部門 | 製品・サービスへの理解、顧客接点の経験 | 自社製品への過度な礼賛は避ける |
 | 事業会社のセキュリティ部門 | 業界ドメイン知識との掛け合わせ、内製化への貢献意欲 | コンサル的な外向きスタンスより内部視点を |
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

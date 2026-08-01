@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["Web3・ブロックチェーン", "業界研究"]
 pubDate: 2026-07-05
 slug: "web3-industry-guide"
+hub: "web3-industry"
 image: "/images/media/web3-industry-guide.png"
 related: ["web3-industry-company", "web3-industry-salary", "web3-industry-trend", "saas-industry-guide", "proptech-industry-guide"]
 ---
@@ -42,6 +43,11 @@ Web3・ブロックチェーン業界は単一の市場ではなく、複数の�
 国内外を問わず採用活動を行う企業も増えており、リモートワーク前提のポジションでは、居住地を問わず応募できる機会が広がっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求められる人材像とスキルの対応関係
 
@@ -116,6 +122,11 @@ Web3企業は設立年数が浅く、財務情報が非公開であることが�
 - **コミュニティの評判**：Discord・GitHubの活動状況、開発者コミュニティでの評価
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

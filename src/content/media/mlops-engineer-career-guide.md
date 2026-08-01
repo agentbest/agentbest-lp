@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["MLOpsエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-career-guide"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-career-guide.png"
 related: ["mlops-engineer-future", "mlops-engineer-interview", "mlops-engineer-failure", "partner-sales-career-guide", "sre-career-guide"]
 ---
@@ -46,6 +47,11 @@ MLOpsエンジニアは、機械学習モデルの開発から本番運用まで
 MLOpsエンジニアは「動くモデルを作ること」よりも「モデルが継続的に価値を出し続ける仕組みを維持すること」に軸足を置く点が特徴的である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求められるスキルセット
 
@@ -125,6 +131,11 @@ MLOpsエンジニアの採用において、GitHubリポジトリやZenn・Qiita
 転職先を選ぶ際、企業のMLシステムの成熟度を事前に確認しておくことは、入社後のミスマッチを防ぐ上で重要である。技術ブログや採用ページのJD（職務記述書）に登場するツール名・課題感をもとに、「まだインフラの整備段階か」「すでに継続的デリバリーが実現されているか」を推察するとよい。成熟度が低い段階の企業では0→1の設計経験が積めるが、業務量の偏りや裁量の大きさへの耐性も求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

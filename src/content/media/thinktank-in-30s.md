@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["シンクタンク研究員", "30代転職"]
 pubDate: 2026-07-05
 slug: "thinktank-in-30s"
+hub: "thinktank"
 image: "/images/media/thinktank-in-30s.png"
 related: ["thinktank-market-trend", "thinktank-salary-1000", "thinktank-future", "digital-marketer-in-30s", "finance-in-30s"]
 ---
@@ -36,6 +37,11 @@ related: ["thinktank-market-trend", "thinktank-salary-1000", "thinktank-future",
 シンクタンクの業務は、官公庁・地方自治体・民間企業を相手にした受託調査が大半を占めます。そのため、クライアントマネジメントの経験、あるいは行政側での業務委託管理の経験は、実務上の親和性として高く評価される傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代転職者のバックグラウンド別・評価軸の比較
 
@@ -97,6 +103,11 @@ related: ["thinktank-market-trend", "thinktank-salary-1000", "thinktank-future",
 転職後を見据えるならば、現職時代から発信実績を意識的に積むことが、入社後のキャリア形成にも寄与します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

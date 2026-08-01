@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["SCM・調達コンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "scm-consultant-work-style"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-work-style.png"
 related: ["scm-consultant-career-path", "scm-consultant-company-size", "scm-consultant-salary-600", "dev-director-work-style", "finance-work-style"]
 ---
@@ -43,6 +44,11 @@ SCM・調達コンサルティングのプロジェクトは、大きく以下�
 いずれの案件タイプにも「山」があります。継続的に高負荷という案件は少なく、プロジェクト内の特定のマイルストーン前後に残業が集中する傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## 残業・激務度のリアル
 
@@ -115,6 +121,11 @@ SCM・調達コンサルタントのリモートワーク比率を決める最�
 この例のように、特定の週に作業が集中する一方、比較的余裕のある週も存在します。全週が高稼働というわけではなく、メリハリのある稼働サイクルになりやすい点がSCM・調達コンサルの特徴の一つです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

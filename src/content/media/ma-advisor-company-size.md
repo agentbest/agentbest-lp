@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["M&Aアドバイザー", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "ma-advisor-company-size"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-company-size.png"
 related: ["ma-advisor-in-30s", "ma-advisor-from-scratch", "ma-advisor-salary", "game-engineer-company-size", "mobile-engineer-company-size"]
 ---
@@ -32,6 +33,11 @@ M&Aアドバイザーとしてキャリアを歩む場合、所属先の選択�
 スタートアップや中堅ブティックでは、案件の上流から下流まで一貫して担当する機会が早期から与えられる傾向がある。財務分析・バリュエーション・交渉・契約調整までを一人が管轄するケースも珍しくなく、広い守備範囲の実務力が早い段階で問われる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-company-size">キャリアを相談する</a>
+</aside>
 
 ## 環境比較：主要項目の整理
 
@@ -93,6 +99,11 @@ Bさんは、金融機関での融資・審査経験を持つが、より当事�
   制度・教育体制・キャリアパスの明確さを求めるなら大手が安心しやすい。スピードと裁量を優先するならスタートアップの環境が合いやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

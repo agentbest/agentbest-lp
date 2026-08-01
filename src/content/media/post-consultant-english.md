@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["ポストコンサル", "英語力"]
 pubDate: 2026-07-05
 slug: "post-consultant-english"
+hub: "post-consultant"
 image: "/images/media/post-consultant-english.png"
 related: ["post-consultant-career-path", "post-consultant-failure", "post-consultant-salary-1000", "dev-director-english", "partner-sales-english"]
 ---
@@ -18,6 +19,11 @@ related: ["post-consultant-career-path", "post-consultant-failure", "post-consul
 前提として押さえておきたいのは、ポストコンサルにおける英語の評価軸が「読み書き中心のビジネス英語」から「経営幹部・外国籍のステークホルダーとのライブなコミュニケーション能力」まで、要求水準に大きな幅があるという点である。「英語ができる」という自己評価が採用担当者の期待とずれていると、選考過程での齟齬が生じやすい。自らの英語力を客観的に測定・言語化しておくことが、ポジション選定の出発点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力の要否はポジション類型で決まる
 
@@ -91,6 +97,11 @@ related: ["post-consultant-career-path", "post-consultant-failure", "post-consul
 5〜10年後に外資系経営幹部やグローバル拠点でのリーダー職を目指すのであれば、転身前あるいは転身後早期に英語の業務耐性を高めることは投資対効果が見込みやすい。一方で、国内の事業を深く掘り下げる専門性志向のキャリアであれば、英語学習への大きな時間投資は優先度が高くない。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

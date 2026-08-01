@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["プラットフォームエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "platform-engineer-how-to-use-agent"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-how-to-use-agent.png"
 related: ["platform-engineer-work-style", "platform-engineer-in-30s", "platform-engineer-resume", "partner-sales-how-to-use-agent", "ai-engineer-how-to-use-agent"]
 ---
@@ -34,6 +35,11 @@ related: ["platform-engineer-work-style", "platform-engineer-in-30s", "platform-
 自社での経験が他社にとってどの程度ポータブルか——この点を候補者自身が客観的に把握することは難しく、企業側からも見えにくい。エージェントが介在することで、企業の技術スタックや組織の成熟度と候補者の経験のマッチング精度が上がりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを使うべき理由：5つの実質的なメリット
 
@@ -103,6 +109,11 @@ related: ["platform-engineer-work-style", "platform-engineer-in-30s", "platform-
 この整理によって候補者は自分の経験と志向の一致度が高い企業を優先でき、第一志望での選考も「どの課題を解きたいか」について具体的に語れる状態で臨めた。結果として初回提示年収からの上積み交渉にも成功し、納得度の高い転職に至っている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

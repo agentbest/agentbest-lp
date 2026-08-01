@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["社内SE", "将来性"]
 pubDate: 2026-07-04
 slug: "corporate-it-future"
+hub: "corporate-it"
 image: "/images/media/corporate-it-future.png"
 related: ["corporate-it-english", "corporate-it-skills", "corporate-it-in-30s", "finance-future", "uiux-designer-future"]
 ---
@@ -31,6 +32,11 @@ related: ["corporate-it-english", "corporate-it-skills", "corporate-it-in-30s", 
 これらの変化は「社内SEが不要になる」ことを意味しない。むしろ、役割の質が変化している。かつては「安定した運用を維持する」ことが主な価値だったが、現在は「変化を推進し、かつリスクを制御する」ことへと期待がシフトしている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 将来性を左右する職務の分岐
 
@@ -96,6 +102,11 @@ related: ["corporate-it-english", "corporate-it-skills", "corporate-it-in-30s", 
 **結果の傾向**：このようなキャリアの積み方をした人材は、「IT企画・DX推進」「社内ITコンサルタント」といった職種の求人市場において、評価されやすい傾向がある。年収の目安としては、従来型の運用保守中心のポジションと比較して、数十万円から百万円前後の差が生じるケースも珍しくない。ただしこれは企業規模・業種・個人の経験によって大きく異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

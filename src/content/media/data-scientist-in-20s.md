@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["データサイエンティスト", "20代転職"]
 pubDate: 2026-07-04
 slug: "data-scientist-in-20s"
+hub: "data-scientist"
 image: "/images/media/data-scientist-in-20s.png"
 related: ["data-scientist-from-scratch", "data-scientist-interview", "data-scientist-future", "dx-consultant-in-20s", "enterprise-sales-in-20s"]
 ---
@@ -31,6 +32,11 @@ related: ["data-scientist-from-scratch", "data-scientist-interview", "data-scien
 これらはすべて「即戦力」ではなく、「成長の根拠」として機能する。採用担当者が見ているのは現時点のスキルの総量ではなく、入社後の伸び代とフィット感だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-in-20s">無料で相談する</a>
+</aside>
 
 ## ポテンシャル採用の実態：企業が実際に評価しているもの
 
@@ -107,6 +113,11 @@ related: ["data-scientist-from-scratch", "data-scientist-interview", "data-scien
 ポテンシャル採用の場合、入社時点の年収は現職と同程度か、やや低くなるケースもある。ただし、スキルの習得と成果に応じて昇給スピードが速い企業も存在するため、入社時の年収だけで判断するより、評価制度と成長環境を比較することが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

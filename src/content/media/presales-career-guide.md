@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["セールスエンジニア／プリセールス", "転職ガイド"]
 pubDate: 2026-07-03
 slug: "presales-career-guide"
+hub: "presales"
 image: "/images/media/presales-career-guide.png"
 related: ["presales-interview", "presales-career-path", "presales-from-scratch", "recruiter-career-guide", "pr-career-guide"]
 ---
@@ -43,6 +44,11 @@ SaaS企業では「セールスエンジニア」、SI（システムインテ�
 SE/プリセールスはセールスとエンジニアリングの中間に位置するため、どちらかの比重が高いかは企業・製品の性質によって変わります。SaaS製品では製品デモの比重が高く、エンタープライズ向けSIでは要件定義・提案書作成に多くの時間を割くケースが一般的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 市場価値と年収水準
 
@@ -88,6 +94,11 @@ SaaS市場の成長に伴い、製品の技術的な複雑性は年々増して�
 資格はあくまで能力の間接的な証拠であり、実際の業務実績を補完するものとして位置づけるのが現実的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-career-guide">無料で相談する</a>
+</aside>
 
 ## 転職成功のポイント：実務的な視点から
 

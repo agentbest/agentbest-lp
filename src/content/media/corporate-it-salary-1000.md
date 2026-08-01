@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["社内SE", "年収1000万"]
 pubDate: 2026-07-04
 slug: "corporate-it-salary-1000"
+hub: "corporate-it"
 image: "/images/media/corporate-it-salary-1000.png"
 related: ["corporate-it-career-guide", "corporate-it-motivation", "corporate-it-interview", "solution-architect-salary-1000", "pr-salary-1000"]
 ---
@@ -28,6 +29,11 @@ related: ["corporate-it-career-guide", "corporate-it-motivation", "corporate-it-
 この表から読み取れる重要な点は、1,000万円という水準が「職種の上限付近」に位置することです。多くの社内SE職では、一般的なグレードの延長では部長・IT統括クラスに到達しなければ届かない水準であり、ポストの数は必然的に限られます。
 
 また、IT投資を積極的に行う製造業・金融・商社・総合商社系の大企業では、ITガバナンスや基幹システムの重要性が高く、IT部門長が経営層に近い扱いを受けるケースがあります。一方、ITをコストセンターとして位置づける企業では、同等の職責でも給与水準が抑えられる傾向があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## なぜ社内SEは年収が上がりにくいとされるのか
 
@@ -82,6 +88,11 @@ ERP（SAP、Oracle等）の大規模導入経験、クラウド移行の主導�
 この事例が示すのは、「在籍企業内での評価が天井に達した場合、外部市場への移動が有効な手段になり得る」という点です。同時に、転職を成立させたのは「大規模プロジェクトの主導経験」という、再現性のある成果の言語化でした。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

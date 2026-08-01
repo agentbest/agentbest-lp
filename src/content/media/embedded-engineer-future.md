@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["組み込みエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-future"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-future.png"
 related: ["embedded-engineer-english", "embedded-engineer-in-30s", "embedded-engineer-certification", "pmo-future", "cto-vpoe-future"]
 ---
@@ -18,6 +19,11 @@ related: ["embedded-engineer-english", "embedded-engineer-in-30s", "embedded-eng
 本稿では、組み込みエンジニアを取り巻く市場環境の構造変化を整理し、AI時代において市場価値を維持・向上させるために必要な条件を実務的な視点から論じる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 組み込み市場の構造変化：縮小する領域と拡大する領域
 
@@ -103,6 +109,11 @@ AIツールの台頭により、コードの生成・補完は自動化が進み
 このような経歴を持つエンジニアは、RTOSとAI推論を組み合わせた開発ができる人材として、スタートアップや大手Tier1サプライヤーのR&D部門から評価されやすくなる傾向にある。年収レンジも移行前と比較して上方に動くケースが報告されているが、移行先の企業規模や事業フェーズによって差が大きい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

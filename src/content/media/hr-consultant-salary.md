@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["人事・組織コンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "hr-consultant-salary"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-salary.png"
 related: ["hr-consultant-in-30s", "hr-consultant-salary-1000", "hr-consultant-failure", "web-marketer-salary", "embedded-engineer-salary"]
 ---
@@ -18,6 +19,11 @@ related: ["hr-consultant-in-30s", "hr-consultant-salary-1000", "hr-consultant-fa
 本記事では、20〜30代のビジネスパーソンが人事・組織コンサルタントとしてのキャリアを検討・設計するうえで必要な年収の実態と、年収を引き上げるための構造的な要因を整理します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-salary">キャリアを相談する</a>
+</aside>
 
 ## 人事・組織コンサルタントの年収レンジ【役職・年齢別】
 
@@ -110,6 +116,11 @@ related: ["hr-consultant-in-30s", "hr-consultant-salary-1000", "hr-consultant-fa
 マネージャー職になる前に、プロジェクトマネジメントやクライアントとの定例ファシリテーションを担う機会を意図的に増やすことで、評価サイクルを早める効果が期待できます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

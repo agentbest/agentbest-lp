@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["モバイルエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-failure"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-failure.png"
 related: ["mobile-engineer-certification", "mobile-engineer-from-scratch", "mobile-engineer-salary-600", "thinktank-failure", "corporate-planning-failure"]
 ---
@@ -56,6 +57,11 @@ iOS エンジニアとして専門性を深めてきたにもかかわらず、�
 入社先が採用している技術を「現時点で使いやすいから」という理由だけで選んでいるのか、中長期的な視点で意図して採用しているのかは、採用担当者や現場エンジニアへのヒアリングで確認できることがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## 入社前に確認すべきチェックリスト
 
@@ -107,6 +113,11 @@ iOS エンジニアとして専門性を深めてきたにもかかわらず、�
 年収改善は転職の重要な目的の一つだが、それ単独を最優先にした意思決定は、入社後の早期離脱リスクを高める傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

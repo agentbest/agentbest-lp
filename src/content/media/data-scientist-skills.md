@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["データサイエンティスト", "必要スキル"]
 pubDate: 2026-07-04
 slug: "data-scientist-skills"
+hub: "data-scientist"
 image: "/images/media/data-scientist-skills.png"
 related: ["data-scientist-future", "data-scientist-how-to-use-agent", "data-scientist-from-scratch", "dx-consultant-skills", "pmo-consultant-skills"]
 ---
@@ -26,6 +27,11 @@ related: ["data-scientist-future", "data-scientist-how-to-use-agent", "data-scie
 この3層はどれかが著しく欠けると採用・昇給の両面で評価されにくくなる構造を持ちます。ただし、企業の規模や業種によって重視される層の比重は異なるため、自分が目指すポジションの要件と照らし合わせることが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル別の市場評価レンジ
 
@@ -116,6 +122,11 @@ A/Bテストをはじめとする実験設計は、施策の効果を測定す�
 統計・実装の基礎を実務で積みながら、ビジネス側の意思決定にどう貢献したかをエピソードベースで語れる。モデルの精度改善だけでなく、KPIへの影響を追跡した経験があり、上位ポジションの候補として評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

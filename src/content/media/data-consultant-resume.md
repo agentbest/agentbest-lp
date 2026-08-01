@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["データ・アナリティクスコンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "data-consultant-resume"
+hub: "data-consultant"
 image: "/images/media/data-consultant-resume.png"
 related: ["data-consultant-career-guide", "data-consultant-salary-1000", "data-consultant-interview", "ml-engineer-resume", "ma-advisor-resume"]
 ---
@@ -38,6 +39,11 @@ DAコンサルタントのバックグラウンドは多様です。SIer出身�
 職務経歴書を書く前に、「自分が最も価値を発揮してきたのはどのフェーズか」を明確に定めることが、記述の軸ぶれを防ぐうえで重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 構成の全体像：推奨フォーマット
 
@@ -130,6 +136,11 @@ DAコンサルタントのバックグラウンドは多様です。SIer出身�
 このような記述は、技術的な実装力・分析設計力・クライアントワーク力の3軸を1つのプロジェクト記述の中で示す構造になっています。「成果の数値を誇張するのではなく、文脈とともに記述する」姿勢が採用担当者の信頼性評価に影響しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## 特に注意すべき3つのポイント
 

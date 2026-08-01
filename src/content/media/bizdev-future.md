@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["事業開発", "将来性"]
 pubDate: 2026-07-04
 slug: "bizdev-future"
+hub: "bizdev"
 image: "/images/media/bizdev-future.png"
 related: ["bizdev-market-trend", "bizdev-failure", "bizdev-salary", "it-consultant-future", "uiux-designer-future"]
 ---
@@ -34,6 +35,11 @@ SaaS・スタートアップ・コンサル各業界において、事業開発�
 ### 変化③：「0→1」と「1→10」の機能分離
 
 スタートアップが成熟するにつれ、事業開発の機能が「新規事業の立ち上げ（0→1）」と「既存事業の拡張・提携（1→10）」に分離される動きが目立ってきた。どちらにも将来性はあるが、必要なスキルセットと向いている人材プロファイルは異なる。自分がどちらに強みを持つかを自覚せずにいると、採用市場でポジションが曖昧になりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種としての市場価値：他職種との比較
 
@@ -76,6 +82,11 @@ AIが与えられた情報から答えを導く速度は人間を超えつつあ
 **転換後：** AIツールを用いて調査・文書作業を大幅に効率化し、浮いた工数を「パートナー候補のビジネスモデル理解」と「自社CFO・CPOへの戦略提言」に再配分。その結果、6か月以内に単なる「提携担当」から「経営会議に同席する事業設計者」としての役割に移行した。
 
 **示唆するポイント：** AIによる効率化の恩恵を「手数の削減」に留めず、「判断の質と上流化」に転換できた人材が、事業開発の市場価値を実質的に高めている。この型は再現性が高い。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["ITコンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "it-consultant-certification"
+hub: "it-consultant"
 image: "/images/media/it-consultant-certification.png"
 related: ["it-consultant-skills", "it-consultant-company-size", "it-consultant-from-scratch", "digital-marketer-certification", "hr-consultant-certification"]
 ---
@@ -44,6 +45,11 @@ ITコンサルタントとして転職・昇進を検討する際、「資格取
 この構造を踏まえると、「自分が目指すキャリアの文脈で資格が評価されるか」を先に確認することが、学習投資の効率を左右します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格：優先度別の整理
 
@@ -107,6 +113,11 @@ ITサービスマネジメントのフレームワーク「ITIL」の基礎知�
 資格が「補強材料」として最大限機能するのは、実務経験・プロジェクト実績・コミュニケーション能力がある程度確立された状態です。経験が浅い段階では、資格取得が学習の構造化ツールとして機能する面もあるため、一概に「後回しにすべき」とは言えません。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

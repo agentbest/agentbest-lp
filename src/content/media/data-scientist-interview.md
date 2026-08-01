@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["データサイエンティスト", "面接対策"]
 pubDate: 2026-07-04
 slug: "data-scientist-interview"
+hub: "data-scientist"
 image: "/images/media/data-scientist-interview.png"
 related: ["data-scientist-work-style", "data-scientist-motivation", "data-scientist-career-guide", "pmo-consultant-interview", "salesforce-consultant-interview"]
 ---
@@ -30,6 +31,11 @@ related: ["data-scientist-work-style", "data-scientist-motivation", "data-scient
 フェーズごとに評価者が異なり、求められるコミュニケーションの粒度も変わる。技術面接では手法の選定根拠を問われ、最終面接ではビジネス上の意思決定にどう貢献できるかを問われる傾向がある。この切り替えを意識できていないと、技術担当者には合格しても事業部門の面接でつまずくケースが生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問のカテゴリと回答の組み立て方
 
@@ -92,6 +98,11 @@ related: ["data-scientist-work-style", "data-scientist-motivation", "data-scient
 最後の点は特に差がつきやすい。「御社では〇〇という課題があると推測しており、私の〇〇の経験が貢献できると考えています」という接続を面接中に自然に行えると、受け身の候補者との差別化が図れる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["PMOコンサルタント", "キャリアパス"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-career-path"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-career-path.png"
 related: ["pmo-consultant-salary-600", "pmo-consultant-resume", "pmo-consultant-in-30s", "sap-consultant-career-path", "mlops-engineer-career-path"]
 ---
@@ -33,6 +34,11 @@ PMOコンサルタントのキャリアは、大きく以下の4方向に展開�
 4. **事業会社への転換（内製PMO）**：メーカー・金融・IT企業などのIT部門や経営企画部門にてPMO機能を社内から担う経路
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## 各キャリアパスの実態と年収レンジ
 
@@ -100,6 +106,11 @@ PMO経験をもとに戦略・業務改革・組織変革領域に越境する�
 PMOコンサルタントとして10年以上同じ機能に留まり、「プロジェクト管理の実務担当者」としてのみ認識されると、40代以降のポジション確保が難しくなる場合がある。これは年齢によるというより、「管理専門職」としての市場の需給構造に起因する。30代のうちに「何らかの上位概念（PM・戦略・組織変革・業界PMO）へのシフト実績を持つ」か、「PMO専門家として上位職に到達する」かのいずれかを意図的に選択することが、中長期的な安定性につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

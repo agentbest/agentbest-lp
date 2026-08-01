@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["バックエンドエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "backend-engineer-career-guide"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-career-guide.png"
 related: ["backend-engineer-in-20s", "backend-engineer-market-trend", "backend-engineer-from-scratch", "recruiter-career-guide", "bizdev-career-guide"]
 ---
@@ -20,6 +21,11 @@ related: ["backend-engineer-in-20s", "backend-engineer-market-trend", "backend-e
 本稿では、仕事内容の整理から年収相場、企業の見極め方、転職活動の進め方まで、実務に即した形で解説します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## バックエンドエンジニアの仕事内容と役割範囲
 
@@ -125,6 +131,11 @@ related: ["backend-engineer-in-20s", "backend-engineer-market-trend", "backend-e
 コーディングテストはLeetCode形式またはHackerRankが多く、アルゴリズム・データ構造の基礎が問われます。加えて、シニアレベル以上の求人ではシステムデザイン面接が設定されるケースが増えています。「大規模なSNSの投稿フィードをどう設計するか」「決済処理の信頼性をどう担保するか」といった問いに対して、トレードオフを踏まえて説明できる準備が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

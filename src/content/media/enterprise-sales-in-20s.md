@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["エンタープライズセールス", "20代転職"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-in-20s"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-in-20s.png"
 related: ["enterprise-sales-work-style", "enterprise-sales-motivation", "enterprise-sales-company-size", "big4-consultant-in-20s", "platform-engineer-in-20s"]
 ---
@@ -28,6 +29,11 @@ SMB（中小企業向け）営業との本質的な違いは、意思決定構�
 こうした構造的な複雑さゆえに、エンタープライズセールスは「経験者採用が基本」とされやすい職種です。ただし、20代のポテンシャル採用が存在するフェーズと企業類型があることも事実です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代ポテンシャル採用の実態：どの企業がなぜ採るのか
 
@@ -106,6 +112,11 @@ SMB（中小企業向け）営業との本質的な違いは、意思決定構�
 数値はあくまで相場観の目安であり、職種・役割・個人の経験によって大きく異なります。外資系はOTE（On-Target Earnings）という概念でベース＋インセンティブを合算して提示することが多いため、比較時は構造の確認が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

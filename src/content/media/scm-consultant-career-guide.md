@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["SCM・調達コンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "scm-consultant-career-guide"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-career-guide.png"
 related: ["scm-consultant-how-to-use-agent", "scm-consultant-certification", "scm-consultant-motivation", "sre-career-guide", "corporate-planning-career-guide"]
 ---
@@ -34,6 +35,11 @@ SCM・調達コンサルタントの業務は、大きく「戦略策定フェ�
 プロジェクト期間は3か月〜1年程度が多く、実装フェーズが長期化する案件では18か月を超えることもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値と年収の目安
 
@@ -110,6 +116,11 @@ SCM・調達コンサルタントへの転職経路は一通りではなく、�
 このケースが示すように、事業会社出身者は「業界知識の深さ」を具体的な数値や成果と結びつけて語れるかどうかが採用判断の分かれ目になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職活動における実践的なポイント
 

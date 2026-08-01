@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["シンクタンク研究員", "年収1000万"]
 pubDate: 2026-07-05
 slug: "thinktank-salary-1000"
+hub: "thinktank"
 image: "/images/media/thinktank-salary-1000.png"
 related: ["thinktank-from-scratch", "thinktank-career-guide", "thinktank-certification", "security-engineer-salary-1000", "corporate-planning-salary-1000"]
 ---
@@ -39,6 +40,11 @@ related: ["thinktank-from-scratch", "thinktank-career-guide", "thinktank-certifi
 4. **外部活動の有無**：審議会委員・学会活動・書籍執筆・メディア出演による外部評価は、機関内での評価向上や兼業収入に繋がる場合があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリアパターン
 
@@ -92,6 +98,11 @@ related: ["thinktank-from-scratch", "thinktank-career-guide", "thinktank-certifi
 ただし上記はあくまで大まかな傾向であり、研究の質や機関の規模・収益構造によって大きく変わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

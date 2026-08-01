@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["事業企画", "面接対策"]
 pubDate: 2026-07-04
 slug: "business-planning-interview"
+hub: "business-planning"
 image: "/images/media/business-planning-interview.png"
 related: ["business-planning-career-path", "business-planning-how-to-use-agent", "business-planning-skills", "cto-vpoe-interview", "sap-consultant-interview"]
 ---
@@ -27,6 +28,11 @@ related: ["business-planning-career-path", "business-planning-how-to-use-agent",
 競合環境や市場構造を自分の言葉で語れるか。特に転職の場合、応募先の事業モデルをどこまで理解した上で選考に臨んでいるかが問われる。
 
 この3軸を念頭に置くと、個々の質問がどの能力を測ろうとしているかが見えてくる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -122,6 +128,11 @@ related: ["business-planning-career-path", "business-planning-how-to-use-agent",
 | シニア・事業責任者クラス | 7年以上 | 950万円〜 |
 
 ※上記はIT・SaaS領域における目安であり、企業の資金調達状況や業種によって大きく異なる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

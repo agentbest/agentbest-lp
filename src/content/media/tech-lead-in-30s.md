@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["テックリード", "30代転職"]
 pubDate: 2026-07-04
 slug: "tech-lead-in-30s"
+hub: "tech-lead"
 image: "/images/media/tech-lead-in-30s.png"
 related: ["tech-lead-future", "tech-lead-salary", "tech-lead-interview", "dev-director-in-30s", "presales-in-30s"]
 ---
@@ -28,6 +29,11 @@ related: ["tech-lead-future", "tech-lead-salary", "tech-lead-interview", "dev-di
 30代で転職市場に出るテックリード候補は、この三つをどの程度自分の言葉で語れるかが、採用可否に直結します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代即戦力採用で求められる能力の構造
 
@@ -109,6 +115,11 @@ Webアプリケーション開発を中心に7年のキャリアを持つ33歳�
 このケースが示すのは、「テックリード経験なし」という自己評価が、経歴の再解釈によって転換しうるという点です。重要なのは役職名ではなく、意思決定と貢献の実績を文脈の中で語れるかどうかです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

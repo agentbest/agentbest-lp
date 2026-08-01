@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["SRE", "市場動向"]
 pubDate: 2026-07-04
 slug: "sre-market-trend"
+hub: "sre"
 image: "/images/media/sre-market-trend.png"
 related: ["sre-resume", "sre-motivation", "sre-how-to-use-agent", "ml-engineer-market-trend", "erp-consultant-market-trend"]
 ---
@@ -26,6 +27,11 @@ SRE（Site Reliability Engineering）は2010年代後半からメガテック・
 **第三に、報酬水準は職種全体として上昇傾向にあるものの、スキルの実証可否によって分散が大きくなっています。** 経験年数が同程度でも、SLI/SLO設計の実績やOSSへの貢献実績の有無で、オファー年収に大きな差が生じやすい状況です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-market-trend">無料で相談する</a>
+</aside>
 
 ## 採用ニーズの変化：何が求められるようになったか
 
@@ -86,6 +92,11 @@ SRE（Site Reliability Engineering）は2010年代後半からメガテック・
 このケースが示すように、2026年の採用市場では「SREの肩書き」よりも「SREの思想を実践した経験」が選考の鍵になる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

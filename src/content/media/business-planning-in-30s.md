@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["事業企画", "30代転職"]
 pubDate: 2026-07-04
 slug: "business-planning-in-30s"
+hub: "business-planning"
 image: "/images/media/business-planning-in-30s.png"
 related: ["business-planning-work-style", "business-planning-in-20s", "business-planning-how-to-use-agent", "web-marketer-in-30s", "sre-in-30s"]
 ---
@@ -18,6 +19,11 @@ related: ["business-planning-work-style", "business-planning-in-20s", "business-
 事業企画は企業によって職務範囲が異なるが、共通して求められる機能は「事業の方向性を定め、実行可能な形に落とし込むこと」にある。具体的には新規事業の立案・検証、既存事業の収益改善策の設計、事業部横断での戦略調整、経営層への提言・資料作成などが含まれる。
 
 30代に対して採用企業が期待するのは、こうした業務を自律的に遂行できる水準である。20代の事業企画採用では「論理的思考力があれば育成可能」という判断が成立しやすいが、30代の場合は「今日から価値を出せるか」という観点が採用基準の中心になる。経験のある業界・プロダクト領域の知識、ステークホルダーとの折衝経験、数字を根拠とした意思決定の経験——これらが揃って初めて「即戦力」と見なされる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 採用企業が重視する経験・スキルの構造
 
@@ -81,6 +87,11 @@ related: ["business-planning-work-style", "business-planning-in-20s", "business-
 | アーリー〜ミドルスタートアップ | 500〜750万円＋ストックオプション | 変動幅大・責任範囲広・成長機会多 |
 
 年収交渉においては、「現職の年収維持」を前提に話を進めることが基本であるが、スタートアップへの転職ではベース年収が現職を下回るケースもある。その場合、ストックオプションの付与規模・行使条件・バリュエーションの見通しを確認した上で総合的に判断することが求められる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

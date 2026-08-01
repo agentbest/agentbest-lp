@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["ITコンサル", "職務経歴書", "転職"]
 pubDate: 2026-07-03
 slug: "it-consultant-resume"
+hub: "it-consultant"
 image: "/images/media/it-consultant-resume.png"
 related: ["it-consultant-motivation", "it-consultant-interview", "it-consultant-career-guide", "it-consultant-salary", "it-consultant-skills"]
 ---
@@ -22,6 +23,11 @@ ITコンサル転職の職務経歴書は、所属部署の説明ではなく案
 - **自分の役割**：ポジションと担当領域
 - **具体的な取り組み**：課題→打ち手→結果の構造で
 - **成果**：可能な限り数字で
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## 数字の使い方
 
@@ -81,6 +87,11 @@ ITコンサル転職の職務経歴書は、所属部署の説明ではなく案
 - 誤字脱字・表記ゆれがないか（西暦/和暦の混在等）
 
 最後の項目は軽視されがちですが、ドキュメントが商品であるコンサルタントにとって、書類の体裁は能力の証明の一部です。第三者のレビューを一度は通すことをおすすめします。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

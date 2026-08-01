@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["人事", "志望動機"]
 pubDate: 2026-07-04
 slug: "hrbp-motivation"
+hub: "hrbp"
 image: "/images/media/hrbp-motivation.png"
 related: ["hrbp-future", "hrbp-certification", "hrbp-how-to-use-agent", "salesforce-consultant-motivation", "it-consultant-motivation"]
 ---
@@ -24,6 +25,11 @@ related: ["hrbp-future", "hrbp-certification", "hrbp-how-to-use-agent", "salesfo
 もう一つは、**人事職特有の志望動機の類似性**です。「人が好きだから」「人を支えたい」「組織に貢献したい」といった表現は、多くの候補者が使います。採用担当者はそれを日々読み続けているため、抽象度の高い動機は埋没しやすい傾向があります。深みのある志望動機を書くためには、自分の経験と人事という仕事の本質を結びつける解像度が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 志望動機の基本構造
 
@@ -88,6 +94,11 @@ related: ["hrbp-future", "hrbp-certification", "hrbp-how-to-use-agent", "salesfo
 **改善の方向性**：企業の採用方針・組織体制・事業フェーズ・公開されている人事課題（採用ブログ・IR・採用ページなど）を参照し、「この会社の人事だからこそ」という具体性を加える。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

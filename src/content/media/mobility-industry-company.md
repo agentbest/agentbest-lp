@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["モビリティ・自動運転", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "mobility-industry-company"
+hub: "mobility-industry"
 image: "/images/media/mobility-industry-company.png"
 related: ["mobility-industry-trend", "mobility-industry-salary", "mobility-industry-guide", "govtech-industry-company", "iot-industry-company"]
 ---
@@ -26,6 +27,11 @@ related: ["mobility-industry-trend", "mobility-industry-salary", "mobility-indus
 加えて、規制・認証・インフラとの連携が収益化の条件になるケースが多く、技術的な完成度が高くても社会実装が遅れるリスクが構造的に存在します。このため、一般的なスタートアップ評価のフレームワークをそのまま適用しても、企業の実態を正確に把握することは難しいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業を評価する5つの軸
 
@@ -108,6 +114,11 @@ related: ["mobility-industry-trend", "mobility-industry-salary", "mobility-indus
 この場合、判断の分岐点になりやすいのは「意思決定への関与範囲」と「リスク許容度」です。技術的挑戦と組織への直接的な影響力を優先するならA社が合いやすく、大手との連携や事業の社会的スケールを重視するならB社が合いやすい傾向があります。どちらが客観的に優れているわけではなく、自身のキャリアフェーズ・経済的許容度・優先する学習環境によって結論が変わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-company">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["データ・アナリティクスコンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "data-consultant-in-30s"
+hub: "data-consultant"
 image: "/images/media/data-consultant-in-30s.png"
 related: ["data-consultant-certification", "data-consultant-career-path", "data-consultant-skills", "it-architect-in-30s", "game-engineer-in-30s"]
 ---
@@ -26,6 +27,11 @@ related: ["data-consultant-certification", "data-consultant-career-path", "data-
 3. **プロジェクト・チームを動かした経験があるか**——スコープ管理、ステークホルダー調整、後輩指導などの実績
 
 この三点がそろって初めて「30代即戦力」の評価軸を満たせます。どれか一つが薄い場合、選考では補強の余地があるかどうかが問われます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求められるスキルと経験の全体像
 
@@ -100,6 +106,11 @@ related: ["data-consultant-certification", "data-consultant-career-path", "data-
 コンサルファームの面接では、ケース面接とオーソドックスな職歴面接を組み合わせる形式が多く見られます。30代候補者に課されるケースは、「分析設計の妥当性」「クライアントへの説明論理」「データの限界をどう扱うか」といった実務判断を問うものが多い傾向です。
 
 練習の際は「答えの正確さ」よりも「思考プロセスの可視化」と「ビジネス示唆の質」を意識することが有効です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

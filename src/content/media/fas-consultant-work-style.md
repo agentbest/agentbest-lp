@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["会計・財務コンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "fas-consultant-work-style"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-work-style.png"
 related: ["fas-consultant-career-path", "fas-consultant-in-20s", "fas-consultant-motivation", "marketing-manager-work-style", "hr-consultant-work-style"]
 ---
@@ -25,6 +26,11 @@ related: ["fas-consultant-career-path", "fas-consultant-in-20s", "fas-consultant
 | 事業会社のFP&A・財務企画 | 予算管理・中計策定・CFO参謀業務 | 月次・四半期末が繁忙。それ以外は比較的安定 | 高（職種として定着しやすい） |
 
 この分類を念頭に置くことで、「会計・財務コンサルタント」という職種の働き方を一般化することの難しさが分かる。以下では各類型の実態を掘り下げる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 稼働時間のリアル：フェーズと役割職位による差
 
@@ -88,6 +94,11 @@ related: ["fas-consultant-career-path", "fas-consultant-in-20s", "fas-consultant
 大手会計系ファームでは、2010年代後半から稼働管理・業務効率化の取り組みが本格化した。勤怠管理システムの厳格化、案件工数の見積もり精度向上、アナリスト層への負荷分散などが進んだことで、以前と比べると長時間労働の構造的な改善が進んでいる。とはいえ、案件の性質上「締め切りが外部（クライアントのDDスケジュール等）によって決まる」という構造は変わっておらず、ピーク稼働の発生を完全に排除することは難しい。
 
 独立系ブティックや中小規模のアドバイザリー会社では、組織的な働き方改革の浸透に差がある。入社前に残業時間の実態・有休取得率・育児・介護との両立実績を確認することは、転職判断において重要な情報収集になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

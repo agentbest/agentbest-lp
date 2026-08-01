@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["テックリード", "志望動機"]
 pubDate: 2026-07-04
 slug: "tech-lead-motivation"
+hub: "tech-lead"
 image: "/images/media/tech-lead-motivation.png"
 related: ["tech-lead-from-scratch", "tech-lead-failure", "tech-lead-in-30s", "customer-success-motivation", "db-engineer-motivation"]
 ---
@@ -33,6 +34,11 @@ related: ["tech-lead-from-scratch", "tech-lead-failure", "tech-lead-in-30s", "cu
 この3点が揃っていない志望動機は、いくら文章が整っていても「表面的」と判断される傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -99,6 +105,11 @@ related: ["tech-lead-from-scratch", "tech-lead-failure", "tech-lead-in-30s", "cu
 **改善の方向性**：技術ブログや求人票から読み取った具体的な課題・フェーズ・スタックを引用し、「なぜここでテックリードをしたいのか」を技術的な粒度で書く。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

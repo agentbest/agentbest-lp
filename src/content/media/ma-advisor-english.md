@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["M&Aアドバイザー", "英語力"]
 pubDate: 2026-07-04
 slug: "ma-advisor-english"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-english.png"
 related: ["ma-advisor-company-size", "ma-advisor-failure", "ma-advisor-in-30s", "solution-architect-english", "cloud-engineer-english"]
 ---
@@ -32,6 +33,11 @@ M&Aアドバイザーの業務を大きく分類すると、「案件ソーシ�
 逆に国内M&Aに特化したファームでは、英語ドキュメントを扱う機会は限定的であり、TOEIC高スコアを採用条件に挙げない組織も多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-english">無料で相談する</a>
+</aside>
 
 ## 求められる英語レベルの目安
 
@@ -96,6 +102,11 @@ IT系メーカーに新卒入社後、国内のM&A部門で5年程度の経験�
 第三に、英語での情報収集能力が業務を補完する。特にセクターレポート・海外類似取引事例・クロスボーダーのバリュエーション事例などは英語での一次情報が多く、読解力があるだけで情報の深度が変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

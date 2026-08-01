@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["インフラエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "infra-engineer-market-trend"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-market-trend.png"
 related: ["infra-engineer-career-guide", "infra-engineer-company-size", "infra-engineer-in-20s", "business-planning-market-trend", "it-architect-market-trend"]
 ---
@@ -32,6 +33,11 @@ related: ["infra-engineer-career-guide", "infra-engineer-company-size", "infra-e
 SRE（Site Reliability Engineering）やプラットフォームエンジニアリングという職種概念が国内企業にも定着しつつある。これらのポジションはインフラエンジニアの延長線上にあるが、コーディング・SLO設計・オブザーバビリティ実装のスキルが加わる。インフラ経験者にとっては、市場価値を上げる有力な移行先となっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズのシフト：求められるスキルセットの変化
 
@@ -110,6 +116,11 @@ SRE（Site Reliability Engineering）やプラットフォームエンジニア�
 AWS・Azure・GCPのパートナー企業や直接雇用ポジション。英語要件が発生しやすく、グローバルな技術動向にアクセスしやすい環境が特徴である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

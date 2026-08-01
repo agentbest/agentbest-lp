@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["M&Aアドバイザー", "20代転職"]
 pubDate: 2026-07-04
 slug: "ma-advisor-in-20s"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-in-20s.png"
 related: ["ma-advisor-failure", "ma-advisor-work-style", "ma-advisor-salary-600", "digital-marketer-in-20s", "tech-lead-in-20s"]
 ---
@@ -20,6 +21,11 @@ M&Aアドバイザーという職種は、他の金融系専門職と比較し�
 第一に、国内のM&A件数は中期的に増加傾向にあり、案件を担える人材が慢性的に不足している。特に中堅・中小企業を対象とするM&A仲介会社では、人材の採用・育成を前提とした事業モデルをとっているケースが多い。第二に、M&Aアドバイザーの業務は財務分析・法務知識だけでなく、オーナー経営者との長期的な信頼構築やプロジェクト管理能力が求められる。こうした能力は入社後に鍛えられる部分も大きく、即戦力性よりも「伸びしろと素地」が選考軸になりやすい。
 
 ただし、ポテンシャル採用が成立しやすいのは主に**M&A仲介会社**であり、投資銀行のM&Aアドバイザリー部門や大手ファイナンシャルアドバイザリー（FA）では依然として高い専門性・学歴・経歴が求められる傾向がある。この区分を混同すると、自分の立ち位置を見誤ることになるため注意が必要だ。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 企業類型と採用難易度の構造
 
@@ -93,6 +99,11 @@ M&A仲介会社の選考は、多くの場合「書類→複数回の面接→�
 
 **財務知識の最低限の習得**
 全くの白紙では不利になることが多い。PL・BS・CFの基本的な読み方、EBITDAの概念、簡単なバリュエーションの考え方程度は事前に押さえておきたい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["アドテック・マーケティングテック", "業界年収"]
 pubDate: 2026-07-05
 slug: "adtech-industry-salary"
+hub: "adtech-industry"
 image: "/images/media/adtech-industry-salary.png"
 related: ["adtech-industry-career", "adtech-industry-company", "adtech-industry-trend", "web3-industry-salary", "proptech-industry-salary"]
 ---
@@ -24,6 +25,11 @@ related: ["adtech-industry-career", "adtech-industry-company", "adtech-industry-
 - **プロダクトの収益構造**：広告配信プラットフォームや自動化SaaSは粗利率が高く、人材への還元余力が大きくなりやすい
 - **グローバル資本の有無**：外資系または外資から投資を受けた企業は、グローバルグレード制度が年収テーブルを引き上げる傾向にある
 - **職種の希少性**：データエンジニアリング、プロダクトマネジメント、アドフラウド対策などの専門職は市場供給が少なく、相場が高くなりやすい
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-salary">無料で相談する</a>
+</aside>
 
 ## 職種別 年収レンジの目安
 
@@ -93,6 +99,11 @@ related: ["adtech-industry-career", "adtech-industry-company", "adtech-industry-
 **オファーの構成要素を分解して評価する**：基本給・賞与（固定/変動比率）・株式報酬・福利厚生の価値換算（在宅手当、健康診断、学習補助等）をすべて加味したトータル報酬で比較する
 
 **自分のレバレッジを明確にする**：「希少スキルを持っているか」「複数社から内定を得ているか」「現職の更新タイミング（期末評価前後）か」という3点が交渉上のレバレッジになりやすい
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

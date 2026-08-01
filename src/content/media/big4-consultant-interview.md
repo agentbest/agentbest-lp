@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["総合コンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "big4-consultant-interview"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-interview.png"
 related: ["big4-consultant-career-path", "big4-consultant-certification", "big4-consultant-career-guide", "customer-success-interview", "bridge-se-interview"]
 ---
@@ -32,6 +33,11 @@ BIG4をはじめとする総合コンサルティングファームの中途採�
 中途採用においては、新卒・第二新卒と異なり、「前職での実績をコンサルタントの文脈でどう翻訳できるか」が選考全体を通じたテーマになります。IT・SaaS・事業会社出身者がよく陥るのは、実績をそのまま語ってしまい、クライアントへの価値提供や組織横断の変革という軸での語りが弱くなるパターンです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -104,6 +110,11 @@ BIG4をはじめとする総合コンサルティングファームの中途採�
 このように、経験の事実は変えられなくても、解釈の枠組みを変えることで選考での伝わり方は大きく変わりえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

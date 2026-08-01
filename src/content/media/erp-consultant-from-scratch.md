@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["ERPコンサルタント", "未経験転職"]
 pubDate: 2026-07-05
 slug: "erp-consultant-from-scratch"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-from-scratch.png"
 related: ["erp-consultant-market-trend", "erp-consultant-certification", "erp-consultant-future", "salesforce-consultant-from-scratch", "security-engineer-from-scratch"]
 ---
@@ -24,6 +25,11 @@ ERPコンサルタントの仕事は、これらのパッケージを顧客企�
 重要な点は、ERPコンサルタントは「ITエンジニア」でも「経営コンサルタント」でもなく、**業務知識とシステム知識の両方を架け橋にする職種**だということです。この特性が、未経験からの参入ルートと必要スキルの議論に直結します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験転職の現実：ポジションによって難易度が異なる
 
@@ -122,6 +128,11 @@ ERPコンサルタントを育成する体制が整っている大手・中堅SI
 この類型では、入社後6〜12か月程度で要件定義から設定作業までを担える「機能担当コンサルタント」として立つことができるケースが多い傾向があります。ただし、最初の1〜2年は業務知識とシステム知識の両方を同時に深める必要があり、学習量は相応に多くなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

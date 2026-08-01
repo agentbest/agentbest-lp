@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["事業企画", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "business-planning-resume"
+hub: "business-planning"
 image: "/images/media/business-planning-resume.png"
 related: ["business-planning-company-size", "business-planning-english", "business-planning-in-30s", "pr-resume", "legal-resume"]
 ---
@@ -30,6 +31,11 @@ related: ["business-planning-company-size", "business-planning-english", "busine
 この3点が職務経歴書から読み取れない場合、経験そのものの豊かさに関わらず書類選考で落とされやすくなります。逆に言えば、記述を構造化するだけで通過率が改善するケースは少なくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -153,6 +159,11 @@ related: ["business-planning-company-size", "business-planning-english", "busine
 SQLやTableauなどは「活用できるツール」として記載しつつ、熟練度の目安（基礎レベル・独力でのモデリング可など）を添えると誤解が生じにくくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

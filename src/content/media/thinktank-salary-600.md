@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["シンクタンク研究員", "年収600万"]
 pubDate: 2026-07-05
 slug: "thinktank-salary-600"
+hub: "thinktank"
 image: "/images/media/thinktank-salary-600.png"
 related: ["thinktank-in-20s", "thinktank-from-scratch", "thinktank-motivation", "data-engineer-salary-600", "solution-architect-salary-600"]
 ---
@@ -29,6 +30,11 @@ related: ["thinktank-in-20s", "thinktank-from-scratch", "thinktank-motivation", 
 年収600万円という水準は、民間系の中堅研究員であれば30代前半で視野に入ってくることが多い一方、官庁系や独立系では主任・上席クラスへの昇格か、外部活動の組み合わせがなければ到達しにくい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 年収600万円の壁になりやすい要素
 
@@ -88,6 +94,11 @@ related: ["thinktank-in-20s", "thinktank-from-scratch", "thinktank-motivation", 
 このケースは特定の実例ではなく、よく見られるパターンを整理した型であるが、「制度の解像度を上げる」「外部接点を意図的に増やす」という2点が共通の突破口になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

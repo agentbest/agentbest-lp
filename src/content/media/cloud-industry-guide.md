@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["クラウドインフラ", "業界研究"]
 pubDate: 2026-07-05
 slug: "cloud-industry-guide"
+hub: "cloud-industry"
 image: "/images/media/cloud-industry-guide.png"
 related: ["cloud-industry-salary", "cloud-industry-company", "cloud-industry-trend", "adtech-industry-guide", "game-industry-guide"]
 ---
@@ -24,6 +25,11 @@ related: ["cloud-industry-salary", "cloud-industry-company", "cloud-industry-tre
 これらの構造変化は、短期的なトレンドではなく、10年単位で続く産業再編の流れと捉えるのが実態に近いでしょう。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 業界の主要プレイヤー分類
 
@@ -109,6 +115,11 @@ SIer出身者の強みは「複数プロジェクトにわたる設計経験の�
 これらは「経験の有無」だけでなく、「思考のプロセスと言語化能力」を評価するための質問であることが多いため、結論・背景・判断根拠・結果の構造で回答を準備しておくことが望ましいでしょう。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

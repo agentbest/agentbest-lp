@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["広報／PR", "年収1000万"]
 pubDate: 2026-07-04
 slug: "pr-salary-1000"
+hub: "pr"
 image: "/images/media/pr-salary-1000.png"
 related: ["pr-certification", "pr-career-guide", "pr-motivation", "ai-engineer-salary-1000", "frontend-engineer-salary-1000"]
 ---
@@ -40,6 +41,11 @@ related: ["pr-certification", "pr-career-guide", "pr-motivation", "ai-engineer-s
 この2つの構造を理解したうえで、年収1,000万円への到達者がどのような選択をしてきたかを見ていきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 到達者に共通するキャリアの要素
 
@@ -104,6 +110,11 @@ PR職で1,000万円を目指す場合、マネジメント経路とスペシャ�
 数値化が難しい職種だからこそ、「構造化して語る力」が市場価値の差になりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

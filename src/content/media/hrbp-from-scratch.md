@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["人事", "未経験転職"]
 pubDate: 2026-07-04
 slug: "hrbp-from-scratch"
+hub: "hrbp"
 image: "/images/media/hrbp-from-scratch.png"
 related: ["hrbp-work-style", "hrbp-failure", "hrbp-in-20s", "engineering-manager-from-scratch", "data-consultant-from-scratch"]
 ---
@@ -32,6 +33,11 @@ related: ["hrbp-work-style", "hrbp-failure", "hrbp-in-20s", "engineering-manager
 未経験転職において現実的な入口は**採用担当**と**労務管理**の2つが中心となる。制度設計やHRBPは、大半の企業で即戦力採用を前提としており、人事内でのキャリアアップを経て担う職務と位置づけた方が実態に即している。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 未経験が持ち込める「前職スキルの変換」
 
@@ -120,6 +126,11 @@ Aさんは、自社の採用に課題があると感じていたことや、候�
 数値はあくまで一般的な相場感の目安であり、企業規模・業種・個人の実績によって幅がある。スタートアップの場合はストックオプションが報酬の一部を構成することもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

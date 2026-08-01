@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["法務", "年収相場"]
 pubDate: 2026-07-04
 slug: "legal-salary"
+hub: "legal"
 image: "/images/media/legal-salary.png"
 related: ["legal-english", "legal-skills", "legal-resume", "fullstack-engineer-salary", "tech-lead-salary"]
 ---
@@ -33,6 +34,11 @@ related: ["legal-english", "legal-skills", "legal-resume", "fullstack-engineer-s
 - **英語力・国際法務経験**：クロスボーダー案件を扱える人材は希少性が高く、処遇に反映されやすい
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する「専門領域」の構造
 
@@ -119,6 +125,11 @@ related: ["legal-english", "legal-skills", "legal-resume", "fullstack-engineer-s
 法務職では、「プロジェクトの区切り」や「スキルが一段階上がったと感じたタイミング」が転職の適切な時期の目安となることが多い。在籍3〜5年で一定の専門性を獲得した後に転職すると、経験の具体性が高まり、面接でも訴求しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

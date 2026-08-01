@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["開発ディレクター", "20代転職"]
 pubDate: 2026-07-04
 slug: "dev-director-in-20s"
+hub: "dev-director"
 image: "/images/media/dev-director-in-20s.png"
 related: ["dev-director-failure", "dev-director-certification", "dev-director-resume", "data-analyst-in-20s", "scm-consultant-in-20s"]
 ---
@@ -26,6 +27,11 @@ related: ["dev-director-failure", "dev-director-certification", "dev-director-re
 - ベンダー・外部パートナー管理
 
 この職種が20代転職の文脈で語られる際、実態として二つのレイヤーが混在している。一つは「即戦力として実務経験を有する26〜29歳層」であり、もう一つは「ポテンシャルを評価軸に据えた育成目的採用の対象となる22〜26歳層」である。前者はWebディレクターやPMアシスタントからの職種横断的なキャリアアップが多く、後者はスタートアップや急成長フェーズの組織において見られやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用が機能しやすい条件
 
@@ -114,6 +120,11 @@ related: ["dev-director-failure", "dev-director-certification", "dev-director-re
 クライアント・エンジニア・デザイナー・経営層など、異なる立場の間で情報を整理し合意形成を図った経験は、職種を問わず評価される。特に「利害関係が対立した局面でどのように動いたか」を具体的に話せると印象に残りやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

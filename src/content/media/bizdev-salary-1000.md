@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["事業開発", "年収1000万"]
 pubDate: 2026-07-04
 slug: "bizdev-salary-1000"
+hub: "bizdev"
 image: "/images/media/bizdev-salary-1000.png"
 related: ["bizdev-salary-600", "bizdev-skills", "bizdev-in-20s", "saas-sales-salary-1000", "product-manager-salary-1000"]
 ---
@@ -31,6 +32,11 @@ related: ["bizdev-salary-600", "bizdev-skills", "bizdev-in-20s", "saas-sales-sal
 この表から読み取れるのは、1,000万円という水準が「特定の職種だから届く」のではなく、「職位・フェーズ・報酬設計の組み合わせ」によって成立するという点である。事業開発という名称自体には、年収を押し上げる機能はない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## なぜ事業開発は年収格差が大きいのか
 
@@ -105,6 +111,11 @@ related: ["bizdev-salary-600", "bizdev-skills", "bizdev-in-20s", "saas-sales-sal
 新規事業や提携の立ち上げに関わっていたとしても、「何をどれくらい動かしたか」が語れる状態でないと、転職市場での評価につながりにくい。案件規模・交渉相手の属性・合意したビジネスの規模感など、語れる数字を意識的に蓄積することが長期的な市場価値に直結する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

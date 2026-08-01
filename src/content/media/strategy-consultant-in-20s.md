@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["戦略コンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-in-20s"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-in-20s.png"
 related: ["strategy-consultant-certification", "strategy-consultant-in-30s", "strategy-consultant-company-size", "embedded-engineer-in-20s", "freelance-consultant-in-20s"]
 ---
@@ -28,6 +29,11 @@ related: ["strategy-consultant-certification", "strategy-consultant-in-30s", "st
 重要なのは、ポテンシャル採用において「コンサル未経験」は基本的に前提として織り込まれている点だ。問われるのは「現時点での思考水準」と「入社後の伸び代の蓋然性」であり、前職の業種・職種による足切りは、経験者採用に比べてはるかに緩やかな傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## ポテンシャル採用で実際に評価される要素
 
@@ -116,6 +122,11 @@ related: ["strategy-consultant-certification", "strategy-consultant-in-30s", "st
 準備として有効なのは、問題集の解答を覚えることではなく、日常業務の課題を「問い・仮説・根拠・示唆」の型で言語化する習慣を積み上げることである。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

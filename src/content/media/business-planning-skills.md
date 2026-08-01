@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["事業企画", "必要スキル"]
 pubDate: 2026-07-04
 slug: "business-planning-skills"
+hub: "business-planning"
 image: "/images/media/business-planning-skills.png"
 related: ["business-planning-market-trend", "business-planning-from-scratch", "business-planning-certification", "finance-skills", "security-engineer-skills"]
 ---
@@ -22,6 +23,11 @@ related: ["business-planning-market-trend", "business-planning-from-scratch", "b
 コーポレート直轄の戦略部門に置かれるケース、事業部の中に埋め込まれるケース、あるいはCxOのオフィスに近い形で機能するケースなど、組織上の配置は企業によって異なる。しかし共通しているのは、「情報を分析して終わり」ではなく、「分析結果をもとに組織を動かし、事業成果を出す」ことまで責任を持つ点にある。この特性が、必要なスキルセットの幅広さにつながっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-skills">キャリアを相談する</a>
+</aside>
 
 ## スキルの全体像：4つの層で整理する
 
@@ -90,6 +96,11 @@ PLの構造（売上・原価・販管費・営業利益）を読めることは
 上記はあくまで市場の傾向を示す目安であり、スタートアップのグロースフェーズや外資系企業では大きく異なることがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

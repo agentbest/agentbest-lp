@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["セールスエンジニア／プリセールス", "働き方"]
 pubDate: 2026-07-03
 slug: "presales-work-style"
+hub: "presales"
 image: "/images/media/presales-work-style.png"
 related: ["presales-skills", "presales-interview", "presales-career-path", "game-engineer-work-style", "pmo-consultant-work-style"]
 ---
@@ -27,6 +28,11 @@ related: ["presales-skills", "presales-interview", "presales-career-path", "game
 この業務の流れを見ると、稼働のピークが「商談の進行状況」に強く依存することがわかる。ウォーターフォール的なプロジェクトとは異なり、顧客の意思決定タイミングや競合との比較検討期間に引きずられる形で負荷が変動しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度のリアル：職種の構造的な負荷要因
 
@@ -103,6 +109,11 @@ PoCは顧客環境に合わせた検証が必要なため、事前想定では�
 このモデルでは、火〜木に商談・顧客対応が集中し、月・金がバッファになるパターンが多い。ただし、四半期末前後はこのリズムが崩れ、夜間や週末の対応が発生するケースもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

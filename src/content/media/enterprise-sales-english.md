@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["エンタープライズセールス", "英語力"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-english"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-english.png"
 related: ["enterprise-sales-company-size", "enterprise-sales-market-trend", "enterprise-sales-career-guide", "embedded-engineer-english", "it-architect-english"]
 ---
@@ -31,6 +32,11 @@ related: ["enterprise-sales-company-size", "enterprise-sales-market-trend", "ent
 製品が高度に技術的であるほど、英語の一次ドキュメントを直接参照する場面が増える。プリセールスやソリューションコンサルタントと連携するエンタープライズセールスでは、英語の仕様書・ホワイトペーパーを読解できるかどうかが提案品質に影響しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-english">無料で相談する</a>
+</aside>
 
 ## 英語レベル別の求人マップ
 
@@ -95,6 +101,11 @@ related: ["enterprise-sales-company-size", "enterprise-sales-market-trend", "ent
 **プロダクトフィードバックループへの関与**：英語で本社製品チームに顧客の声を届けられる人材は、単なる「売る人」を超えた影響力を持ちやすい。特に製品主導型の外資系SaaS企業では、この能力を評価するカルチャーが根づいていることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

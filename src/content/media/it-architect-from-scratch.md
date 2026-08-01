@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["ITアーキテクト", "未経験転職"]
 pubDate: 2026-07-04
 slug: "it-architect-from-scratch"
+hub: "it-architect"
 image: "/images/media/it-architect-from-scratch.png"
 related: ["it-architect-company-size", "it-architect-in-30s", "it-architect-resume", "ma-advisor-from-scratch", "saas-sales-from-scratch"]
 ---
@@ -20,6 +21,11 @@ ITアーキテクトの職務を一言で表すなら、「技術的な意思決
 職種名は企業によって多様であり、「ソリューションアーキテクト」「クラウドアーキテクト」「エンタープライズアーキテクト」「テクニカルアーキテクト」などが代表的です。共通するのは、個々の実装より一段高い視点で、システム全体の構造（アーキテクチャ）に責任を持つ点です。
 
 重要なのは、アーキテクトは「コードを書かない人」ではないという点です。特に35歳以下のアーキテクト候補層には、実装経験に裏打ちされた設計判断が求められる場面が多く、コーディングへの素養があることが評価につながりやすいです。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-from-scratch">無料で相談する</a>
+</aside>
 
 ## 求められるスキルの全体像
 
@@ -101,6 +107,11 @@ ITアーキテクトの年収は、経験年数・専門領域・企業規模・
 | フリーランスアーキテクト | 月単価80〜150万円前後 |
 
 外資系IT企業やグローバルコンサルティングファームでは、上記レンジをさらに上回る水準が提示されることもあります。また、フリーランスの場合はスキルセットと稼働形態によって変動幅が大きくなります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

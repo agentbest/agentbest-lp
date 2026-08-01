@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["データ・アナリティクスコンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "data-consultant-in-20s"
+hub: "data-consultant"
 image: "/images/media/data-consultant-in-20s.png"
 related: ["data-consultant-english", "data-consultant-salary-1000", "data-consultant-in-30s", "digital-marketer-in-20s", "embedded-engineer-in-20s"]
 ---
@@ -28,6 +29,11 @@ DAコンサルタントは、クライアント企業のデータ戦略の立案
 20代のポテンシャル採用では、主に中流・下流の実装寄りポジションから入職し、経験を積みながら上流へ展開していくキャリアパスが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## ポテンシャル採用の実態：何が評価されるか
 
@@ -124,6 +130,11 @@ DAコンサルタントへの転職活動を始める前に最低限整えてお
 職務経歴書においては、分析に関わった業務を「何のデータを・どのように処理し・何の意思決定に使われたか」という形式で記述することが効果的である。数値を用いた定量表現（「週次レポートの作成工数を40%削減」「施策後のCV率が1.2倍に改善」等）を積極的に盛り込むことで、ビジネス接続力を書類段階で示せる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

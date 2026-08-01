@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["広報／PR", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "pr-career-guide"
+hub: "pr"
 image: "/images/media/pr-career-guide.png"
 related: ["pr-salary", "pr-company-size", "pr-skills", "pmo-career-guide", "inside-sales-career-guide"]
 ---
@@ -34,6 +35,11 @@ related: ["pr-salary", "pr-company-size", "pr-skills", "pmo-career-guide", "insi
 社内向けの情報発信・文化醸成を担う機能。社内報の運営、全社イベントの企画、ミッション・バリューの浸透施策などが含まれる。エンゲージメント向上を重視するグローバル企業やベンチャーで設置が進んでいる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 広報・PR職の市場価値と年収レンジ
 
@@ -102,6 +108,11 @@ related: ["pr-salary", "pr-company-size", "pr-skills", "pmo-career-guide", "insi
 広報の成果測定は本質的に難しく、会社によって「メディア掲載数」「リーチ数」「ブランド認知調査スコア」「採用応募数」など評価軸がまちまち。入社後に「評価のされ方」で消耗しないために、選考中に評価指標の考え方を確認しておくことを推奨する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

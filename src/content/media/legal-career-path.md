@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["法務", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "legal-career-path"
+hub: "legal"
 image: "/images/media/legal-career-path.png"
 related: ["legal-failure", "legal-skills", "legal-work-style", "scm-consultant-career-path", "inside-sales-career-path"]
 ---
@@ -34,6 +35,11 @@ related: ["legal-failure", "legal-skills", "legal-work-style", "scm-consultant-c
 年次はあくまで目安であり、企業規模・業種・個人の専門領域によって大きく前後する。スタートアップ環境では、3〜5年で法務責任者に就くケースも珍しくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代法務パーソンが直面する分岐点
 
@@ -110,6 +116,11 @@ Aさんのケースが示すのは、「現職で何を積み上げたか」と�
 フィンテック・ヘルステック・AI領域など、規制環境が複雑な業界では、業界規制に精通した法務人材の需要が高い。法令遵守だけでなく、事業推進を支援する観点での規制解釈能力が求められることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

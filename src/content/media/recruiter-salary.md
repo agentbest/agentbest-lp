@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["採用担当", "年収相場"]
 pubDate: 2026-07-04
 slug: "recruiter-salary"
+hub: "recruiter"
 image: "/images/media/recruiter-salary.png"
 related: ["recruiter-market-trend", "recruiter-work-style", "recruiter-interview", "engineering-manager-salary", "corporate-planning-salary"]
 ---
@@ -47,6 +48,11 @@ related: ["recruiter-market-trend", "recruiter-work-style", "recruiter-interview
 同じ「採用担当」というキャリアでも、エージェント側で実績を積んだ後にインハウスへ転換するルートと、事業会社内でHRとして昇進するルートでは、報酬の上がり方のカーブが異なる。短期で年収を引き上げたい場合はエージェントの変動報酬が有効に働きやすく、安定性・専門性の深化を重視する場合は事業会社での経験蓄積が長期的に効く傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収に差がつく構造的な要因
 
@@ -102,6 +108,11 @@ ATSの運用・採用データの分析・スカウトのPDCA管理など、テ�
 採用担当としてのキャリアを延長した先には、採用マネージャー・HRビジネスパートナー・CHRO補佐といったポジションがある。これらへの移行を視野に入れると、担当業務の幅を意図的に広げる必要が生じる。採用だけでなく、オンボーディング設計・組織開発・人事制度の理解など、HRの隣接領域への越境が中長期の年収水準を引き上げる要因になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

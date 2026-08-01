@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["リスク・ガバナンスコンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "risk-consultant-english"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-english.png"
 related: ["risk-consultant-market-trend", "risk-consultant-salary", "risk-consultant-how-to-use-agent", "sap-consultant-english", "product-designer-english"]
 ---
@@ -20,6 +21,11 @@ related: ["risk-consultant-market-trend", "risk-consultant-salary", "risk-consul
 さらに、近年は国内大手企業がサステナビリティガバナンスやサードパーティリスク管理をグローバル基準で整備する動きが活発化しており、国内企業向け案件においても英語対応が求められる局面が増えている。GRC（ガバナンス・リスク・コンプライアンス）フレームワークの策定、ISO規格への対応、ESG開示の国際的な整合性確保といったテーマは、参照する文書や議論の前提が英語圏の基準に置かれている。
 
 結果として、英語力は「国際案件専用のスキル」ではなく、コンサルタントとしての活動領域の広さを規定する基盤的な要件として機能している。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-english">無料で相談する</a>
+</aside>
 
 ## 英語力の水準と求人の関係
 
@@ -77,6 +83,11 @@ related: ["risk-consultant-market-trend", "risk-consultant-salary", "risk-consul
 **英語力：** 上記二点が一定水準に達しているコンサルタントにとって、英語力は関われる案件の質・規模・単価を大きく拡張する変数として機能する。
 
 英語力の位置づけは「乗数」に近い。専門性が薄い段階で英語を伸ばしても市場評価が大きく変化しにくく、専門性が高い状態で英語力が加わると、求人の選択肢と報酬の両方が変化しやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

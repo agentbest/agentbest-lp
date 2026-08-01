@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["会計・財務コンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "fas-consultant-certification"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-certification.png"
 related: ["fas-consultant-future", "fas-consultant-from-scratch", "fas-consultant-salary-600", "ai-engineer-certification", "data-scientist-certification"]
 ---
@@ -20,6 +21,11 @@ related: ["fas-consultant-future", "fas-consultant-from-scratch", "fas-consultan
 ただし、「必須ではない」ということと「資格が評価されない」ということは別の話です。クライアント企業が高度な専門性を求める場面——たとえばM&Aにおける財務デューデリジェンス、IFRS導入支援、企業再生局面での財務再構築——では、資格が持つ「信頼の可視化」機能が選定プロセスで意味を持ちます。また、ファームへの採用・昇格においても、資格取得の有無が評価軸の一部として機能することは多い傾向にあります。
 
 つまり、「資格は絶対条件か」への答えは「ノー」ですが、「資格はキャリアに影響を与えるか」への答えは「ケースによってはイエス」です。この峻別を前提に、以降の議論を進めます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価されやすい資格と、評価が限定的な資格
 
@@ -88,6 +94,11 @@ CPAが最もダイレクトに評価される領域です。専門ファーム�
 採用選考では実務経験（連結決算対応・予算策定・IR資料作成）が評価の中心となり、資格は「学習中」として加点的に扱われました。入社後2年でUSCPAを取得したことで、外資系クライアントとの折衝やクロスボーダーM&A案件へのアサインが増加。昇格サイクルも同期比でやや前倒しになったと本人は認識しています。
 
 この型から読み取れることは、「入社時の資格有無よりも、入社後に資格を活用できる業務環境があるかどうか」が実質的なキャリアへの影響を決める、という点です。資格そのものではなく、資格×実務のかけ合わせが市場価値を形成します。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

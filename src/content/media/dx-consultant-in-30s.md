@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["DXコンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "dx-consultant-in-30s"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-in-30s.png"
 related: ["dx-consultant-company-size", "dx-consultant-certification", "dx-consultant-from-scratch", "ma-advisor-in-30s", "pmo-consultant-in-30s"]
 ---
@@ -26,6 +27,11 @@ DXコンサルタントという職種は、定義の幅が広い。システム
 採用企業が30代に求める最大の差別化要因は「修羅場経験」だ。プロジェクトが停滞した局面での立て直し、ステークホルダーの利害調整、予算・スコープの再設計といった場面をどう乗り越えたかを問われる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 求められるスキルセットの詳細
 
@@ -101,6 +107,11 @@ DXコンサルタントの採用担当は、「何をしたか」ではなく「
 転職エージェントの価値は求人紹介だけでなく、各ファーム・企業の「内部の評価基準」「プロジェクト配属の傾向」「カルチャーフィット」に関する情報を持っている点にある。書類選考や面接対策を受ける前段階として、複数のエージェントから情報を収集し、自身のキャリアの文脈と合う転職先を絞り込む進め方が有効だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

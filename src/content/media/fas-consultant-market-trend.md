@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["会計・財務コンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "fas-consultant-market-trend"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-market-trend.png"
 related: ["fas-consultant-certification", "fas-consultant-resume", "fas-consultant-company-size", "thinktank-market-trend", "product-manager-market-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["fas-consultant-certification", "fas-consultant-resume", "fas-consulta
 第三の要因として、**FP&A（Financial Planning & Analysis）機能の内製化と外部補完の並立**が挙げられる。経営管理の高度化を目指す企業が増える一方、社内人材の育成には時間を要するため、外部コンサルタントへのブリッジ的な依存が続いている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求人数・採用ニーズの変化：領域別に見た現状
 
@@ -104,6 +110,11 @@ ERP導入支援やデータ基盤の構築が財務部門のDX課題として浮
 スタートアップや中堅企業では、フルタイムのCFOを採用するよりも、外部コンサルタントをCFO補佐的に活用するケースが増えている。フリーランスや週3日稼働の形態が現実的な選択肢となりつつあり、大手ファーム出身者がこの市場へ移行する動きも見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

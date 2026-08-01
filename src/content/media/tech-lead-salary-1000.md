@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["テックリード", "年収1000万"]
 pubDate: 2026-07-04
 slug: "tech-lead-salary-1000"
+hub: "tech-lead"
 image: "/images/media/tech-lead-salary-1000.png"
 related: ["tech-lead-certification", "tech-lead-market-trend", "tech-lead-english", "thinktank-salary-1000", "embedded-engineer-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["tech-lead-certification", "tech-lead-market-trend", "tech-lead-englis
 年収1,000万円はテックリードとして「特例」ではありませんが、全体の中では上位層に位置するラインです。この水準に到達している人には、経験の積み方・発揮している価値の種類・転職のタイミングという三点において共通したパターンが見られます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 到達者に共通するキャリアの構造
 
@@ -97,6 +103,11 @@ related: ["tech-lead-certification", "tech-lead-market-trend", "tech-lead-englis
 これらは能力の問題ではなく、「経験の棚卸しとキャリア設計」の問題として捉えられます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

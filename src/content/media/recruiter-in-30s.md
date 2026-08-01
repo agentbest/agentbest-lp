@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["採用担当", "30代転職"]
 pubDate: 2026-07-04
 slug: "recruiter-in-30s"
+hub: "recruiter"
 image: "/images/media/recruiter-in-30s.png"
 related: ["recruiter-english", "recruiter-market-trend", "recruiter-career-guide", "infra-engineer-in-30s", "mlops-engineer-in-30s"]
 ---
@@ -30,6 +31,11 @@ related: ["recruiter-english", "recruiter-market-trend", "recruiter-career-guide
 30代での転職においては、「採用の実務経験があるか」より「どの類型のポジションを目指すか」を先に明確にすることが重要になる。なぜなら、求める人物像・選考軸・評価される経験が類型ごとに異なるためだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代が採用担当転職で問われる「即戦力性」とは
 
@@ -111,6 +117,11 @@ related: ["recruiter-english", "recruiter-market-trend", "recruiter-career-guide
 面接を通過するためには、対象企業の採用課題に対して自分の経験がどう機能するかを具体的に語れることが有効だ。企業のWantedly・採用ページ・IR情報・Glassdoor等の情報をもとに「どのポジションの採用に注力しているか」「採用の課題はどこにありそうか」を仮説として持って面接に臨むと、採用担当としての思考力を示しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

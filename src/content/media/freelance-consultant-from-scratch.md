@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["フリーコンサルタント", "未経験転職"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-from-scratch"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-from-scratch.png"
 related: ["freelance-consultant-failure", "freelance-consultant-motivation", "freelance-consultant-in-30s", "sap-consultant-from-scratch", "network-engineer-from-scratch"]
 ---
@@ -24,6 +25,11 @@ related: ["freelance-consultant-failure", "freelance-consultant-motivation", "fr
 未経験から参入できる余地があるとすれば、後者のスペシャリスト層の入口付近です。ただし「未経験」の定義には注意が必要で、「コンサルティング業務が未経験」と「ビジネス実務が未経験」は全く異なります。後者の状態でフリーコンサルタントとして稼働することは、現実的にはほぼ困難です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 未経験から独立までの現実的なルート
 
@@ -97,6 +103,11 @@ related: ["freelance-consultant-failure", "freelance-consultant-motivation", "fr
 このパターンで重要なのは、「コンサルタントとして経験を積む場所をどこに設計するか」という点です。いきなり独立した場合、案件獲得・品質担保・収入安定のすべてを同時に管理しなければならず、リスクが集中します。段階的な移行が実現可能性を高める傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

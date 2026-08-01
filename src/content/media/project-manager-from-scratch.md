@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["プロジェクトマネージャー", "未経験転職"]
 pubDate: 2026-07-04
 slug: "project-manager-from-scratch"
+hub: "project-manager"
 image: "/images/media/project-manager-from-scratch.png"
 related: ["project-manager-english", "project-manager-salary", "project-manager-in-30s", "pr-from-scratch", "big4-consultant-from-scratch"]
 ---
@@ -27,6 +28,11 @@ PMの仕事は、スコープ・スケジュール・予算・品質・ステー
 IT・SaaS領域であれば、システム開発の工程理解、要件定義の経験、発注先ベンダーとの技術的なコミュニケーション能力。この層は業界・会社によって要求水準が大きく異なる。
 
 未経験転職において最も問われるのは第一層と第二層であり、第三層は入社後に習得することが許容されるケースも少なくない。ただし、技術系PMや大手SIerへの転身を目指す場合は、第三層のハードルが相対的に高くなる傾向がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験PMが採用されやすい・されにくいポジションの違い
 
@@ -87,6 +93,11 @@ PMに関連する資格としてはPMP（PMI認定）やプロジェクトマネ
 アジャイル・スクラムの知識については、Certified ScrumMaster（CSM）などの比較的短期間で取得できる認定が、SaaS・スタートアップ領域への転職では一定の効果を持つ場合がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["CTO・VPoE候補", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-career-guide"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-career-guide.png"
 related: ["cto-vpoe-english", "cto-vpoe-motivation", "cto-vpoe-work-style", "backend-engineer-career-guide", "data-analyst-career-guide"]
 ---
@@ -34,6 +35,11 @@ CTO（Chief Technology Officer）とVPoE（Vice President of Engineering）は�
 | 典型的な出身背景 | シニアエンジニア→テックリード→CTO | EM（エンジニアリングマネージャー）→シニアEM→VPoE |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-career-guide">無料で相談する</a>
+</aside>
 
 ## 転職市場における評価軸
 
@@ -111,6 +117,11 @@ CTO・VPoEのポジションは、企業によって期待役割の定義が大�
 **結果：** 書類選考の通過率が改善し、最終的にシリーズB終盤の企業へのVPoE着任につながった。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

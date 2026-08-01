@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["QAエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "qa-engineer-english"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-english.png"
 related: ["qa-engineer-how-to-use-agent", "qa-engineer-salary", "qa-engineer-market-trend", "dev-director-english", "ai-engineer-english"]
 ---
@@ -26,6 +27,11 @@ QAエンジニアとして働く上で英語力は必須か——この問いに
 - **ISTQB等の国際資格の活用**：試験・シラバスが英語。資格の説明文自体も英語の理解を前提とする
 
 ドキュメント参照レベルの読解力は、ミドル以上のQAエンジニアであれば実質的に必要になる場面が増えてきます。「英語で会話できるか」と「英語のドキュメントを読めるか」は要件として異なり、後者はより広い場面で求められます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力レベル別・求人の傾向
 
@@ -83,6 +89,11 @@ SDETとして活動する場合、英語力はキャリアの天井に直結し�
 **結果**：年収600万円台から、750万円台のオファーを受けられる状況に変化。技術力の評価が主要因だが、英語力が「候補者プールから外れない条件」を満たした点で機能した。
 
 この型が示すのは、英語力単体で年収が上がるというより、英語力が「除外されない条件」として機能することで、より高いグレードの求人にアクセスできる構造です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

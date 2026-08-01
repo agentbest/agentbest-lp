@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["パートナーセールス／アライアンス", "必要スキル"]
 pubDate: 2026-07-04
 slug: "partner-sales-skills"
+hub: "partner-sales"
 image: "/images/media/partner-sales-skills.png"
 related: ["partner-sales-motivation", "partner-sales-career-path", "partner-sales-certification", "it-consultant-skills", "cloud-engineer-skills"]
 ---
@@ -22,6 +23,11 @@ related: ["partner-sales-motivation", "partner-sales-career-path", "partner-sale
 それぞれが独立しているわけではなく、局面に応じて複数を組み合わせて発揮する点が、この職種の難易度と市場価値の高さにつながっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル優先順位と市場評価の対応表
 
@@ -96,6 +102,11 @@ IT系企業でフィールドセールスを3年経験した後、国内SaaS企�
 採用市場では「チャネル全体を設計できる人材」として評価され、外資系SaaSのアライアンスマネジャーポジション（年収ベースで前職比2〜3割増の水準が目安）への転換に至るケースが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

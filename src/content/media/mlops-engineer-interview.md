@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["MLOpsエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-interview"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-interview.png"
 related: ["mlops-engineer-career-guide", "mlops-engineer-failure", "mlops-engineer-future", "finance-interview", "thinktank-interview"]
 ---
@@ -26,6 +27,11 @@ MLOpsエンジニアの採用面接は、職種の性質上、以下の三層で
 これら三層を横断しながら、「なぜその設計を選んだか」「どのようなトレードオフを意識したか」が問われます。面接官が確認したいのは技術名称ではなく、意思決定の根拠と経験の深度です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問の分類と回答の視点
 
@@ -103,6 +109,11 @@ MLOpsエンジニアはデータサイエンティスト・ソフトウェアエ
 この四段構造は、STAR法に近い形式ですが、MLOps文脈では「なぜその技術判断をしたか」「再発防止のために何を整えたか」がより重要視されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["ゲームエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "game-engineer-career-guide"
+hub: "game-engineer"
 image: "/images/media/game-engineer-career-guide.png"
 related: ["game-engineer-career-path", "game-engineer-salary-600", "game-engineer-from-scratch", "it-architect-career-guide", "strategy-consultant-career-guide"]
 ---
@@ -38,6 +39,11 @@ related: ["game-engineer-career-path", "game-engineer-salary-600", "game-enginee
 シェーダー開発やレンダリングパイプラインの設計・最適化、3Dアセットとエンジンの橋渡し役を担う。コンソール・PC向けAAA級タイトルで特に需要が高く、HLSL/GLSLや低レイヤーのグラフィックスAPIへの理解が問われる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-career-guide">無料で相談する</a>
+</aside>
 
 ## 年収・待遇の相場観
 
@@ -106,6 +112,11 @@ related: ["game-engineer-career-path", "game-engineer-salary-600", "game-enginee
 ポートフォリオやGitHub上の成果物は、業務経験だけでは伝わらないスタックの幅を補う有効な手段になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 選考でよく見られるつまずきポイント
 

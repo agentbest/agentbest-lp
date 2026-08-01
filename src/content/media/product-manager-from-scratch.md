@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["プロダクトマネージャー", "未経験転職"]
 pubDate: 2026-07-04
 slug: "product-manager-from-scratch"
+hub: "product-manager"
 image: "/images/media/product-manager-from-scratch.png"
 related: ["product-manager-work-style", "product-manager-english", "product-manager-career-guide", "ma-advisor-from-scratch", "engineering-manager-from-scratch"]
 ---
@@ -32,6 +33,11 @@ PdMの職務は、プロダクトの方向性を定め、エンジニア・デ�
 ロードマップ作成、スプリント管理、ステークホルダー調整、リリース判断のプロセス知識が該当する。これらは実務のなかでのみ鍛えられるスキルであり、未経験段階で証明することが最も難しい。逆に言えば、採用企業もここをゼロから期待する傾向が低く、素地と学習姿勢を評価軸にしやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験転職における現実的なルート
 
@@ -95,6 +101,11 @@ SaaS企業のカスタマーサクセス担当として2〜3年の経験を持�
 これらはあくまで参考値であり、個々の企業の給与テーブルや評価制度、担当するプロダクトの規模によって上下する。副業・フリーランスPdMとして実績を積んだ場合は市場価値の形成スピードが変わることもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["ブリッジSE", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "bridge-se-how-to-use-agent"
+hub: "bridge-se"
 image: "/images/media/bridge-se-how-to-use-agent.png"
 related: ["bridge-se-motivation", "bridge-se-interview", "bridge-se-salary-1000", "tech-lead-how-to-use-agent", "fullstack-engineer-how-to-use-agent"]
 ---
@@ -28,6 +29,11 @@ related: ["bridge-se-motivation", "bridge-se-interview", "bridge-se-salary-1000"
 この三点の構造を踏まえると、ブリッジSEの転職活動は「自力での情報収集と自己PR設計」に大きなコストがかかることが分かる。エージェントが機能する余地はここにある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを活用することで何が変わるか
 
@@ -95,6 +101,11 @@ related: ["bridge-se-motivation", "bridge-se-interview", "bridge-se-salary-1000"
 上記はあくまで参考値であり、英語に加えて中国語・ベトナム語等の言語スキルを持つ場合や、エンドユーザー系・SaaS企業等での経験がある場合はレンジの上方に位置しやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

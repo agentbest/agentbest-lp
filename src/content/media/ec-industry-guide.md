@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["Eコマース", "業界研究"]
 pubDate: 2026-07-05
 slug: "ec-industry-guide"
+hub: "ec-industry"
 image: "/images/media/ec-industry-guide.png"
 related: ["ec-industry-company", "ec-industry-career", "ec-industry-salary", "security-industry-guide", "hrtech-industry-guide"]
 ---
@@ -38,6 +39,11 @@ Eコマースと一口に言っても、ビジネスモデルは複数に分か�
 転職活動において、「EC業界に入りたい」という軸よりも「どの業態・機能で自分の強みを活かすか」を先に整理する方が、候補企業の絞り込みと面接での説明に一貫性が生まれやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要プレイヤーの特性と転職時の位置づけ
 
@@ -94,6 +100,11 @@ EC事業の成長に伴い、3PL（サードパーティロジスティクス）
 この型は同様に、メーカー出身のマーケターやSIer出身のエンジニアがECに転身する際にも応用できる。「現職で何をしたか」ではなく「転職先での業務に何が活かせるか」を自分で翻訳する作業が、選考通過の鍵になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

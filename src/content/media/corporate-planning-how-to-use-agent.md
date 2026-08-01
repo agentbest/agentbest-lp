@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["経営企画", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "corporate-planning-how-to-use-agent"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-how-to-use-agent.png"
 related: ["corporate-planning-work-style", "corporate-planning-salary-600", "corporate-planning-in-20s", "devops-engineer-how-to-use-agent", "solution-architect-how-to-use-agent"]
 ---
@@ -20,6 +21,11 @@ related: ["corporate-planning-work-style", "corporate-planning-salary-600", "cor
 こうした定義の曖昧さは、求人票だけでは判断しにくい情報として残ることが多く、入社後のミスマッチを招く原因にもなる。求職者側が「自分のやりたい経営企画像」と「企業が求める経営企画像」をすり合わせるプロセスが、一般の職種に比べて複雑になる傾向がある。
 
 また、経営企画ポジションの多くは、社内公募や人脈紹介によって充足されることが相対的に多い。外部採用を行う場合でも、エージェント限定の非公開求人として運用されるケースが少なくない。これは、採用候補者に競合他社や社内施策の情報が伝わるリスクを避けるための企業側の意図によるものである。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを使うべき三つの実質的な理由
 
@@ -81,6 +87,11 @@ related: ["corporate-planning-work-style", "corporate-planning-salary-600", "cor
 ## 複数エージェントの並行活用について
 
 一般的な転職活動では複数エージェントの並行利用が推奨されることが多いが、経営企画の場合は注意が必要である。同じポジションに複数のエージェント経由で応募すると、企業側で認識の混乱が生じ、候補者の印象が下がる場合がある。エージェントの使い分けは、「メインエージェント」と「補完的なサブエージェント」の役割を整理した上で行うことが望ましい。目安としては、2〜3社の並行利用が情報収集とエラー防止のバランスとして機能しやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

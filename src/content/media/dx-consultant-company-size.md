@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["DXコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "dx-consultant-company-size"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-company-size.png"
 related: ["dx-consultant-market-trend", "dx-consultant-from-scratch", "dx-consultant-work-style", "post-consultant-company-size", "corporate-planning-company-size"]
 ---
@@ -32,6 +33,11 @@ DXコンサルタントとしてキャリアを積む場合、大手コンサル
 共通するのは、役割の境界が流動的であり、個人の裁量が広いという点だ。提案から実装、効果検証まで一気通貫で関与できる機会が多く、DXの「絵を描く」フェーズだけでなく「動かす」フェーズを経験しやすい環境と言える。
 
 報酬体系は固定給が大手より低い場合もあるが、ストックオプション付与や業績連動型インセンティブが組み込まれることが多い。IPOや株価上昇による報酬拡大のポテンシャルはあるものの、当然ながらリスクも存在する。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 選択を左右する6つの比較軸
 
@@ -80,6 +86,11 @@ DXコンサルタントとしてキャリアを積む場合、大手コンサル
 
 - **報酬の「確実性」と「上昇余地」のどちらを現時点で優先するか。**
   家族構成・資産状況・リスク許容度によって合理的な選択は異なる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

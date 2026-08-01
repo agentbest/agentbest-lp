@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["アドテック・マーケティングテック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "adtech-industry-company"
+hub: "adtech-industry"
 image: "/images/media/adtech-industry-company.png"
 related: ["adtech-industry-guide", "adtech-industry-salary", "adtech-industry-career", "security-industry-company", "edtech-industry-company"]
 ---
@@ -32,6 +33,11 @@ related: ["adtech-industry-guide", "adtech-industry-salary", "adtech-industry-ca
 類型を把握せずに「マーケティングテック企業に転職したい」という状態で動くと、入社後に収益構造やカルチャーのギャップが生じやすくなります。まず自分が志望する類型を絞り込むことが、企業選びの出発点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## 財務・事業健全性の確認指標
 
@@ -114,6 +120,11 @@ PMやエンジニアを志望する場合は、「ロードマップの意思決
 急成長してきたAdTech企業の場合、技術負債が相当程度蓄積しているケースがあります。エンジニアとして入社する場合は特に、インフラやコードベースの状態、リファクタリングへの投資意欲を事前に確認することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-company">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

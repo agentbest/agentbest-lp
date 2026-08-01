@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["AIエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "ai-engineer-work-style"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-work-style.png"
 related: ["ai-engineer-company-size", "ai-engineer-career-guide", "ai-engineer-in-30s", "bridge-se-work-style", "digital-marketer-work-style"]
 ---
@@ -26,6 +27,11 @@ AIエンジニアの業務は、大まかに「リサーチ・実験フェーズ
 **運用・モニタリングフェーズ**は、モデルの精度劣化（ドリフト）の検知と再学習対応が主な業務となる。深夜の異常検知アラート対応が求められるかどうかは、オンコール体制の設計次第であり、組織によって大きく異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## 雇用形態・組織類型別の働き方比較
 
@@ -89,6 +95,11 @@ AIエンジニアはリモート親和性の高い職種とされることが多
 コンサルティングファームは固定給与水準が相対的に高い傾向があるが、プロジェクト稼働率への依存度が高いため、繁閑差が年収変動に影響することがある。スタートアップはストックオプションの設計次第で期待値の計算が大きく変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

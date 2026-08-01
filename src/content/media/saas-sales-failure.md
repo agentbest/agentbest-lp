@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["SaaS営業", "転職失敗"]
 pubDate: 2026-07-03
 slug: "saas-sales-failure"
+hub: "saas-sales"
 image: "/images/media/saas-sales-failure.png"
 related: ["saas-sales-market-trend", "saas-sales-english", "saas-sales-salary-1000", "network-engineer-failure", "thinktank-failure"]
 ---
@@ -30,6 +31,11 @@ SaaS営業への転職は、ITスキルや無形商材の提案力が評価さ�
 以下では各カテゴリを深掘りする。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-failure">無料で相談する</a>
+</aside>
 
 ## 失敗パターン①｜SaaSビジネスモデルを理解しないまま選社する
 
@@ -131,6 +137,11 @@ SaaS営業のOTE（年収目安）は、固定給とインセンティブを合�
 - [ ] 英語使用頻度（外資の場合）を把握した
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

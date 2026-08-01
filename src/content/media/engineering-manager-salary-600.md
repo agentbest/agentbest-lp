@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["エンジニアリングマネージャー", "年収600万"]
 pubDate: 2026-07-04
 slug: "engineering-manager-salary-600"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-salary-600.png"
 related: ["engineering-manager-in-20s", "engineering-manager-skills", "engineering-manager-future", "db-engineer-salary-600", "risk-consultant-salary-600"]
 ---
@@ -29,6 +30,11 @@ EMの年収は、在籍企業の業種・規模・ステージ、そして個人
 この表から読み取れることは、600万円という数値がちょうど「EM転換直後」と「定着・成果実証後」の境界線にあたるという点です。経験1〜2年のEMにとっては到達目標であり、3年以上の経験者にとっては超えていて当然の水準になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 「600万円の壁」が生じる構造的な理由
 
@@ -104,6 +110,11 @@ EMの成果を定量化するうえで、以下のような切り口が評価に
 このパターンの本質は「スキルの獲得」ではなく「成果の言語化」と「ポジション構造の選択」にあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

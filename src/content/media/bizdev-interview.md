@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["事業開発", "面接対策"]
 pubDate: 2026-07-04
 slug: "bizdev-interview"
+hub: "bizdev"
 image: "/images/media/bizdev-interview.png"
 related: ["bizdev-english", "bizdev-career-guide", "bizdev-company-size", "security-engineer-interview", "network-engineer-interview"]
 ---
@@ -29,6 +30,11 @@ related: ["bizdev-english", "bizdev-career-guide", "bizdev-company-size", "secur
 応募先がどの機能を求めているかによって、準備すべきエピソードの種類が変わる。JDに書かれているキーワード（「アライアンス」「PMI」「GTM戦略」など）を起点に、自分のどの経験が対応するかを事前に整理しておくことが第一歩となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問のカテゴリと回答の組み立て方
 
@@ -118,6 +124,11 @@ related: ["bizdev-english", "bizdev-career-guide", "bizdev-company-size", "secur
 事業開発の経験として語られる内容には、まったく新しいものを立ち上げる「ゼロイチ」と、すでに存在する事業をスケールさせる「イチ〜N」の両方がある。どちらの経験が多いかによって、適した職場環境も変わる。面接官も両者を分けて問うことがあるため、自分の経験の属性を整理しておくとよい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

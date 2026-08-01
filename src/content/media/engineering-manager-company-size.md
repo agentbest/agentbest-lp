@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["エンジニアリングマネージャー", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "engineering-manager-company-size"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-company-size.png"
 related: ["engineering-manager-future", "engineering-manager-work-style", "engineering-manager-career-path", "network-engineer-company-size", "backend-engineer-company-size"]
 ---
@@ -34,6 +35,11 @@ EMとして「純粋にマネジメントの専門性を磨きたい」という
 役割の広さは経験値の蓄積速度につながる一方、リソースが限られるため一つひとつの意思決定の質を高める支援体制が薄くなりやすい。上位の職種経験者からの直接的な指導を受けにくいという構造的な制約もある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-company-size">キャリアを相談する</a>
+</aside>
 
 ## 報酬構造の比較
 
@@ -106,6 +112,11 @@ EMとして「純粋にマネジメントの専門性を磨きたい」という
 この段階では、「自分の意思決定が事業に直結する経験の有無」が次のポジション獲得に影響しやすい。大手企業でVP相当のポジションに昇進できる見込みがない場合、スタートアップでVP of EngineeringないしCTOに近いポジションを担う経験が、キャリアの転換点として機能することがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

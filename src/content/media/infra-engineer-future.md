@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["インフラエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "infra-engineer-future"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-future.png"
 related: ["infra-engineer-interview", "infra-engineer-certification", "infra-engineer-failure", "enterprise-sales-future", "inside-sales-future"]
 ---
@@ -32,6 +33,11 @@ Infrastructure as Code（IaC）の普及は、インフラエンジニアに「�
 AIによる自動化が進む分野と、そうでない分野は明確に分かれる。ログ監視・アラート分類・障害の一次対応といったルーティン業務はAIツールによる自動化が進みやすい。一方で、大規模障害時のアーキテクチャ的な意思決定、要件定義段階でのインフラ設計、セキュリティ上のリスク判断など、文脈を読んだ上での判断が求められる領域はAIに代替されにくい。
 
 「AIが自動化する」のは作業の一部であり、インフラ全体の信頼性・可用性・コストのトレードオフを設計・説明する責任は依然として人間に残る。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## 生き残るインフラエンジニアの条件
 
@@ -101,6 +107,11 @@ DatadogやPrometheus/Grafanaを用いたモニタリング設計に関与。SLI�
 上記の実績を武器に、SREポジションへ社内異動または転職。年収レンジは前職比で100〜200万円程度の改善が見込まれるケースもある（あくまで目安）。
 
 このパターンが示すように、オンプレのバックグラウンドは「移行対象」ではなく「上位設計の判断軸」として活きる。スキルの棄却ではなく拡張が、転換を成功させやすくする。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

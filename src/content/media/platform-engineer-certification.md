@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["プラットフォームエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "platform-engineer-certification"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-certification.png"
 related: ["platform-engineer-work-style", "platform-engineer-in-20s", "platform-engineer-company-size", "embedded-engineer-certification", "bizdev-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["platform-engineer-work-style", "platform-engineer-in-20s", "platform-
 **③ 知識の体系化と抜け漏れ確認**　実務経験が豊富であっても、資格学習を通じてネットワーク・セキュリティ・コスト管理など周辺領域の知識を体系的に補えることがある。これは対外的評価よりも自己投資としての意味合いが強い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-certification">無料で相談する</a>
+</aside>
 
 ## 評価されやすい資格の分類
 
@@ -98,6 +104,11 @@ DevSecOpsの浸透に伴い、プラットフォームエンジニアにもセ�
 資格はあくまで「能力の入口を示す手段」であり、選考が進むにつれて実績・思考力・コミュニケーションへの比重が高まる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

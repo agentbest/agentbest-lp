@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["セキュリティコンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "security-consultant-career-guide"
+hub: "security-consultant"
 image: "/images/media/security-consultant-career-guide.png"
 related: ["security-consultant-how-to-use-agent", "security-consultant-in-30s", "security-consultant-from-scratch", "pmo-career-guide", "saas-sales-career-guide"]
 ---
@@ -18,6 +19,11 @@ related: ["security-consultant-how-to-use-agent", "security-consultant-in-30s", 
 ただし「セキュリティコンサルタント」という職種は、担う役割の幅が広い。技術的な脆弱性診断からリスクマネジメント・GRC（ガバナンス・リスク・コンプライアンス）、CISO支援・インシデントレスポンスまで、求人ごとに求められるスキルセットと年収レンジが大きく異なる。転職活動を始める前に、自分が目指す専門領域を言語化しておくことが、選考通過率を左右する最初のステップとなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 仕事内容：領域別の業務分類
 
@@ -91,6 +97,11 @@ CISSP・CISM・CEH・CompTIA Security+・OSCP・情報処理安全確保支援�
 このケースが示すのは、「ゼロから転換を図る」のではなく「既存のキャリアにセキュリティの文脈を付加する」というアプローチの有効性である。転職市場においては、異なる専門領域を橋渡しできる人材の希少性が評価されやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

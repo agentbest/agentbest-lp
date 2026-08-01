@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["セキュリティコンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "security-consultant-interview"
+hub: "security-consultant"
 image: "/images/media/security-consultant-interview.png"
 related: ["security-consultant-resume", "security-consultant-career-path", "security-consultant-company-size", "platform-engineer-interview", "enterprise-sales-interview"]
 ---
@@ -31,6 +32,11 @@ related: ["security-consultant-resume", "security-consultant-career-path", "secu
 この4軸のうち、転職候補者が準備を怠りやすいのは「ビジネス感覚」と「コンサルティングスキル」の2つである。技術経験が豊富でも、それをビジネス言語に翻訳できなければ、ファームやコンサルティング部門の面接では評価が伸び悩む傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -90,6 +96,11 @@ related: ["security-consultant-resume", "security-consultant-career-path", "secu
 特に「失敗経験」は、コンサルティングファームの面接で積極的に聞かれやすいテーマである。失敗を語れない候補者は、自己認識の浅さや経験の少なさを示唆する可能性があると見なされる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

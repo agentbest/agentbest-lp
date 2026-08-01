@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["パートナーセールス／アライアンス", "働き方"]
 pubDate: 2026-07-04
 slug: "partner-sales-work-style"
+hub: "partner-sales"
 image: "/images/media/partner-sales-work-style.png"
 related: ["partner-sales-english", "partner-sales-salary-1000", "partner-sales-in-20s", "finance-work-style", "digital-marketer-work-style"]
 ---
@@ -24,6 +25,11 @@ related: ["partner-sales-english", "partner-sales-salary-1000", "partner-sales-i
 直販営業との最大の違いは「エンドユーザーに直接売らない」点です。パートナー企業のモチベーション管理、スキルトランスファー（製品研修・認定支援）、案件の共同クローズが主要な業務になります。この構造が、働き方のパターンを決定する大きな要因です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度を左右する4つの要因
 
@@ -97,6 +103,11 @@ SaaSプロダクトがシンプルなツールであれば、パートナーへ�
 この構造からわかるとおり、対外的なMTGとイネーブルメント業務が前半に集中し、後半は社内調整・報告業務に移行しやすいパターンがあります。業務の予測可能性は直販営業より高い傾向にありますが、複数のパートナーから同時に案件が動くタイミングでは処理量が増加しやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

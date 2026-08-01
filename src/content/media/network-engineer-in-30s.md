@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["ネットワークエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "network-engineer-in-30s"
+hub: "network-engineer"
 image: "/images/media/network-engineer-in-30s.png"
 related: ["network-engineer-work-style", "network-engineer-market-trend", "network-engineer-english", "cto-vpoe-in-30s", "ml-engineer-in-30s"]
 ---
@@ -27,6 +28,11 @@ related: ["network-engineer-work-style", "network-engineer-market-trend", "netwo
 - **ステークホルダーとの折衝経験**：顧客・上位ベンダー・社内他部門との調整を自律的に担った経験
 
 技術スキルは必要条件に過ぎず、これらの「スコープの広さ」が30代採用の差別化要因になりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 技術スキルの現在地を整理する
 
@@ -93,6 +99,11 @@ SIer・NWベンダー系からユーザー企業（事業会社）や外資系�
 ### 面接でよく問われる内容
 
 30代の面接では「なぜ転職するのか」以上に「どういう方向性でキャリアを積みたいのか」の整合性が問われやすい。技術管理職・アーキテクト・スペシャリストのどれを目指しているかを明確にし、応募先企業でのポジションとの接続を説明できることが求められる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

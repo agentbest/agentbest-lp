@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["法務", "30代転職"]
 pubDate: 2026-07-04
 slug: "legal-in-30s"
+hub: "legal"
 image: "/images/media/legal-in-30s.png"
 related: ["legal-future", "legal-market-trend", "legal-resume", "partner-sales-in-30s", "data-engineer-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["legal-future", "legal-market-trend", "legal-resume", "partner-sales-i
 一方で供給側の制約も存在する。法務は他の職種と比較して、経験の「移植可能性」が業種・フェーズによって大きく異なる。製造業の法務経験がSaaS企業にそのまま通用するとは限らず、逆もまた然りである。この非対称性が、30代の法務転職を難しくすると同時に、適切なポジショニングができれば優位性になりやすい理由でもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力として評価される経験の類型
 
@@ -96,6 +102,11 @@ DD（デューデリジェンス）対応、M&A契約（SPA等）の交渉・レ
 法務部門が数名規模のSaaS企業において、契約審査のメイン担当としてアサインされ、半年〜1年かけてSaaS固有の業務を習得するパスが現実的な着地点のひとつとして考えられる。年収は前職水準をやや下回るか横ばいで設定されやすく、ストックオプションの有無が総報酬の差異を生む要因になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

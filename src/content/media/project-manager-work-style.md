@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["プロジェクトマネージャー", "働き方"]
 pubDate: 2026-07-04
 slug: "project-manager-work-style"
+hub: "project-manager"
 image: "/images/media/project-manager-work-style.png"
 related: ["project-manager-interview", "project-manager-market-trend", "project-manager-future", "uiux-designer-work-style", "qa-engineer-work-style"]
 ---
@@ -32,6 +33,11 @@ PMの定義はSIer・事業会社・コンサルファームで異なる。SIer�
 ### 変数3：担当プロジェクトの並走数
 
 PM1人が何本のプロジェクトを掛け持ちするかは、負荷を決定する最大の要因の一つである。経験の浅い段階では1〜2本が多いが、シニアになるにつれ3〜5本を並走させる環境も珍しくない。並走数が増えると、課題が重なったときのバッファが失われ、対応の質と精神的負荷の両方に影響が出やすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-work-style">キャリアを相談する</a>
+</aside>
 
 ## 残業・労働時間の目安
 
@@ -86,6 +92,11 @@ PMとしてのキャリアが進むにつれ、働き方のパターンは変化
 - **シニアPM・PMディレクター（7年以上）**：複数プロジェクトの管掌・若手育成・提案活動が主な役割に移行する。個別作業は減るが、経営・事業側との調整の比重が増す
 
 シニア層になると、プロジェクトの細部への直接介入は減り、チームの課題を構造的に解消する役割にシフトする傾向がある。そのため「手を動かす時間」は減少する一方、判断・報告・関係管理の質が問われる機会が増えやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

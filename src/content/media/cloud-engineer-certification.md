@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["クラウドエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-certification"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-certification.png"
 related: ["cloud-engineer-salary-600", "cloud-engineer-career-guide", "cloud-engineer-interview", "data-engineer-certification", "platform-engineer-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["cloud-engineer-salary-600", "cloud-engineer-career-guide", "cloud-eng
 | SaaS・スタートアップ | 低め | 実装力・設計経験の実績が主軸 |
 | フリーランス・独立系エンジニア | 中〜高め | 発注者との信頼形成のシグナルになる場合がある |
 | 社内IT・情報システム部門 | 中程度 | ベンダーとの交渉力・知識証明として参照される |
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-certification">無料で相談する</a>
+</aside>
 
 ## 評価されやすい資格の共通特性
 
@@ -96,6 +102,11 @@ AWS・Google Cloud・Microsoft Azureといった主要クラウドプロバイ�
 
 **4. 資格より先にポートフォリオ・実績の整理を行う**  
 GitHubリポジトリ・構成図・担当した設計の概要など、実務の証拠が面接では優先される。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

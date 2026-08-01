@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["会計・財務コンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "fas-consultant-salary-600"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-salary-600.png"
 related: ["fas-consultant-future", "fas-consultant-skills", "fas-consultant-company-size", "it-consultant-salary-600", "mobile-engineer-salary-600"]
 ---
@@ -33,6 +34,11 @@ related: ["fas-consultant-future", "fas-consultant-skills", "fas-consultant-comp
 事業会社では年功・等級制度の中に報酬が組み込まれるため、成果を出していても制度上のグレードが上がらなければ報酬は伸びにくい。一方、コンサルファームはプロジェクト単価・稼働率・評価グレードが報酬に直結しやすい構造のため、スキルと成果を積めば比較的早く600万円台へ到達しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 壁になる要素：なぜ600万円で止まるのか
 
@@ -101,6 +107,11 @@ related: ["fas-consultant-future", "fas-consultant-skills", "fas-consultant-comp
 - 600万円を超えるための移動は「量的な努力の延長」ではなく、「業務の質的な移行」によって実現している
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

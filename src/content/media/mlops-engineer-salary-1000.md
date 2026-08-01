@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["MLOpsエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-salary-1000"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-salary-1000.png"
 related: ["mlops-engineer-salary-600", "mlops-engineer-in-20s", "mlops-engineer-certification", "network-engineer-salary-1000", "project-manager-salary-1000"]
 ---
@@ -27,6 +28,11 @@ MLOpsエンジニアは、機械学習モデルの開発・運用基盤を設計
 | マネジャー・スタッフ相当 | 1,100〜1,500万円以上 | GAFA系外資、国内大手メガテック |
 
 年収1,000万円は「シニア〜テックリード」の帯域に位置します。純粋なスキル評価として到達できるラインであり、マネジメント職への転換を必須としない点がMLOpsエンジニアとして働き続けたい層にとって重要な特徴です。ただし、この水準を実現できる求人が多い組織は限られており、外資系IT企業・大手メガベンチャー・一部のAIスタートアップが中心となる傾向があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリアの構造
 
@@ -91,6 +97,11 @@ MLOpsエンジニアは横断的なポジションであるため、採用企業
 ### ツール経験はあるが設計経験がない
 
 MLOpsの文脈で高く評価されるのは、「何かを使った経験」よりも「なぜそれを選び、どう設計したか」を説明できる経験です。ツールの習熟が目的化してしまうと、採用面接でのアーキテクチャ議論や意思決定の説明で弱さが露呈しやすくなります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

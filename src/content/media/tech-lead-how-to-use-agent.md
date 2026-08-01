@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["テックリード", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "tech-lead-how-to-use-agent"
+hub: "tech-lead"
 image: "/images/media/tech-lead-how-to-use-agent.png"
 related: ["tech-lead-salary-1000", "tech-lead-failure", "tech-lead-english", "uiux-designer-how-to-use-agent", "business-planning-how-to-use-agent"]
 ---
@@ -38,6 +39,11 @@ related: ["tech-lead-salary-1000", "tech-lead-failure", "tech-lead-english", "ui
 エージェントは複数の企業の提示水準を横断的に把握しており、候補者に相場観を提供したうえで、オファー後の交渉を代理することができます。内定後に候補者が直接交渉するよりも、エージェントが「他社との比較状況」や「候補者の期待水準」を適切な文脈で伝えることで、結果として提示額が見直されることがあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## テックリードの転職エージェントを選ぶための観点
 
@@ -90,6 +96,11 @@ related: ["tech-lead-salary-1000", "tech-lead-failure", "tech-lead-english", "ui
 この構造への移行後、通過率は改善傾向となり、最終的に複数社からオファーを得た上で交渉によって当初の提示額よりも上の水準での入社となりました。この事例は特定の個人ではなく、テックリード転職においてよく見られるパターンの型として示しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

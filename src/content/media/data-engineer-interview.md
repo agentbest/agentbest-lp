@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["データエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "data-engineer-interview"
+hub: "data-engineer"
 image: "/images/media/data-engineer-interview.png"
 related: ["data-engineer-salary", "data-engineer-career-guide", "data-engineer-company-size", "business-planning-interview", "ml-engineer-interview"]
 ---
@@ -30,6 +31,11 @@ related: ["data-engineer-salary", "data-engineer-career-guide", "data-engineer-c
 特にSaaS・コンサル・IT領域の企業は、データエンジニアをBIや分析チームと接続する役割として位置づけていることが多く、「ビジネス理解」の層を重視する傾向がある。技術スタックの知識量だけでなく、データを誰のために何の目的で扱うかを語れるかどうかが、評価の分かれ目になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の組み立て方
 
@@ -97,6 +103,11 @@ STAR形式（状況・課題・行動・結果）は有効だが、データエ�
 「すべてを網羅する」よりも、自分のキャリアの文脈に照らして「深く語れる領域」と「概要として説明できる領域」を明確に区別して臨む方が、一貫した印象を与えやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

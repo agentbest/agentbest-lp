@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["パートナーセールス／アライアンス", "年収相場"]
 pubDate: 2026-07-04
 slug: "partner-sales-salary"
+hub: "partner-sales"
 image: "/images/media/partner-sales-salary.png"
 related: ["partner-sales-in-20s", "partner-sales-career-path", "partner-sales-motivation", "project-manager-salary", "business-consultant-salary"]
 ---
@@ -18,6 +19,11 @@ related: ["partner-sales-in-20s", "partner-sales-career-path", "partner-sales-mo
 パートナーセールスは、販売代理店・リセラー・SIer・ISV（独立系ソフトウェアベンダー）など、自社製品・サービスを市場に届けるパートナー企業を管理・支援することで間接販売チャネルを拡大する役割を担う。アライアンス（業務提携）はより広義であり、共同マーケティングや相互送客、製品連携なども含まれる。
 
 同じ会社内でも、チャネル管理に特化した「チャネルセールス」、戦略的な提携交渉を担う「アライアンスマネージャー」、グローバル規模でエコシステムを設計する「パートナーエコシステムマネージャー」など、役割の粒度は多様である。年収レンジを読む際は、自分がどの機能を担うポジションかを意識することが重要になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収相場：経験年数・ポジション別レンジ
 
@@ -84,6 +90,11 @@ related: ["partner-sales-in-20s", "partner-sales-career-path", "partner-sales-mo
 SaaS製品の普及に伴い、直接販売のみで市場をカバーすることには限界が生じている。特に中堅・中小企業（SMB）市場への浸透には、地域密着型のリセラーやコンサルティング会社とのチャネル戦略が不可欠であり、その構築・管理を担えるパートナーセールス・アライアンス人材への需要は継続している。
 
 一方で、ただパートナー企業を管理するだけでなく、データに基づいてパートナーの活性化施策を設計・実行できる人材、あるいはAPI連携・テクノロジーパートナーシップを推進できる技術的素養を持つ人材のニーズも高まっている。テクニカルアライアンスやISVパートナーシップを扱うポジションでは、プロダクトの理解が年収交渉における差別化要因になりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

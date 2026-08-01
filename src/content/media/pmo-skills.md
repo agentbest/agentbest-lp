@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["PMO", "必要スキル"]
 pubDate: 2026-07-04
 slug: "pmo-skills"
+hub: "pmo"
 image: "/images/media/pmo-skills.png"
 related: ["pmo-career-guide", "pmo-future", "pmo-interview", "inside-sales-skills", "sre-skills"]
 ---
@@ -28,6 +29,11 @@ PMOという職種の市場価値は、保有スキルの「組み合わせ」�
 必要なスキルセットは、この三類型のどこに位置するかによって重心が変わる。ただし、市場で評価されるPMOは「上位類型のスキルを持ちながら下位類型の業務にも対応できる」という幅広さを備えている傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-skills">無料で相談する</a>
+</aside>
 
 ## PMOに必要なスキル一覧
 
@@ -110,6 +116,11 @@ DX推進プロジェクトや大規模システム刷新案件では、経営層
 この過程で獲得されるのは「単一プロジェクトの遂行支援」から「組織的なプロジェクト管理の仕組み構築」への質的転換であり、市場評価に反映されやすい変化と言える。年収ベースで見ると、スキル転換前後で数十〜百万円程度の差が生じるケースが目安として語られることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

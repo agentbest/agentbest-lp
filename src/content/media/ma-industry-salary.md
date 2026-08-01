@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["M&A仲介", "業界年収"]
 pubDate: 2026-07-05
 slug: "ma-industry-salary"
+hub: "ma-industry"
 image: "/images/media/ma-industry-salary.png"
 related: ["ma-industry-guide", "ma-industry-company", "ma-industry-trend", "fintech-industry-salary", "adtech-industry-salary"]
 ---
@@ -32,6 +33,11 @@ M&A仲介の報酬体系は、多くの場合「固定給＋インセンティ�
 インセンティブ比率が高い企業ほど「当たり年」と「外れ年」の差が顕著になる。転職時には、過去数年間のインセンティブ実績分布を確認することが、年収の実態把握において重要な観点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 職種別・ポジション別の年収レンジ
 
@@ -101,6 +107,11 @@ M&A仲介の中でも高い報酬水準が実現しやすい企業には、い�
 在籍年数が長いシニア層が厚い企業は、インセンティブ設計の安定性・公正性が高い傾向にある。逆に、シニア層の流出が多い企業は報酬制度の信頼性に課題がある可能性がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

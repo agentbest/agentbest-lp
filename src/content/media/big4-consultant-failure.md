@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["総合コンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "big4-consultant-failure"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-failure.png"
 related: ["big4-consultant-salary", "big4-consultant-how-to-use-agent", "big4-consultant-work-style", "engineering-manager-failure", "frontend-engineer-failure"]
 ---
@@ -34,6 +35,11 @@ related: ["big4-consultant-salary", "big4-consultant-how-to-use-agent", "big4-co
 コンサルティング業界はベース年収が高水準になりやすく、オファーレターを受け取った時点で判断が感情的になるケースがある。プロジェクト拘束時間、出張頻度、評価サイクル、アップオアアウトの実態といった条件が十分に確認されないまま承諾に至ることがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-failure">キャリアを相談する</a>
+</aside>
 
 ## 段階別・よくある失敗パターンと対処の方向性
 
@@ -117,6 +123,11 @@ related: ["big4-consultant-salary", "big4-consultant-how-to-use-agent", "big4-co
 - [ ] 現職を離れる理由が「逃げ」ではなく「選択」として整理されているか
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

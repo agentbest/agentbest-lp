@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["ポストコンサル", "年収600万"]
 pubDate: 2026-07-05
 slug: "post-consultant-salary-600"
+hub: "post-consultant"
 image: "/images/media/post-consultant-salary-600.png"
 related: ["post-consultant-salary-1000", "post-consultant-from-scratch", "post-consultant-work-style", "business-planning-salary-600", "marketing-manager-salary-600"]
 ---
@@ -20,6 +21,11 @@ related: ["post-consultant-salary-1000", "post-consultant-from-scratch", "post-c
 この差を生む主な要因は三つある。**ファーム在籍時のランク**、**転身先企業の給与テーブル構造**、そして**役割の定義のされ方**だ。
 
 たとえばシニアアソシエイトやマネージャー相当まで経験を積んだうえで事業会社に移る場合、スタートアップや中堅企業ではオファー年収が600万円前後に設定されることも珍しくない。一方、大企業に転身した場合は職能等級制度の影響を受け、年次や社内評価基準に縛られるため、実力があっても初年度から大きく上回ることが難しいケースもある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 年収600万円が「壁」になりやすい転身パターン
 
@@ -82,6 +88,11 @@ related: ["post-consultant-salary-1000", "post-consultant-from-scratch", "post-c
 3. **Series Cのスタートアップ・BizDev**：現金年収560万円＋ストックオプション。現金ベースでは現職比でダウン。
 
 この例が示すのは、コンサル在籍時の年収が高い場合、**転身後に同水準を維持しようとすると選択肢が絞られる**という現実だ。外資系事業会社は転身先として金銭的な整合性が取りやすいが、長期的なキャリアの方向性（IPO参加、大企業内での昇進、専門性の深化）とのトレードオフも考慮する必要がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["モバイルエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-motivation"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-motivation.png"
 related: ["mobile-engineer-certification", "mobile-engineer-salary-600", "mobile-engineer-career-path", "big4-consultant-motivation", "data-engineer-motivation"]
 ---
@@ -22,6 +23,11 @@ related: ["mobile-engineer-certification", "mobile-engineer-salary-600", "mobile
 3. **入社後の貢献イメージの明確さ**：採用コストを正当化できる貢献が期待できるか
 
 特にモバイル領域は、iOS（Swift/Objective-C）とAndroid（Kotlin/Java）のネイティブ開発、Flutter・React Nativeなどのクロスプラットフォームフレームワークでスキルセットが大きく異なります。技術選択の背景と志向を言語化できているかどうかが、同じスキルを持つ候補者間の差別化要因になりやすいです。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -106,6 +112,11 @@ related: ["mobile-engineer-certification", "mobile-engineer-salary-600", "mobile
 3. **ネイティブ開発中心の企業を選ぶ技術的な理由を示す**
 
 このような構成は、「クロスプラットフォームしかわからないエンジニア」ではなく「プラットフォームをまたいで設計を考えられるエンジニア」として読まれやすくなります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

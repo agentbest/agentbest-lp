@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["SaaS", "業界年収"]
 pubDate: 2026-07-05
 slug: "saas-industry-salary"
+hub: "saas-industry"
 image: "/images/media/saas-industry-salary.png"
 related: ["saas-industry-career", "saas-industry-guide", "saas-industry-company", "hrtech-industry-salary", "security-industry-salary"]
 ---
@@ -32,6 +33,11 @@ SaaS企業の報酬体系は大きく「日系型（年功・等級制）」と�
 ARR（年間経常収益）の規模と成長率が高い企業ほど、採用競争力を維持するために報酬水準を引き上げる傾向があります。急成長中の企業では、市場平均より高い水準でオファーを出さなければ優秀な人材を確保しにくい構造があるためです。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 職種別年収レンジの目安
 
@@ -95,6 +101,11 @@ SaaS業界の中でも特に高い報酬水準を維持している企業には�
 最終的に交渉が成立したオファーは、固定590万円＋変動290万円（OTE 880万円）＋RSU維持、という形に落ち着くことが一つの現実的な着地例として参考になります。なお、交渉の余地は企業・ポジション・採用タイミングによって異なるため、あくまでも構造の理解を優先することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

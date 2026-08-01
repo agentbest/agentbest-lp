@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["パートナーセールス／アライアンス", "英語力"]
 pubDate: 2026-07-04
 slug: "partner-sales-english"
+hub: "partner-sales"
 image: "/images/media/partner-sales-english.png"
 related: ["partner-sales-salary-1000", "partner-sales-in-20s", "partner-sales-future", "devops-engineer-english", "cto-vpoe-english"]
 ---
@@ -26,6 +27,11 @@ related: ["partner-sales-salary-1000", "partner-sales-in-20s", "partner-sales-fu
 - **海外パートナーとの連携**：アジアパシフィック地域のディストリビューターや、グローバルSIとの協業案件では、英語が共通言語になります。
 
 逆に、国内完結型のチャネル開拓（例：地場のSIer・販売代理店とのリレーション構築）では、英語が求められるケースは少なく、業界知識・関係構築力・営業力が評価軸の中心になります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力で変わる求人要件と年収レンジ
 
@@ -78,6 +84,11 @@ TOEIC 750〜800点前後の読み書きスキルを持ちながら、口頭で�
 3. **会議での発信習慣**：社内に英語話者がいる環境であれば、オンライン会議での発言回数を意識的に増やすことが、最もコストの低い実践機会になります。
 
 資格スコアの取得（TOEIC・TOEFL等）は、書類選考における一定の証明手段として機能しますが、外資系の実務環境では「スコアより使える英語か」が面接で直接検証される点に留意が必要です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

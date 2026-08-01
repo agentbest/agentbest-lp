@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["財務・経理", "転職失敗"]
 pubDate: 2026-07-04
 slug: "finance-failure"
+hub: "finance"
 image: "/images/media/finance-failure.png"
 related: ["finance-future", "finance-resume", "finance-salary-1000", "dev-director-failure", "enterprise-sales-failure"]
 ---
@@ -30,6 +31,11 @@ related: ["finance-future", "finance-resume", "finance-salary-1000", "dev-direct
 こうした不一致は、求人票や面接だけでは見抜きにくいため、転職活動の各段階で意識的に情報を取りに行く姿勢が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターン：7つの類型
 
@@ -97,6 +103,11 @@ J-GAAPからIFRS適用企業への転職、あるいは非連結の中小企業�
 この事例における失敗の要因は、「財務企画への関与」が具体的に何を意味するのかを、面接で掘り下げて確認しなかった点にあります。求人票の記載は採用側の理想像を反映することがあるため、「実際に現在その業務を担っているのは誰か」「その担当者の職種・レイヤーは何か」を確認することで、業務実態を把握しやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

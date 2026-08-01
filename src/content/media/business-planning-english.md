@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["事業企画", "英語力"]
 pubDate: 2026-07-04
 slug: "business-planning-english"
+hub: "business-planning"
 image: "/images/media/business-planning-english.png"
 related: ["business-planning-motivation", "business-planning-company-size", "business-planning-work-style", "web-marketer-english", "saas-sales-english"]
 ---
@@ -20,6 +21,11 @@ related: ["business-planning-motivation", "business-planning-company-size", "bus
 国内単独展開の中堅企業であれば、英語は実質的に不問とする求人が多く存在します。一方でグローバル展開を進める大手企業や外資系企業、あるいはSaaS・IT領域の国際市場を狙うスタートアップでは、英語を業務上の必須スキルとして明記するケースが増えています。
 
 重要なのは、「英語ができる事業企画人材」と「英語ができない事業企画人材」の間に、求人の総量や年収帯において明確な差が生じているという市場の構造です。英語を要件に加えることで、候補者プールが一気に絞られるため、企業側は相応の処遇を用意する傾向があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-english">無料で相談する</a>
+</aside>
 
 ## 英語要件と求人・年収の関係
 
@@ -71,6 +77,11 @@ APAC地域の管掌ロールや、海外拠点との共同プロジェクトで�
 次に、実務での英語使用経験をいかに作るかが問われます。社内に英語を使う機会がない場合、海外拠点との連携プロジェクトへの参加を打診したり、グローバル案件を扱う社外コミュニティに関わったりすることで、実績として語れる経験を積むことが可能です。
 
 スコアとしてはTOEIC 800点台以上が、外資系・グローバル企業への応募時に一つの目安として機能しやすいですが、スコア単独で評価されるケースは限られており、実際の面接では英語での受け答えを求められる場面が増えています。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

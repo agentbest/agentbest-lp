@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["広報／PR", "資格"]
 pubDate: 2026-07-04
 slug: "pr-certification"
+hub: "pr"
 image: "/images/media/pr-certification.png"
 related: ["pr-in-20s", "pr-future", "pr-company-size", "cloud-engineer-certification", "it-consultant-certification"]
 ---
@@ -20,6 +21,11 @@ related: ["pr-in-20s", "pr-future", "pr-company-size", "cloud-engineer-certifica
 本稿では、広報・PRのキャリアを考えるうえで「評価されやすい資格」「限定的な場面で役立つ資格」「取得の優先度が低い資格」の3区分で整理し、実務的な判断基準を提示する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価されやすい資格・知識領域
 
@@ -75,6 +81,11 @@ related: ["pr-in-20s", "pr-future", "pr-company-size", "cloud-engineer-certifica
 効果的な提示の順序は、①実施したメディア対応・広報施策の具体的成果 → ②それを支える知識体系としての資格・学習履歴という構成が適切と言える。資格は「実績を補う根拠」として機能させることで、採用担当者への説得力が増す。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

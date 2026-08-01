@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["QAエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "qa-engineer-interview"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-interview.png"
 related: ["qa-engineer-resume", "qa-engineer-career-guide", "qa-engineer-skills", "strategy-consultant-interview", "it-architect-interview"]
 ---
@@ -33,6 +34,11 @@ QAエンジニアの転職面接は、開発エンジニアやPMの面接とは�
 これらの評価軸を念頭に置くと、個々の質問が何を確認するための問いかけなのかを読み解きやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問の類型と回答の組み立て方
 
@@ -130,6 +136,11 @@ STARフレーム（状況・課題・行動・結果）を意識した構造が�
 パターンBが優れている理由は、背景・判断・失敗からの学習・成果を一連の流れで語っているからだ。面接官にとって、「この人がどう考え、どう動くか」が想像しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["プラットフォームエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "platform-engineer-english"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-english.png"
 related: ["platform-engineer-certification", "platform-engineer-career-path", "platform-engineer-failure", "db-engineer-english", "it-consultant-english"]
 ---
@@ -36,6 +37,11 @@ related: ["platform-engineer-certification", "platform-engineer-career-path", "p
 英語力は現在の業務遂行に必須でなくても、転職市場における求人の幅に影響します。外資系テック企業・グローバルSaaS企業の日本法人・複数国拠点を持つスタートアップでは、英語力を応募要件または優遇要件として明示するケースが多く見られます。この局面では英語力の有無が、アクセスできる求人の母数を規定する要因になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力レベル別：求人の傾向と年収のレンジ
 
@@ -83,6 +89,11 @@ GitHubのIssueへのコメント、Pull Requestのdescription、設計ドキュ�
 オープンソースへの貢献、英語での技術ブログ執筆、DevOps・SRE・クラウドネイティブ領域のオンラインフォーラムへの参加は、実際の転職活動において具体的なエビデンスとして機能します。スコアより「何を英語で作ってきたか」が評価されるシーンが、外資系ポジションでは少なくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

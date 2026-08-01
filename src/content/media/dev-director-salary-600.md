@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["開発ディレクター", "年収600万"]
 pubDate: 2026-07-04
 slug: "dev-director-salary-600"
+hub: "dev-director"
 image: "/images/media/dev-director-salary-600.png"
 related: ["dev-director-how-to-use-agent", "dev-director-future", "dev-director-skills", "post-consultant-salary-600", "thinktank-salary-600"]
 ---
@@ -39,6 +40,11 @@ related: ["dev-director-how-to-use-agent", "dev-director-future", "dev-director-
 第三の要因として、**所属企業の予算構造と職種の位置づけ**が挙げられます。開発ディレクターをコスト部門（間接部門）として整理している企業では、報酬の上限設計が保守的になりやすく、事業成果との連動が薄い報酬テーブルになっている場合があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁を突破するための要素
 
@@ -87,6 +93,11 @@ related: ["dev-director-how-to-use-agent", "dev-director-future", "dev-director-
 このパターンから読み取れるのは、経験の「棚卸しと再解釈」が処遇に直結するという事実です。経験の量を増やすより、持っている経験を評価される文脈に乗せる能力が問われています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

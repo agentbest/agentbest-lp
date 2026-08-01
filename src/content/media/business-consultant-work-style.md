@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["業務コンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "business-consultant-work-style"
+hub: "business-consultant"
 image: "/images/media/business-consultant-work-style.png"
 related: ["business-consultant-resume", "business-consultant-from-scratch", "business-consultant-interview", "sre-work-style", "corporate-it-work-style"]
 ---
@@ -20,6 +21,11 @@ related: ["business-consultant-resume", "business-consultant-from-scratch", "bus
 SAPやOracle等のERPパッケージ導入を主軸に置くファームでは、業務コンサルタントとシステムコンサルタントが役割分担されていることが多い。一方、独立系コンサルファームや事業会社内のコンサルティング部門では、業務設計からシステム要件定義まで一気通貫で担当するケースもある。
 
 この役割の「幅」が、働き方の多様性にも直結している。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 激務度を左右する3つの構造的要因
 
@@ -92,6 +98,11 @@ SAPやOracle等のERPパッケージ導入を主軸に置くファームでは�
 | 金 | 来週成果物の骨子作成、チームMTG | リモート | 19時頃 |
 
 この例では週の平均残業時間は30〜35時間程度に相当する。設計フェーズとしては比較的落ち着いた週であり、クライアントの経営層への報告が重なる週はさらに負荷が増すこともある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

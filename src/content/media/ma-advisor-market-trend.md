@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["M&Aアドバイザー", "市場動向"]
 pubDate: 2026-07-04
 slug: "ma-advisor-market-trend"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-market-trend.png"
 related: ["ma-advisor-career-guide", "ma-advisor-salary-1000", "ma-advisor-from-scratch", "db-engineer-market-trend", "freelance-consultant-market-trend"]
 ---
@@ -24,6 +25,11 @@ M&Aアドバイザーの転職市場は、2025年から2026年にかけて「量
 この背景には、FAとしての競争環境の激化がある。独立系ブティックの設立が相次ぎ、大手証券・メガバンク系・独立系ブティック・PE/VCが同一の案件・人材プールで競合する構図が定着した。各プレイヤーが即戦力化を急ぐため、スクリーニングの基準が引き上がっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## プレイヤー別の採用ニーズ
 
@@ -94,6 +100,11 @@ M&Aアドバイザーの求人は、大きく以下の四つのカテゴリに�
 **結果と留意点**：内定を得た後、最初の6〜12ヶ月は案件獲得よりもDDサポート・資料作成で実績を積む形でオンボーディング。バイサイド経験はセルサイドFA業務への応用が可能だが、求められる行動様式の違いを事前に把握しておくことが重要となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

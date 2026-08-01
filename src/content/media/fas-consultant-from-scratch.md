@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["会計・財務コンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "fas-consultant-from-scratch"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-from-scratch.png"
 related: ["fas-consultant-in-30s", "fas-consultant-skills", "fas-consultant-salary-600", "corporate-planning-from-scratch", "cto-vpoe-from-scratch"]
 ---
@@ -35,6 +36,11 @@ related: ["fas-consultant-in-30s", "fas-consultant-skills", "fas-consultant-sala
 これらは同一ファームの中でプラクティスが分かれていることが多く、未経験からの参入では「どの領域を最初のキャリアとして選ぶか」が職務定義に直結する。財務DDと管理会計支援では求められる素地も異なるため、「会計・財務コンサルタント」を一括りに目指そうとすると軸がぼやけやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験からの参入難易度：領域別の現実
 
@@ -115,6 +121,11 @@ related: ["fas-consultant-in-30s", "fas-consultant-skills", "fas-consultant-sala
 大手ファームと独立系では同ポジションでも水準差が出やすく、また成果報酬・インセンティブの有無によっても実態の収入は変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

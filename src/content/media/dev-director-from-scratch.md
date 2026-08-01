@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["開発ディレクター", "未経験転職"]
 pubDate: 2026-07-04
 slug: "dev-director-from-scratch"
+hub: "dev-director"
 image: "/images/media/dev-director-from-scratch.png"
 related: ["dev-director-skills", "dev-director-salary-600", "dev-director-english", "ml-engineer-from-scratch", "network-engineer-from-scratch"]
 ---
@@ -36,6 +37,11 @@ related: ["dev-director-skills", "dev-director-salary-600", "dev-director-englis
 事業サイドの「こんな機能がほしい」という要望を、技術的に実現可能な仕様へ落とし込む能力。ここにはユーザーストーリーの作成、優先順位付けのロジック、コスト・品質・納期のトレードオフ判断が含まれる。この翻訳力こそが、開発ディレクターの核心的な職務といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル別の習得難度と所要期間の目安
 
@@ -105,6 +111,11 @@ SaaS企業の法人営業として2年間勤務した人物が、開発ディレ
 IT・SaaS系の自社開発企業はWeb制作会社より単価水準が高い傾向があり、同じ職責でも在籍する企業のビジネスモデルによって年収の上限は大きく変わりうる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

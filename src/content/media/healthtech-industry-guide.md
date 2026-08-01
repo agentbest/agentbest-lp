@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["ヘルステック", "業界研究"]
 pubDate: 2026-07-05
 slug: "healthtech-industry-guide"
+hub: "healthtech-industry"
 image: "/images/media/healthtech-industry-guide.png"
 related: ["healthtech-industry-career", "healthtech-industry-company", "healthtech-industry-salary", "consulting-industry-guide", "mobility-industry-guide"]
 ---
@@ -46,6 +47,11 @@ related: ["healthtech-industry-career", "healthtech-industry-company", "healthte
 規制対応の度合いが高いカテゴリほど、薬機法や医療機器製造販売承認に関する知識が求められる傾向があり、即戦力として評価されるまでのキャッチアップ期間が長くなりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-guide">無料で相談する</a>
+</aside>
 
 ## 主要プレイヤーの分類と特徴
 
@@ -105,6 +111,11 @@ related: ["healthtech-industry-career", "healthtech-industry-company", "healthte
 シリーズA以前のアーリーステージ企業では、ストックオプションが報酬の一部を構成する設計になっているケースが多く、IPO時の価値次第で総報酬が大きく変わる可能性があります。ただし行使条件や希薄化リスクは事前に確認が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## ケーススタディ：SaaS営業からヘルステックCSへの転換
 

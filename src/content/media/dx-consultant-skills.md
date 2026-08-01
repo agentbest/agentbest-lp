@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["DXコンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "dx-consultant-skills"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-skills.png"
 related: ["dx-consultant-in-30s", "dx-consultant-market-trend", "dx-consultant-from-scratch", "tech-lead-skills", "salesforce-consultant-skills"]
 ---
@@ -46,6 +47,11 @@ DXの実現手段となるテクノロジーへの理解です。この層は「
 - **PMO機能**：複数施策の進捗管理、リスクの早期検知と対応計画の策定
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## スキル別の市場価値への影響度
 
@@ -120,6 +126,11 @@ DXコンサルタント領域で参照されやすい資格の例を以下に示
 | DX推進パスポート・DX認定等 | 国内での認知度は上昇傾向 | 単独では差別化効果が限定的 |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

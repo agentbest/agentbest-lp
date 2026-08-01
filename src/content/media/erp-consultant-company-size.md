@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["ERPコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-05
 slug: "erp-consultant-company-size"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-company-size.png"
 related: ["erp-consultant-certification", "erp-consultant-failure", "erp-consultant-salary-600", "data-scientist-company-size", "bizdev-company-size"]
 ---
@@ -36,6 +37,11 @@ ERPコンサルタント市場における「大手」は、主に総合系コ�
 ただし、教育・オンボーディングの体制が大手と比べて簡素なことが多く、自律的に学習し、課題を自分で設定できる人物でないと成長が停滞しやすい。また、案件の規模や品質にばらつきが出やすく、入社後の環境が期待と異なる事態も生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 報酬・成長・裁量のレンジ比較
 
@@ -86,6 +92,11 @@ ERPコンサルタント市場における「大手」は、主に総合系コ�
 **評価制度とインセンティブの構造**：スタートアップでは、ストックオプションや業績連動の賞与比率が高いことがある。これは将来的なアップサイドを意味する反面、収入の安定性が下がりやすい点でもある。自身のリスク許容度と照合することが求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

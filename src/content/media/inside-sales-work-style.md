@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["インサイドセールス", "働き方"]
 pubDate: 2026-07-03
 slug: "inside-sales-work-style"
+hub: "inside-sales"
 image: "/images/media/inside-sales-work-style.png"
 related: ["inside-sales-future", "inside-sales-in-30s", "inside-sales-failure", "it-consultant-work-style", "cloud-engineer-work-style"]
 ---
@@ -30,6 +31,11 @@ related: ["inside-sales-future", "inside-sales-in-30s", "inside-sales-failure", 
 新規開拓がメインとなるため、お断りや無反応が多く、精神的なタフさが求められる。一方で業務量は自分で設計しやすく、架電の時間帯や件数を戦略的にコントロールする余地がある。目標KPIの設定次第で、業務密度が大きく変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 激務度の実態：何が「きつさ」を生むか
 
@@ -103,6 +109,11 @@ related: ["inside-sales-future", "inside-sales-in-30s", "inside-sales-failure", 
 この二つのケースは、同じ「インサイドセールス」という職種でも、働き方の質が大きく異なることを示している。環境選びの段階で、自分が何を優先するかを明確にしておくことが、実際の満足度に直結する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["プロダクトマネージャー", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "product-manager-company-size"
+hub: "product-manager"
 image: "/images/media/product-manager-company-size.png"
 related: ["product-manager-salary", "product-manager-salary-1000", "product-manager-career-path", "marketing-manager-company-size", "hrbp-company-size"]
 ---
@@ -34,6 +35,11 @@ related: ["product-manager-salary", "product-manager-salary-1000", "product-mana
 スタートアップでは、プロダクトライフサイクルの複数フェーズを短期間で経験しやすい。PMF（プロダクトマーケットフィット）の探索、グロース、組織としての開発プロセスの整備など、フェーズごとに求められるスキルが異なるため、幅広い実務知識が身につく傾向があります。ただし、各領域の深度は個人の意識的な努力に依存する部分も大きいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-company-size">無料で相談する</a>
+</aside>
 
 ## 待遇・報酬の構造比較
 
@@ -89,6 +95,11 @@ Aさんは最終的にスタートアップを選択した。優先軸を「経�
 これらはいずれも正解のある問いではなく、自分のキャリア設計と現在の状況に照らして判断するものです。特に「どちらが成長できるか」という問いに対しては、環境よりも本人の取り組み方が大きく影響する側面も無視できません。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

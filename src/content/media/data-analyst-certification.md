@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["データアナリスト", "資格"]
 pubDate: 2026-07-04
 slug: "data-analyst-certification"
+hub: "data-analyst"
 image: "/images/media/data-analyst-certification.png"
 related: ["data-analyst-in-30s", "data-analyst-motivation", "data-analyst-salary-1000", "scm-consultant-certification", "qa-engineer-certification"]
 ---
@@ -27,6 +28,11 @@ related: ["data-analyst-in-30s", "data-analyst-motivation", "data-analyst-salary
 これらはいずれも、資格証明書よりも「実績・成果物・面接での思考開示」によって評価されやすい。資格はあくまで知識の習得を間接的に示すシグナルにとどまる。
 
 一方で、未経験からの転職・ジュニア層の採用においては、資格が「学習意欲・基礎知識の保証」として機能することがある。経験が乏しいポジション帯ほど、資格の相対的な有効性は高まる傾向にある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい資格・されにくい資格
 
@@ -94,6 +100,11 @@ SaaS・EC・金融・ヘルスケアなど、特定ドメインへの精通度�
 2. **志望する企業・職種の性質**：外資系コンサル・グローバルSaaSでは、日本独自の資格より実績・英語力が評価されやすい傾向がある
 3. **資格取得によって補われる知識の実務価値**：試験勉強のプロセス自体が実務スキル向上につながるかを判断基準とする
 4. **市場での認知度**：採用担当・面接官がその資格を正確に評価できるかも確認しておく価値がある
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

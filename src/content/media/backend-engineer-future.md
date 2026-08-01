@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["バックエンドエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "backend-engineer-future"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-future.png"
 related: ["backend-engineer-career-guide", "backend-engineer-motivation", "backend-engineer-salary", "dev-director-future", "erp-consultant-future"]
 ---
@@ -24,6 +25,11 @@ related: ["backend-engineer-career-guide", "backend-engineer-motivation", "backe
 言い換えると、「コードを書くこと」自体の価値は相対的に下がり、「何をどのように設計し、どんな制約のなかで意思決定するか」の価値が上がっている。この変化はバックエンドに限った話ではないが、バックエンドは特に影響を受けやすい領域のひとつである。なぜなら、フロントエンドと比べて「ユーザーの目に見えない複雑性」を扱う仕事が多く、その複雑性の管理こそがエンジニアの付加価値だからだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-future">無料で相談する</a>
+</aside>
 
 ## スキル別の将来性：代替されやすい領域と残る領域
 
@@ -104,6 +110,11 @@ AI統合の経験を持つバックエンドエンジニアは市場での希少
 これらはあくまで傾向としての目安であり、企業の規模・フェーズ・事業ドメインによって大きく変動する。特にスタートアップにおいては、ストックオプション等の報酬構造も加味した比較が必要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["ERPコンサルタント", "市場動向"]
 pubDate: 2026-07-05
 slug: "erp-consultant-market-trend"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-market-trend.png"
 related: ["erp-consultant-skills", "erp-consultant-salary-1000", "erp-consultant-how-to-use-agent", "business-planning-market-trend", "ml-engineer-market-trend"]
 ---
@@ -26,6 +27,11 @@ ERPコンサルタントの求人数は、2023年以降も増加基調が続い�
 ただし、「求人数が多い＝採用されやすい」という状況とは異なってきている点に注意が必要だ。採用企業は要件の精緻化を進めており、「ERPの導入経験がある」という条件だけでなく、特定業種への深い理解、クラウドアーキテクチャの理解、チェンジマネジメント経験の有無まで問われるケースが増えている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 製品別・フェーズ別の採用ニーズ比較
 
@@ -89,6 +95,11 @@ ERPコンサルタントの転職先は大きく「コンサルティングフ�
 一方、事業会社におけるIT内製化の流れは、2022年以降に加速しており、ERPの運用保守や改善提案を担えるインハウスの専門家需要が増している。事業会社での採用は、技術的な深さよりも「社内の関係者と協働しながら推進できるか」という協調性・コミュニケーション能力が重視されることが多い。ERPコンサルタントとしての経験を活かして事業会社に転じることで、ワークライフバランスの改善や長期的なキャリアの安定を求める層の動きも一定数見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

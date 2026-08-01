@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["SaaS営業", "資格"]
 pubDate: 2026-07-03
 slug: "saas-sales-certification"
+hub: "saas-sales"
 image: "/images/media/saas-sales-certification.png"
 related: ["saas-sales-salary", "saas-sales-motivation", "saas-sales-failure", "embedded-engineer-certification", "it-consultant-certification"]
 ---
@@ -39,6 +40,11 @@ SaaS企業（特にBtoB領域）の営業採用において、選考で最も重
 この前提を踏まえたうえで、「評価される文脈で資格が機能するケース」を考えるのが実務的なアプローチです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格・されにくい資格
 
@@ -107,6 +113,11 @@ SaaS営業において、資格取得に充てる時間・費用と同等以上�
 これらは資格と排他的な関係にあるわけではありませんが、優先順位の整理として、資格は「実績と経験の説得力を補う手段」と位置づけるのが適切です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

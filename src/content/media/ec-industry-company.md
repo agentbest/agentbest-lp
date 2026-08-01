@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["Eコマース", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "ec-industry-company"
+hub: "ec-industry"
 image: "/images/media/ec-industry-company.png"
 related: ["ec-industry-trend", "ec-industry-career", "ec-industry-salary", "cloud-industry-company", "game-industry-company"]
 ---
@@ -34,6 +35,11 @@ Eコマース企業を一括りに語ることには限界がある。同じ「E
 どのモデルを選ぶかは、自分が身につけたいスキルと直結する。分析・マーケティング力を磨きたいなら自社EC系、プラットフォーム設計やBizDevに興味があればマーケットプレイス系、オペレーション全体を俯瞰したいなら垂直統合型が適しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業を評価するための7つの指標
 
@@ -112,6 +118,11 @@ Shopify系かフルスクラッチかによって、MA・CRMツールの選定�
 D2C系スタートアップのマーケティング職の想定年収は、企業の調達ステージや規模感によって幅があるため、一概には言えないが、シリーズB以降で事業規模がある程度確立されている場合、大手事業会社と同等以上の水準で提示されるケースもある。一方、シードやシリーズAでは固定給より株式報酬（ストックオプション）で上振れを期待する構成になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ec-industry-company">キャリアを相談する</a>
+</aside>
 
 ## 年収レンジの目安（職種別・フェーズ別）
 

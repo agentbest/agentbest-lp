@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["データアナリスト", "面接対策"]
 pubDate: 2026-07-04
 slug: "data-analyst-interview"
+hub: "data-analyst"
 image: "/images/media/data-analyst-interview.png"
 related: ["data-analyst-in-30s", "data-analyst-failure", "data-analyst-career-guide", "dx-consultant-interview", "bridge-se-interview"]
 ---
@@ -32,6 +33,11 @@ SaaS企業では技術面接と並行して「テイクホームアサインメ�
 各フェーズで何が評価されているかを事前に把握することが、準備の質を大きく左右します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -120,6 +126,11 @@ A/Bテスト関連の質問は、統計的なリテラシーと実務感覚の�
 職務経歴書と連動して、「自分の分析が組織にもたらした定量的な変化」を3つ程度準備しておくことが目安です。売上・コスト削減・意思決定の速度向上など、形式は問いません。数値が出せない場合は「○週間かかっていたレポート作成を○日に短縮した」のような業務効率の変化でも十分です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["フロントエンドエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-skills"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-skills.png"
 related: ["frontend-engineer-career-guide", "frontend-engineer-in-20s", "frontend-engineer-how-to-use-agent", "fas-consultant-skills", "game-engineer-skills"]
 ---
@@ -29,6 +30,11 @@ related: ["frontend-engineer-career-guide", "frontend-engineer-in-20s", "fronten
 採用市場において評価されやすいのは、この4層をバランスよく押さえたうえで、「2」か「3」の領域に強みを持つエンジニアだ。「コア技術だけ」で止まっているケースは経験年数が浅い段階ではやむを得ないが、3〜5年目以降はより上位の層での実績が市場価値を大きく左右する傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-skills">無料で相談する</a>
+</aside>
 
 ## スキル別・採用市場での評価重み
 
@@ -99,6 +105,11 @@ Core Web Vitals に代表されるWebパフォーマンス指標の改善経験�
 → 年収1,000万円前後を目安とするエンジニアリングマネージャー・スタッフエンジニア相当のポジションで評価軸に入ってくる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

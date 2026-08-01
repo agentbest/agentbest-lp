@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["MLOpsエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-resume"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-resume.png"
 related: ["mlops-engineer-skills", "mlops-engineer-interview", "mlops-engineer-career-guide", "scm-consultant-resume", "platform-engineer-resume"]
 ---
@@ -18,6 +19,11 @@ MLOpsエンジニアの職務経歴書は、「機械学習の知識があるこ
 MLOpsエンジニアという職種は、機械学習エンジニア・インフラエンジニア・データエンジニアが重なる領域に位置するため、採用側の評価軸が企業によって異なる。研究開発寄りのポジションであれば実験管理・モデル評価の精度が問われ、プロダクト寄りのポジションであればCI/CDパイプラインやモニタリング基盤の信頼性設計が重視される。
 
 この職種の職務経歴書でよく見られる失敗は、「モデル開発もインフラもできます」という羅列型の記述に終始してしまい、自分がどのレイヤーに主軸を置くエンジニアなのかが伝わらないケースだ。採用担当者は、自社のフェーズ・課題に対応できる人物かを職務経歴書の段階で判断しようとするため、守備範囲の広さより「何を中心に価値を出してきたか」が明確であることのほうが評価されやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## セクション別の記述方針
 
@@ -105,6 +111,11 @@ MLOpsエンジニアのスキルは、採用担当者が一目で理解できる
 **「貢献しました」で終わる曖昧な動詞**：貢献・支援・携わった、という表現は主体性・スコープが不明瞭なため、「設計した」「実装した」「レビューを主導した」など役割の明確な動詞に置き換えることが望ましい。
 
 **精度向上の数値のみを成果とするもの**：モデル精度そのものはMLOpsエンジニアの主たる責任範囲ではなく、デプロイ頻度・システム稼働率・リードタイム・インシデント対応時間といった「運用品質」にまつわる指標のほうが職種に合致した成果として読まれやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

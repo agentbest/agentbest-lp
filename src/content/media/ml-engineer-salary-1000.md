@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["機械学習エンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "ml-engineer-salary-1000"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-salary-1000.png"
 related: ["ml-engineer-career-path", "ml-engineer-in-30s", "ml-engineer-english", "dev-director-salary-1000", "erp-consultant-salary-1000"]
 ---
@@ -25,6 +26,11 @@ related: ["ml-engineer-career-path", "ml-engineer-in-30s", "ml-engineer-english"
 | スペシャリスト／マネジャー | 経験に依存 | 1,000〜1,500万円以上 |
 
 この表から読み取れるのは、年収1,000万円はミドルからシニアへの移行期、あるいはシニアとして安定した成果を出し始めた段階に対応しやすいということだ。到達可能な水準ではあるが、マーケット全体の分布で見ると上位2〜3割程度に相当する帯域であり、「努力すれば誰でも」というより「構造的に正しいキャリア設計をした人が辿り着く」水準と理解するほうが実態に近い。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## 到達者に共通する3つのキャリア構造
 
@@ -79,6 +85,11 @@ MLOpsやデータ基盤の整備、再現性の確保といったプロダクシ
 
 **年収交渉を「申し訳ない行為」として避けている**
 報酬交渉は権利の行使であり、根拠を持って行う行為だ。自身の市場価値と現在のオファーの差分を構造的に示せれば、交渉の余地が生まれやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

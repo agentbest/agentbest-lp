@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["機械学習エンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "ml-engineer-future"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-future.png"
 related: ["ml-engineer-career-guide", "ml-engineer-from-scratch", "ml-engineer-salary-1000", "product-manager-future", "product-designer-future"]
 ---
@@ -26,6 +27,11 @@ related: ["ml-engineer-career-guide", "ml-engineer-from-scratch", "ml-engineer-s
 この分化が意味するのは、「機械学習ができる」という一点での差別化が難しくなりつつある、ということだ。AutoMLツールやHugging Faceのような事前学習済みモデルの整備により、基礎的なモデル構築作業のハードルが下がった。その結果、需要の中心は「モデルを作る」から「モデルを価値に変える」側にシフトしている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-future">無料で相談する</a>
+</aside>
 
 ## 職種の構造：機械学習エンジニアが担う業務の全体像
 
@@ -94,6 +100,11 @@ LLMを中心としたプロダクト開発に携わり、RAG設計・評価フ�
 どちらを選ぶにしても、重要なのは「モデルを作った」という事実ではなく、「どのようなビジネス課題を、どのような設計判断で解決したか」を語れるようにすることだ。技術の中身そのものよりも、判断の質と思考プロセスが採用担当者・面接官に伝わるかどうかが、転職成否を左右しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI時代に市場価値を維持するための条件
 

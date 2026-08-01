@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["SCM・調達コンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "scm-consultant-salary"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-salary.png"
 related: ["scm-consultant-salary-600", "scm-consultant-salary-1000", "scm-consultant-company-size", "cto-vpoe-salary", "big4-consultant-salary"]
 ---
@@ -36,6 +37,11 @@ SCM・調達コンサルタントとは、製造業・流通業・小売業な�
 上位ファームのマネージャー層やプロジェクトリードの経験が豊富な人材は、30代後半から40代にかけて1,500万円を超えるレンジに到達しやすい傾向がある。一方、事業会社のインハウス機能や中堅ファームでは、同等の経験年数でも水準が2〜3割程度低い場合もある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収を規定する3つの構造的要因
 
@@ -90,6 +96,11 @@ SCM・調達領域の代表的な資格として、CPSM（Certified Professional
 コンサルタントの年収は、同一ファーム内での昇給よりも転職時の交渉で大きく上振れするケースが多い。特に30代前半でのシニアコンサルタントからマネージャーへのポジション交渉は、オファー額の分岐点となりやすい。市場価値を定期的に確認し、自分の報酬が市場水準と乖離していないかを把握しておくことは有効な習慣といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

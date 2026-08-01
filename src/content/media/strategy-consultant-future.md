@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["戦略コンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-future"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-future.png"
 related: ["strategy-consultant-in-30s", "strategy-consultant-how-to-use-agent", "strategy-consultant-salary-600", "partner-sales-future", "recruiter-future"]
 ---
@@ -24,6 +25,11 @@ related: ["strategy-consultant-in-30s", "strategy-consultant-how-to-use-agent", 
 つまり、戦略コンサルタントの需要が消えるというシナリオよりも、「担う仕事の質と内訳が変化する」というシナリオのほうが実態に近い。この変化を正確に把握することが、将来性を考えるうえでの出発点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-future">無料で相談する</a>
+</aside>
 
 ## AI・テクノロジーが変える仕事の構造
 
@@ -105,6 +111,11 @@ AIを「脅威」として捉えるか「インフラ」として使いこなす
 この型において重要なのは、「AIツール活用の熟練度」という強みが既にある点を正しく評価したうえで、それだけでは補えない「対話・説得・関係構築」の能力をどのフィールドで鍛えるかという観点から選択することである。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

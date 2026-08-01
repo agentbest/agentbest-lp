@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["PMO", "未経験転職"]
 pubDate: 2026-07-04
 slug: "pmo-from-scratch"
+hub: "pmo"
 image: "/images/media/pmo-from-scratch.png"
 related: ["pmo-salary", "pmo-company-size", "pmo-interview", "bizdev-from-scratch", "partner-sales-from-scratch"]
 ---
@@ -28,6 +29,11 @@ PMOは「プロジェクト管理を支援・統括する機能」を指すが�
 未経験者が最初に入れるのは、原則としてサポート型のポジションである。ただし「サポート型だから誰でも採用される」わけではなく、基礎的なビジネス処理能力と、プロジェクト管理の概念への理解が選考基準に含まれる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 未経験転職が可能なケースと難しいケース
 
@@ -103,6 +109,11 @@ SaaS企業やSIerのPMOポジションでは、システム開発のフロー（
 **結果のパターン**：このような背景を持つ候補者は、SaaSまたはITコンサル系のPMOポジションへの転職実績が出やすい傾向にある。初年度の年収は前職比で横ばいから微減になるケースが多いが、2〜3年後にはPM・コンサルタントへのキャリアパスが開けやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

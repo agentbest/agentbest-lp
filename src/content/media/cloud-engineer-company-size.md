@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["クラウドエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-company-size"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-company-size.png"
 related: ["cloud-engineer-english", "cloud-engineer-from-scratch", "cloud-engineer-in-30s", "digital-marketer-company-size", "qa-engineer-company-size"]
 ---
@@ -22,6 +23,11 @@ related: ["cloud-engineer-english", "cloud-engineer-from-scratch", "cloud-engine
 この特性が、大手とスタートアップの選択において重要な前提になります。技術の広がりを求めるか、深みを求めるか、あるいは組織的なキャリアラダーを求めるか——その方向性次第で、どちらの環境が自分に合うかは大きく変わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 大手企業とスタートアップの比較：構造的な違い
 
@@ -101,6 +107,11 @@ AWS環境でのインフラ構築・運用経験が一定程度あり、次の�
 転職を検討する際には、「今の選択肢」だけでなく「その経験が将来どの出口に続くか」を意識することが、長期的なキャリア設計における合理的な視点といえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

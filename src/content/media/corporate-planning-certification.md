@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["経営企画", "資格"]
 pubDate: 2026-07-04
 slug: "corporate-planning-certification"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-certification.png"
 related: ["corporate-planning-market-trend", "corporate-planning-how-to-use-agent", "corporate-planning-skills", "saas-sales-certification", "bizdev-certification"]
 ---
@@ -24,6 +25,11 @@ related: ["corporate-planning-market-trend", "corporate-planning-how-to-use-agen
 二つ目は、**転職・昇格における「足切り回避」の側面**です。実務経験が浅い候補者や、異職種からの転向者にとって、資格は経験の不足を補完する材料として活用されることがあります。
 
 逆にいえば、豊富な実務経験と具体的な成果を持つ人材にとっては、資格の有無が選考結果に与える影響は相対的に小さくなります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格：実務との接点が高いもの
 
@@ -97,6 +103,11 @@ DX推進や新規事業開発を担う経営企画組織では、IT・データ�
 コンサルティングファーム出身のCさん（33歳）は、事業会社の経営企画への転職を希望していた。保有資格はなかったが、戦略立案・PMO・M&A支援の豊富なプロジェクト実績があり、複数の内定を獲得した。
 
 この例は、実務経験と具体的な成果が十分であれば、資格の不在は選考上のハードルにならないことを示しています。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

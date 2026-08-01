@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["ERPコンサルタント", "年収1000万"]
 pubDate: 2026-07-05
 slug: "erp-consultant-salary-1000"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-salary-1000.png"
 related: ["erp-consultant-interview", "erp-consultant-work-style", "erp-consultant-future", "strategy-consultant-salary-1000", "sap-consultant-salary-1000"]
 ---
@@ -35,6 +36,11 @@ ERPコンサルタントとして年収1,000万円に到達することは、決
 この表からわかるように、1,000万円という水準は「ミドル〜シニア層において現実的に射程に入る」水準といえる。ただし、同じ経験年数でも所属組織と担当ロールによって200〜400万円程度の差が生じやすい点が、この職種の特徴でもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアパターン
 
@@ -98,6 +104,11 @@ ERP導入プロジェクトは規模が大きくなるほど、純粋な機能�
 在籍組織の評価制度や昇給構造によっては、成果と報酬が連動しにくい場合がある。外部市場における自分の価値と、現在の処遇のギャップを把握しないまま在籍し続けることで、到達時期が大きく遅れるケースがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

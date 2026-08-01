@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["法務", "市場動向"]
 pubDate: 2026-07-04
 slug: "legal-market-trend"
+hub: "legal"
 image: "/images/media/legal-market-trend.png"
 related: ["legal-in-30s", "legal-company-size", "legal-motivation", "marketing-manager-market-trend", "frontend-engineer-market-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["legal-in-30s", "legal-company-size", "legal-motivation", "marketing-m
 第三に、**デジタル取引・データ規制への対応需要**である。個人情報保護法の改正・AI関連規制の動向・越境データ移転規制など、デジタル領域固有の法的課題に対応できる人材はマーケット全体で不足しており、採用条件が優位に働きやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-market-trend">無料で相談する</a>
+</aside>
 
 ## 採用ニーズの質的変化
 
@@ -88,6 +94,11 @@ AI契約審査ツールやクラウド型法務管理システムの普及によ
 大企業での年数よりも「どの法的課題を、どの立場で主導したか」が評価軸になりやすい。データ・プライバシー関連の実務経験は現在の市場において希少性が高く、スタートアップへの転籍において差別化要素として機能しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

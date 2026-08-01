@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["インフラエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "infra-engineer-interview"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-interview.png"
 related: ["infra-engineer-salary-1000", "infra-engineer-company-size", "infra-engineer-how-to-use-agent", "it-architect-interview", "mlops-engineer-interview"]
 ---
@@ -22,6 +23,11 @@ related: ["infra-engineer-salary-1000", "infra-engineer-company-size", "infra-en
 3. **組織適合性の確認**：チームでの役割、コミュニケーション傾向、変化への対応姿勢
 
 面接官が最も重視するのは、「2」の思考プロセスである。インフラ領域は技術の変化が速く、特定ツールの経験よりも「問題をどう定義し、どう解決するか」というアプローチが汎用性をもつからだ。この構造を前提に、準備の優先順位を組み立てると効率が上がりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## 経験年数・ポジション別の質問傾向
 
@@ -89,6 +95,11 @@ related: ["infra-engineer-salary-1000", "infra-engineer-company-size", "infra-en
 - IaCやCI/CDのカバレッジ率と今後の展望
 
 企業研究の深さと、入社後に具体的に貢献・改善したいという姿勢が伝わる逆質問は、面接官の評価に好影響を与えやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

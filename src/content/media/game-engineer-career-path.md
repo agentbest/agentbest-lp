@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["ゲームエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "game-engineer-career-path"
+hub: "game-engineer"
 image: "/images/media/game-engineer-career-path.png"
 related: ["game-engineer-failure", "game-engineer-from-scratch", "game-engineer-interview", "security-engineer-career-path", "ma-advisor-career-path"]
 ---
@@ -33,6 +34,11 @@ related: ["game-engineer-failure", "game-engineer-from-scratch", "game-engineer-
 
 **テクニカルアーティスト（TA）**
 アートとエンジニアリングの橋渡しを担う。厳密にはエンジニア職ではないが、シェーダー実装やパイプライン構築を担うTAはエンジニアリングの知識が必須であり、キャリアの移行先として選択されることがある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## 20代での成長曲線と30代の分岐点
 
@@ -93,6 +99,11 @@ related: ["game-engineer-failure", "game-engineer-from-scratch", "game-engineer-
 ### マネジメントへの移行における「技術から離れる怖さ」
 
 テックリードやマネージャーへの移行を検討する際、「技術的な現場から離れることへの不安」を表明するエンジニアは少なくない。ただし、実態としては「技術を捨てる」のではなく「技術を組織の意思決定に活かす役割にシフトする」という認識が実情に近い。優れたエンジニアリングマネージャーは、採用・評価・アーキテクチャ選定において依然として深い技術的判断を求められる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

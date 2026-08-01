@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["デジタルマーケター", "志望動機"]
 pubDate: 2026-07-04
 slug: "digital-marketer-motivation"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-motivation.png"
 related: ["digital-marketer-work-style", "digital-marketer-career-guide", "digital-marketer-market-trend", "big4-consultant-motivation", "product-designer-motivation"]
 ---
@@ -32,6 +33,11 @@ related: ["digital-marketer-work-style", "digital-marketer-career-guide", "digit
 評価される志望動機は、「なぜこの職種か」「なぜこの会社か」「自分の何が活きるか」の三層構造が論理的に接続されています。この構造を意識して書くだけで、通過率は変わりやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 志望動機の三層構造とその設計方法
 
@@ -125,6 +131,11 @@ related: ["digital-marketer-work-style", "digital-marketer-career-guide", "digit
 「現職の環境に限界を感じた」「上司との関係に問題があった」という背景は転職理由としてありえますが、志望動機の中で現職・前職を否定する文脈にすると、採用担当者から「入社後も同様に職場への不満を持ちやすい人物」と映るリスクがあります。「〜に挑戦したい」という前向きの軸に変換して書くと整理しやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

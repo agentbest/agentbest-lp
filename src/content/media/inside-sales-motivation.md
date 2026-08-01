@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["インサイドセールス", "志望動機"]
 pubDate: 2026-07-03
 slug: "inside-sales-motivation"
+hub: "inside-sales"
 image: "/images/media/inside-sales-motivation.png"
 related: ["inside-sales-salary-1000", "inside-sales-failure", "inside-sales-certification", "cto-vpoe-motivation", "mobile-engineer-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["inside-sales-salary-1000", "inside-sales-failure", "inside-sales-cert
 フィールドセールスやカスタマーサクセスとの連携が前提となる職種であるため、「個人プレーの営業」ではなく「プロセスを分業して最適化する営業組織」の一員であることを理解しているかどうかが、書類から伝わるかどうかで評価が分かれます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の3つの構成要素
 
@@ -102,6 +108,11 @@ related: ["inside-sales-salary-1000", "inside-sales-failure", "inside-sales-cert
 | 「これまでの経験を活かしたい」（説明なし） | 抽象度が高く、どの経験のどの部分がどう活きるかが不明確 | 経験→スキルの抽出→業務との接続という3ステップで言語化する |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

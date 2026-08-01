@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["PMOコンサルタント", "面接対策"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-interview"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-interview.png"
 related: ["pmo-consultant-resume", "pmo-consultant-career-path", "pmo-consultant-market-trend", "strategy-consultant-interview", "backend-engineer-interview"]
 ---
@@ -28,6 +29,11 @@ PMOコンサルタントは、特定プロジェクトの実務推進者では�
 これら3軸を念頭に置いたうえで、回答を準備するのが効率的なアプローチといえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -118,6 +124,11 @@ PMOコンサルタントの候補者は経験年数や担当規模で評価基�
 この構成のポイントは、「課題の本質を上位に定義し直している」点にある。PMOコンサルタントの付加価値は、与えられた問題をそのまま解くのではなく、問題の構造を整理し直すところにある。それが面接の回答に反映されていると、評価者の印象が変わりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

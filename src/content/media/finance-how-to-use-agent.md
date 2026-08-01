@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["財務・経理", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "finance-how-to-use-agent"
+hub: "finance"
 image: "/images/media/finance-how-to-use-agent.png"
 related: ["finance-company-size", "finance-in-30s", "finance-failure", "tech-lead-how-to-use-agent", "pmo-consultant-how-to-use-agent"]
 ---
@@ -36,6 +37,11 @@ related: ["finance-company-size", "finance-in-30s", "finance-failure", "tech-lea
 財務・経理ポジションの採用では、企業側が候補者のバックグラウンドについて詳細な情報を求めることがある。直接応募では候補者が自己PRで伝えるしかないが、エージェント経由ではエージェントが候補者のプロファイルを補足説明する機会が生じやすい。これにより、書類審査の通過率が高まる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェント活用がもたらす具体的な効果
 
@@ -90,6 +96,11 @@ related: ["finance-company-size", "finance-in-30s", "finance-failure", "tech-lea
 このケースが示すのは、エージェントの本質的な価値が「求人を紹介すること」にあるのではなく、「候補者の経験を市場の基準に照らして再定義すること」にある、という点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

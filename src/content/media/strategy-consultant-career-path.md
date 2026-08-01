@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["戦略コンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-career-path"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-career-path.png"
 related: ["strategy-consultant-certification", "strategy-consultant-future", "strategy-consultant-how-to-use-agent", "network-engineer-career-path", "hrbp-career-path"]
 ---
@@ -34,6 +35,11 @@ related: ["strategy-consultant-certification", "strategy-consultant-future", "st
 Up-or-Outの文化を持つファームでは、各ステージでの昇進可否が数年単位で問われる。特にマネージャーからプリンシパルへの移行は、「デリバリー人材」から「ビジネス開発人材」への質的な転換を意味するため、ここで方向性を再考するコンサルタントが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## 30代で迎える主要な分岐点
 
@@ -98,6 +104,11 @@ Up-or-Outの文化を持つファームでは、各ステージでの昇進可�
 事業会社への移行では、コンサル時代と比較して固定給が下がるケースも珍しくない。一方で、長期在籍による賞与・福利厚生・株式報酬の積み上がりを考慮すると、中長期では逆転するケースも見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

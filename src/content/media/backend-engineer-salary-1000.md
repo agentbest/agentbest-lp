@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["バックエンドエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "backend-engineer-salary-1000"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-salary-1000.png"
 related: ["backend-engineer-how-to-use-agent", "backend-engineer-resume", "backend-engineer-certification", "security-consultant-salary-1000", "solution-architect-salary-1000"]
 ---
@@ -28,6 +29,11 @@ related: ["backend-engineer-how-to-use-agent", "backend-engineer-resume", "backe
 | 役職問わず | スペシャリスト（インフラ寄り・DB） | 外資系・メガベンチャー | 1,000〜1,500万円以上も |
 
 この表から読み取れる重要な示唆は、「年数の積み上げだけでは1,000万円に届きにくい」という構造です。在籍企業の種類と役割の変化が、年収水準に大きく影響します。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの三要素
 
@@ -90,6 +96,11 @@ related: ["backend-engineer-how-to-use-agent", "backend-engineer-resume", "backe
 **成果の言語化が弱い**：技術的な貢献を「何を、なぜ、どう解決したか」という形で説明できないと、転職市場での評価が実力に追いつきません。実装ログ・設計ドキュメント・障害対応の振り返りを日常的に文書化しておくことが、後の転職活動における実質的な資産になります。
 
 **給与交渉のタイミングと方法が不適切**：昇給の申し出を「感情・年数・他社オファーの提示のみ」で行うケースは、成果が伴っていても効果が出にくい傾向があります。事前に実績を定量化し、市場水準の根拠と組み合わせて提示する方が、組織的な承認を得やすくなります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

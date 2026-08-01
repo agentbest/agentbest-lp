@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["人事・組織コンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "hr-consultant-future"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-future.png"
 related: ["hr-consultant-market-trend", "hr-consultant-company-size", "hr-consultant-certification", "ma-advisor-future", "bizdev-future"]
 ---
@@ -32,6 +33,11 @@ related: ["hr-consultant-market-trend", "hr-consultant-company-size", "hr-consul
 重要なのは、「代替されるのは職種ではなく、特定の業務タスク」という視点である。人事・組織コンサルティングの中でも、過去データの集計・比較分析・標準的なサーベイ設計などは、AIツールの活用で大幅に効率化される。これはコンサルタントの職を奪うというよりも、より高付加価値な業務に集中できる構造を生み出す、と捉える方が現状の実態に近い。
 
 ただし、テクノロジーに習熟しないまま旧来型の作業時間ベースのコンサルティングを続けるスタイルは、費用対効果の点で競争力を失いやすい。AIを活用した高速な仮説検証と、そのアウトプットを経営文脈に落とし込む判断力の組み合わせが、今後の標準的な能力要件になる可能性が高い。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-future">無料で相談する</a>
+</aside>
 
 ## キャリアステージ別の市場価値と報酬レンジ
 
@@ -83,6 +89,11 @@ HRテクノロジーの進展により、タレントマネジメントシステ
 **取った行動：** PMIに特化した案件に自発的に手を挙げ、関連する財務・法務の基礎知識を自習。M&Aアドバイザリーの担当者と協働する機会を増やし、クロスファンクショナルな視点を習得した。2〜3年かけてPMI人事のスペシャリストとして社内外で認知され、提案時に名指しで指名を受ける状態を作ることができた。
 
 **示唆：** ゼネラリストとして幅を持ちながらも、経営課題の特定の文脈（この場合はM&A後の組織変革）に深く関与する経験を重ねることで、市場での認知とポジションが確立されやすくなる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

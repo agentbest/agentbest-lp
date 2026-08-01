@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["マーケティングマネージャー", "志望動機"]
 pubDate: 2026-07-04
 slug: "marketing-manager-motivation"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-motivation.png"
 related: ["marketing-manager-interview", "marketing-manager-resume", "marketing-manager-work-style", "customer-success-motivation", "backend-engineer-motivation"]
 ---
@@ -26,6 +27,11 @@ related: ["marketing-manager-interview", "marketing-manager-resume", "marketing-
 逆に言えば、この3点が欠如した志望動機は、どれだけ流麗な文章であっても「型だけ整っている」と判断されやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -106,6 +112,11 @@ related: ["marketing-manager-interview", "marketing-manager-resume", "marketing-
 この事例が示すように、「ポジションへの意欲」よりも「課題解決のための役割としてのマネージャー」という文脈に変換することで、志望動機の質が大きく変わる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

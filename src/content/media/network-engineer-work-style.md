@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["ネットワークエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "network-engineer-work-style"
+hub: "network-engineer"
 image: "/images/media/network-engineer-work-style.png"
 related: ["network-engineer-salary-600", "network-engineer-career-guide", "network-engineer-from-scratch", "corporate-it-work-style", "cloud-engineer-work-style"]
 ---
@@ -34,6 +35,11 @@ related: ["network-engineer-salary-600", "network-engineer-career-guide", "netwo
 ただし、監視ツールやアラート体制が整備された組織では、いわゆる「呼び出し文化」は以前よりも緩和されている傾向にある。オンコール体制をローテーションで回す企業が増えており、一人当たりの物理的な拘束時間は以前より下がりつつある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## 残業時間の目安と業種・雇用形態による差
 
@@ -99,6 +105,11 @@ SIerに新卒入社し、最初の4年間は主にオンプレミスネットワ
 **8年目以降のシニア・スペシャリスト層**は、働き方の幅が最も広い。コンサルタント職・プリセールス・アーキテクトといった上流ポジションへの移行が選択肢に入り、現場の物理作業からは距離を置ける。ただしこのステージで高い市場価値を保つには、クラウド・セキュリティ・ネットワーク自動化といった領域での継続的なスキルアップデートが求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

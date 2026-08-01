@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["IoT・ハードウェアテック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "iot-industry-company"
+hub: "iot-industry"
 image: "/images/media/iot-industry-company.png"
 related: ["iot-industry-guide", "iot-industry-salary", "iot-industry-career", "govtech-industry-company", "fintech-industry-company"]
 ---
@@ -30,6 +31,11 @@ IoT・ハードウェアテック業界への転職を検討する際、多く�
 **第三に、ハードウェアとソフトウェアの収益モデルが混在する。** 昨今のIoT企業はデバイスを販売した後にクラウドサービスや保守契約で継続的な収益を得る「ハードウェア＋SaaS」型のビジネスモデルを採用するケースが増えている。この構造が成熟しているほど、財務的な安定性は高まる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-company">無料で相談する</a>
+</aside>
 
 ## 企業を評価する際に見るべき指標
 
@@ -104,6 +110,11 @@ IoT・ハードウェアテック企業における報酬は、事業フェー�
 スタートアップはストックオプションの割合が大きく、ミドル〜後期のフェーズで入社するほど流動性は高まる傾向がある。一方、大手企業のIoT事業部門はキャッシュ報酬の安定性があるが、意思決定のスピードや事業裁量は限られる場合がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

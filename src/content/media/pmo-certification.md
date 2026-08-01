@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["PMO", "資格"]
 pubDate: 2026-07-04
 slug: "pmo-certification"
+hub: "pmo"
 image: "/images/media/pmo-certification.png"
 related: ["pmo-interview", "pmo-salary-1000", "pmo-career-guide", "data-engineer-certification", "fas-consultant-certification"]
 ---
@@ -26,6 +27,11 @@ PMOは「プロジェクト・マネジメント・オフィス」の略称で�
 逆に言えば、資格そのものが年収を押し上げる直接的な要因になるとは限らない。実務経験・問題解決能力・組織での影響力が評価の中心であり、資格はそれを補完するエビデンスとして機能する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格
 
@@ -105,6 +111,11 @@ PMOの採用・評価において、資格以上にウェイトが置かれや�
 | グローバル案件・外資系志向 | PMP（必須に近い） | 英語での業務経験と並行して取得を検討 |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

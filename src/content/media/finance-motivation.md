@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["財務・経理", "志望動機"]
 pubDate: 2026-07-04
 slug: "finance-motivation"
+hub: "finance"
 image: "/images/media/finance-motivation.png"
 related: ["finance-future", "finance-skills", "finance-interview", "pr-motivation", "ma-advisor-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["finance-future", "finance-skills", "finance-interview", "pr-motivatio
 財務・経理は社内のすべての事業数値が集約される部門です。採用側は、数字を扱う技術的スキルだけでなく、「なぜ管理部門から事業を支えることを選ぶのか」という職種選択の必然性を候補者に求めます。ここを曖昧にしたまま書いた志望動機は、どれだけ誠実な内容であっても「誰でも書ける文章」に見えてしまいます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の3要素
 
@@ -98,6 +104,11 @@ related: ["finance-future", "finance-skills", "finance-interview", "pr-motivatio
 財務と経理の業務の違い（記録・報告から計画・調達・運用へ）を正確に理解していることを示すことが重要です。「経理で積んだ決算業務の経験を、財務計画や資金管理の文脈で活かす」という橋渡しの論理が効果的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

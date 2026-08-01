@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["事業企画", "年収1000万"]
 pubDate: 2026-07-04
 slug: "business-planning-salary-1000"
+hub: "business-planning"
 image: "/images/media/business-planning-salary-1000.png"
 related: ["business-planning-resume", "business-planning-salary-600", "business-planning-interview", "risk-consultant-salary-1000", "it-architect-salary-1000"]
 ---
@@ -31,6 +32,11 @@ related: ["business-planning-resume", "business-planning-salary-600", "business-
 この表から読み取れる構造的な事実が二つある。一つは、年収1,000万円は「マネージャー職への昇進」または「外資・メガベンチャーへの転職」という二軸の交点に位置するということ。もう一つは、大手事業会社であっても部長相当に到達すれば、業種を問わず年収1,000万円圏内に入る可能性があるということだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通する三つの特徴
 
@@ -90,6 +96,11 @@ related: ["business-planning-resume", "business-planning-salary-600", "business-
 **業界・企業規模の天井に先に当たっている場合：** 中堅事業会社で部長職に就いても、ベースとなるグレードの上限が700〜800万円に設定されている企業は少なくない。この場合、転職による環境の変更が年収を上げる唯一の実質的な手段となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["エンジニアリングマネージャー", "働き方"]
 pubDate: 2026-07-04
 slug: "engineering-manager-work-style"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-work-style.png"
 related: ["engineering-manager-career-guide", "engineering-manager-salary-1000", "engineering-manager-career-path", "infra-engineer-work-style", "business-consultant-work-style"]
 ---
@@ -26,6 +27,11 @@ EMの負荷を正確に把握するには、まず業務の構造を整理する
 個人貢献者（IC）としてのエンジニアと根本的に異なるのは、「自分が手を動かす時間」よりも「他者の生産性を高める時間」に価値の重心が置かれる点です。この転換に対応できるかどうかが、EMの働き方の充実度に直結します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度・残業の実態
 
@@ -103,6 +109,11 @@ EMはメンバーやステークホルダーとのカレンダー調整が必要
 転職先を検討する際に「EMにどこまでの技術的関与を期待するか」を具体的に確認することは、入社後のギャップを防ぐ上で重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

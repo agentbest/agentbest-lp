@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["採用担当", "資格"]
 pubDate: 2026-07-04
 slug: "recruiter-certification"
+hub: "recruiter"
 image: "/images/media/recruiter-certification.png"
 related: ["recruiter-english", "recruiter-salary-600", "recruiter-work-style", "platform-engineer-certification", "it-architect-certification"]
 ---
@@ -30,6 +31,11 @@ related: ["recruiter-english", "recruiter-salary-600", "recruiter-work-style", "
 一方、資格の効果が限定的になりやすい場面もあります。採用実績が豊富な候補者に対して、資格の有無が評価のポイントになることはほぼありません。「母集団形成の設計をどう変えたか」「内定承諾率をどう改善したか」といった定量的な実績が評価の中心となるため、資格はあくまで補足情報として機能します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格・学習実績の一覧
 
@@ -95,6 +101,11 @@ IT系スタートアップの採用担当Aさん（業務歴3年）が、キャ�
 | 組織拡大フェーズでの採用 | スタートアップでの年間採用数・組織規模の変化 | 採用負荷の高い環境での遂行力 |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

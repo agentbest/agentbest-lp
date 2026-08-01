@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["物流テック", "業界年収"]
 pubDate: 2026-07-05
 slug: "logitech-industry-salary"
+hub: "logitech-industry"
 image: "/images/media/logitech-industry-salary.png"
 related: ["logitech-industry-trend", "logitech-industry-guide", "logitech-industry-company", "hrtech-industry-salary", "cloud-industry-salary"]
 ---
@@ -34,6 +35,11 @@ related: ["logitech-industry-trend", "logitech-industry-guide", "logitech-indust
 エンジニア職については、同規模のSaaS企業と比較しても遜色ない水準で採用している企業が増えている。一方でカスタマーサクセス職は、物流特有の業務複雑性（3PL・荷主・配送委託先が絡む多層構造）への対応力が求められるにも関わらず、SaaS全般と比べた年収格差が生じやすい傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-salary">無料で相談する</a>
+</aside>
 
 ## 年収が高い企業の構造的特徴
 
@@ -80,6 +86,11 @@ related: ["logitech-industry-trend", "logitech-industry-guide", "logitech-indust
 - **リモート・勤務地条件と報酬テーブルの関係**：グローバル企業では勤務地別の報酬テーブルを適用するケースがあり、東京本社・地方勤務で水準が異なることがある
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

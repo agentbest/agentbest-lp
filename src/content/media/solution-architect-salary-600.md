@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["ソリューションアーキテクト", "年収600万"]
 pubDate: 2026-07-04
 slug: "solution-architect-salary-600"
+hub: "solution-architect"
 image: "/images/media/solution-architect-salary-600.png"
 related: ["solution-architect-skills", "solution-architect-in-30s", "solution-architect-market-trend", "uiux-designer-salary-600", "it-architect-salary-600"]
 ---
@@ -38,6 +39,11 @@ SAは、顧客の経営・業務課題を技術的な解決策に落とし込む
 この表から読み取れるのは、**600万円超は「経験年数だけでは到達しない」**という構造的な事実である。特に大手SIerにおいては、管理職への昇格や特定の職位への異動がなければ、技術職のまま600万円を超えることが難しいケースも少なくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい三つの要素
 
@@ -100,6 +106,11 @@ ITコンサルティングでは、技術知識に加えて業務プロセス改
 **結果の傾向**：このような転職パターンでは、年収650〜720万円のレンジでオファーを受けるケースが報告されることがある。ただし、企業の採用状況・個人の経験によって大きく変わるため、あくまで一つの参考として見てほしい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

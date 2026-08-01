@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["ネットワークエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "network-engineer-future"
+hub: "network-engineer"
 image: "/images/media/network-engineer-future.png"
 related: ["network-engineer-motivation", "network-engineer-resume", "network-engineer-in-20s", "mobile-engineer-future", "hrbp-future"]
 ---
@@ -18,6 +19,11 @@ related: ["network-engineer-motivation", "network-engineer-resume", "network-eng
 この記事では、市場が何を求めているのかという構造的な変化を整理した上で、どのようなスキルを持つネットワークエンジニアが中長期的なキャリアを構築しやすいのかを具体的に説明します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場が縮小しやすい領域と拡大しやすい領域
 
@@ -96,6 +102,11 @@ Pythonの基礎を習得し、既存業務の一部（設定のバックアッ�
 資格単体の取得よりも、「資格が示す知識を実務にどう適用したか」を語れる状態にしておくことが、転職・昇給交渉の場では重要になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

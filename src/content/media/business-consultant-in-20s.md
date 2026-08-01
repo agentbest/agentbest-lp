@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["業務コンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "business-consultant-in-20s"
+hub: "business-consultant"
 image: "/images/media/business-consultant-in-20s.png"
 related: ["business-consultant-motivation", "business-consultant-how-to-use-agent", "business-consultant-resume", "big4-consultant-in-20s", "dev-director-in-20s"]
 ---
@@ -26,6 +27,11 @@ related: ["business-consultant-motivation", "business-consultant-how-to-use-agen
 近年はDX推進の文脈と重なりやすく、ITシステムの導入支援と業務改革を一体で行うプロジェクトが増加している。そのため、「業務コンサルタント」の肩書きで求人を出していても、実態はシステム寄りのPMO支援や要件定義支援である場合も多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代のポテンシャル採用が成立する構造的な理由
 
@@ -115,6 +121,11 @@ IT系メーカーや商社の社内SEとして、基幹システムの更改プ�
 大手総合系ファームではグレード制が厳格で、入社時のポジション評価が初年度年収に直接影響する。一方、独立系中堅ファームでは成果主義の色が強く、入社後の昇格スピードに個人差が生まれやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

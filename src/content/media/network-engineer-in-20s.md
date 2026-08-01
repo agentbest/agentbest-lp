@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["ネットワークエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "network-engineer-in-20s"
+hub: "network-engineer"
 image: "/images/media/network-engineer-in-20s.png"
 related: ["network-engineer-company-size", "network-engineer-motivation", "network-engineer-skills", "backend-engineer-in-20s", "cto-vpoe-in-20s"]
 ---
@@ -20,6 +21,11 @@ related: ["network-engineer-company-size", "network-engineer-motivation", "netwo
 本記事では、ポテンシャル採用の実態・企業タイプ別の特徴・準備の優先順位を具体的に整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用の実態：企業が何を見ているか
 
@@ -103,6 +109,11 @@ CCNAはネットワークエンジニア採用市場において、ポテンシ�
 この型において重要なのは、資格の有無よりも「検証から学んだ具体的な問い」を言語化できているかである。採用担当が面接で確かめたいのは、資格取得の事実ではなく、「この人は現場でどのように問題に向き合うか」という思考の質であることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

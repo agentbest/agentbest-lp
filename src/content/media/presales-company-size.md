@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["セールスエンジニア／プリセールス", "大手vsスタートアップ"]
 pubDate: 2026-07-03
 slug: "presales-company-size"
+hub: "presales"
 image: "/images/media/presales-company-size.png"
 related: ["presales-english", "presales-career-path", "presales-failure", "scm-consultant-company-size", "corporate-planning-company-size"]
 ---
@@ -27,6 +28,11 @@ related: ["presales-english", "presales-career-path", "presales-failure", "scm-c
 セールスエンジニアの役割自体は共通しており、「技術的な観点から商談を支援し、顧客の課題解決に技術力で貢献する」という本質は変わらない。ただし、その仕事の密度・自由度・期待値は環境によって大きく異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-company-size">無料で相談する</a>
+</aside>
 
 ## 四つの観点からの比較
 
@@ -90,6 +96,11 @@ related: ["presales-english", "presales-career-path", "presales-failure", "scm-c
 スタートアップで早期にチームを持つ経験を積むか、大手でしっかりした組織管理の基礎を学ぶか。いずれも一長一短だが、「事業全体を動かす経験」を得たいなら、スタートアップで事業フェーズの変化に巻き込まれる形で学ぶ方が実践的なことが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

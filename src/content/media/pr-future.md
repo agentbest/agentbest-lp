@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["広報／PR", "将来性"]
 pubDate: 2026-07-04
 slug: "pr-future"
+hub: "pr"
 image: "/images/media/pr-future.png"
 related: ["pr-motivation", "pr-how-to-use-agent", "pr-skills", "game-engineer-future", "it-architect-future"]
 ---
@@ -20,6 +21,11 @@ related: ["pr-motivation", "pr-how-to-use-agent", "pr-skills", "game-engineer-fu
 本稿では、広報・PR職のキャリアを考えるうえで必要な構造認識——業務の変容、市場価値の所在、そして今後のキャリア設計の方向性——を整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-future">無料で相談する</a>
+</aside>
 
 ## 広報・PR業務の二層構造と、AIによる影響の非対称性
 
@@ -100,6 +106,11 @@ IT・SaaS・コンサル領域では、ARR成長率や受注単価との関係�
 特にIT・SaaS・コンサル領域のスタートアップ〜メガベンチャーにおいては、経営に近い広報責任者ポジションの採用需要が高く、戦略的な思考と実行経験の両方を持つ候補者への待遇は上振れやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["データベースエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "db-engineer-career-path"
+hub: "db-engineer"
 image: "/images/media/db-engineer-career-path.png"
 related: ["db-engineer-company-size", "db-engineer-resume", "db-engineer-motivation", "solution-architect-career-path", "platform-engineer-career-path"]
 ---
@@ -32,6 +33,11 @@ related: ["db-engineer-company-size", "db-engineer-resume", "db-engineer-motivat
 現在の業務が上表のどこに該当するかを把握することが、キャリア設計の出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代のキャリアパス三分岐
 
@@ -93,6 +99,11 @@ SaaS企業・メガベンチャー・コンサルティングファームのデ�
 上記はあくまで傾向の整理であり、どの方向が「正解」かは個人の強みと志向、および在籍企業の環境に依存する。30代前半であれば複数の方向性に跨る経験を積む余地があるが、35歳を過ぎると市場の求人像が「即戦力性」を強く求める傾向になるため、方向性の絞り込みを意識する時期に差し掛かるといえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

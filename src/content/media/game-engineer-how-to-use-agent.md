@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["ゲームエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "game-engineer-how-to-use-agent"
+hub: "game-engineer"
 image: "/images/media/game-engineer-how-to-use-agent.png"
 related: ["game-engineer-work-style", "game-engineer-in-20s", "game-engineer-career-path", "partner-sales-how-to-use-agent", "platform-engineer-how-to-use-agent"]
 ---
@@ -34,6 +35,11 @@ related: ["game-engineer-work-style", "game-engineer-in-20s", "game-engineer-car
 大手ゲーム会社、外資系パブリッシャー、国内スタートアップ、IP保有のインディーズなど、企業の性格は多様だ。残業の実態、開発手法（アジャイルかウォーターフォールか）、エンジニアの裁量範囲、年収レンジのすべてが企業ごとに大きく異なる。表面的なスペックだけでは判断しにくく、内情を知るエージェントの情報が意思決定の質を高めることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを使うべき具体的な理由
 
@@ -100,6 +106,11 @@ related: ["game-engineer-work-style", "game-engineer-in-20s", "game-engineer-car
 この型は、特定の業界や技術領域への移行を目指す際に、エージェントが「経験の翻訳者」として機能するというゲームエンジニア転職の本質的な価値を示している。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["モビリティ・自動運転", "業界研究"]
 pubDate: 2026-07-05
 slug: "mobility-industry-guide"
+hub: "mobility-industry"
 image: "/images/media/mobility-industry-guide.png"
 related: ["mobility-industry-career", "mobility-industry-salary", "mobility-industry-company", "hrtech-industry-guide", "saas-industry-guide"]
 ---
@@ -32,6 +33,11 @@ related: ["mobility-industry-career", "mobility-industry-salary", "mobility-indu
 自動運転市場については、複数の調査機関が2030年代にかけての急拡大を予測しており、完全自動運転（SAEレベル4〜5）の商用化に向けた投資は世界規模で継続している。国内でも2023年以降、道路交通法改正によりレベル4自動運転が解禁され、限定地域でのサービス実証が進んでいる。この制度変化が転職市場においても採用ニーズを後押ししている。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職市場における需給の現状
 
@@ -118,6 +124,11 @@ related: ["mobility-industry-career", "mobility-industry-salary", "mobility-indu
 車両ダイナミクス、機能安全規格（ISO 26262）、地図・HDマップの仕組みなど、自動運転固有の知識体系は広範である。入社後のキャッチアップコストを正確に見積もったうえで、企業のオンボーディング体制やチーム構成（社内に学べる環境があるか）を選考段階で確認しておくことが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

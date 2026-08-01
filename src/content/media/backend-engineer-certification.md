@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["バックエンドエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "backend-engineer-certification"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-certification.png"
 related: ["backend-engineer-work-style", "backend-engineer-from-scratch", "backend-engineer-skills", "post-consultant-certification", "data-scientist-certification"]
 ---
@@ -22,6 +23,11 @@ related: ["backend-engineer-work-style", "backend-engineer-from-scratch", "backe
 加えて、バックエンド開発に関連する国内の認定資格の多くは、実際の開発現場で使われる技術スタックと乖離していることがある。試験対策で身につく知識が、日常的なコーディングや設計の意思決定に直結しないケースも少なくない。
 
 ただし、これは「資格が全く無意味」という意味ではない。以下に述べる通り、文脈によっては資格が有効に機能する場面もある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格・評価されにくい資格の傾向
 
@@ -92,6 +98,11 @@ IPA（情報処理推進機構）が実施する情報処理技術者試験は�
 一方、未経験・経験1〜2年の段階では、学習の証明手段として資格が一定の役割を果たすことがある。特に独学でキャリアを始めたエンジニアにとっては、応用情報技術者試験の取得が「体系的な学習を行ったこと」の一つの説明になりうる。
 
 ただしこれも、資格があれば実務経験の不足を補えるという意味ではなく、あくまで学習姿勢を示す補助的な根拠として機能するという範囲にとどまる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

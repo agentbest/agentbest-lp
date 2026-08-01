@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["データアナリスト", "英語力"]
 pubDate: 2026-07-04
 slug: "data-analyst-english"
+hub: "data-analyst"
 image: "/images/media/data-analyst-english.png"
 related: ["data-analyst-certification", "data-analyst-market-trend", "data-analyst-in-20s", "pr-english", "data-consultant-english"]
 ---
@@ -26,6 +27,11 @@ related: ["data-analyst-certification", "data-analyst-market-trend", "data-analy
 外資系企業や、グローバルチームを持つスタートアップでは、英語が業務上のデフォルト言語になるケースが多い。会議のファシリテーション、分析レポートの共有、海外ステークホルダーへのプレゼンテーションといった場面で、英語でのコミュニケーション能力が直接的に求められる。
 
 求人票の記載傾向を見ると、「英語力不問」のポジションと「Business level English」を必須とするポジションでは、想定年収帯に差が生じやすい。これは英語力そのものに対する報酬というよりも、英語が必要なポジションに付随する業務の複雑さ・責任範囲・グローバル標準のスキル要件が組み合わさった結果として理解するのが実態に近い。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力と求人・年収の関係を整理する
 
@@ -79,6 +85,11 @@ related: ["data-analyst-certification", "data-analyst-market-trend", "data-analy
 - **英語での分析コミュニティ参加**：KaggleのDiscussion、Mediumの技術記事、DataTalks.Clubなどでの英語アウトプットを積む
 - **英語論文・レポートの要約練習**：読んだ論文を英語で要約しGitHubやNotionに記録する。これは英語力の証跡にもなりやすい
 - **ビジネス会話の文脈で練習**：分析結果の共有・説明という文脈に絞ってロールプレイを積むと、実務での英語使用に早く慣れやすい
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

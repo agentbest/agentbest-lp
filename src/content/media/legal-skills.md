@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["法務", "必要スキル"]
 pubDate: 2026-07-04
 slug: "legal-skills"
+hub: "legal"
 image: "/images/media/legal-skills.png"
 related: ["legal-career-path", "legal-from-scratch", "legal-motivation", "erp-consultant-skills", "marketing-manager-skills"]
 ---
@@ -18,6 +19,11 @@ related: ["legal-career-path", "legal-from-scratch", "legal-motivation", "erp-co
 本稿では、法務職に求められるスキルを「ベースレイヤー」「ミドルレイヤー」「バリュードライバー」の三層構造で整理し、各スキルが採用評価・報酬レンジにどう影響するかを解説する。IT・SaaS・コンサル領域のビジネスパーソンを主な読者として想定しているため、事業会社の法務、特にテック系企業での文脈を中心に記述する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキルの三層構造：何が市場価値を分けるか
 
@@ -99,6 +105,11 @@ related: ["legal-career-path", "legal-from-scratch", "legal-motivation", "erp-co
 バリュードライバーの独自の組み合わせが差別化要素になる。「自分はどの文脈で最も貢献できるか」を言語化し、スペシャリスト型かジェネラリスト型(マネジメント寄り)かの方向性を選択する時期でもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

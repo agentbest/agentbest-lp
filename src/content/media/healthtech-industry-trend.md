@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["ヘルステック", "業界動向"]
 pubDate: 2026-07-05
 slug: "healthtech-industry-trend"
+hub: "healthtech-industry"
 image: "/images/media/healthtech-industry-trend.png"
 related: ["healthtech-industry-company", "healthtech-industry-career", "healthtech-industry-salary", "mobility-industry-trend", "saas-industry-trend"]
 ---
@@ -33,6 +34,11 @@ related: ["healthtech-industry-company", "healthtech-industry-career", "healthte
 **需要側では**、高齢化の進行と医療費の増大が政策課題として明確になっており、医療・介護の効率化はもはや選択ではなく制度的な要請に近い状況です。厚生労働省や経済産業省が相次いでデジタルヘルス関連のガイドラインや補助施策を整備してきたことも、事業者の投資判断を後押ししています。
 
 **供給側では**、クラウドインフラの成熟、LLMをはじめとするAI技術のコスト低下、そしてウェアラブルデバイスの普及によって、かつては実装コストが高すぎた機能が現実的な価格帯で提供できるようになっています。電子カルテの標準化・相互運用性の向上もデータ活用ビジネスの基盤整備として機能しており、2025〜2026年はその実装フェーズが本格化している時期と言えます。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## 2026年の採用トレンド
 
@@ -73,6 +79,11 @@ SaaS企業のエンタープライズセールスとして3〜5年の経験を�
 **準備として有効なアクション**：医療機器プログラムの概要や薬機法の基礎を独習する、オンライン診療や電子カルテの実際の操作感を理解するために無料・試用版サービスに触れる、またPHRやFHIRといった医療IT標準の基礎知識を身につけておくと、面接での説得力が増します。
 
 **処遇変化の傾向**：年収は横這いから若干の上昇に留まるケースも多いですが、ストックオプションの付与によってトータルの報酬期待値が上がることが多く、企業フェーズの見極めが重要になります。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

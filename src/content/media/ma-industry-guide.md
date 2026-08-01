@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["M&A仲介", "業界研究"]
 pubDate: 2026-07-05
 slug: "ma-industry-guide"
+hub: "ma-industry"
 image: "/images/media/ma-industry-guide.png"
 related: ["ma-industry-career", "ma-industry-company", "ma-industry-salary", "game-industry-guide", "hrtech-industry-guide"]
 ---
@@ -37,6 +38,11 @@ M&A仲介市場は大きく「大企業向けの投資銀行・FA（ファイナ
 転職希望者の多くは仲介モデルの企業を検討しているケースが多く、件数ドリブンの営業力が求められる点はSaaSセールス経験者にとって親和性が高い側面でもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要プレイヤーと企業文化の傾向
 
@@ -105,6 +111,11 @@ M&A仲介の報酬体系は成功報酬連動型のため、年収の振れ幅�
 **転職後の状況（想定される型）**：入社後1年は案件獲得の基盤構築に費やし、2年目から成約が出始める。3年目以降に複数の成功報酬が重なり、前職比で年収が1.5〜2倍程度になる可能性が出てくる。ただし、この経路を実現するには継続的な行動量と案件管理の精度が必要。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

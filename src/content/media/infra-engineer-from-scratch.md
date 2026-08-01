@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["インフラエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "infra-engineer-from-scratch"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-from-scratch.png"
 related: ["infra-engineer-work-style", "infra-engineer-skills", "infra-engineer-how-to-use-agent", "data-analyst-from-scratch", "devops-engineer-from-scratch"]
 ---
@@ -25,6 +26,11 @@ related: ["infra-engineer-work-style", "infra-engineer-skills", "infra-engineer-
 | SRE・プラットフォームエンジニア | CI/CD整備、信頼性設計、IaC | ほぼなし | 数年以上の実務経験が実質的に必要 |
 
 未経験で正面から狙えるポジションは、主に「サーバー・インフラ運用監視」と「ネットワーク構築・保守」の領域です。クラウドインフラやSREは市場価値が高く倍率も高いため、まず運用・保守から入職し、実務経験を積みながらシフトしていくルートが現実的です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験転職に必要なスキルの実態
 
@@ -94,6 +100,11 @@ NWの基礎を持つエンジニアがCCNA・CCNP取得や、SOC（セキュリ�
 - **入社後2〜3年**：AWS関連業務（既存環境のクラウド移行補助）に参画。実務経験を背景に転職市場での評価が変化
 
 このモデルにおいて重要なのは、「未経験歓迎求人を使って入職する」ことを目的化せず、入社後の業務範囲の拡張を最初から設計して企業を選ぶ姿勢です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

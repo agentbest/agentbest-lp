@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["ポストコンサル", "転職ガイド"]
 pubDate: 2026-07-05
 slug: "post-consultant-career-guide"
+hub: "post-consultant"
 image: "/images/media/post-consultant-career-guide.png"
 related: ["post-consultant-english", "post-consultant-salary-600", "post-consultant-certification", "sre-career-guide", "presales-career-guide"]
 ---
@@ -31,6 +32,11 @@ related: ["post-consultant-english", "post-consultant-salary-600", "post-consult
 転職のタイミングとしては、コンサル歴3〜5年の「マネージャー手前〜マネージャー層」が最も動きやすい時期とされている。この層は、プロジェクト管理の実務経験を持ちながら、事業会社でのポジションとの対応づけがしやすいため、採用側にとっても組み込みやすい。一方、パートナー・ディレクタークラスになると、求められるポジションの希少性が上がり、選考は厳格化される傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職先別の仕事内容と年収水準の目安
 
@@ -86,6 +92,11 @@ related: ["post-consultant-english", "post-consultant-salary-600", "post-consult
 **見落とされやすい点：** 経営企画部門はフロントラインから距離があるため、現場の課題感を把握する機会が限られることがある。転職前に現職の社員と非公式に接点を持ち、実際の業務の解像度を高めておくことが有効である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

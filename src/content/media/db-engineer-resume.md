@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["データベースエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "db-engineer-resume"
+hub: "db-engineer"
 image: "/images/media/db-engineer-resume.png"
 related: ["db-engineer-work-style", "db-engineer-career-path", "db-engineer-career-guide", "business-consultant-resume", "fullstack-engineer-resume"]
 ---
@@ -24,6 +25,11 @@ related: ["db-engineer-work-style", "db-engineer-career-path", "db-engineer-care
 また、データベースエンジニアという職種はミドルウェア・インフラ・アプリケーション層の境界に位置するため、担当範囲の広さや深さが人によって大きく異なる。書類上でその輪郭を明確にしなければ、採用担当者は適切なポジションとのマッチングを判断しにくくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-resume">無料で相談する</a>
+</aside>
 
 ## 全体構成の設計方針
 
@@ -133,6 +139,11 @@ pgBadgerによるスロークエリログの可視化を実施し、上位10件�
 職務経歴書において担当フェーズが不明確な場合、実際の経験よりも低いレンジで評価される傾向があるため、記述の粒度は上げておくことが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

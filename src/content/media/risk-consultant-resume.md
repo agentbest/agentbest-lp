@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["リスク・ガバナンスコンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "risk-consultant-resume"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-resume.png"
 related: ["risk-consultant-failure", "risk-consultant-from-scratch", "risk-consultant-work-style", "inside-sales-resume", "data-scientist-resume"]
 ---
@@ -24,6 +25,11 @@ related: ["risk-consultant-failure", "risk-consultant-from-scratch", "risk-consu
 さらに、リスク・ガバナンスは社内管理部門出身者とコンサルティングファーム出身者が同じ求人に応募することも多く、採用側は「単なる規程整備の実務者」ではなく「クライアントの経営課題として捉えられる人材かどうか」を職務経歴書で判断しようとする傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## 採用担当者が職務経歴書で確認しているポイント
 
@@ -143,6 +149,11 @@ related: ["risk-consultant-failure", "risk-consultant-from-scratch", "risk-consu
 | 英語スキルの言及なし | グローバル案件対応可否が不明 | TOEIC等の目安または「英文ドキュメントの読解・作成経験あり」を明示 |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

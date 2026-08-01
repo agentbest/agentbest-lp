@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["財務・経理", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "finance-career-guide"
+hub: "finance"
 image: "/images/media/finance-career-guide.png"
 related: ["finance-career-path", "finance-in-20s", "finance-salary", "saas-sales-career-guide", "infra-engineer-career-guide"]
 ---
@@ -46,6 +47,11 @@ related: ["finance-career-path", "finance-in-20s", "finance-salary", "saas-sales
 外資系企業では「FP&A」として財務計画・分析機能が独立した職種として定着しており、国内でも事業会社のCFO組織の強化に伴って需要が拡大している。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 市場価値の構造──何が評価されるのか
 
@@ -125,6 +131,11 @@ related: ["finance-career-path", "finance-in-20s", "finance-salary", "saas-sales
 事前に「自分が主体的に判断した会計・財務上の判断事例」を2〜3個、背景・選択肢・判断理由・結果の形で整理しておくと対応しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

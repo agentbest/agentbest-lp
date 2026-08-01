@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["デジタルマーケター", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "digital-marketer-company-size"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-company-size.png"
 related: ["digital-marketer-failure", "digital-marketer-how-to-use-agent", "digital-marketer-work-style", "backend-engineer-company-size", "hrbp-company-size"]
 ---
@@ -32,6 +33,11 @@ related: ["digital-marketer-failure", "digital-marketer-how-to-use-agent", "digi
 | 施策サイクル | 承認プロセスが多く時間がかかりやすい | 意思決定が速く実験回数が多い傾向 |
 | データ基盤 | 分析ツール・BIが整備されている傾向 | 自分でデータ環境を構築する経験が得られる |
 | ブランド力 | 採用市場でのネームバリューが高い | プロダクトグロースへの貢献が可視化されやすい |
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-company-size">キャリアを相談する</a>
+</aside>
 
 ## キャリアフェーズ別の選択軸
 
@@ -86,6 +92,11 @@ CMO・VP of Marketingのような経営に近い役割を目指すのであれ�
 | ストックオプション | 少ない・ほぼなし | 付与されるケースが多い |
 | 賞与 | 安定した制度設計が多い | 業績連動・不安定なケースも |
 | 福利厚生 | 充実している傾向 | 会社フェーズによって差が大きい |
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

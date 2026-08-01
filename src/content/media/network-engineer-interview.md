@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["ネットワークエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "network-engineer-interview"
+hub: "network-engineer"
 image: "/images/media/network-engineer-interview.png"
 related: ["network-engineer-from-scratch", "network-engineer-how-to-use-agent", "network-engineer-company-size", "data-consultant-interview", "finance-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["network-engineer-from-scratch", "network-engineer-how-to-use-agent", 
 転職先の企業フェーズ（スタートアップ、メガベンチャー、SIer、ユーザー企業）によって各層の比重は変わるが、20〜30代の上位層ポジションでは、技術的基礎をベースとしながら「実務応用」と「事業貢献」の比重が高くなる傾向がある。技術知識は「前提条件」であり、そこから先の文脈化が選考の分岐点になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の組み立て方
 
@@ -92,6 +98,11 @@ related: ["network-engineer-from-scratch", "network-engineer-how-to-use-agent", 
 「候補者から面接官への質問」は、関心の深さと思考の構造を示す場でもある。「御社のネットワーク運用における自動化の取り組みはどの段階ですか」「インシデント発生時の意思決定フローに、ネットワークチームはどう関与しますか」といった問いは、実務感覚を持っていることが自然に伝わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

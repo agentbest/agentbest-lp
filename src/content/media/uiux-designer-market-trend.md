@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["UI/UXデザイナー", "市場動向"]
 pubDate: 2026-07-04
 slug: "uiux-designer-market-trend"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-market-trend.png"
 related: ["uiux-designer-certification", "uiux-designer-career-guide", "uiux-designer-work-style", "bizdev-market-trend", "cto-vpoe-market-trend"]
 ---
@@ -31,6 +32,11 @@ UI/UXデザイナーの求人数は、2020〜2022年のDX投資拡大期に急�
 「デザインができる人」から「デザインを通じて事業成果に貢献できる人」という採用軸の転換が、市場全体で加速しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-market-trend">無料で相談する</a>
+</aside>
 
 ## 採用ニーズの変化：領域別の需要動向
 
@@ -110,6 +116,11 @@ FigmaをはじめとするデザインツールへのAI機能統合が進み、�
 | ビジネス指標との接続 | 全領域で重視される傾向 | KPI定義・成果の言語化が求められる |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["データエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "data-engineer-future"
+hub: "data-engineer"
 image: "/images/media/data-engineer-future.png"
 related: ["data-engineer-salary-1000", "data-engineer-failure", "data-engineer-salary", "mlops-engineer-future", "it-consultant-future"]
 ---
@@ -20,6 +21,11 @@ related: ["data-engineer-salary-1000", "data-engineer-failure", "data-engineer-s
 AIモデルの精度はデータの質に直結する。これはLLM（大規模言語モデル）の普及後も変わらない原則であり、むしろ社内固有データを活用したRAG構成やファインチューニングが広がるにつれて、「信頼できるデータ基盤」の重要性は高まる方向にある。
 
 需要の量的拡大に加えて、データエンジニアのスコープが広がっていることも重要な変化だ。従来のETL設計・DWH構築にとどまらず、データメッシュアーキテクチャの実装、データカタログ・データリネージの整備、MLOpsとの連携、リアルタイムストリーミング処理など、関与する領域が広がっている。これはキャリアの深さと幅の両方を問われることを意味する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## 将来性を左右する3つの構造的変化
 
@@ -96,6 +102,11 @@ IT・SaaS企業やコンサルティングファームでは、ミドル以上�
 
 **条件④　MLOpsまたはアナリティクスとの境界領域をカバーできる**
 機械学習パイプラインやフィーチャーストア、あるいはdbtを用いたアナリティクスエンジニアリングなど、隣接領域との橋渡し役を担える人材は、組織内での希少性が高くなりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

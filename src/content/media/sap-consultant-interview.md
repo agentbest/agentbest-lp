@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["SAPコンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "sap-consultant-interview"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-interview.png"
 related: ["sap-consultant-how-to-use-agent", "sap-consultant-career-path", "sap-consultant-failure", "marketing-manager-interview", "web-marketer-interview"]
 ---
@@ -33,6 +34,11 @@ SAPコンサルタントの転職面接では、「SAPの知識があること�
 技術面接では「何をやったか」の具体性が問われ、マネジメント面接以降では「なぜそうしたか」「どんな価値を生んだか」という上位概念が問われる傾向がある。面接準備では、この両軸をそれぞれ用意しておくことが基本となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の組み立て方
 
@@ -96,6 +102,11 @@ STAR型（Situation・Task・Action・Result）は汎用的に有効だが、SAP
 この差は経験の量ではなく、経験の言語化の精度にある。面接準備の本質は「経験の棚卸し」ではなく「経験の構造化」にあると言える。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["AIエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "ai-engineer-english"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-english.png"
 related: ["ai-engineer-how-to-use-agent", "ai-engineer-company-size", "ai-engineer-in-30s", "presales-english", "strategy-consultant-english"]
 ---
@@ -26,6 +27,11 @@ AI・機械学習の研究成果は、その大半が英語で発信される。
 加えて、LLM（大規模言語モデル）やマルチモーダルAIの急速な進展により、海外のOSSコミュニティへの参加やGitHubでの議論・プルリクエストが業務に組み込まれるケースが増えている。英語でのテキストコミュニケーションが、特定の企業や職種に限らず日常的に求められる場面が広がっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-english">無料で相談する</a>
+</aside>
 
 ## 英語力別に見る求人の広がり
 
@@ -93,6 +99,11 @@ GitHubでのissue・プルリクエストの英語コメント、HuggingFaceの�
 スピーキングは必要になったタイミングで集中的に伸ばすことが効率的である。海外カンファレンスへの参加やグローバルチームへの異動が見えた段階で、オンライン英会話・ビジネス英語コーチングを活用するのが現実的な進め方である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

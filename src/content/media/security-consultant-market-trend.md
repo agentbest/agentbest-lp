@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["セキュリティコンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "security-consultant-market-trend"
+hub: "security-consultant"
 image: "/images/media/security-consultant-market-trend.png"
 related: ["security-consultant-skills", "security-consultant-english", "security-consultant-interview", "devops-engineer-market-trend", "ma-advisor-market-trend"]
 ---
@@ -20,6 +21,11 @@ related: ["security-consultant-skills", "security-consultant-english", "security
 背景には、国内外でのサイバーインシデント件数の継続的な増加、経済安全保障やデータ保護に関連する規制の強化、そして経営層のサイバーリスク認識の高まりがあります。CISOポジションの設置が大企業・上場企業で一般化しつつある状況においても、CISOを支える実務専門家の不足は深刻なままです。
 
 この需給ギャップが、セキュリティコンサルタントの報酬水準や採用条件の底上げを促しています。一方で、「セキュリティ」という言葉が指す範囲が広がりすぎたことで、企業が求めるスペシャリティと候補者のポジショニングのミスマッチも生じやすくなっています。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：3つの軸
 
@@ -81,6 +87,11 @@ OT/ICSやDFIR（デジタルフォレンジック&インシデントレスポン
 - **不足しやすい点**：英語での提案・コミュニケーション経験、リスクを財務言語で語る経験、複数のクライアントを同時マネジメントした実績
 
 この場合、転職準備として有効なのは、「現職で意識的にエグゼクティブ向けレポーティングや事業リスク評価の経験を積む」「英語でのケース面接対策を行う」という2点です。技術的なアップグレードよりも、コンサルタントとしての言語・姿勢の変換が転職結果に影響しやすい傾向があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

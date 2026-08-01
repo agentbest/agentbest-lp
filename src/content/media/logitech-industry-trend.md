@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["物流テック", "業界動向"]
 pubDate: 2026-07-05
 slug: "logitech-industry-trend"
+hub: "logitech-industry"
 image: "/images/media/logitech-industry-trend.png"
 related: ["logitech-industry-career", "logitech-industry-salary", "logitech-industry-guide", "ai-industry-trend", "mobility-industry-trend"]
 ---
@@ -29,6 +30,11 @@ related: ["logitech-industry-career", "logitech-industry-salary", "logitech-indu
 国内市場では、老舗の物流情報システムベンダーに加え、SaaSスタートアップや大手ITベンダーの参入が相次いでいます。また、総合商社・物流大手・EC事業者が自社ソリューションを外販するケースも増えており、競合構造は複雑化しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## 成長を支える3つの構造的ドライバー
 
@@ -116,6 +122,11 @@ related: ["logitech-industry-career", "logitech-industry-salary", "logitech-indu
 | キャリアスピード | 昇進機会が早い傾向 | 評価制度が整備されやすい |
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

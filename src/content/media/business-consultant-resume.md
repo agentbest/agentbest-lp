@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["業務コンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "business-consultant-resume"
+hub: "business-consultant"
 image: "/images/media/business-consultant-resume.png"
 related: ["business-consultant-how-to-use-agent", "business-consultant-english", "business-consultant-career-guide", "corporate-planning-resume", "legal-resume"]
 ---
@@ -33,6 +34,11 @@ related: ["business-consultant-how-to-use-agent", "business-consultant-english",
   チームで動くコンサルプロジェクトでは、自分がリードしたのかサポートしたのかで評価が大きく変わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-resume">無料で相談する</a>
+</aside>
 
 ## 採用担当者が確認している5つの視点
 
@@ -129,6 +135,11 @@ related: ["business-consultant-how-to-use-agent", "business-consultant-english",
 コンサルタントはプロジェクト単位で動くため、企業単位のキャリアが短期間に見えやすい傾向があります。在籍期間が短い場合は、プロジェクト件数・合計期間・業種のカバレッジで経験の厚みを補う方法が有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

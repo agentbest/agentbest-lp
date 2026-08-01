@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["ソリューションアーキテクト", "年収1000万"]
 pubDate: 2026-07-04
 slug: "solution-architect-salary-1000"
+hub: "solution-architect"
 image: "/images/media/solution-architect-salary-1000.png"
 related: ["solution-architect-how-to-use-agent", "solution-architect-career-guide", "solution-architect-career-path", "legal-salary-1000", "salesforce-consultant-salary-1000"]
 ---
@@ -35,6 +36,11 @@ related: ["solution-architect-how-to-use-agent", "solution-architect-career-guid
 報酬構成の観点でも差異があります。外資系企業ではベース給与に加えてパフォーマンスボーナスやRSU（株式報酬）が上乗せされるケースがあり、総報酬での1,000万円超えが比較的起こりやすい設計になっています。国内企業では賞与が占める割合が大きく、業績変動によって手取りが変わりやすい点も考慮が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの特徴
 
@@ -97,6 +103,11 @@ related: ["solution-architect-how-to-use-agent", "solution-architect-career-guid
 外資系企業や成長期のスタートアップは、国内大手企業とは報酬テーブルの設計が異なります。転職を目的としなくても、定期的に採用市場に接触し、自分のスキルセットが市場でどのように評価されるかを把握しておくことは、中長期のキャリア設計において有効な情報収集になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

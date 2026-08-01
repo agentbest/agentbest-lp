@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["ポストコンサル", "将来性"]
 pubDate: 2026-07-05
 slug: "post-consultant-future"
+hub: "post-consultant"
 image: "/images/media/post-consultant-future.png"
 related: ["post-consultant-in-30s", "post-consultant-skills", "post-consultant-how-to-use-agent", "embedded-engineer-future", "web-marketer-future"]
 ---
@@ -38,6 +39,11 @@ related: ["post-consultant-in-30s", "post-consultant-skills", "post-consultant-h
 | 自社起業 | 創業者・CEO | 変動幅が大きい | 全領域にわたる |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-future">無料で相談する</a>
+</aside>
 
 ## AI時代に問われる、ポストコンサルの本質的な価値
 
@@ -89,6 +95,11 @@ AIツールの普及によって、戦略立案・分析のコモディティ化
 AIツールを活用して分析・資料作成の速度を上げつつ、その時間を意思決定・関係構築・実行に振り向けられるかどうか。これは習慣と姿勢の問題でもあります。AIを「脅威」として受け取るのではなく、自身のアウトプットを拡張する道具として日常に組み込んでいけるかが、今後の差異化要因になりやすいと言えます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

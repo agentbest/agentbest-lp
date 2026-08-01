@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["UI/UXデザイナー", "年収1000万"]
 pubDate: 2026-07-04
 slug: "uiux-designer-salary-1000"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-salary-1000.png"
 related: ["uiux-designer-how-to-use-agent", "uiux-designer-skills", "uiux-designer-salary-600", "post-consultant-salary-1000", "enterprise-sales-salary-1000"]
 ---
@@ -38,6 +39,11 @@ UI/UXデザイナーとして年収1,000万円に到達することは、現実�
 一方、受託制作会社やWeb制作の中小事務所では、優秀なデザイナーであっても600〜700万円台が現実的な上限になるケースが多い。報酬の天井は、個人のスキルより組織の事業構造によって規定されやすい点を把握しておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-salary-1000">無料で相談する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの型
 
@@ -101,6 +107,11 @@ UI/UXデザイナーのポートフォリオは、制作物のビジュアルで
 純粋なUIスキルだけで1,000万円に到達するルートは限られる。UXリサーチ・サービスデザイン・プロダクト戦略・組織マネジメントのいずれかの領域に越境することで、担える役割の幅と報酬交渉力が広がる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

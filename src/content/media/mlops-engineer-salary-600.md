@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["MLOpsエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-salary-600"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-salary-600.png"
 related: ["mlops-engineer-from-scratch", "mlops-engineer-resume", "mlops-engineer-in-20s", "post-consultant-salary-600", "product-manager-salary-600"]
 ---
@@ -37,6 +38,11 @@ MLOpsという職種は、機械学習エンジニア・インフラエンジニ
 また、MLOpsのパイプライン構築や運用監視は、クラウドベンダーのマネージドサービス（Vertex AI、SageMaker、Azure MLなど）の普及によって一部の実装難易度が下がっている。ツールを使いこなすことと、組織の課題をアーキテクチャレベルで解決することの間には、評価上の明確な段差がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## 年収600万円の壁になりやすい要素
 
@@ -99,6 +105,11 @@ MLOps全般のスペシャリストとして活動するよりも、特定の文
 「現職で評価されていないから転職する」ではなく、「現在の市場価値を定期的に確認する習慣を持つ」というスタンスが、長期的な年収管理において有効に機能しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["コンサルティング", "業界年収"]
 pubDate: 2026-07-05
 slug: "consulting-industry-salary"
+hub: "consulting-industry"
 image: "/images/media/consulting-industry-salary.png"
 related: ["consulting-industry-guide", "consulting-industry-trend", "consulting-industry-company", "adtech-industry-salary", "saas-industry-salary"]
 ---
@@ -29,6 +30,11 @@ related: ["consulting-industry-guide", "consulting-industry-trend", "consulting-
 ファームによっては、固定給に占める変動報酬（インセンティブ・ボーナス）の割合が大きく異なります。特にパートナー以上になると、担当案件や個人貢献に連動するインセンティブ比率が高まるため、「年収〇〇万円」という表記の数字だけで比較することには注意が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-salary">無料で相談する</a>
+</aside>
 
 ## 職種・グレード別 年収レンジの目安
 
@@ -97,6 +103,11 @@ M&A・企業再生・デューデリジェンスを専門とするファーム�
 このモデルケースでは、グレード格付けの交渉に成功したケースと失敗したケースで、入社後2〜3年の累計報酬に大きな差が生じやすい構造があります。複数オファーを並行比較する際には、グレードの統一ベースへの換算が重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

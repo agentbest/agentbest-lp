@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["Salesforceコンサルタント", "働き方"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-work-style"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-work-style.png"
 related: ["salesforce-consultant-in-20s", "salesforce-consultant-in-30s", "salesforce-consultant-certification", "digital-marketer-work-style", "bridge-se-work-style"]
 ---
@@ -30,6 +31,11 @@ Salesforceコンサルタントの働き方については、「激務なのか�
 アナリスト・コンサルタントレベルでは実装・ドキュメント作業の割合が高く、シニアコンサルタント以上になるとクライアントマネジメント・提案・後進育成が加わります。シニア以上はコントロールできる裁量が増す反面、複数プロジェクトを掛け持つケースもあり、負荷の性質が変化する傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## 残業・激務度の実態：フェーズ別に見る稼働パターン
 
@@ -96,6 +102,11 @@ Salesforceはクラウドプロダクトであるため、技術的には環境�
 **Salesforce認定資格の体系的な取得**：資格数が増えることで担当できる製品領域が広がり、中長期的に「担当したい案件を選びやすくなる」動線につながりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

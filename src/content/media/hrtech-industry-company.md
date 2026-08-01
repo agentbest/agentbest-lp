@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["HRテック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "hrtech-industry-company"
+hub: "hrtech-industry"
 image: "/images/media/hrtech-industry-company.png"
 related: ["hrtech-industry-career", "hrtech-industry-guide", "hrtech-industry-trend", "govtech-industry-company", "legaltech-industry-company"]
 ---
@@ -37,6 +38,11 @@ HRテックが対象とする人事業務は、採用・配置・育成・評価
 この分類を踏まえたうえで、自身がどの領域で専門性を積みたいか、あるいはどの領域のプロダクトが今後伸びやすいかを考えることが、企業選びの出発点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-company">無料で相談する</a>
+</aside>
 
 ## 見るべき指標：財務・事業・組織の三層
 
@@ -88,6 +94,11 @@ HRテック企業の多くはSaaSモデルを採用しているため、汎用�
 同領域のHRテック企業における営業職の報酬レンジは、経験年数・対象顧客規模・事業フェーズによって幅があるが、エンタープライズ担当で入社2〜3年目相当であれば年収600〜900万円程度が一つの参考水準となりやすい。ただし変動報酬の比率・設計・クォーター達成率によって実態は大きく変わるため、固定報酬と変動の内訳を必ず確認する。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

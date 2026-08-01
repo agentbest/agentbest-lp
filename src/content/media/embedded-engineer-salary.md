@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["組み込みエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-salary"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-salary.png"
 related: ["embedded-engineer-motivation", "embedded-engineer-salary-1000", "embedded-engineer-certification", "backend-engineer-salary", "data-scientist-salary"]
 ---
@@ -18,6 +19,11 @@ related: ["embedded-engineer-motivation", "embedded-engineer-salary-1000", "embe
 本記事では、20代・30代の年収レンジを構造的に整理したうえで、年収を引き上げるために実務上有効なアプローチを具体的に解説します。転職を検討している方はもちろん、現職での年収交渉や中長期のキャリア設計にも応用できる内容を目指しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-salary">無料で相談する</a>
+</aside>
 
 ## 組み込みエンジニアの年収レンジ｜年代・領域別の目安
 
@@ -123,6 +129,11 @@ related: ["embedded-engineer-motivation", "embedded-engineer-salary-1000", "embe
 組み込みエンジニアは「Web系よりも年収が低い」という認識が広まっていますが、産業領域・職責によっては同等またはそれ以上の年収帯も存在します。転職市場での自分の希少性を定期的に確認する習慣が、長期的な年収管理に有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

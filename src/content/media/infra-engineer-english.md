@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["インフラエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "infra-engineer-english"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-english.png"
 related: ["infra-engineer-resume", "infra-engineer-certification", "infra-engineer-work-style", "recruiter-english", "finance-english"]
 ---
@@ -24,6 +25,11 @@ related: ["infra-engineer-resume", "infra-engineer-certification", "infra-engine
 つまり「必須かどうか」は職場環境によって大きく異なるため、この問いへの答えは一律ではありません。ただし、英語力が求職活動における選択肢の幅を広げること、そして年収レンジにプラスに作用しやすいことは、求人市場の構造として読み取れます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-english">無料で相談する</a>
+</aside>
 
 ## 英語の活用場面：インフラエンジニアの業務リアル
 
@@ -101,6 +107,11 @@ TOEICスコアは採用プロセスでの足切り基準として参照される
 求人票に「英語力不問」と記載されていても、実際の業務ではドキュメント参照の場面で英語が必要になるケースが多いです。事前の情報収集を丁寧に行うことが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

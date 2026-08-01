@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["UI/UXデザイナー", "資格"]
 pubDate: 2026-07-04
 slug: "uiux-designer-certification"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-certification.png"
 related: ["uiux-designer-interview", "uiux-designer-skills", "uiux-designer-salary-600", "mlops-engineer-certification", "it-architect-certification"]
 ---
@@ -32,6 +33,11 @@ UI/UXデザインには、医師や弁護士のように業務独占が法律で
 資格は評価項目の下位に位置しており、上位項目が充実していれば資格の有無が選考に影響しないことが多いです。逆に言えば、実務経験が浅い段階や、特定の専門性を証明したい文脈では、資格が補助的な説得材料として機能します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格・認定の類型
 
@@ -102,6 +108,11 @@ UXデザイナーとして5〜7年の実務経験を積んだ後、UXリサー�
 **ツールの習熟度**：Figma・FigJam・Miroなどのツール習熟は、採用条件に明示されることが増えています。認定よりも実際の成果物で示す方が説得力を持ちます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

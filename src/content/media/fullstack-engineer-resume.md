@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["フルスタックエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-resume"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-resume.png"
 related: ["fullstack-engineer-work-style", "fullstack-engineer-english", "fullstack-engineer-in-20s", "ai-engineer-resume", "business-planning-resume"]
 ---
@@ -28,6 +29,11 @@ related: ["fullstack-engineer-work-style", "fullstack-engineer-english", "fullst
 この二つの課題を解消するのが、職務経歴書の構造設計です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 全体構成：推奨フォーマット
 
@@ -143,6 +149,11 @@ related: ["fullstack-engineer-work-style", "fullstack-engineer-english", "fullst
 職務経歴書は年収交渉の土台にもなります。自分の経験が上記のどの水準に相当するかを整理したうえで記述することが、交渉力にも影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

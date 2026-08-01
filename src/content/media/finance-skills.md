@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["財務・経理", "必要スキル"]
 pubDate: 2026-07-04
 slug: "finance-skills"
+hub: "finance"
 image: "/images/media/finance-skills.png"
 related: ["finance-work-style", "finance-in-30s", "finance-from-scratch", "strategy-consultant-skills", "project-manager-skills"]
 ---
@@ -44,6 +45,11 @@ related: ["finance-work-style", "finance-in-30s", "finance-from-scratch", "strat
 - データ連携・RPAの基礎理解
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-skills">キャリアを相談する</a>
+</aside>
 
 ## スキルの優先順位：キャリアフェーズ別の考え方
 
@@ -117,6 +123,11 @@ related: ["finance-work-style", "finance-in-30s", "finance-from-scratch", "strat
 資格は「スコアリングの補助材料」として機能しますが、実務経験の質・範囲が評価の主軸であることは変わりません。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

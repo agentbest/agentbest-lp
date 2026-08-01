@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["ITアーキテクト", "将来性"]
 pubDate: 2026-07-04
 slug: "it-architect-future"
+hub: "it-architect"
 image: "/images/media/it-architect-future.png"
 related: ["it-architect-salary", "it-architect-how-to-use-agent", "it-architect-resume", "pmo-consultant-future", "thinktank-future"]
 ---
@@ -26,6 +27,11 @@ ITアーキテクトは、システム全体の技術的な青写真を描く役
 一方で、注意すべき変化もある。特定の設計パターンの参照、標準的なクラウド構成の比較検討、ドキュメントの初稿生成といった作業は、生成AIツールの補助によって効率化される余地が大きくなった。AIが「手を動かす部分」を担い始めたことで、ITアーキテクトに期待される役割が**判断・責任・説明**へと重心を移しつつある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-future">無料で相談する</a>
+</aside>
 
 ## AI時代の変化：代替されやすい仕事と代替されにくい仕事
 
@@ -96,6 +102,11 @@ ITアーキテクトとしてのスキル構成を整理すると、以下のよ
 | 低〜中 | 汎用的なプログラミングスキルの習得 | AIによる補完が進む領域 |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

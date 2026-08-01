@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["Webマーケター", "転職失敗"]
 pubDate: 2026-07-04
 slug: "web-marketer-failure"
+hub: "web-marketer"
 image: "/images/media/web-marketer-failure.png"
 related: ["web-marketer-from-scratch", "web-marketer-career-path", "web-marketer-interview", "recruiter-failure", "thinktank-failure"]
 ---
@@ -26,6 +27,11 @@ Webマーケターの転職が難しい理由の一つは、求人票と実務�
 加えて、Webマーケティング領域は企業のフェーズ・事業モデル・組織構造によって求められるスキルセットが大きく異なる。スタートアップのグロース担当と大手事業会社のブランドマーケティング担当では、同じ「Webマーケター」という職種名でも日常業務はほぼ別物に近い。この構造上の曖昧さが、入社後のミスマッチを生む主因となっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターンと対策
 
@@ -104,6 +110,11 @@ SEOやSNS運用の実務経験があっても、それが特定企業のブラ�
 - [ ] チームの離職率・平均在籍年数（把握できる範囲で）
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

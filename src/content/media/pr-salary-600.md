@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["広報／PR", "年収600万"]
 pubDate: 2026-07-04
 slug: "pr-salary-600"
+hub: "pr"
 image: "/images/media/pr-salary-600.png"
 related: ["pr-skills", "pr-career-path", "pr-market-trend", "hr-consultant-salary-600", "post-consultant-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["pr-skills", "pr-career-path", "pr-market-trend", "hr-consultant-salar
 600万円という数値は、「担当として優秀」という評価から「事業に貢献できる広報プロフェッショナル」という評価に移行する境界線に位置することが多い傾向にあります。ここを超えるには、業務の幅を広げるだけでなく、担う役割の質的な変化が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になる三つの構造的要因
 
@@ -97,6 +103,11 @@ related: ["pr-skills", "pr-career-path", "pr-market-trend", "hr-consultant-salar
 転職先として検討したのは、広報機能を経営戦略と近い位置で設計しているスタートアップ〜中堅規模の事業会社です。ここでは「広報×採用ブランディング」の両軸を担うポジションが提示され、結果として年収は600万円台前半で着地しました。ポイントは、単に「広報経験◯年」として売り込むのではなく、「ステークホルダーへの情報設計ができる人材」として提示したことにあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

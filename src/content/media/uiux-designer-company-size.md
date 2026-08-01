@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["UI/UXデザイナー", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "uiux-designer-company-size"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-company-size.png"
 related: ["uiux-designer-certification", "uiux-designer-failure", "uiux-designer-career-path", "business-consultant-company-size", "it-consultant-company-size"]
 ---
@@ -32,6 +33,11 @@ UI/UXデザイナーが転職や就職先を検討する際、「大手企業」
 スタートアップでは、デザイナーがPdMやエンジニアと直接議論し、意思決定に参加できる場面が多い。プロトタイプを翌週には本番環境でテストできるスピード感は、仮説検証サイクルを重視するデザイナーにとって大きな魅力となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-company-size">無料で相談する</a>
+</aside>
 
 ## 年収・待遇の相場観
 
@@ -90,6 +96,11 @@ Aさんは最終的にシリーズBの業務系SaaSスタートアップへ転�
 | 6年以上（リード・マネジメント期） | 組織横断のデザイン標準化をリードしたい | デザイン組織の立ち上げ・文化形成を担いたい |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

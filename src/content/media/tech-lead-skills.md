@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["テックリード", "必要スキル"]
 pubDate: 2026-07-04
 slug: "tech-lead-skills"
+hub: "tech-lead"
 image: "/images/media/tech-lead-skills.png"
 related: ["tech-lead-how-to-use-agent", "tech-lead-salary", "tech-lead-company-size", "recruiter-skills", "product-designer-skills"]
 ---
@@ -22,6 +23,11 @@ related: ["tech-lead-how-to-use-agent", "tech-lead-salary", "tech-lead-company-s
 ただし、役割定義は企業によって幅がある。スタートアップでは事実上のCTOに近い裁量を持つ場合もあれば、大企業では特定プロダクトの技術方針を担う一専門職として位置づけられることもある。いずれにせよ共通するのは「技術面での最終的な判断責任を持つ」という点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-skills">キャリアを相談する</a>
+</aside>
 
 ## スキルの全体像：4領域での整理
 
@@ -106,6 +112,11 @@ SaaS企業でシニアエンジニアとして3年間実績を積んだAさん�
 スキルの不安を整理してみると、「自分に足りないのは技術力ではなくコミュニケーションの経験」という認識に変わることがある。この認識の変化が、昇進判断・転職判断の精度を高める。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

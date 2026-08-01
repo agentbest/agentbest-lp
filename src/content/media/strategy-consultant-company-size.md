@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["戦略コンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-company-size"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-company-size.png"
 related: ["strategy-consultant-salary-600", "strategy-consultant-motivation", "strategy-consultant-in-20s", "mlops-engineer-company-size", "it-consultant-company-size"]
 ---
@@ -44,6 +45,11 @@ related: ["strategy-consultant-salary-600", "strategy-consultant-motivation", "s
 ### 組織文化と働き方
 
 大手ファームは、プロジェクト単位の組織構造とアップオアアウトの評価文化を持ちやすい。高い知的水準を持つ同僚との競争・学習環境は刺激的だが、稼働量が多くなりやすいことも広く知られている。スタートアップは組織フェーズによって文化が大きく異なり、同一企業内でも採用フェーズによって職場の雰囲気が変化しうる。意思決定の速さと組織への当事者意識という点では、スタートアップが優位な傾向がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## ケーススタディ：判断軸の違いが生む選択の分岐
 

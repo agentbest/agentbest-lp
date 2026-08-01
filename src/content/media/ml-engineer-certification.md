@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["機械学習エンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "ml-engineer-certification"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-certification.png"
 related: ["ml-engineer-company-size", "ml-engineer-skills", "ml-engineer-interview", "legal-certification", "data-engineer-certification"]
 ---
@@ -27,6 +28,11 @@ related: ["ml-engineer-company-size", "ml-engineer-skills", "ml-engineer-intervi
 
 **3. 特定の業界・組織での加点要素**
 金融・公共・医療といった規制業界や、大企業の情報システム部門など、資格を評価軸に組み込む文化を持つ組織では、取得が加点要素になることがあります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格・評価されにくい資格の整理
 
@@ -87,6 +93,11 @@ related: ["ml-engineer-company-size", "ml-engineer-skills", "ml-engineer-intervi
 | G検定（JDLA） | 約12,000円 | 30〜80時間 |
 
 費用・時間ともに無視できない投資であるため、取得目的を明確にした上で優先度をつけることを推奨します。「なんとなく履歴書を厚くしたい」という動機だけでは、機械学習エンジニアの採用では効果が限定されやすい点に注意が必要です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

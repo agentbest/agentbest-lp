@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["データ・アナリティクスコンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "data-consultant-career-guide"
+hub: "data-consultant"
 image: "/images/media/data-consultant-career-guide.png"
 related: ["data-consultant-interview", "data-consultant-work-style", "data-consultant-future", "thinktank-career-guide", "bridge-se-career-guide"]
 ---
@@ -46,6 +47,11 @@ related: ["data-consultant-interview", "data-consultant-work-style", "data-consu
 転職先を検討する際は、この「業務の重心」が自分のキャリア目標と合致しているかを確認することが先決である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 市場価値と年収の目安
 
@@ -128,6 +134,11 @@ DX推進・データドリブン経営への移行が各業界で進むなか、
 このケースが示すように、転職前に現職での経験を意図的に広げることで、転職市場における評価軸を変えられる場合がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

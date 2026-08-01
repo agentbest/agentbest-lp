@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["人事・組織コンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "hr-consultant-career-guide"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-career-guide.png"
 related: ["hr-consultant-work-style", "hr-consultant-future", "hr-consultant-motivation", "devops-engineer-career-guide", "mlops-engineer-career-guide"]
 ---
@@ -18,6 +19,11 @@ related: ["hr-consultant-work-style", "hr-consultant-future", "hr-consultant-mot
 本記事では、人事・組織コンサルタントの職種定義と業務範囲を整理したうえで、転職市場の構造・年収水準の目安・転職成功に向けた実践的なポイントを順に解説します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## 人事・組織コンサルタントの業務範囲と職種の分類
 
@@ -112,6 +118,11 @@ related: ["hr-consultant-work-style", "hr-consultant-future", "hr-consultant-mot
 現職の年収水準を維持しようとするあまり、ポジションや役割に不整合が生じるケースがあります。特にコンサルティングファームへの転身においては、まず専門性を積み直す意味で一段階下のレイヤーから入り、短期間で評価されるキャリア設計が中長期の年収最大化につながりやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

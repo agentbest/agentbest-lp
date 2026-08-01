@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["クラウドインフラ", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "cloud-industry-company"
+hub: "cloud-industry"
 image: "/images/media/cloud-industry-company.png"
 related: ["cloud-industry-salary", "cloud-industry-career", "cloud-industry-guide", "govtech-industry-company", "iot-industry-company"]
 ---
@@ -32,6 +33,11 @@ related: ["cloud-industry-salary", "cloud-industry-career", "cloud-industry-guid
 この分類を踏まえた上で、どの類型が自身のキャリア目標に合致するかを最初に定めることが、後続の企業評価を意味のあるものにします。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-company">無料で相談する</a>
+</aside>
 
 ## 判断軸①：事業の持続性と収益構造
 
@@ -99,6 +105,11 @@ related: ["cloud-industry-salary", "cloud-industry-career", "cloud-industry-guid
 4. **収益構造の確認**：SRE組織への継続投資が見込めるか（採用継続・ツール投資の有無）を、面接または公開情報から確認します。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

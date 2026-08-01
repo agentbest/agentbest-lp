@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["インサイドセールス", "20代転職"]
 pubDate: 2026-07-03
 slug: "inside-sales-in-20s"
+hub: "inside-sales"
 image: "/images/media/inside-sales-in-20s.png"
 related: ["inside-sales-career-path", "inside-sales-resume", "inside-sales-from-scratch", "pmo-consultant-in-20s", "business-planning-in-20s"]
 ---
@@ -22,6 +23,11 @@ related: ["inside-sales-career-path", "inside-sales-resume", "inside-sales-from-
 インサイドセールス（Inside Sales、以下IS）とは、電話・メール・ビデオ会議などの非対面チャネルを活用し、見込み顧客との商談機会を創出する職種です。B2B企業の営業組織において、マーケティングが獲得したリードを受け取り（SDR）、または自らアウトバウンドで対象企業にアクセスし（BDR）、フィールドセールスへ商談を引き渡すことが主な役割です。
 
 SaaSビジネスモデルの普及と、それに伴う「営業プロセスの分業化」の流れの中で、専業職としての需要が拡大しました。現在は、IS専任ポジションを設ける企業がIT・コンサル・HR・フィンテック等の領域で一般的になっています。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-in-20s">無料で相談する</a>
+</aside>
 
 ## 20代のポテンシャル採用の実態
 
@@ -95,6 +101,11 @@ IS職の年収は、企業のステージ・規模・業種によって幅があ
 この型は、一見するとIS経験ゼロに見えますが、採用担当者が「教えれば伸びる素地がある」と判断するための材料が揃っています。逆に、この言語化ができていないと、同じ職務経歴でも書類通過率が大きく下がりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

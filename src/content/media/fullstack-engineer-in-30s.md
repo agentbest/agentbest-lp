@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["フルスタックエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-in-30s"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-in-30s.png"
 related: ["fullstack-engineer-english", "fullstack-engineer-future", "fullstack-engineer-skills", "sap-consultant-in-30s", "platform-engineer-in-30s"]
 ---
@@ -28,6 +29,11 @@ related: ["fullstack-engineer-english", "fullstack-engineer-future", "fullstack-
 特に30代への採用で重視されるのは、三層を「つなぐ」設計判断の経験である。実装の速度よりも、どのアーキテクチャを選択するか・なぜそれを選ぶのかを技術的に説明できる能力が問われる場面が多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代採用との決定的な違い：ポジション設計から見る期待値の差
 
@@ -92,6 +98,11 @@ SaaS領域やスタートアップでは、基本給と株式報酬（ストッ�
 技術的なコーディング試験については、LeetCode形式のアルゴリズム問題を課す企業と、実際の業務に近いシナリオ問題を課す企業に二極化しつつある。スタートアップ・SaaS系ではシナリオ型が多く、外資系・大手テック企業ではアルゴリズム型が維持されている傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

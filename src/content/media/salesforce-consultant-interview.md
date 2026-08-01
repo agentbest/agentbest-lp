@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["Salesforceコンサルタント", "面接対策"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-interview"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-interview.png"
 related: ["salesforce-consultant-future", "salesforce-consultant-how-to-use-agent", "salesforce-consultant-resume", "marketing-manager-interview", "strategy-consultant-interview"]
 ---
@@ -39,6 +40,11 @@ Salesforceコンサルタントの面接は、技術力・提案力・ビジネ�
 | マネージャー〜リードコンサルタント | 6年以上 | 組織運営・顧客関係の深さ・事業貢献の定量化 |
 
 年収の目安についても、ポジションや在籍する企業規模によって幅があるため、転職先の期待役割を事前に把握したうえで、自分の経験をどのレイヤーで語るかを調整することが重要です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問の類型と回答の組み立て方
 
@@ -111,6 +117,11 @@ Salesforce認定資格（Administrator・Sales Cloud ConsultantなどのCertifie
 - **結果と学び**：合意形成に想定より2週間を要したが、その結果として設計変更が発生しなかった。合意に時間をかける価値を定量的に説明できるようになった
 
 この構造は、どのような経験でも応用可能です。重要なのは、「自分が何をしたか」だけでなく「なぜその方法を選んだか」と「そこから何を得たか」を一体で語ることです。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

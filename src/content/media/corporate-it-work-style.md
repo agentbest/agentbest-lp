@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["社内SE", "働き方"]
 pubDate: 2026-07-04
 slug: "corporate-it-work-style"
+hub: "corporate-it"
 image: "/images/media/corporate-it-work-style.png"
 related: ["corporate-it-certification", "corporate-it-in-20s", "corporate-it-career-path", "fas-consultant-work-style", "hrbp-work-style"]
 ---
@@ -32,6 +33,11 @@ IT部門が「コスト部門」として扱われている企業では、人員
 ITシステムの大半をSIerやパッケージベンダーに委託している企業では、社内SEはベンダー管理・要件定義・受け入れテストが主業務となり、自らコードを書く機会は少ない。内製化を進めている企業では、アプリケーション開発やクラウドアーキテクチャの設計まで担うことがある。前者はプロジェクト管理力、後者は技術的な実装力が問われ、求められるスキルセットが異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 残業・激務度のリアル
 
@@ -97,6 +103,11 @@ ITシステムの大半をSIerやパッケージベンダーに委託してい�
 このケースでは、業務の幅が広い分だけ技術的な深化が難しいという課題と、全社のIT課題を身近に把握できるというメリットが共存している。スキルアップを意識するならば、個人学習の機会を自ら設ける主体性が求められる環境といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

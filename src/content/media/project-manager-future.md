@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["プロジェクトマネージャー", "将来性"]
 pubDate: 2026-07-04
 slug: "project-manager-future"
+hub: "project-manager"
 image: "/images/media/project-manager-future.png"
 related: ["project-manager-salary", "project-manager-skills", "project-manager-work-style", "infra-engineer-future", "it-consultant-future"]
 ---
@@ -44,6 +45,11 @@ AIツールの進化によって、PM業務の中でも定型性の高い領域�
 これらはいずれも「構造化されていない問題を人間の関係性の中で解く」という本質を持つ。AIは現時点でこうした判断の「支援」はできるが、最終的な責任を伴う決断を行う主体にはなれない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-future">キャリアを相談する</a>
+</aside>
 
 ## PMの市場価値はどう分布するか
 
@@ -101,6 +107,11 @@ IT・SaaS・コンサル領域のPMにとって、エンジニアリングの基
 この転換を図ったPMは、職種変更なしに市場価値が改善しやすい傾向がある。PMという肩書きを維持しながら、実質的にはPdMやビジネスオーナーに近い役割を担えるようになるためである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

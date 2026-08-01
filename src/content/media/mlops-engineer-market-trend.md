@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["MLOpsエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-market-trend"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-market-trend.png"
 related: ["mlops-engineer-salary", "mlops-engineer-salary-600", "mlops-engineer-work-style", "security-engineer-market-trend", "saas-sales-market-trend"]
 ---
@@ -34,6 +35,11 @@ MLOpsエンジニアの転職市場は、2025年から2026年にかけて質的�
 この広域化が、求人数の増加に直結している。ただし、各セクターで求めるスキルのアクセントが異なるため、「MLOpsエンジニア」という職種名で一括りにできない多様性が生まれている点は後述する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## 求められるスキルセットの変容
 
@@ -93,6 +99,11 @@ MLOpsエンジニアの転職市場は、2025年から2026年にかけて質的�
 - 特徴：裁量範囲は限定的だが安定した環境。AI Governanceという新領域に初期から関与できる希少性がある
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

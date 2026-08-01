@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["セールスエンジニア／プリセールス", "転職失敗"]
 pubDate: 2026-07-03
 slug: "presales-failure"
+hub: "presales"
 image: "/images/media/presales-failure.png"
 related: ["presales-interview", "presales-in-20s", "presales-market-trend", "uiux-designer-failure", "marketing-manager-failure"]
 ---
@@ -28,6 +29,11 @@ related: ["presales-interview", "presales-in-20s", "presales-market-trend", "uiu
 これらを踏まえたうえで、フェーズ別の失敗パターンを見ていく。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-failure">無料で相談する</a>
+</aside>
 
 ## フェーズ別の失敗パターンと原因
 
@@ -97,6 +103,11 @@ related: ["presales-interview", "presales-in-20s", "presales-market-trend", "uiu
 この型に共通するのは、「自分が持っているものを活かせるはずだ」という思い込みが、入社後の実態確認を省略させるという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

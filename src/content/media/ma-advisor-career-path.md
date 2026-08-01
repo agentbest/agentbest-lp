@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["M&Aアドバイザー", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "ma-advisor-career-path"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-career-path.png"
 related: ["ma-advisor-failure", "ma-advisor-motivation", "ma-advisor-company-size", "project-manager-career-path", "ai-engineer-career-path"]
 ---
@@ -30,6 +31,11 @@ M&Aアドバイザーとして働く人材のキャリアは、大きく以下�
 起点は異なっても、30代前半（概ね3〜8年目前後）になると「次のステージをどこに設定するか」という問いが共通して立ち現れてくる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-career-path">キャリアを相談する</a>
+</aside>
 
 ## 年次・役職ごとのポジションと報酬感
 
@@ -89,6 +95,11 @@ M&Aの実務経験を持つ人材が、CFO候補や経営企画部門のリー�
 このようなケースでは、「PEファンドへの移行」か「成長フェーズの事業会社でのCFO候補ポジション」への転換が選択肢として浮上しやすい。アドバイザリー継続を選んだ場合でも、外部の選択肢を把握したうえでの継続と、漫然とした継続とではキャリアの主体性が異なってくる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

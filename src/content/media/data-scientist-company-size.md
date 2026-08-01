@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["データサイエンティスト", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "data-scientist-company-size"
+hub: "data-scientist"
 image: "/images/media/data-scientist-company-size.png"
 related: ["data-scientist-interview", "data-scientist-motivation", "data-scientist-market-trend", "it-architect-company-size", "erp-consultant-company-size"]
 ---
@@ -40,6 +41,11 @@ related: ["data-scientist-interview", "data-scientist-motivation", "data-scienti
 | キャッシュの即時性 | 高い | SOの換金は上場・M&Aのタイミング次第 |
 
 目安として、経験3〜5年程度のデータサイエンティストの場合、大手では等級制度の範囲内で年収が推移しやすい一方、スタートアップでは交渉余地が広い反面、SOの価値は将来の不確実性を含む。「現在のキャッシュ」と「将来の期待値」のどちらを優先するかという問いとして整理すると判断しやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-company-size">キャリアを相談する</a>
+</aside>
 
 ## 4軸比較：どちらが自分に合っているか
 
@@ -83,6 +89,11 @@ related: ["data-scientist-interview", "data-scientist-motivation", "data-scienti
 
 **このケースで重視すべき問い：**
 「成長実感の鈍化」が「業務範囲の狭さ」から来ているのか、「組織の質」から来ているのかを切り分けることが先決である。前者であればスタートアップへの移行に合理性があるが、後者であれば別の大手・専門組織への転籍も有効な選択肢となる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

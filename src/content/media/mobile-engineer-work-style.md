@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["モバイルエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-work-style"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-work-style.png"
 related: ["mobile-engineer-salary-600", "mobile-engineer-in-30s", "mobile-engineer-career-guide", "recruiter-work-style", "hr-consultant-work-style"]
 ---
@@ -25,6 +26,11 @@ related: ["mobile-engineer-salary-600", "mobile-engineer-in-30s", "mobile-engine
 | SIer・コンサルファーム | プロジェクト末期に増加しやすい | 低〜中（案件依存） | 低め | 低め |
 
 自社サービス系、特にスタートアップでは、開発フェーズと連動して業務量が波打ちやすい。新機能のリリース直前や重大な不具合対応時は深夜対応が発生する場合もあるが、安定運用期には比較的フレキシブルな働き方ができる企業も多い。一方、受託開発では顧客側の要件変更や品質基準が労働環境を左右するため、自社ではコントロールしにくい外圧を受けやすい構造がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 残業・激務度の実態
 
@@ -88,6 +94,11 @@ related: ["mobile-engineer-salary-600", "mobile-engineer-in-30s", "mobile-engine
 特にSwiftUI・Jetpack Compose・Kotlin Multiplatformなど最新技術への習熟、パフォーマンス改善・アーキテクチャ設計の経験、QAや設計フェーズからの関与経験は、ポジションの上位化や高稼働が求められないシニアポジションへの移行に寄与しやすい。
 
 逆に、特定の技術スタックや受託案件のみのキャリアが続くと、スキルセットの多様性が担保されず、より良い働き方の職場への移行が難しくなるケースも見られる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

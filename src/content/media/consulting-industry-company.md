@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["コンサルティング", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "consulting-industry-company"
+hub: "consulting-industry"
 image: "/images/media/consulting-industry-company.png"
 related: ["consulting-industry-career", "consulting-industry-salary", "consulting-industry-guide", "adtech-industry-company", "edtech-industry-company"]
 ---
@@ -34,6 +35,11 @@ related: ["consulting-industry-career", "consulting-industry-salary", "consultin
 この類型の違いは、日々の業務内容だけでなく、求められるスキルセット、昇進の速さ、キャリアの出口（ポストコンサル先）にまで影響します。「コンサルに転職したい」という目標が固まっていても、どの類型を選ぶかで、3〜5年後のキャリアの方向性は大きく変わってきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-company">無料で相談する</a>
+</aside>
 
 ## 見るべき指標：6つの判断軸
 
@@ -91,6 +97,11 @@ related: ["consulting-industry-career", "consulting-industry-salary", "consultin
 このように、「自分の強み・希望する仕事の性質・中長期のキャリアゴール」を三点セットで整理し、各社の特性に当てはめて判断することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["Salesforceコンサルタント", "30代転職"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-in-30s"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-in-30s.png"
 related: ["salesforce-consultant-future", "salesforce-consultant-from-scratch", "salesforce-consultant-certification", "thinktank-in-30s", "fullstack-engineer-in-30s"]
 ---
@@ -26,6 +27,11 @@ Salesforceコンサルタントの採用企業は大きく2種類に分類でき
 一方、ユーザー企業側では、Salesforceの運用改善・社内展開のリードといった役割が多く、外部ベンダーの管理やビジネス側との橋渡しができる人材が評価されやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## 求められるスキルセットと資格の位置づけ
 
@@ -108,6 +114,11 @@ Salesforceコンサルタントの職務経歴書において、プロジェク�
 これらはいずれも、技術力よりも判断力・対人スキル・組織への適合性を問う設問だ。30代以降の面接では、経験の多さより「その経験からどう考えるか」が評価の中心になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

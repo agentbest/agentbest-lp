@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["テックリード", "未経験転職"]
 pubDate: 2026-07-04
 slug: "tech-lead-from-scratch"
+hub: "tech-lead"
 image: "/images/media/tech-lead-from-scratch.png"
 related: ["tech-lead-salary-600", "tech-lead-company-size", "tech-lead-work-style", "bridge-se-from-scratch", "dx-consultant-from-scratch"]
 ---
@@ -30,6 +31,11 @@ related: ["tech-lead-salary-600", "tech-lead-company-size", "tech-lead-work-styl
 重要なのは、テックリードは「最も優れたコーダー」ではなく、「チームが最良の技術的意思決定を下せるように機能する人」だという点です。コーディングスキルは必要条件ですが、それだけでは十分条件になりません。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 「未経験」の定義を分けて考える
 
@@ -114,6 +120,11 @@ related: ["tech-lead-salary-600", "tech-lead-company-size", "tech-lead-work-styl
 年収レンジは組織の規模・フェーズ・スタックによって幅があり、目安として年収800万〜1,500万円程度の求人が多く見られますが、スタートアップとエンタープライズ、あるいは外資系企業では大きく差が出やすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

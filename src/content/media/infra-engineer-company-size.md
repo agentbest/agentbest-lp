@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["インフラエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "infra-engineer-company-size"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-company-size.png"
 related: ["infra-engineer-from-scratch", "infra-engineer-in-20s", "infra-engineer-salary", "data-analyst-company-size", "corporate-planning-company-size"]
 ---
@@ -20,6 +21,11 @@ related: ["infra-engineer-from-scratch", "infra-engineer-in-20s", "infra-enginee
 大手企業のインフラ環境は、多くの場合すでに構築済みの基盤が存在する。担当領域は職能別に細分化されており、ネットワーク担当・サーバー担当・クラウド担当といった形で役割が分かれていることが多い。意思決定には多層的な承認フローが介在するため、新しい技術の導入や構成変更には一定の時間がかかりやすい。
 
 一方、スタートアップのインフラ担当者は、少人数で広範な領域を担うことが一般的である。IaC（Infrastructure as Code）の整備、CI/CDパイプラインの構築、セキュリティポリシーの策定まで、一人が横断的に担当するケースも珍しくない。意思決定のサイクルが短いため、新技術の検証・導入を比較的迅速に試みやすい環境といえる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 環境別の比較：主要7軸で見る
 
@@ -81,6 +87,11 @@ related: ["infra-engineer-from-scratch", "infra-engineer-in-20s", "infra-enginee
 
 **3. 数年後にどのポジションで市場に立ちたいか**
 クラウドアーキテクト・SREリード・インフラマネージャーなど、目指すポジションによって必要な経験の種類が異なる。逆算して環境を選ぶ視点が有効である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

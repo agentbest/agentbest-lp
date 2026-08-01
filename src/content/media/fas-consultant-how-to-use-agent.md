@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["会計・財務コンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "fas-consultant-how-to-use-agent"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-how-to-use-agent.png"
 related: ["fas-consultant-company-size", "fas-consultant-work-style", "fas-consultant-skills", "post-consultant-how-to-use-agent", "presales-how-to-use-agent"]
 ---
@@ -30,6 +31,11 @@ related: ["fas-consultant-company-size", "fas-consultant-work-style", "fas-consu
 この職種の採用プロセスは、一般的なコンサルタント職よりも技術的な評価ウェイトが高い傾向がある。財務モデリングの実務経験・会計基準への精通・ケーススタディへの対応力といった要素が複合的に問われるため、「どのポジションに何が求められているか」を事前に把握していないと、準備の方向性が大きくずれるリスクがある。エージェントが採用担当者や面接官と継続的なリレーションを持っていれば、公式の求人票には書かれていない評価軸を事前に入手しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## 転職エージェントを使うことで得られる実質的なメリット
 
@@ -87,6 +93,11 @@ related: ["fas-consultant-company-size", "fas-consultant-work-style", "fas-consu
 会計・財務コンサルタントとしての専門性が高い場合、エージェントに依存しすぎず、業界内のネットワーク（元同僚・勉強会・専門家コミュニティ）からの情報も並行して収集することで、より全体像を把握しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

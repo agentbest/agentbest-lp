@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["セキュリティエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "security-engineer-in-20s"
+hub: "security-engineer"
 image: "/images/media/security-engineer-in-20s.png"
 related: ["security-engineer-company-size", "security-engineer-failure", "security-engineer-motivation", "data-scientist-in-20s", "erp-consultant-in-20s"]
 ---
@@ -24,6 +25,11 @@ related: ["security-engineer-company-size", "security-engineer-failure", "securi
 ただし「20代なら誰でも転職できる」という話ではない。求められる最低限の技術素地と、職種選択の精度が転職成否を分ける。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用の実態：企業は何を見ているか
 
@@ -109,6 +115,11 @@ related: ["security-engineer-company-size", "security-engineer-failure", "securi
 このケースが示すのは、「実務ゼロでも、インフラ素地＋自習の証跡＋説明能力」の組み合わせがポテンシャル採用において機能するという構造だ。転職後の成長速度は本人の自走力に大きく依存する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

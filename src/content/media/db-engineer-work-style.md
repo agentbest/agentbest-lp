@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["データベースエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "db-engineer-work-style"
+hub: "db-engineer"
 image: "/images/media/db-engineer-work-style.png"
 related: ["db-engineer-salary", "db-engineer-in-20s", "db-engineer-from-scratch", "infra-engineer-work-style", "legal-work-style"]
 ---
@@ -29,6 +30,11 @@ DBエンジニアという職種は、大きく分けて以下の4つの業務�
 同じ「DBエンジニア」という肩書きであっても、この4領域のどこを担うかによって、日常の業務リズムは大きく変わる。求人票や面接では、どの領域が主軸かを確認することが、入社後のギャップを防ぐうえで重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度のリアル：フェーズと業種による構造的な差異
 
@@ -95,6 +101,11 @@ SaaS企業やクラウドネイティブな開発組織では、フルリモー�
 このケースが示すように、転職による働き方の改善は実現しやすい反面、技術的成長機会とのトレードオフが生じる場合もある。自分が何を優先するかを明確にしたうえでの転職活動が重要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

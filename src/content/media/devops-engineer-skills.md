@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["DevOpsエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "devops-engineer-skills"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-skills.png"
 related: ["devops-engineer-in-30s", "devops-engineer-failure", "devops-engineer-company-size", "ml-engineer-skills", "scm-consultant-skills"]
 ---
@@ -28,6 +29,11 @@ DevOpsエンジニアに必要なスキルは、大きく「技術スキル」�
 - **スクリプティング・プログラミング**：自動化・ツール開発のための言語スキル
 
 プロセス・方法論の領域には、アジャイル・スクラムの理解、SRE（Site Reliability Engineering）の概念、変更管理プロセスなどが含まれる。ソフトスキルとしては、開発チームとの協働能力、障害対応時の意思決定力、ドキュメンテーションの習慣が挙げられる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル別の市場評価と優先順位
 
@@ -87,6 +93,11 @@ SaaSプロダクトの開発エンジニアとして5年勤務後、DevOpsへ移
 DevOpsの本来の目的は、開発から運用までのフローを継続的に改善することにある。優れた自動化パイプラインも、それを維持・拡張できるドキュメントと運用基準がなければ、属人化して組織資産になりにくい。
 
 このスキルは単独で評価されることは少ないが、シニアレベルへの昇格・昇給や、スタッフエンジニア・テックリードとしての評価において重要な差別化要因となる傾向がある。応募書類や面接では、「何を作ったか」と同時に「何を組織に残したか」を語れると、一段上の評価を得やすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

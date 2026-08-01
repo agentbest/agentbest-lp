@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["インフラエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "infra-engineer-failure"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-failure.png"
 related: ["infra-engineer-in-30s", "infra-engineer-certification", "infra-engineer-market-trend", "hrbp-failure", "frontend-engineer-failure"]
 ---
@@ -42,6 +43,11 @@ AWS・Terraformを全面採用している企業でも、既存システムの�
 インフラエンジニア特有の問題として、夜間や休日の緊急対応義務が挙げられる。SLAの水準や稼働システムの重要度によっては、週次・月次での待機ローテーションが発生する。この実態は、求人票に明示されないことも多く、内定後に契約書や雇用条件通知書をよく読んで初めて気づく場合もある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-failure">無料で相談する</a>
+</aside>
 
 ## 失敗パターンと頻出度の整理
 
@@ -112,6 +118,11 @@ AWS・Terraformを全面採用している企業でも、既存システムの�
 - [ ] 障害発生時の責任の取り方・ポストモーテム文化の有無を確認したか
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

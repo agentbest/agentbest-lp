@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["エンジニアリングマネージャー", "年収相場"]
 pubDate: 2026-07-04
 slug: "engineering-manager-salary"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-salary.png"
 related: ["engineering-manager-career-path", "engineering-manager-resume", "engineering-manager-english", "embedded-engineer-salary", "product-manager-salary"]
 ---
@@ -33,6 +34,11 @@ EMの年収は、大きく「組織の種類」と「ポジションのレイヤ
 - **ポジション名よりも「管轄範囲」が報酬の規定要因になる**：チーム規模・採用権限の有無・組織設計への関与度が、同じ「EM」という肩書きでも年収に数百万円の差をもたらす要因となります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-salary">無料で相談する</a>
+</aside>
 
 ## 年収を左右する5つの構造的要因
 
@@ -104,6 +110,11 @@ EMとしての経験は、採用面では以下の観点で評価されます。
 EMというロールは、市場の需給が変化しやすく、2〜3年前と現在では求人の質・量・報酬水準が変化しています。積極的に転職意向がなくても、年に一度程度は市場で自身の評価を確認することが、報酬交渉や社内での位置取りの判断材料として機能します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

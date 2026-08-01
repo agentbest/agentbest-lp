@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["インサイドセールス", "資格"]
 pubDate: 2026-07-03
 slug: "inside-sales-certification"
+hub: "inside-sales"
 image: "/images/media/inside-sales-certification.png"
 related: ["inside-sales-resume", "inside-sales-salary-1000", "inside-sales-from-scratch", "recruiter-certification", "hrbp-certification"]
 ---
@@ -22,6 +23,11 @@ related: ["inside-sales-resume", "inside-sales-salary-1000", "inside-sales-from-
 この構造を最初に理解しておくことが重要である。資格は「ないと困る」ものではなく、「あると一定の補完になる場合がある」ものとして位置づけるのが適切だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価の文脈で資格が機能する3つの場面
 
@@ -85,6 +91,11 @@ IT系の企業に転職するにあたり、「IT知識を示したい」とい�
 資格の有無よりも、「SaaS的な商談プロセスを理解している」という文脈でのスキル提示が、採用担当者へのメッセージとして伝わりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

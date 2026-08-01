@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["データアナリスト", "働き方"]
 pubDate: 2026-07-04
 slug: "data-analyst-work-style"
+hub: "data-analyst"
 image: "/images/media/data-analyst-work-style.png"
 related: ["data-analyst-certification", "data-analyst-career-path", "data-analyst-in-20s", "bizdev-work-style", "ma-advisor-work-style"]
 ---
@@ -38,6 +39,11 @@ related: ["data-analyst-certification", "data-analyst-career-path", "data-analys
 分析レポートの定期的な作成が主業務なのか、経営層への戦略提言まで求められるのかによっても、業務の質と量が変わります。「分析を出して終わり」ではなく「分析結果をもとにアクションを推進する」ことが求められる役割では、会議・資料作成・ステークホルダー調整も業務の一部になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-work-style">無料で相談する</a>
+</aside>
 
 ## 残業実態：月平均の目安と繁忙期の構造
 
@@ -89,6 +95,11 @@ related: ["data-analyst-certification", "data-analyst-career-path", "data-analys
 この型は比較的安定した局面の例であり、プロダクトリリース直前や重要施策の意思決定が迫る時期には、依頼の密度が上がり、残業が発生しやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

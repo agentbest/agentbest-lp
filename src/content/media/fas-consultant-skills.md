@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["会計・財務コンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "fas-consultant-skills"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-skills.png"
 related: ["fas-consultant-salary", "fas-consultant-english", "fas-consultant-failure", "hrbp-skills", "pr-skills"]
 ---
@@ -28,6 +29,11 @@ related: ["fas-consultant-salary", "fas-consultant-english", "fas-consultant-fai
 採用市場では、3層をすべて兼ね備えた人材は希少であり、どの層に強みを持つかによって、適した案件タイプや年収レンジが異なる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-skills">無料で相談する</a>
+</aside>
 
 ## 三層別：スキルの優先順位と市場価値への影響
 
@@ -113,6 +119,11 @@ CFOや経営企画部長といったクライアント上位層とのコミュ�
 この事例は、特定のスキル層が突出していても、他の層が不足していると昇格評価に影響しやすいことを示している。会計・財務領域は専門職であるため、テクニカルスキルへの自己投資に傾きがちだが、キャリアの進行とともにスキルポートフォリオを意識的に再バランスする視点が重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

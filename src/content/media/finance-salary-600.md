@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["財務・経理", "年収600万"]
 pubDate: 2026-07-04
 slug: "finance-salary-600"
+hub: "finance"
 image: "/images/media/finance-salary-600.png"
 related: ["finance-resume", "finance-motivation", "finance-skills", "embedded-engineer-salary-600", "data-engineer-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["finance-resume", "finance-motivation", "finance-skills", "embedded-en
 このレンジを見ると、600万円という水準は「担当業務を高精度にこなせる人材」から「業務を設計・管理できる人材」への移行期に相当します。ここで重要なのは、スキルの「量」ではなく「質の転換」が求められるという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁が生まれる構造的な理由
 
@@ -103,6 +109,11 @@ IFRSに関しては、IFRS導入・移行プロジェクトへの参加経験が
 このケースのポイントは、「資格を増やす」「経験年数を積む」ではなく「業務の幅を上流に広げる」という方向性で動いた点にあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

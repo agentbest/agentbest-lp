@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["総合コンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "big4-consultant-how-to-use-agent"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-how-to-use-agent.png"
 related: ["big4-consultant-salary", "big4-consultant-skills", "big4-consultant-in-20s", "risk-consultant-how-to-use-agent", "backend-engineer-how-to-use-agent"]
 ---
@@ -28,6 +29,11 @@ BIG4（大手監査法人系コンサルティングファーム）をはじめ�
 総合コンサルタントの選考は、一般的な事業会社と比較して構造化の度合いが高い。ケース面接・フェルミ推定・パーソナルヒストリー面接・英語力確認など、複数の評価軸が複数ラウンドにわたって設定されることが多い。
 
 この複雑さゆえに、ファーム固有の評価基準を熟知した支援者の存在が選考通過率に影響しやすい。どのラウンドで何が評価されるか、フィードバックをどう次ラウンドに活かすかといった情報は、実績のあるエージェントから得られる場合がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを活用すべき具体的な理由
 
@@ -83,6 +89,11 @@ BIG4（大手監査法人系コンサルティングファーム）をはじめ�
 
 **フェーズ3：オファー交渉（グレード認定が焦点）**
 事業会社出身者の場合、コンサルファームのラダー（Analyst/Consultant/Senior Consultant/Manager等）のどこに認定されるかは、過去の年収と切り離して考える必要がある。エージェントが類似バックグラウンドを持つ候補者の事例をもとに、適切なグレードを主張することで、初期グレードが一段上がるケースがある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

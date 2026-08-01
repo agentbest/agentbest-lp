@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["機械学習エンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "ml-engineer-english"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-english.png"
 related: ["ml-engineer-resume", "ml-engineer-in-30s", "ml-engineer-from-scratch", "game-engineer-english", "legal-english"]
 ---
@@ -35,6 +36,11 @@ related: ["ml-engineer-resume", "ml-engineer-in-30s", "ml-engineer-from-scratch"
 こうした環境では、リーディングとライティングに加えて、一定のリスニング・スピーキング能力が実務で機能します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力の水準別に見る求人・年収の傾向
 
@@ -82,6 +88,11 @@ TOEIC等のスコアが求人票に明記されることは外資系でも多く
 こうした移行を経ると、年収レンジが200〜400万円程度上昇するケースが市場では散見されます。ただしこれは英語力単体の効果ではなく、グローバル環境への移行に伴う職種・企業規模の変化が複合的に作用した結果です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

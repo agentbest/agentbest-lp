@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["組み込みエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-career-path"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-career-path.png"
 related: ["embedded-engineer-in-30s", "embedded-engineer-future", "embedded-engineer-motivation", "corporate-it-career-path", "data-consultant-career-path"]
 ---
@@ -23,6 +24,11 @@ related: ["embedded-engineer-in-30s", "embedded-engineer-future", "embedded-engi
 - デバッグ・検証・量産対応など品質保証プロセスの知識
 
 この段階になると、「現在の専門性をどう方向付けるか」という問いが避けられなくなります。ソフトウェア系エンジニアに比べ、組み込みは転職市場での可視性が低く、自分の市場価値が見えにくいという特性もあります。だからこそ、キャリアの方向性を意識的に設計する必要があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-career-path">無料で相談する</a>
+</aside>
 
 ## 主要なキャリアパスの全体像
 
@@ -87,6 +93,11 @@ related: ["embedded-engineer-in-30s", "embedded-engineer-future", "embedded-engi
 - 転職市場ではリーダー経験をプロジェクトの規模・成果とともに言語化することが、第一関門として重要
 
 このケースが示すのは、「スペシャリストかマネージャーか」を二択で捉えるのではなく、現在地の経験資産を最大化しながら次の選択肢を確保するという考え方の重要性です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

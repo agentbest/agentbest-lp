@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["エンジニアリングマネージャー", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "engineering-manager-career-path"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-career-path.png"
 related: ["engineering-manager-in-30s", "engineering-manager-motivation", "engineering-manager-market-trend", "embedded-engineer-career-path", "data-scientist-career-path"]
 ---
@@ -24,6 +25,11 @@ EMとは、ソフトウェアエンジニアのチームを束ね、採用・評
 EMの特徴は、純粋な技術職でも純粋な管理職でもない点にある。技術的な判断に一定の理解と関与を求められながら、同時にピープルマネジメントやチームパフォーマンスの最大化を主たる責任として負う。この二軸の緊張関係が、キャリア設計の難しさと豊かさを生んでいる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-career-path">キャリアを相談する</a>
+</aside>
 
 ## EMが30代で直面する分岐点
 
@@ -108,6 +114,11 @@ EMとして経験を積む中で、自分のパフォーマンスが最も高ま
 これらの問いに対する答えが、パスの方向を絞る手がかりとなる。自己認識が曖昧なまま外部からの期待やタイトルに引っ張られてキャリアを選ぶと、ミスマッチが顕在化しやすいため注意が必要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

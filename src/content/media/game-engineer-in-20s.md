@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["ゲームエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "game-engineer-in-20s"
+hub: "game-engineer"
 image: "/images/media/game-engineer-in-20s.png"
 related: ["game-engineer-salary", "game-engineer-salary-1000", "game-engineer-skills", "hr-consultant-in-20s", "mobile-engineer-in-20s"]
 ---
@@ -34,6 +35,11 @@ related: ["game-engineer-salary", "game-engineer-salary-1000", "game-engineer-sk
 中小規模のゲーム会社やインディースタジオでは、クライアント・サーバーの両方をカバーするフルスタック気質のエンジニアが求められるケースもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## 20代転職においてポテンシャル採用が成立する理由
 
@@ -109,6 +115,11 @@ SaaS系スタートアップで2年間、GoとAWSを用いたAPI開発・イン�
 既存のITサービス会社がゲーム事業に参入しているケースでは、エンジニア組織の文化や評価制度がWeb業界に近い形で整備されている場合があります。Web系エンジニアとしての経験が活かしやすく、処遇面でも交渉しやすい環境になりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

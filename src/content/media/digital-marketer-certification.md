@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["デジタルマーケター", "資格"]
 pubDate: 2026-07-04
 slug: "digital-marketer-certification"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-certification.png"
 related: ["digital-marketer-from-scratch", "digital-marketer-in-30s", "digital-marketer-salary-600", "pr-certification", "recruiter-certification"]
 ---
@@ -26,6 +27,11 @@ related: ["digital-marketer-from-scratch", "digital-marketer-in-30s", "digital-m
 この前提を踏まえたうえで、資格を整理していきたい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 資格の分類：機能する場面と限界
 
@@ -86,6 +92,11 @@ BtoB SaaSやインバウンドマーケティングに特化した文脈では�
 この場合、資格が「代替実績」として機能しているのではなく、「既存の経験に意味づけをする補助材料」として機能している点が重要だ。あくまで主役は職務経歴であり、資格は脇を固める役割にとどまる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["Webマーケター", "面接対策"]
 pubDate: 2026-07-04
 slug: "web-marketer-interview"
+hub: "web-marketer"
 image: "/images/media/web-marketer-interview.png"
 related: ["web-marketer-from-scratch", "web-marketer-english", "web-marketer-in-30s", "hrbp-interview", "freelance-consultant-interview"]
 ---
@@ -38,6 +39,11 @@ Webマーケターの面接対策は、「成果をどう語るか」という�
 多くの候補者は「実務スキル層」の準備には熱心だが、「思考・判断層」と「文脈・動機層」の準備が薄くなりやすい。高い評価を得るためには三層すべてを整合させる必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -104,6 +110,11 @@ Webマーケターの面接対策は、「成果をどう語るか」という�
 志望企業のWebサイト・SNS・広告出稿状況・コンテンツ資産などを事前にリサーチしておくことで、「現状の課題と自分が貢献できる領域」を具体的に語れるようになる。これは「御社に貢献したい」という抽象的な意欲表明を、構造的な提案に変換するためのインプットになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["SRE", "志望動機"]
 pubDate: 2026-07-04
 slug: "sre-motivation"
+hub: "sre"
 image: "/images/media/sre-motivation.png"
 related: ["sre-company-size", "sre-in-20s", "sre-skills", "big4-consultant-motivation", "devops-engineer-motivation"]
 ---
@@ -34,6 +35,11 @@ SREは開発速度と信頼性のバランスを継続的に交渉・調整す�
 SREはSLO達成率・MTTR・デプロイ頻度といった定量指標で仕事の成果を語ります。志望動機においても「〜を改善した」という記述に数値や規模感が伴っていると、現場とのコミュニケーションスタイルが合致していると判断されやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -85,6 +91,11 @@ SREはSLO達成率・MTTR・デプロイ頻度といった定量指標で仕事�
 「前職では運用が属人的で限界を感じた」という表現が志望動機の主軸になると、「環境への不満から転職している」という印象を与えます。前職の課題を言及する場合は、それに対して自分がどう動いたか（提案・実行・学習）という行動の記述とセットにすることが必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["事業開発", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "bizdev-how-to-use-agent"
+hub: "bizdev"
 image: "/images/media/bizdev-how-to-use-agent.png"
 related: ["bizdev-salary", "bizdev-in-20s", "bizdev-salary-1000", "qa-engineer-how-to-use-agent", "backend-engineer-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["bizdev-salary", "bizdev-in-20s", "bizdev-salary-1000", "qa-engineer-h
 こうした候補者にとって、エージェントが持つ「企業の内部情報」「採用担当者のレベル感」「現職社員のキャリアパスの実態」は、意思決定の精度を上げるうえで実質的な価値を持つ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを使うべき具体的な理由
 
@@ -96,6 +102,11 @@ related: ["bizdev-salary", "bizdev-in-20s", "bizdev-salary-1000", "qa-engineer-h
 この型は、コンサル出身者に限らず、PM・IBD出身者がBizDevに転じる際にも同様の構造として現れやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

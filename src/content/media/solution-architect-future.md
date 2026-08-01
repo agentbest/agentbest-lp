@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["ソリューションアーキテクト", "将来性"]
 pubDate: 2026-07-04
 slug: "solution-architect-future"
+hub: "solution-architect"
 image: "/images/media/solution-architect-future.png"
 related: ["solution-architect-certification", "solution-architect-how-to-use-agent", "solution-architect-company-size", "engineering-manager-future", "db-engineer-future"]
 ---
@@ -28,6 +29,11 @@ related: ["solution-architect-certification", "solution-architect-how-to-use-age
 **第三に、AIを活用したシステムの設計需要。** 生成AIや機械学習モデルを既存システムに組み込む案件が急増しており、それを安全・安定的に動かす基盤設計の重要性が増している。これはSAの新たな専門領域として定着しつつある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-future">無料で相談する</a>
+</aside>
 
 ## AI時代における「代替リスク」の正確な読み方
 
@@ -91,6 +97,11 @@ SAのキャリアは、技術的な専門性を深める方向と、より広い
 このパターンが示すのは、日常業務の延長線上にあるAI関連プロジェクトへの積極的な参画が、SA自身の市場価値を実質的に更新する機会になりうるという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

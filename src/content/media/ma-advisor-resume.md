@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["M&Aアドバイザー", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "ma-advisor-resume"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-resume.png"
 related: ["ma-advisor-career-guide", "ma-advisor-skills", "ma-advisor-from-scratch", "inside-sales-resume", "scm-consultant-resume"]
 ---
@@ -28,6 +29,11 @@ M&Aアドバイザーの採用担当者（バンカー出身者・プリンシ�
 この三点を意識しないまま「〇〇社の買収案件に携わりました」という記述を並べても、書類審査では定性的な印象しか残らない。担当者が一読して「このアドバイザーをどのフェーズに配置できるか」をイメージできる書き方が求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -126,6 +132,11 @@ M&Aアドバイザーの職務経歴書は、以下の構成を基本とする�
 改善後、ブティックファームからは書類通過、PEファンドからは一次面接通過の結果を得た。PEファンドについては面接段階でLBO分析の実務経験不足が確認されたが、書類段階での評価は改善されている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

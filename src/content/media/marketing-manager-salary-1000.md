@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["マーケティングマネージャー", "年収1000万"]
 pubDate: 2026-07-04
 slug: "marketing-manager-salary-1000"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-salary-1000.png"
 related: ["marketing-manager-work-style", "marketing-manager-in-30s", "marketing-manager-certification", "product-manager-salary-1000", "scm-consultant-salary-1000"]
 ---
@@ -33,6 +34,11 @@ related: ["marketing-manager-work-style", "marketing-manager-in-30s", "marketing
 この表が示すように、年収1,000万円到達の可能性は「職種名」ではなく「どの市場・事業環境で何を担うか」に強く依存する。国内の中小・ベンチャー企業では、どれほど高い専門性があっても報酬の天井が構造的に低い場合がある。一方、外資系テクノロジー企業ではマネージャー職での到達は珍しくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 到達者に共通する3つの軸
 
@@ -111,6 +117,11 @@ related: ["marketing-manager-work-style", "marketing-manager-in-30s", "marketing
 現職での実質的な職責と、報酬・肩書きの間にギャップがある状態は、転職市場では「割安な人材」として映る場合がある。それを顕在化させるためには、職責と成果を言語化・数値化するプロセスが不可欠である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

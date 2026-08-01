@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["業務コンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "business-consultant-how-to-use-agent"
+hub: "business-consultant"
 image: "/images/media/business-consultant-how-to-use-agent.png"
 related: ["business-consultant-certification", "business-consultant-salary", "business-consultant-in-20s", "pmo-consultant-how-to-use-agent", "recruiter-how-to-use-agent"]
 ---
@@ -38,6 +39,11 @@ related: ["business-consultant-certification", "business-consultant-salary", "bu
 業務コンサルタントの年収は、スキルセット・業種経験・前職のポジションによって幅があり、同じ経験年数でも提示額に差が出やすいポジションです。エージェントは複数の候補者を紹介する立場から、企業側の採用予算の上限や交渉余地を把握していることが多く、個人が直接交渉するよりも情報格差を埋めやすい構造になっています。ただし、エージェントの利益と求職者の利益が完全に一致するわけではない点は、後述する「選び方」の文脈で意識しておく必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## 業務コンサルタント転職における主な選択肢の比較
 
@@ -92,6 +98,11 @@ related: ["business-consultant-certification", "business-consultant-salary", "bu
 事業会社での経験は「業務コンサルスキル」として整理し直す作業が必要で、それを理解したエージェントとの対話が、職務経歴書の構成と面接での語り方を変えた。求人の数よりも「自分の経験を正しく翻訳できる担当者かどうか」が、転職の質を左右した事例と言えます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

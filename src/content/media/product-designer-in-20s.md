@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["プロダクトデザイナー", "20代転職"]
 pubDate: 2026-07-04
 slug: "product-designer-in-20s"
+hub: "product-designer"
 image: "/images/media/product-designer-in-20s.png"
 related: ["product-designer-company-size", "product-designer-salary-1000", "product-designer-english", "corporate-it-in-20s", "it-consultant-in-20s"]
 ---
@@ -20,6 +21,11 @@ related: ["product-designer-company-size", "product-designer-salary-1000", "prod
 この記事では、20代のプロダクトデザイナー転職における市場構造・ポテンシャル採用の実態・評価されやすいポートフォリオの傾向・狙い目となる企業の特徴・転職時期の考え方を順に整理します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## プロダクトデザイナー市場の構造と20代の立ち位置
 
@@ -138,6 +144,11 @@ related: ["product-designer-company-size", "product-designer-salary-1000", "prod
 | OSS・個人プロジェクト | 自己主導のデザインプロセスが示せる | 完成度よりもプロセスの可視化が重要 |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["プロダクトマネージャー", "30代転職"]
 pubDate: 2026-07-04
 slug: "product-manager-in-30s"
+hub: "product-manager"
 image: "/images/media/product-manager-in-30s.png"
 related: ["product-manager-how-to-use-agent", "product-manager-future", "product-manager-company-size", "project-manager-in-30s", "data-scientist-in-30s"]
 ---
@@ -18,6 +19,11 @@ related: ["product-manager-how-to-use-agent", "product-manager-future", "product
 本稿では、30代PdM転職において企業側が何を即戦力と定義しているか、どのようなバックグラウンドが評価されやすいか、年収帯の目安と交渉の論点、そしてよくある選考上の落とし穴を、実務的な観点から整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-in-30s">無料で相談する</a>
+</aside>
 
 ## 企業が「即戦力PdM」に期待するもの
 
@@ -113,6 +119,11 @@ IT系事業会社でWebサービス開発に約7年携わり、後半3年はテ�
 「良いプロダクトとは何か」「PdMの役割をどう定義しているか」は、特に30代以上の採用で問われやすい。一般論ではなく、自分が経験から得た考え方として言語化しておくことが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

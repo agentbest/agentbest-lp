@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["経営企画", "志望動機"]
 pubDate: 2026-07-04
 slug: "corporate-planning-motivation"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-motivation.png"
 related: ["corporate-planning-company-size", "corporate-planning-salary", "corporate-planning-resume", "big4-consultant-motivation", "pmo-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["corporate-planning-company-size", "corporate-planning-salary", "corpo
 志望動機の文章は、この2軸に対する「再現性の根拠」を示す場として機能します。単なる動機の説明ではなく、「自分がその職種で機能する理由」を論証する文書として設計することが求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の4要素
 
@@ -115,6 +121,11 @@ related: ["corporate-planning-company-size", "corporate-planning-salary", "corpo
 書類の場合は、前述の4要素のうち①②③を優先して盛り込み、④は面接での補足として残す構成が扱いやすいと言えます。特に「②経営企画への接続」は文字数を使ってでも明確にすることが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

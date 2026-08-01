@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["プラットフォームエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "platform-engineer-salary-600"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-salary-600.png"
 related: ["platform-engineer-in-30s", "platform-engineer-market-trend", "platform-engineer-from-scratch", "infra-engineer-salary-600", "salesforce-consultant-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["platform-engineer-in-30s", "platform-engineer-market-trend", "platfor
 600万円という水準は、ミドルの入口から中盤に相当する。ここで滞留しやすいのは、技術的なアウトプットが出せていても「評価される貢献の形」が変わっていないケースである。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -98,6 +104,11 @@ related: ["platform-engineer-in-30s", "platform-engineer-market-trend", "platfor
 このケースが示すように、年収600万円の壁は技術力の不足よりも「評価される貢献の形への転換」で突破できるケースが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

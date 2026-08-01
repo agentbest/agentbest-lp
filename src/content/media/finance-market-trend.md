@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["財務・経理", "市場動向"]
 pubDate: 2026-07-04
 slug: "finance-market-trend"
+hub: "finance"
 image: "/images/media/finance-market-trend.png"
 related: ["finance-from-scratch", "finance-salary-1000", "finance-career-guide", "uiux-designer-market-trend", "business-consultant-market-trend"]
 ---
@@ -24,6 +25,11 @@ related: ["finance-from-scratch", "finance-salary-1000", "finance-career-guide",
 求職者にとって重要なのは、この二極の「どちらの文脈で自身が評価されるか」を正確に把握することです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用ニーズの変化：何が求められているか
 
@@ -103,6 +109,11 @@ USCPA（米国公認会計士）は、外資系企業・グローバル企業へ
 同じ経理職でも、外資系メーカー・コンサルティングファーム・スタートアップ・事業会社メーカーでは報酬体系・業務内容・昇進スピードが異なります。自身の志向（安定・成長・挑戦）と照らし合わせて、どの業種・フェーズの企業を主軸に探すかを明確にしておくことが、軸のある転職活動につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

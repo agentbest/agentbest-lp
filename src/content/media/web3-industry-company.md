@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["Web3・ブロックチェーン", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "web3-industry-company"
+hub: "web3-industry"
 image: "/images/media/web3-industry-company.png"
 related: ["web3-industry-guide", "web3-industry-career", "web3-industry-salary", "saas-industry-company", "logitech-industry-company"]
 ---
@@ -26,6 +27,11 @@ Web3・ブロックチェーン業界への転職を検討する際、最初に�
 また、規制リスクも業界固有の要素である。各国の法制度はブロックチェーン関連事業に対して現在も整備が続いており、規制の解釈によって事業モデルの修正を余儀なくされるケースがある。日本国内でも金融商品取引法や資金決済法の解釈が事業範囲に直結するため、法務体制の整備状況は企業評価の一要素となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業評価で見るべき6つの指標
 
@@ -96,6 +102,11 @@ Web3プロジェクトの価値の一部は、開発者コミュニティの活�
 このような多角的な確認を経ることで、表面的な情報だけでは見えにくいリスクを事前に把握しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-company">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

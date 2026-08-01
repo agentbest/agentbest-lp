@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["データ・アナリティクスコンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "data-consultant-motivation"
+hub: "data-consultant"
 image: "/images/media/data-consultant-motivation.png"
 related: ["data-consultant-future", "data-consultant-market-trend", "data-consultant-company-size", "data-analyst-motivation", "strategy-consultant-motivation"]
 ---
@@ -22,6 +23,11 @@ related: ["data-consultant-future", "data-consultant-market-trend", "data-consul
 二点目は**志望の特異性**である。「なぜコンサルティングか」「なぜデータ・アナリティクス領域か」「なぜ自社か」という三層の問いに対し、過去の経験や問題意識から導かれた固有の答えがあるかどうかが見られる。汎用的な記述は多くの応募者から提出されるため、採用担当者が読み進めるインセンティブが生まれにくい。
 
 三点目は**入社後の貢献可能性**への示唆である。特に中途採用では、現時点のスキルセットと志望理由が接続されていることが重要になる。前職での経験がどう活きるか、あるいは現在の力不足をどう補う計画があるかを、具体的な文脈で示せているかどうかが評価軸になりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## NGパターンとその構造的な問題
 
@@ -75,6 +81,11 @@ related: ["data-consultant-future", "data-consultant-market-trend", "data-consul
 **解説**
 
 この例文では、「何に限界を感じたか（課題意識）」→「なぜコンサルという形態か（外部理由）」→「なぜデータ・アナリティクスか（スキルとの接続）」→「入社後の貢献と成長（双方向性）」という流れが自然に形成されている。特に「問いの設計精度が成果を左右する」という具体的な気づきが、単なる興味関心ではなく業務経験に根差した動機であることを示している点が評価される。また、「製造・小売領域」という言及は、企業研究に基づいた記述として機能しており、応募企業への特異性を補完している。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

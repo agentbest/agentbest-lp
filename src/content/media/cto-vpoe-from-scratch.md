@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["CTO・VPoE候補", "未経験転職"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-from-scratch"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-from-scratch.png"
 related: ["cto-vpoe-work-style", "cto-vpoe-career-path", "cto-vpoe-motivation", "game-engineer-from-scratch", "ai-engineer-from-scratch"]
 ---
@@ -26,6 +27,11 @@ related: ["cto-vpoe-work-style", "cto-vpoe-career-path", "cto-vpoe-motivation", 
 両者を兼務するケースも多く、特にシリーズA〜B規模のスタートアップでは一人が双方の機能を担うことが珍しくありません。ただし組織規模が拡大するにつれて分業が進む傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 求められるスキルの全体像
 
@@ -118,6 +124,11 @@ SaaS系スタートアップで5年間ソフトウェアエンジニアとして
 「VPoE候補」「エンジニアリングマネージャー（ゆくゆくVPoE）」という形での求人とのマッチ率が高まりやすく、年収は前職比で1〜2割程度の改善が目安となるケースが多い傾向があります（企業規模・フェーズによって大きく異なります）。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

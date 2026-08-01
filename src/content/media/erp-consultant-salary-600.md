@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["ERPコンサルタント", "年収600万"]
 pubDate: 2026-07-05
 slug: "erp-consultant-salary-600"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-salary-600.png"
 related: ["erp-consultant-failure", "erp-consultant-english", "erp-consultant-from-scratch", "salesforce-consultant-salary-600", "enterprise-sales-salary-600"]
 ---
@@ -34,6 +35,11 @@ SAPを除くERP製品（Oracle EBS / Oracle Fusion、Microsoft Dynamics 365、In
 600万円の壁が生じやすい理由は、コンサルタントフェーズの上限と、シニアコンサルタントフェーズの下限の間に「専門性の質的転換」を要するゾーンがあるためです。単に年次を重ねるだけでは、このゾーンを通過することが難しくなっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁になる要素
 
@@ -97,6 +103,11 @@ ERPプロジェクトは長期間にわたるチーム作業であるため、�
 **結果の方向性：** コンサルティングファームへの転職選考で650〜700万円水準でのオファーを得やすい状態に移行。経験の「言語化」と「上流参画実績」が評価の主因となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

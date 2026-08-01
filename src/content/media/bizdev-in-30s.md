@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["事業開発", "30代転職"]
 pubDate: 2026-07-04
 slug: "bizdev-in-30s"
+hub: "bizdev"
 image: "/images/media/bizdev-in-30s.png"
 related: ["bizdev-company-size", "bizdev-certification", "bizdev-english", "dx-consultant-in-30s", "dev-director-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["bizdev-company-size", "bizdev-certification", "bizdev-english", "dx-c
 - **関係構築力**：社内外のステークホルダーを動かすコミュニケーション・折衝力
 
 この三層がそろって初めて「30代の即戦力」として評価される傾向がある。逆に言えば、戦略は語れても実行設計が曖昧、あるいは実行はできても構造の言語化が弱いという候補者は、面接官の期待値を下回りやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 事業開発ポジションの類型と求められる経験値
 
@@ -106,6 +112,11 @@ related: ["bizdev-company-size", "bizdev-certification", "bizdev-english", "dx-c
 ### 想定年収レンジについて
 
 事業開発職の年収は、企業のフェーズ・規模・求人の階層によって幅が大きい。30代前半のプレイングマネージャー相当であれば年収600〜900万円台が一つの目安として語られることが多いが、スタートアップであればストックオプションとの組み合わせが多く、大手事業会社では職能等級による制約がある。あくまで市場の幅として認識しておくことが適切である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

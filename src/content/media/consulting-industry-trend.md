@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["コンサルティング", "業界動向"]
 pubDate: 2026-07-05
 slug: "consulting-industry-trend"
+hub: "consulting-industry"
 image: "/images/media/consulting-industry-trend.png"
 related: ["consulting-industry-salary", "consulting-industry-company", "consulting-industry-career", "hrtech-industry-trend", "edtech-industry-trend"]
 ---
@@ -32,6 +33,11 @@ related: ["consulting-industry-salary", "consulting-industry-company", "consulti
 非財務情報の開示義務の拡大を受け、ESG・サステナビリティ領域は単なるアドバイザリーから制度対応・内部統制の整備へと軸足が移りつつある。監査法人系・Big4系ファームでの採用が特に活発であり、法務・会計・環境エンジニアリングのバックグラウンドを持つ人材が評価されやすい状況が続いている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-trend">無料で相談する</a>
+</aside>
 
 ## ファーム類型別の成長性と採用動向
 
@@ -96,6 +102,11 @@ related: ["consulting-industry-salary", "consulting-industry-company", "consulti
 この型は、特に総合系・IT系ファームでの採用実績が多く、30代前半のキャリアチェンジとして現実的な選択肢の一つとなっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

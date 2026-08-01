@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["ヘルステック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "healthtech-industry-company"
+hub: "healthtech-industry"
 image: "/images/media/healthtech-industry-company.png"
 related: ["healthtech-industry-career", "healthtech-industry-salary", "healthtech-industry-guide", "ma-industry-company", "proptech-industry-company"]
 ---
@@ -35,6 +36,11 @@ related: ["healthtech-industry-career", "healthtech-industry-salary", "healthtec
 このうち、規制関与度が「高」に分類されるセグメントは、医療機器プログラム（SaMD）としての薬機法対応や、医療情報システムの安全管理ガイドライン準拠が事業の根幹に関わる。転職先として選ぶ場合、規制対応の専門性が組織に内製されているかどうかは、事業継続性と自身の業務環境に直結する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-company">無料で相談する</a>
+</aside>
 
 ## 見るべき指標：事業の持続性を確認する
 
@@ -88,6 +94,11 @@ related: ["healthtech-industry-career", "healthtech-industry-salary", "healthtec
 この例示においてCSのキャリアを活かした事業拡大が目的であれば、B社の方が顧客基盤の安定性・組織の専門性・自身の貢献余地のいずれにおいても適合度が高いと判断しやすい。調達額やメディア露出といった表面指標だけでは、こうした差異は見えにくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

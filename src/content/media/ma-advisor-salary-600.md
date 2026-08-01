@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["M&Aアドバイザー", "年収600万"]
 pubDate: 2026-07-04
 slug: "ma-advisor-salary-600"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-salary-600.png"
 related: ["ma-advisor-motivation", "ma-advisor-interview", "ma-advisor-career-path", "pmo-salary-600", "data-analyst-salary-600"]
 ---
@@ -30,6 +31,11 @@ M&Aアドバイザーの報酬は、固定給与と変動報酬（インセン�
 | FA特化型中堅ファーム | 固定＋成功報酬（中間） | 2〜4年目ごろ | 中〜高（案件規模依存） |
 
 ※上記は一般的な傾向・目安であり、個別ファームの制度や個人の実績によって大きく異なります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -68,6 +74,11 @@ M&Aアドバイザリーの現場では、特に若手のうちはリサーチ�
 ### スキルの体系化と専門セクターの確立
 
 年収600万円を超えた後にさらなる上昇を目指すうえでも、この段階での準備が効いてきます。財務モデリング・バリュエーション・法務知識の体系化に加え、特定セクターの業界知識を深めることで、「このセクターのM&AならあのアドバイザーまたはあのFA」という形で指名を受けやすくなります。専門セクターの確立は、中長期的なソーシング力の基盤になります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

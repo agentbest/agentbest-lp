@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["業務コンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "business-consultant-future"
+hub: "business-consultant"
 image: "/images/media/business-consultant-future.png"
 related: ["business-consultant-market-trend", "business-consultant-work-style", "business-consultant-company-size", "legal-future", "ma-advisor-future"]
 ---
@@ -30,6 +31,11 @@ related: ["business-consultant-market-trend", "business-consultant-work-style", 
 情報収集・整理の作業は、生成AIと業務特化ツールの普及によって確実に工数が圧縮される。クライアント企業が社内で完結できる範囲も広がりつつある。一方、変革推進層の業務は、組織の政治的力学の読み解きや、合意形成のプロセス設計など、人間のコンテクスト理解を必要とする業務が多い。この層は、AIがアシストできても代替しにくい領域として残り続けるとみられる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-future">キャリアを相談する</a>
+</aside>
 
 ## AI時代に生き残る業務コンサルタントの条件
 
@@ -90,6 +96,11 @@ SaaS導入や業務システムの刷新が増える中、業務コンサルタ�
 このケースに共通するのは、「業界ドメイン×IT翻訳力×AI活用の実装」という三軸を組み合わせた価値提供への移行だ。一つひとつは特別なスキルではないが、組み合わせによって市場内で代替されにくいポジションが形成されている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

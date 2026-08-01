@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["ポストコンサル", "大手vsスタートアップ"]
 pubDate: 2026-07-05
 slug: "post-consultant-company-size"
+hub: "post-consultant"
 image: "/images/media/post-consultant-company-size.png"
 related: ["post-consultant-career-guide", "post-consultant-in-20s", "post-consultant-future", "business-consultant-company-size", "bizdev-company-size"]
 ---
@@ -22,6 +23,11 @@ related: ["post-consultant-career-guide", "post-consultant-in-20s", "post-consul
 - **経済的リターンの獲得**：ストックオプションやボーナス等、コンサルとは異なる報酬構造を享受したい
 
 この三つの動機が、大手企業とスタートアップではまったく異なる形で充足される。どの動機に優先順位を置くかを自覚することが、選択の出発点になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## 大手企業とスタートアップの構造的な違い
 
@@ -93,6 +99,11 @@ Aさんが選んだのは大手企業の方だった。理由は、「施策の�
 ### 「戻り口」の意識
 
 大手企業に一度入ると、その後スタートアップへ移ることは難しくはない。一方、スタートアップから大手企業への転職は、タイトル・成果の定量化・組織経験の見せ方次第で難易度が変わることがある。キャリアパスの柔軟性を重視するなら、大手→スタートアップの順序の方がトランジションしやすいという傾向は意識しておいて損はない。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

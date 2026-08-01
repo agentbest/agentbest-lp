@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["ブリッジSE", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "bridge-se-career-guide"
+hub: "bridge-se"
 image: "/images/media/bridge-se-career-guide.png"
 related: ["bridge-se-failure", "bridge-se-how-to-use-agent", "bridge-se-work-style", "it-consultant-career-guide", "security-engineer-career-guide"]
 ---
@@ -31,6 +32,11 @@ related: ["bridge-se-failure", "bridge-se-how-to-use-agent", "bridge-se-work-sty
 特に重要なのが「解釈の差を言語化する能力」です。日本のクライアントが「なんとなく使いやすいUI」を求めている場合、その意図を分解して「タップ回数・画面遷移の深さ・エラーメッセージの文言ルール」などの具体的要件に変換するプロセスが、ブリッジSEの核心業務といえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職市場での市場価値：評価される経験の構造
 
@@ -106,6 +112,11 @@ related: ["bridge-se-failure", "bridge-se-how-to-use-agent", "bridge-se-work-sty
 ブリッジSEの求人は、「テクニカルPM」「グローバルPM」「ITコーディネーター」など、異なる職種名で掲載されることがあります。職種名に引きずられず、JDの業務内容・求められるスキルセットで判断することが重要です。逆に、ブリッジSEという肩書きで掲載されていても、実態が単純な翻訳業務や進捗報告に留まる場合もあるため、面接で業務の具体的なスコープを確認することを推奨します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

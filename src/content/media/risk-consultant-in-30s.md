@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["リスク・ガバナンスコンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "risk-consultant-in-30s"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-in-30s.png"
 related: ["risk-consultant-motivation", "risk-consultant-skills", "risk-consultant-salary", "corporate-planning-in-30s", "embedded-engineer-in-30s"]
 ---
@@ -18,6 +19,11 @@ related: ["risk-consultant-motivation", "risk-consultant-skills", "risk-consulta
 リスク・ガバナンスコンサルタントは、企業が直面するリスク全般（財務・オペレーショナル・コンプライアンス・情報セキュリティ・ESG等）を評価・制御するための仕組みを構築・改善する専門職である。コンサルティングファーム、監査法人系アドバイザリー、シンクタンク系ファームが主な雇用主となるが、近年は事業会社のリスク管理部門が外部人材を直接採用するケースも増えている。
 
 業務の中心は、リスクアセスメントの設計、内部統制の整備・評価（J-SOX・US-SOX対応を含む）、リスクアペタイト・フレームワークの策定、コーポレートガバナンス強化のための提言といった領域に集中しやすい。加えて、DX推進に伴うデータガバナンスやサイバーリスク管理の需要が拡大しており、ITリスク・セキュリティの素養を持つ人材の評価が高まっている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代転職者に求められる即戦力要件
 
@@ -81,6 +87,11 @@ COSO・ISO31000・COBITといったリスク管理フレームワークの知識
 面接では技術的な質問に加え、「なぜコンサルタントという立場から関与したいのか」という動機の論理性が問われやすい。特に事業会社出身者に対しては「自社で続けた方が影響力を持てるのではないか」という問いが投げられることがある。これに対しては「複数の組織・業種にまたがった事例を積み上げることで、より高度な判断ができる専門家になりたい」という軸で答えることが、評価されやすい構成になる。
 
 また、リスク・ガバナンス領域では規制環境の変化への感度も重視される。国内では金融庁・経産省・個人情報保護委員会等の規制動向、国際的にはEUのDORA・GDPR・SEC開示規制の動向をある程度把握していることが、上位グレード採用での加点要因になりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

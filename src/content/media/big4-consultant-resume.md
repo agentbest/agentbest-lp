@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["総合コンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "big4-consultant-resume"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-resume.png"
 related: ["big4-consultant-career-guide", "big4-consultant-career-path", "big4-consultant-how-to-use-agent", "pmo-consultant-resume", "game-engineer-resume"]
 ---
@@ -26,6 +27,11 @@ related: ["big4-consultant-career-guide", "big4-consultant-career-path", "big4-c
 プロジェクト名と期間だけを羅列した書き方は、これら3軸のいずれも伝えない。「製造業クライアントのSCM改革を支援」という一行では、上記の問いに対する回答がゼロに等しい。職務経歴書の設計は、この3軸への回答を構造化する作業と捉えると、記述の優先順位が明確になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-resume">無料で相談する</a>
+</aside>
 
 ## 推奨フォーマットと構成
 
@@ -125,6 +131,11 @@ related: ["big4-consultant-career-guide", "big4-consultant-career-path", "big4-c
 書類の記述は「自分が何をしてきたか」の全量を示す場ではなく、「相手が求めているポジションに最も近い自分の断面を見せる」設計であることを念頭に置くとよい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

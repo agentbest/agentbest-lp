@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["SCM・調達コンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "scm-consultant-failure"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-failure.png"
 related: ["scm-consultant-in-30s", "scm-consultant-market-trend", "scm-consultant-salary-600", "ml-engineer-failure", "partner-sales-failure"]
 ---
@@ -28,6 +29,11 @@ SCM（サプライチェーンマネジメント）および調達領域のコ�
 これらの要因を理解せずに転職活動を進めると、内定を得た後に「こんなはずではなかった」という状況に陥りやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターン5つ
 
@@ -114,6 +120,11 @@ SCMや調達領域では、グローバル調達の交渉責任を担うポジ�
 - [ ] 評価サイクルと昇給の仕組みを確認したか
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

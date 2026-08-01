@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["財務・経理", "英語力"]
 pubDate: 2026-07-04
 slug: "finance-english"
+hub: "finance"
 image: "/images/media/finance-english.png"
 related: ["finance-in-20s", "finance-interview", "finance-career-guide", "data-consultant-english", "post-consultant-english"]
 ---
@@ -36,6 +37,11 @@ related: ["finance-in-20s", "finance-interview", "finance-career-guide", "data-c
 日系グローバル企業において、海外子会社の経理スタッフとのやり取りや現地法人の会計数値の確認を担当する場合、日常的に英語を使う。現地の会計士や税務当局との折衝が発生する局面では、専門的な文脈での英語力が重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力で変化する求人の質と報酬水準
 
@@ -106,6 +112,11 @@ Finance Manager以上のポジションや本社レポートラインを担う�
 4. **外資系・グローバル企業の求人要件を定期的に参照する**：求人票に書かれている英語要件を継続的に読むことで、実際に求められているレベル感を市場から学べる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

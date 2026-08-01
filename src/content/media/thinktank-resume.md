@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["シンクタンク研究員", "職務経歴書"]
 pubDate: 2026-07-05
 slug: "thinktank-resume"
+hub: "thinktank"
 image: "/images/media/thinktank-resume.png"
 related: ["thinktank-career-path", "thinktank-certification", "thinktank-work-style", "devops-engineer-resume", "corporate-planning-resume"]
 ---
@@ -18,6 +19,11 @@ related: ["thinktank-career-path", "thinktank-certification", "thinktank-work-st
 研究員の経歴は、成果の可視化が難しい構造を持っている。一般的なビジネス職であれば「売上〇〇円達成」「プロジェクトを〇ヶ月で完遂」といった数値化が比較的容易だが、研究職の場合、成果は報告書・提言書・論文・政策への貢献といった形で表れる。これらは直接的な定量指標に変換しにくく、記述が抽象的になりやすい。
 
 加えて、シンクタンクには複数の性格が混在する。政策系（公的機関や中央省庁との受託研究が中心）、経営コンサル系（民間企業の経営課題へのリサーチ提供）、独立系（特定分野の専門シンクタンク）など、所属機関の業態によって求められる職務経歴書の訴求軸が異なる。転職先の性格を正確に読み取り、それに対応した文書設計が必要になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の基本構成と各セクションの役割
 
@@ -99,6 +105,11 @@ related: ["thinktank-career-path", "thinktank-certification", "thinktank-work-st
 - **スキルの記載は具体的なツール・手法名で**：「分析スキルあり」ではなく「Stata・R・Pythonを用いた回帰分析・テキストマイニング経験」のように記述する
 - **機密保持が必要な案件の扱い**：発注元の固有名称は伏せる代わりに、業態・規模・プロジェクトの性格は記述できる範囲で明記する
 - **ページ数は2〜3枚が目安**：研究員の場合、経歴や業績リストが長くなりやすいが、採用担当者が読む文書として完結させることを優先する
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

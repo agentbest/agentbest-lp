@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["ITコンサル", "スキル", "キャリア"]
 pubDate: 2026-07-03
 slug: "it-consultant-skills"
+hub: "it-consultant"
 image: "/images/media/it-consultant-skills.png"
 related: ["it-consultant-career-guide", "it-consultant-from-scratch", "it-consultant-future", "it-consultant-salary", "it-consultant-resume"]
 ---
@@ -20,6 +21,11 @@ ITコンサルに必要なスキルは数多く語られますが、闇雲に列
 - **差別化層**：同タイトルの中で選ばれる理由になる能力
 
 年収と市場価値を決めるのは主に専門層ですが、基礎層が固まっていないと専門層を積む機会（アサイン）自体が回ってきません。この順序を意識してください。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-skills">無料で相談する</a>
+</aside>
 
 ## 基礎層：仕事の型
 
@@ -99,6 +105,11 @@ ITコンサルに必要なスキルは数多く語られますが、闇雲に列
 課題設定・合意形成・クライアントマネジメントは、AIが下位作業を代替するほど相対価値が上がります。また「AIに何をさせ、出力をどう検証するか」を設計する力は、それ自体が新しい基礎スキルになりつつあります。日々の業務でAIを使い込むこと自体が、この投資に相当します。
 
 スキル一覧を眺めて満遍なく伸ばすのではなく、市場の需給が有利な方向へ意図的に偏らせる。この投資判断の感覚は、コンサルタント自身のキャリアにおいても、クライアントに提供する価値においても、同じように効いてきます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

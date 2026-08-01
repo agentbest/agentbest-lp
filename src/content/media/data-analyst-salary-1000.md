@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["データアナリスト", "年収1000万"]
 pubDate: 2026-07-04
 slug: "data-analyst-salary-1000"
+hub: "data-analyst"
 image: "/images/media/data-analyst-salary-1000.png"
 related: ["data-analyst-future", "data-analyst-failure", "data-analyst-from-scratch", "platform-engineer-salary-1000", "thinktank-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["data-analyst-future", "data-analyst-failure", "data-analyst-from-scra
 この表から読み取れる重要な点は、年収1,000万円はシニアレベルのIC（Individual Contributor）でも到達し得るということである。マネジメントへの転換がキャリアの唯一の正解ではない。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円に到達しやすいデータアナリストの共通点
 
@@ -82,6 +88,11 @@ related: ["data-analyst-future", "data-analyst-failure", "data-analyst-from-scra
 このパターンが示すのは、「高い分析技術」よりも「分析によって何を変えたか」の実績が年収水準に直結するという構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

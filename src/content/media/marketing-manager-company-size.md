@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["マーケティングマネージャー", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "marketing-manager-company-size"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-company-size.png"
 related: ["marketing-manager-market-trend", "marketing-manager-in-30s", "marketing-manager-english", "game-engineer-company-size", "product-manager-company-size"]
 ---
@@ -38,6 +39,11 @@ related: ["marketing-manager-market-trend", "marketing-manager-in-30s", "marketi
 | ブランド資産の有無 | 既存資産が活用できる | ゼロベースから構築が多い |
 
 大規模な予算を持つ大手では、数十億円単位の予算配分に関わることで、ROIの管理やプロダクトポートフォリオ全体を見渡したブランド設計の経験を積みやすい。他方、スタートアップでは小さな予算の中でいかに効率的に成果を出すかという「制約下の最適化」の経験が蓄積される。どちらが優れているかではなく、どちらの経験が自分の次のキャリアで求められるかを考えることが重要である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-company-size">キャリアを相談する</a>
+</aside>
 
 ## スキルポートフォリオの観点から考える
 
@@ -88,6 +94,11 @@ related: ["marketing-manager-market-trend", "marketing-manager-in-30s", "marketi
 - **事業フェーズを体感したい**：0→1の立ち上げ経験はスタートアップでしか得にくい
 
 年齢やライフフェーズ、現在の専門領域のレベルによって、補完すべき経験の種類は変わる。30代前半であれば、まだ両方のフィールドを渡り歩く時間的余裕があるが、40代以降になるとポジションの定義が上位職に移行するため、選択の文脈は変わってくる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

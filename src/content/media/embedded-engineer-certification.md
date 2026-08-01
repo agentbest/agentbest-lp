@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["組み込みエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-certification"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-certification.png"
 related: ["embedded-engineer-salary", "embedded-engineer-salary-1000", "embedded-engineer-how-to-use-agent", "frontend-engineer-certification", "devops-engineer-certification"]
 ---
@@ -23,6 +24,11 @@ related: ["embedded-engineer-salary", "embedded-engineer-salary-1000", "embedded
 
 1. **知識の証明として使えるケース**：実務歴が浅い場合や、異なる技術領域からの転換を説明する際、資格が学習の本気度や基礎知識の担保として機能することがある。
 2. **特定業界・発注先が要件として定めているケース**：車載・航空・医療など、安全基準が厳格な領域では、資格取得が入場要件や提案要件に含まれる場合がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価されやすい資格と、優先度が低い資格
 
@@ -72,6 +78,11 @@ ETEC（Embedded Technology Engineer Certification）は、組み込み技術を�
 この状況では、エンベデッドシステムスペシャリストの合格により「組み込みの体系的な知識を持つ」ことを示しつつ、機能安全の基礎学習（Automotive SPICE、ISO 26262の概要理解）を並行して進めることで、書類・面接の両面で説得力が増す傾向がある。資格単体より、「資格＋学習の方向性の一貫性」を示すことが重要になる。
 
 なお、機能安全エンジニア（FuSa）関連の資格は認証機関が限られており、取得コストも高い。転職活動の段階で必須とはいえないが、入社後のキャリアパスとして視野に入れておく価値はある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

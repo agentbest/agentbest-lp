@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["データエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "data-engineer-salary"
+hub: "data-engineer"
 image: "/images/media/data-engineer-salary.png"
 related: ["data-engineer-certification", "data-engineer-from-scratch", "data-engineer-resume", "db-engineer-salary", "pmo-consultant-salary"]
 ---
@@ -27,6 +28,11 @@ related: ["data-engineer-certification", "data-engineer-from-scratch", "data-eng
 | スタッフ／リード相当 | チームリードまたはプリンシパル相当 | 1,000万〜1,200万円以上 |
 
 事業会社のプロダクト組織（BtoBまたはBtoCのデータドリブン経営を推進している企業）は、スタートアップ期から成長期にかけて採用予算が高くなりやすい。一方、SIer・受託系は安定している反面、スキル市場価値との連動性が薄い固定給テーブルを持つ企業も多い。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代データエンジニアの年収実態
 
@@ -85,6 +91,11 @@ related: ["data-engineer-certification", "data-engineer-from-scratch", "data-eng
 3. **dbt・Airflow等のモダンスタックを使っている企業**：技術的な市場価値の継続的な更新を重視
 
 転職後1〜2年でアーキテクチャ設計の責任範囲を広げ、データ品質の仕組み構築に主体的に関与することで、シニアエンジニアとしての職責を確立するパターンが多い。この移行によって年収が800万〜900万円台に到達するケースは珍しくない。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

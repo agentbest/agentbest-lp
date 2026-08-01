@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["プロダクトデザイナー", "未経験転職"]
 pubDate: 2026-07-04
 slug: "product-designer-from-scratch"
+hub: "product-designer"
 image: "/images/media/product-designer-from-scratch.png"
 related: ["product-designer-future", "product-designer-skills", "product-designer-in-20s", "customer-success-from-scratch", "presales-from-scratch"]
 ---
@@ -36,6 +37,11 @@ FigmaをはじめとするデザインツールでのUI制作能力です。コ�
 プロダクトのKPIや事業目標との整合性を意識した設計ができるかどうかです。SaaS企業やスタートアップ環境では、デザイナーがプロダクトマネージャーと対等に議論することを前提として採用するケースも見られます。「コンバージョン率」「解約率」「タスク完了率」といった指標と自分のデザイン判断を結び付けて語れるかどうかが、採用可否に影響しやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験からの現実的な移行ルート
 
@@ -104,6 +110,11 @@ Figmaで動くプロトタイプを作り、①と同じ基準でタスクを再
 選考を受ける中でフィードバックを得た場合、それをポートフォリオの改善に反映させることができます。採用プロセス自体をデザインの学習機会として捉える姿勢は、評価される傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

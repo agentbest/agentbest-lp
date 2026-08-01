@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["AIエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "ai-engineer-salary"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-salary.png"
 related: ["ai-engineer-failure", "ai-engineer-skills", "ai-engineer-in-20s", "saas-sales-salary", "frontend-engineer-salary"]
 ---
@@ -24,6 +25,11 @@ AIエンジニアの年収に幅が生じるのは、職種名が一つである
 また、AIエンジニアという職種は2020年代に入り人材需要が急拡大した比較的新しいカテゴリであるため、企業側のグレード定義がまだ標準化されておらず、同等のスキルでも在籍先によって年収に大きな差が出やすい状況が続いています。この「市場の非効率」を理解することが、年収交渉や転職判断の前提として重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## 年代別・レイヤー別の年収レンジ
 
@@ -99,6 +105,11 @@ LLMの活用・MLOpsの高度な実装・推薦システムの設計など、特
 現職の報酬テーブルがどこで頭打ちになるかは、在籍3〜4年目に見えてきやすいです。同等のスキルを持つ人材の市場価値と自社の報酬上限を定期的に比較することで、転職タイミングの見極めが可能になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

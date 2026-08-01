@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["SCM・調達コンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "scm-consultant-company-size"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-company-size.png"
 related: ["scm-consultant-salary", "scm-consultant-motivation", "scm-consultant-in-20s", "digital-marketer-company-size", "saas-sales-company-size"]
 ---
@@ -30,6 +31,11 @@ SCM・調達コンサルタントという職種は、供給網の設計・最�
 | ブランド・外部評価 | 転職市場・取引先での知名度が高い | ブランドは個人の成果に依存しやすい |
 | ロールの曖昧さ | 職務定義が比較的明確 | 役割の境界が流動的で兼務が生じやすい |
 | テクノロジーへの接点 | プロジェクト次第でばらつきがある | プロダクトと業務が隣接している場合が多い |
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## 大手を選ぶ合理的な理由
 
@@ -91,6 +97,11 @@ SCM・調達領域は、近年のサプライチェーンリスク意識の高�
 **3. 将来のゴールがコンサルタントか、経営者・事業サイドか**
 
 SCM・調達領域のプロフェッショナルとして高度な助言機能を担い続けたいならば、大手での長期的なキャリアは論理的な選択である。一方で、調達機能を内包した事業会社の中核メンバーや、調達テックの起業・経営に近い役割を目指すならば、スタートアップでのオーナーシップ経験は代えがたい資産になりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

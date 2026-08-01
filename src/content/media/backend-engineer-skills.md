@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["バックエンドエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "backend-engineer-skills"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-skills.png"
 related: ["backend-engineer-salary-1000", "backend-engineer-future", "backend-engineer-from-scratch", "ai-engineer-skills", "corporate-planning-skills"]
 ---
@@ -23,6 +24,11 @@ related: ["backend-engineer-salary-1000", "backend-engineer-future", "backend-en
 4. **設計・アーキテクチャ**：上流工程への関与やリード職への昇格に必要
 
 これらはいずれも独立したスキルではなく、相互に影響し合います。言語スキルが高くても設計力が低いと、スケールしないコードを量産するリスクがあります。逆に設計の素養があっても、特定の言語・フレームワークの実装経験が伴わないと採用現場では評価されにくい傾向があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-skills">無料で相談する</a>
+</aside>
 
 ## 採用評価から見たスキルの優先順位
 
@@ -107,6 +113,11 @@ related: ["backend-engineer-salary-1000", "backend-engineer-future", "backend-en
 ---
 
 ポイントは「全く新しい言語を学ぶ」より「既存の業務の中で関与範囲を広げる」アプローチの方が、実務経験として評価されやすいという点です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

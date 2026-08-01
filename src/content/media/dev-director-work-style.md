@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["開発ディレクター", "働き方"]
 pubDate: 2026-07-04
 slug: "dev-director-work-style"
+hub: "dev-director"
 image: "/images/media/dev-director-work-style.png"
 related: ["dev-director-salary-600", "dev-director-resume", "dev-director-from-scratch", "infra-engineer-work-style", "strategy-consultant-work-style"]
 ---
@@ -30,6 +31,11 @@ related: ["dev-director-salary-600", "dev-director-resume", "dev-director-from-s
 忙しさの「質」は、担当プロダクトの数・チームの成熟度・社内の意思決定速度によって大きく変わる傾向がある。複数プロダクトを兼任し、かつ組織の意思決定プロセスが整備されていない環境は、構造的に過負荷になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-work-style">無料で相談する</a>
+</aside>
 
 ## 残業・稼働時間の目安とフェーズ別の変動
 
@@ -100,6 +106,11 @@ related: ["dev-director-salary-600", "dev-director-resume", "dev-director-from-s
 この3パターンを見ると、「残業が少ない＝働きやすい」とは一概に言えない。A社は高い自律性が求められ、B社は経験の蓄積スピードが速く、C社は安定した環境で専門性を磨きやすい。何を重視するかによって、最適な環境は変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

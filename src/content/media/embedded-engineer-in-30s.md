@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["組み込みエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-in-30s"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-in-30s.png"
 related: ["embedded-engineer-future", "embedded-engineer-salary", "embedded-engineer-failure", "mlops-engineer-in-30s", "platform-engineer-in-30s"]
 ---
@@ -26,6 +27,11 @@ related: ["embedded-engineer-future", "embedded-engineer-salary", "embedded-engi
 また、自動車（車載）・産業機器・医療機器・家電・通信インフラといったドメインごとに求められる専門知識が異なるため、「同じ組み込みエンジニア」でも経験ドメインの違いが転職の難易度に影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代に求められるスキルセット
 
@@ -99,6 +105,11 @@ related: ["embedded-engineer-future", "embedded-engineer-salary", "embedded-engi
 ドメイン横断の転職では、「知らない規格がある」ことは致命的ではなく、「技術の土台がある上での学習コストをどう見積もるか」が採用判断の軸となりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

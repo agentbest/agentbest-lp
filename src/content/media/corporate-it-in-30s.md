@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["社内SE", "30代転職"]
 pubDate: 2026-07-04
 slug: "corporate-it-in-30s"
+hub: "corporate-it"
 image: "/images/media/corporate-it-in-30s.png"
 related: ["corporate-it-failure", "corporate-it-in-20s", "corporate-it-salary-1000", "platform-engineer-in-30s", "db-engineer-in-30s"]
 ---
@@ -20,6 +21,11 @@ related: ["corporate-it-failure", "corporate-it-in-20s", "corporate-it-salary-10
 理由は構造的なものだ。社内SEは事業部門との調整、ベンダーマネジメント、ITガバナンスの整備、経営陣への説明など、純粋な技術力だけでは対応できない業務を多く担う。これらは一定の社会人経験と業務経験を積んだ人材でなければ担いにくく、20代に任せることに慎重な企業が多い。
 
 加えて、DX推進や基幹システムのクラウド移行といった取り組みが多くの企業で進行しており、ITリテラシーの高い即戦力人材の需要は高い水準で続いている。IT部門の少人数化・高齢化に悩む事業会社が、外部からの中途採用で組織を刷新しようとするケースも増えている。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力として評価される経験の類型
 
@@ -82,6 +88,11 @@ SIer・ITコンサル出身者は、クライアント企業での調整経験�
 - セキュリティリスクを経営層に説明した経験はあるか
 
 これらは「STAR形式（状況・課題・行動・結果）」で語れるエピソードを複数準備することで対応しやすくなる。経験年数や資格よりも、「自分が主体的に判断・行動した場面」を語れるかどうかが評価を分けやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

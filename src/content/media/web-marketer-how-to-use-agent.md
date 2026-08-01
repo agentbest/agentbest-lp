@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["Webマーケター", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "web-marketer-how-to-use-agent"
+hub: "web-marketer"
 image: "/images/media/web-marketer-how-to-use-agent.png"
 related: ["web-marketer-english", "web-marketer-from-scratch", "web-marketer-motivation", "hr-consultant-how-to-use-agent", "dx-consultant-how-to-use-agent"]
 ---
@@ -22,6 +23,11 @@ Webマーケターが転職活動を進める際、エージェントを活用�
 エージェントはこうした「求人票に書かれていない実態」を把握している場合が多く、ミスマッチを事前に絞り込む機能を担います。また、企業側の採用担当と継続的な関係を持つエージェントは、選考プロセス中のフィードバックや、ポジションの優先度感（急募かどうかなど）といった情報を、応募者に提供できることがあります。
 
 もうひとつ見落とされがちな点が年収交渉です。Webマーケターは経験・専門領域・実績によって年収レンジの幅が広い職種です。同じ「マーケティングマネージャー」という肩書でも、事業会社のインハウスポジションか、マーケティング支援会社のディレクターかによって大きく異なります。エージェントを挟むことで、候補者自身が直接交渉しにくい年収の上限引き上げを働きかけてもらえる可能性があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## Webマーケターの転職市場における構造的特徴
 
@@ -91,6 +97,11 @@ PLG（プロダクトレッドグロース）やデマンドジェネレーシ�
 - **転職可能な時期**：在職中か離職中かによって紹介される求人の優先度が変わることがある
 
 エージェントに「お任せします」の姿勢で臨むより、自分の優先順位を明確に伝えた方が、案件の精度は上がりやすい傾向があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

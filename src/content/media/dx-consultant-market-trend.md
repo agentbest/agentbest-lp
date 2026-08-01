@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["DXコンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "dx-consultant-market-trend"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-market-trend.png"
 related: ["dx-consultant-skills", "dx-consultant-how-to-use-agent", "dx-consultant-failure", "uiux-designer-market-trend", "scm-consultant-market-trend"]
 ---
@@ -30,6 +31,11 @@ DXコンサルタントという職種名が市場に定着してから数年が
 第三に、生成AI・データ活用の実務的な普及です。ChatGPTをはじめとする生成AIの業務応用が加速する中で、AIを活用したプロセス改革の設計・推進ができる人材への需要が急速に高まっています。これはDXコンサルタントの職務定義そのものを拡張させつつあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用企業の類型と求めるスキルの変化
 
@@ -100,6 +106,11 @@ SaaSプロダクトの導入コンサルタント（いわゆるインプリメ�
 - **変革マネジメント（チェンジマネジメント）の実践経験**：テクノロジーの導入よりも、人・組織の変革を伴走できる人材の不足感が根強く残っています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

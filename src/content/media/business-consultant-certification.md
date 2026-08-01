@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["業務コンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "business-consultant-certification"
+hub: "business-consultant"
 image: "/images/media/business-consultant-certification.png"
 related: ["business-consultant-company-size", "business-consultant-career-path", "business-consultant-work-style", "tech-lead-certification", "corporate-it-certification"]
 ---
@@ -31,6 +32,11 @@ related: ["business-consultant-company-size", "business-consultant-career-path",
 逆に、シニア層が純粋に箔付けとして資格を取得しても、市場での評価に直結しにくい。評価の重心は実績に移っているからだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格の全体像
 
@@ -100,6 +106,11 @@ SaaSプラットフォームの導入・定着支援を主軸とする業務コ�
 ポイントは「資格単体」ではなく「実務経験の補完として資格が機能している」という構造にあることだ。資格を先行させて経験を後追いさせるより、経験の文脈に資格を位置づけるほうが、面接でのナラティブとして一貫しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["HRテック", "業界研究"]
 pubDate: 2026-07-05
 slug: "hrtech-industry-guide"
+hub: "hrtech-industry"
 image: "/images/media/hrtech-industry-guide.png"
 related: ["hrtech-industry-career", "hrtech-industry-trend", "hrtech-industry-salary", "web3-industry-guide", "ai-industry-guide"]
 ---
@@ -26,6 +27,11 @@ HRテック（Human Resources Technology）は、採用管理システム（ATS�
 グローバルでは米国市場が先行しており、国内プレイヤーが海外の先進事例を参照しながらプロダクト開発を行うという構造が一般的です。この点は、業界研究を行う際に「海外トレンドの読み方」が重要なリテラシーになることを意味します。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## 企業カテゴリ別の特徴と比較
 
@@ -93,6 +99,11 @@ HRテック業界は急成長セクターである一方、資金調達環境の
 - **人事部門自身の運営状況**：HRテック企業として自社の人事制度が整備されているかは、カルチャーの成熟度を測る一つの目安になる
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

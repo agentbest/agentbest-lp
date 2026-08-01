@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["ポストコンサル", "キャリアパス"]
 pubDate: 2026-07-05
 slug: "post-consultant-career-path"
+hub: "post-consultant"
 image: "/images/media/post-consultant-career-path.png"
 related: ["post-consultant-motivation", "post-consultant-in-20s", "post-consultant-in-30s", "security-consultant-career-path", "it-architect-career-path"]
 ---
@@ -28,6 +29,11 @@ related: ["post-consultant-motivation", "post-consultant-in-20s", "post-consulta
 5. **独立・フリーランスコンサルタント**
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 各経路の特徴と評価ロジック
 
@@ -101,6 +107,11 @@ VCはPEよりエントリーの多様性があるものの、「投資家とし�
 このように、「次のポジション」だけでなく「2手先のポジション」まで逆算して選択肢を絞ることが、ポストコンサルのキャリア設計では特に重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

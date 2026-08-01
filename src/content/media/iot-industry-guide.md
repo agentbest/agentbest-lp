@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["IoT・ハードウェアテック", "業界研究"]
 pubDate: 2026-07-05
 slug: "iot-industry-guide"
+hub: "iot-industry"
 image: "/images/media/iot-industry-guide.png"
 related: ["iot-industry-trend", "iot-industry-salary", "iot-industry-company", "legaltech-industry-guide", "healthtech-industry-guide"]
 ---
@@ -25,6 +26,11 @@ IoT（Internet of Things）およびハードウェアテックとは、物理�
 - **プラットフォーム・アプリケーション層**：収集データを活用するクラウドサービス・ダッシュボード・API
 
 この四層すべてに事業機会があり、転職先となる企業の類型も多様である。純粋なSaaS転職とは異なり、「自分がどの層に関わりたいか」を整理することが、企業選定の第一歩となる。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場の現状と成長ドライバー
 
@@ -102,6 +108,11 @@ IoT案件は要件定義から稼働まで長期にわたることが多く、�
 - 面接では「技術は社内エンジニアに学ぶ姿勢がある」ことを示しつつ、すでに自習を始めていることを具体的に伝える
 
 **結果の傾向**：製造業ドメインの知識と大型案件の推進経験が高く評価され、産業IoTスタートアップのエンタープライズセールスとして採用されるケースが一定数見られる。初年度は現行年収と同水準からのスタートになりやすいが、インセンティブ設計次第でアップサイドが生まれやすい構造となっている場合が多い。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

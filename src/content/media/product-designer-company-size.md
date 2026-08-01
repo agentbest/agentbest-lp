@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["プロダクトデザイナー", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "product-designer-company-size"
+hub: "product-designer"
 image: "/images/media/product-designer-company-size.png"
 related: ["product-designer-certification", "product-designer-motivation", "product-designer-in-20s", "risk-consultant-company-size", "fullstack-engineer-company-size"]
 ---
@@ -32,6 +33,11 @@ related: ["product-designer-certification", "product-designer-motivation", "prod
 スタートアップでは「幅」と「意思決定のスピード感」が培われやすい。仮説を立て、最小限のプロトタイプで検証し、短いサイクルで改善するプロセスを繰り返すため、プロダクト思考やビジネス文脈への解像度が上がりやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 5軸での比較
 
@@ -93,6 +99,11 @@ related: ["product-designer-certification", "product-designer-motivation", "prod
 ストックオプションについては、発行済み株式総数に占める割合、行使価格、権利確定のスケジュール（ベスティングスケジュール）を書面で確認し、期待リターンとしてある程度試算することが望ましい。感覚的な「上場したらすごいことになる」という言葉だけで判断しないことが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

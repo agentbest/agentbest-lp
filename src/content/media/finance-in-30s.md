@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["財務・経理", "30代転職"]
 pubDate: 2026-07-04
 slug: "finance-in-30s"
+hub: "finance"
 image: "/images/media/finance-in-30s.png"
 related: ["finance-motivation", "finance-company-size", "finance-salary-1000", "freelance-consultant-in-30s", "post-consultant-in-30s"]
 ---
@@ -36,6 +37,11 @@ related: ["finance-motivation", "finance-company-size", "finance-salary-1000", "
 一方で、大手事業会社の財務・経理ポジションは、内部昇進を前提とするケースが多く、外部採用枠は限定的です。30代が大手へ転職する場合、専門性の高さ（連結決算の主担当、IFRS導入経験、M&A対応など）を持っていることが前提条件となりやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-in-30s">キャリアを相談する</a>
+</aside>
 
 ## ポジション別・求められるスキル水準
 
@@ -111,6 +117,11 @@ SaaS・テクノロジー企業を中心に、FP&A（Financial Planning & Analys
 「経理」と「財務」は隣接していますが、求められるスキルセットは異なります。経理は正確な記録・報告の責任を担い、財務は資金の調達・運用・計画に関与します。30代でのキャリアチェンジ（例：経理→財務、財務→FP&A）を目指す場合、現職での関与範囲を広げながら経験を積んでおくか、大学院・資格取得を通じた知識補完が有効になるケースがあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

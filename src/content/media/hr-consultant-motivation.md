@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["人事・組織コンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "hr-consultant-motivation"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-motivation.png"
 related: ["hr-consultant-in-30s", "hr-consultant-resume", "hr-consultant-skills", "uiux-designer-motivation", "saas-sales-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["hr-consultant-in-30s", "hr-consultant-resume", "hr-consultant-skills"
 **③ ファームの特性・専門領域への理解**
 
 人事・組織コンサルティングを扱うファームは、総合系・専門特化系・HR Techに強みを持つ会社など、方向性が異なります。「御社でなければならない理由」を語るためには、そのファームが得意とする領域（組織設計、報酬制度、タレントマネジメント、M&Aのオーガニゼーション・デザインなど）と自身の関心・経験が一致していることを示す必要があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## 志望動機の基本フレームワーク
 
@@ -101,6 +107,11 @@ related: ["hr-consultant-in-30s", "hr-consultant-resume", "hr-consultant-skills"
 この場合の志望動機の構造としては、「プロジェクト推進の中で、技術的な課題よりも人的・組織的な課題が最大のリスクになるケースを経験した」という課題認識から入り、「組織診断・変革支援の専門家として、より本質的な課題解決に貢献したい」という動機に接続します。その上で、PMとして培った「複数ステークホルダーの調整能力」「定量的な進捗管理」「現場への落とし込み経験」が、コンサルタントとしての実行支援フェーズで活きることを説明します。
 
 この構造が評価されやすいのは、転向理由が「逃げ」ではなく「拡張」として語られているためです。前職での課題意識が起点になっており、コンサルタント職への必然性が示されています。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

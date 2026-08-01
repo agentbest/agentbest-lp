@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["社内SE", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "corporate-it-resume"
+hub: "corporate-it"
 image: "/images/media/corporate-it-resume.png"
 related: ["corporate-it-in-20s", "corporate-it-certification", "corporate-it-salary-600", "hrbp-resume", "business-consultant-resume"]
 ---
@@ -22,6 +23,11 @@ related: ["corporate-it-in-20s", "corporate-it-certification", "corporate-it-sal
 加えて、社内SEは業務範囲が広い。インフラ管理、ヘルプデスク対応、社内システムの要件定義から導入まで、あらゆる領域を担当するケースが多い。この「広さ」は強みになり得るが、職務経歴書に羅列するだけでは焦点が定まらず、読み手に「何が専門なのかわからない」という印象を与えてしまう。
 
 職務経歴書の目的は「事実の列挙」ではなく「自分のビジネスバリューを伝える文書を作ること」だと認識することが、書き方の改善につながる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-resume">キャリアを相談する</a>
+</aside>
 
 ## 採用担当者が社内SEに求めていること
 
@@ -106,6 +112,11 @@ related: ["corporate-it-in-20s", "corporate-it-certification", "corporate-it-sal
 4. **キャリアの方向性を職務要約・PR欄で言語化：** 技術基盤を持ちながら経営・業務課題と向き合うIT人材としての志向を明記
 
 この方向転換により、IT企画・情報システム部長候補のポジションでの書類通過率が改善した事例は珍しくない。重要なのは「業務の棚卸し」と「どの経験を前面に出すか」という戦略的な取捨選択だ。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

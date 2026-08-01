@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["戦略コンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-work-style"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-work-style.png"
 related: ["strategy-consultant-in-30s", "strategy-consultant-future", "strategy-consultant-failure", "engineering-manager-work-style", "game-engineer-work-style"]
 ---
@@ -30,6 +31,11 @@ related: ["strategy-consultant-in-30s", "strategy-consultant-future", "strategy-
 ファームによっては、1つのプロジェクトが終わってほぼ間を置かずに次のアサインが発生するケースがある。繁忙プロジェクトが続けば数ヶ月単位で高負荷の状態が続く可能性もある。一方で、プロジェクト間に明確なオフ期間（いわゆる「ベンチ期間」）を設けているファームもあり、この点は組織設計によって差が出る。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## 残業時間の実態と変動要因
 
@@ -90,6 +96,11 @@ related: ["strategy-consultant-in-30s", "strategy-consultant-future", "strategy-
 これらは労働環境の改善策だけでは解消しにくいため、入社前にどのようなプロジェクトにアサインされる可能性があるか、マネージャーとの相性がどう評価されているかを具体的に確認することが有益である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["ブリッジSE", "年収相場"]
 pubDate: 2026-07-04
 slug: "bridge-se-salary"
+hub: "bridge-se"
 image: "/images/media/bridge-se-salary.png"
 related: ["bridge-se-resume", "bridge-se-future", "bridge-se-certification", "dev-director-salary", "sre-salary"]
 ---
@@ -20,6 +21,11 @@ related: ["bridge-se-resume", "bridge-se-future", "bridge-se-certification", "de
 年収を論じる際に重要なのは、「どの商流に位置しているか」です。エンドクライアント（事業会社）に近いほど、プロジェクトへの関与度が高く、評価・報酬が上がりやすい傾向があります。反対に、多重請負構造の中間に入るブリッジSEは、実務的な難度と年収が必ずしも比例しないことがあります。
 
 また、拠点がどちら側（日本 or 海外）かによっても報酬構造は異なります。日本在住で国内企業に雇用されているケース、現地法人に雇用されているケース、フリーランスとして複数社に関与するケースでは、年収の算出基準が根本的に異なります。以下では、日本在住・日本企業所属のブリッジSEを主な対象として相場観を整理します。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-salary">無料で相談する</a>
+</aside>
 
 ## 20代・30代別の年収レンジ
 
@@ -100,6 +106,11 @@ related: ["bridge-se-resume", "bridge-se-future", "bridge-se-certification", "de
 ### 資格・スキルの追加より実績の深化
 
 PMP・情報処理技術者試験などの資格が有用な場面はありますが、ブリッジSEの市場評価において資格が年収を直接引き上げるケースは限定的です。資格取得よりも、現状のプロジェクトでリーダーシップ範囲を広げることの方が、転職時の評価軸として機能しやすいです。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

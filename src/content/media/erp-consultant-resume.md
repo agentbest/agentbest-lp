@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["ERPコンサルタント", "職務経歴書"]
 pubDate: 2026-07-05
 slug: "erp-consultant-resume"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-resume.png"
 related: ["erp-consultant-work-style", "erp-consultant-career-path", "erp-consultant-from-scratch", "pmo-consultant-resume", "corporate-it-resume"]
 ---
@@ -22,6 +23,11 @@ ERPプロジェクトは、要件定義・設計・開発・テスト・カッ�
 また、ERPコンサルタントは複数のクライアントプロジェクトを並走・連続して経験することが多いため、記述量が増えすぎてポイントが埋没しやすい傾向があります。書類の設計段階で「見せるべき情報の優先順位」を意識的に整理する必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## 採用企業が職務経歴書で確認しているポイント
 
@@ -139,6 +145,11 @@ ERPコンサルタントのスキルセクションは、パッケージ名・�
 注意すべきは「触れたことがある」程度のパッケージを並列に記載することです。主軸と補助の位置づけを文脈や記述量で明確に差をつけることが、信頼性の観点から重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

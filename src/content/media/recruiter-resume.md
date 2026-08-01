@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["採用担当", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "recruiter-resume"
+hub: "recruiter"
 image: "/images/media/recruiter-resume.png"
 related: ["recruiter-skills", "recruiter-market-trend", "recruiter-how-to-use-agent", "customer-success-resume", "tech-lead-resume"]
 ---
@@ -20,6 +21,11 @@ related: ["recruiter-skills", "recruiter-market-trend", "recruiter-how-to-use-ag
 加えて、採用担当という職種自体が多様です。エージェント・媒体の管理を主とするオペレーション寄りの役割から、採用戦略の設計・採用ブランディング・タレントパイプラインの構築まで担うストラテジック寄りの役割まで幅があります。書類を読む側が「どのレベルの採用担当か」を誤読しないよう、自らの役割範囲を明確に書き分けることが不可欠です。
 
 また、採用担当が転職先として想定する企業には、「自社の採用をこの人物に任せられるか」という視点が強く働きます。職務経歴書そのものが、文書構成力・論理性・読み手への配慮という能力を示すポートフォリオに近い性質を持つことを意識する必要があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用担当の職務経歴書に必要な構成要素
 
@@ -97,6 +103,11 @@ related: ["recruiter-skills", "recruiter-market-trend", "recruiter-how-to-use-ag
 | 職種知識 | 担当してきた職種の理解度（エンジニア採用・営業採用・管理部門採用等） |
 
 採用担当においては特に、ATSの設定経験・採用データ分析の経験の有無が、ポジションのレベル感を判断する材料となりやすい傾向があります。ツールを「使ったことがある」に留まらず、「どのような目的でどう活用したか」を一言添える書き方が望ましいです。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

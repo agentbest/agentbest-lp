@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["DevOpsエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "devops-engineer-interview"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-interview.png"
 related: ["devops-engineer-company-size", "devops-engineer-english", "devops-engineer-career-path", "it-architect-interview", "hrbp-interview"]
 ---
@@ -24,6 +25,11 @@ DevOpsエンジニアのポジションは、企業によって求めるスコ�
 このため面接官は、候補者が「どの文脈でのDevOpsを経験してきたか」を最初に確認しようとします。技術スタックの一致・不一致よりも、問題に対する構造的なアプローチと、チームや組織への影響力を重視する傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問のカテゴリと評価意図
 
@@ -113,6 +119,11 @@ IaCに関しては、「書けること」よりも「チームで安全に運�
 | コミュニケーション | 非エンジニアへの説明経験がある | 技術用語を自明として語る |
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

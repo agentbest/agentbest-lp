@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["エンタープライズセールス", "資格"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-certification"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-certification.png"
 related: ["enterprise-sales-career-guide", "enterprise-sales-how-to-use-agent", "enterprise-sales-salary", "business-consultant-certification", "tech-lead-certification"]
 ---
@@ -20,6 +21,11 @@ related: ["enterprise-sales-career-guide", "enterprise-sales-how-to-use-agent", 
 資格はこれらの実績を代替するものではなく、あくまで**補完的な文脈**で機能します。特定の資格が選考の通過条件になることはほぼありませんが、商談の相手方や扱うソリューションの性質によっては、資格の有無が信頼性や専門性の説得力に影響する場面があります。
 
 言い換えると、「資格があるから採用・昇格する」のではなく、「この業界・この担当顧客・このフェーズでは、資格があることが商談の進行を助けやすい」という構造です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格とその文脈
 
@@ -81,6 +87,11 @@ SaaS・クラウド領域のエンタープライズセールスでは、扱う�
 2. **扱う製品・ソリューションの性質**：技術的な専門性が商談を左右する領域か、課題設定力・関係構築力が中心かによって優先度が変わります
 3. **現在の実績の充実度**：受注実績・担当フェーズ・アカウント数が薄い段階では、資格より実績を積む機会への投資が優先されやすいです
 4. **転職・社内評価のタイミング**：次の評価機会まで資格取得が間に合うかどうか、取得後に実務で使う文脈が自分のポジションに存在するかも重要です
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

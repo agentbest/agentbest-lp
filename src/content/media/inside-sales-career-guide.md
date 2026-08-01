@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["インサイドセールス", "転職ガイド"]
 pubDate: 2026-07-03
 slug: "inside-sales-career-guide"
+hub: "inside-sales"
 image: "/images/media/inside-sales-career-guide.png"
 related: ["inside-sales-salary-1000", "inside-sales-salary", "inside-sales-resume", "business-consultant-career-guide", "security-engineer-career-guide"]
 ---
@@ -29,6 +30,11 @@ related: ["inside-sales-salary-1000", "inside-sales-salary", "inside-sales-resum
 | BDR（Business Development Representative） | アウトバウンドターゲット（新規開拓） | コンタクト率・商談創出数 | 仮説構築・調査力・クリエイティブな接触設計が問われる |
 
 転職市場では、SDRポジションの求人が数としては多い傾向にある一方、BDRは戦略的な位置づけから給与レンジが高めに設定されるケースが多い。どちらを志向するかにより、準備すべきスキルセットも変わる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-career-guide">無料で相談する</a>
+</aside>
 
 ## インサイドセールスの市場価値：年収・需要の実態
 
@@ -98,6 +104,11 @@ SaaS営業の経験がない場合、最初の壁は「サブスクリプショ�
 - 志望動機が「非対面の方が自分に合っている気がする」という消極的な理由に聞こえる
 
 特に最後の点は注意が必要だ。採用側は「なぜこのプロダクト・この市場・この組織フェーズを選ぶのか」という積極的な選択理由を重視する傾向にある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

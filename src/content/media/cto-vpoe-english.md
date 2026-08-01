@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["CTO・VPoE候補", "英語力"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-english"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-english.png"
 related: ["cto-vpoe-interview", "cto-vpoe-certification", "cto-vpoe-salary", "freelance-consultant-english", "tech-lead-english"]
 ---
@@ -32,6 +33,11 @@ CTO・VPoE候補が英語力の必要性を検討するとき、問いの立て�
 これは「英語ができなければCTOになれない」という話ではなく、「英語の一次情報へのアクセスが技術的意思決定の質に影響しうる」という構造的な話である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力による求人の広がりと年収レンジの目安
 
@@ -97,6 +103,11 @@ TOEIC等のスコア自体は選考上の参考値に留まることが多く、
 技術カンファレンスへの英語登壇や、英語での技術発信（ブログ・ポッドキャスト）は、英語力の証明と同時に個人ブランディングとして機能する。外資系の選考では、候補者のオンライン上の発信が採用担当者に事前にチェックされることも珍しくなく、英語での技術発信は間接的に選考を有利に働かせる場合がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["CTO・VPoE候補", "面接対策"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-interview"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-interview.png"
 related: ["cto-vpoe-in-20s", "cto-vpoe-work-style", "cto-vpoe-career-guide", "it-architect-interview", "uiux-designer-interview"]
 ---
@@ -28,6 +29,11 @@ CTO・VPoEは採用ポジションとして見たとき、経営レイヤーと�
 この三層を意識せずに「技術的に優れた取り組みをしてきた」という実績紹介に終始すると、面接官の期待と大きくずれが生じます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問カテゴリと評価意図の整理
 
@@ -98,6 +104,11 @@ CTO・VPoE候補の面接で問われる質問は、大きく以下の四領域�
 **学び**：定量化できない技術課題は経営判断のテーブルに乗りにくい。技術リーダーとして求められるのは、技術的事実を経営言語に翻訳し続けることだという認識を持つに至った。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

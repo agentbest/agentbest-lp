@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["SaaS", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "saas-industry-company"
+hub: "saas-industry"
 image: "/images/media/saas-industry-company.png"
 related: ["saas-industry-career", "saas-industry-salary", "saas-industry-guide", "healthtech-industry-company", "iot-industry-company"]
 ---
@@ -31,6 +32,11 @@ SaaS企業は、同じ「SaaS」というカテゴリに括られていても、
 | 上場前後 | 50億円〜 | 1,000名〜 | 上場要件への対応・ガバナンス強化が進む |
 
 ARRの数値はあくまで目安であり、企業や業界によって適用は異なる。重要なのは「今その企業が何を最優先の課題としているか」を理解することだ。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-company">無料で相談する</a>
+</aside>
 
 ## 財務・事業指標で見るべき5つのポイント
 
@@ -109,6 +115,11 @@ SLG中心の企業と判断。マーケティングにはMQL供給とパイプ�
 - **プレイングマネージャー比率**：ミドルフェーズでは管理職もプレイヤー業務を担う割合が高く、マネジメントに専念できないケースがある
 - **エグゼクティブの質と経歴**：C-Suiteの経歴・前職・業界経験が自社フェーズと合致しているかは、経営判断の質に影響しやすい
 - **採用ペースと離職率**：急速な採用拡大が続いている一方で離職率が高い企業は、オンボーディングや文化的整合性に課題を抱えている可能性がある
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["SAPコンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "sap-consultant-career-path"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-career-path.png"
 related: ["sap-consultant-company-size", "sap-consultant-salary", "sap-consultant-certification", "backend-engineer-career-path", "mlops-engineer-career-path"]
 ---
@@ -30,6 +31,11 @@ SIer・コンサルファームを問わず、SAPコンサルタントの職位�
 この構造のなかで30代（入社5〜15年相当）は、シニアコンサルタントからマネージャーへの移行期に重なりやすい。技術力の蓄積がある一方、マネジメントスキルの有無によって報酬・ポジションに明確な差が生じ始めるフェーズでもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## 報酬レンジの目安
 
@@ -89,6 +95,11 @@ SAPを導入・保守・発展させる立場として、事業会社のIT部門
 **この型で重要な判断軸**：「マネジメント経験の有無が将来の選択肢を狭めるかどうか」を自問することが出発点になりやすい。技術スペシャリストとして市場価値を維持するには、SAP製品のアップデートへの継続的な追随と、プリセールス等を通じた対外的な実績が重要になる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

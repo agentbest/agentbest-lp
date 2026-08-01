@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["フロントエンドエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-failure"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-failure.png"
 related: ["frontend-engineer-company-size", "frontend-engineer-market-trend", "frontend-engineer-in-30s", "erp-consultant-failure", "cto-vpoe-failure"]
 ---
@@ -26,6 +27,11 @@ related: ["frontend-engineer-company-size", "frontend-engineer-market-trend", "f
 これらの構造的な特性を踏まえると、失敗の多くは「情報収集の深度不足」と「優先順位の言語化不足」に帰着する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターン7選
 
@@ -122,6 +128,11 @@ related: ["frontend-engineer-company-size", "frontend-engineer-market-trend", "f
 - [ ] 昇給の基準・頻度・評価制度の仕組み
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["人事・組織コンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "hr-consultant-how-to-use-agent"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-how-to-use-agent.png"
 related: ["hr-consultant-salary-600", "hr-consultant-future", "hr-consultant-company-size", "fullstack-engineer-how-to-use-agent", "risk-consultant-how-to-use-agent"]
 ---
@@ -24,6 +25,11 @@ related: ["hr-consultant-salary-600", "hr-consultant-future", "hr-consultant-com
 さらに、人事・組織系コンサルタントのポジションは、採用タイミングが特定のプロジェクト受注や組織拡大フェーズと連動することが多く、常時公開されているわけではありません。タイミングの問題が他職種以上に顕著なため、情報の鮮度と速度が転職成否に直結しやすいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを活用すべき実務的な理由
 
@@ -78,6 +84,11 @@ related: ["hr-consultant-salary-600", "hr-consultant-future", "hr-consultant-com
 エージェントが介在することで、「組織診断からグレーディング設計・HR部門の機能再編まで一貫して担当したプロジェクト」を前面に出し、他の経験は補完的に配置する整理が行われます。面接においても、「なぜ特化ファームを選ぶのか」という問いに対して、企業側の課題感と候補者の志向を接続する文脈を事前に構築できます。この種の「経験の再配置」は、独力での書類作成では見落としやすいポイントです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

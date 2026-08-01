@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["広報／PR", "20代転職"]
 pubDate: 2026-07-04
 slug: "pr-in-20s"
+hub: "pr"
 image: "/images/media/pr-in-20s.png"
 related: ["pr-skills", "pr-motivation", "pr-career-path", "engineering-manager-in-20s", "marketing-manager-in-20s"]
 ---
@@ -40,6 +41,11 @@ related: ["pr-skills", "pr-motivation", "pr-career-path", "engineering-manager-i
 これらは広報専任としての業務でなくとも、マーケティング・インサイドセールス・カスタマーサクセス・採用担当などの業務の中で培われやすいものである。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 企業フェーズ別の特性と狙い目の整理
 
@@ -110,6 +116,11 @@ IT系SaaS企業でカスタマーサクセス（CS）を2〜3年経験した20�
 いずれも「量」より「なぜこの構成・この切り口にしたか」を説明できる状態にしておくことが重要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

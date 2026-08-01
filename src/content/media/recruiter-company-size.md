@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["採用担当", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "recruiter-company-size"
+hub: "recruiter"
 image: "/images/media/recruiter-company-size.png"
 related: ["recruiter-motivation", "recruiter-market-trend", "recruiter-in-20s", "hr-consultant-company-size", "pmo-company-size"]
 ---
@@ -26,6 +27,11 @@ related: ["recruiter-motivation", "recruiter-market-trend", "recruiter-in-20s", 
 この構造的な違いが、数年後のスキルセットに直接影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-company-size">キャリアを相談する</a>
+</aside>
 
 ## スキル・経験の比較
 
@@ -99,6 +105,11 @@ related: ["recruiter-motivation", "recruiter-market-trend", "recruiter-in-20s", 
 - 安定した就業環境・処遇水準を優先したい
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

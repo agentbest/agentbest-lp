@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["SRE", "面接対策"]
 pubDate: 2026-07-04
 slug: "sre-interview"
+hub: "sre"
 image: "/images/media/sre-interview.png"
 related: ["sre-certification", "sre-career-path", "sre-english", "freelance-consultant-interview", "ml-engineer-interview"]
 ---
@@ -22,6 +23,11 @@ SRE職の面接は、一般的なソフトウェアエンジニアの面接と�
 3. **組織・プロセスへの働きかけ**：開発チームとの関係構築や、toil削減に向けた構造的な改善経験があるか
 
 これらは「知識として知っているか」より「実際の業務の中でどう使ったか」を問う形式で出題されることが多い。回答を準備する際は、抽象的な定義の暗記より、自身の経験と紐付けた語り方の練習に時間を割くことが効果的である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問のカテゴリと評価ポイント
 
@@ -95,6 +101,11 @@ SRE面接の回答に共通して有効な構造がある。以下の3層で語�
 ---
 
 この型のポイントは、技術的な解決だけでなく「開発チームとの合意形成プロセス」が含まれていることである。SREの役割の本質は開発チームとの協働にあるため、この視点が含まれると評価が上がりやすい傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

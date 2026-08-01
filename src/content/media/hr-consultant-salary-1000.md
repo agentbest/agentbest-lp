@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["人事・組織コンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "hr-consultant-salary-1000"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-salary-1000.png"
 related: ["hr-consultant-future", "hr-consultant-from-scratch", "hr-consultant-skills", "data-engineer-salary-1000", "finance-salary-1000"]
 ---
@@ -26,6 +27,11 @@ related: ["hr-consultant-future", "hr-consultant-from-scratch", "hr-consultant-s
 | HRテック・SaaS企業（CSM・事業開発） | 5〜12年 | 600〜1,100万円程度 |
 
 上記はあくまで市場における一般的な相場観であり、企業規模・業績連動報酬・インセンティブ設計によって個別差が生じます。重要なのは、ファームに所属するだけで年収が自動的に上昇するわけではなく、**プロジェクト単価への貢献度・クライアント獲得への関与度・知識の希少性**の三つが報酬に直結するという構造です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの特徴
 
@@ -71,6 +77,11 @@ HRテクノロジーの普及にともない、人事・組織コンサルタン
 HRテック・SaaS企業でカスタマーサクセスや導入支援に従事し、顧客の組織課題への解決策設計に関与。組織課題の解像度とテクノロジーへの理解を両立させた上で、社内の事業開発・パートナーセールスへ異動、または外部のコンサルファームへ転職。データとHR業務を接続できる専門家として市場価値が高まりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

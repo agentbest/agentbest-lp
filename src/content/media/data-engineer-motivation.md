@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["データエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "data-engineer-motivation"
+hub: "data-engineer"
 image: "/images/media/data-engineer-motivation.png"
 related: ["data-engineer-company-size", "data-engineer-salary-600", "data-engineer-market-trend", "devops-engineer-motivation", "recruiter-motivation"]
 ---
@@ -40,6 +41,11 @@ related: ["data-engineer-company-size", "data-engineer-salary-600", "data-engine
 「データの民主化を推進し、非エンジニア職種が自律的に分析できる環境を整備したい」「データ品質の担保によって意思決定コストを下げることに貢献したい」といった視点は、採用担当者に対してビジネス理解の深さを示す材料になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の例文（型）
 
@@ -94,6 +100,11 @@ NGパターンに共通するのは、「自分視点のみで語られており
 たとえばスタートアップへの応募で「大企業で培った厳密な運用経験を活かしたい」とのみ述べても、「スピード感への適応力があるか」という採用側の懸念に答えられない。ポジションが求める文脈を読み取り、志望動機の重心を調整することが重要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

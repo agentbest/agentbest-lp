@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["モビリティ・自動運転", "業界年収"]
 pubDate: 2026-07-05
 slug: "mobility-industry-salary"
+hub: "mobility-industry"
 image: "/images/media/mobility-industry-salary.png"
 related: ["mobility-industry-company", "mobility-industry-guide", "mobility-industry-career", "game-industry-salary", "ec-industry-salary"]
 ---
@@ -28,6 +29,11 @@ related: ["mobility-industry-company", "mobility-industry-guide", "mobility-indu
 転職市場で「モビリティ・自動運転」として求人が立つ場合、大半はこのいずれかに属する。従来の自動車OEMや部品メーカーに加え、IT系スタートアップ、商社・シンクタンク系の新規事業体、外資系ティア1サプライヤーなども参入しており、同じ職種でも母体企業によって年収水準が異なることに注意が必要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 職種別の年収レンジ目安
 
@@ -109,6 +115,11 @@ SDV（Software Defined Vehicle）への転換を本格的に推進している�
 スタートアップ案件では総報酬の一部をストックオプション（SO）で提示されることがある。SOの価値は行使価格・ベスティングスケジュール・優先株の内容によって大きく異なる。固定給との比較で判断するのではなく、SOの条件を別途精査した上で判断することが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

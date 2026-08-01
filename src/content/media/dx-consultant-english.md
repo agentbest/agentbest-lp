@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["DXコンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "dx-consultant-english"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-english.png"
 related: ["dx-consultant-market-trend", "dx-consultant-future", "dx-consultant-certification", "data-scientist-english", "big4-consultant-english"]
 ---
@@ -36,6 +37,11 @@ DXコンサルタントの業務では、以下のシーンで英語力が直接
 また、DX推進のリードを担うポジションでは、海外の先行事例をリサーチしてクライアントに提言する機会があります。英語の一次情報を直接参照できるかどうかは、コンサルタントとしての知見の質と速度に影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力が年収に与える影響
 
@@ -83,6 +89,11 @@ ERPシステムの導入支援を中心に経験を積んできた5年目のコ�
 パートナーや部門責任者クラスで英語圏のクライアントと直接折衝するポジションでは、ニュアンスまで含めた高度な英語運用が必要です。この水準は、海外留学経験や実務での英語運用歴によって形成されることが多く、スコアだけでは評価されにくいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["リーガルテック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "legaltech-industry-career"
+hub: "legaltech-industry"
 image: "/images/media/legaltech-industry-career.png"
 related: ["legaltech-industry-guide", "legaltech-industry-salary", "legaltech-industry-company", "ai-industry-career", "ma-industry-career"]
 ---
@@ -37,6 +38,11 @@ related: ["legaltech-industry-guide", "legaltech-industry-salary", "legaltech-in
 この構造を把握しておくことで、自分の強みがどのセグメントで活きるかを事前に判断しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## 業界で評価されやすい経験の組み合わせ
 
@@ -97,6 +103,11 @@ LLM（大規模言語モデル）を活用した契約書レビュー支援や�
 リーガルテックの業界構造・顧客課題・プロダクト開発の論理を横断的に理解した人材は、初期段階のリーガルテックスタートアップにおける事業開発や経営補佐ポジションに声がかかりやすい。特に「法務ドメイン×SaaS事業経験×コンサル素養」という組み合わせは、希少性が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-career">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

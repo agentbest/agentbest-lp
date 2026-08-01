@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["開発ディレクター", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "dev-director-career-path"
+hub: "dev-director"
 image: "/images/media/dev-director-career-path.png"
 related: ["dev-director-english", "dev-director-interview", "dev-director-salary-600", "salesforce-consultant-career-path", "qa-engineer-career-path"]
 ---
@@ -26,6 +27,11 @@ related: ["dev-director-english", "dev-director-interview", "dev-director-salary
 この「職務の幅の広さ」が、転職市場でのポジション交渉を複雑にする要因です。同じ「開発ディレクター」という肩書きでも、保有スキルセットと実績の性質が大きく異なるため、次の選択肢を考える際には職種名よりも「何をどこまでできるか」という機能面の棚卸しが先決です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-career-path">無料で相談する</a>
+</aside>
 
 ## 30代で直面する3つの分岐点
 
@@ -110,6 +116,11 @@ SaaS企業のPMポジションでは、プロダクト戦略の策定経験や�
 また、生成AI活用やアジャイル・スクラムへの深い理解など、近年求められるスキルセットの更新を意識的に行っておくことも、選択肢の幅を維持するうえで重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

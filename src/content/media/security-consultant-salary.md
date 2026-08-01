@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["セキュリティコンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "security-consultant-salary"
+hub: "security-consultant"
 image: "/images/media/security-consultant-salary.png"
 related: ["security-consultant-in-30s", "security-consultant-career-path", "security-consultant-future", "pmo-salary", "it-architect-salary"]
 ---
@@ -32,6 +33,11 @@ related: ["security-consultant-in-30s", "security-consultant-career-path", "secu
 年収の分布が広い理由は、「セキュリティコンサルタント」という職種名が、技術的なペネトレーションテストから経営層向けのガバナンス助言まで、業務内容の幅が大きいことにある。技術実装に近い側と経営意思決定に近い側では、必要なスキルセットが異なり、市場での評価軸も変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-salary">無料で相談する</a>
+</aside>
 
 ## 年代・経験年数別の年収レンジ
 
@@ -102,6 +108,11 @@ CISSPとCISMは特にコンサルティングファームや事業会社の管�
 3. **ビジネス貢献の言語化**を意識すること。技術的な成果を経営インパクトに翻訳できる人材は、上位ポジションへの評価につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

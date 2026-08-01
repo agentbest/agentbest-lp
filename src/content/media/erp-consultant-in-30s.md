@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["ERPコンサルタント", "30代転職"]
 pubDate: 2026-07-05
 slug: "erp-consultant-in-30s"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-in-30s.png"
 related: ["erp-consultant-salary", "erp-consultant-career-guide", "erp-consultant-company-size", "product-manager-in-30s", "business-planning-in-30s"]
 ---
@@ -33,6 +34,11 @@ ERPコンサルタントの採用市場は、景気サイクルや企業のDX投
 ※いずれも目安であり、企業規模・担当製品・個人のグレードによって変動します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 即戦力として評価される3つのスキル軸
 
@@ -95,6 +101,11 @@ ERPコンサルタントに固有の価値は、業務側とシステム側の�
 また、面接準備としては「Fit & Skills」双方への備えが必要です。スキル面の質問（特定製品の設定方法・移行設計の考え方など）に加え、ファームや事業会社の組織文化・業界への理解を問う質問も出ます。技術的な準備だけに偏ると、後者の場面で回答が薄くなりやすい点に注意が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

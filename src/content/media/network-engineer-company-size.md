@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["ネットワークエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "network-engineer-company-size"
+hub: "network-engineer"
 image: "/images/media/network-engineer-company-size.png"
 related: ["network-engineer-certification", "network-engineer-motivation", "network-engineer-salary-1000", "post-consultant-company-size", "sre-company-size"]
 ---
@@ -26,6 +27,11 @@ related: ["network-engineer-certification", "network-engineer-motivation", "netw
 このため、「大手かスタートアップか」という軸の選択が、スキルポートフォリオの方向性を中長期的に規定しやすい職種といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 大手企業とスタートアップの比較
 
@@ -114,6 +120,11 @@ SaaS企業や、プロダクト開発を主体とするスタートアップの�
 この型から読み取れるのは、「現職の強みを棄却するのではなく、レバレッジをかける転先を選ぶ」という視点の有効性である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

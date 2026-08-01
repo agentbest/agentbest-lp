@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["SaaS営業", "面接対策"]
 pubDate: 2026-07-03
 slug: "saas-sales-interview"
+hub: "saas-sales"
 image: "/images/media/saas-sales-interview.png"
 related: ["saas-sales-english", "saas-sales-from-scratch", "saas-sales-salary", "data-consultant-interview", "sap-consultant-interview"]
 ---
@@ -24,6 +25,11 @@ SaaS企業の採用担当者・現場マネージャーは、候補者に対し�
 面接官は、候補者がこの構造を自覚しているかどうかを確認しようとしている。単に「目標を達成してきた」という経験談では評価が伸び悩みやすく、どのような思考プロセスで顧客の課題を特定し、どう価値を訴求してきたかが問われる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問とその評価意図
 
@@ -108,6 +114,11 @@ Aさんは面接の準備として、まず自分の経験をSaaSの文脈で再
 この事例が示すのは、「経験の有無」よりも「経験の翻訳精度」が評価を左右するという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

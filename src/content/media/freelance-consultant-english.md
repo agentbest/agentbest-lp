@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["フリーコンサルタント", "英語力"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-english"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-english.png"
 related: ["freelance-consultant-salary-600", "freelance-consultant-in-30s", "freelance-consultant-future", "customer-success-english", "hrbp-english"]
 ---
@@ -22,6 +23,11 @@ related: ["freelance-consultant-salary-600", "freelance-consultant-in-30s", "fre
 **英語力が有利に働く局面**は、より広範に存在する。日系大手企業のグローバル展開支援、M&Aのクロスボーダー案件、海外拠点の立ち上げ支援、ERP・SaaSの国際ロールアウトなど、プロジェクト内に英語コンテンツが混在するケースだ。こうした案件では、英語ができるコンサルタントが相対的に少ないため、同等の専門性を持つ候補者の中でポジショニングが有利になりやすい。
 
 一方で、国内向けの業務改善、IT導入支援、PMO、組織・人事領域の多くは、英語を必要としない案件として安定的に流通している。英語力がなければフリーコンサルタントとして活動できないという認識は、実態とは乖離している。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力別・案件傾向と月額単価の目安
 
@@ -65,6 +71,11 @@ related: ["freelance-consultant-salary-600", "freelance-consultant-in-30s", "fre
 **英語スキルをエージェントや案件紹介先に明示する。** 独立後の案件獲得では、自身のスキルセットをいかに明確に提示できるかが重要になる。英語での実務経験があれば、過去の案件での使用場面を具体的に示すことで、マッチング精度が高まりやすい。TOEIC等のスコアは参考情報として有効だが、実務使用経験の記述の方が、案件要件とのマッチングにおいては重視される傾向にある。
 
 **英語のみを差別化要素にしない。** 英語力は専門性と組み合わさって初めて高い付加価値を持つ。英語が達者でも、コンサルティングの専門性や業務遂行能力が伴わなければ、案件定着率や評価には直結しない。英語はあくまで専門性を届ける「範囲を広げるレバー」として位置づけることが適切だ。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

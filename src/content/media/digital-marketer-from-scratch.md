@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["デジタルマーケター", "未経験転職"]
 pubDate: 2026-07-04
 slug: "digital-marketer-from-scratch"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-from-scratch.png"
 related: ["digital-marketer-interview", "digital-marketer-certification", "digital-marketer-salary-600", "data-analyst-from-scratch", "product-designer-from-scratch"]
 ---
@@ -29,6 +30,11 @@ related: ["digital-marketer-interview", "digital-marketer-certification", "digit
 未経験からの転職において現実的に入口となるのは、「広告運用アシスタント」「コンテンツ・SEOアシスタント」「SNS運用」の3領域です。データ分析やMA運用は、業務経験がないと書類選考での通過率が下がる傾向があります。
 
 重要なのは、「デジタルマーケター全般」ではなく「どの領域から入るか」を最初に決めることです。この解像度が低いまま転職活動を進めると、志望動機が抽象的になり、面接での評価に影響しやすくなります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験者に求められる「最低ライン」
 
@@ -91,6 +97,11 @@ GA4の基礎学習とGoogle広告認定資格の取得を並行。自社製品�
 マーケティング組織では、施策ごとの費用対効果を継続的に可視化するレポーティングが基本業務です。この作業を丁寧に継続し、「数字を正確に読める人」という信頼を積み上げることが、次の施策立案を任せてもらえる前提になります。
 
 また、自分が担当する領域に関して、業界メディアや競合事例を週次でインプットし、アイデアの引き出しを増やしていく習慣も評価されやすいです。「学び続けている」ことが可視化される行動は、採用側が未経験者に期待する「早期戦力化」の期待値に応えることになります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

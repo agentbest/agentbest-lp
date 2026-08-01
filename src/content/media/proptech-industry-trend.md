@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["不動産テック", "業界動向"]
 pubDate: 2026-07-05
 slug: "proptech-industry-trend"
+hub: "proptech-industry"
 image: "/images/media/proptech-industry-trend.png"
 related: ["proptech-industry-guide", "proptech-industry-company", "proptech-industry-career", "adtech-industry-trend", "healthtech-industry-trend"]
 ---
@@ -31,6 +32,11 @@ related: ["proptech-industry-guide", "proptech-industry-company", "proptech-indu
 転職先を選ぶ際には、「不動産テック全体の成長」ではなく「どのセグメントで何を担うか」を軸に検討することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-trend">無料で相談する</a>
+</aside>
 
 ## 2025〜2026年の成長ドライバー
 
@@ -106,6 +112,11 @@ related: ["proptech-industry-guide", "proptech-industry-company", "proptech-indu
 - **組織のDEI・評価制度**：伝統的不動産業界文化を引き継いでいる企業と、SaaS的評価文化を持つ企業では職場環境が大きく異なる
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

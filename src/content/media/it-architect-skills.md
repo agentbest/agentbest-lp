@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["ITアーキテクト", "必要スキル"]
 pubDate: 2026-07-04
 slug: "it-architect-skills"
+hub: "it-architect"
 image: "/images/media/it-architect-skills.png"
 related: ["it-architect-english", "it-architect-in-20s", "it-architect-career-guide", "security-consultant-skills", "db-engineer-skills"]
 ---
@@ -22,6 +23,11 @@ ITアーキテクトの職域は、インフラ設計からアプリケーショ
 3. **ビジネス・組織への翻訳力（Translation Capability）**：技術的判断をステークホルダーに伝える力
 
 この三層は独立しているのではなく、相互に補完し合う関係にある。技術知識が浅ければ設計判断の根拠が脆弱になり、アーキテクチャ思考が欠ければ局所最適な提案に終始し、翻訳力がなければ組織の意思決定に影響を与えられない。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキルカテゴリ別の詳細と優先順位
 
@@ -93,6 +99,11 @@ ARD（Architecture Review Document）やADR（Architecture Decision Record）を
 ### フェーズ3（8年目〜：組織・事業との統合）
 
 技術判断が組織設計・採用・事業戦略に与える影響を扱える段階。エンタープライズアーキテクチャの視点、CTO・CPOとの協働、ベンダー戦略への関与などが主要な業務領域となる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

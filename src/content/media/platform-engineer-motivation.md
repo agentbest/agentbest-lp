@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["プラットフォームエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "platform-engineer-motivation"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-motivation.png"
 related: ["platform-engineer-career-guide", "platform-engineer-from-scratch", "platform-engineer-in-20s", "bizdev-motivation", "pmo-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["platform-engineer-career-guide", "platform-engineer-from-scratch", "p
 プラットフォームエンジニアリングは、開発チームを「内部顧客」として捉え、セルフサービス型のインフラ基盤・CI/CDパイプライン・開発者ポータルなどを整備することで、組織全体のデリバリー速度と信頼性を高めることを目的とする。この定義を理解していない志望動機は、冒頭で評価者の興味を失わせやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -95,6 +101,11 @@ related: ["platform-engineer-career-guide", "platform-engineer-from-scratch", "p
 | コンサルタント／PMからの転向 | 組織横断の調整経験、要件定義力 | 技術スタックの習得状況と学習計画を具体的に示す |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

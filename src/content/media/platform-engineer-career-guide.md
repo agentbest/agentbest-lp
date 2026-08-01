@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["プラットフォームエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "platform-engineer-career-guide"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-career-guide.png"
 related: ["platform-engineer-how-to-use-agent", "platform-engineer-failure", "platform-engineer-salary-1000", "post-consultant-career-guide", "product-designer-career-guide"]
 ---
@@ -45,6 +46,11 @@ related: ["platform-engineer-how-to-use-agent", "platform-engineer-failure", "pl
 - 開発チームへのプラットフォーム利用支援・ドキュメント整備
 
 特筆すべきは、最後の2項目に見られるように、技術実装にとどまらず「いかに開発者に使ってもらえるか」という普及・啓発の観点が求められる点です。社内ステークホルダーへの説明能力や、開発者のフィードバックを吸収してプラットフォームを改善するサイクルを回す力が実務上は重要になります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値と年収の目安
 
@@ -98,6 +104,11 @@ Kubernetesはエントリー要件として扱われる場面が増えており�
 結果として、スタートアップから上場企業まで複数のオファーを受け、年収を200万円程度引き上げたかたちでシニアプラットフォームエンジニアとして転職しています。
 
 このケースから読み取れる示唆は、**経験のギャップを技術的なアウトプットと論理的なキャリアストーリーで補う**という点です。完璧な実務経験がなくても、設計思想と意図の言語化が採用判断を左右するケースは少なくありません。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

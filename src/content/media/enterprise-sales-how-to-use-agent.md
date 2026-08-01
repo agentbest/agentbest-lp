@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["エンタープライズセールス", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-how-to-use-agent"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-how-to-use-agent.png"
 related: ["enterprise-sales-certification", "enterprise-sales-english", "enterprise-sales-resume", "fas-consultant-how-to-use-agent", "corporate-planning-how-to-use-agent"]
 ---
@@ -38,6 +39,11 @@ related: ["enterprise-sales-certification", "enterprise-sales-english", "enterpr
 エージェントを通じた応募では、企業側から選考途中のフィードバックが伝えられることが多く、それを次の面接準備に活かすことができる。また、複数社の選考を並走させている場合、エージェントはそれぞれの企業評価を総合して「この候補者は何で差がついているか」を俯瞰する視点を提供しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エンタープライズセールス転職に強いエージェントの見極め方
 
@@ -89,6 +95,11 @@ related: ["enterprise-sales-certification", "enterprise-sales-english", "enterpr
 複数種別を並走させる場合は、各エージェントへの求職意向の伝え方を統一しておくことが重要だ。エージェントごとに微妙に異なる情報を伝えると、企業側でのダブルエントリー確認時に不整合が生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

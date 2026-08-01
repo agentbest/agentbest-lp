@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["QAエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "qa-engineer-failure"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-failure.png"
 related: ["qa-engineer-future", "qa-engineer-resume", "qa-engineer-career-guide", "ml-engineer-failure", "cto-vpoe-failure"]
 ---
@@ -34,6 +35,11 @@ QAエンジニアの転職は、開発職と比較して求人情報の粒度が
 | 品質文化がなくQAが形骸化していた | 面接 | 組織文化の調査不足 |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## 失敗パターン別の詳細と見抜き方
 
@@ -125,6 +131,11 @@ QAエンジニアは、開発エンジニアと比較して市場での給与レ
 - [ ] 入社後の配属先・チーム構成を確認した
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

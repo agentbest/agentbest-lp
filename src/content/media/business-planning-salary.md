@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["事業企画", "年収相場"]
 pubDate: 2026-07-04
 slug: "business-planning-salary"
+hub: "business-planning"
 image: "/images/media/business-planning-salary.png"
 related: ["business-planning-in-30s", "business-planning-failure", "business-planning-career-path", "legal-salary", "cloud-engineer-salary"]
 ---
@@ -25,6 +26,11 @@ related: ["business-planning-in-30s", "business-planning-failure", "business-pla
 | 30代後半（部長・事業責任者クラス） | 1,000〜1,500万円以上 | P&L管理、経営層との折衝 |
 
 これはあくまで市場全体の目安であり、外資系企業・高成長SaaS・大手コンサルティングファーム出身者が事業会社へ転じるケースなどでは、上記を上回る提示が出ることも少なくない。反対に、業歴の浅いスタートアップや伝統的な製造業では、役割の実態がマネジャー相当であっても提示額が抑えられる場合がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-salary">無料で相談する</a>
+</aside>
 
 ## 年収を決める4つの構造的要因
 
@@ -90,6 +96,11 @@ related: ["business-planning-in-30s", "business-planning-failure", "business-pla
 ### 3. 業界・企業規模のアップグレード
 
 現在の業界から収益性の高い業界へのシフトは、同一スキルでも年収水準を変える効果がある。製造業系の事業企画からSaaS企業の事業企画へ、あるいは事業会社からPE（プライベートエクイティ）系企業のバリューアップ部門へといった移動は、市場での評価額が変わる代表的なパターンである。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

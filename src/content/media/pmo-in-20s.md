@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["PMO", "20代転職"]
 pubDate: 2026-07-04
 slug: "pmo-in-20s"
+hub: "pmo"
 image: "/images/media/pmo-in-20s.png"
 related: ["pmo-career-path", "pmo-company-size", "pmo-how-to-use-agent", "sre-in-20s", "presales-in-20s"]
 ---
@@ -25,6 +26,11 @@ PMOという職種は、組織によって役割の幅が大きく異なる。�
 - リスク・課題の一次トリアージと担当者への連携
 
 こうした業務は一見補佐的に見えるが、プロジェクト全体像の把握・調整能力の向上につながる。20代でPMO経験を積んだ人材は、30代以降にプロジェクトマネージャーやシニアPMOへ昇格するパスが開けやすい傾向にある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用が発生しやすい条件
 
@@ -84,6 +90,11 @@ CS業務では、顧客の導入プロジェクトに伴走しながら、スケ
 このパターンでは、面接において「CS業務でのプロジェクト伴走経験」「関係者調整の実績」「報告資料の作成・管理の経験」を具体的に言語化することで、PMOへの適性を訴求しやすい。
 
 年収水準については、転職先の企業規模・業種・ポジションによって幅が大きく、一般的な目安として20代中盤のCSからPMOへの転職では年収が同水準〜やや上昇するケースと、下降するケースの両方が存在する。コンサルティングファームや大手SIerへの転職では上昇しやすい傾向があるが、あくまでも個別の条件による。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

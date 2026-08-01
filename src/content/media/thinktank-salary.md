@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["シンクタンク研究員", "年収相場"]
 pubDate: 2026-07-05
 slug: "thinktank-salary"
+hub: "thinktank"
 image: "/images/media/thinktank-salary.png"
 related: ["thinktank-work-style", "thinktank-from-scratch", "thinktank-career-path", "security-consultant-salary", "post-consultant-salary"]
 ---
@@ -40,6 +41,11 @@ related: ["thinktank-work-style", "thinktank-from-scratch", "thinktank-career-pa
 修士・博士の学位は、採用条件として求められる場合がある一方、それ単独で年収が大きく上がるわけではありません。実務に近い分析スキル（計量経済・データサイエンス・財務モデリング等）と、政策・ビジネスの文脈を橋渡しできる経験の掛け合わせが、年収交渉において有効に機能する傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年齢・ポジション別の年収レンジ目安
 
@@ -95,6 +101,11 @@ Pythonによるデータ分析、計量経済学的な手法、ダッシュボ�
 現職に留まりながらも、3〜4年ごとに外部マーケットでの自分の評価を確認することは有益です。書類選考・面談を通じて、どのスキル・実績が評価されやすいかを把握することで、現職での交渉材料の整理や、キャリアの修正点の発見につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

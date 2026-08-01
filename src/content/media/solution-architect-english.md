@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["ソリューションアーキテクト", "英語力"]
 pubDate: 2026-07-04
 slug: "solution-architect-english"
+hub: "solution-architect"
 image: "/images/media/solution-architect-english.png"
 related: ["solution-architect-resume", "solution-architect-future", "solution-architect-how-to-use-agent", "big4-consultant-english", "security-consultant-english"]
 ---
@@ -31,6 +32,11 @@ related: ["solution-architect-resume", "solution-architect-future", "solution-ar
 - 社内ケーススタディや技術認定プログラムへの参加
 
 この層では、TOEIC 800点台後半以上を求人票で明示するか、「Business level English」という形で実用レベルを求める傾向があります。ただし点数そのものより、「技術的な議題を英語でディスカッションできるか」が実態として問われます。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力別・求人アクセスと年収の目安
 
@@ -70,6 +76,11 @@ related: ["solution-architect-resume", "solution-architect-future", "solution-ar
 - **公式ドキュメント・ホワイトペーパーの精読：** 各クラウドプロバイダーやセキュリティベンダーの技術ドキュメントを、翻訳に頼らず読む習慣
 - **認定試験の英語版受験：** 試験内容そのものへの影響はありませんが、英語で問題を処理する訓練になり、実務に近い形で技術英語が定着しやすいです
 - **コミュニティへの参加：** GitHubのIssueやStack Overflowへの英語での参加は、インプット・アウトプット双方の練習として実務的な文脈で機能します
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

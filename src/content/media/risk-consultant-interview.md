@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["リスク・ガバナンスコンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "risk-consultant-interview"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-interview.png"
 related: ["risk-consultant-future", "risk-consultant-market-trend", "risk-consultant-company-size", "uiux-designer-interview", "data-consultant-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["risk-consultant-future", "risk-consultant-market-trend", "risk-consul
 第三に、**グレーゾーンへの耐性**を問う場面が多い点。規制対応やリスク評価の実務では「白黒つけられない領域」を扱うことが常態であるため、不確実性の中での判断経験や、リスクとビジネス機会のトレードオフを整理した経験を問う質問が出やすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問の類型と回答設計の考え方
 
@@ -128,6 +134,11 @@ STAR形式（状況→課題→行動→結果）は基本的な枠組みとし�
 この回答例のポイントは、「結論（何が起きたか）」「分析プロセス（どう考えたか）」「対話の設計（どう伝えたか）」「学習（何を得たか）」の四要素が含まれている点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

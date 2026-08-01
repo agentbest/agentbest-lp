@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["セキュリティエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "security-engineer-in-30s"
+hub: "security-engineer"
 image: "/images/media/security-engineer-in-30s.png"
 related: ["security-engineer-how-to-use-agent", "security-engineer-career-path", "security-engineer-motivation", "business-consultant-in-30s", "network-engineer-in-30s"]
 ---
@@ -34,6 +35,11 @@ related: ["security-engineer-how-to-use-agent", "security-engineer-career-path",
 - ステークホルダーへの報告・説明経験（非技術者向けのコミュニケーション能力）
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 求められるスキルセットと職種区分
 
@@ -114,6 +120,11 @@ GRC・リスク管理寄りのポジションは技術職より年収帯がや�
 - クラウド環境（AWS・GCP・Azure）のセキュリティ設定・レビュー経験
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

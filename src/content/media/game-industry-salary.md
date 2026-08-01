@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["ゲーム・エンタメテック", "業界年収"]
 pubDate: 2026-07-05
 slug: "game-industry-salary"
+hub: "game-industry"
 image: "/images/media/game-industry-salary.png"
 related: ["game-industry-trend", "game-industry-guide", "game-industry-career", "ma-industry-salary", "hrtech-industry-salary"]
 ---
@@ -38,6 +39,11 @@ related: ["game-industry-trend", "game-industry-guide", "game-industry-career", 
 表から読み取れる通り、技術系職種の中でもMLエンジニアやテクニカルディレクターは相対的に高い水準に位置しやすい。これは生成AIをゲームやコンテンツ生成に活用する需要が急拡大していることと、候補者の絶対数が少ないことが組み合わさった結果とみられる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-salary">無料で相談する</a>
+</aside>
 
 ## 年収が高い企業に共通する構造的な特徴
 
@@ -103,6 +109,11 @@ GCP / AWSを活用したマイクロサービス化プロジェクトにボラ�
 - **昇給テーブルの設計**：年齢・年次連動なのか、貢献・成果連動なのかを確認する
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

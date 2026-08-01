@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["プラットフォームエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "platform-engineer-in-20s"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-in-20s.png"
 related: ["platform-engineer-from-scratch", "platform-engineer-career-guide", "platform-engineer-salary-1000", "game-engineer-in-20s", "db-engineer-in-20s"]
 ---
@@ -42,6 +43,11 @@ related: ["platform-engineer-from-scratch", "platform-engineer-career-guide", "p
 難易度が最も低いのは、SREやクラウドインフラエンジニアからの横移動である。IaC（Infrastructure as Code）やCI/CDの概念をすでに扱っている場合、プラットフォームエンジニアリングとのスキルオーバーラップが大きい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## ポテンシャル採用の実態と企業側の論理
 
@@ -110,6 +116,11 @@ CI/CDはあるが標準化されていない、Terraformは一部導入済みだ
 このケースでは、実務経験よりも「問題意識の明確さ」と「自走学習の証跡」が評価の決め手となっている。同様の型を持つ候補者には、職種転換時のポジション選定と志望動機の構造化が特に重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

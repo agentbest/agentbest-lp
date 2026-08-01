@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["エンジニアリングマネージャー", "20代転職"]
 pubDate: 2026-07-04
 slug: "engineering-manager-in-20s"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-in-20s.png"
 related: ["engineering-manager-failure", "engineering-manager-certification", "engineering-manager-career-path", "corporate-planning-in-20s", "presales-in-20s"]
 ---
@@ -26,6 +27,11 @@ EMという職種の定義は企業によって大きく異なる。この点を
 | プロダクトEM型 | チーム目標設定・ロードマップ調整・ステークホルダー管理 | PMに近い役割を担う場合もある |
 
 20代のポテンシャル採用において多いのは「ハイブリッド型」の初期ポジションである。技術的な信頼をある程度保ちながら、マネジメントの学習機会を与えるという設計が採用側にとってリスクを抑えやすいためだ。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用の実態：採用側が何を見ているか
 
@@ -93,6 +99,11 @@ EMはエンジニアリングと事業の橋渡し役を担うことが多い。
 | 大手企業のデジタル部門（内製化推進） | 600万〜800万円程度 |
 
 なお、ストックオプションの有無や裁量労働の適用がある場合は、実質的な報酬設計が大きく変わる点にも注意が必要である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

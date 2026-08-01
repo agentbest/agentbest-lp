@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["セキュリティエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "security-engineer-how-to-use-agent"
+hub: "security-engineer"
 image: "/images/media/security-engineer-how-to-use-agent.png"
 related: ["security-engineer-salary-600", "security-engineer-company-size", "security-engineer-interview", "big4-consultant-how-to-use-agent", "mobile-engineer-how-to-use-agent"]
 ---
@@ -40,6 +41,11 @@ related: ["security-engineer-salary-600", "security-engineer-company-size", "sec
 セキュリティエンジニアの年収レンジは、職種・経験・レイヤーによって幅が広く、かつ市場に出ている情報が少ない。自己応募で内定を得た場合、提示された年収が市場水準に照らして適正かどうかを判断する材料が乏しくなりやすい。エージェントは同職種の複数の成約事例を持っており、交渉の根拠として機能する相場情報を持っている点で、候補者にとって交渉上の補完材料となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## セキュリティエンジニア向けエージェントの選定基準
 
@@ -92,6 +98,11 @@ related: ["security-engineer-salary-600", "security-engineer-company-size", "sec
 面接では技術的な経験だけでなく、「ビジネスリスクをどう判断するか」という観点を問われやすい。エージェントが事前に企業ごとの傾向を把握していれば、面接準備の精度が上がる。内定後の年収交渉はエージェント経由で行い、候補者が直接交渉する前にエージェントの情報を活用する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

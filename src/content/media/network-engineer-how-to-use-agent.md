@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["ネットワークエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "network-engineer-how-to-use-agent"
+hub: "network-engineer"
 image: "/images/media/network-engineer-how-to-use-agent.png"
 related: ["network-engineer-resume", "network-engineer-future", "network-engineer-salary-600", "corporate-planning-how-to-use-agent", "engineering-manager-how-to-use-agent"]
 ---
@@ -38,6 +39,11 @@ related: ["network-engineer-resume", "network-engineer-future", "network-enginee
 エージェントは複数の求職者・採用企業との取引実績から、ポジションごとの相場観を持っている。そのため「このスキルセットであれば◯◯万円前後が着地しやすい」という具体的な指針を持ったうえで交渉の代行が可能になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## ネットワークエンジニアのスキル別・年収目安との対応
 
@@ -100,6 +106,11 @@ IT特化型エージェントと面談したところ、次の点が整理され
 結果として、クラウドへの移行プロジェクトを推進中の事業会社でネットワーク設計担当として内定を取得。年収は620万円程度での着地となった。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

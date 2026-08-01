@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["クラウドエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-interview"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-interview.png"
 related: ["cloud-engineer-salary-1000", "cloud-engineer-failure", "cloud-engineer-future", "solution-architect-interview", "security-engineer-interview"]
 ---
@@ -30,6 +31,11 @@ related: ["cloud-engineer-salary-1000", "cloud-engineer-failure", "cloud-enginee
 技術深度だけ高くても、事業への接続が弱ければ上位のポジションには評価されにくいです。逆に、事業文脈の語り方がうまくても、技術的な詳細を掘られたときに答えられなければ信頼性を損ないます。3軸のバランスを意識することが、回答設計の出発点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問と評価意図の読み解き方
 
@@ -125,6 +131,11 @@ SaaS・スタートアップ領域では特に重視されるテーマです。�
 事前に企業のシステム構成や技術ブログ、エンジニアによる登壇資料などを調べ、「〇〇の記事でマイクロサービス化を進めているとありましたが、現在の状況と今後の展望を聞かせていただけますか」という形の質問を用意しておくと、技術的な関心と事前リサーチの姿勢を同時に示せます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

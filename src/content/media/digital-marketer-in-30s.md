@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["デジタルマーケター", "30代転職"]
 pubDate: 2026-07-04
 slug: "digital-marketer-in-30s"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-in-30s.png"
 related: ["digital-marketer-salary", "digital-marketer-certification", "digital-marketer-salary-1000", "hr-consultant-in-30s", "dev-director-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["digital-marketer-salary", "digital-marketer-certification", "digital-
 求人サイドの動向として、SaaS・IT・EC・DtoC領域では即戦力採用が主流であり、入社後3〜6か月以内に数値への貢献を求める企業が多い傾向にある。この前提を踏まえた準備が、転職活動の成否を大きく左右する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 即戦力採用で評価される要素
 
@@ -94,6 +100,11 @@ EC・メディア・代理店での実務経験を5〜7年積んだ後、SaaSプ
 数値を羅列するだけの職務経歴書は、書類選考での差別化につながりにくい。「月間のリード獲得数をXX%改善した」という事実に加え、「その改善がビジネスに与えた影響」や「取り組む前と後での課題認識の変化」を簡潔に補足することで、思考の質を伝えることができる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

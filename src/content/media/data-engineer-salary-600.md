@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["データエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "data-engineer-salary-600"
+hub: "data-engineer"
 image: "/images/media/data-engineer-salary-600.png"
 related: ["data-engineer-english", "data-engineer-motivation", "data-engineer-future", "fas-consultant-salary-600", "cto-vpoe-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["data-engineer-english", "data-engineer-motivation", "data-engineer-fu
 この表から読み取れるように、600万円前後は「経験3〜4年のシニア層」と「経験5年以上のリード層」が交差するゾーンに相当する。つまり、年収600万円の壁とは、技術的な習熟度だけでなく、**組織内での役割の変化**が問われる転換点といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -91,6 +97,11 @@ AWS・GCP・Azureのいずれかを軸に、クラウドデータ基盤の設計
 このケースが示唆するのは、「実績の解釈と言語化」が評価の差を生みやすいという点である。同じ業務経験でも、どのような視点で語るかによって、採用担当者が抱く印象は異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

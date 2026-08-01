@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["CTO・VPoE候補", "年収相場"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-salary"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-salary.png"
 related: ["cto-vpoe-how-to-use-agent", "cto-vpoe-skills", "cto-vpoe-certification", "mobile-engineer-salary", "security-engineer-salary"]
 ---
@@ -35,6 +36,11 @@ CTO・VPoE候補として市場で評価される人材の年収は、経験・�
 いずれも目安であり、ストックオプションや業績連動報酬は含めていない。実態の総合的な報酬はこれらを上乗せした形になることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を決める構造的な要因
 
@@ -112,6 +118,11 @@ CTO・VPoE候補にとって重要なのは「固定年収とエクイティの�
 これらは直接的な報酬増加につながるわけではないが、次の転職時・社内昇給交渉時に「代替不可能性」を示す根拠になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

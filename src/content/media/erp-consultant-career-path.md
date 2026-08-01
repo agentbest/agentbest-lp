@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["ERPコンサルタント", "キャリアパス"]
 pubDate: 2026-07-05
 slug: "erp-consultant-career-path"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-career-path.png"
 related: ["erp-consultant-company-size", "erp-consultant-interview", "erp-consultant-in-20s", "legal-career-path", "product-manager-career-path"]
 ---
@@ -32,6 +33,11 @@ ERPコンサルタントという職種は、システム実装の実務スキ�
 この表はあくまで目安であり、プロジェクトの規模やファームの組織構造によって前後する。30代前半であればシニアコンサルタントからマネージャーへの移行期にあたり、技術的な遂行力だけでなく「組織を動かす力」が問われるようになる時期と捉えるとわかりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## 30代ERPコンサルタントが直面する三つの選択肢
 
@@ -82,6 +88,11 @@ Oracle NetSuite、Microsoft Dynamics 365、Infor、IFS、Workdayといった製�
 **英語・グローバル対応力**：グローバルロールアウト案件に携わった経験は、報酬レンジの上限を引き上げる要因になりやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

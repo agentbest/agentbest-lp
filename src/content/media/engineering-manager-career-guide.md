@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["エンジニアリングマネージャー", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "engineering-manager-career-guide"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-career-guide.png"
 related: ["engineering-manager-failure", "engineering-manager-market-trend", "engineering-manager-future", "marketing-manager-career-guide", "recruiter-career-guide"]
 ---
@@ -40,6 +41,11 @@ EMとは、ソフトウェアエンジニアリング組織における「人・
 EMとテックリードの分離は企業規模によって異なります。エンジニア数が50名を超えるあたりから両者を明確に分けるケースが増える傾向があり、スタートアップや中小規模の開発組織では一人が両方の役割を担うことも珍しくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-career-guide">無料で相談する</a>
+</aside>
 
 ## EMの転職市場における年収相場と評価構造
 
@@ -112,6 +118,11 @@ EMの職務経歴書でよく見られる課題は、業務内容の羅列にと
 EM職は求人数が多くない一方で、水面下で動く非公開案件の比率が高い傾向があります。IT・テック領域に特化したエージェントを活用することで、JDに明示されていない組織課題や期待役割の詳細を事前に把握できる場合があります。エージェントを選ぶ際は、担当者自身がEM職や開発組織の文脈を理解しているかを確認することが、情報精度に大きく影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

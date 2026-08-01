@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["業務コンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "business-consultant-from-scratch"
+hub: "business-consultant"
 image: "/images/media/business-consultant-from-scratch.png"
 related: ["business-consultant-in-20s", "business-consultant-in-30s", "business-consultant-interview", "platform-engineer-from-scratch", "dx-consultant-from-scratch"]
 ---
@@ -22,6 +23,11 @@ related: ["business-consultant-in-20s", "business-consultant-in-30s", "business-
 具体的な業務範囲は、現状業務のヒアリングと可視化（As-Is分析）、あるべき姿の設計（To-Be設計）、業務フロー・マニュアルの整備、ERP導入やシステム刷新に伴う要件定義支援、プロジェクト管理など多岐にわたります。SaaS系のITコンサルタントや業務系SEと職域が重なるケースも多く、企業によっては「業務改革コンサルタント」「BPRコンサルタント」「PMO」といった名称で募集されることもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験者が知っておくべき市場の現実
 
@@ -96,6 +102,11 @@ SaaS企業のカスタマーサクセス（CS）やインプリメンテーシ�
 このパターンが示すように、転職成功の鍵は「コンサル未経験」を素直に認めつつ、前職の実務経験をコンサルタントの業務言語に翻訳して提示する能力にあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

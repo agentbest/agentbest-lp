@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["人事・組織コンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "hr-consultant-company-size"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-company-size.png"
 related: ["hr-consultant-interview", "hr-consultant-resume", "hr-consultant-from-scratch", "business-consultant-company-size", "mlops-engineer-company-size"]
 ---
@@ -18,6 +19,11 @@ related: ["hr-consultant-interview", "hr-consultant-resume", "hr-consultant-from
 一般的なキャリア論では「大手は安定、スタートアップは成長」と語られがちだが、人事・組織コンサルタントというポジションにおいては、この単純な図式は実態に即していない。
 
 人事・組織領域のコンサルティングは、クライアントの組織設計、人材アセスメント、報酬制度構築、タレントマネジメント戦略など多岐にわたる。この領域では、「方法論の深さ」と「実装の速度・泥くささ」の両軸が求められるため、就業する組織の規模と文化によって、身につく能力の軸が大きく異なる傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 大手ファームで働く人事・組織コンサルタントの実態
 
@@ -87,6 +93,11 @@ related: ["hr-consultant-interview", "hr-consultant-resume", "hr-consultant-from
 逆に、スタートアップで3〜5年の実装経験を積んだ人材が大手ファームへ転じようとする場合、「方法論の標準化・体系化への貢献力」や「複数案件の並走経験」の薄さが問われやすい。採用担当から見ると、実務経験は豊富でも「他社に横展開できる知見かどうか」の判断が難しいポジションになりやすい。
 
 この構造を理解した上でキャリアを設計することが、転職市場での訴求力を高める上で重要になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["エンジニアリングマネージャー", "志望動機"]
 pubDate: 2026-07-04
 slug: "engineering-manager-motivation"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-motivation.png"
 related: ["engineering-manager-interview", "engineering-manager-salary-600", "engineering-manager-how-to-use-agent", "business-planning-motivation", "embedded-engineer-motivation"]
 ---
@@ -27,6 +28,11 @@ related: ["engineering-manager-interview", "engineering-manager-salary-600", "en
 - **技術的バックグラウンドをどう活かすか**：EMは非エンジニアのマネージャーとは異なり、技術的意思決定・採用・1on1でのメンタリングに自身の経験を還元できる役割です。この点を志望動機に組み込めているかが差別化になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-motivation">無料で相談する</a>
+</aside>
 
 ## 志望動機に含めるべき4つの要素
 
@@ -134,6 +140,11 @@ EMのポジションは、会社規模・フェーズ・担当スコープによ
 ※上記は市場の相場観を示す目安です。経験年数・評価制度・インセンティブ設計によって大きく異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

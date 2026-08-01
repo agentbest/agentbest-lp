@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["財務・経理", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "finance-career-path"
+hub: "finance"
 image: "/images/media/finance-career-path.png"
 related: ["finance-interview", "finance-resume", "finance-future", "network-engineer-career-path", "devops-engineer-career-path"]
 ---
@@ -18,6 +19,11 @@ related: ["finance-interview", "finance-resume", "finance-future", "network-engi
 ただし、この職種には「真面目にこなしていれば自然に上がる」という受動的なルートが存在しにくい面もある。スキルセットの構造的な変化（DX・IFRS対応・連結決算の内製化など）が続く中で、自身のキャリアを能動的に設計しなければ、30代でもポジションが固定化するリスクがある。本記事では、キャリアの各段階で何が問われるか、どのような選択肢があるかを整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-career-path">無料で相談する</a>
+</aside>
 
 ## 年次・役割別のスキル習得ロードマップ
 
@@ -91,6 +97,11 @@ related: ["finance-interview", "finance-resume", "finance-future", "network-engi
 - **中小企業診断士・MBA**：経営企画・FP&A方向へ進む場合に、思考の幅を示す材料になりやすい
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

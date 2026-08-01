@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["広報／PR", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "pr-resume"
+hub: "pr"
 image: "/images/media/pr-resume.png"
 related: ["pr-career-guide", "pr-motivation", "pr-in-20s", "risk-consultant-resume", "business-consultant-resume"]
 ---
@@ -34,6 +35,11 @@ related: ["pr-career-guide", "pr-motivation", "pr-in-20s", "risk-consultant-resu
 - 箇条書きと文章の役割を使い分ける（構造の説明→文章、実績一覧→箇条書き）
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -156,6 +162,11 @@ IT/SaaS企業において広報・PR業務に○年携わり、プレスリリ�
 「認知向上に貢献し、ブランド価値が向上した」という記述は、根拠が不明確で信憑性が下がる。因果関係を示せる範囲内での記述に留め、推定の範囲は「〜に寄与した可能性がある」などと表現を和らげる誠実さが、逆に信頼感を高める。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

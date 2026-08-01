@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["戦略コンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-market-trend"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-market-trend.png"
 related: ["strategy-consultant-company-size", "strategy-consultant-in-20s", "strategy-consultant-english", "saas-sales-market-trend", "risk-consultant-market-trend"]
 ---
@@ -30,6 +31,11 @@ related: ["strategy-consultant-company-size", "strategy-consultant-in-20s", "str
 **PEファンド・オルタナティブ投資領域の拡大**
 
 プライベートエクイティ・バリューアップ支援・カーブアウト案件の増加を背景に、投資後の価値創造を担う人材への需要も高まっている。この領域では、戦略コンサルタントとしての経験に加えて財務モデリングやオーナーシップ意識が評価される傾向があり、ポジション数は限定的ながら報酬水準は高い。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：2024〜2026年の傾向
 
@@ -86,6 +92,11 @@ related: ["strategy-consultant-company-size", "strategy-consultant-in-20s", "str
 3. **グロース期スタートアップのCOO・事業責任者候補**：戦略立案だけでなく実行を求められるため、マネジャー時代に「現場と並走した経験」があるかどうかが評価の分かれ目になる。
 
 いずれの方向性でも、「担当案件の成果がクライアント組織にどう変化をもたらしたか」を具体的に語れる準備が選考突破の鍵になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

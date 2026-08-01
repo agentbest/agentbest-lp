@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["フリーコンサルタント", "働き方"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-work-style"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-work-style.png"
 related: ["freelance-consultant-career-guide", "freelance-consultant-in-30s", "freelance-consultant-motivation", "erp-consultant-work-style", "business-planning-work-style"]
 ---
@@ -35,6 +36,11 @@ related: ["freelance-consultant-career-guide", "freelance-consultant-in-30s", "f
 契約形態が「準委任」であるか「請負」であるかによっても、稼働の裁量は変わる。準委任契約では一定の工数を提供する前提で報酬が発生するため、クライアントの指示に従った稼働が求められる場面が多い。請負に近い形では、成果物さえ納品できれば稼働時間や場所に関する制約が緩くなりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度の実態：ファームより楽か、それとも同等か
 
@@ -115,6 +121,11 @@ related: ["freelance-consultant-career-guide", "freelance-consultant-in-30s", "f
 ファーム在籍時と比較して「残業が減った」と感じるフリーコンサルタントは一定数いるが、それはあくまで案件選択の結果であり、働き方の自由は「選択肢があること」を意味するのであって、「楽になること」と同義ではない点は理解しておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

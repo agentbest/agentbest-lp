@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["プロダクトデザイナー", "働き方"]
 pubDate: 2026-07-04
 slug: "product-designer-work-style"
+hub: "product-designer"
 image: "/images/media/product-designer-work-style.png"
 related: ["product-designer-future", "product-designer-salary-600", "product-designer-salary", "scm-consultant-work-style", "backend-engineer-work-style"]
 ---
@@ -36,6 +37,11 @@ related: ["product-designer-future", "product-designer-salary-600", "product-des
 スタートアップ初期フェーズは「デザイナーが1〜2名」という環境も珍しくなく、プロダクト全体のビジュアル・UX判断を一人で担う状況が生じやすい。一方、組織規模が大きくなるにつれてデザインシステムの整備やスペシャリストの分業が進み、特定領域に集中できる環境が整いやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-work-style">無料で相談する</a>
+</aside>
 
 ## 残業の実態：「多忙の質」が職種ごとに異なる
 
@@ -101,6 +107,11 @@ PMやステークホルダーのフィードバックが複数周回発生し、
 この構成では制作・コミュニケーション・リサーチがほぼ均等に分散しており、制作のみに集中できる時間は限られている。これを「業務の充実」と感じるか「制作に集中できない」と感じるかは、その人がプロダクトデザイナーという職種に何を求めているかによって異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

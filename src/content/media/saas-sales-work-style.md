@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["SaaS営業", "働き方"]
 pubDate: 2026-07-03
 slug: "saas-sales-work-style"
+hub: "saas-sales"
 image: "/images/media/saas-sales-work-style.png"
 related: ["saas-sales-salary-1000", "saas-sales-failure", "saas-sales-resume", "pmo-consultant-work-style", "risk-consultant-work-style"]
 ---
@@ -36,6 +37,11 @@ SaaS企業の多くが採用している「The Model型」の営業分業体制�
 SaaS営業ではCRMのデータが整備されていることが多く、個人の達成率が組織内でリアルタイムに可視化される傾向がある。これはパフォーマンスへのプレッシャーを一定以上生むが、同時に「何をすべきか」の判断基準が明確になるという側面もある。達成水準が透明であるがゆえに、自律的にタスクを設計しやすい環境とも言える。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度・残業・リモート事情の実態
 
@@ -86,6 +92,11 @@ SaaS業界ではツール活用が浸透しており、商談のオンライン�
 この構成を見ると、「外出中心」ではなく「オンライン商談・社内連携・データ管理」が業務の中心にあることがわかる。顧客折衝のスキルに加えて、情報整理・関係者調整・仮説構築の能力が求められる職種像に近い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

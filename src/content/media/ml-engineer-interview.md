@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["機械学習エンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "ml-engineer-interview"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-interview.png"
 related: ["ml-engineer-career-guide", "ml-engineer-future", "ml-engineer-english", "thinktank-interview", "corporate-it-interview"]
 ---
@@ -31,6 +32,11 @@ related: ["ml-engineer-career-guide", "ml-engineer-future", "ml-engineer-english
 外資系テック企業やSaaS企業ではこれらすべてのステージを設ける傾向があり、国内スタートアップでは統合・省略されるケースも多い。いずれにせよ「技術力」「設計力」「コミュニケーション力」の三軸が問われる点は共通している。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問の類型と回答の組み立て方
 
@@ -94,6 +100,11 @@ related: ["ml-engineer-career-guide", "ml-engineer-future", "ml-engineer-english
 - モデルの精度以外で、自分がエンジニアリングとして価値を出した経験はあるか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

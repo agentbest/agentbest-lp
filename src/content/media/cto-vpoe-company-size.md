@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["CTO・VPoE候補", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-company-size"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-company-size.png"
 related: ["cto-vpoe-salary-1000", "cto-vpoe-salary", "cto-vpoe-future", "enterprise-sales-company-size", "dev-director-company-size"]
 ---
@@ -31,6 +32,11 @@ CTO・VPoE候補のキャリアにおいて、大手企業とスタートアッ�
 - 上場企業特有の内部統制・セキュリティ要件への対応知見
 
 これらの経験は、後にスタートアップ側から「スケールした経験を持つ技術リーダー」として高く評価される傾向がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-company-size">無料で相談する</a>
+</aside>
 
 ## スタートアップのCTO・VPoEポジションの構造
 
@@ -88,6 +94,11 @@ CTO・VPoE候補が「どちらを選ぶか」を判断する際、現在の自�
 ### 30代後半〜40代：実績として語れる成果を作る段階
 
 CTO・VPoEとして評価される実績は、「組織を設計・変革した」「採用・文化の基盤を構築した」「技術判断が事業成果に繋がった」という形で語れるものが求められる。この時期にスタートアップのCTO・VPoEポジションに参画することは、こうした実績を一段と明確に残せる環境を得やすいという点で有利になる傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["会計・財務コンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "fas-consultant-failure"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-failure.png"
 related: ["fas-consultant-from-scratch", "fas-consultant-in-20s", "fas-consultant-work-style", "data-scientist-failure", "pmo-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["fas-consultant-from-scratch", "fas-consultant-in-20s", "fas-consultan
 求人票や面接において「財務コンサルタント」と表記されていても、実務では監査補助的な業務が中心であったり、逆に想定以上のプロジェクトマネジメント責任が求められたりするケースがあります。こうした構造的な情報の非対称性が、入社後のミスマッチを生む主因の一つです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターン5つ
 
@@ -102,6 +108,11 @@ related: ["fas-consultant-from-scratch", "fas-consultant-in-20s", "fas-consultan
 - 現在のチームの離職率・在籍年数の分布
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

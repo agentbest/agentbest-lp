@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["カスタマーサクセス", "市場動向"]
 pubDate: 2026-07-03
 slug: "customer-success-market-trend"
+hub: "customer-success"
 image: "/images/media/customer-success-market-trend.png"
 related: ["customer-success-company-size", "customer-success-skills", "customer-success-failure", "ai-engineer-market-trend", "qa-engineer-market-trend"]
 ---
@@ -26,6 +27,11 @@ SaaS・クラウドサービスの普及に伴い、カスタマーサクセス�
 - **即戦力志向が強まった**：規模を拡大しながら採用していたフェーズから、CS組織の生産性向上・効率化フェーズに移行した企業も多く、「組織を作った経験」や「KPI設計・改善の実績」を評価軸に加える企業が増えています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの質的変化：2024〜2026年の構造転換
 
@@ -103,6 +109,11 @@ SMB向けCS経験は「件数は多いが深度が浅い」と見なされるリ
 「お客様の気持ちに寄り添える」という姿勢は必要条件ではあっても、それだけで差別化できる時代は過ぎています。数字で語れる実績と、組織・プロセスへの貢献がより重要な評価軸になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

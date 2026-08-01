@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["インサイドセールス", "将来性"]
 pubDate: 2026-07-03
 slug: "inside-sales-future"
+hub: "inside-sales"
 image: "/images/media/inside-sales-future.png"
 related: ["inside-sales-salary-600", "inside-sales-certification", "inside-sales-in-20s", "bizdev-future", "freelance-consultant-future"]
 ---
@@ -20,6 +21,11 @@ related: ["inside-sales-salary-600", "inside-sales-certification", "inside-sales
 AIが得意とするのは、パターン化・反復可能な処理である。見込み顧客のリストアップ、メール送信のシーケンス管理、通話内容の文字起こし・要約、商談確度のスコアリングといった作業は、すでに多くのSaaS企業でツールに委ねられている。これらの業務に依存していたインサイドセールス担当者が価値を失うのは当然の帰結といえる。
 
 一方で、商談の質を高める「会話設計」、顧客の購買心理に寄り添った「関係構築」、複数部門にまたがる「情報統合」、そしてマーケティングやフィールドセールスとの「戦略的な連携」は、現時点でAIに代替されていない。むしろ、ツールが雑務を吸収した分だけ、こうした高次の業務に集中できる環境が整いつつある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI時代に「価値が下がるインサイドセールス」の特徴
 
@@ -83,6 +89,11 @@ CRM・SFA・MA・会話インテリジェンスツールを単に操作するだ
 入社後2年間、SMB向けのインサイドセールスとして商談数・パイプライン管理を担当。CRMの運用課題に自発的に取り組み、スコアリングモデルの改善やダッシュボードの整備に関与。3年目に社内でSales Opsポジションが新設されたタイミングで異動し、ツール選定・プロセス標準化・採用支援まで担う。その後の転職活動では「営業現場の解像度を持ったオペレーション人材」として、複数の成長フェーズのSaaS企業から打診を受ける——という流れである。
 
 このパターンが示すのは、「担当業務をこなす」だけでなく「担当業務の構造を改善する」姿勢を持った経験が、市場での差別化になるという点である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

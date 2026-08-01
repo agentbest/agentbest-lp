@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["ITアーキテクト", "年収1000万"]
 pubDate: 2026-07-04
 slug: "it-architect-salary-1000"
+hub: "it-architect"
 image: "/images/media/it-architect-salary-1000.png"
 related: ["it-architect-career-path", "it-architect-motivation", "it-architect-salary", "uiux-designer-salary-1000", "fas-consultant-salary-1000"]
 ---
@@ -32,6 +33,11 @@ ITアーキテクトとして年収1,000万円を目標に掲げる場合、達�
 この表から読み取れる構造上の特徴が二つある。一つは、シニアアーキテクトのレンジに入った段階で年収1,000万円という水準が現実的な射程に入ること。もう一つは、組織の種別（日系SIer・外資系テック・コンサル・事業会社）によって同じ「シニアアーキテクト」という役割でも年収の天井が異なることである。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリア構造
 
@@ -114,6 +120,11 @@ SaaSプロダクト企業やスタートアップでVPoEやプリンシパルエ
 4. **市場露出が少ない**：外部の採用市場に自身の市場価値を測る機会を作っていないため、適正な評価を受ける機会がない
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

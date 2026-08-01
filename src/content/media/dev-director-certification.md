@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["開発ディレクター", "資格"]
 pubDate: 2026-07-04
 slug: "dev-director-certification"
+hub: "dev-director"
 image: "/images/media/dev-director-certification.png"
 related: ["dev-director-motivation", "dev-director-salary", "dev-director-in-30s", "backend-engineer-certification", "cloud-engineer-certification"]
 ---
@@ -31,6 +32,11 @@ related: ["dev-director-motivation", "dev-director-salary", "dev-director-in-30s
 資格はあくまで4番目のレイヤーに位置しやすく、上位3項目が弱い場合に資格で補完できる余地は小さい。一方で、上位3項目に一定の実績がある人が資格を持っていると、「体系的に学ぶ習慣がある」「特定の領域に本気度がある」というシグナルとして機能する場面がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格・評価されにくい資格
 
@@ -94,6 +100,11 @@ AWS認定のプロフェッショナルレベルやSpecialty資格は、クラ�
 この構図が示すのは、「資格がなくても実績で補える場面は多いが、特定の文脈では資格が選考の効率を上げるフィルターとして機能する」ということだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["ブリッジSE", "20代転職"]
 pubDate: 2026-07-04
 slug: "bridge-se-in-20s"
+hub: "bridge-se"
 image: "/images/media/bridge-se-in-20s.png"
 related: ["bridge-se-how-to-use-agent", "bridge-se-salary", "bridge-se-from-scratch", "data-scientist-in-20s", "embedded-engineer-in-20s"]
 ---
@@ -24,6 +25,11 @@ related: ["bridge-se-how-to-use-agent", "bridge-se-salary", "bridge-se-from-scra
 ブリッジSEの業務範囲は企業によって差が大きく、純粋なコミュニケーション調整に特化するケースもあれば、自らコードレビューや設計書作成まで行うケースもある。この幅の広さが、20代未経験者にとって参入しやすい職種である理由でもあり、同時にキャリアパスが多様になりやすい理由でもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代でポテンシャル採用される条件とは
 
@@ -90,6 +96,11 @@ SESや社内SE経験を2〜3年持つ26〜28歳が、英語力（TOEIC800点台�
 転職時点から「3〜5年後のキャリアをどこに置くか」を意識したうえで企業・ポジションを選ぶことが、長期的な市場価値の維持につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["フロントエンドエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-resume"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-resume.png"
 related: ["frontend-engineer-career-guide", "frontend-engineer-from-scratch", "frontend-engineer-work-style", "salesforce-consultant-resume", "project-manager-resume"]
 ---
@@ -24,6 +25,11 @@ related: ["frontend-engineer-career-guide", "frontend-engineer-from-scratch", "f
 また、JavaScriptフレームワークの変化が速いため、スキルセットの記載が羅列になりがちでもある。技術名を並べるだけでは「使えるかどうか」の判断材料にはなりにくく、採用担当者や技術面接官が「この人はどのレベルで使えるのか」を把握しにくい書類に仕上がってしまう。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される職務経歴書の全体構成
 
@@ -125,6 +131,11 @@ EC向けSaaSプロダクトのフロントエンド全面刷新（React + TypeSc
 「ユーザー体験が向上した」「開発効率が改善された」という文は、それ単体では採用判断の材料にならない。「何をもって向上とするか」の指標を書くだけで信頼性が増す。Lighthouseスコア・ページ遷移時間・エラー率・リードタイムなど、フロントエンドでも数値化できる指標は意外に多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

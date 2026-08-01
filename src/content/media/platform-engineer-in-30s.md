@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["プラットフォームエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "platform-engineer-in-30s"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-in-30s.png"
 related: ["platform-engineer-career-path", "platform-engineer-skills", "platform-engineer-failure", "web-marketer-in-30s", "fullstack-engineer-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["platform-engineer-career-path", "platform-engineer-skills", "platform
 ただし実態としては企業によって役割の境界が曖昧であり、SRE・インフラエンジニア・DevOpsエンジニアと職責が重複するケースも多い。求人票の職種名よりも、JD（ジョブディスクリプション）に記載されている具体的な業務内容を読み込むことが重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代で転職する場合の市場における位置づけ
 
@@ -107,6 +113,11 @@ related: ["platform-engineer-career-path", "platform-engineer-skills", "platform
 このようなアプローチを取った場合、完全な未経験扱いではなく「一部経験あり・自走可能な候補者」として評価される可能性が高まりやすい。年収レンジは前職水準から横ばい〜小幅増の範囲でオファーを受けるケースが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["AIエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "ai-engineer-salary-1000"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-salary-1000.png"
 related: ["ai-engineer-failure", "ai-engineer-how-to-use-agent", "ai-engineer-market-trend", "dev-director-salary-1000", "bizdev-salary-1000"]
 ---
@@ -35,6 +36,11 @@ AIエンジニアとして年収1,000万円に到達することは、現在の�
 年収1,000万円はシニアレイヤー以上で達しうる水準であり、「AIエンジニア全体の平均」では到底ない。ただし、到達者の絶対数は増加しており、特定の条件を満たせば30代前半でも到達しうる市場環境になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 到達者に共通するキャリアの構造
 
@@ -89,6 +95,11 @@ AIエンジニアとして年収1,000万円に到達することは、現在の�
 **マネジメントへの早期移行による実装力の低下：** 30代前半でマネジメント寄りに移行した場合、個人の技術実績が積みにくくなる。シニア個人貢献者（IC）として評価される市場では、「自分でコードを書いてモデルを動かした経験」が直近数年内に存在するかどうかが選考に影響しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

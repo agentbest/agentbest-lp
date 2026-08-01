@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["採用担当", "志望動機"]
 pubDate: 2026-07-04
 slug: "recruiter-motivation"
+hub: "recruiter"
 image: "/images/media/recruiter-motivation.png"
 related: ["recruiter-work-style", "recruiter-interview", "recruiter-future", "product-designer-motivation", "post-consultant-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["recruiter-work-style", "recruiter-interview", "recruiter-future", "pr
 この3点を志望動機に組み込めているかどうかが、「人事に異動したい人」と「採用機能でビジネスインパクトを出したい人」を分ける分岐点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-motivation">無料で相談する</a>
+</aside>
 
 ## 志望動機の基本構造
 
@@ -104,6 +110,11 @@ related: ["recruiter-work-style", "recruiter-interview", "recruiter-future", "pr
 志望動機では「営業で培ったヒアリング・クロージング・数値管理の経験を、採用という文脈で活かしたい」という軸を明示し、なぜ採用という職種を選ぶのかの理由を論理的につなぐことで、未経験ながら説得力のある内容になりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

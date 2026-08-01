@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["M&Aアドバイザー", "働き方"]
 pubDate: 2026-07-04
 slug: "ma-advisor-work-style"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-work-style.png"
 related: ["ma-advisor-career-path", "ma-advisor-failure", "ma-advisor-company-size", "embedded-engineer-work-style", "pmo-work-style"]
 ---
@@ -31,6 +32,11 @@ M&Aプロセスはソーシング・初期検討・デューデリジェンス�
 大型クロスボーダー案件と中小規模の国内案件では、情報量・関与者数・プロセス複雑性が異なります。また、アナリスト・アソシエイトは資料作成業務の割合が高く、シニアはクライアントマネジメントと並行して内部チームの管理も担うため、疲労の質が異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## フェーズ別・労働時間の目安
 
@@ -105,6 +111,11 @@ M&Aアドバイザーのリモートワーク適用状況は、コロナ禍以�
 この例が示すように、M&Aアドバイザーの労働時間は「常に激務」というより「波が大きい」という表現が正確です。DD〜クロージングの山と、その前後のインターバルのメリハリをどう捉えるかが、職種への適性評価において重要な視点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

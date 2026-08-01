@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["ソリューションアーキテクト", "30代転職"]
 pubDate: 2026-07-04
 slug: "solution-architect-in-30s"
+hub: "solution-architect"
 image: "/images/media/solution-architect-in-30s.png"
 related: ["solution-architect-interview", "solution-architect-how-to-use-agent", "solution-architect-salary-600", "mobile-engineer-in-30s", "tech-lead-in-30s"]
 ---
@@ -22,6 +23,11 @@ SAは、顧客の経営・業務課題を技術的な解決策として設計し
 - **SaaS・ISV系SA**：自社プロダクトの技術的な価値を顧客のシステム環境に当てはめ、導入・定着を支援するプリセールス寄りの役割
 
 これらはいずれも「SA」という呼称を使うが、求める経験の重心が大きく異なる。転職活動の初期段階でどの文脈のSAを目指すかを整理しておくことが、応募の精度に直結する。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-in-30s">無料で相談する</a>
+</aside>
 
 ## 30代即戦力採用で評価される3つの軸
 
@@ -85,6 +91,11 @@ SAは技術職でありながら、顧客の経営層・情報システム部門
 **技術ポートフォリオの整備**：設計したアーキテクチャの概要図・判断根拠をまとめた資料を用意しておく。機密情報を除いたうえで、面接時に参照できる形にしておくと説明の解像度が高まる。
 
 **ターゲット企業・ポジションの絞り込み**：SA転職では「どの文脈のSAか」によって必要な準備が異なるため、自身の経験が最も生きる文脈を先に特定し、その後に企業を絞り込む順序が効率的である。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

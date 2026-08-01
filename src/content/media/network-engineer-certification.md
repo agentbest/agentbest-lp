@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["ネットワークエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "network-engineer-certification"
+hub: "network-engineer"
 image: "/images/media/network-engineer-certification.png"
 related: ["network-engineer-english", "network-engineer-career-guide", "network-engineer-salary-600", "mobile-engineer-certification", "security-consultant-certification"]
 ---
@@ -31,6 +32,11 @@ SIer・ネットワーク専業ベンダー・社内情報システム部門・�
 - **スタートアップやSaaS企業への転職**：実装経験・GitHub・構成管理ツールの利用歴など、アウトプットが評価の主軸になりやすい
 - **ミドル〜シニアレベルのポジション変更**：資格より、設計・障害対応・チームマネジメントの実績が問われる
 - **社内での昇格評価**：すでに実力が可視化されている既存社員には、資格の付与効果が薄れる傾向がある
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-certification">無料で相談する</a>
+</aside>
 
 ## キャリアステージ別・資格の優先度
 
@@ -80,6 +86,11 @@ IPAが実施するネットワークスペシャリスト試験は、公共案�
 **面接での評価の構造：** 「未経験だが学習意欲と知識の基礎がある」というポジショニングが成立しやすくなった。面接では「CCNAを取るにあたって何を学び、どこでつまずいたか」という実務への接続を問う質問が多く、資格そのものより**学習プロセスの言語化が評価の分かれ目**になった。
 
 **示唆：** CCNAは「転職切符」ではなく、「会話のスタート地点を作る資格」として機能しやすい。取得後に演習・構築経験を付加できると、より説得力のある実績として語れるようになる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

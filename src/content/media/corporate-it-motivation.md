@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["社内SE", "志望動機"]
 pubDate: 2026-07-04
 slug: "corporate-it-motivation"
+hub: "corporate-it"
 image: "/images/media/corporate-it-motivation.png"
 related: ["corporate-it-in-20s", "corporate-it-future", "corporate-it-from-scratch", "scm-consultant-motivation", "hr-consultant-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["corporate-it-in-20s", "corporate-it-future", "corporate-it-from-scrat
 | 動機層 | 長期的に自社ITを支える意志・主体性 | 「なぜその会社のIT部門か」の具体性 |
 
 この三層のすべてに触れた志望動機は、採用担当者に「業務とITの両方を理解している人材」として認識されやすい。逆に、技術スキルだけを羅列したり、「安定した環境で働きたい」という動機のみを前面に出したりすると、三層のバランスが崩れ、評価が下がりやすくなる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-motivation">無料で相談する</a>
+</aside>
 
 ## 志望動機の構造：4つの要素
 
@@ -86,6 +92,11 @@ related: ["corporate-it-in-20s", "corporate-it-future", "corporate-it-from-scrat
 ---
 
 この型が評価されやすい理由は、「ベンダーSEとしての限界→社内SEへの転換の必然性（Why Now）」「製造業ERPの知識（Why Me）」「その企業の具体的な課題への言及（Why This Company）」「入社後の優先順位（What You Will Do）」が四層構造で揃っているからだ。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

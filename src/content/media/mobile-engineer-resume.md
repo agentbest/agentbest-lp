@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["モバイルエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-resume"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-resume.png"
 related: ["mobile-engineer-future", "mobile-engineer-interview", "mobile-engineer-how-to-use-agent", "cloud-engineer-resume", "embedded-engineer-resume"]
 ---
@@ -28,6 +29,11 @@ related: ["mobile-engineer-future", "mobile-engineer-interview", "mobile-enginee
 これらを解消するには、記述の構造そのものを変える必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -117,6 +123,11 @@ related: ["mobile-engineer-future", "mobile-engineer-interview", "mobile-enginee
 同じ経験を持つエンジニアであっても、記述の粒度と構造によって伝わる情報量が大きく変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["QAエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "qa-engineer-work-style"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-work-style.png"
 related: ["qa-engineer-salary-1000", "qa-engineer-certification", "qa-engineer-in-20s", "risk-consultant-work-style", "security-engineer-work-style"]
 ---
@@ -28,6 +29,11 @@ QAエンジニアの労働環境は、以下3つの変数によって大きく�
 これらの変数が組み合わさることで、同じ「QAエンジニア」という職種名でも、残業時間・裁量の大きさ・リモート勤務の可否が大きく異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度のリアル：フェーズと組織によって格差がある
 
@@ -95,6 +101,11 @@ Web・SaaS系の企業を中心に、週3〜5日のフルリモートを認め�
 この例では残業は月15〜20時間程度に収まる傾向があり、業務の見通しも立てやすい。ただし、大型機能追加の月はテスト範囲が拡大し、同程度の時間が追加になることもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["SaaS営業", "志望動機"]
 pubDate: 2026-07-03
 slug: "saas-sales-motivation"
+hub: "saas-sales"
 image: "/images/media/saas-sales-motivation.png"
 related: ["saas-sales-interview", "saas-sales-market-trend", "saas-sales-salary", "salesforce-consultant-motivation", "post-consultant-motivation"]
 ---
@@ -29,6 +30,11 @@ SaaS企業の数は国内だけでも数百社規模に及ぶ。その中でな�
 前職・現職の営業経験をどのようにSaaSフィールドセールスに転用できるかの論理構造が明確かどうか。特に無形商材・法人営業経験者は優位に立ちやすい一方で、「経験があるから活躍できる」という結論の飛躍が多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -99,6 +105,11 @@ SaaS企業の数は国内だけでも数百社規模に及ぶ。その中でな�
 フィールドセールスへのステップアップとして、インサイドセールスでの商談設計や顧客理解の深め方を具体的に語れるかが重要になる。「アポイントを取るだけでなく、担当AEの商談に同席して〇件の提案構造を学んだ」といった行動の積み上げがあると説得力が増す。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

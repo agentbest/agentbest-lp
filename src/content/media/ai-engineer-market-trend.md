@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["AIエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "ai-engineer-market-trend"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-market-trend.png"
 related: ["ai-engineer-certification", "ai-engineer-future", "ai-engineer-how-to-use-agent", "post-consultant-market-trend", "strategy-consultant-market-trend"]
 ---
@@ -32,6 +33,11 @@ AIエンジニアの転職市場は、2025年以降も採用需要が拡大傾�
 | シニア層・スペシャリスト（7年以上・研究実績等） | アーキテクチャ設計、論文・特許、チームリード経験 | 慢性的な採用難。オファー年収に顕著な上振れが起きやすい |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用ニーズの構造的変化：何が求められているか
 
@@ -87,6 +93,11 @@ AIエンジニアの年収は経験・専門性・企業規模によって大き
 転職先の候補としては、AI機能をコアプロダクトとする企業、あるいは非IT企業のAI内製化チームの両方に需要があります。ただし、前者は即戦力性を、後者は業務理解と推進力をより重視する傾向があるため、志望企業の性格を踏まえて経験の提示順序を変えることが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

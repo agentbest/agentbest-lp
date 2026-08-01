@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["ネットワークエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "network-engineer-career-path"
+hub: "network-engineer"
 image: "/images/media/network-engineer-career-path.png"
 related: ["network-engineer-skills", "network-engineer-interview", "network-engineer-salary", "frontend-engineer-career-path", "recruiter-career-path"]
 ---
@@ -20,6 +21,11 @@ related: ["network-engineer-skills", "network-engineer-interview", "network-engi
 インフラ・ネットワークの専門家は、クラウド化の進展によって「必要性が薄れる」と語られることがある。しかしこれは正確ではない。クラウド移行が進むほど、物理インフラとクラウドネットワークを両方理解できるエンジニアの需要は高まる傾向にある。SD-WAN、クラウドネイティブなネットワーク設計、ゼロトラストアーキテクチャへの対応など、従来の「ルーター・スイッチを設定する」領域を超えた知識が求められる局面が増えているためだ。
 
 一方で、単純な運用保守・監視対応の業務は自動化や外部委託が進みやすい。つまり、スキルの内容によってキャリアの先行きが大きく分岐する構造がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## キャリアパスの全体像
 
@@ -84,6 +90,11 @@ SRE（サイトリライアビリティエンジニアリング）の領域で�
 運用保守フェーズの業務は、経験年数の増加とともに単価が頭打ちになりやすい。プロジェクト単位での設計・構築経験がないまま年齢を重ねると、「上位業務への移行」という選択肢が年々取りにくくなる。
 
 また、企業のインフラ刷新サイクル（数年に一度の大規模更改）のタイミングを経験しているかどうかによって、設計スキルの有無が分かれやすい。30代前半のうちに大規模構築案件や移行プロジェクトに携われているかどうかは、その後の市場評価に影響しやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

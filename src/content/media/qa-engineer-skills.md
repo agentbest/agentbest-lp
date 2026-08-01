@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["QAエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "qa-engineer-skills"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-skills.png"
 related: ["qa-engineer-career-guide", "qa-engineer-how-to-use-agent", "qa-engineer-in-30s", "hr-consultant-skills", "big4-consultant-skills"]
 ---
@@ -24,6 +25,11 @@ QAエンジニアのスキルは「技術スキル」「プロセス・品質保
 転職市場での評価においても、この三層の組み合わせ方がポジションのグレードと報酬レンジに直結する傾向がある。「テスト実行ができる」という技術スキルだけでは評価が上がりにくく、プロセス設計やビジネス貢献まで担える人材であるほど評価されやすい構造になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## 技術スキル：自動化と品質計測が核心
 
@@ -118,6 +124,11 @@ QAチームや開発チームに対して、品質プロセスを導入・改善
 このパターンが示すのは、ツールの習得だけでなく「判断の言語化」が評価につながるという点である。何を自動化して何を手動で残すかの設計思想を面接で説明できると、評価の質が変わりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

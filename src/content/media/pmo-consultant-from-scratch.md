@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["PMOコンサルタント", "未経験転職"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-from-scratch"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-from-scratch.png"
 related: ["pmo-consultant-salary", "pmo-consultant-failure", "pmo-consultant-salary-1000", "risk-consultant-from-scratch", "legal-from-scratch"]
 ---
@@ -20,6 +21,11 @@ PMO（Project Management Office）は、組織内のプロジェクト管理を�
 具体的な業務範囲は幅広く、プロジェクト計画の策定支援、進捗管理の仕組み構築、リスク管理プロセスの整備、ステークホルダーへの報告体制の設計などが含まれる。大規模なシステム導入プロジェクトや、M&A後の統合（PMI）局面でも活用されることが多い。
 
 一般的なPMとの違いを整理すると、PMがプロジェクトの成果物に責任を持つ「実行の主体」であるのに対し、PMOコンサルタントはプロジェクトが円滑に進む「管理基盤」を設計・維持する役割を担う。この「仕組みを作る側」という立場が、職種の本質的な特徴である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験転職の現実：何が難しく、何が可能か
 
@@ -94,6 +100,11 @@ PMOコンサルタントへの転職において、職務経歴書の質は選�
 ### 情報収集と業界理解
 
 転職先ファームの対応業界・プロジェクト規模・提供サービスラインを事前に調査したうえで、「自分がどの領域で貢献できるか」を具体化しておくことが重要である。採用面接では、PMO理論の知識だけでなく、クライアント現場での実行イメージを持っているかどうかが問われる場面が多い。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

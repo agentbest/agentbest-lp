@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["QAエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "qa-engineer-resume"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-resume.png"
 related: ["qa-engineer-in-30s", "qa-engineer-market-trend", "qa-engineer-from-scratch", "business-consultant-resume", "devops-engineer-resume"]
 ---
@@ -32,6 +33,11 @@ QAエンジニアの職務経歴書は、「テスト経験がある」という
 QA領域は成果が見えにくいと誤解されがちだが、**指標を設定すれば十分に数値化できる**。バグ検出率、テスト自動化率、リグレッションテスト実行時間の短縮幅、リリース後の重大障害件数の推移などを職務経歴書に記載することで、採用担当者が成果を客観的に判断できるようになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -140,6 +146,11 @@ BtoB向け採用管理SaaSのQAプロセス全般を担当。月次リリース�
 「チームで品質向上に貢献した」という記述では、採用担当者は自分の貢献範囲を特定できない。チームの成果であっても「自分が主導した部分」と「サポートした部分」を分けて記述することが誠実かつ評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

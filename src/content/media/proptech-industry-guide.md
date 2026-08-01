@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["不動産テック", "業界研究"]
 pubDate: 2026-07-05
 slug: "proptech-industry-guide"
+hub: "proptech-industry"
 image: "/images/media/proptech-industry-guide.png"
 related: ["proptech-industry-career", "proptech-industry-salary", "proptech-industry-trend", "edtech-industry-guide", "hrtech-industry-guide"]
 ---
@@ -39,6 +40,11 @@ related: ["proptech-industry-career", "proptech-industry-salary", "proptech-indu
 このうち転職市場で求人数が多く、かつビジネスパーソンがキャリアとして参入しやすいのは、不動産SaaSと電子契約・書類DX領域です。一方でiBuyerや直接買取モデルは、資本集約型であり、ビジネスモデルの安定性において他類型と異なる考慮が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## 主要プレイヤーの特徴と転職市場での立ち位置
 
@@ -124,6 +130,11 @@ BtoBのSaaS営業経験があることで、「サブスクリプション型の
 不動産テックのSaaSは、SMB（中小不動産会社）を対象とするケースが多く、チャーンレート・NRRの数値がエンタープライズSaaSと比較して異なる傾向があります。顧客単価と解約率のバランスから収益モデルの安定性を確認することが、入社後のギャップを防ぐ上で有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

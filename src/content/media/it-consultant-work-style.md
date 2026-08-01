@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["ITコンサル", "働き方", "ワークライフバランス"]
 pubDate: 2026-07-03
 slug: "it-consultant-work-style"
+hub: "it-consultant"
 image: "/images/media/it-consultant-work-style.png"
 related: ["it-consultant-career-guide", "it-consultant-salary", "it-consultant-future", "it-consultant-from-scratch", "it-consultant-career-path"]
 ---
@@ -16,6 +17,11 @@ related: ["it-consultant-career-guide", "it-consultant-salary", "it-consultant-f
 ITコンサルの働き方について、「深夜残業が常態」というイメージは、現在では実態と乖離しつつあります。大手ファームを中心に労務管理が厳格化され、稼働時間に上限を設ける運用が一般化しました。
 
 一方で、事業会社の平均と比べれば負荷が高い職種であることも事実です。「激務かどうか」を一括りに論じるより、負荷がどこで生まれ、何によって差がつくのかを理解する方が、転職判断には役立ちます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 労働時間の実態
 
@@ -84,6 +90,11 @@ ITコンサルの働き方について、「深夜残業が常態」というイ
 例えば年収900万円で月45時間残業の環境と、年収750万円で残業がほぼない環境では、時給換算の差は見た目の年収差より小さくなります。さらに、負荷の高い環境で得られる経験の密度を「投資リターン」として加味するかどうかで、判断は変わります。
 
 一つの整理として、20代〜30代前半は経験密度を優先し、家庭やライフイベントの比重が上がる時期に負荷の設計し直しを行う、という時間軸での使い分けがあります。コンサル業界はファーム間・案件間の移動で負荷を調整しやすい業界であり、「一度入ったら働き方を変えられない」職種ではありません。この可変性も含めて、キャリア全体で働き方を設計してください。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["ネットワークエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "network-engineer-salary-600"
+hub: "network-engineer"
 image: "/images/media/network-engineer-salary-600.png"
 related: ["network-engineer-career-path", "network-engineer-from-scratch", "network-engineer-work-style", "presales-salary-600", "digital-marketer-salary-600"]
 ---
@@ -20,6 +21,11 @@ related: ["network-engineer-career-path", "network-engineer-from-scratch", "netw
 本記事では、年収600万円を超えるために何が壁になるのかを整理したうえで、具体的な突破の方向性を示します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 年収帯別：求められる役割と保有スキルの目安
 
@@ -87,6 +93,11 @@ related: ["network-engineer-career-path", "network-engineer-from-scratch", "netw
 **結果の傾向**：同等の経験年数でも、クラウドとオンプレの双方を担える人材は求人側の評価が上がりやすく、年収650〜750万円レンジのオファーが提示されやすいポジションに競争力を持ちやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

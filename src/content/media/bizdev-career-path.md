@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["事業開発", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "bizdev-career-path"
+hub: "bizdev"
 image: "/images/media/bizdev-career-path.png"
 related: ["bizdev-salary", "bizdev-career-guide", "bizdev-in-30s", "cto-vpoe-career-path", "dev-director-career-path"]
 ---
@@ -32,6 +33,11 @@ related: ["bizdev-salary", "bizdev-career-guide", "bizdev-in-30s", "cto-vpoe-car
 これらを一人で担う場合もあれば、機能別に分担されている場合もある。重要なのは「事業開発の経験」と一口に言っても、その内容が会社によって大きく異なるという点だ。転職市場での市場価値を高めるには、自分の経験がこのどの領域に当たるかを言語化できることが前提となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## キャリアステップの全体像：初期〜上位ロールまで
 
@@ -105,6 +111,11 @@ related: ["bizdev-salary", "bizdev-career-guide", "bizdev-in-30s", "cto-vpoe-car
 事業開発のプロとして年齢を重ねると、蓄積された業界ネットワークそのものが市場価値の一部となる。VC・大企業・行政・スタートアップにまたがる人的ネットワークを持つ人材は、上位ポジションへの移行がしやすくなる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

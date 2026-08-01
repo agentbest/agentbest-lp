@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["総合コンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "big4-consultant-future"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-future.png"
 related: ["big4-consultant-in-30s", "big4-consultant-salary", "big4-consultant-market-trend", "product-designer-future", "security-consultant-future"]
 ---
@@ -31,6 +32,11 @@ DX推進・サプライチェーン再編・ESG対応・グローバル展開な
 特に日本企業では、重要な経営判断に際して外部の客観的な視点を取り入れるケースが多く、これがコンサルタントの継続的な需要を支えています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI・自動化が総合コンサルタントに与える影響
 
@@ -108,6 +114,11 @@ AIが情報を大量に処理できる環境では、「どのような問いを
 このケースが示すのは、「既存の専門性にAI文脈を接続する」ことで、市場価値が高まりやすいという構造です。新しいスキルをゼロから積み上げるより、現在の強みを起点に拡張していくアプローチが、実務的には有効に働く傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

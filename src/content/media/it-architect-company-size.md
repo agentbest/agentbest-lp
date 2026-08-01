@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["ITアーキテクト", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "it-architect-company-size"
+hub: "it-architect"
 image: "/images/media/it-architect-company-size.png"
 related: ["it-architect-in-30s", "it-architect-from-scratch", "it-architect-failure", "scm-consultant-company-size", "corporate-planning-company-size"]
 ---
@@ -18,6 +19,11 @@ ITアーキテクトがキャリアの転換点で直面する「大手企業か
 ITアーキテクトの仕事は、システム設計の上流から技術選定、開発標準の策定、さらに経営層への技術的な橋渡しまで幅広い。この職種において「環境」が与える影響は、プログラマーやエンジニアよりも大きい傾向がある。なぜなら、アーキテクチャの意思決定は組織の制約——予算規模、既存システムの複雑さ、ステークホルダーの多寡——と不可分であるからだ。
 
 つまり、どのような組織で働くかが、どのようなアーキテクチャ判断を経験できるかを、ほぼそのまま規定する。この前提を持ったうえで、両者を比較していく必要がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 大手企業とスタートアップの比較：主要6軸
 
@@ -71,6 +77,11 @@ ITアーキテクトの仕事は、システム設計の上流から技術選定
 **Series Bのスタートアップを選んだ場合**：CTO直下のアーキテクト1名として入社。プロダクトのスケーリングフェーズに伴い、モノリスからマイクロサービスへの移行設計をリード。意思決定スピードと幅広い技術領域への関与は得られるが、組織的なサポートは薄く、自走が求められる。ストックオプションがあるため、上場・M&A時の経済的リターンは不確実ながら大きくなる可能性がある。
 
 どちらが「正解」かは、その人が次の5年間で何を積みたいか、また家庭・財務状況のリスク許容度にどの程度余裕があるかによって変わる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

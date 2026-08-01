@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["SaaS", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "saas-industry-career"
+hub: "saas-industry"
 image: "/images/media/saas-industry-career.png"
 related: ["saas-industry-company", "saas-industry-guide", "saas-industry-salary", "ec-industry-career", "govtech-industry-career"]
 ---
@@ -20,6 +21,11 @@ SaaS業界のビジネスモデルは、月次・年次の契約によって顧�
 一般的なパッケージソフトウェアやSIビジネスでは「売り切り」が成立するため、営業は新規受注に集中しやすい。一方SaaSでは、契約後の顧客がサービスを使い続けてくれるか（チャーンを防げるか）が収益の根幹となる。このため、カスタマーサクセス（CS）という職種が独立して存在し、高く評価される。同様に、プロダクトの改善サイクルを支えるプロダクトマネージャー（PdM）や、データを起点に意思決定を支援するRevOpsといった役割も、SaaS特有の重要ポジションとして定着しつつある。
 
 SaaS企業でのキャリアを論じる際に避けられないのが、「ARR（年間経常収益）」「NRR（ネット収益維持率）」「CAC（顧客獲得コスト）」「LTV（顧客生涯価値）」といった指標群への理解である。面接でこれらの指標に対して自分の業務がどう影響を与えてきたかを語れるかどうかは、SaaS経験者としての評価に直結しやすい。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-career">キャリアを相談する</a>
+</aside>
 
 ## 職種別の評価軸と市場価値の目安
 
@@ -79,6 +85,11 @@ SaaS導入側の経験（特にCSやSE）を持つ人材は、情報システム
 
 **4. 独立・スタートアップ創業**
 SaaS特有のビジネスモデル・GTMの型・プロダクト開発サイクルを体験した人材が、業界課題を起点にスタートアップを立ち上げるパターンも一定数存在する。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-career">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

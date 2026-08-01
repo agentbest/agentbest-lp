@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["SRE", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "sre-career-path"
+hub: "sre"
 image: "/images/media/sre-career-path.png"
 related: ["sre-failure", "sre-from-scratch", "sre-in-30s", "ml-engineer-career-path", "frontend-engineer-career-path"]
 ---
@@ -26,6 +27,11 @@ SREとしてのキャリアパスは、職種の性質上「どこまで伸び�
 この構造的な多様性が、SREのキャリアを見通しにくくさせている主因のひとつと言える。自分が今どの「SRE像」に近い経験を積んでいるかを意識することが、次のキャリアを考える出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-career-path">キャリアを相談する</a>
+</aside>
 
 ## 30代SREに開かれている選択肢の全体像
 
@@ -95,6 +101,11 @@ SREとしてのEM転向を検討する場合、「テクニカルリーダーシ
 次に検討できるのが、現職のまま「影響範囲を広げる実績を作る」というアプローチだ。マルチプロダクト・マルチチームにまたがる信頼性改善を主導できれば、それ自体がStaff相当の市場評価につながる場合がある。社内での機会が限られていると感じているならば、副業・OSS貢献・技術発信などで外部での評価軸を持つことも有効な補助手段だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

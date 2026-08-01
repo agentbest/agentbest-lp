@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["セキュリティエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "security-engineer-resume"
+hub: "security-engineer"
 image: "/images/media/security-engineer-resume.png"
 related: ["security-engineer-career-path", "security-engineer-in-30s", "security-engineer-motivation", "enterprise-sales-resume", "risk-consultant-resume"]
 ---
@@ -33,6 +34,11 @@ CISSP・CEH・情報処理安全確保支援士などの資格保有者は多い
 これらを踏まえた上で、各セクションの記述方針を設計する必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-resume">無料で相談する</a>
+</aside>
 
 ## 構成の全体像
 
@@ -134,6 +140,11 @@ A4用紙換算で2〜3枚が標準的な分量の目安となる。経歴が浅�
 改善のポイントは「チームにおける自分の位置づけ」「業務の定量的な規模」「取り組みの具体性」「成果の方向性」の四点を補足したことにある。業務内容は同じでも、記述の密度によって印象は大きく変わりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["機械学習エンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "ml-engineer-career-path"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-career-path.png"
 related: ["ml-engineer-in-30s", "ml-engineer-how-to-use-agent", "ml-engineer-salary-600", "saas-sales-career-path", "engineering-manager-career-path"]
 ---
@@ -31,6 +32,11 @@ related: ["ml-engineer-in-30s", "ml-engineer-how-to-use-agent", "ml-engineer-sal
 企業によってこれらの境界は曖昧だが、市場での評価は「どのレイヤーで何を担えるか」によって変わる。特に30代以降は、複数のレイヤーにまたがれる人材が市場価値を保ちやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代機械学習エンジニアに開かれたキャリアパスの全体像
 
@@ -119,6 +125,11 @@ AIスタートアップの創業、技術顧問・フリーランス契約、研
 - アカデミックな研究実績の追求：企業内で評価されるケースは限られており、研究者キャリアへの明確な意志がなければ優先度は下がりやすい
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

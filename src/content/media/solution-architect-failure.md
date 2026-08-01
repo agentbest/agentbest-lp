@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["ソリューションアーキテクト", "転職失敗"]
 pubDate: 2026-07-04
 slug: "solution-architect-failure"
+hub: "solution-architect"
 image: "/images/media/solution-architect-failure.png"
 related: ["solution-architect-interview", "solution-architect-resume", "solution-architect-certification", "embedded-engineer-failure", "hr-consultant-failure"]
 ---
@@ -24,6 +25,11 @@ SAというポジションは、企業・組織によって職務の重心が大
 また、ITコンサルタントやテクニカルセールス、インフラエンジニアなど隣接するロールとの境界が曖昧な企業も多く、職種定義の解像度が低いまま転職してしまうと、配属後に職務内容とのミスマッチが生じやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターンと構造的な原因
 
@@ -134,6 +140,11 @@ SAは顧客対応が多い職種であるため、外出頻度・出張頻度・
 - [ ] リモート勤務・フレックスの実態（建前でなく実態）を確認した
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

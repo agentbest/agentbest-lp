@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["機械学習エンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "ml-engineer-market-trend"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-market-trend.png"
 related: ["ml-engineer-resume", "ml-engineer-english", "ml-engineer-in-30s", "erp-consultant-market-trend", "infra-engineer-market-trend"]
 ---
@@ -36,6 +37,11 @@ related: ["ml-engineer-resume", "ml-engineer-english", "ml-engineer-in-30s", "er
 純粋な技術力だけでなく、ドメイン知識やビジネス文脈の読解力が評価軸に加わっている点は、転職候補者が自身の経歴を整理するうえで重要なポイントとなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求人数・ポジション別の市場分布
 
@@ -101,6 +107,11 @@ Web系スタートアップで機械学習モデルの構築・チューニン�
 - 論文実装・アルゴリズム研究（研究職では価値があるが、事業会社での実務ポジションでは周辺評価になりつつある）
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

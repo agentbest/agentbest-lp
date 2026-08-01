@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["バックエンドエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "backend-engineer-company-size"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-company-size.png"
 related: ["backend-engineer-failure", "backend-engineer-work-style", "backend-engineer-in-20s", "cloud-engineer-company-size", "product-designer-company-size"]
 ---
@@ -32,6 +33,11 @@ related: ["backend-engineer-failure", "backend-engineer-work-style", "backend-en
 一方で、技術的負債の蓄積が速い組織では、優れたアーキテクチャより「動くこと優先」の判断が繰り返されやすく、エンジニアリングの質的水準が高いかどうかは、組織・CTOの方針に大きく依存する。初期フェーズでは技術的なレビュー体制が薄いケースもあり、自律的な学習・判断力がない場合は成長が停滞しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 年収と報酬構造の比較
 
@@ -90,6 +96,11 @@ Aさんの目標が「将来的に自分でプロダクトを立ち上げる・�
 - **エンジニアの発言権**：技術的意思決定がトップダウンかどうかは、実際に働くエンジニアへのカジュアル面談で確認するのが有効
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["データサイエンティスト", "市場動向"]
 pubDate: 2026-07-04
 slug: "data-scientist-market-trend"
+hub: "data-scientist"
 image: "/images/media/data-scientist-market-trend.png"
 related: ["data-scientist-in-20s", "data-scientist-salary-600", "data-scientist-certification", "solution-architect-market-trend", "backend-engineer-market-trend"]
 ---
@@ -30,6 +31,11 @@ related: ["data-scientist-in-20s", "data-scientist-salary-600", "data-scientist-
 求人数が減少したわけではありませんが、「選ばれる求人」と「埋まらない求人」の二極化が進んでいるのが現在の実態です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-market-trend">無料で相談する</a>
+</aside>
 
 ## 職種内の分化：「データサイエンティスト」という括りの形骸化
 
@@ -97,6 +103,11 @@ related: ["data-scientist-in-20s", "data-scientist-salary-600", "data-scientist-
 重要なのは「規模の大きさ」ではなく「問題解決の構造を言語化できているか」です。小規模なプロジェクトであっても、思考プロセスと効果の因果関係を説明できる実績は十分に評価されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

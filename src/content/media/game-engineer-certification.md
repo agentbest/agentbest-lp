@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["ゲームエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "game-engineer-certification"
+hub: "game-engineer"
 image: "/images/media/game-engineer-certification.png"
 related: ["game-engineer-career-path", "game-engineer-from-scratch", "game-engineer-career-guide", "strategy-consultant-certification", "data-engineer-certification"]
 ---
@@ -24,6 +25,11 @@ related: ["game-engineer-career-path", "game-engineer-from-scratch", "game-engin
 - **大手ゲーム会社のグレード評価・等級制度**：社内制度として特定資格の取得が評価ポイントや手当に含まれている場合がある
 
 逆にいえば、「資格を持っていれば採用に有利」という直線的な関係は成立しにくく、資格はあくまで実力の補強材料として機能するものと理解するのが実態に近いといえます。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格・評価されにくい資格
 
@@ -87,6 +93,11 @@ ITパスポートや初級系の資格は、ゲームエンジニアとして採
 | シニア・スペシャリスト | 900〜1,200万円以上も |
 
 これはあくまで参考値であり、企業規模・職種の細分類・地域によって大きく異なります。資格の有無が年収に直接影響するというより、技術力と経験の積み上げが評価軸の中心にあります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

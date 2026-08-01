@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["リスク・ガバナンスコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "risk-consultant-how-to-use-agent"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-how-to-use-agent.png"
 related: ["risk-consultant-career-guide", "risk-consultant-salary-1000", "risk-consultant-from-scratch", "data-analyst-how-to-use-agent", "corporate-it-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["risk-consultant-career-guide", "risk-consultant-salary-1000", "risk-c
 これらは必ずしも「コンサルティングファームへの転職」を意味するわけではなく、事業会社・金融機関・官公庁と連携する準公的機関など、転職先の選択肢が多様化している点も特徴です。この多様性は、逆に言えば「全体像を把握しにくい」市場構造をつくり出しており、網羅的な情報収集において専門エージェントの価値が生じます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントを使うべき理由：4つの構造的メリット
 
@@ -105,6 +111,11 @@ related: ["risk-consultant-career-guide", "risk-consultant-salary-1000", "risk-c
 複数社のプロセスを経て、Big4リスクアドバイザリー部門のシニアコンサルタント相当で内定。処遇は前職比で一定の改善があり、担当プロジェクトの上流性という点でも希望に沿った着地となりました。このケースで重要だったのは、エージェントが「経験の再解釈」と「適切な部署への絞り込み」を同時に行った点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

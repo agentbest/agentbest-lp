@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["リスク・ガバナンスコンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "risk-consultant-from-scratch"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-from-scratch.png"
 related: ["risk-consultant-interview", "risk-consultant-skills", "risk-consultant-how-to-use-agent", "business-consultant-from-scratch", "data-analyst-from-scratch"]
 ---
@@ -30,6 +31,11 @@ related: ["risk-consultant-interview", "risk-consultant-skills", "risk-consultan
 これらは独立した案件として存在することもあるが、実際の現場では規制動向・ガバナンス改革・テクノロジーリスクが複合的に絡み合うことが多い。特に近年は、ESGリスク、AIガバナンス、サードパーティリスク管理が新たな重点領域として浮上しており、領域は拡張傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験からの参入は現実的か
 
@@ -104,6 +110,11 @@ Big4系のリスクアドバイザリー部門や中堅コンサルファーム�
 **処遇の目安**：同領域での経験者中途採用に比べると初年度の処遇レンジは抑えられることが多いが、スキルセットの評価次第でシニアコンサルタント相当での入社となるケースもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

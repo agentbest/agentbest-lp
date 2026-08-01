@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["QAエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "qa-engineer-how-to-use-agent"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-how-to-use-agent.png"
 related: ["qa-engineer-work-style", "qa-engineer-in-30s", "qa-engineer-market-trend", "network-engineer-how-to-use-agent", "platform-engineer-how-to-use-agent"]
 ---
@@ -41,6 +42,11 @@ QAエンジニアという職種名が指す役割は、現在の市場におい
 転職先の求人が自身の専門性とどの層で交差するかを見極めるには、求人票の読解だけでなく、企業の開発規模や技術スタック、QAの成熟度に関する背景情報が必要となる。エージェントがこれらの情報を事前に保有しているかどうかが、選択の際の重要な判断基準になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを活用すべき構造的な理由
 
@@ -102,6 +108,11 @@ Selenium、Playwright、pytest、TestRailといったツール名、あるいは
 **結果の傾向**：このような情報の構造化により、書類選考通過率が改善し、面接での技術的な深掘りにも対応しやすくなることが多い。特に、面接官がQAの専門性を持つ技術者である場合、具体性のある記述は評価の差異につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

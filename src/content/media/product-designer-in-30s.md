@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["プロダクトデザイナー", "30代転職"]
 pubDate: 2026-07-04
 slug: "product-designer-in-30s"
+hub: "product-designer"
 image: "/images/media/product-designer-in-30s.png"
 related: ["product-designer-career-guide", "product-designer-failure", "product-designer-certification", "devops-engineer-in-30s", "uiux-designer-in-30s"]
 ---
@@ -31,6 +32,11 @@ PdM（プロダクトマネージャー）や経営陣に対して、デザイ�
 エンジニアやデータアナリスト、カスタマーサクセスなど、他職種と交差する文脈でデザインの役割を担った経験は、組織規模を問わず重視される傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 求められるスキルセットの全体像
 
@@ -119,6 +125,11 @@ BtoBのSaaSプロダクトに関する直接的な業務経験がなかったた
 特に最後の問いは、30代採用で重視されやすい。失敗経験を語れるかどうかは、自己認識の深さと学習能力の両方を判断する材料として機能する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

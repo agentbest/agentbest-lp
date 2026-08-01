@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["SaaS", "業界研究"]
 pubDate: 2026-07-05
 slug: "saas-industry-guide"
+hub: "saas-industry"
 image: "/images/media/saas-industry-guide.png"
 related: ["saas-industry-salary", "saas-industry-company", "saas-industry-career", "security-industry-guide", "game-industry-guide"]
 ---
@@ -33,6 +34,11 @@ HR・会計・販売管理など水平型（ホリゾンタルSaaS）だけで�
 グローバル展開している大手SaaS企業の多くが日本法人を持ち、ローカルでの営業・カスタマーサクセス・マーケティング人材の採用を継続しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-guide">無料で相談する</a>
+</aside>
 
 ## 主要企業の分類と転職市場における特徴
 
@@ -113,6 +119,11 @@ SaaSはプロダクトのアップデートが頻繁なため、営業・CSと�
 急成長期の組織では、セールス・CS・プロダクト・マーケティングの間で優先度の齟齬が生じやすいです。「誰が意思決定者か」が曖昧な段階の企業は特にその傾向があり、選考過程で意思決定プロセスや組織体制を確認しておくと入社後の驚きが少なくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

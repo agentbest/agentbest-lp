@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["開発ディレクター", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "dev-director-how-to-use-agent"
+hub: "dev-director"
 image: "/images/media/dev-director-how-to-use-agent.png"
 related: ["dev-director-motivation", "dev-director-salary-600", "dev-director-certification", "sap-consultant-how-to-use-agent", "qa-engineer-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["dev-director-motivation", "dev-director-salary-600", "dev-director-ce
 採用担当者はポジションごとのレンジを把握しており、候補者が市場全体の相場観を持っていないケースでは、提示額が低く落ち着く可能性があります。エージェントは複数の類似案件・成約事例を保有しているため、「このポジションのレンジでは上限に近い提示が出やすいタイミング」といった情報を補完できます。年収交渉を候補者が単独で行うことの難しさは、この情報非対称にあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## 開発ディレクターの年収レンジと転職パターン
 
@@ -86,6 +92,11 @@ SIer・受託開発会社でプロジェクトリーダー〜マネジャーと�
 書類選考の通過率が向上し、面接では受託経験が「多様なドメイン知識を持つ強み」として評価される文脈が作られやすくなった。年収は前職から10〜15%程度上昇するケースが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

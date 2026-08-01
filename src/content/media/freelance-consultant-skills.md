@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["フリーコンサルタント", "必要スキル"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-skills"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-skills.png"
 related: ["freelance-consultant-future", "freelance-consultant-certification", "freelance-consultant-from-scratch", "data-scientist-skills", "recruiter-skills"]
 ---
@@ -26,6 +27,11 @@ related: ["freelance-consultant-future", "freelance-consultant-certification", "
 多くの方は専門スキルに注力しがちですが、独立後の収入水準と安定性には「市場参加スキル」が大きく影響します。ファームに所属している間はこの層が外部化されていたため、意識しにくい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## 専門スキル：希少性と需要の掛け合わせで価値が決まる
 
@@ -115,6 +121,11 @@ LinkedIn・X（旧Twitter）・個人ブログなどを通じて専門知見を�
 いずれも「新しいスキルを習得する」のではなく、「既存の経験を別の切り口で再定義する」アプローチです。独立前後に自分の経歴を棚卸しする作業の中で、このような再定義を意識的に行えるかどうかが、初期の単価に差をもたらしやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

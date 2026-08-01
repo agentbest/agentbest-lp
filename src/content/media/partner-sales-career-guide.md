@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["パートナーセールス／アライアンス", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "partner-sales-career-guide"
+hub: "partner-sales"
 image: "/images/media/partner-sales-career-guide.png"
 related: ["partner-sales-resume", "partner-sales-english", "partner-sales-salary", "legal-career-guide", "qa-engineer-career-guide"]
 ---
@@ -35,6 +36,11 @@ related: ["partner-sales-resume", "partner-sales-english", "partner-sales-salary
 SaaS企業ではチャネルパートナー経由の売上比率を一定水準に引き上げる「チャネル戦略」を事業計画に組み込んでいることが多く、そのための専任ポジションの需要が高まっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値と年収レンジの目安
 
@@ -113,6 +119,11 @@ SaaS企業ではチャネルパートナー経由の売上比率を一定水準�
 **結果**：国内SaaSのチャネルパートナーマネージャー（将来的なリード候補）として採用。年収は約150万円増での転換。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

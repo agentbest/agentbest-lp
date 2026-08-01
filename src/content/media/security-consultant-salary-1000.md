@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["セキュリティコンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "security-consultant-salary-1000"
+hub: "security-consultant"
 image: "/images/media/security-consultant-salary-1000.png"
 related: ["security-consultant-work-style", "security-consultant-in-20s", "security-consultant-company-size", "platform-engineer-salary-1000", "saas-sales-salary-1000"]
 ---
@@ -27,6 +28,11 @@ related: ["security-consultant-work-style", "security-consultant-in-20s", "secur
 | 経験7年以上・シニア・プリンシパル | 外資系コンサル、独立・ブティックファーム | 1,200万円〜 |
 
 この表はあくまで相場観の目安であり、個人の専門性・交渉力・市場環境によって実態は上下する。重要な点は、**経験年数の積み上げだけでは1,000万円には届きにくく、「担う役割の質的変化」が不可欠**という構造にある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-salary-1000">無料で相談する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの特徴
 
@@ -84,6 +90,11 @@ GRC・リスク管理を主軸に据えるキャリアでは、金融・製造�
 この4点を、定量的・定性的に整理できていることが、面接・書類選考における説得力に直結する。「ペネトレーションテストを行った」という記述よりも、「n社のクラウド環境に対してペネトレーションテストを実施し、クリティカルな脆弱性をx件特定、修正まで伴走した」という記述のほうが、採用側の評価軸に合致しやすい。
 
 また、外資系コンサルや外資系ベンダーへの転職は、年収レンジの引き上げに有効な手段となり得る。ただし、要求されるアウトプットの水準・英語運用能力・文化的な適応が求められる点も含めて検討する必要がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

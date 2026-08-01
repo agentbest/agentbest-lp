@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["バックエンドエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "backend-engineer-motivation"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-motivation.png"
 related: ["backend-engineer-how-to-use-agent", "backend-engineer-company-size", "backend-engineer-career-guide", "data-analyst-motivation", "data-scientist-motivation"]
 ---
@@ -22,6 +23,11 @@ related: ["backend-engineer-how-to-use-agent", "backend-engineer-company-size", 
 2つ目は、技術トレンドへの言及が志望動機と直結しないことだ。「マイクロサービスに挑戦したい」「Goを使いたい」といった言葉は動機として一見もっともらしく見えるが、企業側からすれば「その技術を使うためだけに入社するのか」「技術が変われば離職するのか」という懸念を生みやすい。
 
 これらの落とし穴を回避するには、技術への関心を起点にしつつも、**事業課題や組織への貢献**を着地点にする構造が必要になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の3要素
 
@@ -93,6 +99,11 @@ related: ["backend-engineer-how-to-use-agent", "backend-engineer-company-size", 
 ### NG③ 現職への批判が透けて見える
 
 「現職では技術的な挑戦ができない環境のため…」という書き方は、転職先でも同様の不満を抱えるリスクがある人材だと受け取られやすい。仮に動機の一端に環境への不満があるとしても、志望動機には「次に実現したいこと」を軸に据えるべきだ。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

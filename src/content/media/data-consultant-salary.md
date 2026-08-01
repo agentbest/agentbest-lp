@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["データ・アナリティクスコンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "data-consultant-salary"
+hub: "data-consultant"
 image: "/images/media/data-consultant-salary.png"
 related: ["data-consultant-skills", "data-consultant-salary-600", "data-consultant-english", "erp-consultant-salary", "infra-engineer-salary"]
 ---
@@ -28,6 +29,11 @@ related: ["data-consultant-skills", "data-consultant-salary-600", "data-consulta
 第三に、**プロジェクトの上流関与度**だ。要件定義・課題設定を担うか、既定のデータ基盤上で分析レポートを作成するかでは、アウトプットの価値が異なり、報酬の設計にも差が生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収レンジの全体像
 
@@ -96,6 +102,11 @@ related: ["data-consultant-skills", "data-consultant-salary-600", "data-consulta
 **結果のパターン：** 独立系コンサルまたは国内大手コンサルへの転職で750万〜850万円の提示を受けるケースが見られる。重要なのは分析ツールの習熟度より「誰の意思決定に、どう貢献したか」という記述の質だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

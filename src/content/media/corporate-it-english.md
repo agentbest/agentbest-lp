@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["社内SE", "英語力"]
 pubDate: 2026-07-04
 slug: "corporate-it-english"
+hub: "corporate-it"
 image: "/images/media/corporate-it-english.png"
 related: ["corporate-it-career-guide", "corporate-it-future", "corporate-it-in-20s", "security-consultant-english", "corporate-planning-english"]
 ---
@@ -32,6 +33,11 @@ SalesforceやServiceNow、Microsoft 365、AWS等のエンタープライズ製�
 ### 外資系企業に転職した場合の社内コミュニケーション
 
 外資系企業の社内SEは、グローバルITチームとの定例会議、セキュリティ基準の確認、システム変更のガバナンスプロセスなど、業務の根幹で英語が必要になります。外資系は社内SEにとっても年収水準が高い求人が多い傾向があるため、英語力はキャリアレンジを広げる直接的な要因となります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力が求人・年収に与える影響
 
@@ -71,6 +77,11 @@ SalesforceやServiceNow、Microsoft 365、AWS等のエンタープライズ製�
 2. **メールライティング**：社内外のIT担当者とのやり取りに必要なフォーマルなビジネスライティング。テンプレートを覚えることから始めやすい。
 3. **口頭でのやり取り（会議・電話）**：難易度が高いため、上記2つが一定水準に達してから並行して鍛えていくのが現実的です。
 4. **TOEIC対策**：転職活動の際にスコアが求人要件として記載されている場合は対策が必要ですが、スコア取得は手段であって目的ではないという視点を維持することが重要です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

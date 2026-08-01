@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["ITアーキテクト", "年収600万"]
 pubDate: 2026-07-04
 slug: "it-architect-salary-600"
+hub: "it-architect"
 image: "/images/media/it-architect-salary-600.png"
 related: ["it-architect-market-trend", "it-architect-motivation", "it-architect-in-20s", "business-consultant-salary-600", "legal-salary-600"]
 ---
@@ -46,6 +47,11 @@ ITアーキテクトの年収は、経験年数・担当領域・所属組織の
 これは技術者にとって見落とされやすい要因だが、IT部門のコスト扱いをされているSIer系・事業会社の情報システム部門では、職能グレードが上がってもマネジメントラインに乗らない限り年収が上がりにくい設計になっていることがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円超えに向けて意味をもつ要素
 
@@ -89,6 +95,11 @@ ITアーキテクトの年収は、経験年数・担当領域・所属組織の
 この型が示すのは、社内でのスコープ拡張によって実績の説明力を高め、組織の給与テーブルの天井を「転職」というアクションで乗り越えるという構造である。社内での評価を高めることと、市場での評価を確認することは、並行して進めることができる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

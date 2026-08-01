@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["テックリード", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "tech-lead-company-size"
+hub: "tech-lead"
 image: "/images/media/tech-lead-company-size.png"
 related: ["tech-lead-interview", "tech-lead-from-scratch", "tech-lead-work-style", "it-architect-company-size", "recruiter-company-size"]
 ---
@@ -28,6 +29,11 @@ related: ["tech-lead-interview", "tech-lead-from-scratch", "tech-lead-work-style
 これらのステージによって、大手・スタートアップそれぞれの環境が与えるものの重みは変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-company-size">無料で相談する</a>
+</aside>
 
 ## 大手企業とスタートアップの構造的差異
 
@@ -88,6 +94,11 @@ SaaS系企業で5年ほど経験を積み、テックリードとして分散シ
 これらの軸に絶対的な正解はなく、キャリアステージ・家庭環境・経済的状況などによって重み付けは変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

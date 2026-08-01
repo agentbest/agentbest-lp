@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["経営企画", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "corporate-planning-company-size"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-company-size.png"
 related: ["corporate-planning-failure", "corporate-planning-salary-1000", "corporate-planning-market-trend", "pmo-company-size", "qa-engineer-company-size"]
 ---
@@ -26,6 +27,11 @@ related: ["corporate-planning-failure", "corporate-planning-salary-1000", "corpo
 スタートアップでは、機能分化が進んでいないため、経営企画は「CFOや代表の右腕として何でもやる」という形になりやすい。資金調達の準備、KPI設計、採用計画、投資家向け資料（いわゆるIR・ファイナンス対応）、場合によってはオペレーション改善まで含む。担当領域の広さは魅力でもあり、深さの欠如につながるリスクでもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-company-size">無料で相談する</a>
+</aside>
 
 ## 四つの軸による比較
 
@@ -104,6 +110,11 @@ M&Aや財務モデリングなど特定スキルを高度化したいなら大�
 ライフステージ・家族構成・資産状況によって、固定給の安定性をどの程度重視するかは異なる。ストックオプションの不確実性を許容できるかどうかは、現実的に検討すべき変数である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

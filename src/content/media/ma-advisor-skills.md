@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["M&Aアドバイザー", "必要スキル"]
 pubDate: 2026-07-04
 slug: "ma-advisor-skills"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-skills.png"
 related: ["ma-advisor-certification", "ma-advisor-career-path", "ma-advisor-motivation", "it-consultant-skills", "game-engineer-skills"]
 ---
@@ -18,6 +19,11 @@ M&Aアドバイザーとして評価される人材と評価されない人材�
 M&Aアドバイザーの業務は大きく「案件組成」「デューデリジェンス支援」「バリュエーション」「ディール交渉・クロージング」の4フェーズに分けられます。それぞれのフェーズで中心となるスキルは異なり、一人のアドバイザーがすべてを高水準で保有することは現実的ではありません。
 
 重要なのは、自分のポジション（FA・IB・M&Aブティック・事業会社のコーポレートディベロップメント部門など）と担当フェーズに応じて、どのスキルを深化させるべきかを戦略的に把握することです。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-skills">無料で相談する</a>
+</aside>
 
 ## スキルの優先順位マップ
 
@@ -95,6 +101,11 @@ M&Aアドバイザーとしての報酬レンジや昇進速度に実質的に�
 | 中〜高 | セクター専門性 | 中堅以上から差別化要因になる |
 | 中 | 法務・税務の基礎 | 「統合理解力」として機能する間接的スキル |
 | 中 | プロジェクトマネジメント | 特に事業会社サイドや大型案件で重要度が上がる |
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

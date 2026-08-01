@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["Salesforceコンサルタント", "転職ガイド"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-career-guide"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-career-guide.png"
 related: ["salesforce-consultant-from-scratch", "salesforce-consultant-salary-1000", "salesforce-consultant-in-20s", "digital-marketer-career-guide", "ml-engineer-career-guide"]
 ---
@@ -37,6 +38,11 @@ Salesforceコンサルタントへの転職、あるいはSalesforceコンサル
 プロジェクト型の業務が中心となるため、週単位・月単位でタスクの性質が変わります。要件定義フェーズでは顧客ヒアリング・業務フローの整理・ギャップ分析が主体となり、設計・構築フェーズに入ると設定作業・レビュー・単体テストが中心になります。並行してプロジェクトの進捗管理や課題管理表の更新、社内外への報告といった定常業務も発生します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 市場価値の構造：何が年収を決めるか
 
@@ -110,6 +116,11 @@ Salesforceコンサルタントの職務経歴書で見落とされやすいの�
 「失敗したプロジェクトとその対応」「顧客からの要件変更への対処」「技術的な選択肢のトレードオフ」といった問いは、上流ポジションや規模の大きい企業への転職面接で頻出します。これらは「経験の豊富さ」よりも「考え方の質」を見るためのものであり、用意しておくべき問いとして事前に整理しておくことが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

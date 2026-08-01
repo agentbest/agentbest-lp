@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["クラウドインフラ", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "cloud-industry-career"
+hub: "cloud-industry"
 image: "/images/media/cloud-industry-career.png"
 related: ["cloud-industry-salary", "cloud-industry-company", "cloud-industry-guide", "web3-industry-career", "adtech-industry-career"]
 ---
@@ -20,6 +21,11 @@ related: ["cloud-industry-salary", "cloud-industry-company", "cloud-industry-gui
 この三層はキャリアとして異なる性質を持ちます。プロバイダー層は最先端の技術開発に近い反面、採用条件が非常に高く、キャリアの出発点として選ばれるケースは多くありません。SIer・MSP層は経験の幅が広く、ジュニア〜ミドルクラスのエンジニアにとって実践的なスキル形成の場になりやすいです。エンドユーザー企業の内製チームは事業インパクトに近い経験が積みやすく、特にスタートアップや成長期のSaaS企業では、インフラエンジニアが技術戦略の中枢に関わるケースもあります。
 
 転職を検討する際、現在どの層にいて、次にどの層を目指すかによって準備すべきスキルセットや経験の見せ方が変わります。この文脈を押さえておくことが、戦略的なキャリア設計の第一歩になります。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-career">無料で相談する</a>
+</aside>
 
 ## 市場で評価される経験の種類
 
@@ -79,6 +85,11 @@ AWS認定、Google Cloud認定、Kubernetes関連（CKA・CKS）などの資格�
 
 **結果の型**
 エンドユーザー企業の内製チーム（成長期SaaS企業）へ転籍。年収ベースで100〜200万円程度の改善となるケースが見られます。より重要なのは、設計判断の裁量が広がり、事業成長とインフラ設計の接続を直接体験できる環境に移ったことです。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

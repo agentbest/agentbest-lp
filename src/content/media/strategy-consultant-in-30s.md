@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["戦略コンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-in-30s"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-in-30s.png"
 related: ["strategy-consultant-certification", "strategy-consultant-english", "strategy-consultant-market-trend", "mobile-engineer-in-30s", "finance-in-30s"]
 ---
@@ -30,6 +31,11 @@ related: ["strategy-consultant-certification", "strategy-consultant-english", "s
 30代の市場価値は、蓄積してきた職歴の「解像度」によって大きく異なる。同じ10年のキャリアでも、意思決定プロセスの上流に関わった経験があるかどうか、数字と論理で成果を語れるかどうかで、評価は分かれやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 主要ファーム別の採用傾向と難易度の目安
 
@@ -96,6 +102,11 @@ MBBクラスへの応募は1次面接止まりになりやすい一方、総合�
 上記はあくまで一定の市場観察に基づく目安であり、個人のスキル・交渉力・ファームの業績によって変動する。また、固定給と変動賞与の比率もファームによって異なるため、年収総額だけでなく報酬構造の確認も重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

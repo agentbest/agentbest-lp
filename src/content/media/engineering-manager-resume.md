@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["エンジニアリングマネージャー", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "engineering-manager-resume"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-resume.png"
 related: ["engineering-manager-english", "engineering-manager-company-size", "engineering-manager-from-scratch", "pmo-consultant-resume", "post-consultant-resume"]
 ---
@@ -32,6 +33,11 @@ EMのポジションは企業ごとに定義が異なる。スペクトラムの
 EMへのキャリアチェンジを経て初めてマネジメントに就いた人の場合、IM（個人貢献者）時代の記述とEM時代の記述の間に思考の断絶が生じることがある。採用担当者は「なぜこの人はマネジメントを選んだのか」「マネジメントを通じて何を実現しようとしているのか」を読み取ろうとしている。その文脈が書かれていない職務経歴書は、説得力に欠ける傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 構成の全体像：推奨フォーマット
 
@@ -112,6 +118,11 @@ A4用紙換算で2〜3枚が実務上の目安となる。1枚に収めようと
 5年以上前に主に使用していたスキルは削除し、現在のチームで実際に活用しているスタックのみを記載した。EMポジションであっても技術の現役感を示すことは、技術組織への適合性を伝える上で有効とされる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["プロジェクトマネージャー", "20代転職"]
 pubDate: 2026-07-04
 slug: "project-manager-in-20s"
+hub: "project-manager"
 image: "/images/media/project-manager-in-20s.png"
 related: ["project-manager-future", "project-manager-certification", "project-manager-from-scratch", "bridge-se-in-20s", "it-consultant-in-20s"]
 ---
@@ -32,6 +33,11 @@ IT・SaaS・コンサル領域におけるポテンシャル採用とは、PMと
 企業の採用側から見ると、こうした人材はポテンシャル採用のターゲットに合致しやすい。「経験はないが素地がある」という評価をされやすいのが20代特有の立ち位置である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業タイプ別の特徴と狙い目
 
@@ -116,6 +122,11 @@ SaaSスタートアップは、組織規模の拡大フェーズにおいてPM�
 ストックオプションを含む総報酬での評価が必要なスタートアップについては、固定給だけでは比較が難しい点に留意が必要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["DevOpsエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "devops-engineer-future"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-future.png"
 related: ["devops-engineer-career-path", "devops-engineer-from-scratch", "devops-engineer-english", "dev-director-future", "ai-engineer-future"]
 ---
@@ -26,6 +27,11 @@ DevOpsエンジニアという職種は、インフラとソフトウェア開�
 要約すると、「作業量をこなす人材」への需要は緩やかに収縮し、「複雑性を扱える人材」への需要は拡大するという二極化が進みやすい構造にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 周辺職種との関係性を整理する
 
@@ -106,6 +112,11 @@ AIによる自動化の恩恵を受けるためには、AIツールが生成す�
 このパターンが示すのは、スキルの量を増やすだけでなく、既存の経験を「再文脈化」する——つまり、なぜその判断をしたかを説明できるようにする——ことが、市場価値の転換に効果的であるという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["AIエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "ai-engineer-failure"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-failure.png"
 related: ["ai-engineer-future", "ai-engineer-salary-1000", "ai-engineer-career-path", "digital-marketer-failure", "erp-consultant-failure"]
 ---
@@ -24,6 +25,11 @@ AIという領域は特に、企業・候補者双方に情報の非対称性が
 失敗の根本にあるのは、多くの場合「何のために転職するか」という目的の曖昧さです。年収・ポジション・技術環境という三軸が自分の中で優先順位化されていないと、交渉時も入社後も判断軸がぶれます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出する失敗パターン5つ
 
@@ -108,6 +114,11 @@ AIエンジニアのポジションは、データエンジニア・ビジネス
 **構造的な教訓**：年収等の定量的指標は確認しやすいが、業務の質・技術的な深度は意識して確認しなければ面接では出てこない情報です。「どのような課題を解くために自分を採用するのか」を面接で繰り返し言語化させることが、ミスマッチの予防につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

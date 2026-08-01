@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["モバイルエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-from-scratch"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-from-scratch.png"
 related: ["mobile-engineer-skills", "mobile-engineer-career-path", "mobile-engineer-motivation", "customer-success-from-scratch", "embedded-engineer-from-scratch"]
 ---
@@ -22,6 +23,11 @@ related: ["mobile-engineer-skills", "mobile-engineer-career-path", "mobile-engin
 多くの企業では、iOS専任・Android専任として採用するケースと、クロスプラットフォームを扱うエンジニアとして採用するケースが混在しています。未経験転職者が狙う場合、まず「どの領域を主戦場にするか」を決めることが、学習効率と求人マッチング精度を大きく左右します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験転職を難しくしている現実的な障壁
 
@@ -108,6 +114,11 @@ related: ["mobile-engineer-skills", "mobile-engineer-career-path", "mobile-engin
 これらの数値は業種・企業規模・地域・個人のスキルセットによって大きく異なります。目安として参考にする程度に留めてください。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

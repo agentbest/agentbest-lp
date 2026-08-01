@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["SRE", "資格"]
 pubDate: 2026-07-04
 slug: "sre-certification"
+hub: "sre"
 image: "/images/media/sre-certification.png"
 related: ["sre-failure", "sre-skills", "sre-how-to-use-agent", "mobile-engineer-certification", "uiux-designer-certification"]
 ---
@@ -20,6 +21,11 @@ SREはソフトウェアエンジニアリングとインフラ運用の両方�
 以下では、SREのキャリアにおいて資格がどのような文脈で評価されるかを構造的に整理し、取得を検討する際の判断軸を示す。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-certification">無料で相談する</a>
+</aside>
 
 ## SREが取得を検討しうる資格の分類
 
@@ -98,6 +104,11 @@ SREポジションの採用評価では、以下のような実績・アウト�
 これらは採用担当者が職務経歴書・ポートフォリオ・面接を通じて確認できる要素であり、資格が果たす「知識の証明」機能を、より文脈に即した形で代替しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

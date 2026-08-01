@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["プロジェクトマネージャー", "志望動機"]
 pubDate: 2026-07-04
 slug: "project-manager-motivation"
+hub: "project-manager"
 image: "/images/media/project-manager-motivation.png"
 related: ["project-manager-english", "project-manager-failure", "project-manager-company-size", "engineering-manager-motivation", "erp-consultant-motivation"]
 ---
@@ -24,6 +25,11 @@ PMは職種の定義が企業によって異なる。IT系の開発PMと、コ�
 加えて、PMはほぼ全員が「チームをまとめたい」「大きなプロジェクトに携わりたい」と書く傾向がある。差別化されていない志望動機は、採用担当者にとって印象に残りにくく、結果として通過率が下がりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-motivation">無料で相談する</a>
+</aside>
 
 ## 志望動機を構成する3つの要素
 
@@ -81,6 +87,11 @@ PMの役割の本質は、スコープ・スケジュール・リソース・リ
 - 入社後の貢献として「技術とビジネスの接続役」という具体的な役割イメージが示されている
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

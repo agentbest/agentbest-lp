@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["フロントエンドエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-market-trend"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-market-trend.png"
 related: ["frontend-engineer-company-size", "frontend-engineer-career-guide", "frontend-engineer-motivation", "data-scientist-market-trend", "pmo-market-trend"]
 ---
@@ -24,6 +25,11 @@ related: ["frontend-engineer-company-size", "frontend-engineer-career-guide", "f
 この背景には、フロントエンドの役割そのものの変化がある。バックエンドAPIを呼ぶだけの「描画層」という認識は薄れ、アーキテクチャ設計・CI/CD・テスト戦略・アクセシビリティ・パフォーマンス最適化までを担う「エンジニアリングの主戦場」として位置付ける企業が増えた。結果として、高度な人材には強い需要が集まり、基礎的なスキルセットのみの人材との評価格差が広がっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：スキル軸で見る需給マップ
 
@@ -89,6 +95,11 @@ BFF（Backend for Frontend）・Edge Functions・Serverless等の領域がフロ
 一方で、「フロントエンドに深い」という専門性は依然として価値を持つ。パフォーマンス計測・Core Web Vitalsの改善・レンダリングパターンの選定など、フロントエンド固有の知識が差別化要因になるケースも多い。広さと深さのバランスをどこで取るかは、目指すポジションや企業文化によって判断が変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

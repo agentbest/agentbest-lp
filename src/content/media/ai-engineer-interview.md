@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["AIエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "ai-engineer-interview"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-interview.png"
 related: ["ai-engineer-career-guide", "ai-engineer-skills", "ai-engineer-salary-1000", "project-manager-interview", "tech-lead-interview"]
 ---
@@ -20,6 +21,11 @@ AIエンジニアの面接において、採用側が最も知りたいのは「
 多くの企業でAIプロジェクトが失敗する原因として指摘されるのは、技術力の不足よりも、問題設定の誤り、データの品質管理の甘さ、本番環境での運用設計の欠如といった構造的な問題だ。そのため、採用担当者は「実務上の難所をどう乗り越えてきたか」を丁寧に掘り下げてくる傾向がある。
 
 また、AIエンジニアには技術の進化速度への追随も求められる。LLMや生成AIの台頭によって、1〜2年前の常識が覆るほど技術環境が変化している。自己学習の習慣や、新技術への適応力も暗黙の評価項目になりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## 面接の評価軸と出題領域の全体像
 
@@ -106,6 +112,11 @@ MLOpsや運用設計の実務感覚を問う質問で、モデルリリース後
 ---
 
 このように、「なぜそのアプローチを選んだか」「他の選択肢を検討したか」「そこから何を学んだか」の3点を常に意識して回答を組み立てると、技術的深みと実務感覚の両方が伝わりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

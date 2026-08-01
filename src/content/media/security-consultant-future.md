@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["セキュリティコンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "security-consultant-future"
+hub: "security-consultant"
 image: "/images/media/security-consultant-future.png"
 related: ["security-consultant-work-style", "security-consultant-motivation", "security-consultant-in-30s", "cloud-engineer-future", "tech-lead-future"]
 ---
@@ -16,6 +17,11 @@ related: ["security-consultant-work-style", "security-consultant-motivation", "s
 サイバーセキュリティ市場は拡大を続けているが、セキュリティコンサルタントという職種が「将来安泰か」という問いへの答えは、一律ではない。正確に言えば、**需要の総量は増えているが、求められるスキルの質と射程が変わりつつある**。AI・クラウド・ゼロトラストといった技術変化と、経営リスクとしてのセキュリティへの認識が深まるなかで、この職種の役割は分岐しつつある。本稿では、構造的な市場環境と、それを踏まえた個人のキャリア戦略を整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-future">無料で相談する</a>
+</aside>
 
 ## セキュリティコンサルタントを取り巻く市場環境
 
@@ -103,6 +109,11 @@ ITコンサルティングファーム出身で、情報システム部門への
 セキュリティの技術動向は変化が速く、過去の資格・知識の賞味期限が短い領域でもある。CTF参加・脆弱性報告・技術発信・コミュニティ活動などによって、現役の実力を継続的に示せる人材は、採用市場でも案件市場でも評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

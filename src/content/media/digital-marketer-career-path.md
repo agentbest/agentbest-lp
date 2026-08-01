@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["デジタルマーケター", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "digital-marketer-career-path"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-career-path.png"
 related: ["digital-marketer-failure", "digital-marketer-work-style", "digital-marketer-market-trend", "devops-engineer-career-path", "qa-engineer-career-path"]
 ---
@@ -20,6 +21,11 @@ related: ["digital-marketer-failure", "digital-marketer-work-style", "digital-ma
 この分岐において重要なのは、「何が得意か」だけでなく「どの文脈で評価されたいか」を問い直すことだ。施策レベルのKPIを追うことが得意なプロフェッショナルと、マーケティング投資の全体ROIを経営に説明できる人材とでは、評価軸が根本的に異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年代・役割別のキャリアステージ目安
 
@@ -94,6 +100,11 @@ IT系スタートアップで広告運用・SEOを中心に5年間経験を積�
 スタートアップのCMO・マーケ責任者クラスでは、ストックオプション等の株式報酬が組み合わさる場合もあり、キャッシュの年収だけで比較することが難しい構造を持つ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

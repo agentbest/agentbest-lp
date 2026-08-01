@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["QAエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "qa-engineer-market-trend"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-market-trend.png"
 related: ["qa-engineer-skills", "qa-engineer-salary-1000", "qa-engineer-in-20s", "solution-architect-market-trend", "hr-consultant-market-trend"]
 ---
@@ -38,6 +39,11 @@ QAエンジニアの転職市場は、ここ数年で構造的な転換期を迎
 **③ AIを活用したQAプロセスへの適応**
 
 生成AI・LLMを活用したテスト生成・バグ検出の試みが各社で始まっており、「AIツールをQAワークフローに組み込む経験」が求人要件に明示されるケースが増えています。ただし現時点では実務事例が蓄積段階にあり、経験の深さよりも「関心と基礎的な理解」を問うケースが多い状況です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収レンジと職位別の市場感
 
@@ -93,6 +99,11 @@ SIer系企業で5年間、主に手動テストとテスト設計を担当。プ
 - **パフォーマンステスト**：k6・Locustなどを用いた負荷テストの設計・実施経験
 - **品質指標の設計・可視化**：バグ密度・テストカバレッジ・リグレッション率などKPIの設計と報告
 - **シフトレフト実践**：要件定義・設計フェーズへの関与経験
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

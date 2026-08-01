@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["フルスタックエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-salary-600"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-salary-600.png"
 related: ["fullstack-engineer-failure", "fullstack-engineer-market-trend", "fullstack-engineer-from-scratch", "erp-consultant-salary-600", "dev-director-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["fullstack-engineer-failure", "fullstack-engineer-market-trend", "full
 この表から読み取れるのは、600万円という水準が「3〜5年の中堅層」と「5〜8年のシニア層」のちょうど境目に位置するという点です。経験年数だけが理由で到達できる上限に近く、そこから先は経験年数の積み重ねではなく、担うべき役割の質的な変化が求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円で止まりやすい構造的な理由
 
@@ -102,6 +108,11 @@ Web系スタートアップで4年間勤務。フロントエンド・バック�
 この型から読み取れるのは、スキル自体を変えたのではなく「説明の構造」と「ポジションの定義」を変えたという点です。実務上の能力は転職前後で大きく変わっていないにもかかわらず、年収は150万円程度引き上がっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

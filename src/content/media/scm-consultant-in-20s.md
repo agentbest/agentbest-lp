@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["SCM・調達コンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "scm-consultant-in-20s"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-in-20s.png"
 related: ["scm-consultant-motivation", "scm-consultant-skills", "scm-consultant-english", "solution-architect-in-20s", "corporate-it-in-20s"]
 ---
@@ -18,6 +19,11 @@ SCM・調達コンサルタントへの転職は、20代においてもポテン
 SCM（サプライチェーン・マネジメント）コンサルタントと調達コンサルタントは、隣接しながらも焦点が異なります。前者は需給計画・在庫最適化・物流ネットワーク設計など「モノの流れ全体」の改善を担い、後者は購買戦略・サプライヤー選定・コスト削減・調達リスク管理など「調達機能」に軸足を置きます。実際のプロジェクトではこの両者は重複することが多く、特に20代の若手フェーズでは両領域を兼ねて経験を積む形が一般的です。
 
 業務の性質上、製造業・流通・小売・ハイテク・製薬といった幅広い業界がクライアントになり得るため、クロスインダストリーで知見を蓄積できることがこの職種の特長のひとつといえます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用の実態：何が問われているか
 
@@ -91,6 +97,11 @@ SAP・Oracle等のERPを軸にしたサプライチェーン関連システム�
 
 **補強が必要だったポイント**
 一方でこの経験だけでは、サプライチェーン全体の構造的な理解や、課題を論点に分解して整理する能力の証明が不十分になりがちです。選考前にサプライチェーン関連の専門書や資格（例：CPSMやAPICS認定等）を通じた知識補強を並行して進め、面接では「業務フローの可視化や改善提案を自発的に行った経験」として前職の経験を再解釈して伝えることが有効です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

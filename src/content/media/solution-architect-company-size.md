@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["ソリューションアーキテクト", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "solution-architect-company-size"
+hub: "solution-architect"
 image: "/images/media/solution-architect-company-size.png"
 related: ["solution-architect-failure", "solution-architect-salary-1000", "solution-architect-in-20s", "data-scientist-company-size", "saas-sales-company-size"]
 ---
@@ -18,6 +19,11 @@ related: ["solution-architect-failure", "solution-architect-salary-1000", "solut
 SAは、技術とビジネスの接点に立つ職種です。顧客の課題を技術的に解決する提案を設計し、営業とエンジニアリングの双方に橋渡しをする役割を担います。この「技術的信頼性」と「商談推進力」の両立が求められるという点が、他の職種にはない特性です。
 
 この特性が、大手とスタートアップの選択に直接影響します。なぜなら、SAとしての市場価値を決める要素が「どの製品・技術領域を担ったか」「どの規模・複雑度の案件を動かしたか」「顧客折衝でどこまでの権限を持っていたか」に集約されるからです。就業環境の好みだけでなく、これらの蓄積がどちらの環境で深まるかを考えることが判断の軸となります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-company-size">キャリアを相談する</a>
+</aside>
 
 ## 大手企業のSAポジションの実態
 
@@ -84,6 +90,11 @@ Aさんは主にオンプレミスのインフラ移行案件を担当してお�
 Aさんは「技術ブランドを深める」ことより「事業の構造を自分で設計する経験」を優先し、スタートアップを選択しました。入社後、製品フィードバックループへの関与やパートナー技術支援の仕組み作りに携わる経験が、その後のキャリアで差別化要因になったとされます。
 
 この事例が示すのは、報酬の絶対値よりも「その環境で何を学び、次にどこへ向かうか」という文脈の一貫性が、転職成功の核心に近いという点です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

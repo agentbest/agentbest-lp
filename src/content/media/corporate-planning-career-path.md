@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["経営企画", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "corporate-planning-career-path"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-career-path.png"
 related: ["corporate-planning-salary", "corporate-planning-salary-1000", "corporate-planning-future", "embedded-engineer-career-path", "data-analyst-career-path"]
 ---
@@ -31,6 +32,11 @@ related: ["corporate-planning-salary", "corporate-planning-salary-1000", "corpor
 この類型によって、30代以降のキャリアオプションは大きく変わります。「経営企画は潰しが利く」という通説は、戦略立案型と財務管理型の経験が組み合わさった場合に最も当てはまりやすく、片方に特化した場合は、その道の深さを評価されるスペシャリスト市場への参入が現実的な方向性です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-career-path">キャリアを相談する</a>
+</aside>
 
 ## 30代前半：深める vs. 転換するの判断軸
 
@@ -84,6 +90,11 @@ related: ["corporate-planning-salary", "corporate-planning-salary-1000", "corpor
 このパターンの特徴は、「実績の種類」を意識的に積み重ねている点です。単なる年次を重ねるのではなく、「M&A経験」→「上場経験」という形で、外部市場から評価されやすい実績をつなげています。転職を2回経験していますが、各ステップに明確な「できるようになったこと」と「次に求めたこと」があり、採用側から見てもストーリーとして理解しやすい動き方です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

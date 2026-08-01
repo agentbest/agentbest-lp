@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["機械学習エンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "ml-engineer-resume"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-resume.png"
 related: ["ml-engineer-in-30s", "ml-engineer-work-style", "ml-engineer-interview", "data-analyst-resume", "qa-engineer-resume"]
 ---
@@ -30,6 +31,11 @@ related: ["ml-engineer-in-30s", "ml-engineer-work-style", "ml-engineer-interview
 これらを適切に整理しないと、採用担当者には「実験環境で精度を上げただけで、エンジニアリングは別の人がやっている」という印象を与えやすくなります。この誤解を防ぐことが、機械学習エンジニアの職務経歴書における最重要課題です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## 構成の全体像
 
@@ -143,6 +149,11 @@ AUCやF1スコアの向上だけを成果として書いても、採用担当者
 モデル構築の経験は書かれていても、デプロイ・監視・モデル更新の経験が抜けているケースは少なくありません。MLOpsの経験は需要が高い領域のため、該当経験がある場合は意識的に記載します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

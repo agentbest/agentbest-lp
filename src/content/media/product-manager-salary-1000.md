@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["プロダクトマネージャー", "年収1000万"]
 pubDate: 2026-07-04
 slug: "product-manager-salary-1000"
+hub: "product-manager"
 image: "/images/media/product-manager-salary-1000.png"
 related: ["product-manager-career-guide", "product-manager-skills", "product-manager-english", "project-manager-salary-1000", "it-architect-salary-1000"]
 ---
@@ -32,6 +33,11 @@ PdMの年収は、経験年数・組織規模・業種・プロダクトのビ�
 また、業種・組織形態による差も大きく、外資系SaaS企業・メガベンチャー・成長期のスタートアップ（ストックオプション含む）では同じシニア水準でも総報酬に相当の開きが生じやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通する3つのキャリア要素
 
@@ -101,6 +107,11 @@ PdMの年収は、経験年数・組織規模・業種・プロダクトのビ�
 これらに具体的に答えられる経験が積み上がっているほど、1,000万円前後の求人に対して説得力ある候補者として認識されやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

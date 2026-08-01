@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["モバイルエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-salary-600"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-salary-600.png"
 related: ["mobile-engineer-work-style", "mobile-engineer-career-path", "mobile-engineer-from-scratch", "thinktank-salary-600", "freelance-consultant-salary-600"]
 ---
@@ -30,6 +31,11 @@ related: ["mobile-engineer-work-style", "mobile-engineer-career-path", "mobile-e
 この表は業種・企業規模・評価制度によって幅があるため、あくまで相場感として参照してください。ポイントは、600万円が「実装をこなせるエンジニア」と「設計・判断ができるエンジニア」の境界付近に位置するという点です。市場において600万円超は、技術的な深さよりも「判断の範囲の広さ」を問われる水準とも言えます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## なぜ600万円前後で頭打ちになりやすいのか
 
@@ -94,6 +100,11 @@ CleanArchitecture・MVVM・MVIといったアーキテクチャパターンの�
 この型が示すのは、スキルの絶対量より「判断と責任の範囲を広げた経験」の有無が評価を左右しやすいという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

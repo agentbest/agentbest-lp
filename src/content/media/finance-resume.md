@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["財務・経理", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "finance-resume"
+hub: "finance"
 image: "/images/media/finance-resume.png"
 related: ["finance-salary", "finance-interview", "finance-from-scratch", "scm-consultant-resume", "dev-director-resume"]
 ---
@@ -26,6 +27,11 @@ related: ["finance-salary", "finance-interview", "finance-from-scratch", "scm-co
 三つ目は「改善・貢献の軌跡」です。「決算を担当していた」という記述にとどまるか、「月次決算の締め日を3日前倒しした」「棚卸資産の評価プロセスを見直し、監査対応工数を20%削減した」のように変化の前後を示せるかで、候補者の質の見え方が大きく変わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -143,6 +149,11 @@ A4用紙2〜3枚が目安です。2枚に収まるケースが多いものの、
 「IFRS経験あり」と記載しながら、職務経歴には日本基準の業務しか見当たらない、という不整合は信頼性を損ないます。資格やスキルは、それを活用した業務経験と対応させて記述することが望ましいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

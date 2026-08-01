@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["M&Aアドバイザー", "志望動機"]
 pubDate: 2026-07-04
 slug: "ma-advisor-motivation"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-motivation.png"
 related: ["ma-advisor-how-to-use-agent", "ma-advisor-in-20s", "ma-advisor-salary", "pmo-motivation", "sap-consultant-motivation"]
 ---
@@ -33,6 +34,11 @@ M&Aアドバイザリー業務は、ソーシング・バリュエーション�
 この表が示すように、「M&Aに関わりたい」という動機は出発点に過ぎません。**どの組織類型で、どのフェーズに貢献したいか**を具体化することが、志望動機の骨格になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の3要素
 
@@ -104,6 +110,11 @@ M&Aアドバイザーとして活かせる自身のスキル・特性を、業�
 - **ソーシング・ネットワーク開発への意欲**：独立系ブティックでは特に重視される傾向がある
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["フルスタックエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-salary-1000"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-salary-1000.png"
 related: ["fullstack-engineer-market-trend", "fullstack-engineer-salary", "fullstack-engineer-future", "business-planning-salary-1000", "digital-marketer-salary-1000"]
 ---
@@ -25,6 +26,11 @@ related: ["fullstack-engineer-market-trend", "fullstack-engineer-salary", "fulls
 | テックリード・アーキテクト相当 | 1,000〜1,500万円以上 | 外資系・上場SaaS・自社プロダクト型企業 |
 
 上表から読み取れるように、年収1,000万円は「上位層の正社員として到達可能な水準」に位置する。ただしこれを実現するには、フルスタックのスキルセットに加え、雇用形態・業種・職責のいずれかで上振れ要因が必要になる傾向がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 「スキルの広さ」だけでは届かない理由
 
@@ -84,6 +90,11 @@ related: ["fullstack-engineer-market-trend", "fullstack-engineer-salary", "fulls
 
 **在籍年数と市場価値のズレを放置している**  
 同一環境で年数を重ねることで評価が安定する一方、外部市場での自分の相場観が鈍化しやすい。定期的に求人情報を確認したり、エージェントと対話したりすることで、自分のポジショニングを客観的に把握する習慣が有効である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["SAPコンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "sap-consultant-salary"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-salary.png"
 related: ["sap-consultant-in-30s", "sap-consultant-career-guide", "sap-consultant-how-to-use-agent", "dev-director-salary", "db-engineer-salary"]
 ---
@@ -42,6 +43,11 @@ SAPコンサルタントの報酬は、大きく「ポジションレベル」�
 フリーランスへの転向は年収の絶対額を引き上げやすい反面、案件の空白期間や保険・福利厚生のコストを自己負担する点を加味した実質額で比較する必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-salary">無料で相談する</a>
+</aside>
 
 ## 年収に影響する4つの構造的要因
 
@@ -95,6 +101,11 @@ FI・CO経験5年（SIer所属）→ 外資系コンサルティングファー�
 この型で重要なのは、年収差が単なるブランドの違いではなく「経験の希少性」と「それを言語化できたこと」によって生まれている点である。面接の場でプロジェクトのスコープ・自身の役割・成果を具体的に説明できる準備が、年収交渉の土台になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

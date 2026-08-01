@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["データアナリスト", "転職失敗"]
 pubDate: 2026-07-04
 slug: "data-analyst-failure"
+hub: "data-analyst"
 image: "/images/media/data-analyst-failure.png"
 related: ["data-analyst-salary", "data-analyst-certification", "data-analyst-salary-600", "hrbp-failure", "sap-consultant-failure"]
 ---
@@ -32,6 +33,11 @@ related: ["data-analyst-salary", "data-analyst-certification", "data-analyst-sal
 前職で整備された環境に慣れているアナリストが、整備途上の環境に転職した場合、分析よりもデータ収集・クレンジング・パイプライン整備に多くの時間を取られ、スキルが発揮できないと感じるケースがある。逆に、整備が進んでいる大企業に転職したものの、変更の意思決定が遅く自律的な動きを取りにくい環境に戸惑うケースもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターンと原因・対策
 
@@ -132,6 +138,11 @@ SaaS系企業で3年間データアナリストを経験。SQLとBigQueryを日�
 - [ ] 辞退した場合のリスクと承諾した場合のリスクを比較検討したか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

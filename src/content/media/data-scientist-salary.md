@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["データサイエンティスト", "年収相場"]
 pubDate: 2026-07-04
 slug: "data-scientist-salary"
+hub: "data-scientist"
 image: "/images/media/data-scientist-salary.png"
 related: ["data-scientist-career-guide", "data-scientist-company-size", "data-scientist-motivation", "marketing-manager-salary", "fas-consultant-salary"]
 ---
@@ -28,6 +29,11 @@ related: ["data-scientist-career-guide", "data-scientist-company-size", "data-sc
 数値はあくまで市場の中央値付近を軸にした目安であり、外資系テック企業や高成長スタートアップでは上限をさらに超えるケースも見られます。一方、事業会社の中でもDX推進フェーズにない組織では下限に収束しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する三つの構造的要因
 
@@ -76,6 +82,11 @@ related: ["data-scientist-career-guide", "data-scientist-company-size", "data-sc
 **専門領域の絞り込み**：LLM活用、因果推論、リスクモデリングなど、特定ドメインへの深化は汎用的なスキルセットと比較して希少性を高めやすいです。ただし、絞り込みすぎると市場の幅が狭まるトレードオフもあるため、「広く薄く」と「深く狭く」のバランスを意識する必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

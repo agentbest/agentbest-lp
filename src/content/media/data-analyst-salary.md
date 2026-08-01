@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["データアナリスト", "年収相場"]
 pubDate: 2026-07-04
 slug: "data-analyst-salary"
+hub: "data-analyst"
 image: "/images/media/data-analyst-salary.png"
 related: ["data-analyst-how-to-use-agent", "data-analyst-certification", "data-analyst-in-30s", "cloud-engineer-salary", "data-scientist-salary"]
 ---
@@ -32,6 +33,11 @@ related: ["data-analyst-how-to-use-agent", "data-analyst-certification", "data-a
 個人として分析業務を担うか、チームをリードするか、分析基盤の設計まで担うかによって、報酬設計の前提が異なります。マネジメントや組織横断的なデータ戦略の立案を伴うポジションは、テクニカルな実行担当と比較して年収レンジが大きく広がる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-salary">無料で相談する</a>
+</aside>
 
 ## 年代別・スキルレベル別の年収目安
 
@@ -104,6 +110,11 @@ SQLとBIツールの習熟は基礎として重要ですが、Pythonによる統
 習得したスキルを「使って成果を出した実績」として職務経歴書に記載できる状態になってから転職活動を開始するほうが、提示レンジが安定する傾向があります。スキルの習得直後に動き出すより、実務でのアウトプットが1〜2件伴ったタイミングのほうが交渉力を持ちやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

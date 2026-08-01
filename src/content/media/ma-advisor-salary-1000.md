@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["M&Aアドバイザー", "年収1000万"]
 pubDate: 2026-07-04
 slug: "ma-advisor-salary-1000"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-salary-1000.png"
 related: ["ma-advisor-how-to-use-agent", "ma-advisor-failure", "ma-advisor-interview", "bizdev-salary-1000", "solution-architect-salary-1000"]
 ---
@@ -34,6 +35,11 @@ M&Aアドバイザーとして年収1,000万円に到達することは、キャ
 数値はあくまで目安であり、各社の規模・案件規模・個人成績によって大きく変わります。共通して言えるのは、1,000万円という水準は「例外的な高収入」ではなく、適切なキャリア選択と実力の積み上げによって到達しうる水準だという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの選択
 
@@ -91,6 +97,11 @@ M&Aアドバイザーの高年収層の多くは、同一企業での定年ま�
 CFAや中小企業診断士等の資格は、取得によって採用上のハードルを下げる効果はあります。しかし、資格は実績の代替にはならず、案件経験の積み上げが年収評価の主軸であることは変わりません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

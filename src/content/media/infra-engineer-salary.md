@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["インフラエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "infra-engineer-salary"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-salary.png"
 related: ["infra-engineer-salary-600", "infra-engineer-future", "infra-engineer-failure", "pmo-salary", "ma-advisor-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["infra-engineer-salary-600", "infra-engineer-future", "infra-engineer-
 シニア以降でスペシャリストとマネジャーの年収が並ぶのは、多くの企業がデュアルキャリアパス（個人貢献型／マネジメント型）を設けているためです。どちらの軸を選ぶかが、30代後半以降の年収に大きく影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する主な要因
 
@@ -93,6 +99,11 @@ related: ["infra-engineer-salary-600", "infra-engineer-future", "infra-engineer-
 このパターンが示すのは、「既存業務の中にある上位領域への関与経験」と「それを資格・言語化で補強する」という組み合わせが転職市場で有効に機能しやすいという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

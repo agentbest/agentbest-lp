@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["モバイルエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-in-30s"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-in-30s.png"
 related: ["mobile-engineer-career-path", "mobile-engineer-failure", "mobile-engineer-resume", "partner-sales-in-30s", "big4-consultant-in-30s"]
 ---
@@ -22,6 +23,11 @@ related: ["mobile-engineer-career-path", "mobile-engineer-failure", "mobile-engi
 iOSおよびAndroidを中心としたネイティブ開発の経験者は、依然として慢性的な不足状態にある。Flutter・React Nativeといったクロスプラットフォーム技術の台頭により開発の裾野は広がっているが、パフォーマンス最適化・OSアップデート対応・セキュリティ実装といった深い技術領域では、ネイティブの知見を持つシニアエンジニアの需要が落ちていない。
 
 一方で、30代への期待水準は「書けるかどうか」ではなく「プロジェクト全体を見渡せるかどうか」に移行する。コードの品質だけでなく、設計判断・チームへの技術的なリード・ビジネス要件との翻訳能力が問われる。このギャップを理解できていない候補者は、経験年数があっても評価が伸び悩む傾向がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 即戦力として評価される技術要件
 
@@ -96,6 +102,11 @@ Androidエンジニア歴5年・30代前半。在籍企業での規模は大き�
 | テックリード相当・チームへの技術的影響力あり | 1,000万円前後〜 |
 
 交渉において意識しておきたいのは、「年齢」や「経験年数」ではなく「採用後に何をどのレベルで担えるか」が企業側の算定根拠になるという点だ。自分が期待されているロールと年収の関係を整理したうえで交渉に臨むと、根拠を持った対話ができる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

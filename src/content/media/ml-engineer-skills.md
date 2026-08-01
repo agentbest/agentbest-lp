@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["機械学習エンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "ml-engineer-skills"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-skills.png"
 related: ["ml-engineer-career-path", "ml-engineer-salary", "ml-engineer-english", "erp-consultant-skills", "customer-success-skills"]
 ---
@@ -31,6 +32,11 @@ related: ["ml-engineer-career-path", "ml-engineer-salary", "ml-engineer-english"
 「基盤技術」は採用における足切りラインに近い。これが十分でなければ他の能力を評価してもらえない。一方で、基盤技術だけ優れていても、機械学習エンジニアとしての市場価値を高める効果は限定的だ。評価のレバレッジが最も効くのは「プロダクション対応技術」であり、これがある人とない人では、同じMLの知識量でも年収の目安に大きな差が生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## 各スキル領域の詳細と習熟水準の目安
 
@@ -101,6 +107,11 @@ A氏が評価を引き上げるには、現職または個人プロジェクト�
 これらはあくまで目安であり、企業規模・業種・資金調達フェーズ・英語要件の有無等によって実際のレンジは変動する。特にスタートアップや外資系IT企業では、同水準のスキルでも国内大手と比較して提示レンジが広がる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

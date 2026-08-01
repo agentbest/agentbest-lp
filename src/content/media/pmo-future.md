@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["PMO", "将来性"]
 pubDate: 2026-07-04
 slug: "pmo-future"
+hub: "pmo"
 image: "/images/media/pmo-future.png"
 related: ["pmo-failure", "pmo-salary", "pmo-company-size", "ml-engineer-future", "post-consultant-future"]
 ---
@@ -32,6 +33,11 @@ PMOの業務は大きく「管理支援型」と「変革推進型」に分け�
 | ポートフォリオ管理 | 優先順位付け、投資判断支援 | 低い（判断根拠の整理は支援可能） |
 
 この構造を踏まえると、PMOの将来性は「職種全体」ではなく「どの機能帯を担っているか」で評価すべき問題であることがわかる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-future">無料で相談する</a>
+</aside>
 
 ## AI時代に需要が高まるPMO像
 
@@ -84,6 +90,11 @@ PMO内でプロジェクト管理標準の見直しプロジェクトが立ち�
 | 金融・製造（大企業） | 安定的。規制対応や基幹刷新案件が牽引 | コンプライアンス対応、ベンダーマネジメント |
 
 SaaSや事業会社のDX部門では、コンサルファーム出身者やPM経験者がPMOポジションに入るケースも増えており、「PMO専業」としてのキャリアよりも、プロジェクトマネジャーや変革推進リードとの境界が曖昧なポジション設計になりやすい。この流動性は、経験の幅を広げる機会でもある一方、専門性の軸を意識的に設計しないとキャリアが拡散するリスクにもなり得る。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

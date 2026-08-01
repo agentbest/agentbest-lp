@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["Salesforceコンサルタント", "キャリアパス"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-career-path"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-career-path.png"
 related: ["salesforce-consultant-skills", "salesforce-consultant-certification", "salesforce-consultant-salary-1000", "engineering-manager-career-path", "legal-career-path"]
 ---
@@ -32,6 +33,11 @@ Salesforceコンサルタントは、CRMプラットフォームの中でも特�
 重要なのは、30代中盤以降の年収の伸びがこの職位の推移とほぼ連動しているという点です。言い換えると、30代での選択が長期的な報酬の天井を左右しやすい構造になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代で訪れる主要な分岐点
 
@@ -75,6 +81,11 @@ SaaS系B2B企業からオファー。RevOpsマネージャーとして、営業�
 短期納品のプレッシャーは軽減された一方、社内の合意形成・部門横断のコミュニケーションに工数が移行。Salesforceの技術そのものより、「どう活用して事業指標を動かすか」を問われる局面が増えた。これを成長と捉えられるかどうかが、このルートの適合性を判断する上での軸になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

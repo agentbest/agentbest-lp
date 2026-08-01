@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["データエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "data-engineer-from-scratch"
+hub: "data-engineer"
 image: "/images/media/data-engineer-from-scratch.png"
 related: ["data-engineer-company-size", "data-engineer-interview", "data-engineer-future", "digital-marketer-from-scratch", "bizdev-from-scratch"]
 ---
@@ -30,6 +31,11 @@ related: ["data-engineer-company-size", "data-engineer-interview", "data-enginee
 データサイエンティストが「データから何を読み取るか」を担うのに対し、データエンジニアは「そのデータをどう集め、どう整備するか」を担う。ソフトウェアエンジニアリングとデータ工学が交わる領域であるため、純粋なデータ分析職より「エンジニアリングの素養」が問われやすい点が特徴的だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験転職の現実：企業が求める「最低ライン」
 
@@ -115,6 +121,11 @@ SQLとデータ分析の経験を持ちながら、パイプライン構築やdb
 題材は「公開データセット（気象庁・国土交通省などの官公庁オープンデータ）」や「APIから取得できるSNS・金融データ」などを活用すると、実務に近い構成を作りやすい。重要なのはデータの規模より設計の論理性であるため、過度に大規模なシステムを目指す必要はない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

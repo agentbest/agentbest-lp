@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["CTO・VPoE候補", "30代転職"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-in-30s"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-in-30s.png"
 related: ["cto-vpoe-work-style", "cto-vpoe-resume", "cto-vpoe-skills", "hr-consultant-in-30s", "thinktank-in-30s"]
 ---
@@ -26,6 +27,11 @@ related: ["cto-vpoe-work-style", "cto-vpoe-resume", "cto-vpoe-skills", "hr-consu
 | テックリード（兼務型） | 実装・設計・チームリード・一部採用 | 技術的深度・小チームの推進力 | 900〜1,400万円前後 |
 
 上記はあくまでポジションの性質別の相場感であり、企業フェーズや事業規模によって大きく変動します。シリーズBのスタートアップとIPO後の中堅企業では、同じタイトルでも期待値も報酬レンジも異なる点に留意が必要です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用企業が30代候補者に期待すること
 
@@ -76,6 +82,11 @@ IT戦略コンサルまたは事業会社の技術部門で、外部ベンダー
 ### エージェントとの対話における情報の非対称性解消
 
 CTO・VPoEクラスの求人は、一般の転職サイトに公開されない非公開案件が多い傾向があります。また、同じポジション名でも企業によって役割期待が大きく異なるため、求人票だけでは判断しきれないことが多い領域です。このポジションを検討する場合は、当該領域に知見を持つ転職エージェントとの情報交換を早期に行い、自身の市場価値と求人の実態を照合するプロセスが有効です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

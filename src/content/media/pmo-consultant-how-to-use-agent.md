@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["PMOコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-how-to-use-agent"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-how-to-use-agent.png"
 related: ["pmo-consultant-market-trend", "pmo-consultant-in-20s", "pmo-consultant-from-scratch", "cloud-engineer-how-to-use-agent", "strategy-consultant-how-to-use-agent"]
 ---
@@ -46,6 +47,11 @@ PMOコンサルタントの報酬は、経験・業界・企業規模・プロ�
 上記はあくまで市場の傾向であり、個別の状況によって大きく異なる。重要なのは、自分のポジションが市場全体の中でどのレンジに位置するかを把握したうえで、企業ごとの給与テーブルや評価制度を踏まえた交渉をすることだ。エージェントは企業の内情を把握しているケースが多く、「この企業では〇〇という実績があれば上位グレードでのオファーが出やすい」という情報提供が可能になる。直接応募では得られない視点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェント選定の実務的な基準
 
@@ -90,6 +96,11 @@ PMOコンサルタントの転職において、汎用型の大手エージェ�
 この事例が示すのは、実務経験の価値が正確に伝わる状態にすることの重要性と、非公開求人へのアクセスが選択肢の質を左右するという構造的な事実だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

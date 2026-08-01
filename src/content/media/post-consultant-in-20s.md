@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["ポストコンサル", "20代転職"]
 pubDate: 2026-07-05
 slug: "post-consultant-in-20s"
+hub: "post-consultant"
 image: "/images/media/post-consultant-in-20s.png"
 related: ["post-consultant-resume", "post-consultant-career-path", "post-consultant-salary-1000", "finance-in-20s", "ai-engineer-in-20s"]
 ---
@@ -20,6 +21,11 @@ related: ["post-consultant-resume", "post-consultant-career-path", "post-consult
 この記事では、20代のポストコンサル転職の実態・ポテンシャル採用の評価構造・狙い目となる企業類型を、実務的な視点から整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## ポテンシャル採用で問われる能力とは何か
 
@@ -87,6 +93,11 @@ related: ["post-consultant-resume", "post-consultant-career-path", "post-consult
 シリーズCのSaaS企業にてBizDev担当として入社。年収は前職比で微減になったものの、入社半年でPMF後の新規セグメント開拓のリードを担うポジションに移行。在籍2年目以降でエクイティ付与の見直しが行われたケース。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

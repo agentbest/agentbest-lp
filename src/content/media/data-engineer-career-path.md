@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["データエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "data-engineer-career-path"
+hub: "data-engineer"
 image: "/images/media/data-engineer-career-path.png"
 related: ["data-engineer-motivation", "data-engineer-company-size", "data-engineer-how-to-use-agent", "hr-consultant-career-path", "digital-marketer-career-path"]
 ---
@@ -26,6 +27,11 @@ related: ["data-engineer-motivation", "data-engineer-company-size", "data-engine
 市場での需要については、データ活用を本格化させる企業が増えるにつれ、特にSaaS・EC・フィンテックといったデータ量と活用頻度が高い領域での採用需要が安定して高い水準で推移している。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## 20代のうちに積むべき基礎：スキル構造の理解
 
@@ -112,6 +118,11 @@ related: ["data-engineer-motivation", "data-engineer-company-size", "data-engine
 このケースの示唆は、「キャリアを選ぶ前に、今の業務のどの部分に集中力と充実感があるか」を言語化する作業が分岐先の精度を上げるということだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

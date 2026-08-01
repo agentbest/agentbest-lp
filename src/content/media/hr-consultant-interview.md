@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["人事・組織コンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "hr-consultant-interview"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-interview.png"
 related: ["hr-consultant-salary", "hr-consultant-market-trend", "hr-consultant-company-size", "salesforce-consultant-interview", "business-consultant-interview"]
 ---
@@ -31,6 +32,11 @@ related: ["hr-consultant-salary", "hr-consultant-market-trend", "hr-consultant-c
 
 **③ 人・組織への本質的な関心**
 この職種に対する動機が、表面的なキャリアアップではなく、人や組織の変化への本質的な興味から来ているかどうかを評価者は敏感に感じ取る。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -97,6 +103,11 @@ related: ["hr-consultant-salary", "hr-consultant-market-trend", "hr-consultant-c
 | 800〜1,100万円程度 | 人事企画・制度設計・HRBPなど上流経験あり | プロジェクト推進力・対クライアント経験 |
 | 1,100〜1,400万円程度 | コンサル経験あり、またはHR領域の高度専門性 | 戦略的思考・リーダーシップ・独自の知見 |
 | 1,400万円以上 | マネジャー〜パートナー候補、事業開発含む | ビジネス創出・組織影響力・市場観 |
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

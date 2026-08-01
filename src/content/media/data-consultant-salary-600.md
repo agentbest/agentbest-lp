@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["データ・アナリティクスコンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "data-consultant-salary-600"
+hub: "data-consultant"
 image: "/images/media/data-consultant-salary-600.png"
 related: ["data-consultant-market-trend", "data-consultant-resume", "data-consultant-motivation", "freelance-consultant-salary-600", "ai-engineer-salary-600"]
 ---
@@ -32,6 +33,11 @@ related: ["data-consultant-market-trend", "data-consultant-resume", "data-consul
 年収600万円は「技術者としての信頼は得た、しかしビジネスへの影響力はまだ限定的」というステージと重なりやすい。この水準から上に進むためには、技術の深掘りとは異なる軸での成長が必要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -110,6 +116,11 @@ DAコンサルタントとして最初に評価されるのは、分析の精度
 この事例が示すのは、役割の拡張は公式なアサインを待つより先に、自発的に越境することで起きやすいという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["総合コンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "big4-consultant-english"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-english.png"
 related: ["big4-consultant-company-size", "big4-consultant-in-30s", "big4-consultant-salary-1000", "fullstack-engineer-english", "bridge-se-english"]
 ---
@@ -26,6 +27,11 @@ related: ["big4-consultant-company-size", "big4-consultant-in-30s", "big4-consul
 つまり「総合コンサルに英語は必要か」という問いへの正確な答えは、**「どのファームの、どの部門・チームで、どのようなプロジェクトを担当するかによる」**ということになる。この前提を持った上で、以下の整理を読んでほしい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-english">無料で相談する</a>
+</aside>
 
 ## 英語力と求人・採用要件の実態
 
@@ -102,6 +108,11 @@ related: ["big4-consultant-company-size", "big4-consultant-in-30s", "big4-consul
 このケースが示すのは、「英語力を先に完成させる必要はないが、機会が来たときに手を挙げられる状態にしておくことが重要」という点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

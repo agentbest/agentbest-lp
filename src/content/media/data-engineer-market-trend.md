@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["データエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "data-engineer-market-trend"
+hub: "data-engineer"
 image: "/images/media/data-engineer-market-trend.png"
 related: ["data-engineer-how-to-use-agent", "data-engineer-skills", "data-engineer-salary-600", "project-manager-market-trend", "sap-consultant-market-trend"]
 ---
@@ -22,6 +23,11 @@ related: ["data-engineer-how-to-use-agent", "data-engineer-skills", "data-engine
 第二に、リアルタイムデータ処理への移行が挙げられる。従来のバッチ処理中心のアーキテクチャから、ストリーミング処理を前提とした設計への転換を求める企業が増加している。フィンテック・EC・SaaSプロダクトなど、ユーザー行動データをリアルタイムに活用する必要性が高い領域では、この傾向が顕著である。
 
 第三に、データプラットフォームの内製化シフトがある。コスト管理や情報セキュリティの観点から、外部ベンダーや受託開発に依存していたデータ基盤を自社で保有・運営しようとする動きが加速している。これにより事業会社側での採用需要が増加し、SIer・コンサルティングファームからの人材流入も続いている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 2026年における採用ニーズの変化：「経験者への集中」が鮮明に
 
@@ -81,6 +87,11 @@ related: ["data-engineer-how-to-use-agent", "data-engineer-skills", "data-engine
 **製造・小売のDX推進部門**は、採用に積極的な時期と停滞期が繰り返されやすい。予算サイクルや経営層のDXへのコミットメント度合いに左右されるため、求人の継続性に注意が必要である。
 
 **外資系コンサルティング・監査法人系ファーム**は、データエンジニアよりもデータアーキテクトやデータストラテジスト的な役割を求めるケースが多く、単純な実装経験よりも上流での設計・提案力が問われる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

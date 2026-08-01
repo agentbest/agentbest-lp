@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["事業企画", "転職失敗"]
 pubDate: 2026-07-04
 slug: "business-planning-failure"
+hub: "business-planning"
 image: "/images/media/business-planning-failure.png"
 related: ["business-planning-resume", "business-planning-motivation", "business-planning-career-guide", "big4-consultant-failure", "solution-architect-failure"]
 ---
@@ -26,6 +27,11 @@ related: ["business-planning-resume", "business-planning-motivation", "business-
 加えて、事業企画は成果の可視化に時間がかかる職種です。営業のように数値が月次で積み上がるわけではなく、施策の立案から実行・評価まで数ヶ月から1年以上かかることも少なくありません。この時間軸の違いへの適応が不十分だと、「自分が機能しているのかどうか分からない」という感覚が長期化し、モチベーションや自己評価の低下を招きやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターンと構造的な原因
 
@@ -103,6 +109,11 @@ related: ["business-planning-resume", "business-planning-motivation", "business-
 - 3年後の報酬水準の目安を把握しているか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

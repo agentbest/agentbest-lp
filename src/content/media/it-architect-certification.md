@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["ITアーキテクト", "資格"]
 pubDate: 2026-07-04
 slug: "it-architect-certification"
+hub: "it-architect"
 image: "/images/media/it-architect-certification.png"
 related: ["it-architect-market-trend", "it-architect-in-20s", "it-architect-resume", "uiux-designer-certification", "scm-consultant-certification"]
 ---
@@ -26,6 +27,11 @@ ITアーキテクトに求められる能力の中心は、**複雑な技術的�
 また、外資系テック企業やスタートアップでは、資格よりもGitHubのリポジトリ、アーキテクチャ設計の実績資料（Design Doc）、あるいは登壇・執筆実績などを重視する傾向が強い。国内大手SIerや官公庁系プロジェクトでは、IPA系資格が評価基準に組み込まれているケースもあるが、これは企業文化の差異によるものであり、市場全体の傾向ではない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格の条件
 
@@ -84,6 +90,11 @@ AWSを主戦場とするアーキテクトがAWS認定のProfessionalレベル�
 このパターンで共通するのは、資格が「取得それ自体を目的にしていない」という点である。設計実務→知識体系化の必要性→資格取得→実務への還元、という流れが明確なケースは、面接でのストーリーが自然に一致しやすく、説得力を持ちやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

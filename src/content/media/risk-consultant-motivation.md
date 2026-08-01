@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["リスク・ガバナンスコンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "risk-consultant-motivation"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-motivation.png"
 related: ["risk-consultant-future", "risk-consultant-skills", "risk-consultant-career-guide", "qa-engineer-motivation", "business-planning-motivation"]
 ---
@@ -24,6 +25,11 @@ related: ["risk-consultant-future", "risk-consultant-skills", "risk-consultant-c
 - **サイバーリスク・情報セキュリティガバナンス**：リスク評価とセキュリティ体制の整備
 
 これらは「守りのコンサルティング」と呼ばれることもあるが、実態は規制対応から経営戦略の意思決定支援まで関与し、単純な作業ではない。クライアントの事業リスクを構造化し、経営陣が意思決定できる形に整えることが求められる。この理解が浅いまま志望動機を書くと、採用担当者には即座に見抜かれる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の4つの構成要素
 
@@ -84,6 +90,11 @@ related: ["risk-consultant-future", "risk-consultant-skills", "risk-consultant-c
 - ファーム固有の理由として、代替可能でない内容が含まれているか
 - 入社後に何を実現したいかが、具体的なクライアントセクターや業務領域と接続されているか
 - 800〜1,000字程度の場合、4つの構成要素（接続根拠・職種理解・ファーム理由・キャリアイメージ）に各要素が含まれているか
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

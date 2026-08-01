@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["組み込みエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-resume"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-resume.png"
 related: ["embedded-engineer-from-scratch", "embedded-engineer-career-guide", "embedded-engineer-failure", "dx-consultant-resume", "freelance-consultant-resume"]
 ---
@@ -27,6 +28,11 @@ Webサービスであれば「MAU〇%向上」「レスポンスタイム〇ms�
 使用するCPU・マイコン・OSS・通信プロトコルの組み合わせは案件ごとに異なる。採用担当者（特に非エンジニアのHR担当）が技術的深度を評価しにくいため、記載の仕方によって実力が正確に伝わらないリスクがある。
 
 これらを踏まえると、組み込みエンジニアの職務経歴書に必要な工夫は「開示できる範囲で具体性を最大化すること」と「技術スタックを構造的に整理すること」の二点に集約される。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 全体構成と各セクションの役割
 
@@ -104,6 +110,11 @@ Webサービスであれば「MAU〇%向上」「レスポンスタイム〇ms�
 | 「品質向上に貢献」 | 抽象的で評価不能 | 具体的な不具合件数推移や検出率などに置換 |
 | 職歴が時系列のみで技術変遷が見えない | スキル成長が読み取れない | スキルサマリーに習熟度・期間を示す |
 | ツール名がない | 開発環境の互換性が不明 | IDEやバージョン管理ツールを明記 |
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["機械学習エンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "ml-engineer-work-style"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-work-style.png"
 related: ["ml-engineer-motivation", "ml-engineer-certification", "ml-engineer-future", "uiux-designer-work-style", "game-engineer-work-style"]
 ---
@@ -39,6 +40,11 @@ related: ["ml-engineer-motivation", "ml-engineer-certification", "ml-engineer-fu
 **開発期（モデル実装・学習基盤構築・評価）**は、締め切りと品質要求が重なる最も多忙なフェーズになりやすい。特に学習コストや推論速度の最適化が必要になると、インフラエンジニアやMLOpsエンジニアとの密な連携が求められ、調整コストも増える。
 
 **運用期（モデル監視・再学習・改善）**は、想定外のデータドリフトや精度劣化が発生しない限り、比較的安定したサイクルを維持できる。ただし障害対応は深夜・休日問わず発生しうるため、オンコール体制の有無が働き方に影響する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## 残業の実態と「見えにくい負荷」
 
@@ -91,6 +97,11 @@ related: ["ml-engineer-motivation", "ml-engineer-certification", "ml-engineer-fu
 **金曜日**：コードレビュー、次週の計画整理、個人の学習・情報収集
 
 この型が成立している場合、残業は週5時間以内に収まることも珍しくなく、大半の業務をリモートで完結できる。ただしリリース前の2週間は「火〜木が実装ラッシュ」になり、週15〜20時間超の稼働になることもある。メリハリのある働き方が成立しやすい一方で、プロジェクトの山を読んで事前に調整できるか否かが、実際の負荷感を大きく左右する。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

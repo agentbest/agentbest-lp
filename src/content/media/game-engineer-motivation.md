@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["ゲームエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "game-engineer-motivation"
+hub: "game-engineer"
 image: "/images/media/game-engineer-motivation.png"
 related: ["game-engineer-company-size", "game-engineer-career-guide", "game-engineer-career-path", "marketing-manager-motivation", "uiux-designer-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["game-engineer-company-size", "game-engineer-career-guide", "game-engi
 「ゲームが好きだから」という理由は、内発的動機として自然ではあるものの、それだけでは上記の3点を満たしません。採用担当者に響く志望動機は、好意に加えて「なぜこの会社・このプロダクトでなければならないのか」という論理的な接続が不可欠です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -118,6 +124,11 @@ Webフロントエンドエンジニアとして3年の経験を持つ人物が�
 選考フェーズについては、書類選考では文章の論理構成と企業研究の深さが重視されやすく、面接では「なぜその動機に至ったか」の深掘りに対して具体的なエピソードで答えられる準備が必要です。書類と面接で話す内容の整合性が取れていることも、信頼性の観点から重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

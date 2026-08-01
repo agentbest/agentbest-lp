@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["インフラエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "infra-engineer-in-20s"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-in-20s.png"
 related: ["infra-engineer-work-style", "infra-engineer-market-trend", "infra-engineer-from-scratch", "game-engineer-in-20s", "engineering-manager-in-20s"]
 ---
@@ -22,6 +23,11 @@ related: ["infra-engineer-work-style", "infra-engineer-market-trend", "infra-eng
 重要な前提として、採用企業が20代に期待するものは年次によって異なります。24歳以下であれば素直な学習姿勢と論理的思考力を重視するポテンシャル採用が機能しやすい傾向があります。25〜29歳になると、未経験であっても何らかの「技術的素地」（プログラミング学習歴、資格取得、自宅環境構築など）を求められるケースが増え、ポテンシャルだけでなく「行動履歴」が評価対象に加わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## ポテンシャル採用が成立する条件とその限界
 
@@ -87,6 +93,11 @@ related: ["infra-engineer-work-style", "infra-engineer-market-trend", "infra-eng
 **転職エージェントの使い方**：インフラ領域に精通したエージェントを選ぶことが重要です。一般的な転職エージェントは求人のボリュームが多い一方、インフラ職種の職務内容の細部（オンプレとクラウドの比率、運用と構築の割合など）まで把握していないケースがあります。技術系専門のエージェントや、IT職種に強いエージェントを使い分けることが選択肢の質に影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

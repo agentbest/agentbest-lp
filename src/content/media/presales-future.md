@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["セールスエンジニア／プリセールス", "将来性"]
 pubDate: 2026-07-03
 slug: "presales-future"
+hub: "presales"
 image: "/images/media/presales-future.png"
 related: ["presales-market-trend", "presales-career-path", "presales-career-guide", "game-engineer-future", "partner-sales-future"]
 ---
@@ -28,6 +29,11 @@ related: ["presales-market-trend", "presales-career-path", "presales-career-guid
 この職種が特徴的なのは、「技術がわかる人間」と「顧客課題を理解できる人間」の両方でなければ務まらない点にある。エンジニアリングとビジネスの交点に存在しているがゆえに、どちらか一方の自動化・代替では機能しない。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI・自動化が職種に与える影響の整理
 
@@ -96,6 +102,11 @@ AI・自動化の影響を正確に評価するには、業務を分解して考
 AI時代においては、後者のスペシャリストトラックがより機能するためには、ドメイン知識（特定業界の業務理解）と技術の組み合わせが重要になる。単なる製品知識に留まらず、「金融業界のデータガバナンス規制と自社製品の連携」「製造業のMES・ERPとSaaSの統合」といった軸で専門性を構築することが、長期的な市場価値に直結する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["クラウドエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-in-30s"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-in-30s.png"
 related: ["cloud-engineer-interview", "cloud-engineer-salary-600", "cloud-engineer-future", "pmo-in-30s", "mobile-engineer-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["cloud-engineer-interview", "cloud-engineer-salary-600", "cloud-engine
 この前提を理解せずに転職活動を進めると、職務経歴書の訴求軸がずれ、面接でも評価のポイントを外しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## 採用企業が30代クラウドエンジニアに求めるスキルセット
 
@@ -86,6 +92,11 @@ related: ["cloud-engineer-interview", "cloud-engineer-salary-600", "cloud-engine
 **結果の傾向**：このように「現職での追加実績の積み上げ」と「実績の定量化」を並行して行った場合、書類通過率・面接評価ともに改善しやすい。30代転職においては転職活動の準備期間として3〜6か月程度を見込むことが現実的である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

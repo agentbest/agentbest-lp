@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["物流テック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "logitech-industry-career"
+hub: "logitech-industry"
 image: "/images/media/logitech-industry-career.png"
 related: ["logitech-industry-company", "logitech-industry-trend", "logitech-industry-guide", "healthtech-industry-career", "ma-industry-career"]
 ---
@@ -33,6 +34,11 @@ WMS（倉庫管理システム）、TMS（輸送管理システム）、OMS（�
 この3層はしばしば重なり合いますが、求められる人材像はそれぞれ異なります。転職を検討する際には、自分がどの層に関わりたいかを最初に整理することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-career">無料で相談する</a>
+</aside>
 
 ## 物流テックで評価されやすい経験の類型
 
@@ -116,6 +122,11 @@ HR SaaSやCRM系の企業で3〜5年のエンタープライズ営業経験を�
 ECの物量増加を背景に、大手小売・メーカー・EC事業者が物流機能を内製化する動きが続いています。物流テック企業でシステム・オペレーション双方を理解した人材は、こうした事業会社のDX推進ポジションでも評価されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

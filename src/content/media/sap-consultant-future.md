@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["SAPコンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "sap-consultant-future"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-future.png"
 related: ["sap-consultant-resume", "sap-consultant-failure", "sap-consultant-english", "embedded-engineer-future", "pmo-future"]
 ---
@@ -20,6 +21,11 @@ SAPが企業のコアシステムとして機能し続けている理由は、�
 SAP社は2027年に主要製品のメインストリームサポートをS/4HANAへ移行する方針を段階的に進めており、既存のSAP ECC（ERP 6.0）を稼働させている企業の多くがS/4HANAへの移行プロジェクトを抱えている。この移行需要だけでも、今後数年にわたってSAPコンサルタントの市場は一定の底堅さを保つと見られている。
 
 加えて、SAPを導入済みの企業が自社でSAPの保守・設定変更を完結させるケースは依然として少ない。SAPの設定ロジックやカスタマイズ手法（ABAPによる開発を含む）は専門性が高く、社内でSAPエンジニアを抱えるコストと、外部のSAPコンサルタントを活用するコストを比較した場合、外部活用を選ぶ企業が多い構造が続いている。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-future">無料で相談する</a>
+</aside>
 
 ## AI・クラウド化がSAPコンサルタントに与える影響
 
@@ -78,6 +84,11 @@ SAPのAI機能（Joule、SAP AI Core、Datasphere等）の概要を理解し、�
 製造業クライアントを中心に原価管理・管理会計領域でのSAP設定を担当してきた。AIによって「設定作業の一部が自動化される」という危機感から、S/4HANA移行プロジェクトへのアサインを自ら希望。移行プロジェクトを通じてUniversal Journal（S/4HANAのFI/CO統合テーブル）の設計思想を習得し、同時にSAP BTPを活用した財務レポーティング自動化の提案を担当。
 
 この経験を積んだ後、外資系コンサルティングファームへ転職。年収は前職比で約200〜300万円の上昇となった。このケースが示すのは、「既存の専門領域を捨てるのではなく、次世代技術と接続させる」という方向性が市場価値向上に効果的だということである。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

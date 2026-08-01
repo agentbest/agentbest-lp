@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["インサイドセールス", "市場動向"]
 pubDate: 2026-07-03
 slug: "inside-sales-market-trend"
+hub: "inside-sales"
 image: "/images/media/inside-sales-market-trend.png"
 related: ["inside-sales-salary-1000", "inside-sales-in-30s", "inside-sales-interview", "data-analyst-market-trend", "db-engineer-market-trend"]
 ---
@@ -28,6 +29,11 @@ related: ["inside-sales-salary-1000", "inside-sales-in-30s", "inside-sales-inter
 **第三に、採用数の選別化。** 大規模採用から精鋭採用へシフトする企業が増えており、求人件数そのものが微減傾向にある一方、1件あたりのポジションの質は上がっている。条件面・成長環境ともに充実したポジションが、経験者に集中して流れる構造になりつつある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用ニーズの変化：企業フェーズ別の整理
 
@@ -99,6 +105,11 @@ SMB（中小企業向け）市場のSaaS普及がある程度進んだことを�
 インサイドセールス出身者が、フィールドセールスやカスタマーサクセスへのキャリアチェンジを果たす事例が増えている。IS経験は「顧客接点の設計」「CRMデータの読み解き」「フェーズごとのコミュニケーション設計」に精通している点で高く評価されており、セールス組織全体を俯瞰できる人材として扱われるケースがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

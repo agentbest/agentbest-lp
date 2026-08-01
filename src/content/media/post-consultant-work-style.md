@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["ポストコンサル", "働き方"]
 pubDate: 2026-07-05
 slug: "post-consultant-work-style"
+hub: "post-consultant"
 image: "/images/media/post-consultant-work-style.png"
 related: ["post-consultant-salary-1000", "post-consultant-salary-600", "post-consultant-from-scratch", "uiux-designer-work-style", "game-engineer-work-style"]
 ---
@@ -25,6 +26,11 @@ related: ["post-consultant-salary-1000", "post-consultant-salary-600", "post-con
 - **自社DX推進・ITコンサル内製化部門（SaaS・IT企業含む）**
 
 これらはそれぞれ、業務量の構造・意思決定スピード・リモートの許容度が大きく異なります。転職前に「ポストコンサルとして働く」というイメージだけで判断すると、入社後のギャップが生じやすい点に注意が必要です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度・残業・リモートの実態比較
 
@@ -75,6 +81,11 @@ IT・SaaS企業は、業界全体としてフレックス・リモートワー�
 - コンサル時代のドキュメンテーション能力・論点整理が社内で高評価を受けやすい
 
 この類型が示すのは、「働く時間の総量は減りやすいが、仕事の重心が外部評価から内部成果に移る」という構造的な変化です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

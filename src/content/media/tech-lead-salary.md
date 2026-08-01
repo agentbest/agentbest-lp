@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["テックリード", "年収相場"]
 pubDate: 2026-07-04
 slug: "tech-lead-salary"
+hub: "tech-lead"
 image: "/images/media/tech-lead-salary.png"
 related: ["tech-lead-motivation", "tech-lead-interview", "tech-lead-from-scratch", "infra-engineer-salary", "solution-architect-salary"]
 ---
@@ -18,6 +19,11 @@ related: ["tech-lead-motivation", "tech-lead-interview", "tech-lead-from-scratch
 テックリードの年収は、在籍企業の規模・業種・フェーズによって大きく分散する傾向があります。国内のIT・SaaS・コンサル領域を念頭に置くと、おおむね700万円〜1,500万円超の幅に収まることが多く、「テックリード」という肩書き一つで年収を語るのは難しい状況です。
 
 重要なのは、テックリードが担う役割の定義が企業によって異なる点です。「コードも書くチームリーダー」に近い役割を担う企業もあれば、アーキテクチャ設計・技術選定・採用面接・外部折衝まで担う準CTOに近いポジションとして位置づける企業もあります。この役割の広さが、年収レンジの分散を生んでいます。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-salary">無料で相談する</a>
+</aside>
 
 ## 年代・企業フェーズ別の年収レンジ
 
@@ -67,6 +73,11 @@ related: ["tech-lead-motivation", "tech-lead-interview", "tech-lead-from-scratch
 - **結果の傾向**：複数社からのオファーを比較することで年収1,050万〜1,150万円のレンジでの合意が達成しやすくなる。単純な技術スキルだけでなく、「組織に作用できる実績」を具体的に言語化したことが評価ポイントになりやすい。
 
 このパターンから導かれる示唆は、「実績の言語化」と「転職タイミングの設計」が年収改善の主要変数になるということです。技術力が高くても、それをビジネス成果として語れない場合、オファー額が実力に届かないケースが生じやすいため注意が必要です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

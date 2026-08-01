@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["総合コンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "big4-consultant-career-guide"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-career-guide.png"
 related: ["big4-consultant-salary-600", "big4-consultant-how-to-use-agent", "big4-consultant-salary-1000", "salesforce-consultant-career-guide", "solution-architect-career-guide"]
 ---
@@ -35,6 +36,11 @@ related: ["big4-consultant-salary-600", "big4-consultant-how-to-use-agent", "big
 | サプライチェーン | 調達改革、物流最適化、在庫管理高度化 |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職市場における総合コンサルタントの位置づけ
 
@@ -121,6 +127,11 @@ DX推進・グローバル規制対応・M&A活性化といった企業課題の
 コンサルタント経験の「汎用性」と「専門性」のバランスをどこで取るかが、出口戦略を設計する際の中心的な問いになります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

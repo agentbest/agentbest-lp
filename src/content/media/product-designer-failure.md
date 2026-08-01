@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["プロダクトデザイナー", "転職失敗"]
 pubDate: 2026-07-04
 slug: "product-designer-failure"
+hub: "product-designer"
 image: "/images/media/product-designer-failure.png"
 related: ["product-designer-career-path", "product-designer-skills", "product-designer-future", "saas-sales-failure", "db-engineer-failure"]
 ---
@@ -22,6 +23,11 @@ related: ["product-designer-career-path", "product-designer-skills", "product-de
 加えて、デザイン職の転職活動では、ポートフォリオの見栄えや面接でのコミュニケーションが評価の焦点になるため、候補者側も自社の実態を深く確認しないまま意思決定してしまう傾向があります。入社後に判明する組織構造・意思決定プロセス・デザインへの組織的な理解度は、日々の働きやすさに直結するにもかかわらず、選考中には表面化しにくいのです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターンと構造的な原因
 
@@ -100,6 +106,11 @@ IT系SaaS企業でUIデザインを3年経験したAさん（28歳）が、「�
 現在進行形の業務フローを具体的に聞くことで、「今後こうしたい」という理想と「現在の実態」を切り分けることができます。採用担当者の言葉は往々にして前向きな表現になりやすいため、過去の事実ベースで確認することが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

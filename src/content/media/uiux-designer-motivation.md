@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["UI/UXデザイナー", "志望動機"]
 pubDate: 2026-07-04
 slug: "uiux-designer-motivation"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-motivation.png"
 related: ["uiux-designer-company-size", "uiux-designer-in-20s", "uiux-designer-market-trend", "sre-motivation", "erp-consultant-motivation"]
 ---
@@ -30,6 +31,11 @@ UI/UXデザイナーの採用選考において、志望動機が担う機能は
 この三要素が因果関係をもって接続されていると、「再現性のある動機」として読み手に伝わります。逆に、三要素がそれぞれ独立した文として羅列されているだけでは、整理はされていても説得力には至りません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-motivation">キャリアを相談する</a>
+</aside>
 
 ## NGパターンと改善の視点
 
@@ -114,6 +120,11 @@ BtoC領域での経験を深める一方で、業務システムや情報密度�
 Figma・UserTesting・ヒューリスティック評価・アクセシビリティ基準などの名称は、単独で列挙するより、「どのような目的でどう使ってきたか」という文脈の中に置くと、職種理解と実務経験の両方を示す効果があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

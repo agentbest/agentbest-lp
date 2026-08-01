@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["PMO", "面接対策"]
 pubDate: 2026-07-04
 slug: "pmo-interview"
+hub: "pmo"
 image: "/images/media/pmo-interview.png"
 related: ["pmo-career-guide", "pmo-certification", "pmo-resume", "business-consultant-interview", "infra-engineer-interview"]
 ---
@@ -30,6 +31,11 @@ PMO（プロジェクトマネジメントオフィス）のポジションへ�
 面接官は、自社のPMO機能がどのフェーズにあるかを念頭に置いて質問を組み立てている。求人票に記載された業務内容から類型を読み取り、自身の経験をどの観点から語るかを事前に整理しておくと、回答の解像度が上がる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の組み立て方
 
@@ -132,6 +138,11 @@ PMOは権限を持たない状態で複数組織を動かす役割を担う場�
 このような構成は、面接の本番で即興で組み立てるには難易度が高い。事前に自分の経験から2〜3のエピソードを同様の型で整理しておくことで、異なる質問に対しても応用が利きやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

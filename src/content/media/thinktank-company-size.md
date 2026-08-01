@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["シンクタンク研究員", "大手vsスタートアップ"]
 pubDate: 2026-07-05
 slug: "thinktank-company-size"
+hub: "thinktank"
 image: "/images/media/thinktank-company-size.png"
 related: ["thinktank-motivation", "thinktank-english", "thinktank-in-20s", "business-planning-company-size", "recruiter-company-size"]
 ---
@@ -32,6 +33,11 @@ related: ["thinktank-motivation", "thinktank-english", "thinktank-in-20s", "busi
 スタートアップでは、組織規模が小さいぶん、入社比較的早い段階から特定テーマの「主担当」として扱われやすい。外部での露出（寄稿・登壇・メディア出演など）が早く始まることもあり、専門家としてのブランド形成を急ぐ人には向いている環境といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-company-size">キャリアを相談する</a>
+</aside>
 
 ## 主要比較：大手 vs スタートアップ系シンクタンク
 
@@ -87,6 +93,11 @@ related: ["thinktank-motivation", "thinktank-english", "thinktank-in-20s", "busi
 **判断の分岐点**：5年後に「自分の名前と専門性で仕事を取れる状態」を目指すならば独立系の環境が加速要因になりやすい。「政策の中枢に深く入り込んで実装を担いたい」ならば大手系列の接点資産の方が価値を持つ可能性が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

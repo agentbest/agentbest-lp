@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["プロジェクトマネージャー", "市場動向"]
 pubDate: 2026-07-04
 slug: "project-manager-market-trend"
+hub: "project-manager"
 image: "/images/media/project-manager-market-trend.png"
 related: ["project-manager-in-30s", "project-manager-career-path", "project-manager-resume", "corporate-it-market-trend", "marketing-manager-market-trend"]
 ---
@@ -28,6 +29,11 @@ ERPやCRMをはじめとするSaaSの大規模導入・刷新案件が継続的�
 **PMOからPMへのキャリアパスの制度化**
 
 プロジェクト管理支援（PMO）職を設ける企業が増えたことで、PMOからPMへの昇格・転職を経験する人材の流通量も増えています。結果として転職市場に流入するPM候補層が厚くなる一方、採用側もPMOとPMの役割を明確に分けて採用するケースが増え、求人票の精度が上がってきました。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 2026年の求人市場の構造と二極化
 
@@ -94,6 +100,11 @@ SIer（システムインテグレーター）で5〜8年程度の経験を積�
 特に、事業会社側のPM採用では「業界知識」が選考の重要変数になっています。製造業のDXプロジェクトであれば製造現場の知識、金融系システム刷新であれば規制・コンプライアンスの理解が求められるケースがあり、異業種転職の難易度は職種特性の割に低くない場合もあります。
 
 また、年収水準の引き上げが進んでいる一方で、採用予算に上限がある企業では「スペックと処遇の不一致」が生じているポジションも散見されます。求人票の要件と年収レンジの対応関係を丁寧に確認することが、転職活動の精度を上げるうえで重要です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

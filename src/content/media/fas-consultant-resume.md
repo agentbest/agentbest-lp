@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["会計・財務コンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "fas-consultant-resume"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-resume.png"
 related: ["fas-consultant-english", "fas-consultant-in-30s", "fas-consultant-interview", "tech-lead-resume", "data-analyst-resume"]
 ---
@@ -29,6 +30,11 @@ M&A財務デューデリジェンス、財務リストラクチャリング、�
 職務経歴書はコミュニケーション能力の代替指標でもあります。構造的に整理された記述は、クライアントへの報告資料を作成する実務能力と重なって見えるため、「この書き方ができる人材なら現場でも機能しやすい」という判断材料になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職務経歴書の基本構成と各セクションの役割
 
@@ -110,6 +116,11 @@ A4判2〜3枚が一般的な目安です。1枚では専門性の深さを伝え
 スキルを列挙するだけでなく、「財務モデリング：M&A案件における収益予測モデルの設計・検証を複数件担当」のように、簡単な補足を添えると具体性が増します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

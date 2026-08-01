@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["データアナリスト", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "data-analyst-career-guide"
+hub: "data-analyst"
 image: "/images/media/data-analyst-career-guide.png"
 related: ["data-analyst-work-style", "data-analyst-skills", "data-analyst-salary-1000", "devops-engineer-career-guide", "fas-consultant-career-guide"]
 ---
@@ -34,6 +35,11 @@ related: ["data-analyst-work-style", "data-analyst-skills", "data-analyst-salary
 データアナリストは、データサイエンティスト・ビジネスアナリスト・データエンジニアといった職種と機能が重複することがあります。市場では職種名が厳密に定義されているとは言いがたく、同じ業務内容でも社名や業界によって呼称が変わるケースは珍しくありません。転職活動では職種名ではなく、JDに記載されている具体的なアウトプット（何を作り、誰に届け、何を変えるか）を軸に判断することが実用的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 市場価値の構造：何がレンジを決めるか
 
@@ -118,6 +124,11 @@ related: ["data-analyst-work-style", "data-analyst-skills", "data-analyst-salary
 特に「分析結果がどう使われているか」は、成長環境の質を左右するため、具体的な事例を聞くことが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

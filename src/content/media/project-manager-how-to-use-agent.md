@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["プロジェクトマネージャー", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "project-manager-how-to-use-agent"
+hub: "project-manager"
 image: "/images/media/project-manager-how-to-use-agent.png"
 related: ["project-manager-in-30s", "project-manager-salary-600", "project-manager-english", "enterprise-sales-how-to-use-agent", "engineering-manager-how-to-use-agent"]
 ---
@@ -24,6 +25,11 @@ PMの転職が難しいと言われる背景には、スキルの「可視化し
 さらに、PMポジションは表に出ていない非公開求人の割合が比較的高い傾向がある。特に事業会社が社内の組織変革や新規プロダクト立ち上げのために採用する場合、競合他社への情報漏洩を避けるため、求人サイトに掲載しないケースが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを使うべき5つの構造的な理由
 
@@ -95,6 +101,11 @@ SIer時代の経験はウォーターフォール型の進行管理・ベンダ�
 担当者がSaaS企業との採用実績を持っていれば、「SIer出身でも評価されやすい求人・採用担当者」を事前に絞り込める。また、職務経歴書の記述方法を調整し、大規模プロジェクト経験や要件定義の深さ、クロスファンクショナルなコミュニケーション能力を前面に出すことで、書類通過率が改善しやすくなる。この種のアドバイスは、PM転職の支援実績が豊富なエージェントでないと得にくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

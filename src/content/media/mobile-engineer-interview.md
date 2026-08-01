@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["モバイルエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-interview"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-interview.png"
 related: ["mobile-engineer-salary-1000", "mobile-engineer-salary-600", "mobile-engineer-resume", "legal-interview", "network-engineer-interview"]
 ---
@@ -29,6 +30,11 @@ related: ["mobile-engineer-salary-1000", "mobile-engineer-salary-600", "mobile-e
 特にミドル〜シニアクラスを対象とした求人では、技術面接とマネージャー面接の比重が大きくなる。「何を作ったか」だけでなく「なぜその設計を選んだか」「チームにどう貢献したか」を論理的に説明できるかどうかが、合否の分岐点になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 技術面接で問われやすい質問と回答の組み立て方
 
@@ -100,6 +106,11 @@ iOSであればSwiftConcurrency・SwiftUI・Combine、AndroidであればCorouti
 このように「状況→判断→実行→振り返り」という構造で語ることで、単なる「できます」宣言よりも経験の深さが伝わりやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["人事", "30代転職"]
 pubDate: 2026-07-04
 slug: "hrbp-in-30s"
+hub: "hrbp"
 image: "/images/media/hrbp-in-30s.png"
 related: ["hrbp-salary-1000", "hrbp-resume", "hrbp-company-size", "erp-consultant-in-30s", "security-consultant-in-30s"]
 ---
@@ -26,6 +27,11 @@ related: ["hrbp-salary-1000", "hrbp-resume", "hrbp-company-size", "erp-consultan
 事業部門と協働しながら組織課題を解決する「ビジネスパートナー型」への需要で、特に事業会社のコーポレート強化フェーズや、外資系企業のJapan HR Head相当のポジションに多く見られます。
 
 30代転職市場では、①から②へキャリアシフトしたいという動機を持つ候補者と、①の深化をそのまま転職で活かしたいという候補者とで、準備の方向性が異なります。自分がどちらの軸で評価されたいかを明確にすることが、書類・面接準備の出発点です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 即戦力採用で問われる3つの要素
 
@@ -102,6 +108,11 @@ related: ["hrbp-salary-1000", "hrbp-resume", "hrbp-company-size", "erp-consultan
 ### 転職エージェントの使い分け
 
 人事職の転職においては、IT・SaaS・コンサル領域を専門とするエージェントと、管理部門・コーポレート特化型のエージェントとを使い分けることが有効な場合があります。前者はビジネス感覚や事業貢献経験を評価できる担当者が多い傾向にあり、後者は人事の機能別スペシャリストとしての評価に強みを持つ場合があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

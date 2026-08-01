@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["会計・財務コンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "fas-consultant-salary"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-salary.png"
 related: ["fas-consultant-english", "fas-consultant-from-scratch", "fas-consultant-market-trend", "mlops-engineer-salary", "risk-consultant-salary"]
 ---
@@ -22,6 +23,11 @@ related: ["fas-consultant-english", "fas-consultant-from-scratch", "fas-consulta
 コンサルティングファームでは職位（ランク）ごとの等級制度が明確で、昇格タイミングで年収が段階的に上昇します。一方、監査法人や税理士法人のコンサル部門は年功的な要素が残りやすく、事業会社はジョブグレードの範囲内で評価が反映されます。この「制度の違い」が年収比較を複雑にする主因です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-salary">無料で相談する</a>
+</aside>
 
 ## 年収レンジ：年齢・ランク別の目安
 
@@ -97,6 +103,11 @@ Big4系FASや大手戦略ファームのFオフィスは、案件規模・クラ
 「財務コンサルタント」という括りはやや広く、長期的な市場価値を高めるうえでは「何のスペシャリストか」を絞り込んでいくことが重要になります。PMI（買収後統合）、FP&A高度化、再生支援など、領域を絞ることで引き合いが増え、報酬交渉時の根拠が明確になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

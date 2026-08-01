@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["ソリューションアーキテクト", "市場動向"]
 pubDate: 2026-07-04
 slug: "solution-architect-market-trend"
+hub: "solution-architect"
 image: "/images/media/solution-architect-market-trend.png"
 related: ["solution-architect-company-size", "solution-architect-from-scratch", "solution-architect-in-30s", "saas-sales-market-trend", "security-engineer-market-trend"]
 ---
@@ -34,6 +35,11 @@ ERPやCRM、セキュリティ、データ活用系のSaaSベンダーが積極�
 従来は「SE」「プリセールス」と呼ばれていた職種を「ソリューションアーキテクト」と再定義し、採用市場での訴求力を高めているケースが増えている。ここでは実際の業務内容と職種名の間にギャップが生じやすく、求人票の職責記述を丁寧に読み込む必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-market-trend">無料で相談する</a>
+</aside>
 
 ## スキル要件の変化：2024年以前と2026年の比較
 
@@ -85,6 +91,11 @@ SA職の年収は、経験年数よりも「どの採用主体に採用される
 このパターンからわかるように、SAの転職では「すでに市場価値が高い状態」で動くよりも、「不足スキルを特定してから動く」ほうがオファー条件の改善につながりやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

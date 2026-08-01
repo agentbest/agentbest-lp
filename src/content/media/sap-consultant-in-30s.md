@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["SAPコンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "sap-consultant-in-30s"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-in-30s.png"
 related: ["sap-consultant-career-guide", "sap-consultant-interview", "sap-consultant-company-size", "data-engineer-in-30s", "ma-advisor-in-30s"]
 ---
@@ -30,6 +31,11 @@ SAPの導入・移行・保守需要は、SAP ECC（旧来のオンプレ版）�
 このうち、最もスムーズに転職できる傾向があるのは当然ながら1番目だが、2・3番目のパターンでも「どのモジュールをどの深さで扱ってきたか」が丁寧に整理されていれば、評価される求人は存在する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力採用で問われるスキルの構造
 
@@ -104,6 +110,11 @@ S/4HANAについては認定資格（例：SAP Certified Application Associate�
 「SAP導入支援に参加」という記述ではなく、「FI/CO領域においてベンダー提案のFit/Gap分析に参加し、業務部門の要件を仕様書に落とし込む作業を主導した」という形で具体性を持たせることで、書類選考の通過率が変わる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

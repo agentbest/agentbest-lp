@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["ソリューションアーキテクト", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "solution-architect-how-to-use-agent"
+hub: "solution-architect"
 image: "/images/media/solution-architect-how-to-use-agent.png"
 related: ["solution-architect-in-20s", "solution-architect-salary-1000", "solution-architect-career-guide", "finance-how-to-use-agent", "data-scientist-how-to-use-agent"]
 ---
@@ -33,6 +34,11 @@ SAポジションは、技術領域・商流・対象顧客によって求めら
 ※上記はあくまで市場の目安であり、個人の経験・スキル・交渉結果によって大きく変動する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## なぜエージェントが有効に機能するか
 
@@ -90,6 +96,11 @@ SAは採用企業側にとっても採用難度が高い職種であるため、
 **示唆：** このケースで重要だったのは、「エージェントが職種転換の難しさを理解したうえで戦略を立てられた」点だ。単なる求人紹介だけでなく、ポジショニングの整理が転職の成否を分けることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

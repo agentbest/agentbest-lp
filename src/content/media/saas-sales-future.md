@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["SaaS営業", "将来性"]
 pubDate: 2026-07-03
 slug: "saas-sales-future"
+hub: "saas-sales"
 image: "/images/media/saas-sales-future.png"
 related: ["saas-sales-career-path", "saas-sales-salary", "saas-sales-resume", "freelance-consultant-future", "bridge-se-future"]
 ---
@@ -40,6 +41,11 @@ SaaS営業の将来性を語るうえで見落とされがちなのが、担当�
 SMB向けのSaaS営業は、製品の標準化・セルフサービス化・PLG（プロダクトレッドグロース）の普及によって、商談設計そのものが変わりつつあります。将来的に人員が圧縮される可能性は否定しにくい領域です。対してエンタープライズ向けフィールドセールスは、商談の複雑性が高いぶん、代替されにくい構造を持っています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI時代に価値を持つSaaS営業の条件
 
@@ -99,6 +105,11 @@ SaaS営業の年収レンジは、担当フェーズ・企業規模・インセ�
 キャリアパスとしては、FS→マネージャー→VP of Salesというラインのほか、FS→カスタマーサクセス→カスタマーサクセスマネージャーへの移動、または事業会社のコマーシャル職・事業開発への転出など、複数の選択肢が存在します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

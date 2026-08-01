@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["SaaS営業", "英語力"]
 pubDate: 2026-07-03
 slug: "saas-sales-english"
+hub: "saas-sales"
 image: "/images/media/saas-sales-english.png"
 related: ["saas-sales-company-size", "saas-sales-work-style", "saas-sales-salary-600", "inside-sales-english", "salesforce-consultant-english"]
 ---
@@ -34,6 +35,11 @@ SaaS営業において英語力は必須条件ではない。ただし、英語�
 国内SaaS企業であっても、顧客ターゲットに外資系企業・グローバル企業の日本拠点が多い場合、担当者がドキュメントを英語でやり取りしたり、キーパーソンが日本語に不自由な外国籍の方であったりするケースがある。こうした環境では、英語を「使える状態」にしておくことが受注機会の損失を防ぐ実務的な理由になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-english">無料で相談する</a>
+</aside>
 
 ## 英語力レベル別：求人の広がりと年収目安
 
@@ -77,6 +83,11 @@ TOEIC等の資格スコアはあくまで参考基準に過ぎず、実際の選
 **中長期的な市場変化**：グローバルSaaS企業の日本市場参入が継続する中、競合環境の激しいポジションでは英語力が「差別化要素」として機能しやすい。今は必須でなくても、3〜5年後のポジショニングを考えると投資する価値は高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

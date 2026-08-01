@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["組み込みエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-from-scratch"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-from-scratch.png"
 related: ["embedded-engineer-work-style", "embedded-engineer-salary", "embedded-engineer-company-size", "partner-sales-from-scratch", "salesforce-consultant-from-scratch"]
 ---
@@ -20,6 +21,11 @@ related: ["embedded-engineer-work-style", "embedded-engineer-salary", "embedded-
 その背景には、組み込み開発特有の制約がある。WebアプリケーションではOSやクラウドが多くの複雑さを吸収してくれるが、組み込みシステムではCPUアーキテクチャ、メモリマップ、割り込み処理、リアルタイム性といった低レイヤーの概念を直接扱う。デバッグもブラウザのデベロッパーツールのような便利な環境が常にあるわけではなく、ロジックアナライザやオシロスコープを用いた実機検証が必要になることも多い。
 
 つまり「未経験可」の実態は、「業界未経験は可だが、C言語と電気・電子の基礎知識は前提」というケースが主流と捉えておくほうが現実的である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 組み込みエンジニアに必要なスキルの全体像
 
@@ -84,6 +90,11 @@ related: ["embedded-engineer-work-style", "embedded-engineer-salary", "embedded-
 **転職活動での評価ポイント**：GitHubに実装物があること、C言語の理解度を技術面接で示せること、Webバックエンドでの非同期処理・プロセス管理の経験が組み込みのタスク管理の概念と接続できることを言語化できたこと。
 
 **結果の傾向**：IoT系スタートアップや産業機器メーカーの組み込みソフト部門での採用につながりやすい。初年度は検証・ドライバ開発補助から始まり、2〜3年で主担当へとステップアップするキャリアパスが多い。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

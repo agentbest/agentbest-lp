@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["採用担当", "未経験転職"]
 pubDate: 2026-07-04
 slug: "recruiter-from-scratch"
+hub: "recruiter"
 image: "/images/media/recruiter-from-scratch.png"
 related: ["recruiter-certification", "recruiter-resume", "recruiter-salary-600", "dev-director-from-scratch", "embedded-engineer-from-scratch"]
 ---
@@ -31,6 +32,11 @@ related: ["recruiter-certification", "recruiter-resume", "recruiter-salary-600",
 | HR特化の人材会社（エージェント等） | クライアントの採用支援 | 多業界・多職種の求人に同時に関わる | 未経験者の採用実績が多く入りやすい傾向 |
 
 未経験からの転職を現実的に検討する場合、「どの環境で採用担当としてのキャリアをスタートさせるか」は、後のキャリアの幅を左右しやすい選択です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験から採用担当になるルート
 
@@ -97,6 +103,11 @@ related: ["recruiter-certification", "recruiter-resume", "recruiter-salary-600",
 CS業務で行ってきた「顧客のニーズを構造化してプロダクト側に伝える翻訳力」は、採用業務における「現場の採用要件を候補者・エージェントに正確に伝える力」と本質的に重なります。この類比を具体的なエピソードベースで伝えることで、「採用実務経験はないが業務の本質を理解している候補者」として評価を得やすくなります。
 
 応募先としては、同業界（SaaS）の採用担当ポジションを優先することで、ドメイン知識の優位性を最大化する戦略が有効です。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["ゲームエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "game-engineer-salary-1000"
+hub: "game-engineer"
 image: "/images/media/game-engineer-salary-1000.png"
 related: ["game-engineer-skills", "game-engineer-motivation", "game-engineer-company-size", "business-consultant-salary-1000", "legal-salary-1000"]
 ---
@@ -26,6 +27,11 @@ related: ["game-engineer-skills", "game-engineer-motivation", "game-engineer-com
 | 10年以上 | シニアアーキテクト・テクニカルフェロー相当 | 1,000〜1,500万円以上 |
 
 この表から読み取れるように、1,000万円は「上位層であるが、到達不可能な数字ではない」水準です。ただし、大手パブリッシャーや上場ゲーム会社、外資系スタジオといった一部の環境に集中しやすく、中小のデベロッパー・受託開発会社では同等のポジションでも年収が抑えられる傾向があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの特徴
 
@@ -84,6 +90,11 @@ related: ["game-engineer-skills", "game-engineer-motivation", "game-engineer-com
 | Web・SaaS企業のゲーム事業 | 条件次第で到達しやすい | ゲームエンジン技術とサーバーサイドの両軸を持つ人材は評価されやすい |
 
 外資系スタジオはジョブグレード制を採用するケースが多く、テクニカルスペシャリストとしての実力が評価基準と合致していれば、マネジメント経験がなくても1,000万円以上の報酬水準に達しやすい構造です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

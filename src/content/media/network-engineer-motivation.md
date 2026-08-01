@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["ネットワークエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "network-engineer-motivation"
+hub: "network-engineer"
 image: "/images/media/network-engineer-motivation.png"
 related: ["network-engineer-work-style", "network-engineer-salary-1000", "network-engineer-certification", "dev-director-motivation", "risk-consultant-motivation"]
 ---
@@ -38,6 +39,11 @@ related: ["network-engineer-work-style", "network-engineer-salary-1000", "networ
 これらが不在のまま「インフラを支えることに使命感を感じる」と書いても、採用担当者には抽象論にしか映らない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 志望動機の基本構造
 
@@ -128,6 +134,11 @@ related: ["network-engineer-work-style", "network-engineer-salary-1000", "networ
 経験が豊富な場合、かえって陥りやすいのが「過去の実績の羅列」に終始する志望動機である。採用担当者が知りたいのは過去ではなく、その経験を入社後にどう活かすかである。特にマネジメントや後進育成の観点を加えると、シニア採用の文脈では評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["PMOコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-company-size"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-company-size.png"
 related: ["pmo-consultant-salary-600", "pmo-consultant-interview", "pmo-consultant-resume", "customer-success-company-size", "cto-vpoe-company-size"]
 ---
@@ -18,6 +19,11 @@ PMOコンサルタントとしてのキャリアを考えるとき、「大手�
 PMO（Project Management Office）コンサルタントは、プロジェクト推進の仕組みそのものを設計・運用し、組織横断的な課題を構造化する役割を担う。個別のプロジェクトマネージャー（PM）とは異なり、複数のプロジェクトや組織全体を俯瞰する視点が求められる点が特徴である。
 
 この職種の市場価値は、「プロセス設計力」「ステークホルダーマネジメント力」「ガバナンス構築の経験値」の三つに集約されやすい。この三つの力がどのような環境で培われるかによって、大手とスタートアップの選択が持つ意味が変わってくる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## 大手ファームにおけるPMOコンサルタントの実態
 
@@ -79,6 +85,11 @@ PMO（Project Management Office）コンサルタントは、プロジェクト�
 1. **今、何の経験が不足しているか**：大規模ガバナンスの型が不足しているなら大手、裁量と設計経験が不足しているならスタートアップが補いやすい
 2. **3〜5年後にどのポジションに立ちたいか**：独立・フリーランスを見据えるなら幅広い設計経験が、組織内のPMO責任者を目指すなら組織規模に応じた経験の積み方が、キャリア戦略に影響しやすい
 3. **収入水準とリスク許容度のバランス**：スタートアップのストックオプションは上振れの可能性を持つが、確実性は低い。大手は安定性が高い反面、昇進の速度はポジションや評価によって異なる
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

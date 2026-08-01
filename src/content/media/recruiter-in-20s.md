@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["採用担当", "20代転職"]
 pubDate: 2026-07-04
 slug: "recruiter-in-20s"
+hub: "recruiter"
 image: "/images/media/recruiter-in-20s.png"
 related: ["recruiter-failure", "recruiter-salary-1000", "recruiter-interview", "freelance-consultant-in-20s", "it-consultant-in-20s"]
 ---
@@ -31,6 +32,11 @@ related: ["recruiter-failure", "recruiter-salary-1000", "recruiter-interview", "
 人材紹介会社（エージェント）やRPO（採用業務委託）企業で経験を積んだ20代が、事業会社のインハウスリクルーターとして転職するルートも定着してきた。エージェント側での経験は、ポジション理解・候補者折衝・スピード感といった点で事業会社に評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業タイプ別の特徴と狙い目の整理
 
@@ -102,6 +108,11 @@ related: ["recruiter-failure", "recruiter-salary-1000", "recruiter-interview", "
 「前任者はどういうキャリアを歩んだか」を面接で確認することで、その企業での採用担当のポジションが育成・評価されているかを判断する手がかりになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

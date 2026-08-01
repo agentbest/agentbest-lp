@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["総合コンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "big4-consultant-salary-600"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-salary-600.png"
 related: ["big4-consultant-work-style", "big4-consultant-skills", "big4-consultant-resume", "sap-consultant-salary-600", "web-marketer-salary-600"]
 ---
@@ -32,6 +33,11 @@ related: ["big4-consultant-work-style", "big4-consultant-skills", "big4-consulta
 この表から読み取れるように、600万円という水準はコンサルタント職位の中盤から後半、あるいはシニアコンサルタントへの移行期に重なりやすい傾向があります。つまり、「職位内での上昇余地が残り少なくなってきた段階」と「次の職位に上がりきれていない段階」が交差するゾーンとして機能しやすいのです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円前後で停滞しやすい構造的な理由
 
@@ -97,6 +103,11 @@ BIG4系ファームに新卒入社後4年目。主に製造業クライアント
 クライアントとの窓口対応を積極的に担う機会を意識的に取りにいくと同時に、財務分析の比重が高い案件へのアサインを上長に打診。並行して、他ファームとの接触を通じて市場での職位評価を客観的に確認。最終的に、別ファームにてシニアコンサルタント相当で採用され、年収は700万円台前半に移行した。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

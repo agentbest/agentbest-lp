@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["コンサルティング", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "consulting-industry-career"
+hub: "consulting-industry"
 image: "/images/media/consulting-industry-career.png"
 related: ["consulting-industry-trend", "consulting-industry-guide", "consulting-industry-salary", "govtech-industry-career", "ma-industry-career"]
 ---
@@ -31,6 +32,11 @@ related: ["consulting-industry-trend", "consulting-industry-guide", "consulting-
 アナリストからコンサルタントへの昇進は多くのファームで1〜2年が目安となる傾向があるが、マネージャーへのステップは質的な飛躍を求められるため、昇進に3〜5年かかるケースも珍しくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-career">キャリアを相談する</a>
+</aside>
 
 ## 市場で評価される「経験の質」とは何か
 
@@ -95,6 +101,11 @@ related: ["consulting-industry-trend", "consulting-industry-guide", "consulting-
 大手小売企業のデジタル戦略部門へ移籍。入社後は外部コンサル管理とベンダー折衝を担い、「提言から実行」のサイクルを事業会社側から経験。2年後には外部採用の戦略コンサルタントを内側から評価する立場になり、キャリアの解像度が大きく高まった事例として参照される。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-career">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

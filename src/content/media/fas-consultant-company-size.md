@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["会計・財務コンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "fas-consultant-company-size"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-company-size.png"
 related: ["fas-consultant-failure", "fas-consultant-motivation", "fas-consultant-how-to-use-agent", "uiux-designer-company-size", "data-scientist-company-size"]
 ---
@@ -39,6 +40,11 @@ related: ["fas-consultant-failure", "fas-consultant-motivation", "fas-consultant
 大手ファームでは、ファーム内でのアップオアアウトの圧力が一定程度存在し、特定の年次までに昇格できない場合は市場への移行を検討するという暗黙のサイクルが形成されやすい。ただし、ファームで積んだ経験と対外的な信頼性は市場評価が高く、CFO・FP&Aヘッド・M&Aチームへの転職など事業会社のシニアポジションへの流動性は高い傾向がある。
 
 スタートアップでのキャリアパスは、会社の成長曲線と個人のキャリアが強く連動する。成長期の会社でナンバーワンの財務責任者として伴走したという実績は、次のキャリアで大きな差別化要因になりうる。反面、会社が成長しなかった場合や早期に資金調達が止まった場合には、マーケット上での経験評価が難しくなることもある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-company-size">無料で相談する</a>
+</aside>
 
 ## どのような人材がどちらに向くか
 

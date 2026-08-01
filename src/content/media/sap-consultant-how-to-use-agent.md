@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["SAPコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "sap-consultant-how-to-use-agent"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-how-to-use-agent.png"
 related: ["sap-consultant-motivation", "sap-consultant-market-trend", "sap-consultant-in-20s", "ai-engineer-how-to-use-agent", "sre-how-to-use-agent"]
 ---
@@ -29,6 +30,11 @@ FI/CO、MM、SD、PP、HCMなど、扱えるモジュールの種類・習熟度
 既存のECC 6.0からS/4HANAへの移行プロジェクトが多くの企業で進行中であり、経験者への需要が継続的に高い状態が続いています。この需要の高さが、好条件の転職機会につながる可能性を高めている一方で、案件ごとに求められる経験の種類や深さが異なるため、自身のスキルを適切に言語化してマッチングさせることが重要になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## 転職エージェントを使うべき具体的な理由
 
@@ -99,6 +105,11 @@ SAPコンサルタントは、経験の中身が技術的かつ文脈依存的�
 複数社を使う際は、応募中の求人・選考状況・エージェントへの伝達内容をスプレッドシートなどで管理することを推奨します。企業へのダブルエントリーは選考上のトラブルにつながるため、どの求人をどのエージェント経由で応募したかを明確にしておく必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

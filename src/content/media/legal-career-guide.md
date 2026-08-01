@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["法務", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "legal-career-guide"
+hub: "legal"
 image: "/images/media/legal-career-guide.png"
 related: ["legal-salary", "legal-in-30s", "legal-market-trend", "ma-advisor-career-guide", "corporate-planning-career-guide"]
 ---
@@ -18,6 +19,11 @@ related: ["legal-salary", "legal-in-30s", "legal-market-trend", "ma-advisor-care
 この記事では、法務職のキャリアパスと業務内容の整理から始め、転職市場での市場価値の測り方、選考で差がつくポイント、よくある失敗パターンまでを順に解説します。「法務 転職」で検索する方の多くは、すでに法律系の実務経験を持ちながら「次のステップをどう設計するか」に悩んでいる段階にいると考えられます。その前提で、構造的な情報を提供することを目的としています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-career-guide">無料で相談する</a>
+</aside>
 
 ## 法務職の仕事内容：領域と深度を整理する
 
@@ -123,6 +129,11 @@ related: ["legal-salary", "legal-in-30s", "legal-market-trend", "ma-advisor-care
 この類型は採用側のニーズが高い一方、上記のコミュニケーションが不十分だと「優秀だが実務に合うか不明」と判断されてしまいやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

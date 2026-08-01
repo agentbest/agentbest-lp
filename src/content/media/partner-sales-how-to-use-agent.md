@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["パートナーセールス／アライアンス", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "partner-sales-how-to-use-agent"
+hub: "partner-sales"
 image: "/images/media/partner-sales-how-to-use-agent.png"
 related: ["partner-sales-salary-1000", "partner-sales-resume", "partner-sales-skills", "web-marketer-how-to-use-agent", "digital-marketer-how-to-use-agent"]
 ---
@@ -43,6 +44,11 @@ related: ["partner-sales-salary-1000", "partner-sales-resume", "partner-sales-sk
 自分のキャリアが上記のどの類型に近いかを正確に把握し、かつ志望先が求める類型を判断するには、業界内の解像度が必要になる。この「自己の経験の言語化」と「市場側の解像度の合わせ込み」こそが、エージェント活用の最も実務的な価値といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## 転職エージェントを使うべき5つの理由
 
@@ -103,6 +109,11 @@ related: ["partner-sales-salary-1000", "partner-sales-resume", "partner-sales-sk
 このケースが示すのは、経験の「言語化と翻訳」がいかに転職結果に影響するかという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

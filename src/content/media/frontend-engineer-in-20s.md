@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["フロントエンドエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-in-20s"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-in-20s.png"
 related: ["frontend-engineer-resume", "frontend-engineer-how-to-use-agent", "frontend-engineer-skills", "pmo-consultant-in-20s", "partner-sales-in-20s"]
 ---
@@ -29,6 +30,11 @@ related: ["frontend-engineer-resume", "frontend-engineer-how-to-use-agent", "fro
 20代前半の未経験・学習中の段階ではポテンシャル採用が主戦場となり、20代後半かつ実務経験が1〜3年程度あれば、両市場を並行して狙うことが現実的な戦略となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## ポテンシャル採用で評価される要素
 
@@ -99,6 +105,11 @@ related: ["frontend-engineer-resume", "frontend-engineer-how-to-use-agent", "fro
 このパターンが示唆するのは、市場全体ではなく「自分が評価される市場」を適切に選定することの重要性である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

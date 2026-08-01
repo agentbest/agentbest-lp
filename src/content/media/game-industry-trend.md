@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["ゲーム・エンタメテック", "業界動向"]
 pubDate: 2026-07-05
 slug: "game-industry-trend"
+hub: "game-industry"
 image: "/images/media/game-industry-trend.png"
 related: ["game-industry-guide", "game-industry-salary", "game-industry-career", "security-industry-trend", "web3-industry-trend"]
 ---
@@ -31,6 +32,11 @@ related: ["game-industry-guide", "game-industry-salary", "game-industry-career",
 これらは互いに技術基盤を共有しながらも、収益構造・採用ニーズ・成長ステージが大きく異なる。転職市場を読む際は、「ゲーム・エンタメテック全体」ではなくセグメント単位の解像度が求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## 2026年時点の主要動向
 
@@ -98,6 +104,11 @@ ATT（App Tracking Transparency）の影響で大きく揺らいだモバイル�
 グローバル展開する海外ゲーム・エンタメテック企業が、日本在住者を対象にリモートで採用するケースが以前より増加している。英語での業務遂行能力と、海外向けのポートフォリオ・実績の説明能力があれば、国内市場だけでなく海外水準の報酬を視野に入れた転職も現実的な選択肢となりつつある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

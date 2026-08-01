@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["データベースエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "db-engineer-career-guide"
+hub: "db-engineer"
 image: "/images/media/db-engineer-career-guide.png"
 related: ["db-engineer-salary-600", "db-engineer-motivation", "db-engineer-from-scratch", "platform-engineer-career-guide", "network-engineer-career-guide"]
 ---
@@ -31,6 +32,11 @@ related: ["db-engineer-salary-600", "db-engineer-motivation", "db-engineer-from-
 採用市場で見ると、「DB運用エンジニア」と「DBアーキテクト」の間には担当スコープと年収帯に明確な差がある。転職先で求められる役割がどちらに近いかを事前に見極めることが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職市場における需要構造
 
@@ -123,6 +129,11 @@ SaaSスタートアップのデータ基盤エンジニアポジションに年�
 - 大規模テーブルの設計パターン（パーティショニング、シャーディング）
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

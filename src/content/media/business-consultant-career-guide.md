@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["業務コンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "business-consultant-career-guide"
+hub: "business-consultant"
 image: "/images/media/business-consultant-career-guide.png"
 related: ["business-consultant-how-to-use-agent", "business-consultant-in-30s", "business-consultant-work-style", "erp-consultant-career-guide", "security-consultant-career-guide"]
 ---
@@ -32,6 +33,11 @@ related: ["business-consultant-how-to-use-agent", "business-consultant-in-30s", 
 これらを一気通貫で担う場合もあれば、特定フェーズに特化して関与するポジションもあります。後者は特に大規模SIerや総合系コンサルファームで見られる構造です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## 業務コンサルタントの市場価値と年収レンジ
 
@@ -116,6 +122,11 @@ RPA・BPM・生成AIを活用した業務改革プロジェクトが増加する
 - **タイミング**：プロジェクトの節目（フェーズ完了後）を選ぶと、引き継ぎ上の摩擦が生じにくい
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["UI/UXデザイナー", "20代転職"]
 pubDate: 2026-07-04
 slug: "uiux-designer-in-20s"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-in-20s.png"
 related: ["uiux-designer-english", "uiux-designer-motivation", "uiux-designer-certification", "inside-sales-in-20s", "sap-consultant-in-20s"]
 ---
@@ -25,6 +26,11 @@ UI/UXデザイナーへの20代転職において、企業側が「即戦力」�
 - 個人制作物・副業・スクール課題等でのポートフォリオが存在する
 
 完全未経験からの転職は「UI/UXデザイナー」という肩書きではなく、まず「デザイナーアシスタント」「ジュニアデザイナー」として入社し、キャリアパスの中でUI/UX領域を専門化していく経路が現実的な傾向にある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-in-20s">無料で相談する</a>
+</aside>
 
 ## 採用企業が見ているスクリーニング軸
 
@@ -103,6 +109,11 @@ UI/UXデザイナーへの20代転職において、企業側が「即戦力」�
 ### 学習リソースの選び方
 
 独学でスキルを補完する場合、Figmaの操作習熟は動画学習プラットフォームや公式ドキュメントでカバーしやすい。一方、UI/UXの概念的な理解（情報アーキテクチャ、ユーザビリティ評価、ヒューリスティクス分析など）については、書籍での体系的な学習が有効になりやすい。スクールについては、実務に近い課題設計が行われているかどうか、卒業後のポートフォリオの質を確認したうえで選択することが重要だ。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

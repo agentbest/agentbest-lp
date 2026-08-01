@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["ITアーキテクト", "英語力"]
 pubDate: 2026-07-04
 slug: "it-architect-english"
+hub: "it-architect"
 image: "/images/media/it-architect-english.png"
 related: ["it-architect-in-30s", "it-architect-certification", "it-architect-resume", "web-marketer-english", "marketing-manager-english"]
 ---
@@ -39,6 +40,11 @@ ITアーキテクトという職種は、スコープが広い分類です。エ
 英語不要のアーキテクトポジションでも、技術的に高度な役割は存在します。ただし、グローバルな意思決定に関与する役職・外資系テック企業の上位グレード・グローバルCTO室や戦略的IT企画に近いポジションは、英語が実務レベルで機能することを前提に設計されていることが多く、そこへのアクセスは英語力の有無で大きく変わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力と年収レンジの相関
 
@@ -95,6 +101,11 @@ ITアーキテクトという職種は、スコープが広い分類です。エ
 英語は目的ではなくアクセスのための手段です。その認識のもとで投資判断を行うことが、遠回りを避けることにつながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

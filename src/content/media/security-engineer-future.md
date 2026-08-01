@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["セキュリティエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "security-engineer-future"
+hub: "security-engineer"
 image: "/images/media/security-engineer-future.png"
 related: ["security-engineer-in-20s", "security-engineer-career-path", "security-engineer-work-style", "data-scientist-future", "ma-advisor-future"]
 ---
@@ -37,6 +38,11 @@ AI活用の進展は、セキュリティ分野においても業務の再配分
 | ガバナンス・リスク管理 | 低（組織・文脈理解が必要） | 経営層への説明・規制対応 |
 
 自動化が進む業務は「仕事がなくなる」というよりも「ツールを活用した上で付加価値を出す」という形に変容する。スキャンや検知の作業時間が圧縮される分、その結果をどう解釈し、どう優先順位をつけて対処するかという判断力が相対的に重要度を増す。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-future">無料で相談する</a>
+</aside>
 
 ## ポジション別の将来性と年収レンジ
 
@@ -91,6 +97,11 @@ AI活用によって自動化されるのは「定型的な検出・スキャン
 - **パターンC（ガバナンス方向への転換）**：ISMSやSOC2対応の実務経験を積み、セキュリティマネージャーを目指す。技術の深さよりも組織調整・リスク管理の能力が問われるため、技術習得の方向性がパターンBとは異なる。
 
 この事例では、次の5〜7年でどのポジションにいたいかを先に決め、そこから逆算してスキルの習得順序を設計することが有効に機能しやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

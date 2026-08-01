@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["ITアーキテクト", "30代転職"]
 pubDate: 2026-07-04
 slug: "it-architect-in-30s"
+hub: "it-architect"
 image: "/images/media/it-architect-in-30s.png"
 related: ["it-architect-interview", "it-architect-market-trend", "it-architect-skills", "mlops-engineer-in-30s", "legal-in-30s"]
 ---
@@ -33,6 +34,11 @@ ITアーキテクトという職種は、採用数自体が限られている一
 30代前半であれば「次の5年でフルアーキテクトに育てる」という採用も存在しますが、30代後半になると「着任初日から担当領域のアーキテクチャを引き受けられる」レベルが期待されることが多くなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-in-30s">無料で相談する</a>
+</aside>
 
 ## 求められるスキルと経験の全体像
 
@@ -121,6 +127,11 @@ ITアーキテクトの選考は、一般的なエンジニア採用より踏み
 - **技術選定の根拠の深掘り**：「なぜそのミドルウェアを選んだか」「代替案との比較でどこが決め手になったか」という問いに対して、構造的に回答できるかが見られます
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

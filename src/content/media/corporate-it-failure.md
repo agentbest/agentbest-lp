@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["社内SE", "転職失敗"]
 pubDate: 2026-07-04
 slug: "corporate-it-failure"
+hub: "corporate-it"
 image: "/images/media/corporate-it-failure.png"
 related: ["corporate-it-career-path", "corporate-it-career-guide", "corporate-it-from-scratch", "bridge-se-failure", "hr-consultant-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["corporate-it-career-path", "corporate-it-career-guide", "corporate-it
 また、社内SEポジションは採用母数が多くなく、公開求人に出てくる情報量も限られる傾向があります。採用担当者が技術的な詳細を把握していないケースも多く、面接時に確認しきれないまま入社に至ることがあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターン5つ
 
@@ -94,6 +100,11 @@ related: ["corporate-it-career-path", "corporate-it-career-guide", "corporate-it
 このケースで重要なのは、「DX推進」「システム刷新」という言葉の背景に何があるかを、具体的な質問によって確認する姿勢です。採用担当者の言葉をそのまま受け取らず、現場の実態を数字や事例で裏付けることが求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

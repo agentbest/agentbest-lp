@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["データアナリスト", "年収600万"]
 pubDate: 2026-07-04
 slug: "data-analyst-salary-600"
+hub: "data-analyst"
 image: "/images/media/data-analyst-salary-600.png"
 related: ["data-analyst-salary", "data-analyst-work-style", "data-analyst-english", "partner-sales-salary-600", "network-engineer-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["data-analyst-salary", "data-analyst-work-style", "data-analyst-englis
 一方で同じ経験年数でも、在籍企業の業種・規模・データ活用の成熟度によって年収水準には相当な差が生じやすい点は念頭に置いてください。外資系テック企業やSaaS企業では年収テーブルが高く設定されている場合が多く、同等のスキルでも国内の伝統的な業種と比べると年収差が数百万円に及ぶこともあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -91,6 +97,11 @@ related: ["data-analyst-salary", "data-analyst-work-style", "data-analyst-englis
 「売上改善に貢献した」という言い方より、「施策の優先順位付けにあたり購買確率モデルを構築し、ターゲット精度を改善。結果として施策コストを削減しながら転換率が向上した」という形で説明できると、評価者にとっての納得感が大きく変わります。日頃から「何を・どう分析して・どんな意思決定につながったか」を言語化しておく習慣を持つことが、中長期で効いてきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

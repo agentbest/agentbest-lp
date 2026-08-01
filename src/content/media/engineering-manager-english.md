@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["エンジニアリングマネージャー", "英語力"]
 pubDate: 2026-07-04
 slug: "engineering-manager-english"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-english.png"
 related: ["engineering-manager-work-style", "engineering-manager-how-to-use-agent", "engineering-manager-future", "data-consultant-english", "hrbp-english"]
 ---
@@ -29,6 +30,11 @@ related: ["engineering-manager-work-style", "engineering-manager-how-to-use-agen
 外資系企業、グローバル展開する国内大手テック企業、海外本社と日常的に連携するポジションです。英語でのピープルマネジメント（1on1・評価・採用面接）が求められるケースもあり、ネイティブと対等に議論できる水準が事実上の前提になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-english">無料で相談する</a>
+</aside>
 
 ## 英語力の有無が求人数・年収にどう影響するか
 
@@ -93,6 +99,11 @@ EMとして英語力を実務に結びつけるためには、単なる語学力
 時差がある海外チームとの協働では、会議ではなくSlackやドキュメントでの非同期英語コミュニケーションが主流になりえます。スピーキングが得意でなくても、ライティングで精度高く意図を伝えられる能力は実務上の評価につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

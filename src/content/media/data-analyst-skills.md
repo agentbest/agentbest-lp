@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["データアナリスト", "必要スキル"]
 pubDate: 2026-07-04
 slug: "data-analyst-skills"
+hub: "data-analyst"
 image: "/images/media/data-analyst-skills.png"
 related: ["data-analyst-work-style", "data-analyst-career-path", "data-analyst-certification", "inside-sales-skills", "post-consultant-skills"]
 ---
@@ -26,6 +27,11 @@ related: ["data-analyst-work-style", "data-analyst-career-path", "data-analyst-c
 採用市場でよく見られるパターンとして、技術スキルだけが突出して高くても市場評価が上がりにくく、3軸がある程度バランスよく整っている人材ほど上位ポジションへの転換が起きやすい傾向がある。特にシニアレベルになるほど、「何をどう分析するか」よりも「なぜそれを分析するか」を自ら定義できる能力の比重が増す。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-skills">キャリアを相談する</a>
+</aside>
 
 ## 技術スキル：習得の優先順位と習熟度の目安
 
@@ -113,6 +119,11 @@ A/Bテストの設計・解釈、回帰分析、仮説検定などを実務で�
 - 評価：シニアアナリスト・アナリティクスマネージャーへの昇格候補として見なされやすく、年収・役割の両面でレンジが広がる傾向がある
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

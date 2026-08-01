@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["リスク・ガバナンスコンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "risk-consultant-market-trend"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-market-trend.png"
 related: ["risk-consultant-career-path", "risk-consultant-in-30s", "risk-consultant-motivation", "mlops-engineer-market-trend", "project-manager-market-trend"]
 ---
@@ -34,6 +35,11 @@ SaaS・クラウドネイティブな事業環境を持つ企業において特�
 ESGへの対応が「情報開示」から「ガバナンス体制の実装」へと移行しつつある。気候変動リスクの財務的影響の評価（TCFD対応を含む）、人的資本開示の制度化、サプライチェーン全体のサステナビリティリスク管理など、いずれもリスク・ガバナンスコンサルタントの専門性が直接的に問われる領域である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用ニーズの変化：「守備範囲の拡大」と「実装力の重視」
 
@@ -103,6 +109,11 @@ ESGへの対応が「情報開示」から「ガバナンス体制の実装」�
 金融機関が「コンサルタントに都度依頼する」モデルから「内製化」に移行する傾向も見られる。これは、規制対応の頻度が上がるほど外部委託コストが増大するという経済的な理由によるものである。結果として、コンサルティングファーム出身者を事業会社リスク管理部門の中核人材として採用するポストが増えており、これがポストコンサルとしての転身ルートを広げている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["経営企画", "年収相場"]
 pubDate: 2026-07-04
 slug: "corporate-planning-salary"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-salary.png"
 related: ["corporate-planning-certification", "corporate-planning-english", "corporate-planning-work-style", "pmo-consultant-salary", "dev-director-salary"]
 ---
@@ -34,6 +35,11 @@ related: ["corporate-planning-certification", "corporate-planning-english", "cor
 - **上場ベンチャー・メガベンチャー**：業績に連動した変動給が大きく、ストックオプションの有無によって総報酬の差が出やすい構造です。成長フェーズの企業では職位の上昇が早く、30代前半で1,000万円前後に到達するケースも見られます。
 - **外資系事業会社**：職務等級（グレード）に対応した報酬帯が明確で、同等のグレードであれば国内大手より高めに設定されることが多いです。ただし求められるスキルレベルも相応に高くなります。
 - **戦略コンサル出身者の転職先としての経営企画**：コンサルでの報酬水準を基準に交渉するケースが多く、同年齢でも100〜200万円高いオファーが出やすい傾向があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収を左右する構造的な要因
 
@@ -92,6 +98,11 @@ related: ["corporate-planning-certification", "corporate-planning-english", "cor
 - 応募書類には「何をしたか」ではなく「何を変えたか・何を作ったか」を記述する
 - 複数社のオファーを同時期に取得し、相互比較のなかで年収交渉を行う
 - エージェントに対して「年収レンジ」ではなく「期待する役割・ミッション」を先に伝え、ポジションの上流性から逆算して報酬交渉する
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

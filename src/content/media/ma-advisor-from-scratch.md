@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["M&Aアドバイザー", "未経験転職"]
 pubDate: 2026-07-04
 slug: "ma-advisor-from-scratch"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-from-scratch.png"
 related: ["ma-advisor-certification", "ma-advisor-in-20s", "ma-advisor-career-path", "freelance-consultant-from-scratch", "salesforce-consultant-from-scratch"]
 ---
@@ -33,6 +34,11 @@ M&Aアドバイザーは、企業の買収・売却・合併を仲介・助言�
 未経験者にとって現実的な参入先は、主にこの3つ目のカテゴリです。ただし、仲介モデルと助言モデルでは利益相反の観点から業務の性質が異なり、キャリアの方向性にも影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験から参入する際に問われる「素地」
 
@@ -102,6 +108,11 @@ SaaS企業で3年間、中堅製造業・物流業を対象とした法人営業
 このモデルが示すのは、法人営業の経験＋財務基礎の自習＋仲介会社への参入という、最も再現性の高い組み合わせです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

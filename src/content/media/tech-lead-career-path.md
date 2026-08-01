@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["テックリード", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "tech-lead-career-path"
+hub: "tech-lead"
 image: "/images/media/tech-lead-career-path.png"
 related: ["tech-lead-skills", "tech-lead-how-to-use-agent", "tech-lead-motivation", "web-marketer-career-path", "ml-engineer-career-path"]
 ---
@@ -30,6 +31,11 @@ related: ["tech-lead-skills", "tech-lead-how-to-use-agent", "tech-lead-motivatio
 ただし、組織規模や文化によって定義は大きく揺れる。スタートアップではテックリードがEMを兼務することも珍しくなく、大規模組織では役割がより厳密に分離されている傾向がある。自分が今いる環境のテックリード定義を正確に把握することが、キャリア設計の出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-career-path">無料で相談する</a>
+</aside>
 
 ## 30代テックリードが直面するキャリアの分岐
 
@@ -117,6 +123,11 @@ CTOとエンジニアリングマネジメント的なVPoEは役割が異なる�
 開発スピードやシステム品質をビジネス指標（顧客獲得コスト、解約率、NPS等）と接続して語れるテックリードは、転職市場でも高く評価される傾向がある。技術的な判断がビジネスにどう影響するかを説明できることは、EMやCTOへの移行にも直結する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

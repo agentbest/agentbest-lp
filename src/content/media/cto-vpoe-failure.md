@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["CTO・VPoE候補", "転職失敗"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-failure"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-failure.png"
 related: ["cto-vpoe-resume", "cto-vpoe-market-trend", "cto-vpoe-in-30s", "ml-engineer-failure", "freelance-consultant-failure"]
 ---
@@ -28,6 +29,11 @@ CTO・VPoEポジションへの転職は、エンジニアリングマネジメ�
 これらの構造を理解したうえで、典型的な失敗パターンを見ていく。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターンとその構造
 
@@ -115,6 +121,11 @@ CTO・VPoEは、特にスタートアップにおいて、代表との関係性�
 - [ ] ロールの成功定義（評価基準）が明文化されているか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

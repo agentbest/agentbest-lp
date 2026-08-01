@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["人事", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "hrbp-resume"
+hub: "hrbp"
 image: "/images/media/hrbp-resume.png"
 related: ["hrbp-in-20s", "hrbp-certification", "hrbp-from-scratch", "bizdev-resume", "pmo-consultant-resume"]
 ---
@@ -20,6 +21,11 @@ related: ["hrbp-in-20s", "hrbp-certification", "hrbp-from-scratch", "bizdev-resu
 加えて、企業規模や事業フェーズによって人事業務の射程は大きく異なります。スタートアップで人事部門を一人で立ち上げた経験と、大企業の人事本部でスペシャリストとして勤務した経験では、求められるスキルセットが異なります。採用担当者がこの違いを即座に理解できるよう、文脈を補足しながら記述することが不可欠です。
 
 さらに、HRBPを標榜する求人が増えた昨今、「戦略人事の経験があるか」という観点で書類を読む採用担当者も増えています。単なる業務列挙ではなく、「何を目的として、何を判断し、どう動いたか」という思考プロセスが伝わる書き方が求められます。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-resume">キャリアを相談する</a>
+</aside>
 
 ## 人事の職務経歴書：基本構成と各セクションの役割
 
@@ -110,6 +116,11 @@ SaaS系スタートアップ（従業員数30名→200名規模）にて人事�
 | 人事部長/CHROクラス | 経営連携・全社人事戦略立案 | 1,000万円以上の場合も |
 
 職務経歴書の記述が同じ経験年数でも上位レンジを目指す場合は、「担当した規模感」「意思決定への関与度」「事業インパクトとの接続」の3点が記述できているかを改めて確認することを推奨します。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

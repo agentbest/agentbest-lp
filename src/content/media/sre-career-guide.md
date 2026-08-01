@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["SRE", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "sre-career-guide"
+hub: "sre"
 image: "/images/media/sre-career-guide.png"
 related: ["sre-interview", "sre-certification", "sre-market-trend", "product-manager-career-guide", "devops-engineer-career-guide"]
 ---
@@ -18,6 +19,11 @@ SRE（Site Reliability Engineering）の転職市場は、ここ数年で質・�
 本記事では、SREとして転職を検討しているエンジニアに向けて、職種の定義から市場価値・選考で問われるポイント・よくある失敗パターンまでを体系的に整理します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-career-guide">無料で相談する</a>
+</aside>
 
 ## SREの仕事内容：職種の定義と実務の範囲
 
@@ -101,6 +107,11 @@ SREはインフラチームと異なり、開発チームと信頼性に関す�
 こうした準備を経た転換事例では、年収ベースで現職比15〜25%程度のアップとともに、SREとしての正式なポジションへの着地ができた事例が複数見受けられます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

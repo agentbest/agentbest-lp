@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["人事", "年収相場"]
 pubDate: 2026-07-04
 slug: "hrbp-salary"
+hub: "hrbp"
 image: "/images/media/hrbp-salary.png"
 related: ["hrbp-in-30s", "hrbp-from-scratch", "hrbp-work-style", "frontend-engineer-salary", "web-marketer-salary"]
 ---
@@ -28,6 +29,11 @@ related: ["hrbp-in-30s", "hrbp-from-scratch", "hrbp-work-style", "frontend-engin
 | 40代以降（CHRO・HR部門長） | HR戦略全体統括・取締役連携 | 1,000万円〜 |
 
 この表からわかるとおり、30代前半を境に年収の上昇カーブが急になる傾向がある。その分岐点となるのが、「業務の遂行者」から「組織への提言者・設計者」への移行である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-salary">無料で相談する</a>
+</aside>
 
 ## 年収に影響する4つの構造的要因
 
@@ -83,6 +89,11 @@ HRBPや戦略人事として評価されるためには、人事の専門知識�
 ### 転職市場を定期的に確認する
 
 現職での年収水準が適正かどうかは、転職市場と照合することで初めて把握できる。1〜2年に一度、同程度の経験・スキルを持つ候補者がどのような条件のポジションにアクセスできるかを確認することは、キャリア設計において有効な情報収集になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["業務コンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "business-consultant-english"
+hub: "business-consultant"
 image: "/images/media/business-consultant-english.png"
 related: ["business-consultant-certification", "business-consultant-in-20s", "business-consultant-salary-1000", "post-consultant-english", "solution-architect-english"]
 ---
@@ -28,6 +29,11 @@ related: ["business-consultant-certification", "business-consultant-in-20s", "bu
 - **海外拠点を持つ日系企業のグローバル展開支援**：現地チームや海外ベンダーとの折衝が発生する
 
 大手ファームが受託するグローバル案件では、プロジェクトのフェーズを問わずビジネスレベルの英語力が前提となるケースが増えており、これが求人要件における英語条件の引き上げとして現れている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語レベル別：求人の特徴と年収目安
 
@@ -89,6 +95,11 @@ SAP S/4HANAやOracle Fusion等のグローバル統一テンプレートの展�
 **第二の分岐点：「使える」から「リードできる」への移行**
 
 会議の参加者ではなくファシリテーターとして英語での議論を主導し、クライアント・ベンダー・社内ステークホルダーを動かせるコミュニケーション能力。この水準は、プロジェクトマネージャーやマネージャー職相当のポジションで求められることが多く、報酬レンジが大きく引き上がる領域に対応する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

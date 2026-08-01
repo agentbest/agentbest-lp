@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["インサイドセールス", "必要スキル"]
 pubDate: 2026-07-03
 slug: "inside-sales-skills"
+hub: "inside-sales"
 image: "/images/media/inside-sales-skills.png"
 related: ["inside-sales-salary-1000", "inside-sales-motivation", "inside-sales-in-30s", "risk-consultant-skills", "devops-engineer-skills"]
 ---
@@ -32,6 +33,11 @@ related: ["inside-sales-salary-1000", "inside-sales-motivation", "inside-sales-i
 これらは独立したものではなく、「ヒアリングの質が上がるとCRMへの記録の精度が上がり、引き渡し品質が向上する」という連鎖があります。スキルを点で捉えず、プロセス全体への影響として理解することが実務的な成長につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-skills">無料で相談する</a>
+</aside>
 
 ## 優先度の高いスキル解説
 
@@ -95,6 +101,11 @@ Salesforce、HubSpotなどのCRM・SFAを「使える」だけでなく、「デ
 ツールは変化が速く、特定製品への依存は長期的なリスクになり得ます。「新しいツールの学習コストが低い」「ツールの目的を構造として理解している」という抽象度の高い能力が、中長期的な市場価値を支えます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

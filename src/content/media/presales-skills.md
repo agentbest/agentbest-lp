@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["セールスエンジニア／プリセールス", "必要スキル"]
 pubDate: 2026-07-03
 slug: "presales-skills"
+hub: "presales"
 image: "/images/media/presales-skills.png"
 related: ["presales-motivation", "presales-work-style", "presales-how-to-use-agent", "cto-vpoe-skills", "devops-engineer-skills"]
 ---
@@ -20,6 +21,11 @@ related: ["presales-motivation", "presales-work-style", "presales-how-to-use-age
 セールスエンジニアとプリセールスは企業によって用語の使い方が異なるが、実態として担う機能は概ね共通している。営業（アカウントエグゼクティブ等）と協働し、顧客の要件整理から技術的な実現可能性の検証、提案資料・デモの設計、RFP対応、PoC（概念実証）の主導までを担う。受注後の実装支援やカスタマーサクセスとの橋渡しを兼務するケースも多い。
 
 この役割が評価される市場背景には、SaaSをはじめとするエンタープライズ向けソフトウェア販売の複雑化がある。購買側の意思決定に技術部門・情報システム部門・経営層が関与するようになり、「何ができるか」を正確に伝え、「どう導入するか」まで具体化できる人材への需要が高まっている。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-skills">キャリアを相談する</a>
+</aside>
 
 ## 必要スキルの全体像と優先順位
 
@@ -89,6 +95,11 @@ PoCでは、成功条件（KPI・評価基準）の合意形成から始まり�
 | プリンシパル／マネージャー | チームマネジメント、製品戦略・GTM戦略への関与 | 1,200万円〜 |
 
 これらはあくまで市場の傾向を示す参考値であり、外資系か国内系か、SaaS製品の領域、企業の資金力等によって大きく異なる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

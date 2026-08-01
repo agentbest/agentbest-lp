@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["ITアーキテクト", "市場動向"]
 pubDate: 2026-07-04
 slug: "it-architect-market-trend"
+hub: "it-architect"
 image: "/images/media/it-architect-market-trend.png"
 related: ["it-architect-failure", "it-architect-salary", "it-architect-resume", "mobile-engineer-market-trend", "ml-engineer-market-trend"]
 ---
@@ -20,6 +21,11 @@ ITアーキテクトの求人数は、ここ数年にわたって増加傾向が
 一方で、求人の中身は変化しています。2023年前後までは「クラウドへの移行設計ができるアーキテクト」という要件が主流でしたが、現在はそこからさらに踏み込んだ要件が増えています。具体的には、移行後の最適化・コスト管理・セキュリティアーキテクチャの設計、さらにはAIシステムとの統合設計やデータメッシュ・データプロダクトの設計まで含まれるケースが増えています。
 
 求人数は増えているが、単純なスペックマッチで採用を決める企業は減っています。採用企業がアーキテクトに期待する役割の解像度が上がっており、「どのようなフェーズの、どのような規模の、どのような組織的文脈の中で活躍できるか」を問われる選考が増えている点は、転職活動において重要な前提認識となります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用企業セグメント別の動向
 
@@ -82,6 +88,11 @@ ITアーキテクト領域では、企業の予算確定後（1〜3月・7〜8�
 ### 市場価値の確認方法
 
 転職エージェントからのフィードバックは、自身のスキルセットが現在の市場でどのような位置づけにあるかを把握する上で有効な手段の一つです。ただし、複数のエージェントや求人情報を参照し、特定の評価に依存しすぎないことが望ましいといえます。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

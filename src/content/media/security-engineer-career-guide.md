@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["セキュリティエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "security-engineer-career-guide"
+hub: "security-engineer"
 image: "/images/media/security-engineer-career-guide.png"
 related: ["security-engineer-in-20s", "security-engineer-certification", "security-engineer-company-size", "partner-sales-career-guide", "hrbp-career-guide"]
 ---
@@ -38,6 +39,11 @@ SIEMやEDRを活用してセキュリティインシデントを監視・検知�
 SaaS・プロダクト開発組織において、開発プロセス（CI/CDパイプライン）にセキュリティを組み込む役割です。開発者バックグラウンドを持ちセキュリティに転向したエンジニアが評価されやすく、SISTRやGitHub Actionsを活用したSAST/DAST自動化の経験が差別化要因になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-career-guide">無料で相談する</a>
+</aside>
 
 ## 市場相場と年収レンジの目安
 
@@ -108,6 +114,11 @@ SaaS・プロダクト開発組織において、開発プロセス（CI/CDパ�
 レジュメには「使用したツール名・製品名」と「自身が担った判断・改善のアクション」を対応させて記述することが重要です。「SIEM運用経験あり」と書くだけでなく、「Splunkを用いてアラートのFalse Positiveを40%削減するルールチューニングを実施」のように、自身の介在価値が見える形にすることが選考通過につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

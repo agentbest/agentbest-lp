@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["エンジニアリングマネージャー", "未経験転職"]
 pubDate: 2026-07-04
 slug: "engineering-manager-from-scratch"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-from-scratch.png"
 related: ["engineering-manager-market-trend", "engineering-manager-resume", "engineering-manager-english", "customer-success-from-scratch", "embedded-engineer-from-scratch"]
 ---
@@ -22,6 +23,11 @@ EMはソフトウェアエンジニアのチームを率い、採用・育成・
 日本においても、プロダクト開発の内製化が進むにつれ、EM職の設置が増えている。一方で、職種として成熟しきっていないため、会社によって期待値・権限・給与レンジにかなりのばらつきがある点は認識しておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## EMに求められるスキルの構造
 
@@ -111,6 +117,11 @@ EMになった後も、エンジニアとの対話において一定の技術的
 EMの仕事内容は、企業のフェーズによって大きく異なる。急成長期のスタートアップでは採用が主業務になることがある一方、大手では評価制度設計や内部の育成プログラムが中心になる場合もある。自分がどのフェーズの組織で力を発揮したいかを整理しておくことが、求人選択の精度を高める。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

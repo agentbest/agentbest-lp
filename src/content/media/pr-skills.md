@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["広報／PR", "必要スキル"]
 pubDate: 2026-07-04
 slug: "pr-skills"
+hub: "pr"
 image: "/images/media/pr-skills.png"
 related: ["pr-in-20s", "pr-career-guide", "pr-resume", "devops-engineer-skills", "big4-consultant-skills"]
 ---
@@ -22,6 +23,11 @@ related: ["pr-in-20s", "pr-career-guide", "pr-resume", "devops-engineer-skills",
 スキルは「ハードスキル」と「ソフトスキル」に大別されるが、広報・PRの場合、両者の境界が曖昧になりやすい。たとえば「ライティング」は技術的な側面（構成・文体）と判断的な側面（何をどのタイミングで発信するか）が不可分である。この点を念頭に置いて以下の分類を読んでほしい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル優先順位と市場価値への影響
 
@@ -99,6 +105,11 @@ related: ["pr-in-20s", "pr-career-guide", "pr-resume", "devops-engineer-skills",
 この事例から読み取れるのは、「スキルの保有」よりも「スキルを構造的に説明できること」が評価に直結しやすいという点である。広報職は成果が数値化しにくい職種であるため、因果関係を言語で丁寧に示す能力そのものが、採用担当者への信頼につながる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

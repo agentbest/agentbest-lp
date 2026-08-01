@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["人事・組織コンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "hr-consultant-salary-600"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-salary-600.png"
 related: ["hr-consultant-certification", "hr-consultant-company-size", "hr-consultant-how-to-use-agent", "risk-consultant-salary-600", "mobile-engineer-salary-600"]
 ---
@@ -30,6 +31,11 @@ related: ["hr-consultant-certification", "hr-consultant-company-size", "hr-consu
 重要なのは、600万円は「経験年数を積めば自然に超えていく」水準ではないという点だ。後述するように、ここには構造的な「壁」が存在する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円を超えられない人に共通する壁
 
@@ -94,6 +100,11 @@ related: ["hr-consultant-certification", "hr-consultant-company-size", "hr-consu
 コンサルとHRBPの違いは「外から提言する」か「内側で実装する」かの違いであり、どちらに志向性があるかによって選択すべきキャリアパスは変わる。ただし、「コンサル経験×事業会社人事」というキャリアの組み合わせは、次の転職時に幅を広げやすいという点で、中長期的な市場価値の観点からも検討に値する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

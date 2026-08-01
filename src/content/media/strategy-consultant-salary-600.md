@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["戦略コンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-salary-600"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-salary-600.png"
 related: ["strategy-consultant-in-20s", "strategy-consultant-how-to-use-agent", "strategy-consultant-certification", "fas-consultant-salary-600", "db-engineer-salary-600"]
 ---
@@ -30,6 +31,11 @@ related: ["strategy-consultant-in-20s", "strategy-consultant-how-to-use-agent", 
 ※上記はあくまで市場における相場感の目安であり、ファームや個人の評価によって幅がある。
 
 この表を見ると、600万円という水準はアナリストからアソシエイト・コンサルタントへの移行期に対応しやすい。つまり「600万円を超える」という問いは、実質的に「次の職位グレードへの昇格を実現するとはどういうことか」という問いとほぼ同義になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円を超えるうえで壁になりやすい要素
 
@@ -78,6 +84,11 @@ related: ["strategy-consultant-in-20s", "strategy-consultant-how-to-use-agent", 
 転機は、上位職位が産休に入ったプロジェクトで、ワークストリームの実質的なリードを担う機会を得たことにある。半年間、週次クライアント報告・課題設定・仮説構造の設計を自律的に行い、パートナーから「独立したコンサルタントとして機能している」と評価される場面が積み重なった。翌年の評価サイクルでアソシエイトへの昇格が認められ、年収は約150万円の上昇となった。
 
 このケースが示すのは、評価の転換点が「能力の有無」よりも「能力を発揮した実績の可視化」にある、という構造である。Aさんの能力は昇格前から存在していたが、評価者が確認できる形で示されていなかった。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["データ・アナリティクスコンサルタント", "市場動向"]
 pubDate: 2026-07-05
 slug: "data-consultant-market-trend"
+hub: "data-consultant"
 image: "/images/media/data-consultant-market-trend.png"
 related: ["data-consultant-motivation", "data-consultant-skills", "data-consultant-salary-1000", "devops-engineer-market-trend", "frontend-engineer-market-trend"]
 ---
@@ -30,6 +31,11 @@ related: ["data-consultant-motivation", "data-consultant-skills", "data-consulta
 - **ツール・技術特化層**：BIツールの構築・運用、ETLパイプライン管理など技術要件が明確なポジション
 
 2026年時点で特に需要が強いのは「実装・推進層」であり、この層は未経験採用よりも、3〜7年程度の実務経験を持つ即戦力への需要が中心になりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用ニーズの変化：領域別に見るポイント
 
@@ -98,6 +104,11 @@ IT・SaaS企業ではプロダクト改善や顧客成功（カスタマーサ�
 ### 業界・ドメイン知識の重要性
 
 汎用的なデータスキルの市場価値が相対的に下がる傾向がある中、特定業界への深い知見とアナリティクスの掛け合わせは引き続き差別化要因になりやすい。採用市場では「何の分析ができるか」より「何の課題を解いてきたか」が評価軸になりつつあるため、自身のドメイン蓄積を意識的に棚卸しすることが、転職準備の出発点として有効といえる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

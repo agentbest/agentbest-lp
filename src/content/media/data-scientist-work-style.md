@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["データサイエンティスト", "働き方"]
 pubDate: 2026-07-04
 slug: "data-scientist-work-style"
+hub: "data-scientist"
 image: "/images/media/data-scientist-work-style.png"
 related: ["data-scientist-from-scratch", "data-scientist-how-to-use-agent", "data-scientist-company-size", "business-planning-work-style", "it-architect-work-style"]
 ---
@@ -31,6 +32,11 @@ related: ["data-scientist-from-scratch", "data-scientist-how-to-use-agent", "dat
 スタートアップとコンサルファームは「成果に対するプレッシャー」が高い傾向がある一方で、その動機や仕事の手触りは異なります。前者はプロダクトの成否に直結するエンジニアリング的プレッシャー、後者はクライアントのデッドラインに起因するプレッシャーです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 残業・激務度のリアル
 
@@ -106,6 +112,11 @@ IT・SaaS企業やAIスタートアップは、コロナ禍以降もリモート
 高収入とワークライフバランスの両立は「完全に相反するわけではない」ものの、トレードオフが生じやすい局面があることは理解しておくと良いでしょう。特に30代前半で年収水準を上げたい方が、コンサルやスタートアップを選ぶ際は、繁忙期の働き方も含めて確認することを推奨します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

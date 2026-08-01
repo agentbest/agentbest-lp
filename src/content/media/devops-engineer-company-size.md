@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["DevOpsエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "devops-engineer-company-size"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-company-size.png"
 related: ["devops-engineer-interview", "devops-engineer-career-guide", "devops-engineer-future", "data-analyst-company-size", "it-architect-company-size"]
 ---
@@ -20,6 +21,11 @@ DevOpsエンジニアという職種は、インフラ管理・CI/CDパイプラ
 大手企業では、すでに稼働している大規模システムの安定運用が中心になりやすい。既存のIaC（Infrastructure as Code）やCI/CDの仕組みを引き継ぎ、ガバナンス要件やセキュリティ標準に準拠しながら改善を積み上げる業務が主体となる傾向がある。一方、スタートアップでは、ゼロから設計・構築する機会が多い反面、リソース制約のなかで運用負荷も一人が担うことが珍しくない。
 
 どちらが「優れた環境か」ではなく、「自分がどのフェーズにいるか」によってフィットする環境が変わる、という前提で以下を読んでいただきたい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 四軸比較：年収・技術・成長・リスク
 
@@ -80,6 +86,11 @@ DevOpsエンジニアという職種は、インフラ管理・CI/CDパイプラ
 
 **問い3：入社後の3年で、何を達成したいか（または何を証明したいか）**
 転職市場での次のステップを意識するなら、「その3年で何ができるようになるか」を具体的に言語化できるか否かが選択の質を左右する。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

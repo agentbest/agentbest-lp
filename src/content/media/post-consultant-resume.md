@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["ポストコンサル", "職務経歴書"]
 pubDate: 2026-07-05
 slug: "post-consultant-resume"
+hub: "post-consultant"
 image: "/images/media/post-consultant-resume.png"
 related: ["post-consultant-in-20s", "post-consultant-failure", "post-consultant-interview", "db-engineer-resume", "data-scientist-resume"]
 ---
@@ -32,6 +33,11 @@ related: ["post-consultant-in-20s", "post-consultant-failure", "post-consultant-
 アウトプット（資料・提案）ではなくアウトカム（事業上の変化・成果）を記述することが、書類通過率を左右する最重要ポイントのひとつといえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職務経歴書の構成：推奨フォーマット
 
@@ -103,6 +109,11 @@ related: ["post-consultant-in-20s", "post-consultant-failure", "post-consultant-
 特に機能領域の記載は、応募先のポジションJDと照合されることを意識して書くとよい。「新規事業開発」という記載は経営企画や事業開発ポジションとのマッチングに効く一方、「コスト削減・業務効率化」の記載はオペレーション改善ポジションへの訴求になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

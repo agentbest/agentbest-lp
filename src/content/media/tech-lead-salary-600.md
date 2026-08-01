@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["テックリード", "年収600万"]
 pubDate: 2026-07-04
 slug: "tech-lead-salary-600"
+hub: "tech-lead"
 image: "/images/media/tech-lead-salary-600.png"
 related: ["tech-lead-certification", "tech-lead-motivation", "tech-lead-how-to-use-agent", "engineering-manager-salary-600", "legal-salary-600"]
 ---
@@ -30,6 +31,11 @@ related: ["tech-lead-certification", "tech-lead-motivation", "tech-lead-how-to-u
 これはあくまで目安であり、業種・企業規模・事業フェーズによって幅は大きくなる。スタートアップでは株式報酬も含めた総報酬で見る必要があるため、額面の比較には注意が必要だ。
 
 600万円という水準は、上表でいえば「ミドルエンジニアの上限〜テックリードの入口」に位置する。この水準を確実に超えていくためには、何が障壁になるかを具体的に把握することが先決となる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -96,6 +102,11 @@ related: ["tech-lead-certification", "tech-lead-motivation", "tech-lead-how-to-u
 転職意向の有無にかかわらず、定期的に転職市場の水準を把握することは、現職での給与交渉においても有効な根拠となる。特に成長期のSaaS企業やコンサルティングファームのテクノロジー部門では、テックリード相当のロールに対して比較的高い予算が設定されている傾向がある。
 
 複数のオファーを比較することで「自分のスキルセットに対して市場がどのような評価をするか」の解像度が上がり、現職での交渉材料としても機能しやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

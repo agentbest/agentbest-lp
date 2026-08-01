@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["パートナーセールス／アライアンス", "年収1000万"]
 pubDate: 2026-07-04
 slug: "partner-sales-salary-1000"
+hub: "partner-sales"
 image: "/images/media/partner-sales-salary-1000.png"
 related: ["partner-sales-career-guide", "partner-sales-english", "partner-sales-future", "backend-engineer-salary-1000", "data-analyst-salary-1000"]
 ---
@@ -29,6 +30,11 @@ related: ["partner-sales-career-guide", "partner-sales-english", "partner-sales-
 | エグゼクティブ | ヘッド／VP・部長職以上 | 1,100万円〜 |
 
 上記はあくまで目安であり、会社の規模・業種・インセンティブの有無・外資か国内かによって幅があります。年収1,000万円は「マネージャー層への昇格前後」が一つの到達ラインとなる傾向があります。ただし、インセンティブ比率が高い外資系SaaS企業では、シニア担当レベルでも超過達成により1,000万円を超えるケースが見られます。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-salary-1000">無料で相談する</a>
+</aside>
 
 ## 到達者に共通する3つのキャリアの型
 
@@ -83,6 +89,11 @@ related: ["partner-sales-career-guide", "partner-sales-english", "partner-sales-
 - **昇格後の年収水準**：固定850万円＋インセンティブ（達成率100%時で150万円）＝合計約1,000万円
 
 このキャリアの型において重要なのは、「パートナーの売上を上げた」という結果だけでなく、「イネーブルメントの仕組みを作った」という組織貢献の可視化です。マネージャーへの昇格判断において、管掌範囲の拡大に貢献できる人材かどうかが問われる場面が多く、仕組み化・横展開の実績は強力な昇格材料になります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

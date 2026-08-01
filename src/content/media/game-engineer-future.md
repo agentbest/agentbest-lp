@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["ゲームエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "game-engineer-future"
+hub: "game-engineer"
 image: "/images/media/game-engineer-future.png"
 related: ["game-engineer-salary-1000", "game-engineer-certification", "game-engineer-salary", "frontend-engineer-future", "sap-consultant-future"]
 ---
@@ -36,6 +37,11 @@ AAAタイトルやライブサービスゲームでは、グラフィクスク�
 この二つの変化が同時進行することで、「AIが代替しやすい定型的な実装作業」と「高度な専門性を要する設計・最適化作業」の間に、明確な二極化が生じてきています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## 専門領域別の将来性と市場価値
 
@@ -91,6 +97,11 @@ AIツールの普及によって、コードを書くこと自体のコストは
 いずれの方向性でも、「専門性の深さ」か「領域横断の幅」のどちらかに明確な軸を持つことが、転職市場での評価に結びつきやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

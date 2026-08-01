@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["PMOコンサルタント", "働き方"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-work-style"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-work-style.png"
 related: ["pmo-consultant-career-guide", "pmo-consultant-motivation", "pmo-consultant-in-20s", "bizdev-work-style", "hr-consultant-work-style"]
 ---
@@ -20,6 +21,11 @@ PMO（Project Management Office）コンサルタントは、クライアント�
 IT・SaaS・コンサル領域でこの職種が増えている背景には、大規模なDXプロジェクトやERP導入案件の増加がある。これらは複数のベンダーや社内部門が絡む複雑な構造を持つため、全体調整を担うPMOの存在が不可欠とされる。
 
 「プロジェクトを直接推進するPM（プロジェクトマネージャー）」と比較すると、PMOはやや横断的・間接的な立場に位置する。PMが「意思決定者」であるのに対し、PMOは「意思決定を支える構造を作る専門家」という役割分担が一般的だ。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度の実態：フェーズと案件規模で大きく変わる
 
@@ -100,6 +106,11 @@ PMOコンサルタントのリモートワーク可否は、クライアント�
 - **終盤・移行期（3か月）**：移行判定基準の策定、リスク対応計画の最終調整、引き継ぎ文書の整備。再び月50時間超に達する局面があった
 
 リモート比率は週2日程度。現場ヒアリングや重要会議は対面、管理業務はリモートというハイブリッド運用が機能した。このプロジェクトでは、クライアントのプロジェクト管理成熟度が低かったため、PMOが担う役割範囲が広がり、想定より業務量が増えた局面もあった。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

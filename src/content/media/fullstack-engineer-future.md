@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["フルスタックエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-future"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-future.png"
 related: ["fullstack-engineer-interview", "fullstack-engineer-salary-600", "fullstack-engineer-in-20s", "freelance-consultant-future", "platform-engineer-future"]
 ---
@@ -20,6 +21,11 @@ related: ["fullstack-engineer-interview", "fullstack-engineer-salary-600", "full
 この変化の背景には、プロダクト開発の内製化とスピード競争がある。スタートアップや大手企業の新規事業部門において、「少人数チームで仮説検証を高速で回す」という要件が強まった結果、一人の開発者が担う技術的な幅が拡大した。フルスタックエンジニアはこの文脈で、非常に高い需要を維持している。
 
 一方で課題もある。生成AI・コード補完ツールの普及により、実装作業の一部が自動化されつつある。これを「フルスタックエンジニア不要論」として捉える向きもあるが、実態は逆である。AIが得意なのは定型的な実装であり、アーキテクチャの意思決定や技術スタックの選定、プロダクト要件との整合取りといった上流の判断はむしろ人間の専門性が問われる局面が増えている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI時代に価値が高まる「高次フルスタック」の条件
 
@@ -96,6 +102,11 @@ GitHub CopilotやClaude等のコーディング支援ツールを単に使うだ
 
 **技術負債リスク**
 幅広く担当できる反面、深度が浅い状態で設計判断を行うと技術負債が積み上がりやすい。「広く知っている」ことと「設計判断ができる」ことは別物であり、後者の習熟が不足するとキャリアの停滞につながりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["ヘルステック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "healthtech-industry-career"
+hub: "healthtech-industry"
 image: "/images/media/healthtech-industry-career.png"
 related: ["healthtech-industry-company", "healthtech-industry-salary", "healthtech-industry-guide", "proptech-industry-career", "fintech-industry-career"]
 ---
@@ -29,6 +30,11 @@ related: ["healthtech-industry-company", "healthtech-industry-salary", "healthte
 それぞれ規制の深度、セールスサイクルの長さ、求められるドメイン知識の性質が異なります。たとえば電子カルテや医療AIは薬機法・医療機器プログラム（SaMD）の規制が関わり、プロダクト開発に独自の制約が生じます。一方、予約管理や医療事務SaaSは一般的なBtoB SaaSの商習慣に近い部分があり、SaaS出身者が比較的スムーズに適応しやすい傾向があります。
 
 転職を検討する際には、「ヘルステック全体の成長性」ではなく、「どの領域のどの職種か」を起点に市場を読む視点が重要です。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-career">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい経験と、その理由
 
@@ -80,6 +86,11 @@ SaaS系スタートアップで3〜4年、SMB向けカスタマーサクセス�
 
 **転換点となる判断**
 ヘルステック領域で積み上げた経験を「次」に活かすには、医療DX推進を担う大手企業への転職か、より成長フェーズの高いヘルステックスタートアップへの転職という二方向の選択肢が生まれやすいです。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-career">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

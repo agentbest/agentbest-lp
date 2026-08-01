@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["SAPコンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "sap-consultant-certification"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-certification.png"
 related: ["sap-consultant-future", "sap-consultant-work-style", "sap-consultant-interview", "pmo-consultant-certification", "ai-engineer-certification"]
 ---
@@ -30,6 +31,11 @@ SAPコンサルタントとして市場価値を高めようとするとき、�
 一方で、経験豊富なシニアコンサルタントに対しては、資格の有無が選考の決め手になることは相対的に少ない。評価の重心はあくまでも「何を実装したか」「どのフェーズでどのような役割を担ったか」にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格・認定の全体像
 
@@ -93,6 +99,11 @@ IT業界の別職種（インフラエンジニアなど）からSAPコンサル
 ただし、この類型でも資格単体でコンサルタントとしての採用に直結することは少なく、SAPパートナー企業でのOJT前提の採用や、SAPエンジニア（Basis・開発）としての入り口を経由するルートが現実的な選択肢になることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

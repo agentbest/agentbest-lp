@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["物流テック", "業界研究"]
 pubDate: 2026-07-05
 slug: "logitech-industry-guide"
+hub: "logitech-industry"
 image: "/images/media/logitech-industry-guide.png"
 related: ["logitech-industry-company", "logitech-industry-salary", "logitech-industry-career", "fintech-industry-guide", "ai-industry-guide"]
 ---
@@ -20,6 +21,11 @@ related: ["logitech-industry-company", "logitech-industry-salary", "logitech-ind
 市場の成長を牽引する要因は主に三点です。第一に、eコマース市場の継続的な拡大に伴う配送量の増加。第二に、物流業界の人手不足。倉庫作業・ドライバーともに担い手の確保が困難になっており、自動化・省人化への需要は構造的なものといえます。第三に、2024年問題を契機とした業務効率化の加速です。トラックドライバーの時間外労働上限規制により、従来の運行方式では輸送能力が制約されるため、ルート最適化や積載効率の向上が急務となっています。
 
 これらの要因が重なることで、物流テック企業への投資・採用ともに活発な状態が続いています。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要企業の類型と特徴
 
@@ -87,6 +93,11 @@ related: ["logitech-industry-company", "logitech-industry-salary", "logitech-ind
 **入社後**：最初の3〜6か月は既存顧客の導入プロセスへのオブザーブと、倉庫見学・現場同行によるドメイン習得に当てた。SaaS営業の商談フレームと物流ドメインの掛け合わせにより、1年後にはチームの中核メンバーとして機能。
 
 このパターンが示すのは、物流特有の知識は採用後に習得可能と判断される場合があること、そして転職時に「業務フローへの興味・理解の姿勢」を示せるかどうかが選考の分岐点になりやすいという点です。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=logitech-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

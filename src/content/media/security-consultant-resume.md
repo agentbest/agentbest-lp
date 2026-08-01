@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["セキュリティコンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "security-consultant-resume"
+hub: "security-consultant"
 image: "/images/media/security-consultant-resume.png"
 related: ["security-consultant-in-30s", "security-consultant-interview", "security-consultant-work-style", "marketing-manager-resume", "game-engineer-resume"]
 ---
@@ -30,6 +31,11 @@ related: ["security-consultant-in-30s", "security-consultant-interview", "securi
 これらの難点を踏まえた上で、構成と記述のポイントを整理します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の基本構成と各セクションの役割
 
@@ -128,6 +134,11 @@ IT系SIerにて5年間、ネットワーク基盤設計・構築を担当。そ�
 この再構成により、「技術的な実装経験とプログラム推進経験の両方を持つ候補者」として読まれやすい構造になります。転職先のセキュリティコンサルタント職では、こうしたハイブリッドな経験が評価されやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

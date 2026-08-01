@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["データベースエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "db-engineer-company-size"
+hub: "db-engineer"
 image: "/images/media/db-engineer-company-size.png"
 related: ["db-engineer-work-style", "db-engineer-interview", "db-engineer-future", "data-consultant-company-size", "infra-engineer-company-size"]
 ---
@@ -22,6 +23,11 @@ related: ["db-engineer-work-style", "db-engineer-interview", "db-engineer-future
 スタートアップでは、専任のDBAを複数置く余裕がないケースが大半であるため、一人が設計・構築・運用・最適化・セキュリティ対応まで横断して担う。技術的な幅は広がりやすい反面、特定技術の深掘りに集中しにくい面もある。
 
 この違いを前提として、以下では各項目を比較していく。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-company-size">キャリアを相談する</a>
+</aside>
 
 ## 主要項目の比較
 
@@ -78,6 +84,11 @@ related: ["db-engineer-work-style", "db-engineer-interview", "db-engineer-future
 - **プリセールス・テクニカルアドバイザリーへ転換する**：DB製品・サービスのベンダー側に転じる。大手・スタートアップ双方の経験が活きやすい
 
 自分がどの方向にキャリアを展開したいかを先に定義したうえで、その方向に向けた経験が積みやすい環境を選ぶことが、後悔の少ない意思決定につながる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

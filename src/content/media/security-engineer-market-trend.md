@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["セキュリティエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "security-engineer-market-trend"
+hub: "security-engineer"
 image: "/images/media/security-engineer-market-trend.png"
 related: ["security-engineer-english", "security-engineer-how-to-use-agent", "security-engineer-company-size", "inside-sales-market-trend", "ai-engineer-market-trend"]
 ---
@@ -32,6 +33,11 @@ related: ["security-engineer-english", "security-engineer-how-to-use-agent", "se
 従来はMSSP（マネージドセキュリティサービスプロバイダー）に委託していた機能を、企業内のSOCやCSIRTとして自前で持つ動きが大企業・メガベンチャーを中心に広がっています。この内製化の流れが、事業会社側のセキュリティ採用ニーズを押し上げています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## 求人数・採用ニーズの質的変化
 
@@ -112,6 +118,11 @@ CISSP、CEH、OSCP、AWS Security Specialty等の資格は、スクリーニン�
 セキュリティエンジニアは採用側のニーズが需要過多の状態にあるため、適切な情報収集と交渉によって提示額からの上乗せが実現しやすいポジションといえます。複数社の選考を並走させ、オファー内容を比較材料として活用することが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

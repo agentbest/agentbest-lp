@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["ブリッジSE", "未経験転職"]
 pubDate: 2026-07-04
 slug: "bridge-se-from-scratch"
+hub: "bridge-se"
 image: "/images/media/bridge-se-from-scratch.png"
 related: ["bridge-se-certification", "bridge-se-salary-600", "bridge-se-skills", "corporate-it-from-scratch", "big4-consultant-from-scratch"]
 ---
@@ -30,6 +31,11 @@ related: ["bridge-se-certification", "bridge-se-salary-600", "bridge-se-skills",
 純粋な「コーダー」ではなく、プロジェクトの橋渡し役であるため、コードを書く頻度は案件によって異なる。開発実務を担う場合もあれば、ほぼPM（プロジェクトマネージャー）に近い動き方をする場合もある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験者に問われる「前提条件」の整理
 
@@ -105,6 +111,11 @@ SIer・事業会社でのプロジェクト管理補佐・営業・カスタマ�
 いずれも目安であり、企業の規模・業種・言語スキルの希少性によって大きく上下する。特にベトナム語・英語のバイリンガル要員は需要に対して供給が少ないため、同年次のエンジニア職より評価が高くなる傾向が見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

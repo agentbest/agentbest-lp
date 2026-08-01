@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["インサイドセールス", "年収600万"]
 pubDate: 2026-07-03
 slug: "inside-sales-salary-600"
+hub: "inside-sales"
 image: "/images/media/inside-sales-salary-600.png"
 related: ["inside-sales-future", "inside-sales-salary", "inside-sales-career-guide", "pmo-consultant-salary-600", "sap-consultant-salary-600"]
 ---
@@ -40,6 +41,11 @@ related: ["inside-sales-future", "inside-sales-salary", "inside-sales-career-gui
 この表からわかる通り、600万円を個人として超えようとすると、リーダー・シニア相当か、またはマネージャー相当のポジションに就く必要が生じやすい。担当レベルで600万円を超えるには、外資系またはインセンティブ設計が厚い企業・ポジションを選ぶことが現実的な条件になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -104,6 +110,11 @@ SalesforceやHubSpot等のCRMツールを活用し、「施策→データ→改
 数値実績の「量」ではなく、「どのようにチームや組織に貢献したか」というプロセスの言語化が、ポジション・報酬水準の引き上げに寄与した。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

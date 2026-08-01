@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["経営企画", "市場動向"]
 pubDate: 2026-07-04
 slug: "corporate-planning-market-trend"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-market-trend.png"
 related: ["corporate-planning-motivation", "corporate-planning-english", "corporate-planning-resume", "infra-engineer-market-trend", "data-engineer-market-trend"]
 ---
@@ -38,6 +39,11 @@ related: ["corporate-planning-motivation", "corporate-planning-english", "corpor
 競争倍率が「高」のポジションは、求人数が少ないうえに応募者の質も高い。コンサルや投資銀行出身者と同一選考に乗るケースも多く、差別化の論点を明確にしておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用企業別・採用ニーズの実態
 
@@ -101,6 +107,11 @@ related: ["corporate-planning-motivation", "corporate-planning-english", "corpor
 このような整理を経ることで、書類通過率が改善し、年収750〜850万円レンジの事業会社経営企画ポジションの複数内定を得るケースは珍しくない。ポイントは「経験量」ではなく「採用企業の課題文脈に合わせた経験の翻訳」である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

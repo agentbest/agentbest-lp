@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["カスタマーサクセス", "職務経歴書"]
 pubDate: 2026-07-03
 slug: "customer-success-resume"
+hub: "customer-success"
 image: "/images/media/customer-success-resume.png"
 related: ["customer-success-company-size", "customer-success-market-trend", "customer-success-career-guide", "pr-resume", "fas-consultant-resume"]
 ---
@@ -30,6 +31,11 @@ related: ["customer-success-company-size", "customer-success-market-trend", "cus
 これらが揃った職務経歴書は、採用担当者が「この人をどこに配置できるか」を即座にイメージできる構造になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の推奨フォーマット
 
@@ -135,6 +141,11 @@ CS職の経験を記述するとき、「何をしていたか」ではなく「
 完全に数値を出せない状況でも、「何かしら変化の方向と規模感が伝わる表現」に変換することで、採用担当者の評価可能性を高めることができる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

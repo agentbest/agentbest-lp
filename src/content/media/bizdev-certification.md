@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["事業開発", "資格"]
 pubDate: 2026-07-04
 slug: "bizdev-certification"
+hub: "bizdev"
 image: "/images/media/bizdev-certification.png"
 related: ["bizdev-company-size", "bizdev-resume", "bizdev-interview", "customer-success-certification", "freelance-consultant-certification"]
 ---
@@ -26,6 +27,11 @@ related: ["bizdev-company-size", "bizdev-resume", "bizdev-interview", "customer-
 - **社内での説明力**：M&A推進や投資判断など、社内外ステークホルダーへの説明場面で専門知識の裏付けとして活用できる
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-certification">無料で相談する</a>
+</aside>
 
 ## 評価されやすい資格・されにくい資格
 
@@ -80,6 +86,11 @@ related: ["bizdev-company-size", "bizdev-resume", "bizdev-interview", "customer-
 資格は「取得すること」が目的ではなく、「業務・キャリアの文脈で意味を持たせること」が本質である。面接・評価の場面では、資格名を示すよりも「その資格を通じて得た視点がどの業務でどう機能したか」を語れるかが問われる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

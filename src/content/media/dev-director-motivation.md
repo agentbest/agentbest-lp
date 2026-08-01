@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["開発ディレクター", "志望動機"]
 pubDate: 2026-07-04
 slug: "dev-director-motivation"
+hub: "dev-director"
 image: "/images/media/dev-director-motivation.png"
 related: ["dev-director-future", "dev-director-failure", "dev-director-salary-1000", "data-scientist-motivation", "scm-consultant-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["dev-director-future", "dev-director-failure", "dev-director-salary-10
 この職種はプロジェクトマネージャー（PM）やエンジニアリングマネージャー（EM）と役割が重複する部分もありますが、開発ディレクターはより事業戦略との接続を意識したポジションとして定義される傾向があります。志望動機でも、この「事業と開発の橋渡し」という視点が明示できているかどうかが評価の分岐点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の構成要素
 
@@ -98,6 +104,11 @@ NGパターンに共通しているのは、「候補者自身の都合」が前
 OSSコミュニティへの参加や個人開発の経験、技術書・カンファレンスへの関与など、本業以外での技術的な関心が伝わると、採用担当者の懸念払拭につながる場合があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

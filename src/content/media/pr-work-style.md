@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["広報／PR", "働き方"]
 pubDate: 2026-07-04
 slug: "pr-work-style"
+hub: "pr"
 image: "/images/media/pr-work-style.png"
 related: ["pr-in-30s", "pr-resume", "pr-career-guide", "product-manager-work-style", "risk-consultant-work-style"]
 ---
@@ -31,6 +32,11 @@ related: ["pr-in-30s", "pr-resume", "pr-career-guide", "product-manager-work-sty
 一方、社内広報やコンテンツ制作を主担当とするポジションは、定常業務の計画性が高く、比較的スケジュール管理がしやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-work-style">無料で相談する</a>
+</aside>
 
 ## 企業規模・業種別の働き方比較
 
@@ -98,6 +104,11 @@ IT・SaaS系企業では、週2〜3日のリモート勤務を標準とする体
 広報は、社内情報を整理して外部に届ける役割を担う一方、社内各部門の要望を一手に受ける窓口にもなりやすい。部門間の優先順位の調整、情報の取捨選択における判断負荷が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

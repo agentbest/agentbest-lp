@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["データエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "data-engineer-resume"
+hub: "data-engineer"
 image: "/images/media/data-engineer-resume.png"
 related: ["data-engineer-failure", "data-engineer-salary", "data-engineer-career-guide", "pmo-consultant-resume", "corporate-planning-resume"]
 ---
@@ -28,6 +29,11 @@ BigQuery、Airflow、dbt、Spark――ツール名を列挙するだけでは、
 「データ基盤を構築した」「パイプラインを改善した」という記述は、規模感・難易度・インパクトが伝わらない。ビジネス職の「売上を〇〇億円達成」に相当する定量表現をデータエンジニア的に置き換えることが必要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-resume">無料で相談する</a>
+</aside>
 
 ## 書類審査で評価される3つの軸
 
@@ -132,6 +138,11 @@ BigQuery、Airflow、dbt、Spark――ツール名を列挙するだけでは、
 上記はあくまで目安であり、業種・企業規模・スキルの希少性によって大きく変動する。職務経歴書でスケール感と設計力を示せるかどうかが、同年次での提示年収の分かれ目になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

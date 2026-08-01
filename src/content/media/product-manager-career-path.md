@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["プロダクトマネージャー", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "product-manager-career-path"
+hub: "product-manager"
 image: "/images/media/product-manager-career-path.png"
 related: ["product-manager-company-size", "product-manager-resume", "product-manager-work-style", "mlops-engineer-career-path", "finance-career-path"]
 ---
@@ -31,6 +32,11 @@ related: ["product-manager-company-size", "product-manager-resume", "product-man
 これらは排他的ではなく、30代でのポジションやスキルの蓄積によって複数のルートが重なることもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## キャリアステージの全体像
 
@@ -99,6 +105,11 @@ SaaS企業のVP of Productや上場スタートアップのCPOは、経営会議
 この事例における判断の分岐点は、「マネジメント経験の有無」だ。CPO・VP of Productを目指す場合、35歳までにPdMのマネジメント経験（採用・評価・1on1）を持っているかどうかは、その後の転職市場での評価に影響しやすい。A案はその経験を最短で積める選択肢として機能しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

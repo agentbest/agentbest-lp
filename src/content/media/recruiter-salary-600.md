@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["採用担当", "年収600万"]
 pubDate: 2026-07-04
 slug: "recruiter-salary-600"
+hub: "recruiter"
 image: "/images/media/recruiter-salary-600.png"
 related: ["recruiter-company-size", "recruiter-resume", "recruiter-how-to-use-agent", "data-consultant-salary-600", "security-engineer-salary-600"]
 ---
@@ -30,6 +31,11 @@ related: ["recruiter-company-size", "recruiter-resume", "recruiter-how-to-use-ag
 営業職であれば売上額、エンジニアであればプロダクトへの貢献が外部からも評価しやすい。一方、採用担当は「入社後の定着率」「採用した人材が組織にもたらした価値」を長期で追わなければ真の貢献が測りにくい。これが市場での価値評価の難しさにつながっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収600万円を実現しやすい職種・企業の類型
 
@@ -91,6 +97,11 @@ SaaS企業で採用担当として4年の経験。エンジニア採用を中心
 このパターンが示すのは、「実務の深化」「データと経営言語の接続」「チームへの関与」の3点を同時に積み上げることで、単なる採用担当から「採用設計者」への転換が可能になるという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

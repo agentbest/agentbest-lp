@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["セールスエンジニア／プリセールス", "年収相場"]
 pubDate: 2026-07-03
 slug: "presales-salary"
+hub: "presales"
 image: "/images/media/presales-salary.png"
 related: ["presales-career-path", "presales-salary-600", "presales-work-style", "post-consultant-salary", "data-scientist-salary"]
 ---
@@ -22,6 +23,11 @@ SE/プリセールスの年収は、概ね500〜1,200万円の範囲に分布す
 特にSaaS系スタートアップ〜中堅企業では、フレキシブルな報酬設計が多く、ベース給与にクォーター達成連動のボーナスや株式報酬（ストックオプション）が組み合わさるケースも少なくない。一方、大手外資系ITベンダーでは、基本給のレンジ自体が高く設定されており、グレード（バンド）によって年収帯が明確に区切られていることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年齢・経験別の年収レンジ
 
@@ -100,6 +106,11 @@ SE/プリセールスの報酬モデルは大きく分けて、「フルコミ�
 査定・転職交渉いずれにおいても、「自分が関与した商談のクローズ率」「POC（概念実証）完遂件数」「フリー→有料転換に貢献した案件数」など、定量的な指標を整理しておくことが重要である。多くのSE/プリセールスは実績を定性的にしか語れていないケースが多く、この点を改善するだけで評価の解像度が上がりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

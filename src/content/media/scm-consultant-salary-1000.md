@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["SCM・調達コンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "scm-consultant-salary-1000"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-salary-1000.png"
 related: ["scm-consultant-in-20s", "scm-consultant-future", "scm-consultant-from-scratch", "hr-consultant-salary-1000", "fas-consultant-salary-1000"]
 ---
@@ -29,6 +30,11 @@ SCM・調達領域のコンサルタントの報酬は、大きく「ファー�
 ※いずれも市場での相場観に基づく目安であり、企業規模・評価・保有スキルによって変動します。
 
 上記を見ると、外資系大手ではシニアコンサルタント相当でほぼ年収1,000万円に届く一方、国内独立系や事業会社内機能ではマネージャー昇格が実質的な分岐点になりやすい傾向があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円到達に必要な「3つの条件」
 
@@ -85,6 +91,11 @@ ERP（とくにSAP・Oracle SCM）の実装経験を持つITコンサルタン�
 - **プロジェクトの幅を広げすぎて専門性が薄まる**：「なんでもできる」ポジションは評価されにくく、年収交渉の際に強みの言語化が難しくなります。
 - **上流設計への移行タイミングを逃す**：PMOやデータ分析サポートの役割が長期化すると、提言型の経験が積み重なりにくくなります。
 - **所属ファームの報酬テーブルの上限に当たる**：特定のファームでの昇格より、報酬テーブルの高いファームへの転職のほうが年収改善の効果が大きい場合があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

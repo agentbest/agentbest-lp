@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["セキュリティコンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "security-consultant-skills"
+hub: "security-consultant"
 image: "/images/media/security-consultant-skills.png"
 related: ["security-consultant-future", "security-consultant-work-style", "security-consultant-salary", "data-consultant-skills", "business-planning-skills"]
 ---
@@ -28,6 +29,11 @@ related: ["security-consultant-future", "security-consultant-work-style", "secur
 第一層なしには実務が成立しませんが、第三層まで習熟することで希少性が生まれ、年収レンジや担当案件の質に影響しやすくなります。以下では各層を詳しく解説します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-skills">無料で相談する</a>
+</aside>
 
 ## 第一層：技術的スキル（市場参入の必要条件）
 
@@ -104,6 +110,11 @@ NIST CSF（サイバーセキュリティフレームワーク）やISO/IEC 2700
 このパターンでは、転換後3〜4年で年収700万円台に到達する例が一定数見られます（ただし個人差・企業規模による差が大きい）。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["PMO", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "pmo-company-size"
+hub: "pmo"
 image: "/images/media/pmo-company-size.png"
 related: ["pmo-career-path", "pmo-failure", "pmo-salary-1000", "backend-engineer-company-size", "scm-consultant-company-size"]
 ---
@@ -22,6 +23,11 @@ PMOとしてのキャリアを考える際、大手企業とスタートアッ�
 スタートアップのPMOは、それとは大きく異なる。PMOという専任ポジションが設置されている時点で、多くの場合その組織は「ようやくプロジェクト管理の体制を作ろうとしている段階」にある。つまり、標準化すべきプロセス自体をゼロから設計することが期待される。プロダクトロードマップの管理からベンダー交渉の支援まで、職責の境界が曖昧なまま動くことを求められるケースも多い。
 
 どちらが優れているという話ではなく、どちらを選ぶかによって「鍛えられる能力の種類」が変わる、という認識が重要だ。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-company-size">キャリアを相談する</a>
+</aside>
 
 ## 主要項目の比較
 
@@ -68,6 +74,11 @@ PMOとしてのキャリアを考える際、大手企業とスタートアッ�
 スタートアップ移行後は、プロジェクト管理標準の策定に加え、四半期ごとのOKR設計への参画、採用計画と開発ロードマップの連動管理まで担当範囲が広がった。当初は職責の曖昧さに戸惑いを感じたものの、半年を過ぎた頃から「会社の意思決定に自分の仕事が直結している」という実感が生まれたと話している。
 
 一方で課題もあった。大手時代は当然のように整っていた稟議フロー・情報セキュリティポリシー・ベンダー管理の仕組みが存在しておらず、PMOの本来業務と並行してこれらを整備する必要があった。スタートアップへの移行を検討する場合、「何がないか」を事前に確認する視点が重要になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

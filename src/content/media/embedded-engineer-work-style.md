@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["組み込みエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-work-style"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-work-style.png"
 related: ["embedded-engineer-career-guide", "embedded-engineer-salary", "embedded-engineer-in-20s", "pmo-consultant-work-style", "mlops-engineer-work-style"]
 ---
@@ -31,6 +32,11 @@ related: ["embedded-engineer-career-guide", "embedded-engineer-salary", "embedde
 車載（ISO 26262）・医療（IEC 62304）・産業機器（IEC 61508）など、機能安全規格への対応が求められるドメインでは、ドキュメントレビューや検証作業のボリュームが大きくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度のリアル：フェーズと業種で大きく変わる
 
@@ -108,6 +114,11 @@ Web系やSaaS系と比較した場合、組み込みエンジニアはリモー�
 このように、同じ職種・同じ会社でも、開発フェーズによって週単位の負荷が変動するのが組み込みエンジニアの働き方の特徴です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

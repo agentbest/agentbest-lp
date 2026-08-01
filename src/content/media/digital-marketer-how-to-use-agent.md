@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["デジタルマーケター", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "digital-marketer-how-to-use-agent"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-how-to-use-agent.png"
 related: ["digital-marketer-salary-600", "digital-marketer-company-size", "digital-marketer-career-guide", "salesforce-consultant-how-to-use-agent", "engineering-manager-how-to-use-agent"]
 ---
@@ -26,6 +27,11 @@ related: ["digital-marketer-salary-600", "digital-marketer-company-size", "digit
 ### 年収交渉の代理交渉機能
 
 デジタルマーケターは担当領域・KPI設計・組織での立ち位置によって年収レンジの幅が大きい。自己応募では希望年収の提示が直接企業側に伝わるため、交渉の余地が生まれにくい。エージェントが仲介する場合、候補者のポータブルスキルと市場価値を客観的な根拠として提示しながら交渉できるため、内定後の年収水準が引き上がりやすい傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## デジタルマーケターの年収レンジと市場感
 
@@ -75,6 +81,11 @@ related: ["digital-marketer-salary-600", "digital-marketer-company-size", "digit
 4. **面接準備のフィードバック**：企業が重視する指標やカルチャーを踏まえた準備サポートを行う
 
 このように、エージェントは書類と面接の「変換効率」を高める機能を持っている。経験のある担当者のサポートがあるかどうかで、同じ候補者でも選考結果に差が生じやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

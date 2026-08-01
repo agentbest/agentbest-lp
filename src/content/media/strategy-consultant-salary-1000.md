@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["戦略コンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-salary-1000"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-salary-1000.png"
 related: ["strategy-consultant-market-trend", "strategy-consultant-from-scratch", "strategy-consultant-interview", "pr-salary-1000", "it-architect-salary-1000"]
 ---
@@ -36,6 +37,11 @@ related: ["strategy-consultant-market-trend", "strategy-consultant-from-scratch"
 総合系ファームの場合、同職位で100〜200万円程度低くなる傾向がある一方、案件の安定性や研修制度の充実といった別の要素が考慮されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円に到達する典型的なキャリアパス
 
@@ -109,6 +115,11 @@ MBAへの投資（学費・機会費用）を含めて考えると、純粋な�
 前職のドメイン知識を出発点にしながら、コンサルティングの思考フレームを短期間で習得した点が評価につながりやすかった。また、クライアントとの関係構築において前職での折衝経験が機能し、プロジェクト満足度の向上に貢献した。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

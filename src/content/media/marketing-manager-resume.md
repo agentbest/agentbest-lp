@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["マーケティングマネージャー", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "marketing-manager-resume"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-resume.png"
 related: ["marketing-manager-certification", "marketing-manager-market-trend", "marketing-manager-career-guide", "ml-engineer-resume", "customer-success-resume"]
 ---
@@ -28,6 +29,11 @@ related: ["marketing-manager-certification", "marketing-manager-market-trend", "
 これらが職務経歴書の中に「構造として」読み取れないと、スキルが高くても書類段階で判断が難しくなる。特にSaaS・IT企業はPMF段階やグロース戦略の局面によって求めるマーケターのタイプが異なるため、自分がどのフェーズで何を動かしてきたかを明示することが重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の基本構成と各セクションの役割
 
@@ -124,6 +130,11 @@ related: ["marketing-manager-certification", "marketing-manager-market-trend", "
 MA・CRM・BIツールの羅列は補助情報として有用だが、これがメインになると「ツールオペレーター」に見えるリスクがある。あくまで戦略・意思決定の裏付けとして機能させる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["プラットフォームエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "platform-engineer-future"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-future.png"
 related: ["platform-engineer-salary-1000", "platform-engineer-english", "platform-engineer-salary-600", "sap-consultant-future", "bridge-se-future"]
 ---
@@ -16,6 +17,11 @@ related: ["platform-engineer-salary-1000", "platform-engineer-english", "platfor
 プラットフォームエンジニアという職種の将来性は、総じて高い水準で維持される見通しにある。ただし「何もしなくても安泰」という意味ではない。AI・自動化の進展によってコモディティ化する領域と、逆に人材希少性が高まる領域とが明確に分かれつつある。本記事では、その構造的な変化を整理したうえで、現役のプラットフォームエンジニアおよびキャリアチェンジを検討する読者が、今後の市場において競争力を維持・向上させるために何を考えるべきかを論じる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-future">無料で相談する</a>
+</aside>
 
 ## プラットフォームエンジニアとは何か：改めて定義を確認する
 
@@ -115,6 +121,11 @@ Kubernetes運用やIDP設計を既存業務として持つ企業への転職。�
 この事例が示すように、プラットフォームエンジニアへのキャリアシフトは複数の経路があり、どれが適切かは現職の環境・家庭の事情・リスク許容度によって異なる。一般論での優劣はつけにくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 生き残るプラットフォームエンジニアの条件
 

@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["フリーコンサルタント", "転職ガイド"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-career-guide"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-career-guide.png"
 related: ["freelance-consultant-salary", "freelance-consultant-interview", "freelance-consultant-from-scratch", "inside-sales-career-guide", "uiux-designer-career-guide"]
 ---
@@ -40,6 +41,11 @@ related: ["freelance-consultant-salary", "freelance-consultant-interview", "free
 この比較が示すとおり、フリーコンサルタントへの移行は「収入増」という単純な話ではなく、リスクとリターンの構造が根本的に変わるキャリアチェンジである。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値の評価軸：何が単価を決めるか
 
@@ -108,6 +114,11 @@ related: ["freelance-consultant-salary", "freelance-consultant-interview", "free
 このパターンから読み取れるのは、「ドメイン（業界）×ツール×フェーズ」の三層で経験を整理すると、フリーランス市場における訴求力が高まりやすいという構造だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

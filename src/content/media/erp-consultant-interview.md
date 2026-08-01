@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["ERPコンサルタント", "面接対策"]
 pubDate: 2026-07-05
 slug: "erp-consultant-interview"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-interview.png"
 related: ["erp-consultant-salary-600", "erp-consultant-in-30s", "erp-consultant-certification", "devops-engineer-interview", "pmo-interview"]
 ---
@@ -34,6 +35,11 @@ ERPコンサルタントの採用面接では、おおむね以下の三軸で�
 大手システムインテグレーターや外資系コンサルティングファームでは、方法論（実装フレームワーク）への習熟度と、大規模プロジェクトにおけるマルチベンダー調整経験が重視されやすい傾向があります。一方、独立系のERPベンダー直系や中堅ファームでは、特定パッケージへの深い機能知識と、少人数チームでの自走能力を優先する場面が多くなります。受ける先の組織構造を事前に調べ、どちらの軸を前面に出すかを調整することが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問とその回答構造
 
@@ -102,6 +108,11 @@ ERPコンサルタントはプロジェクトの中立的な推進者である�
 技術的な深さと同時に、業種・業務ドメインへの理解も重要な差別化要素になります。製造業、流通業、サービス業など、自分が経験した業種の特性をビジネス言語で説明できる準備をしておくと、面接の後半で業務寄りの話題になったときに対応しやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

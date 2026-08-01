@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["会計・財務コンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "fas-consultant-career-path"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-career-path.png"
 related: ["fas-consultant-salary", "fas-consultant-salary-600", "fas-consultant-in-30s", "freelance-consultant-career-path", "corporate-it-career-path"]
 ---
@@ -18,6 +19,11 @@ related: ["fas-consultant-salary", "fas-consultant-salary-600", "fas-consultant-
 会計・財務コンサルタントと一口に言っても、その実態は担当領域によって大きく異なる。財務DDやバリュエーションを中心とするM&A周辺の業務、管理会計・コスト構造の最適化を扱う経営管理支援、CFO機能の構築やIRの戦略立案を担うアドバイザリー業務、さらにIFRS導入や内部統制整備といったテクニカル領域まで、専門分化が進んでいる。
 
 この分化は、キャリアパスを考える上で重要な出発点になる。20代後半から30代前半にかけて特定領域で経験を積むほど、その後の選択肢が狭まると同時に深みと希少性が増す。「なんでもできる」状態より「これなら任せられる」という専門性のほうが、転職市場での評価が安定しやすい傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代における主要なキャリアパスの分岐
 
@@ -78,6 +84,11 @@ M&A財務DDやバリュエーションの経験が深い場合、プライベー
 判断の軸としたのは「自分で意思決定に関与したいか、分析支援にとどまるか」というキャリア観の違いだった。「意思決定の当事者になりたい」という志向が明確であったため、ポートフォリオ企業のバリューアップを実行する役割への転身を選択。事業会社側でのPMI経験と財務管理の実装経験を積み、その後独立して中堅企業向けのM&Aアドバイザリーを手がけるキャリアを形成した。
 
 この型に共通するのは、コンサルフェーズでの経験を「出口の逆算」で活用している点だ。どのプロジェクト・クライアントに関わるかを選ぶ段階から、次のキャリアの実績形成を意識した動き方が評価されやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

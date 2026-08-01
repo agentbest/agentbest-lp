@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["人事", "英語力"]
 pubDate: 2026-07-04
 slug: "hrbp-english"
+hub: "hrbp"
 image: "/images/media/hrbp-english.png"
 related: ["hrbp-skills", "hrbp-motivation", "hrbp-work-style", "customer-success-english", "freelance-consultant-english"]
 ---
@@ -32,6 +33,11 @@ related: ["hrbp-skills", "hrbp-motivation", "hrbp-work-style", "customer-success
 逆に、国内完結型の中小・中堅企業や採用オペレーション・給与計算に特化したポジションでは、英語の出番はほぼありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-english">キャリアを相談する</a>
+</aside>
 
 ## 求人への影響：英語力が開く求人の「幅」と「層」
 
@@ -120,6 +126,11 @@ HRBP（HRビジネスパートナー）は、近年最も需要が高まって�
 英語を「現職で使える仕組みを作る」ことが最も効率的な投資です。海外子会社との定例会議を担当する、外国籍社員のオンボーディングを担う、英語での求人票作成を手がける——こうした機会を現職で確保することが、転職市場での英語経験の証明にもなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

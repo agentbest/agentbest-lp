@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["プロダクトマネージャー", "年収600万"]
 pubDate: 2026-07-04
 slug: "product-manager-salary-600"
+hub: "product-manager"
 image: "/images/media/product-manager-salary-600.png"
 related: ["product-manager-salary-1000", "product-manager-salary", "product-manager-from-scratch", "ml-engineer-salary-600", "network-engineer-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["product-manager-salary-1000", "product-manager-salary", "product-mana
 この表から読み取れるのは、600万円はPdM経験2〜4年の中間に位置し、「単独でプロダクトを動かせる」レベルが問われ始める水準だということだ。換言すると、**600万円を越えられない状態は、担当領域の範囲・事業インパクトの大きさ・意思決定の深さのいずれかが不十分である可能性が高い**。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい3つの構造的要因
 
@@ -106,6 +112,11 @@ PdMとしての専門性を深めることと並行して、「グループPM・
 **結果**：複数社から選考を受け、自社のユーザー層と近いBtoB SaaS企業からオファーを獲得。現職との年収差＋140万円。評価のポイントは「ドメイン知識×数値で語れる実績×意思決定の根拠の明確さ」だった。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

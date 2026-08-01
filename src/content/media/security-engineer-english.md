@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["セキュリティエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "security-engineer-english"
+hub: "security-engineer"
 image: "/images/media/security-engineer-english.png"
 related: ["security-engineer-career-path", "security-engineer-company-size", "security-engineer-work-style", "presales-english", "cto-vpoe-english"]
 ---
@@ -26,6 +27,11 @@ related: ["security-engineer-career-path", "security-engineer-company-size", "se
 加えて、セキュリティに関連する国際的な資格（CISSP、CEH、CompTIA Security+など）は英語を主言語として構成されており、資格取得・更新の過程で英語に継続的に触れる環境が整っています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力の水準別に見た求人の特徴
 
@@ -91,6 +97,11 @@ CompTIA Security+やCISSPの学習は、英語の試験対策と専門知識の�
 DEF CONやBlack Hatの発表資料、セキュリティ系のポッドキャスト（Darknetdiaries等）、GitHubのセキュリティツールのIssueなど、英語圏のコミュニティに接触することで、技術特有の口語表現や略語への習熟が進みます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

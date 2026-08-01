@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["開発ディレクター", "30代転職"]
 pubDate: 2026-07-04
 slug: "dev-director-in-30s"
+hub: "dev-director"
 image: "/images/media/dev-director-in-30s.png"
 related: ["dev-director-salary-600", "dev-director-career-guide", "dev-director-salary", "data-consultant-in-30s", "strategy-consultant-in-30s"]
 ---
@@ -30,6 +31,11 @@ related: ["dev-director-salary-600", "dev-director-career-guide", "dev-director-
 求人票で「開発ディレクター」と記載されていても、実態は上記のどの類型に近いかを見極めないまま応募すると、選考でのミスマッチが生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代が即戦力採用に求められる要素
 
@@ -94,6 +100,11 @@ related: ["dev-director-salary-600", "dev-director-career-guide", "dev-director-
 IT・SaaS領域では、技術的な素地を持ちながらビジネス側との連携経験がある候補者への評価が高まっている傾向がある。特にプロダクトグロースへの貢献を数値で示せる場合、交渉余地が広がりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

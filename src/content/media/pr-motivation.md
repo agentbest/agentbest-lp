@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["広報／PR", "志望動機"]
 pubDate: 2026-07-04
 slug: "pr-motivation"
+hub: "pr"
 image: "/images/media/pr-motivation.png"
 related: ["pr-in-20s", "pr-career-guide", "pr-interview", "customer-success-motivation", "saas-sales-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["pr-in-20s", "pr-career-guide", "pr-interview", "customer-success-moti
 これら3軸が志望動機に滲み出ているかどうかが、選考通過率に影響しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の4要素
 
@@ -103,6 +109,11 @@ related: ["pr-in-20s", "pr-career-guide", "pr-interview", "customer-success-moti
 「広報の仕事を通じて幅広いスキルを身につけたい」という動機は、採用側の視点では「コストをかけて育てる投資対象」という印象になりやすい。特に即戦力層を求めるポジションでは、自己成長の話は最小限にし、貢献の話を前面に出す構成が適切である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

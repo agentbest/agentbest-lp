@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["開発ディレクター", "年収1000万"]
 pubDate: 2026-07-04
 slug: "dev-director-salary-1000"
+hub: "dev-director"
 image: "/images/media/dev-director-salary-1000.png"
 related: ["dev-director-market-trend", "dev-director-resume", "dev-director-from-scratch", "data-consultant-salary-1000", "corporate-it-salary-1000"]
 ---
@@ -34,6 +35,11 @@ related: ["dev-director-market-trend", "dev-director-resume", "dev-director-from
 この表が示すように、年収1,000万円はすべての開発ディレクターに標準的に開かれているわけではなく、特定の環境・役割レベルに絞られる傾向がある。とりわけ「開発の実行管理」に留まるポジションでは、業界や企業規模を問わず上限が見えやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの構造
 
@@ -95,6 +101,11 @@ SaaS系企業にて開発ディレクター（マネージャー相当）とし�
 年収1,000万円を提示している求人は、裏を返せば相応の責任範囲と成果コミットを求めている。報酬の水準と職務定義のバランスを丁寧に確認することが、入社後のミスマッチを防ぐうえで重要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

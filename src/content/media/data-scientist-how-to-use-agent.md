@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["データサイエンティスト", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "data-scientist-how-to-use-agent"
+hub: "data-scientist"
 image: "/images/media/data-scientist-how-to-use-agent.png"
 related: ["data-scientist-motivation", "data-scientist-english", "data-scientist-from-scratch", "solution-architect-how-to-use-agent", "bizdev-how-to-use-agent"]
 ---
@@ -45,6 +46,11 @@ related: ["data-scientist-motivation", "data-scientist-english", "data-scientist
 この幅の大きさは、交渉余地の大きさとも言い換えられる。適切な市場情報なしに希望年収を提示すると、本来交渉できたはずの水準を下回るオファーを受け入れるリスクがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを使うべき理由
 
@@ -96,6 +102,11 @@ IT・テック系全般を扱うエージェントとデータ・AI領域に特�
 **結果の変化：** 書類通過率が改善し、最終的に希望業界の事業会社・分析チームへの転職が成立。年収は前職比で約15%増のオファーを受け入れた。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

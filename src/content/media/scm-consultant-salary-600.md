@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["SCM・調達コンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "scm-consultant-salary-600"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-salary-600.png"
 related: ["scm-consultant-career-path", "scm-consultant-from-scratch", "scm-consultant-company-size", "network-engineer-salary-600", "ai-engineer-salary-600"]
 ---
@@ -30,6 +31,11 @@ SCM・調達領域のコンサルタントにおいて、年収600万円とい�
 この変化に対応できないと、実務能力は十分にあっても昇給・昇格の審査で停滞しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁を生む要素の構造
 
@@ -108,6 +114,11 @@ SCM・調達コンサルタントは、同業他社のコンサルタントと�
 このケースが示唆するのは、「経験を積む」ことと「経験を評価可能な形に変換する」ことは別の作業であるという点だ。後者を意識的に行わない限り、経験年数が増えても報酬交渉の論拠は強化されにくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

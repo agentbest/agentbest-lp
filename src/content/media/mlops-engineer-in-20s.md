@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["MLOpsエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-in-20s"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-in-20s.png"
 related: ["mlops-engineer-how-to-use-agent", "mlops-engineer-motivation", "mlops-engineer-certification", "ma-advisor-in-20s", "devops-engineer-in-20s"]
 ---
@@ -18,6 +19,11 @@ MLOpsエンジニアは、機械学習モデルの開発から本番運用まで
 本記事では、MLOpsエンジニアへの転職を検討している20代が把握しておくべき市場の実態——採用側が何を評価しているか、どのような経歴・スキルが代替評価されるか、どの企業属性を狙うべきか——を構造的に整理します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## MLOpsエンジニアとは何か：職種の定義と実務範囲
 
@@ -120,6 +126,11 @@ KubernetesやTerraformの実務経験を持つSRE・インフラエンジニア�
 大手コンサルの場合、クライアントのMLシステム構築を支援するポジションが存在します。プロジェクトベースで多様な業種のMLインフラに触れられるため、スキルの幅を広げたい20代に合う場合があります。ただし、コンサルティングスキル自体も求められる点は留意が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

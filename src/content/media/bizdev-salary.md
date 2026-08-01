@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["事業開発", "年収相場"]
 pubDate: 2026-07-04
 slug: "bizdev-salary"
+hub: "bizdev"
 image: "/images/media/bizdev-salary.png"
 related: ["bizdev-failure", "bizdev-certification", "bizdev-in-30s", "infra-engineer-salary", "corporate-it-salary"]
 ---
@@ -35,6 +36,11 @@ related: ["bizdev-failure", "bizdev-certification", "bizdev-in-30s", "infra-engi
 固定給だけで比較すると大手・上場企業が安定して高い傾向があります。一方で成長期スタートアップはストックオプション（SO）の評価額次第でトータルリターンが大きく変動するため、固定給の数字のみで判断するのは適切ではありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 事業開発の年収が高くなりやすい条件
 
@@ -110,6 +116,11 @@ BizDev Leadポジションのオファーで年収900万円（固定）＋スト
 - **インセンティブの設計**：成果連動型の変動給の比率が高いほど、パフォーマンスによる年収のぶれ幅が大きくなります
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

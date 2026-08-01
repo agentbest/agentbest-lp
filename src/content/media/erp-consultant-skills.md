@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["ERPコンサルタント", "必要スキル"]
 pubDate: 2026-07-05
 slug: "erp-consultant-skills"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-skills.png"
 related: ["erp-consultant-certification", "erp-consultant-future", "erp-consultant-how-to-use-agent", "fullstack-engineer-skills", "corporate-it-skills"]
 ---
@@ -26,6 +27,11 @@ ERPコンサルタントのスキルは、大きく三層に分けて理解す�
 この三層が均衡していることが理想だが、キャリアの初期段階では特定の製品知識から入ることが多い。問題はその後にあり、製品知識のみに依存したキャリア形成は、パッケージのバージョン変更やクラウド移行による需要変動の影響を受けやすくなる。三層を意識的に積み上げることが、環境変化への耐性につながる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル別の市場価値への影響度
 
@@ -102,6 +108,11 @@ Oracle NetSuiteやMicrosoft Dynamics 365をはじめとするクラウドERPの�
 資格単体での年収への影響は限定的であることが多く、実務経験との組み合わせで初めて評価される傾向が強い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

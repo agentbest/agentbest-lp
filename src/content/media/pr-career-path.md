@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["広報／PR", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "pr-career-path"
+hub: "pr"
 image: "/images/media/pr-career-path.png"
 related: ["pr-salary-600", "pr-from-scratch", "pr-interview", "embedded-engineer-career-path", "cloud-engineer-career-path"]
 ---
@@ -24,6 +25,11 @@ related: ["pr-salary-600", "pr-from-scratch", "pr-interview", "embedded-engineer
 キャリアを整理する上でまず有効なのは、自分のスキルを「メディア接点型」「コンテンツ・ストーリー型」「組織コミュニケーション型」「マーケット連携型」の4軸に分解することだ。どの軸に比重が置かれているかによって、次の選択肢の優先順位が変わってくる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代広報パーソンの典型的な分岐点
 
@@ -98,6 +104,11 @@ PR会社への移籍は、特定の業界知識や人脈を活かしながら報
 - **マネジメントと採用の経験**：PRチームをゼロから組成した経験は、スタートアップや成長企業での需要が高い
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

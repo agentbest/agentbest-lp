@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["業務コンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "business-consultant-failure"
+hub: "business-consultant"
 image: "/images/media/business-consultant-failure.png"
 related: ["business-consultant-market-trend", "business-consultant-career-guide", "business-consultant-salary", "sap-consultant-failure", "it-consultant-failure"]
 ---
@@ -61,6 +62,11 @@ related: ["business-consultant-market-trend", "business-consultant-career-guide"
 
 ---
 
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
+
 ## ケーススタディ：転職後に「こんなはずではなかった」と感じた典型例
 
 **Aさんのケース（30代前半・業務コンサル5年→事業会社のDX推進部門へ）**
@@ -101,6 +107,11 @@ Aさんの失敗は、入社前の面接で「DX推進部門の具体的な直�
 - [ ] 社内異動・専門性の深化・マネジメント登用の実績を把握したか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

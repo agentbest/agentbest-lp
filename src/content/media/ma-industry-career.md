@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["M&A仲介", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "ma-industry-career"
+hub: "ma-industry"
 image: "/images/media/ma-industry-career.png"
 related: ["ma-industry-guide", "ma-industry-trend", "ma-industry-salary", "game-industry-career", "healthtech-industry-career"]
 ---
@@ -28,6 +29,11 @@ M&A仲介は、主に中堅・中小企業のオーナー案件を取り扱う�
 一方、アドバイザリー型では、チームでの分業が基本となり、財務モデリング・デューデリジェンスの調整・契約交渉等が機能別に担われる傾向がある。同じ「M&A経験」でも、担当した工程の深さによって転職市場での評価は変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年次別に見るキャリアの積み方
 
@@ -104,6 +110,11 @@ M&A仲介を経た後のキャリアパスは複数あり、それぞれに求�
 この型が示すように、M&A仲介からPEへの転換は、技術的なギャップを意識的に埋める準備期間を設けることで実現しやすくなる。一方で、準備なく「仲介経験があるから通用するはず」という認識で動くと、選考で苦労しやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-career">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

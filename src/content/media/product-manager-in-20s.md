@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["プロダクトマネージャー", "20代転職"]
 pubDate: 2026-07-04
 slug: "product-manager-in-20s"
+hub: "product-manager"
 image: "/images/media/product-manager-in-20s.png"
 related: ["product-manager-from-scratch", "product-manager-salary", "product-manager-career-path", "data-engineer-in-20s", "web-marketer-in-20s"]
 ---
@@ -18,6 +19,11 @@ related: ["product-manager-from-scratch", "product-manager-salary", "product-man
 本記事では、20代におけるPdM転職の構造的な特徴、ポテンシャル採用が設計されている企業の見極め方、そして選考で評価されやすい準備の方向性を実務的な観点から整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-in-20s">キャリアを相談する</a>
+</aside>
 
 ## PdMという職種の採用構造を理解する
 
@@ -113,6 +119,11 @@ PdMの選考では、定番のテーマに対して構造的に答える練習�
 - **失敗した意思決定とその学び**：経験が浅い場合でも、判断のプロセスと振り返りを語れるかが見られる
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

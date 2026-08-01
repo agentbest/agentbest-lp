@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["Webマーケター", "市場動向"]
 pubDate: 2026-07-04
 slug: "web-marketer-market-trend"
+hub: "web-marketer"
 image: "/images/media/web-marketer-market-trend.png"
 related: ["web-marketer-career-guide", "web-marketer-motivation", "web-marketer-work-style", "scm-consultant-market-trend", "platform-engineer-market-trend"]
 ---
@@ -24,6 +25,11 @@ Webマーケターの需要が高まった背景には、企業のデジタル�
 一方、中小企業・スタートアップではマーケター不足が続いており、実務経験が浅くても成長環境として受け入れるポジションも依然として存在する。市場の二極化が進んでいる、というのが正確な見立てといえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 領域別の需給バランス
 
@@ -109,6 +115,11 @@ SEOとコンテンツ領域では、生成AIを活用した制作フローが浸
 マーケティングと営業・プロダクトの境界が曖昧になっている企業が増えている。特にB2B SaaS領域では、マーケターがPLG（プロダクト主導型グロース）の観点でプロダクトチームと連携するケースも増えており、「施策の実行者」以上の役割が期待される傾向が強まっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

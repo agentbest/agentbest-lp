@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["ERPコンサルタント", "将来性"]
 pubDate: 2026-07-05
 slug: "erp-consultant-future"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-future.png"
 related: ["erp-consultant-career-guide", "erp-consultant-salary-600", "erp-consultant-work-style", "big4-consultant-future", "recruiter-future"]
 ---
@@ -26,6 +27,11 @@ ERP（Enterprise Resource Planning）は、会計・人事・調達・製造・�
 重要なのは、ERP導入・移行プロジェクトが単なるシステム入替にとどまらず、業務プロセスの再設計を伴う経営変革プロジェクトとして位置づけられる傾向が強まっている点だ。この変化が、コンサルタントとしての付加価値をどこに置くかを左右している。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-future">無料で相談する</a>
+</aside>
 
 ## AIがERPコンサルタントの仕事に与える影響
 
@@ -94,6 +100,11 @@ ERPは汎用ツールであるがゆえに、「自社の業務にどう当て�
 ERPコンサルタントの年収はキャリアステージ・所属組織の規模・専門性によって幅がある。独立系の中堅コンサルティングファーム勤務であれば、コンサルタント層で600〜900万円程度、シニアコンサルタント〜マネージャー層で900〜1,400万円程度が一つの参考レンジとなりやすい。フリーランス・独立の場合はプロジェクト単価次第でさらに幅が広がる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

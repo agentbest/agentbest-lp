@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["SRE", "将来性"]
 pubDate: 2026-07-04
 slug: "sre-future"
+hub: "sre"
 image: "/images/media/sre-future.png"
 related: ["sre-market-trend", "sre-salary-1000", "sre-english", "corporate-it-future", "fullstack-engineer-future"]
 ---
@@ -18,6 +19,11 @@ SRE（Site Reliability Engineering）という職種の将来性を問う声は�
 その理由は、SREの価値が「手作業のオペレーション」ではなく「信頼性の設計と判断」にあるからだ。本稿では、AI時代におけるSREの職種としての構造的な位置づけを整理し、今後も市場価値を維持・向上させるために必要な条件を実務的な視点から論じる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-future">キャリアを相談する</a>
+</aside>
 
 ## SREという職種が担う役割の本質
 
@@ -99,6 +105,11 @@ AIや自動化ツールを使いこなすだけでなく、どの業務を自動
 シニアレベルに達したSREには、いくつかの方向性が開かれている。Staff SRE・Principal SREとして技術的な専門性を深める方向、エンジニアリングマネージャーとして組織管理に移行する方向、あるいは信頼性コンサルタント的な役割でプロダクト横断的に貢献する方向だ。どの方向を選ぶかは個人の志向によるが、いずれにおいても「信頼性を組織の能力として定着させる」という視点が共通して求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["社内SE", "年収600万"]
 pubDate: 2026-07-04
 slug: "corporate-it-salary-600"
+hub: "corporate-it"
 image: "/images/media/corporate-it-salary-600.png"
 related: ["corporate-it-market-trend", "corporate-it-salary-1000", "corporate-it-interview", "ml-engineer-salary-600", "engineering-manager-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["corporate-it-market-trend", "corporate-it-salary-1000", "corporate-it
 つまり年収600万円の壁は、個人の能力よりも先に「在籍企業の賃金構造」に依存している部分が大きいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円が壁になる3つの構造的要因
 
@@ -105,6 +111,11 @@ related: ["corporate-it-market-trend", "corporate-it-salary-1000", "corporate-it
 このケースで重要なのは、単に資格を取ったことではなく、「社内で実績を作りながら市場での言語化を並行して進めた」点です。転職先での評価は、資格よりも「プロジェクトをどう主導したか」という具体性にありました。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

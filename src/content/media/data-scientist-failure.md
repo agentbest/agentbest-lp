@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["データサイエンティスト", "転職失敗"]
 pubDate: 2026-07-04
 slug: "data-scientist-failure"
+hub: "data-scientist"
 image: "/images/media/data-scientist-failure.png"
 related: ["data-scientist-certification", "data-scientist-salary-1000", "data-scientist-salary", "security-engineer-failure", "network-engineer-failure"]
 ---
@@ -22,6 +23,11 @@ related: ["data-scientist-certification", "data-scientist-salary-1000", "data-sc
 この構造的な曖昧さがあるために、候補者側の認識と採用側の期待値がすり合わないまま入社に至るケースが相対的に多くなる傾向があります。失敗パターンを把握するには、「スキル」「企業・ポジション選定」「条件交渉」の3フェーズに分けて考えるとわかりやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## フェーズ別の主な失敗パターン
 
@@ -107,6 +113,11 @@ IT系事業会社でBIを3年担当した30代前半の方が、「よりMLに�
 この失敗が起きた背景には、面接時に「現状の業務内容」と「将来の計画」が混在した説明を受けていたにもかかわらず、両者を区別せず確認を省いたことがあります。「現在、MLを活用した機能が本番運用されているか」「直近6ヶ月間のチームの主な取り組みは何か」を問うだけで、実態に近い情報を得られた可能性があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-failure">キャリアを相談する</a>
+</aside>
 
 ## 転職前チェックリスト
 

@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["Salesforceコンサルタント", "職務経歴書"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-resume"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-resume.png"
 related: ["salesforce-consultant-failure", "salesforce-consultant-career-path", "salesforce-consultant-salary", "inside-sales-resume", "db-engineer-resume"]
 ---
@@ -35,6 +36,11 @@ Salesforceコンサルタントの職務経歴書は、**「資格×プロジェ
 実務経験が豊富なほど、プロジェクトの羅列になりやすい傾向があります。一方、経験が浅い場合は「Salesforceの設定・カスタマイズを担当」といった抽象的な記述にとどまりがちです。いずれも採用担当者の「具体的に何ができる人か」という問いに答えられていない状態です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-resume">無料で相談する</a>
+</aside>
 
 ## 書類通過率を高める構成の考え方
 
@@ -141,6 +147,11 @@ Salesforceコンサルタントの資格は種別により評価の重みが異�
 この整理により、読み手が「何ができる人か」を3分以内に把握できる構成になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

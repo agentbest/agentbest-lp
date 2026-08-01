@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["DevOpsエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "devops-engineer-resume"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-resume.png"
 related: ["devops-engineer-certification", "devops-engineer-failure", "devops-engineer-company-size", "hr-consultant-resume", "big4-consultant-resume"]
 ---
@@ -30,6 +31,11 @@ DevOpsエンジニアという職種は、インフラ・CI/CD・セキュリテ
 この3点を構造的に伝える書類設計が、通過率を左右する本質的な要因となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用担当者が最初に見る「冒頭サマリー」の設計
 
@@ -112,6 +118,11 @@ DevOpsエンジニアという職種は、インフラ・CI/CD・セキュリテ
 上位レンジのポジションを狙う場合、書類で求められるのは「技術の深さ」だけでなく、「組織・プロセスを変えた実績」と「技術選定の意思決定プロセス」の記述が重要になる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

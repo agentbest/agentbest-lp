@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["インサイドセールス", "キャリアパス"]
 pubDate: 2026-07-03
 slug: "inside-sales-career-path"
+hub: "inside-sales"
 image: "/images/media/inside-sales-career-path.png"
 related: ["inside-sales-motivation", "inside-sales-failure", "inside-sales-market-trend", "hrbp-career-path", "product-designer-career-path"]
 ---
@@ -47,6 +48,11 @@ related: ["inside-sales-motivation", "inside-sales-failure", "inside-sales-marke
 | 事業開発・BizDev | 初期検討段階の顧客接点経験 | 契約交渉、市場調査、アライアンス設計 |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代のインサイドセールスが転職市場でどう評価されるか
 
@@ -111,6 +117,11 @@ RevOpsは日本市場ではまだポジション数が限られるが、経験�
 成長が実感できない、評価されていないという状況は確かにあるが、IS経験は深く積むほど転用性が高まる面もある。設計経験・言語化経験・チームへの影響経験がそろった段階での転職は、候補者としての説明力が上がりやすい。焦って移行すると、面接で具体的なエピソードが薄くなるリスクがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

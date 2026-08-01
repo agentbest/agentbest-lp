@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["カスタマーサクセス", "30代転職"]
 pubDate: 2026-07-03
 slug: "customer-success-in-30s"
+hub: "customer-success"
 image: "/images/media/customer-success-in-30s.png"
 related: ["customer-success-resume", "customer-success-salary-600", "customer-success-work-style", "game-engineer-in-30s", "data-scientist-in-30s"]
 ---
@@ -22,6 +23,11 @@ SaaS・クラウド型プロダクトの普及に伴い、CSポジションの�
 CSは比較的新しい職種であり、第一線のプロフェッショナルを目指す20代候補者も多い。30代が価値を発揮できる領域は、業界・プロダクト知識の深さ、顧客のビジネス課題を構造的に捉える能力、そしてCS組織の立ち上げやプロセス整備への貢献にある。これらを言語化できない場合、採用担当者の目には「CSの経験はあるが、スペシャリストとしての深みに欠ける」と映るリスクがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力採用で問われる4つの要件
 
@@ -110,6 +116,11 @@ NRRやプロダクト活用率の分析経験は少ないことを正直に伝�
 CSは企業フェーズによって役割が大きく異なる。シードフェーズではCSが存在しないケースも多く、シリーズA〜B以降での0→1構築フェーズなのか、シリーズC以降のスケールフェーズなのかで、求められるスキルは異なる。自分が何を得意とし、何を構築したいかと照らし合わせた上で応募先を選定することが、入社後のミスマッチを防ぐ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

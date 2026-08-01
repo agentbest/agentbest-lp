@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["フロントエンドエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-motivation"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-motivation.png"
 related: ["frontend-engineer-interview", "frontend-engineer-resume", "frontend-engineer-skills", "risk-consultant-motivation", "recruiter-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["frontend-engineer-interview", "frontend-engineer-resume", "frontend-e
 特にフロントエンドエンジニアの場合、技術トレンドの移り変わりが速い領域であるため、「この技術を使いたい」という動機だけでは説得力に欠ける傾向があります。技術の選択理由と事業・ユーザー価値への貢献意識をセットで語れると、評価が上がりやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 志望動機を構成する3つの要素
 
@@ -119,6 +125,11 @@ related: ["frontend-engineer-interview", "frontend-engineer-resume", "frontend-e
 **改善点**：具体的な技術スタックと担当範囲、プッシュ要因の明確化、企業研究の痕跡、貢献イメージの三点が揃っています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

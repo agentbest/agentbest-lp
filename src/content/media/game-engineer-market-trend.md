@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["ゲームエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "game-engineer-market-trend"
+hub: "game-engineer"
 image: "/images/media/game-engineer-market-trend.png"
 related: ["game-engineer-salary-600", "game-engineer-from-scratch", "game-engineer-career-path", "post-consultant-market-trend", "engineering-manager-market-trend"]
 ---
@@ -22,6 +23,11 @@ related: ["game-engineer-salary-600", "game-engineer-from-scratch", "game-engine
 また、大手パブリッシャーや資本力のある中規模スタジオが採用を積極化している一方で、スマホゲームを主戦場としてきた一部の企業では人員調整が続いており、市場内での二極化が顕著です。転職活動において「ゲームエンジニア全体の市場が好調」という読み方よりも、「どの領域・どの技術スタックで需要が伸びているか」を精緻に把握することが重要になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 領域・技術別の採用ニーズ比較
 
@@ -90,6 +96,11 @@ Unityクライアントを中心とした開発経験はあるものの、コン
 このケースが示唆するのは、「自分の経験をどの市場の文脈で語るか」によって、訴求できる求人の幅が大きく変わるという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

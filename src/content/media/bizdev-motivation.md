@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["事業開発", "志望動機"]
 pubDate: 2026-07-04
 slug: "bizdev-motivation"
+hub: "bizdev"
 image: "/images/media/bizdev-motivation.png"
 related: ["bizdev-salary-1000", "bizdev-career-guide", "bizdev-work-style", "qa-engineer-motivation", "embedded-engineer-motivation"]
 ---
@@ -33,6 +34,11 @@ related: ["bizdev-salary-1000", "bizdev-career-guide", "bizdev-work-style", "qa-
 事業開発に限らないが、この職種は特に「過去に何をしたか」より「その経験が当社でどう活きるか」という接続が問われる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -110,6 +116,11 @@ related: ["bizdev-salary-1000", "bizdev-career-guide", "bizdev-work-style", "qa-
 この骨格の特徴は、①業務上の課題意識（転換点）、②職種選択の理由（上流設計への必要性）、③応募先への接続（事業フェーズ×自身のスキルセット）が論理的に接続されている点にある。営業・コンサル・PM など出身職種が変わっても、この3層の接続構造は共通して応用できる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

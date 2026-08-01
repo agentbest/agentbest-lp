@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["総合コンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "big4-consultant-work-style"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-work-style.png"
 related: ["big4-consultant-salary-1000", "big4-consultant-certification", "big4-consultant-failure", "risk-consultant-work-style", "pmo-work-style"]
 ---
@@ -28,6 +29,11 @@ related: ["big4-consultant-salary-1000", "big4-consultant-certification", "big4-
 一方で、プロジェクトとプロジェクトの間（いわゆるビーチ期間）や、比較的定常的なオペレーション系業務では、稼働が落ち着くケースも多い。「常に終電」という状態が年間を通じて続くというよりも、波のある働き方が実態に近い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## 職位別・残業時間の目安
 
@@ -91,6 +97,11 @@ related: ["big4-consultant-salary-1000", "big4-consultant-certification", "big4-
 「働き方が改善された」というファームの発信を鵜呑みにするのではなく、面接・エージェントを通じて実態（平均残業時間・有給取得率・プロジェクトアサインのプロセス）を確認することが有効だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

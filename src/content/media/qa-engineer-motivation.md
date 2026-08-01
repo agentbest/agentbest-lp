@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["QAエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "qa-engineer-motivation"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-motivation.png"
 related: ["qa-engineer-salary-1000", "qa-engineer-english", "qa-engineer-failure", "pmo-motivation", "data-consultant-motivation"]
 ---
@@ -26,6 +27,11 @@ QAエンジニアへの転職・応募において志望動機が難航する理
 もう一つの難しさは、QAエンジニアは「なぜ開発ではなくQAなのか」という問いに明確に答える必要がある点だ。特に開発経験を持つ候補者の場合、この問いへの回答が志望動機の核になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の3つの構造
 
@@ -115,6 +121,11 @@ QAエンジニアへの転職・応募において志望動機が難航する理
 > 開発エンジニアとして3年間SaaS開発に携わる中で、リリース直前のテスト工程に繰り返し関与してきました。仕様の解釈ミスや考慮漏れがテストフェーズで発見されるケースを経験するうちに、「上流から品質を担保する設計」への関心が高まりました。開発側の知識を持つQAエンジニアとして、テスト設計や自動化の仕組みづくりに専門性を持って取り組みたいと考えています。貴社がCI/CDの整備を進めていると拝見し、開発プロセスへの理解を活かせる環境として強く関心を持ちました。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

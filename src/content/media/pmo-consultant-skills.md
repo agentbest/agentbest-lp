@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["PMOコンサルタント", "必要スキル"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-skills"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-skills.png"
 related: ["pmo-consultant-resume", "pmo-consultant-career-path", "pmo-consultant-salary-600", "embedded-engineer-skills", "hrbp-skills"]
 ---
@@ -28,6 +29,11 @@ PMOコンサルタントの役割は、プロジェクトマネージャー（PM
 市場価値を左右するのは、この3層のバランスと、それぞれの習熟度の組み合わせです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル別の重要度マップ
 
@@ -103,6 +109,11 @@ PMP（Project Management Professional）やPRINCE2、P2Mといった資格は、
 資格は「ない場合のデメリットを防ぐ」効果を持つ一方、「あることによる差別化」効果は、実務経験と組み合わさったときに発揮されます。特にコンサルティングファームや外資系のポジションでは、英語での実務経験や特定領域（PMOデザイン・変更管理等）の深い専門性がより重視されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

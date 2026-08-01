@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["事業企画", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "business-planning-how-to-use-agent"
+hub: "business-planning"
 image: "/images/media/business-planning-how-to-use-agent.png"
 related: ["business-planning-career-guide", "business-planning-career-path", "business-planning-certification", "ma-advisor-how-to-use-agent", "qa-engineer-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["business-planning-career-guide", "business-planning-career-path", "bu
 この点において、エージェントによる選考対策の有無は結果に影響しやすい。自己流の準備だけで臨むのと、その企業の選考傾向をふまえたフィードバックを受けながら準備するのとでは、完成度に差が出る可能性が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## 転職エージェントを活用すべき実質的な理由
 
@@ -106,6 +112,11 @@ SaaS企業の事業企画として3年間勤務し、既存事業のKPI分析と
 このケースが示すように、事業企画の転職では「何をしたか」だけでなく「何に影響を与えたか」の言語化が鍵になる。エージェントとの対話は、自分では見えていない経験の価値を顕在化させる機能を果たしうる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

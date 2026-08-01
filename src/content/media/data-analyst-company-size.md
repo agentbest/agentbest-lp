@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["データアナリスト", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "data-analyst-company-size"
+hub: "data-analyst"
 image: "/images/media/data-analyst-company-size.png"
 related: ["data-analyst-certification", "data-analyst-in-20s", "data-analyst-resume", "engineering-manager-company-size", "devops-engineer-company-size"]
 ---
@@ -18,6 +19,11 @@ related: ["data-analyst-certification", "data-analyst-in-20s", "data-analyst-res
 本記事では、業務範囲・スキル形成・報酬・意思決定環境といった複数の軸で両者を比較し、選択の判断材料を提供する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-company-size">キャリアを相談する</a>
+</aside>
 
 ## 大手企業とスタートアップ、構造的な違いを整理する
 
@@ -89,6 +95,11 @@ Aさんは大手IT企業のEC事業部でマーケティング分析を5年担�
 Aさんは現在、プロダクト分析とビジネス分析の両領域を担うポジションで、経営会議への定期的な関与を実現している。前職では得られなかった意思決定への距離の近さを評価している一方、前職の分析精度・品質管理の文化は今の職場に欠けていると感じているとのことである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

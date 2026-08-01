@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["総合コンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "big4-consultant-from-scratch"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-from-scratch.png"
 related: ["big4-consultant-work-style", "big4-consultant-resume", "big4-consultant-salary-600", "product-designer-from-scratch", "salesforce-consultant-from-scratch"]
 ---
@@ -28,6 +29,11 @@ related: ["big4-consultant-work-style", "big4-consultant-resume", "big4-consulta
 未経験転職が現実的に可能なのは主にITコンサルティング・業務改革の領域であり、戦略系は原則として高度な事業経験またはMBA取得後のキャリアチェンジが前提になる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験転職の現実的な難易度
 
@@ -135,6 +141,11 @@ BIG4系ファームの職位は概ね以下の構造になっています（呼�
 未経験入社の場合、アナリストまたはジュニアコンサルタントからスタートし、2〜3年でコンサルタントに昇格するのが一般的な目安です。年収については、アナリスト水準で500〜650万円程度の範囲が目安として語られることが多いですが、ファームの規模・専門領域・個人の評価によって幅があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

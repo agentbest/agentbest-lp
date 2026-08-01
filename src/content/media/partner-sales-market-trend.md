@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["パートナーセールス／アライアンス", "市場動向"]
 pubDate: 2026-07-04
 slug: "partner-sales-market-trend"
+hub: "partner-sales"
 image: "/images/media/partner-sales-market-trend.png"
 related: ["partner-sales-work-style", "partner-sales-in-30s", "partner-sales-certification", "corporate-planning-market-trend", "dx-consultant-market-trend"]
 ---
@@ -27,6 +28,11 @@ SaaS・クラウド領域における事業成長モデルが成熟してきた�
 
 **③ コンサルティングファームとテクノロジー企業の接近**
 戦略コンサル・総合コンサルとテクノロジープロバイダーの協業が深まるにつれて、双方の言語・商習慣を理解した上でアライアンスを推進できる人材が希少資産として扱われるようになっている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求人数・採用要件の変化：2023年比較の傾向
 
@@ -92,6 +98,11 @@ SaaS・クラウド領域における事業成長モデルが成熟してきた�
 
 **市場・競合の構造理解**
 なぜそのパートナーと組むのか、エコシステム全体の中での位置付けをどう考えるか、という戦略的思考が上位レイヤーほど強く求められる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

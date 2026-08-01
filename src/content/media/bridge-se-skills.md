@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["ブリッジSE", "必要スキル"]
 pubDate: 2026-07-04
 slug: "bridge-se-skills"
+hub: "bridge-se"
 image: "/images/media/bridge-se-skills.png"
 related: ["bridge-se-failure", "bridge-se-interview", "bridge-se-certification", "mobile-engineer-skills", "sre-skills"]
 ---
@@ -22,6 +23,11 @@ related: ["bridge-se-failure", "bridge-se-interview", "bridge-se-certification",
 要件の解釈、仕様の整合性確認、品質基準の共有、進捗の可視化、リスクの早期察知といった複合的な業務が同時に求められる。技術・言語・マネジメントの三領域が重なり合うポジションであるため、スキルの「幅」と「深さ」のバランスが市場評価に直結しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-skills">キャリアを相談する</a>
+</aside>
 
 ## スキル全体像と優先順位の考え方
 
@@ -105,6 +111,11 @@ PMPや情報処理技術者試験のプロジェクトマネジメント系資�
 このケースが示すのは、語学・技術はあくまでも基礎条件であり、「マネジメント実績の具体性」が市場価値の上昇を牽引するという構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

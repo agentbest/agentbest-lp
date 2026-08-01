@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["リーガルテック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "legaltech-industry-company"
+hub: "legaltech-industry"
 image: "/images/media/legaltech-industry-company.png"
 related: ["legaltech-industry-salary", "legaltech-industry-guide", "legaltech-industry-career", "ma-industry-company", "ec-industry-company"]
 ---
@@ -35,6 +36,11 @@ related: ["legaltech-industry-salary", "legaltech-industry-guide", "legaltech-in
 どの類型に属する企業かを最初に確認することで、自分のキャリア目標との整合性を判断できます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-company">無料で相談する</a>
+</aside>
 
 ## 企業を評価するための5つの指標
 
@@ -103,6 +109,11 @@ SaaS型のリーガルテック企業を評価する際は、ARR（年次経常�
 ストックオプションは非上場フェーズの企業では設計・付与数・行使条件が多様です。提示された際は、行使価格・ベスティングスケジュール・上場時の希薄化想定など、実質的な価値を試算することを推奨します。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

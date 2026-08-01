@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["戦略コンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-certification"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-certification.png"
 related: ["strategy-consultant-future", "strategy-consultant-resume", "strategy-consultant-motivation", "business-planning-certification", "qa-engineer-certification"]
 ---
@@ -26,6 +27,11 @@ related: ["strategy-consultant-future", "strategy-consultant-resume", "strategy-
 ただし資格が機能する場面は存在する。特定の専門性を示す補完的なシグナルとして機能する場合、クライアント対応や案件アサインの際に参照される場合、そして資格取得のプロセス自体が仮説思考や情報整理の実践になっている場合などだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用・昇進・案件という三つの文脈で資格を考える
 
@@ -109,6 +115,11 @@ MBAや公認会計士の試験範囲は、戦略立案・財務モデリング�
 **PMPやITIL**は、実行支援・PMO型の案件では実務上の参考になるが、戦略立案フェーズが中心の業務では直接的な有効性が限られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

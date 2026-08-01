@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["PMOコンサルタント", "30代転職"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-in-30s"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-in-30s.png"
 related: ["pmo-consultant-how-to-use-agent", "pmo-consultant-future", "pmo-consultant-salary", "db-engineer-in-30s", "cloud-engineer-in-30s"]
 ---
@@ -28,6 +29,11 @@ PMO（Project Management Office）コンサルタントは、クライアント�
 30代での転職では、いずれかの層での実務経験があることが前提となり、「ゼロからPMOの型を作れる」あるいは「大規模プロジェクトでの実行管理経験がある」という具体的なナラティブが求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## 転職市場における30代PMOコンサルタントの評価軸
 
@@ -106,6 +112,11 @@ PMO（Project Management Office）コンサルタントは、クライアント�
 PMOコンサルタントの面接では、ケース面接が課されるケースはやや少ないものの、「この課題にどうアプローチするか」という構造化思考を試す問いが多く出されます。回答の際は、問題を分解→優先度付け→解決策の設計という流れを自然に示すことが評価につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

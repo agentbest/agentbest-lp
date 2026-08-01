@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["ITコンサル", "将来性", "生成AI"]
 pubDate: 2026-07-03
 slug: "it-consultant-future"
+hub: "it-consultant"
 image: "/images/media/it-consultant-future.png"
 related: ["it-consultant-career-guide", "it-consultant-career-path", "it-consultant-salary", "it-consultant-skills", "dx-consultant-career-guide"]
 ---
@@ -16,6 +17,11 @@ related: ["it-consultant-career-guide", "it-consultant-career-path", "it-consult
 ITコンサルの求人需要は、DX投資・基幹システム刷新・AI導入の流れを背景に高い水準が続いています。一方で、生成AIの業務利用が広がる中、「コンサルの仕事のうちどこが残るのか」という問いは現実的なものになりました。
 
 結論から言えば、職種としての需要は続く見通しですが、価値の源泉が移動しています。この移動を理解しているかどうかが、5年後のキャリアの差になります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-future">無料で相談する</a>
+</aside>
 
 ## AIに置き換わりやすい業務
 
@@ -76,6 +82,11 @@ AIは与えられた問いに答えることは得意ですが、クライアン
 **独立・専門家**：特定領域の専門家として、フリーランスまたは小規模ファームで活動。AIを使いこなす個人の生産性が上がるほど、独立の実行可能性は高まります。
 
 どの道でも共通して資産になるのは、「業界×業務の専門性」と「変革を最後までやり切った経験」です。目先のスキルトレンドに振り回されず、この2つを積むことを10年の軸に据えることをおすすめします。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

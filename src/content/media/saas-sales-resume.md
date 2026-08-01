@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["SaaS営業", "職務経歴書"]
 pubDate: 2026-07-03
 slug: "saas-sales-resume"
+hub: "saas-sales"
 image: "/images/media/saas-sales-resume.png"
 related: ["saas-sales-in-30s", "saas-sales-motivation", "saas-sales-career-guide", "data-consultant-resume", "big4-consultant-resume"]
 ---
@@ -23,6 +24,11 @@ SaaS営業のポジションを持つ企業の採用担当者は、候補者の�
 - CSやSEなど他部門との連携経験があるか
 
 一般的な有形商材の営業職では「売上達成率」と「商材の種類」があれば最低限の情報は伝わる。しかしSaaS営業では、契約形態が月次・年次のサブスクリプションであるため、顧客の継続率・拡張収益・導入後支援の関与度まで問われやすい。職務経歴書の構成自体を、この業界特有の評価軸に合わせて設計しなければ、経験値が正しく伝わらない。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 書類通過率が上がる構成の基本設計
 
@@ -107,6 +113,11 @@ SaaSという業界経験がなくても、「課題解決型営業」の素地�
 | 5年以上・Enterprise/リーダー | 大型案件・組織設計関与 | 700〜1,000万円以上 |
 
 ※上記はあくまで市場の傾向を示す目安であり、企業規模・地域・個人の実績によって大きく異なる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

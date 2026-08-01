@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["インサイドセールス", "未経験転職"]
 pubDate: 2026-07-03
 slug: "inside-sales-from-scratch"
+hub: "inside-sales"
 image: "/images/media/inside-sales-from-scratch.png"
 related: ["inside-sales-english", "inside-sales-salary-1000", "inside-sales-how-to-use-agent", "game-engineer-from-scratch", "business-planning-from-scratch"]
 ---
@@ -31,6 +32,11 @@ related: ["inside-sales-english", "inside-sales-salary-1000", "inside-sales-how-
 未経験者が最初に担うのはSDR型が一般的です。架電件数・商談設定数・商談化率などのKPIを日々追いながら動くため、数値管理の習慣が自然と身につく環境でもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験者に求められるスキルと素養
 
@@ -112,6 +118,11 @@ Salesforce・HubSpotをはじめとする営業支援ツールを日常的に使
 「テレアポが苦手でなければできる」という表層的な理解では、面接を通過しにくくなっています。「なぜ非対面型の営業という手段を選ぶのか」「どのようなデータを使って接触効率を改善したいか」という視点まで準備できると、選考突破率に差が出やすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

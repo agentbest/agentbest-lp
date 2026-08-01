@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["リスク・ガバナンスコンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "risk-consultant-career-path"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-career-path.png"
 related: ["risk-consultant-in-20s", "risk-consultant-certification", "risk-consultant-motivation", "ai-engineer-career-path", "hr-consultant-career-path"]
 ---
@@ -16,6 +17,11 @@ related: ["risk-consultant-in-20s", "risk-consultant-certification", "risk-consu
 リスク・ガバナンスコンサルタントのキャリアは、30代を境に大きく方向性が分かれる。マネジャーへの昇格・独立・事業会社への転向・専門特化という複数の軸が交差するこの時期を、どのような視点で捉えるかが、その後10年の市場価値を左右しやすい。本稿では、この職種に特有のキャリア構造と、30代で現実的に取り得る選択肢を順に整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## リスク・ガバナンスコンサルタントとはどういう職種か
 
@@ -90,6 +96,11 @@ related: ["risk-consultant-in-20s", "risk-consultant-certification", "risk-consu
 資格面では、CIA（公認内部監査人）・CISA（公認情報システム監査人）・CRISC（認定情報セキュリティリスク管理者）などが専門性の可視化に有効とされる。ただし、資格はあくまで実務実績を補完するものであり、資格単体で市場価値が変わるわけではない点は強調しておきたい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

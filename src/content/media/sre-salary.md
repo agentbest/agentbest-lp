@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["SRE", "年収相場"]
 pubDate: 2026-07-04
 slug: "sre-salary"
+hub: "sre"
 image: "/images/media/sre-salary.png"
 related: ["sre-career-guide", "sre-market-trend", "sre-english", "pmo-consultant-salary", "web-marketer-salary"]
 ---
@@ -29,6 +30,11 @@ SRE（Site Reliability Engineer）の年収は、エンジニア職の中でも�
 上記のレンジはソフトウェアエンジニア全体の中でも上位に位置しやすい水準ですが、同じ年齢・同じ職種名であっても、業種・企業フェーズ・担当システムの規模によって数百万円単位の開きが生じる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する4つの構造的要因
 
@@ -97,6 +103,11 @@ SREは学ぶべき技術領域が広く、「次はこのツールを習得す�
 SREとして転職市場に出るタイミングとして効果的と見なされやすいのは、「設計・構築フェーズをリードした実績が完結した直後」です。大規模なIaC移行や可観測性基盤の整備など、成果が明確になった時点で整理・言語化し、市場価値を確認することが理にかなっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

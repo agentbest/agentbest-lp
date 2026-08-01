@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["生成AI・AI", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "ai-industry-career"
+hub: "ai-industry"
 image: "/images/media/ai-industry-career.png"
 related: ["ai-industry-trend", "ai-industry-guide", "ai-industry-company", "legaltech-industry-career", "iot-industry-career"]
 ---
@@ -20,6 +21,11 @@ related: ["ai-industry-trend", "ai-industry-guide", "ai-industry-company", "lega
 2年前に主流だったモデルアーキテクチャが今日では前提知識にすら入らないケースがあるように、特定技術への習熟だけを強みとすることにはリスクが伴いやすい。一方で、企業側の採用基準もいまだ整備途上にあり、「何をもって即戦力とするか」の定義が職種・フェーズ・企業規模によって大きく異なる。
 
 この構造を踏まえると、キャリアを考える際の軸は「何を知っているか」よりも「どのような問題を解いてきたか」に置く方が、中長期で評価されやすい傾向がある。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種ごとの役割と求められるスキルの全体像
 
@@ -86,6 +92,11 @@ MLエンジニアやMLOpsエンジニアとして基盤技術の習熟度を高�
 ### 独立・スタートアップへの参画
 
 AI領域は独立コンサルタントやフリーランスエンジニアとしても市場が成立しやすい。ただし、クライアント獲得の仕組みとポートフォリオの可視化が前提となる。スタートアップの初期メンバーとして参画し、成果に連動したアップサイドを狙う選択肢も、この領域特有の経路として機能している。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-career">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

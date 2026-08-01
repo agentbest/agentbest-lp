@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["カスタマーサクセス", "英語力"]
 pubDate: 2026-07-03
 slug: "customer-success-english"
+hub: "customer-success"
 image: "/images/media/customer-success-english.png"
 related: ["customer-success-career-guide", "customer-success-resume", "customer-success-company-size", "sre-english", "enterprise-sales-english"]
 ---
@@ -22,6 +23,11 @@ related: ["customer-success-career-guide", "customer-success-resume", "customer-
 この二極化を理解せずに転職活動を進めると、「英語力があるのに活かせない」「英語が必要だと知らずに応募して選考を落とされる」といったミスマッチが生じやすくなります。まず自分が目指すポジションのタイプを見極めることが、効率的なキャリア形成の前提となります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力が求められる具体的な場面
 
@@ -85,6 +91,11 @@ CSのグローバルチームでは、ヘルプドキュメント・トレーニ
 ただし、英語力がないことでポジションの選択肢が狭まることは事実です。特に、グローバルSaaSの日本法人でリーダーシップポジションを目指す場合、英語は最終的に避けられない要件になることが多いです。キャリアの初期から中期においては英語なしで専門性を深め、中長期では英語力を加えることでポジションの選択肢を広げるという段階的なアプローチは、現実的な戦略の一つといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

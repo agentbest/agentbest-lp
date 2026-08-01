@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["エンタープライズセールス", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-resume"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-resume.png"
 related: ["enterprise-sales-in-30s", "enterprise-sales-salary-1000", "enterprise-sales-salary", "frontend-engineer-resume", "data-scientist-resume"]
 ---
@@ -31,6 +32,11 @@ related: ["enterprise-sales-in-30s", "enterprise-sales-salary-1000", "enterprise
 プリセールス・SE・マーケティング・法務・経営層との協働経験は、組織を動かして案件を前進させる力として評価される。職務経歴書では、この「横断的な動き」が記載されているかどうかが、SMB寄りの人材との差別化になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の構成と各セクションの役割
 
@@ -124,6 +130,11 @@ related: ["enterprise-sales-in-30s", "enterprise-sales-salary-1000", "enterprise
 改善後の記述では、「どの規模の顧客に」「どのプロセスを」「どのような役割で」行ったかが明確になっており、採用担当が業務の複雑性を把握しやすい構造になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

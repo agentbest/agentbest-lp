@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["インフラエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "infra-engineer-in-30s"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-in-30s.png"
 related: ["infra-engineer-market-trend", "infra-engineer-english", "infra-engineer-from-scratch", "embedded-engineer-in-30s", "product-manager-in-30s"]
 ---
@@ -20,6 +21,11 @@ related: ["infra-engineer-market-trend", "infra-engineer-english", "infra-engine
 **有利な点**として、経験年数に裏打ちされた技術的判断力や、障害対応・ベンダー折衝の経験は、若手には代替しにくい価値として評価されやすい傾向があります。
 
 **不利な点**として、オンプレミス中心の経験しか持たない場合、クラウドネイティブ環境への適応可否が選考上の焦点になりやすく、年齢相応の市場価値を提示するうえでの障壁になることがあります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 即戦力として評価される3つの軸
 
@@ -85,6 +91,11 @@ SIerに8年在籍。オンプレミスサーバーの構築・運用が主業務
 | スタートアップ・メガベンチャー | 自動化・SRE・プラットフォーム | 650〜1,000万円程度 | 技術的先進性と裁量を重視する人 |
 
 ※年収レンジは企業規模・地域・個人の経験によって大きく異なります。あくまで参考の目安としてご覧ください。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

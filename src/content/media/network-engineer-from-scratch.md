@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["ネットワークエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "network-engineer-from-scratch"
+hub: "network-engineer"
 image: "/images/media/network-engineer-from-scratch.png"
 related: ["network-engineer-salary-600", "network-engineer-in-30s", "network-engineer-salary", "post-consultant-from-scratch", "pmo-from-scratch"]
 ---
@@ -24,6 +25,11 @@ related: ["network-engineer-salary-600", "network-engineer-in-30s", "network-eng
 未経験者が入職する場合、多くは「運用・監視」フェーズから始まる。既存のネットワーク環境を監視し、アラートへの一次対応・ログの確認・チケット処理といった業務が中心となる。設計や構築は、この段階で基礎を固めた後に担うポジションになることが一般的だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 採用市場：未経験者は「どこに需要があるか」を正しく把握する
 
@@ -132,6 +138,11 @@ related: ["network-engineer-salary-600", "network-engineer-in-30s", "network-eng
 これらはあくまで相場の目安であり、同一フェーズでも会社・役割・地域によって大きく異なる。重要なのは、入職時の年収よりも「どのスキルが積める環境か」という選社基準である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

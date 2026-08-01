@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["データサイエンティスト", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "data-scientist-career-guide"
+hub: "data-scientist"
 image: "/images/media/data-scientist-career-guide.png"
 related: ["data-scientist-motivation", "data-scientist-how-to-use-agent", "data-scientist-failure", "digital-marketer-career-guide", "frontend-engineer-career-guide"]
 ---
@@ -35,6 +36,11 @@ SQLやBIツールを用いてKPIの可視化・経営判断の支援を行う。
 求人票に「データサイエンティスト」と書かれていても、実態は上記のどれに近いかを見極めることが選考前の必須作業です。JDの中で「PythonよりもSQLが先に書かれているか」「MLOpsやKubernetesへの言及があるか」「ビジネスステークホルダーとの連携が強調されているか」といった文脈を丁寧に読むと、軸が見えてきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-career-guide">無料で相談する</a>
+</aside>
 
 ## 市場価値と年収水準の構造
 
@@ -117,6 +123,11 @@ SQLやBIツールを用いてKPIの可視化・経営判断の支援を行う。
 という三点が有効な対応策になりやすいです。「できないことを正直に言う」ことが、かえって誠実さとして評価されるケースも多く、過度な背伸びは長期的には逆効果になりやすい点に注意が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

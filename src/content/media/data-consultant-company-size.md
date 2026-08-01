@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["データ・アナリティクスコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "data-consultant-company-size"
+hub: "data-consultant"
 image: "/images/media/data-consultant-company-size.png"
 related: ["data-consultant-interview", "data-consultant-english", "data-consultant-career-path", "devops-engineer-company-size", "infra-engineer-company-size"]
 ---
@@ -30,6 +31,11 @@ related: ["data-consultant-interview", "data-consultant-english", "data-consulta
 スタートアップでは、分析基盤の整備・ツール選定・データガバナンスの設計まで、ゼロベースで担うケースが多い。役割の境界が曖昧な分、データエンジニアリングからビジネス戦略の議論まで、横断的に関与できる機会が生まれやすい。ただし、メンタリングや教育体制が薄い場合は、自己学習への依存度が高くなる点には注意が必要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 待遇・報酬設計の比較
 
@@ -80,6 +86,11 @@ related: ["data-consultant-interview", "data-consultant-english", "data-consulta
 **考え得る次の一手**：この条件では、BtoCまたはBtoBのSaaS企業でデータアナリストあるいはシニアアナリストとして入社し、プロダクト・マーケティング・CS各部門と密に連携する環境に身を置くことで、「技術力×事業インパクト」を紐付ける経験を補完する選択肢が有力と考えられる。ファーム時代のクライアント折衝・文書化スキルは、スタートアップ環境でも高く評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

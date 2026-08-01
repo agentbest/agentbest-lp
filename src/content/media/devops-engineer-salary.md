@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["DevOpsエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "devops-engineer-salary"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-salary.png"
 related: ["devops-engineer-company-size", "devops-engineer-future", "devops-engineer-from-scratch", "data-analyst-salary", "bizdev-salary"]
 ---
@@ -30,6 +31,11 @@ DevOpsエンジニアの年収は、スキルセットの広さと市場の需�
 このレンジが示す通り、ミドル後半からシニアにかけての区間で年収の分岐が顕著になります。同じ「経験5年」であっても、担当領域の深さ・クラウドプロバイダ資格の有無・組織への影響範囲によって、700万円台に留まるケースと950万円台に到達するケースに分かれる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収に影響する3つの構造的要因
 
@@ -92,6 +98,11 @@ DevOpsという職種名は、開発（Dev）と運用（Ops）の連携を担�
 GitHubのパブリックリポジトリ・技術ブログ・登壇資料などの「外部発信」は、採用担当者が事前スクリーニングに使う情報源として機能します。特にシニア以上のレンジでは、スキルの可視性が年収交渉のテーブルに乗るまでの速度に影響します。日常業務の延長で書けるレベルの技術的な知見を継続的に発信する習慣は、長期的なキャリア資産になりえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

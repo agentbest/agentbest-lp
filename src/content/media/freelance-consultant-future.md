@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["フリーコンサルタント", "将来性"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-future"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-future.png"
 related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-market-trend", "freelance-consultant-interview", "cloud-engineer-future", "tech-lead-future"]
 ---
@@ -30,6 +31,11 @@ DXや業務変革を内製化しようとする企業が増えた結果、コン
 この二極化の本質は、「AIが代替しやすい作業をどれだけアウトソースされているか」という点にある。複雑な利害調整、顧客組織の内部事情を読んだ進め方の設計、経営層への説得、実行フェーズでの現場マネジメントといった領域は、依然として人的なスキルと信頼関係が必要とされる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-future">無料で相談する</a>
+</aside>
 
 ## AI時代における仕事の変化：代替されるタスクと残るタスク
 
@@ -90,6 +96,11 @@ DXや業務変革を内製化しようとする企業が増えた結果、コン
 このケースが示すのは、「専門性の言語化」「領域の絞り込み」「AIの実務活用」「情報発信」という複数の要素が重なったときに、市場での立ち位置が安定するという構造である。どれか一つが突出していても、他の要素が欠けていると不安定になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

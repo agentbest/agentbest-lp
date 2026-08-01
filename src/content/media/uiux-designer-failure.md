@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["UI/UXデザイナー", "転職失敗"]
 pubDate: 2026-07-04
 slug: "uiux-designer-failure"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-failure.png"
 related: ["uiux-designer-future", "uiux-designer-salary-600", "uiux-designer-company-size", "tech-lead-failure", "marketing-manager-failure"]
 ---
@@ -24,6 +25,11 @@ UI/UXデザイナーという職種は、同じ名称でも企業によって業
 また、ポートフォリオ選考が重視される職種であるがゆえに、「作品が評価された＝自分のやり方が歓迎される」と誤解するケースもあります。ポートフォリオはあくまでも「過去の成果物」であり、入社後の働き方・意思決定フロー・デザインの裁量範囲とは別の話です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターンとその構造
 
@@ -121,6 +127,11 @@ Webデザイン会社でUIデザイナーとして5年のキャリアを積ん�
 求人票の文言を「理想」ではなく「現在の課題や優先事項」として読み解く視点が重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

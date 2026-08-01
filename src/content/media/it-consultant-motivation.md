@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["ITコンサル", "志望動機", "転職"]
 pubDate: 2026-07-03
 slug: "it-consultant-motivation"
+hub: "it-consultant"
 image: "/images/media/it-consultant-motivation.png"
 related: ["it-consultant-career-guide", "it-consultant-resume", "it-consultant-interview", "it-consultant-salary", "it-consultant-from-scratch"]
 ---
@@ -19,6 +20,11 @@ ITコンサルの選考における志望動機は、熱意の表明ではなく
 - コンサルの仕事を正しく理解した上で志望しているか（解像度）
 
 この2点が満たされていれば、表現の巧拙はさほど問われません。逆に、どれほど熱意があっても論理が飛躍していれば評価は伸びません。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される構成：3段ロジック
 
@@ -79,6 +85,11 @@ ITコンサルの選考における志望動機は、熱意の表明ではなく
 志望動機と転職理由は、面接では別々に聞かれますが、論理的には一つの物語である必要があります。転職理由が「現職への不満」、志望動機が「コンサルへの憧れ」になっていると、両者がつながらず、深掘りで矛盾が露呈します。
 
 整合を取る方法は、両方を「実現したいこと」を軸に書き直すことです。「上流フェーズから価値を出したい（実現したいこと）→現職では構造的に難しい（転職理由）→貴社なら実現できる（志望動機）」という一本の線にしてください。この構造であれば、どの角度から聞かれても同じ物語に戻ることができます。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

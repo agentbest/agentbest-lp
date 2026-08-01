@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["ERPコンサルタント", "志望動機"]
 pubDate: 2026-07-05
 slug: "erp-consultant-motivation"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-motivation.png"
 related: ["erp-consultant-failure", "erp-consultant-future", "erp-consultant-career-path", "it-consultant-motivation", "platform-engineer-motivation"]
 ---
@@ -26,6 +27,11 @@ ERPコンサルタントは、企業の基幹業務システム（ERP）の導�
 求められるスキルセットは「業務知識（会計・SCM・製造・人事など）」「ITシステムへの理解」「プロジェクトマネジメント」「クライアントコミュニケーション」の4領域にわたります。この広さが志望動機の書きにくさに直結しており、逆に言えば、どの領域に自分の強みがあり、それをERP導入という場でどう活かすかを明確に示すことが差別化につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## 志望動機に盛り込むべき要素と構造
 
@@ -111,6 +117,11 @@ SI・開発経験者であれば、「要件定義・設計工程において業
 前職が全く異なる業種・業務であっても、業務プロセスへの関与・課題解決の経験・多部門調整の実績など、コンサルタントとして機能するうえで必要な素地を丁寧に説明することで、接続を作ることは可能です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

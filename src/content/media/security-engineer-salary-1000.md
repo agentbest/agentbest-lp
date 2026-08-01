@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["セキュリティエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "security-engineer-salary-1000"
+hub: "security-engineer"
 image: "/images/media/security-engineer-salary-1000.png"
 related: ["security-engineer-company-size", "security-engineer-in-30s", "security-engineer-future", "corporate-it-salary-1000", "strategy-consultant-salary-1000"]
 ---
@@ -50,6 +51,11 @@ related: ["security-engineer-company-size", "security-engineer-in-30s", "securit
 
 ---
 
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-salary-1000">無料で相談する</a>
+</aside>
+
 ## 年収1,000万円到達者に共通するキャリアの型
 
 実際に年収1,000万円前後に到達しているセキュリティエンジニアのキャリアを観察すると、大きく3つの型に収れんされる傾向があります。
@@ -87,6 +93,11 @@ SOCやセキュリティエンジニアとしてのキャリアをスタート�
 **到達の構造**：技術の深さ → 市場における可視化 → ビジネス貢献の言語化 → 雇用先の高度化、という段階的な積み上げがポイントとなっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

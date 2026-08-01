@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["UI/UXデザイナー", "30代転職"]
 pubDate: 2026-07-04
 slug: "uiux-designer-in-30s"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-in-30s.png"
 related: ["uiux-designer-salary-600", "uiux-designer-company-size", "uiux-designer-future", "ma-advisor-in-30s", "pr-in-30s"]
 ---
@@ -20,6 +21,11 @@ related: ["uiux-designer-salary-600", "uiux-designer-company-size", "uiux-design
 理由は単純で、採用コストと育成コストの問題である。30代のUI/UXデザイナーを採用する場合、企業は即戦力として機能することを前提に人員計画を立てる。オンボーディング期間を長くとれるほどの余裕がある組織は少なく、特にスタートアップやSaaS企業では入社後3〜6か月以内に自走できることが暗黙の前提とされていることが多い。
 
 一方で、30代ならではの強みも存在する。ビジネス側の論理を理解した上での設計、ステークホルダーとの調整経験、プロジェクト管理のリテラシーといった要素は、純粋にUIデザインのスキルのみを持つ20代候補者との差別化要因になりやすい。この強みを設計力と結びつけて提示できるかどうかが、選考における評価の分かれ目となる傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 即戦力として評価されるスキルの水準
 
@@ -93,6 +99,11 @@ PMとしての業務の中でデザイナーと共同で関与したプロジェ
 | スタッフ〜プリンシパル相当（組織横断・DesignOps等） | 1,000万円以上も目安として存在 |
 
 30代で転職する場合、前職が異業種であれば職務レベルによっては年収が一時的に下がるケースもある。一方で、事業会社内での職種転換や、PMからの転向のように隣接職種からの移行であれば、スキルの接続次第でミドルレンジからの採用も視野に入る。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

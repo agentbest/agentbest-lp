@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["プラットフォームエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "platform-engineer-salary-1000"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-salary-1000.png"
 related: ["platform-engineer-career-guide", "platform-engineer-how-to-use-agent", "platform-engineer-certification", "inside-sales-salary-1000", "tech-lead-salary-1000"]
 ---
@@ -26,6 +27,11 @@ related: ["platform-engineer-career-guide", "platform-engineer-how-to-use-agent"
 年収水準は、この役割スコープに依存します。単純な運用オペレーション中心の業務では年収1,000万円に到達しにくく、設計・標準化・組織横断の意思決定に関与できるポジションであることが前提条件になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収水準の目安とレンジ
 
@@ -101,6 +107,11 @@ related: ["platform-engineer-career-guide", "platform-engineer-how-to-use-agent"
 - 英語での技術ドキュメント読解・場合によってはグローバルチームとの協働経験
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

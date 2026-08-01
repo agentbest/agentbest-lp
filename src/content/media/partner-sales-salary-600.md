@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["パートナーセールス／アライアンス", "年収600万"]
 pubDate: 2026-07-04
 slug: "partner-sales-salary-600"
+hub: "partner-sales"
 image: "/images/media/partner-sales-salary-600.png"
 related: ["partner-sales-salary-1000", "partner-sales-english", "partner-sales-certification", "business-consultant-salary-600", "hrbp-salary-600"]
 ---
@@ -33,6 +34,11 @@ related: ["partner-sales-salary-1000", "partner-sales-english", "partner-sales-c
 600万円という水準は、おおよそ3〜6年の経験を持つ中堅層が到達しはじめるゾーンに位置する。ただし、同じ経験年数でも600万円台前半に止まるケースと700万円前後まで到達するケースには、職務の質・評価のされ方・在籍企業の報酬設計という三つの観点で明確な差がある傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -100,6 +106,11 @@ related: ["partner-sales-salary-1000", "partner-sales-english", "partner-sales-c
 **結果**：転職後、アライアンスマネージャー（シニア相当）として入社。ポジションの等級組み替えにより年収720万円台へ。入社後も設計者側の業務が中心となり、マネジメントトラックへの移行も視野に入り始めた。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

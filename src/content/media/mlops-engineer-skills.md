@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["MLOpsエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-skills"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-skills.png"
 related: ["mlops-engineer-market-trend", "mlops-engineer-salary-600", "mlops-engineer-interview", "network-engineer-skills", "it-consultant-skills"]
 ---
@@ -24,6 +25,11 @@ MLOpsとは、機械学習モデルの開発から本番運用までを一貫し
 - **品質保証・ガバナンス**：モデルモニタリング、ドリフト検知、再現性の担保
 
 スタートアップではこれらをすべて一人で担うことも珍しくなく、大企業では機械学習エンジニアやデータエンジニアと分業する形態が多い。自分がどのスコープで貢献するかを明確にしたうえで、スキルの習得優先度を決めることが実務的には重要となる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-skills">無料で相談する</a>
+</aside>
 
 ## スキル全体マップと市場価値への影響度
 
@@ -98,6 +104,11 @@ MLOpsエンジニアが機械学習のすべてを習得する必要はないが
 - 設計判断の根拠を言語化できる水準でアウトプット（技術ブログ、社内発表など）
 
 このような段階を経ることで、年収目安として600〜900万円前後の求人への応募資格を得られる傾向にある（経験・企業規模・職種スコープによって大きく幅がある）。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

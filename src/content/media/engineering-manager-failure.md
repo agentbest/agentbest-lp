@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["エンジニアリングマネージャー", "転職失敗"]
 pubDate: 2026-07-04
 slug: "engineering-manager-failure"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-failure.png"
 related: ["engineering-manager-certification", "engineering-manager-motivation", "engineering-manager-future", "hrbp-failure", "security-consultant-failure"]
 ---
@@ -20,6 +21,11 @@ related: ["engineering-manager-certification", "engineering-manager-motivation",
 さらに、マネージャーとして一度「お手並み拝見」の状態に置かれると、失敗の原因が自分のスキル不足なのか、組織構造の問題なのか、文化的ミスマッチなのかが分かりにくくなる。結果として、1〜2年かけて消耗してから転職を再検討するケースが少なくない。
 
 失敗の芽は、ほぼ例外なく「オファー承諾前の見極めの甘さ」にある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-failure">無料で相談する</a>
+</aside>
 
 ## 失敗パターン1：権限と責任のギャップを見抜けなかった
 
@@ -100,6 +106,11 @@ EMの業務上、直属の上位職（VP of Engineering、CTO、または事業�
 | 上位職との関係 | 上位職のロールが直近で変更されていないか |
 | 評価制度 | EMとしての評価指標（KPI・OKR等）の明確度 |
 | 評価制度 | 評価の頻度・フィードバックの仕組み |
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

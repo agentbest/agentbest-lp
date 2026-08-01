@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["DevOpsエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "devops-engineer-from-scratch"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-from-scratch.png"
 related: ["devops-engineer-failure", "devops-engineer-skills", "devops-engineer-career-path", "freelance-consultant-from-scratch", "frontend-engineer-from-scratch"]
 ---
@@ -26,6 +27,11 @@ DevOpsエンジニアへの未経験転職は、「どの職種から・どの�
 | SRE寄り | 信頼性設計、可観測性（Observability）の実装 | Prometheus、Grafana、障害対応設計 |
 
 未経験から転職を目指す場合、まずどの類型の求人に向けて準備するかを決めることが、学習効率を高めるうえで重要な前提となります。求人票に記載されている「DevOpsエンジニア」という肩書きだけで応募先を選ぶと、求められるスキルの方向性がずれるリスクがあります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験からのルート：出発点別に現実的な経路を整理する
 
@@ -109,6 +115,11 @@ DevOpsに関連するツールや技術は多岐にわたりますが、未経�
 | シニア・テックリード相当 | 900万円〜（事業会社・外資系は上振れ傾向） |
 
 上記はあくまで市場の中央値付近の目安であり、同じ年次でもスキルセットの深さや採用市場における需給によって変動します。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

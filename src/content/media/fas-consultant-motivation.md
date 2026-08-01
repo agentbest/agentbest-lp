@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["会計・財務コンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "fas-consultant-motivation"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-motivation.png"
 related: ["fas-consultant-career-guide", "fas-consultant-salary", "fas-consultant-work-style", "finance-motivation", "inside-sales-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["fas-consultant-career-guide", "fas-consultant-salary", "fas-consultan
 特に2つ目の「なぜコンサルタントか」は見落とされがちです。会計・財務の知識があっても、それをコンサルティングというサービスモデルで提供することへの理解・意欲がなければ、採用担当者は「事業会社経理でも同じではないか」という疑問を持ちます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の論理構造
 
@@ -98,6 +104,11 @@ related: ["fas-consultant-career-guide", "fas-consultant-salary", "fas-consultan
 コンサルティングという働き方への適性はすでに示せていることが多いため、「なぜ財務・会計領域に専門特化するのか」という点の説明が焦点になります。ITや経営戦略の文脈で財務課題に触れた経験を起点に、財務領域の専門性を意図的に深めたい理由を具体化することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

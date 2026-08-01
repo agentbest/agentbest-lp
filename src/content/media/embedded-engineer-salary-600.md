@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["組み込みエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-salary-600"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-salary-600.png"
 related: ["embedded-engineer-from-scratch", "embedded-engineer-work-style", "embedded-engineer-how-to-use-agent", "fullstack-engineer-salary-600", "tech-lead-salary-600"]
 ---
@@ -27,6 +28,11 @@ related: ["embedded-engineer-from-scratch", "embedded-engineer-work-style", "emb
 この表からわかるとおり、600万円付近は「4〜7年」と「8〜12年」の境界領域に位置している。多くの場合、この水準に到達した時点で昇給ペースが鈍化しやすい。
 
 その理由は報酬の構造にある。組み込みエンジニアの賃金設計は、「実装できる」という実行能力への評価から始まり、ある段階で頭打ちになりやすい。一方、600万円を超えて伸びていく人材に共通するのは、「設計判断を担える」「チームや開発プロセス全体に影響を与えられる」という付加価値の広さだ。言い換えれば、**技術深度から技術的影響範囲へ**の転換が、600万円の壁の突破に深く関わっている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 壁になりやすい4つの要素
 
@@ -78,6 +84,11 @@ MISRA Cの適用判断、静的解析ツールの導入・運用経験、ユニ�
 - 転職活動の際に「何を実装したか」ではなく「なぜその設計判断をしたか」という語り口で職務経歴書を再構成した
 
 **結果の傾向：** こうした準備を経た転職活動では、年収650万〜700万円のオファーを得やすい傾向が見られる。特に「設計判断を言語化できる」エンジニアは、選考の終盤まで残りやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

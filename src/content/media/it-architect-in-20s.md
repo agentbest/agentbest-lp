@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["ITアーキテクト", "20代転職"]
 pubDate: 2026-07-04
 slug: "it-architect-in-20s"
+hub: "it-architect"
 image: "/images/media/it-architect-in-20s.png"
 related: ["it-architect-career-path", "it-architect-skills", "it-architect-interview", "strategy-consultant-in-20s", "bizdev-in-20s"]
 ---
@@ -28,6 +29,11 @@ related: ["it-architect-career-path", "it-architect-skills", "it-architect-inter
 | アプリケーションアーキテクト | サービス構造・コード設計・技術選定 | マイクロサービス、DDD、フレームワーク選定 |
 
 20代での転職が現実的な経路として想定されるのは、主に「ソリューションアーキテクト」「インフラ／クラウドアーキテクト」「アプリケーションアーキテクト」の三領域だ。エンタープライズアーキテクトは組織横断的な影響力が求められるため、経験年数・実績面で30代以降が主な採用対象となる傾向がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代ポテンシャル採用が発生する企業タイプ
 
@@ -89,6 +95,11 @@ AWSやAzure、GCPといったクラウドプラットフォームの普及に伴
 3. ターゲットをSaaS企業のシニアエンジニア〜ソリューションアーキテクト職に絞る
 
 **結果の型：** 転職後の職種名は「シニアエンジニア」だが、実質的にアーキテクチャレビューと技術選定を主業務とするポジションへの着地。年収は転職前比で100〜150万円程度の上昇が見込まれる目安の範囲内（個人差・企業規模により大きく異なる）。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["ソリューションアーキテクト", "未経験転職"]
 pubDate: 2026-07-04
 slug: "solution-architect-from-scratch"
+hub: "solution-architect"
 image: "/images/media/solution-architect-from-scratch.png"
 related: ["solution-architect-interview", "solution-architect-in-30s", "solution-architect-salary", "risk-consultant-from-scratch", "security-engineer-from-scratch"]
 ---
@@ -18,6 +19,11 @@ related: ["solution-architect-interview", "solution-architect-in-30s", "solution
 本記事では、SAという職種の構造的な理解から始め、どの職種経験がどの程度の有利さを持つか、どのスキルを優先的に補強すべきか、現実的なキャリアルートを具体的に整理する。「未経験」という言葉の定義を適切に解釈することが、転職戦略の出発点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-from-scratch">無料で相談する</a>
+</aside>
 
 ## ソリューションアーキテクトとは何をする職種か
 
@@ -111,6 +117,11 @@ ITコンサルタントはビジネス軸・提案軸の経験は豊富である
 このケースが示すのは、「技術補強＋既存経験の言語化＋実績の可視化」の3点セットが移行の現実的な準備であるという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

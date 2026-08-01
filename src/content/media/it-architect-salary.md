@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["ITアーキテクト", "年収相場"]
 pubDate: 2026-07-04
 slug: "it-architect-salary"
+hub: "it-architect"
 image: "/images/media/it-architect-salary.png"
 related: ["it-architect-resume", "it-architect-salary-600", "it-architect-in-30s", "cloud-engineer-salary", "erp-consultant-salary"]
 ---
@@ -24,6 +25,11 @@ ITアーキテクトは、システム全体の構造設計を担う職種であ
 - **データアーキテクト**：データ基盤・データモデルの設計を主導する
 
 これらの専門性は一部重複するが、採用市場では職種名称が異なるため、年収交渉においても「自分がどの専門領域か」を明確にすることが重要になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代・30代のITアーキテクト年収レンジ
 
@@ -103,6 +109,11 @@ ITアーキテクトは、システム全体の構造設計を担う職種であ
 - **拡張型**：EAや技術戦略の立案など、より組織横断的な役割を担う方向
 
 どちらの方向でも、自分のアーキテクチャ判断がビジネスにどう影響したかを定量・定性両面で語れる状態を作ることが、転職・社内昇進問わず年収改善の基盤になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["フィンテック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "fintech-industry-company"
+hub: "fintech-industry"
 image: "/images/media/fintech-industry-company.png"
 related: ["fintech-industry-trend", "fintech-industry-career", "fintech-industry-salary", "web3-industry-company", "govtech-industry-company"]
 ---
@@ -26,6 +27,11 @@ related: ["fintech-industry-trend", "fintech-industry-career", "fintech-industry
 転職先を評価する際は、まず自社がこのうちどの類型かを確認することが出発点になる。類型が異なれば、リスク構造もKPIも採用される人材の役割も変わる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-company">無料で相談する</a>
+</aside>
 
 ## 見るべき指標：財務・規制・組織の三層構造
 
@@ -95,6 +101,11 @@ related: ["fintech-industry-trend", "fintech-industry-career", "fintech-industry
 面接は双方向の情報収集の場であり、上位層の候補者ほど「企業を評価する側でもある」という姿勢で臨むことが有効である。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

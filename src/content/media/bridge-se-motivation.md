@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["ブリッジSE", "志望動機"]
 pubDate: 2026-07-04
 slug: "bridge-se-motivation"
+hub: "bridge-se"
 image: "/images/media/bridge-se-motivation.png"
 related: ["bridge-se-english", "bridge-se-skills", "bridge-se-how-to-use-agent", "ai-engineer-motivation", "marketing-manager-motivation"]
 ---
@@ -29,6 +30,11 @@ related: ["bridge-se-english", "bridge-se-skills", "bridge-se-how-to-use-agent",
 オフショア開発は案件ごとに体制が変わりやすく、コミュニケーションコストが高い環境です。その中で継続的に成果を出せる素地があるか、また転職後の成長イメージを本人が描けているかが評価されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 志望動機に盛り込むべき四つの要素
 
@@ -115,6 +121,11 @@ related: ["bridge-se-english", "bridge-se-skills", "bridge-se-how-to-use-agent",
 いずれも、志望動機に書いた内容から派生する質問です。書いた内容と面接での発言が整合するよう、志望動機の作成段階で「深堀りされたときに答えられる根拠があるか」を確認しながら仕上げることが実務上重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

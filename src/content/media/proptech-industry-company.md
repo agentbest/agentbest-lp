@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["不動産テック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "proptech-industry-company"
+hub: "proptech-industry"
 image: "/images/media/proptech-industry-company.png"
 related: ["proptech-industry-career", "proptech-industry-salary", "proptech-industry-guide", "ec-industry-company", "logitech-industry-company"]
 ---
@@ -26,6 +27,11 @@ related: ["proptech-industry-career", "proptech-industry-salary", "proptech-indu
 - **スマートビル・IoT**：センサー連携、エネルギー管理、共用部DX
 
 それぞれで求められるスキルセット、顧客（BtoB・BtoC・BtoG）、収益モデル、競合環境が異なる。自分のキャリア目標と照合する際は、「不動産テック全般」ではなく、どのカテゴリかを特定した上で企業を評価する必要がある。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-company">無料で相談する</a>
+</aside>
 
 ## 企業選びで見るべき6つの指標
 
@@ -86,6 +92,11 @@ IR資料・代表のインタビュー記事・採用ページの事業説明文
 業界アクセスの観点では、全国規模の管理会社との取引実績が公開されているか、業界紙や展示会での露出があるかを調べる。こうした情報は自社サイトの導入事例ページや代表の登壇履歴から確認しやすい。
 
 このように「収益モデル→顧客基盤→フェーズ→業界接点」の順に構造を解析する習慣を持つと、企業評価の精度が上がる。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=proptech-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

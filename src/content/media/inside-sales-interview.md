@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["インサイドセールス", "面接対策"]
 pubDate: 2026-07-03
 slug: "inside-sales-interview"
+hub: "inside-sales"
 image: "/images/media/inside-sales-interview.png"
 related: ["inside-sales-company-size", "inside-sales-salary", "inside-sales-work-style", "digital-marketer-interview", "finance-interview"]
 ---
@@ -24,6 +25,11 @@ related: ["inside-sales-company-size", "inside-sales-salary", "inside-sales-work
 | プロセス思考 | ボトルネックの特定と打ち手の構造化 | 業績が伸び悩んだ時にどう対処したか |
 
 採用企業がBDR（新規開拓型）とSDR（マーケティング連携型）のどちらを求めているかによって、問われる比重は変わる。応募先のポジションがどちらの色合いが強いかを事前に確認しておくことが、回答を最適化する前提になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## カテゴリ別：頻出質問と回答の組み立て方
 
@@ -102,6 +108,11 @@ SFAのデータを分析したところ、リード受領から24時間以内に
 - 自分の過去実績をKPI別（架電数・コネクト率・商談化率・成約率）に整理し、数値で言語化できる状態にしておく
 - 使用ツールとその具体的な活用方法を箇条書きで棚卸しする
 - 「なぜこの会社のインサイドセールスか」を、事業モデル・ターゲット顧客・商材の特性から説明できるようにしておく
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

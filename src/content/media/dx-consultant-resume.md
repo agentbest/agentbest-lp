@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["DXコンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "dx-consultant-resume"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-resume.png"
 related: ["dx-consultant-salary-1000", "dx-consultant-english", "dx-consultant-skills", "fas-consultant-resume", "presales-resume"]
 ---
@@ -34,6 +35,11 @@ DXコンサルタントとして転職活動を進める上で、職務経歴書
 DXは定義が曖昧なまま使われることが多く、職務経歴書で「DX推進を担当」と書いただけでは、読み手は何もイメージできない。クライアント規模・業種・どのレイヤーの課題に関与したかを具体化しなければ、経験の深さが伝わらない。書類選考の段階で差がつく最も多い原因がこれである。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## 書類通過率に影響する構成の考え方
 
@@ -142,6 +148,11 @@ DXは定義が曖昧なまま使われることが多く、職務経歴書で「
 「業務効率が向上しました」という記述は、読み手にとってほぼ価値がない。定量値が出せない場合でも、「何が変わったか」「誰にとってどのような変化が生じたか」を具体化することで、記述に厚みが出る。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

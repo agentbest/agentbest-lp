@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["マーケティングマネージャー", "30代転職"]
 pubDate: 2026-07-04
 slug: "marketing-manager-in-30s"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-in-30s.png"
 related: ["marketing-manager-failure", "marketing-manager-salary-1000", "marketing-manager-market-trend", "uiux-designer-in-30s", "mobile-engineer-in-30s"]
 ---
@@ -22,6 +23,11 @@ related: ["marketing-manager-failure", "marketing-manager-salary-1000", "marketi
 こうした背景から、マーケティングマネージャーの採用は「育成前提の若手採用」ではなく、「入社直後から成果に関与できる人材」を前提とした即戦力採用が主流になっています。30代はこのポジションへの適齢期に重なりやすく、採用市場における競争も相応に高くなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 30代マーケティングマネージャーに求められるスキルセット
 
@@ -98,6 +104,11 @@ related: ["marketing-manager-failure", "marketing-manager-salary-1000", "marketi
 最後の問いは、候補者が職務記述書を正確に読み解けているか、そして組織への貢献のイメージを持っているかを見ています。回答の質を高めるためには、求人票・会社の決算情報・採用ページ・プレスリリースを事前に精読したうえで仮説を持つことが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

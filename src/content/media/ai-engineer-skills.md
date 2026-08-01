@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["AIエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "ai-engineer-skills"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-skills.png"
 related: ["ai-engineer-salary-600", "ai-engineer-english", "ai-engineer-how-to-use-agent", "recruiter-skills", "frontend-engineer-skills"]
 ---
@@ -26,6 +27,11 @@ AIエンジニアに必要なスキルは、大きく以下の3レイヤーに�
 この3層が薄い部分なく揃っているエンジニアは、市場において「AIプロダクトを自走させられる人材」と評価される傾向がある。逆に、ML/AI技術層だけが突出していても、ビジネス課題の設定や本番環境への展開に課題を抱えるケースは少なくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-skills">無料で相談する</a>
+</aside>
 
 ## スキル優先順位マップ
 
@@ -116,6 +122,11 @@ Python・数学基礎・scikit-learnを用いた機械学習の基礎実装を�
 MLOps・要件定義・チームリードの経験を意識的に取りに行く。技術力の総量よりも「プロジェクトを前に進められるか」が評価の軸に移行しやすいフェーズだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

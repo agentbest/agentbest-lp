@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["MLOpsエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-failure"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-failure.png"
 related: ["mlops-engineer-future", "mlops-engineer-work-style", "mlops-engineer-from-scratch", "digital-marketer-failure", "legal-failure"]
 ---
@@ -33,6 +34,11 @@ MLOpsという職種名が指す業務範囲は、組織の成熟度やビジネ
 「MLOpsエンジニア」として応募しても、実態がデータエンジニアリングに近い企業もあれば、SRE業務の比重が高い企業もあります。職種名だけで業務内容を推測することは難しく、これが転職後のミスマッチの根本原因になりやすいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターンと構造的な原因
 
@@ -121,6 +127,11 @@ MLOpsエンジニアの市場における報酬レンジは、経験・スキル
 - [ ] 転職理由が入社後の業務環境で解消されるかを再確認したか
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["開発ディレクター", "市場動向"]
 pubDate: 2026-07-04
 slug: "dev-director-market-trend"
+hub: "dev-director"
 image: "/images/media/dev-director-market-trend.png"
 related: ["dev-director-english", "dev-director-interview", "dev-director-in-30s", "inside-sales-market-trend", "bridge-se-market-trend"]
 ---
@@ -27,6 +28,11 @@ SaaS・プラットフォーム型ビジネスが主流になるにつれ、エ�
 
 **③ AIツール活用による業務構造の変化**  
 コード生成・設計補助・ドキュメント自動化などの領域でAIツールの活用が進むにつれ、ディレクターに求められる意思決定の質が変化しています。「工数の管理」よりも「技術的負債の可視化」「ビルドとバイの判断」「外部ツール選定の評価」といった上位レイヤーの判断が期待されるようになっています。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの3つの変化軸
 
@@ -88,6 +94,11 @@ SaaS・プラットフォーム型ビジネスが主流になるにつれ、エ�
 この違いを理解した上で、自分がどちらの文脈でも機能できる（あるいはあえて内製に移りたい理由がある）ことを論理的に示せる候補者は、書類・面接ともに通過しやすい傾向があります。
 
 一方、受託経験を「複数プロジェクトの並行管理力」「多様なステークホルダーとの折衝経験」として正確にフレーミングすることで、事業会社側に刺さる職歴として提示できます。スキルの再定義が転職成否を分けることが少なくありません。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

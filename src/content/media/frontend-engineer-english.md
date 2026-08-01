@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["フロントエンドエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-english"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-english.png"
 related: ["frontend-engineer-motivation", "frontend-engineer-in-30s", "frontend-engineer-interview", "customer-success-english", "it-architect-english"]
 ---
@@ -35,6 +36,11 @@ MDN Web Docs、公式フレームワークのドキュメント、GitHubのissue
 | Slackでの非同期テキスト議論 | ライティング（文脈説明力） | 外資・グローバルリモート |
 | ビデオ会議・口頭での仕様説明 | スピーキング＋リスニング | 外資・海外拠点との協働 |
 | 海外カンファレンス登壇・OSS貢献 | 総合的な発信力 | シニア・スペシャリスト層 |
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力で変わる求人の幅
 
@@ -85,6 +91,11 @@ OSSのissue報告や既存issue へのコメントを英語で行う。最初は
 実務での英語経験を積んだ後、外資系またはフルリモートの海外企業への転職を検討できるようになる。スピーキング・リスニングの実力が問われるが、テキストベースの経験が下地になる。
 
 このパターンで重要なのは、英語力単体で転職するのではなく、技術力の底上げと並行して英語対応力を広げていく点だ。英語は「技術力に乗せる掛け算の要素」として機能しやすく、技術力が低い状態で英語力だけを磨いても市場評価には直結しない。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

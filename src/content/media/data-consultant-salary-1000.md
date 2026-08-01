@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["データ・アナリティクスコンサルタント", "年収1000万"]
 pubDate: 2026-07-05
 slug: "data-consultant-salary-1000"
+hub: "data-consultant"
 image: "/images/media/data-consultant-salary-1000.png"
 related: ["data-consultant-career-guide", "data-consultant-resume", "data-consultant-interview", "legal-salary-1000", "solution-architect-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["data-consultant-career-guide", "data-consultant-resume", "data-consul
 表から読み取れるのは、コンサルファームに在籍した場合、マネージャー職位前後で年収1,000万円圏内に入りやすいという構造である。一方、事業会社は職位定義が組織ごとに異なり、同等の実力であっても報酬水準が低く抑えられるケースが多い傾向にある。ただし近年は、デジタル人材の市場単価上昇を受けて事業会社側が報酬水準を引き上げる動きも見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの型
 
@@ -84,6 +90,11 @@ related: ["data-consultant-career-guide", "data-consultant-resume", "data-consul
 この型において共通するのは、「技術習熟→デリバリー品質の証明→ビジネス側への関与拡大」という段階的な積み上げである。1,000万円はゴールではなく、マネージャーとしての職責に見合った報酬水準であるという認識が、キャリア構築の方向性に影響する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

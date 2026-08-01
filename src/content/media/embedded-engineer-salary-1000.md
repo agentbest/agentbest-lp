@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["組み込みエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-salary-1000"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-salary-1000.png"
 related: ["embedded-engineer-skills", "embedded-engineer-certification", "embedded-engineer-how-to-use-agent", "thinktank-salary-1000", "hr-consultant-salary-1000"]
 ---
@@ -41,6 +42,11 @@ related: ["embedded-engineer-skills", "embedded-engineer-certification", "embedd
 **受託・SIer構造の多さ。** 組み込みの受注開発は多重下請け構造に組み込まれやすく、エンジニアの付加価値が最終製品価値ではなく「工数単価」として評価される環境が続きやすい傾向があります。この構造の中にとどまる限り、年収の上昇には限界が生じやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリアの型
 
@@ -108,6 +114,11 @@ related: ["embedded-engineer-skills", "embedded-engineer-certification", "embedd
 組み込みエンジニア向けの求人は、公開されている求人票よりも非公開求人の比率が高い傾向があります。外資系・ハードウェアベンチャー・大手メーカーの研究開発部門などは、採用の機密性から非公開にするケースが少なくありません。市場の全体像を把握するためには、職種への専門性が高いエージェントを経由した情報収集が補完的に有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

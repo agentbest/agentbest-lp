@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["データベースエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "db-engineer-english"
+hub: "db-engineer"
 image: "/images/media/db-engineer-english.png"
 related: ["db-engineer-salary-600", "db-engineer-interview", "db-engineer-how-to-use-agent", "data-scientist-english", "salesforce-consultant-english"]
 ---
@@ -28,6 +29,11 @@ related: ["db-engineer-salary-600", "db-engineer-interview", "db-engineer-how-to
 - 国際カンファレンス（VLDB, IEEE ICDE等）での知見収集
 
 つまり英語力は「業務遂行の必要条件」というより、「技術的な情報収集速度とキャリアの選択肢を左右する変数」として機能する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力別に見える求人の傾向
 
@@ -84,6 +90,11 @@ PostgreSQLのバキューム挙動の変更、MySQLのパーティショニン�
 
 **この型から読み取れること**
 英語力が転職のトリガーになったわけではなく、英語力が「技術力を示せる市場の幅」を広げた点が本質である。英語力単体での転職ではなく、技術的な実績とのセットで評価されている。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

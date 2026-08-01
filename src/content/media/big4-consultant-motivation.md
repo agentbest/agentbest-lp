@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["総合コンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "big4-consultant-motivation"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-motivation.png"
 related: ["big4-consultant-failure", "big4-consultant-future", "big4-consultant-skills", "security-engineer-motivation", "mlops-engineer-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["big4-consultant-failure", "big4-consultant-future", "big4-consultant-
 多くの候補者は①と②は書くものの、③の解像度が低くなりがちです。「成長したい」「多様な業界に携わりたい」という記述は③に見えて実は①の表層に留まっており、評価を下げる要因になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構成
 
@@ -113,6 +119,11 @@ Afterでは、①具体的な経験に根ざしたWhy、②ファームの特定
 志望動機の文字数制限（200〜400字が多い）の中でこの三段構成を収めるには、Whyの圧縮と具体化が鍵になります。体験エピソードを一文で表現し、残りをWhatとHowに配分するとバランスが取りやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

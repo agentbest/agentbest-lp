@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["ERPコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-05
 slug: "erp-consultant-how-to-use-agent"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-how-to-use-agent.png"
 related: ["erp-consultant-future", "erp-consultant-in-20s", "erp-consultant-market-trend", "solution-architect-how-to-use-agent", "pmo-consultant-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ ERPコンサルタントには大きく分けて、SAPやOracle、Microsoftと�
 **年収の変動幅が大きい**。経験するモジュール・業界・プロジェクトフェーズによって市場価値が大きく変わる。外資系コンサルティングファームのプリンシパルクラスと、SIerのERP担当者では年収レンジが数百万円単位で異なることもある。この変動幅が大きいほど、相場観を持つ仲介者の存在が有効になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを使うべき実質的な理由
 
@@ -97,6 +103,11 @@ ERPコンサルタントの転職では、大手総合型エージェントと�
 このケースで機能したのは、非公開求人へのアクセスだけでなく、「企業が何を見て採否を判断するか」の情報が事前に共有されたことである。同等の経験を持っていても、訴求の組み立て方次第で選考の通過率は変わりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

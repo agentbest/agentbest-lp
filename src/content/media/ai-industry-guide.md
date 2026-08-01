@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["生成AI", "AI業界", "業界研究"]
 pubDate: 2026-07-03
 slug: "ai-industry-guide"
+hub: "ai-industry"
 image: "/images/media/ai-industry-guide.png"
 ---
 
@@ -20,6 +21,11 @@ image: "/images/media/ai-industry-guide.png"
 - **導入支援層**：AIコンサルティング、受託開発、教育研修
 
 転職市場で求人が最も多いのはアプリケーション層と導入支援層です。「AI企業=研究者の世界」というイメージは実態と異なり、ビジネス職の採用ニーズが急拡大しています。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## 職種別の採用ニーズ
 
@@ -50,6 +56,11 @@ AIプロダクトのセールス、カスタマーサクセス、PdMの採用が
 3. **現職でAI活用実績を作る**:社内のAI導入プロジェクトに手を挙げ、実績を持って転職する
 
 「AIを作る側」でなく「AIを使って価値を出す側」から入るのが、最も再現性の高いルートです。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-guide">無料で相談する</a>
+</aside>
 
 ## 企業選びの注意点
 

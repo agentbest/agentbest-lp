@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["Webマーケター", "英語力"]
 pubDate: 2026-07-04
 slug: "web-marketer-english"
+hub: "web-marketer"
 image: "/images/media/web-marketer-english.png"
 related: ["web-marketer-career-guide", "web-marketer-failure", "web-marketer-market-trend", "marketing-manager-english", "game-engineer-english"]
 ---
@@ -34,6 +35,11 @@ Meta Ads・Google Ads・HubSpot・Salesforce Marketing Cloudなど、マーケ�
 ### グローバルケーススタディ・リサーチの活用
 
 最新のマーケティング事例やB2Bファネル設計の研究は、英語圏の情報が圧倒的に豊富かつ先行している。英語で一次情報にアクセスできることは、戦略立案の質に差をもたらす傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語レベル別・求人の広がり方
 
@@ -88,6 +94,11 @@ Meta Ads・Google Ads・HubSpot・Salesforce Marketing Cloudなど、マーケ�
 3. **目指すポジションに応じて会話・ライティングを強化する**
 
 英語を最初から高い優先度で追いかけるより、専門性と並走しながら段階的に習得していくアプローチが、実務への転用・評価の観点からも合理的なことが多い。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

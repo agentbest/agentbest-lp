@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["データアナリスト", "20代転職"]
 pubDate: 2026-07-04
 slug: "data-analyst-in-20s"
+hub: "data-analyst"
 image: "/images/media/data-analyst-in-20s.png"
 related: ["data-analyst-skills", "data-analyst-career-guide", "data-analyst-from-scratch", "corporate-it-in-20s", "backend-engineer-in-20s"]
 ---
@@ -18,6 +19,11 @@ related: ["data-analyst-skills", "data-analyst-career-guide", "data-analyst-from
 データアナリストは職種として比較的新しく、新卒から体系的にキャリアを積んできた人材の絶対数がまだ少ない。そのため、中途採用でも「実務経験3年以上」を必須としない求人が一定数存在する。特に事業会社（自社サービス・EC・金融・人材など）においては、データ組織を立ち上げ中または拡張中の段階にあることが多く、ポテンシャルを見越した採用が起きやすい構造にある。
 
 一方で「ポテンシャル採用」の定義は企業によって異なる。完全に未経験の状態を指す場合もあれば、「SQLを書いた経験はあるが分析業務としては従事していない」程度を指すケースも多い。採用担当者が「育成コストを払える」と判断する水準は、求人票に明示されないことが多いため、書類選考で落とされる前に情報収集を怠らないことが重要になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業タイプ別の採用難易度と特徴
 
@@ -87,6 +93,11 @@ SFAやCRMのダッシュボードを日常的に利用しており、パイプ�
 | 高度なSQLとBIツール実務・PythonまたはR併用 | 600〜800万円前後 |
 
 これらはあくまで目安であり、企業の規模・事業フェーズ・職種の位置付け（BizDev寄りかエンジニア寄りか）によって上下する。また、スタートアップはSOやストックオプション等を含む報酬設計であることも多く、固定給だけでは比較しにくい側面がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

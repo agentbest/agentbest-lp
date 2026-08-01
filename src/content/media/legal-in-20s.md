@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["法務", "20代転職"]
 pubDate: 2026-07-04
 slug: "legal-in-20s"
+hub: "legal"
 image: "/images/media/legal-in-20s.png"
 related: ["legal-skills", "legal-failure", "legal-work-style", "tech-lead-in-20s", "mlops-engineer-in-20s"]
 ---
@@ -26,6 +27,11 @@ related: ["legal-skills", "legal-failure", "legal-work-style", "tech-lead-in-20s
 - 総合職採用の延長で法務部門に配属する大手企業
 
 20代転職で現実的に狙えるのは、主にこのポテンシャル採用の文脈です。そしてこの類型では、「資格の有無」よりも「論理的思考力・文章読解力・リスク感度をいかに証明できるか」が選考の軸になります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-in-20s">無料で相談する</a>
+</aside>
 
 ## 求められるスキルと「代替経験」の示し方
 
@@ -90,6 +96,11 @@ SaaS・フィンテック・ヘルスケアDX・プラットフォームビジ�
 法務1名体制の企業に2人目として入社。最初の6ヶ月は契約書審査・利用規約の更新・社内規程の整備補助を担当。外部顧問弁護士との連携業務を通じ、レビュー水準を実務的に習得。2年後に同規模他社でリード法務担当として転職し、年収を150万円程度引き上げた。
 
 このパターンが示すのは、「初回転職で完成形を求めない」という発想の有効性です。スタートアップ・成長企業での1〜2年の実務経験が、次の市場評価を大きく変える転換点になる傾向があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["CTO・VPoE候補", "年収600万"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-salary-600"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-salary-600.png"
 related: ["cto-vpoe-certification", "cto-vpoe-career-path", "cto-vpoe-company-size", "mlops-engineer-salary-600", "post-consultant-salary-600"]
 ---
@@ -27,6 +28,11 @@ CTO・VPoE候補というキャリアパスを歩む上で、年収600万円と�
 この表はあくまで市場の目安であり、業種・会社フェーズ・事業規模によって大きく変動する。重要なのは、600万円という水準が「シニアエンジニアの上限」と「テックリードの中央値」が重なる帯域にあるという点だ。
 
 つまり600万円前後で停滞している状態は、「技術力は一定あるが、組織・事業への貢献が評価者に伝わっていない」という構造を反映していることが多い。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-salary-600">無料で相談する</a>
+</aside>
 
 ## 年収600万円が壁になりやすい3つの構造的要因
 
@@ -84,6 +90,11 @@ VPoEの核心は、エンジニアリング組織の設計・運営にある。�
 **結果の傾向：** 社員数50〜150名程度・Series B〜C相当の成長期SaaS企業からVPoEポジションのオファーが出やすく、800〜1,000万円前後の水準でのオファーが複数出る傾向がある。
 
 この型から読み取れるのは、「同じ実績でも転職先のフェーズと規模の選び方で、提示されるポジション・処遇が大きく変わる」という構造だ。現職での停滞が「環境・タイミングの問題」なのか、「実績・言語化の問題」なのかを切り分けることが、戦略の起点になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

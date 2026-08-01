@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["採用担当", "年収1000万"]
 pubDate: 2026-07-04
 slug: "recruiter-salary-1000"
+hub: "recruiter"
 image: "/images/media/recruiter-salary-1000.png"
 related: ["recruiter-salary", "recruiter-work-style", "recruiter-certification", "freelance-consultant-salary-1000", "game-engineer-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["recruiter-salary", "recruiter-work-style", "recruiter-certification",
 上表の通り、年収1,000万円は「採用担当」という職種の中では上位層の水準に位置する。事業会社の採用担当スタッフとして勤続年数を重ねるだけでは、多くの場合800万円前後が実質的な上限になりやすい。1,000万円に到達するには、ポジション・組織・報酬設計の三つが噛み合う環境を意図的に選ぶ必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収1,000万円に到達しやすい採用担当の類型
 
@@ -98,6 +104,11 @@ related: ["recruiter-salary", "recruiter-work-style", "recruiter-certification",
 - **英語力（外資系志向の場合）**：採用面接の英語対応・海外HQとの連携が求められるケースが多い
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

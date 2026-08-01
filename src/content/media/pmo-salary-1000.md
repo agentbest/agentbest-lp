@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["PMO", "年収1000万"]
 pubDate: 2026-07-04
 slug: "pmo-salary-1000"
+hub: "pmo"
 image: "/images/media/pmo-salary-1000.png"
 related: ["pmo-english", "pmo-salary", "pmo-in-20s", "it-architect-salary-1000", "engineering-manager-salary-1000"]
 ---
@@ -30,6 +31,11 @@ PMOの年収は、役割の範囲と組織における位置づけによって�
 この表からわかるように、1,000万円という水準は「マネージャー上位〜オーナー層」または「高度なフリーランス案件」が主な到達ルートです。スタッフ〜リードレベルでの到達は、外資系企業や一部のコンサルファームを除けばあまり一般的ではありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円に到達しやすい3つの条件
 
@@ -100,6 +106,11 @@ PMOの報酬は、対象プロジェクトの規模・複雑性・ビジネス�
 資格はシグナルとして機能しますが、年収水準を規定するのは資格の有無より「どの難度の案件で、どの役割を担ったか」という実績の文脈です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

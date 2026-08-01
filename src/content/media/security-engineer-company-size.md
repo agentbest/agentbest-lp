@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["セキュリティエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "security-engineer-company-size"
+hub: "security-engineer"
 image: "/images/media/security-engineer-company-size.png"
 related: ["security-engineer-resume", "security-engineer-career-path", "security-engineer-skills", "data-analyst-company-size", "scm-consultant-company-size"]
 ---
@@ -34,6 +35,11 @@ related: ["security-engineer-resume", "security-engineer-career-path", "security
 プロダクトのグロースとセキュリティ要件が競合しやすいという固有の課題もある。開発速度を優先したい事業側との調整に、セキュリティ担当者が孤立しやすい場面が生じることもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 比較表：大手 vs スタートアップ
 
@@ -89,6 +95,11 @@ CISOやセキュリティ部門のヘッド候補として動く段階では、�
 **留意点：** 孤立しやすいため、外部コミュニティ（セキュリティ関連の勉強会・情報共有グループなど）への参加が実質的に必要になった。また、組織の方針転換で予算が削減されるリスクも実際に経験している。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

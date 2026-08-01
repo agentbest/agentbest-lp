@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["リスク・ガバナンスコンサルタント", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "risk-consultant-company-size"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-company-size.png"
 related: ["risk-consultant-future", "risk-consultant-career-guide", "risk-consultant-skills", "it-architect-company-size", "thinktank-company-size"]
 ---
@@ -28,6 +29,11 @@ related: ["risk-consultant-future", "risk-consultant-career-guide", "risk-consul
 スタートアップや規模の小さい独立系ファームでは、入社早期からクライアントの窓口に立ちやすく、課題設定から提言・実装支援まで一気通貫で関与する機会が多くなる傾向がある。リソースが限られるため、自律的に動く力と守備範囲の広さが求められる。
 
 一方で、大規模・複雑な規制対応案件の経験や、体系的な方法論の訓練が得にくいケースもある。また、ファームとしてのブランド・信用力がクライアントの属性に影響するため、金融機関や上場企業のガバナンス案件を主戦場にするには、一定のキャリアを積んでからの移籍が有利に働くことがある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 比較表：大手 vs スタートアップ
 
@@ -74,6 +80,11 @@ related: ["risk-consultant-future", "risk-consultant-career-guide", "risk-consul
 スタートアップで早期からリード経験を積んだ後、大手ファームのシニアポジションまたは大企業のガバナンス・リスク管理部門へ移籍。組織規模に応じたリスク管理の複雑性・制度的精緻さを補完するパターン。スタートアップでの「動く速さ」と大手の「制度設計の深さ」を両立することで、独自のポジションを形成しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

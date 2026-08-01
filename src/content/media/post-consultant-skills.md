@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["ポストコンサル", "必要スキル"]
 pubDate: 2026-07-05
 slug: "post-consultant-skills"
+hub: "post-consultant"
 image: "/images/media/post-consultant-skills.png"
 related: ["post-consultant-resume", "post-consultant-market-trend", "post-consultant-from-scratch", "finance-skills", "business-consultant-skills"]
 ---
@@ -20,6 +21,11 @@ related: ["post-consultant-resume", "post-consultant-market-trend", "post-consul
 コンサルタントが日常的に扱うスキル群——論点整理、資料作成、プロジェクトマネジメント、クライアントコミュニケーション——は確かに高水準で鍛えられる。しかしこれらは、事業会社における「実行フェーズ」や「組織運営」の文脈に翻訳されなければ、そのままでは機能しにくい場合がある。
 
 転身先がスタートアップか大手事業会社かによっても、求められるスキルの重みは変わる。まずは、転身先の代表的な類型ごとに求められるスキル群の傾向を把握することが出発点になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-skills">無料で相談する</a>
+</aside>
 
 ## 転身先別・求められるスキルの傾向
 
@@ -85,6 +91,11 @@ related: ["post-consultant-resume", "post-consultant-market-trend", "post-consul
 転身活動中に、SaaS関連の業界レポートを継続的に読み込むと同時に、副業・社外プロジェクトを通じてスタートアップの事業企画を経験。選考では「補完中のスキルを補完中として正直に示したうえで、学習速度と適応意欲を具体的な行動で示す」アプローチを取った結果、内定に至った。
 
 このケースが示す通り、スキルの欠缺を隠すよりも、自己認識の正確さと学習の意志を示す方が、採用担当者に対して説得力を持つことが多い。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

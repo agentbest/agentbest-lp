@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["社内SE", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "corporate-it-how-to-use-agent"
+hub: "corporate-it"
 image: "/images/media/corporate-it-how-to-use-agent.png"
 related: ["corporate-it-salary", "corporate-it-salary-600", "corporate-it-career-path", "fas-consultant-how-to-use-agent", "cto-vpoe-how-to-use-agent"]
 ---
@@ -36,6 +37,11 @@ related: ["corporate-it-salary", "corporate-it-salary-600", "corporate-it-career
 社内SEの求人には、非公開で流通するものが一定数存在する。グループ全体のIT基盤を担うポジションや、経営層に近いIT企画職、CISO補佐・情報システム部長候補などは、社内での調整上・競合情報管理上の理由から、エージェントに限定して求人を出す企業がある。転職サイトへの掲載のみでは接触できない機会が存在することも、エージェント活用の実際的な理由の一つとなっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## 社内SEが見るべきエージェントの選定基準
 
@@ -90,6 +96,11 @@ related: ["corporate-it-salary", "corporate-it-salary-600", "corporate-it-career
 自己応募では求人票のスペックから「インフラ運用担当」として見られやすいところを、エージェントが職務経歴を整理・翻訳することで、より上位ポジションの候補者として認識してもらえることがある。これは社内SE特有の「業務の幅広さが職種名に反映されにくい」という課題に対して、エージェントが機能する典型的なパターンである。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

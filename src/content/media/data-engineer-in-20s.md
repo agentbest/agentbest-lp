@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["データエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "data-engineer-in-20s"
+hub: "data-engineer"
 image: "/images/media/data-engineer-in-20s.png"
 related: ["data-engineer-market-trend", "data-engineer-company-size", "data-engineer-english", "fullstack-engineer-in-20s", "finance-in-20s"]
 ---
@@ -20,6 +21,11 @@ related: ["data-engineer-market-trend", "data-engineer-company-size", "data-engi
 この職種が20代にとって狙いやすい理由は、技術的な蓄積よりも「構造を理解して実装する能力」が問われる傾向にある点にある。年功序列的なキャリアが成立しにくく、スキルと成果物で評価されやすい職種であるため、若手の参入余地が相対的に広い。
 
 また、データ活用に取り組む企業が増加した結果、データエンジニアの絶対数が不足している。特に事業会社においては、そもそも専任のデータエンジニアが存在しないケースも多く、ゼロからチームを立ち上げることを前提とした採用が行われることもある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## ポテンシャル採用の実態：何がスキルとして読み替えられるか
 
@@ -105,6 +111,11 @@ related: ["data-engineer-market-trend", "data-engineer-company-size", "data-engi
 | コンサルティングファーム | 550〜800万円程度 | 800〜1,100万円程度 |
 
 これらはあくまで傾向値であり、職位・業績連動・オファー交渉の結果によって大きく異なる。スキルセットが明確に評価できるポートフォリオがある場合、同一フェーズでも上振れするケースが見られる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

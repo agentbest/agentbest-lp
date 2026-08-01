@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["SRE", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "sre-resume"
+hub: "sre"
 image: "/images/media/sre-resume.png"
 related: ["sre-motivation", "sre-career-guide", "sre-company-size", "cloud-engineer-resume", "embedded-engineer-resume"]
 ---
@@ -31,6 +32,11 @@ SLO（Service Level Objective）・SLI（Service Level Indicator）・エラー�
 これらの観点を念頭に置くと、「何を書くべきか」の優先順位が自然と定まります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -125,6 +131,11 @@ SREの職務経歴記述において効果的なのは、STAR法（Situation / T
 障害対応・監視・オンコール対応だけを列挙すると、運用保守エンジニアの経歴と区別がつきません。「改善のサイクルを設計した」「ポストモーテムを主導した」「開発チームへの信頼性文化の浸透を行った」など、エンジニアリングと組織の両面への関与が伝わる記述を加えることで差異が明確になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

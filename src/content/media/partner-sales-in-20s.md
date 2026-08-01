@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["パートナーセールス／アライアンス", "20代転職"]
 pubDate: 2026-07-04
 slug: "partner-sales-in-20s"
+hub: "partner-sales"
 image: "/images/media/partner-sales-in-20s.png"
 related: ["partner-sales-salary", "partner-sales-resume", "partner-sales-how-to-use-agent", "sre-in-20s", "data-engineer-in-20s"]
 ---
@@ -31,6 +32,11 @@ related: ["partner-sales-salary", "partner-sales-resume", "partner-sales-how-to-
 ダイレクトセールスとの最大の違いは、「自分ではなくパートナーを動かす」点にある。直接的なクロージング権限を持たないため、影響力の行使と関係性の構築が主たるスキルセットになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代ポテンシャル採用の実態
 
@@ -121,6 +127,11 @@ related: ["partner-sales-salary", "partner-sales-resume", "partner-sales-how-to-
 この事例が示すのは、「経験の翻訳」と「入社後プランの具体化」が選考通過のカギになるという構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 年収水準の目安
 

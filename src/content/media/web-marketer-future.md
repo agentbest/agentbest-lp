@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["Webマーケター", "将来性"]
 pubDate: 2026-07-04
 slug: "web-marketer-future"
+hub: "web-marketer"
 image: "/images/media/web-marketer-future.png"
 related: ["web-marketer-work-style", "web-marketer-market-trend", "web-marketer-salary-1000", "project-manager-future", "tech-lead-future"]
 ---
@@ -38,6 +39,11 @@ AIおよび機械学習の進化により、以下のような業務は自動化
 この二分法が示すのは、「ツールを操作する人材」から「判断をする人材」への移行である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-future">キャリアを相談する</a>
+</aside>
 
 ## Webマーケターの市場価値：スキルと年収の相場観
 
@@ -89,6 +95,11 @@ AIを「使える」ことが前提となりつつある今、重要なのはAI�
 **示唆**：この事例が示すのは、チャネル管理の深さより「事業への貢献を可視化する力」が市場評価に直結しやすいという点だ。AIが定型業務を担う時代においても、ビジネスインパクトを語れる人材の評価は構造的に高い傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

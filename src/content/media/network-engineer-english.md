@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["ネットワークエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "network-engineer-english"
+hub: "network-engineer"
 image: "/images/media/network-engineer-english.png"
 related: ["network-engineer-interview", "network-engineer-certification", "network-engineer-resume", "sap-consultant-english", "data-analyst-english"]
 ---
@@ -31,6 +32,11 @@ related: ["network-engineer-interview", "network-engineer-certification", "netwo
 ### 英語なしでも通用するキャリア、英語があると広がるキャリア
 
 「英語力がなくても第一線で活躍できるか」という問いへの答えはYesです。ただし、「英語力があるとキャリアの選択肢が広がるか」という問いに対しても明確にYesです。この二つは矛盾しません。英語力はネットワークエンジニアとしての技術力を代替するものではなく、技術力の上に重ねることで求人の母数と交渉力を高める要素と捉えるのが実態に近いでしょう。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-english">無料で相談する</a>
+</aside>
 
 ## 英語力と求人・年収の関係
 
@@ -92,6 +98,11 @@ related: ["network-engineer-interview", "network-engineer-certification", "netwo
 - **ベンダーの公式ドキュメントを日本語版より先に英語版で参照する**：クラウドサービスの新機能情報は英語版のほうが更新が早い
 - **英語での技術ライティングに慣れる**：社内Confluenceや設計書を英語で書く機会があれば積極的に使う、なければ個人のZennやGitHub READMEで練習する
 - **グローバルコミュニティへの参加**：NAPALMやBatfish等のネットワーク自動化コミュニティはGitHub・Slack上での英語でのやり取りが中心であり、実践的な読み書き練習になる
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

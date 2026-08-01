@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["法務", "資格"]
 pubDate: 2026-07-04
 slug: "legal-certification"
+hub: "legal"
 image: "/images/media/legal-certification.png"
 related: ["legal-how-to-use-agent", "legal-salary-1000", "legal-work-style", "data-engineer-certification", "erp-consultant-certification"]
 ---
@@ -24,6 +25,11 @@ related: ["legal-how-to-use-agent", "legal-salary-1000", "legal-work-style", "da
 一方で、資格が「まったく意味をなさない」わけでもありません。資格の種類・レベルによっては、専門性の客観的証明として採用担当者・経営層の評価に影響します。重要なのは、資格をどのシーンでどう活用するかを見極めることです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格と評価されにくい資格の整理
 
@@ -78,6 +84,11 @@ SaaS・ソフトウェア・製薬・半導体など、知的財産が事業競�
 一定の法務実績を持つ層では、資格そのものより「どのような案件を主導したか」の方が評価の主軸となります。このケースでは、M&A・PMI対応の経験を具体化すること、英文契約の対応実績を示すことが優先されます。英語力の客観的証明としてTOEICスコアを提示することは有効ですが、それはあくまでも補完的な材料にとどまります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

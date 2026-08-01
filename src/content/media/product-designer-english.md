@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["プロダクトデザイナー", "英語力"]
 pubDate: 2026-07-04
 slug: "product-designer-english"
+hub: "product-designer"
 image: "/images/media/product-designer-english.png"
 related: ["product-designer-future", "product-designer-in-30s", "product-designer-career-path", "business-planning-english", "web-marketer-english"]
 ---
@@ -31,6 +32,11 @@ related: ["product-designer-future", "product-designer-in-30s", "product-designe
 第三層の求人数は第一層より絶対数は少ないものの、単価水準が相対的に高く、スペシャリストとしての処遇が得られやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力レベル別の年収・ポジション比較
 
@@ -86,6 +92,11 @@ SlackやNotion、Linear等のツール上で、タイムゾーンをまたいで
 このケースで重要なのは、英語力を「先行投資」ではなく「業務の中で漸進的に積み上げた」点です。ネイティブ水準を目指さずとも、「読み書きの正確性」と「非同期での英語対応力」から始めることで、求人母集団の拡張は現実的に起こりえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

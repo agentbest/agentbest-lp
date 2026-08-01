@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["インサイドセールス", "職務経歴書"]
 pubDate: 2026-07-03
 slug: "inside-sales-resume"
+hub: "inside-sales"
 image: "/images/media/inside-sales-resume.png"
 related: ["inside-sales-interview", "inside-sales-how-to-use-agent", "inside-sales-english", "data-analyst-resume", "security-engineer-resume"]
 ---
@@ -29,6 +30,11 @@ related: ["inside-sales-interview", "inside-sales-how-to-use-agent", "inside-sal
 4. **自己PR**（再現性・成長意欲を語る箇所）
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職務サマリーの書き方
 
@@ -137,6 +143,11 @@ related: ["inside-sales-interview", "inside-sales-how-to-use-agent", "inside-sal
 「提案力」「コミュニケーション力」などの表現は、どの職種にも当てはまりやすく、インサイドセールスの強みを具体化できていません。「仮説構築と検証サイクルをデータで回すことで、商談創出の再現性を高めた」のように、職種・行動・成果の文脈でPRを組み立てる方が評価されやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

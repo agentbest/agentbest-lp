@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["ゲームエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "game-engineer-skills"
+hub: "game-engineer"
 image: "/images/media/game-engineer-skills.png"
 related: ["game-engineer-motivation", "game-engineer-resume", "game-engineer-from-scratch", "security-engineer-skills", "ml-engineer-skills"]
 ---
@@ -31,6 +32,11 @@ related: ["game-engineer-motivation", "game-engineer-resume", "game-engineer-fro
 採用要件や評価軸は、このロールによって大きく異なります。スキルの優先順位を考えるうえで、まず自身がどのロールを志向するかを明確にすることが出発点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## 市場価値に直結するスキルの優先順位
 
@@ -124,6 +130,11 @@ related: ["game-engineer-motivation", "game-engineer-resume", "game-engineer-fro
 上記はあくまで傾向値であり、大手パブリッシャー・外資系ゲーム企業・スタートアップでは、それぞれ水準が異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

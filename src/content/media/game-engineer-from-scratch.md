@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["ゲームエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "game-engineer-from-scratch"
+hub: "game-engineer"
 image: "/images/media/game-engineer-from-scratch.png"
 related: ["game-engineer-career-guide", "game-engineer-salary-1000", "game-engineer-career-path", "devops-engineer-from-scratch", "pmo-consultant-from-scratch"]
 ---
@@ -36,6 +37,11 @@ related: ["game-engineer-career-guide", "game-engineer-salary-1000", "game-engin
 - **フレームレートとパフォーマンス最適化の概念**：60fps維持のために何を意識するか、という問いに最低限答えられる程度の理解
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 転職ルートの現実的な選択肢
 
@@ -105,6 +111,11 @@ IT・SaaS・Web系でのエンジニア経験者がゲーム業界へ転向す�
 - **汎用エンジニアとしての市場価値向上**：Unityエンジニアとしての経験を他業種（医療・XR・シミュレーション）に展開
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

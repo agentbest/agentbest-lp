@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["セキュリティコンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "security-consultant-from-scratch"
+hub: "security-consultant"
 image: "/images/media/security-consultant-from-scratch.png"
 related: ["security-consultant-failure", "security-consultant-career-guide", "security-consultant-salary", "pr-from-scratch", "enterprise-sales-from-scratch"]
 ---
@@ -33,6 +34,11 @@ related: ["security-consultant-failure", "security-consultant-career-guide", "se
 ### 市場の需給構造を把握する
 
 セキュリティ人材の不足は国内外で継続している。情報処理推進機構（IPA）をはじめ複数の調査機関が定期的にこの課題を取り上げており、採用難が続く企業側が間口をやや広げている傾向がある。ただし「未経験でも採用される」ことと「未経験のままで通用する」ことは全く異なる。採用後の成長速度と自律的な学習継続が、定着・昇進を左右する。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## 必要なスキルと知識の整理
 
@@ -88,6 +94,11 @@ IT企業での法人営業経験、SaaS企業でのカスタマーサクセス�
 転職活動では、完全技術職よりも「顧客折衝経験とセキュリティ知識の双方を求めるポジション」に絞り込んで応募。中堅のセキュリティコンサルティング会社のGRC支援コンサルタント職に内定した。年収は前職比で横ばい〜微増の水準で、技術力をさらに積んだ2〜3年後のアップサイドを見据えての判断だった。
 
 このケースが示すのは、「顧客折衝スキル＋セキュリティ基礎知識の組み合わせ」で参入し、入社後に技術深度を高めるアプローチが、ビジネス職出身者の現実解になりやすいという点である。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

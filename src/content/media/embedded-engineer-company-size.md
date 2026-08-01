@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["組み込みエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-company-size"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-company-size.png"
 related: ["embedded-engineer-career-guide", "embedded-engineer-skills", "embedded-engineer-motivation", "fullstack-engineer-company-size", "product-designer-company-size"]
 ---
@@ -26,6 +27,11 @@ Web・SaaS系エンジニアと比べると、組み込みエンジニアのキ�
 第三に、**市場全体の求人数がIT全体と比べて少ない**ため、自分の条件に合う求人が常に存在するとは限らない。したがって、大手かスタートアップかという二項対立よりも、「今の自分に必要な環境はどこにあるか」という問いで判断することが実態に合っている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 大手・スタートアップの構造比較
 
@@ -89,6 +95,11 @@ IoTプロダクトや産業DX領域のスタートアップでは、RTOSベー�
 **結果と学び**：入社後はFreeRTOSベースのデバイス開発をメインに担当しつつ、クラウドとのAPI設計にも関与。年収はほぼ横ばいだったが、ストックオプションが付与された。重要な示唆は「スタートアップを選ぶ際も、フェーズの見極めが成長機会の質を左右する」という点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

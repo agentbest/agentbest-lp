@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["PMO", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "pmo-how-to-use-agent"
+hub: "pmo"
 image: "/images/media/pmo-how-to-use-agent.png"
 related: ["pmo-from-scratch", "pmo-salary-1000", "pmo-career-path", "qa-engineer-how-to-use-agent", "pmo-consultant-how-to-use-agent"]
 ---
@@ -44,6 +45,11 @@ PMOポジション、とりわけ上位クラスの案件は、公開求人と�
 PMOは「何をどこまでやるか」という職務範囲が流動的なため、年収交渉においても根拠の立て方が難しい職種である。自己応募の場合、企業の提示額をそのまま受け入れるケースが多くなりやすい。エージェントが介在すると、候補者のスキルを言語化して企業側に伝える役割を担えるため、提示年収が変わる余地が生まれやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## PMO転職に強いエージェントの選び方
 
@@ -97,6 +103,11 @@ PMO転職は企業との条件すり合わせに時間がかかりやすい。�
 同じエージェント会社でも、担当者によってPMO領域の知識量は大きく異なる。初回面談で「PMOの中でどのキャリアトラックを想定しているか」という質問に対して具体的な返答がない場合は、担当変更を依頼することも選択肢になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["CTO・VPoE候補", "資格"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-certification"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-certification.png"
 related: ["cto-vpoe-salary-600", "cto-vpoe-motivation", "cto-vpoe-future", "infra-engineer-certification", "strategy-consultant-certification"]
 ---
@@ -28,6 +29,11 @@ CTO・VPoEへのキャリアパスにおいて、資格取得の優先度は「�
 これら三軸において、資格は直接的な証明手段にはなりません。実績・プロダクトの技術的成果・組織のアウトカムで評価が構成されるのが基本です。ただし、評価文脈や企業の性質によって、資格が補助的に機能する場面は存在します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-certification">無料で相談する</a>
+</aside>
 
 ## 評価されやすい資格の類型
 
@@ -109,6 +115,11 @@ CTO・VPoE候補として転職活動や評価を受ける際、資格よりも�
 **事業インパクトとの接続**：技術的な意思決定がどのように事業成果に寄与したかを語れるかどうかは、CTO・VPoE候補として経営陣の納得感を生む上で重要な要素です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

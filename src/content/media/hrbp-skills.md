@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["人事", "必要スキル"]
 pubDate: 2026-07-04
 slug: "hrbp-skills"
+hub: "hrbp"
 image: "/images/media/hrbp-skills.png"
 related: ["hrbp-in-20s", "hrbp-interview", "hrbp-salary-1000", "it-consultant-skills", "enterprise-sales-skills"]
 ---
@@ -26,6 +27,11 @@ related: ["hrbp-in-20s", "hrbp-interview", "hrbp-salary-1000", "it-consultant-sk
 転職市場での価値は、この3層のうち「どこまで到達しているか」と「どの機能で専門性を持つか」の掛け合わせで概ね決まる傾向がある。ベーシックスキルだけでは代替可能性が高く、ストラテジックスキルを持つ人材は相対的に希少性が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-skills">無料で相談する</a>
+</aside>
 
 ## ベーシックスキル：人事職の共通基盤
 
@@ -115,6 +121,11 @@ HRBPとして機能するための必要条件は、担当する事業の収益�
 採用専任としての年収は一般的に抑えられやすい傾向があるが、HRBP・人事企画ポジションへの転換により、年収レンジが大きく変わるケースは珍しくない。特に外資系・メガベンチャーのHRBPは、採用経験者が事業理解を加えた文脈で評価される場面が増えている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

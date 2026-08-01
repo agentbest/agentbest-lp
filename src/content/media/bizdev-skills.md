@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["事業開発", "必要スキル"]
 pubDate: 2026-07-04
 slug: "bizdev-skills"
+hub: "bizdev"
 image: "/images/media/bizdev-skills.png"
 related: ["bizdev-company-size", "bizdev-career-guide", "bizdev-resume", "salesforce-consultant-skills", "saas-sales-skills"]
 ---
@@ -28,6 +29,11 @@ related: ["bizdev-company-size", "bizdev-career-guide", "bizdev-resume", "salesf
 これらを横断する共通点は「構造化されていない課題を、組織の意思決定へつなげる」という役割設計にある。オペレーション型の業務とは異なり、事業開発では「何をするか」の定義自体が成果物になることも多い。それゆえに、スキルセットも「実行力」よりも「思考の構造」と「関係構築の質」が優先されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキルの優先順位マップ
 
@@ -106,6 +112,11 @@ related: ["bizdev-company-size", "bizdev-career-guide", "bizdev-resume", "salesf
 こうした移行を成功させた人物の共通点として、「自分のスキルのどこが通用し、どこを補強すべきか」を入社前の段階で言語化し、入社後の学習計画に落とし込んでいる傾向が見られる。キャリアの転換期において、自己評価の解像度が高いほど適応が早くなる傾向は、事業開発職においても例外ではない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["フロントエンドエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-salary"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-salary.png"
 related: ["frontend-engineer-company-size", "frontend-engineer-career-path", "frontend-engineer-motivation", "enterprise-sales-salary", "pmo-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["frontend-engineer-company-size", "frontend-engineer-career-path", "fr
 数値はあくまで目安の幅であり、企業フェーズ（スタートアップ・グロース・大手）、スキルの希少性、マネジメント有無によって上下する。とくに5年超の層は同スペックでも企業によって300〜400万円程度の開きが生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する3つの構造的要因
 
@@ -97,6 +103,11 @@ related: ["frontend-engineer-company-size", "frontend-engineer-career-path", "fr
 グレード昇格により年収が170万円増加。外部転職でなく社内でのスコープ拡張により市場価値を実現したケースの型である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

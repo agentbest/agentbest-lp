@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["デジタルマーケター", "市場動向"]
 pubDate: 2026-07-04
 slug: "digital-marketer-market-trend"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-market-trend.png"
 related: ["digital-marketer-skills", "digital-marketer-english", "digital-marketer-in-30s", "engineering-manager-market-trend", "bizdev-market-trend"]
 ---
@@ -31,6 +32,11 @@ DX推進が一巡し、企業のマーケティング投資に対する費用対
 スタートアップ・SaaS企業と大手企業では、採用ニーズが異なる方向に分岐している。前者はゼネラリスト的に動けるグロース人材を、後者はCRM・コンテンツ・データ分析など専門領域に特化した人材を求める傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-market-trend">キャリアを相談する</a>
+</aside>
 
 ## スキル・ポジション別の需給動向
 
@@ -102,6 +108,11 @@ SEOコンテンツの量産から、ブランドの思想と整合した質の�
 マーケティング部門の人材育成・内製化を支援するポジションが増えている。クライアントのマーケティング組織内に常駐・併走するモデルで、個人のスキルよりも「組織に伴走する能力」が問われやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

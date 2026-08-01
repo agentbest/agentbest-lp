@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["人事", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "hrbp-career-guide"
+hub: "hrbp"
 image: "/images/media/hrbp-career-guide.png"
 related: ["hrbp-career-path", "hrbp-in-30s", "hrbp-market-trend", "strategy-consultant-career-guide", "marketing-manager-career-guide"]
 ---
@@ -40,6 +41,11 @@ related: ["hrbp-career-path", "hrbp-in-30s", "hrbp-market-trend", "strategy-cons
 中期人事戦略の立案、HR領域のデータ分析（ピープルアナリティクス）、CHROや経営陣への提言などを担います。経験年数が長く、経営視点を持つ人材が担うことが多いです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-career-guide">無料で相談する</a>
+</aside>
 
 ## 人事の転職市場における市場価値の構造
 
@@ -110,6 +116,11 @@ related: ["hrbp-career-path", "hrbp-in-30s", "hrbp-market-trend", "strategy-cons
 採用担当からHRBPへの転換は、事業部経験がなくとも、「採用を通じて組織と接してきた経験」を適切に言語化することで実現しやすくなります。ただし、事業理解の深さを補うために、担当事業部のビジネスモデルや財務構造を学ぶ姿勢を示すことが選考での印象を高める傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

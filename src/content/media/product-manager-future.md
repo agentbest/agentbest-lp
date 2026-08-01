@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["プロダクトマネージャー", "将来性"]
 pubDate: 2026-07-04
 slug: "product-manager-future"
+hub: "product-manager"
 image: "/images/media/product-manager-future.png"
 related: ["product-manager-salary", "product-manager-resume", "product-manager-salary-600", "platform-engineer-future", "sre-future"]
 ---
@@ -20,6 +21,11 @@ related: ["product-manager-salary", "product-manager-resume", "product-manager-s
 企業がDX投資を加速させる中で、「プロダクト思考」を組織に根付かせる人材への需要が増している。また、B2B SaaS企業においてはプロダクト主導型成長（PLG: Product-Led Growth）が一つの戦略オプションとして定着しつつあり、PdMがビジネス成果に直結する役割として再定義されている。
 
 さらに、AIを活用したプロダクト開発が一般化したことで、「AIを正しく使ったプロダクトを設計できるPdM」と「そうでないPdM」の間に、明確な能力差が生まれ始めている。この分岐点こそが、現在のPdM市場における最大のテーマといえる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI時代のPdMに求められる能力変化
 
@@ -90,6 +96,11 @@ PdMのキャリアパスは一本ではない。現在の市場では、大き�
 **③エンジニアリング寄り（テクニカルPM）**：AIシステムやデータパイプラインを扱うプロダクトが増える中で、技術的な意思決定に深く関与できる人材の需要は一定程度継続している。特にAIプロダクトの設計では、エンジニアと対等に議論できるPdMが求められる場面が増えている。
 
 いずれのパターンにおいても、「なぜそのプロダクトが存在するのか」を問い続ける思考は共通の基盤となる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

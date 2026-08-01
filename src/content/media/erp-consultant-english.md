@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["ERPコンサルタント", "英語力"]
 pubDate: 2026-07-05
 slug: "erp-consultant-english"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-english.png"
 related: ["erp-consultant-future", "erp-consultant-company-size", "erp-consultant-in-20s", "bridge-se-english", "mlops-engineer-english"]
 ---
@@ -29,6 +30,11 @@ ERPコンサルタントの仕事を一括りに論じることは難しい。�
 裏を返せば、国内クライアントの国内向け基幹システム導入プロジェクトに従事し、日系のコンサルティング会社に所属する場合、実務上の英語使用頻度は相対的に低くなる傾向がある。英語力の必要性は、あくまで「どのような環境・案件で働くか」によって規定される。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-english">無料で相談する</a>
+</aside>
 
 ## 英語力×求人タイプの関係
 
@@ -88,6 +94,11 @@ ERPコンサルタントにとって、英語学習を優先すべきタイミ�
 一方で、国内クライアント中心・日系ファームで腰を据えて専門性を深めるキャリアを選択する場合、英語力の優先度は下がる。すべてのERPコンサルタントが英語力を高める必要があるわけではなく、自分のキャリア方向性との整合性で判断することが合理的だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

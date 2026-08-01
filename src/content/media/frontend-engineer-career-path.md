@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["フロントエンドエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-career-path"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-career-path.png"
 related: ["frontend-engineer-from-scratch", "frontend-engineer-career-guide", "frontend-engineer-english", "finance-career-path", "scm-consultant-career-path"]
 ---
@@ -24,6 +25,11 @@ related: ["frontend-engineer-from-scratch", "frontend-engineer-career-guide", "f
 **組織軸**は、エンジニアリングマネージャーやテックリードとして、個人の技術貢献から他者の技術貢献を引き出す役割へのシフトだ。採用・評価・ロードマップ策定など、組織運営に踏み込む比重が増していく。
 
 この三軸は排他的ではないが、重点をどこに置くかによって、求められるスキルや転職市場での評価軸が変わる。30代での選択は、この重心をどこに設定するかを問うている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代で現実的なキャリアパスと年収目安
 
@@ -68,6 +74,11 @@ SaaS系のスタートアップで5年ほどフロントエンド開発を担当
 - ビジネス上の数値や戦略的意思決定の近くにいたいか
 
 これらの問いに対する答えは、「どれが正しい」というものではなく、自分の強みとモチベーション構造を整理するための補助線だ。30代での選択は、20代のような実験的な試行錯誤より、蓄積してきた経験をどう収束させるかという性格が強くなる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

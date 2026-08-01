@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["データサイエンティスト", "未経験転職"]
 pubDate: 2026-07-04
 slug: "data-scientist-from-scratch"
+hub: "data-scientist"
 image: "/images/media/data-scientist-from-scratch.png"
 related: ["data-scientist-skills", "data-scientist-work-style", "data-scientist-failure", "salesforce-consultant-from-scratch", "web-marketer-from-scratch"]
 ---
@@ -30,6 +31,11 @@ scikit-learnを用いた教師あり・教師なし学習、モデル評価指�
 ### 第3層：ビジネス理解・コミュニケーション
 
 分析結果を意思決定に結びつける能力、ステークホルダーへの説明力、KPIの設計・評価の知識が含まれます。この層は技術習得と並行して意識すべき領域であり、転職活動における面接・ポートフォリオ評価でも差が出やすい部分です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験者に現実的な転職ルート
 
@@ -86,6 +92,11 @@ scikit-learnを用いた教師あり・教師なし学習、モデル評価指�
 | シニア・リード（5年以上） | 850万円〜 | 戦略的分析企画・チームマネジメント・意思決定支援 |
 
 SaaS・IT企業やコンサルティングファームでは上記レンジを上回るケースも見られますが、同時に要求スキルの水準も高くなります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

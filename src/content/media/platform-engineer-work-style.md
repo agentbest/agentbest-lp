@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["プラットフォームエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "platform-engineer-work-style"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-work-style.png"
 related: ["platform-engineer-company-size", "platform-engineer-resume", "platform-engineer-skills", "dev-director-work-style", "inside-sales-work-style"]
 ---
@@ -24,6 +25,11 @@ related: ["platform-engineer-company-size", "platform-engineer-resume", "platfor
 この構造上、業務の性質は「プロジェクト型」と「運用型」が混在する。新機能の設計・実装はプロジェクトとして計画的に進む一方、既存基盤のインシデント対応・パフォーマンス改善・セキュリティパッチ適用といった運用タスクは予測が難しく、割り込みが生じやすい。この二重構造が、働き方を語る上での核心にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度のリアル：「安定」と「高負荷」の両面
 
@@ -103,6 +109,11 @@ related: ["platform-engineer-company-size", "platform-engineer-resume", "platfor
 このケースは特定の企業を指すものではなく、グロース期SaaSにおけるプラットフォームエンジニアの典型的な推移パターンを示したものだ。フェーズと体制の充実度が、働き方に与える影響の大きさを示している。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

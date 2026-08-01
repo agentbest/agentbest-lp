@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["戦略コンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-how-to-use-agent"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-how-to-use-agent.png"
 related: ["strategy-consultant-salary", "strategy-consultant-work-style", "strategy-consultant-resume", "big4-consultant-how-to-use-agent", "pmo-consultant-how-to-use-agent"]
 ---
@@ -36,6 +37,11 @@ related: ["strategy-consultant-salary", "strategy-consultant-work-style", "strat
 特定のファームがどのような業務経験を重視するか、どの程度のケース完成度を求めるか、どのパートナーが採用に強い影響力を持つか、といった情報は公開されておらず、当該ファームと継続的に接点を持つエージェントでなければ知り得ない。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントを使うべき実務的な理由
 
@@ -107,6 +113,11 @@ related: ["strategy-consultant-salary", "strategy-consultant-work-style", "strat
 この事例が示すのは、エージェント活用が「求人の紹介」にとどまらず、「経験の再整理」「選考対策」「条件比較」という3つのフェーズにわたって機能しうるという点である。転職活動の質は、この3フェーズをどれだけ精緻に進められるかに大きく依存する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

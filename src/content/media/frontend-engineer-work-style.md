@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["フロントエンドエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-work-style"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-work-style.png"
 related: ["frontend-engineer-interview", "frontend-engineer-company-size", "frontend-engineer-skills", "hrbp-work-style", "security-engineer-work-style"]
 ---
@@ -32,6 +33,11 @@ related: ["frontend-engineer-interview", "frontend-engineer-company-size", "fron
 | 受託開発会社 | 納期前に集中しやすい | 案件・会社依存 | 要件定義〜リリースまで担当 | 複数技術スタックを経験しやすい |
 | SIer・大手SI子会社 | 管理業務が増えやすい | ハイブリッドが増加傾向 | 設計書作成・要件整理が多い | フロントに集中しにくい場合も |
 | コンサル系 | 繁忙期に集中しやすい | プロジェクト依存 | 要件整理・技術アドバイザリー | 幅広い関与が求められやすい |
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## 残業の実態：「激務」かどうかは役割と会社フェーズで変わる
 
@@ -70,6 +76,11 @@ related: ["frontend-engineer-interview", "frontend-engineer-company-size", "fron
 プロジェクト単位で案件が変わるため、一つの技術スタックを深く追いかけることよりも、複数の環境に適応する汎用性が求められやすい。ウォーターフォール型のプロセスが残っているチームでは、設計フェーズに時間が割かれ、実装フェーズが後半に集中するため、納期前の残業が発生しやすい。リモートの可否は案件次第で、客先常駐が前提となる場合もある。年収は400〜700万円台が目安になりやすいが、PMや設計職に移行することで上を狙える構造も存在する。
 
 この二つを比較すると、働き方の自由度と年収水準の関係は単純ではなく、「何を優先するか」によって評価軸が変わることがわかる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

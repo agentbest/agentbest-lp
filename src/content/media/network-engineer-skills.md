@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["ネットワークエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "network-engineer-skills"
+hub: "network-engineer"
 image: "/images/media/network-engineer-skills.png"
 related: ["network-engineer-career-guide", "network-engineer-how-to-use-agent", "network-engineer-in-30s", "ml-engineer-skills", "inside-sales-skills"]
 ---
@@ -30,6 +31,11 @@ related: ["network-engineer-career-guide", "network-engineer-how-to-use-agent", 
 | 設計・上流工程 | 要件定義、基本設計、コスト試算、ベンダー折衝 | 5年目〜 |
 
 なお、これらは目安であり、クラウドネイティブな環境では入職2年目でクラウド知識が求められるケースも珍しくない。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-skills">無料で相談する</a>
+</aside>
 
 ## 領域別：スキルの深度と優先順位
 
@@ -88,6 +94,11 @@ CCNA・CCNPをはじめとするネットワーク系資格は、基礎知識の
 資格取得の優先度としては、「実務で使っている技術領域の資格」を選ぶことが最も合理的である。AWS Certified Advanced Networkingのような実務に直結した資格は、保有しているだけでなく、その内容を実際の設計経験と紐付けて話せるかどうかが重要になる。
 
 資格を持っていることではなく、「その資格が示す知識を実務でどう使ったか」が面接において問われる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["PMOコンサルタント", "20代転職"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-in-20s"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-in-20s.png"
 related: ["pmo-consultant-from-scratch", "pmo-consultant-failure", "pmo-consultant-how-to-use-agent", "product-manager-in-20s", "it-consultant-in-20s"]
 ---
@@ -24,6 +25,11 @@ PMO（Project Management Office）コンサルタントとは、クライアン�
 一方で、上位の役割になるほどプロジェクトガバナンスの設計や複数プロジェクトのポートフォリオ管理など、経営に近い視点が求められる。20代でのポテンシャル採用は、こうした上位役割へのキャリアパスを前提とした採用である点を認識しておきたい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代ポテンシャル採用の実態
 
@@ -112,6 +118,11 @@ PMOを「デリバリー機能」と位置づけている総合コンサルフ�
 PMO専門ファームおよびSIer系コンサルティング部門での内定確率が上がりやすく、年収はSIer時代と同水準からやや上昇する形に落ち着くことが多い。入社後1〜2年はキャッチアップ期間として業務負荷が高まる傾向があるが、3年目以降にリードコンサルタントへの昇格機会が生まれやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

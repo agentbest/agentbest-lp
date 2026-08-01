@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["人事・組織コンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "hr-consultant-skills"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-skills.png"
 related: ["hr-consultant-from-scratch", "hr-consultant-certification", "hr-consultant-career-guide", "it-consultant-skills", "security-consultant-skills"]
 ---
@@ -28,6 +29,11 @@ related: ["hr-consultant-from-scratch", "hr-consultant-certification", "hr-consu
 ①は戦略コンサルやITコンサルと共通する基礎。②は人事領域に特有の知識群。③がマーケットで"高く評価される"かどうかを左右する上位スキルにあたる。多くの転職希望者は①②の習得を目標として設定しがちだが、実際のポジション評価や報酬水準に最も影響するのは③の層である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル一覧と市場評価の優先順位
 
@@ -99,6 +105,11 @@ Aさんは、自社内での組織再編プロジェクトに自ら手を挙げ�
 この事例が示すように、スキルの絶対量より「どのスキルをどう組み合わせて提示するか」がキャリアチェンジの結果に大きく影響する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

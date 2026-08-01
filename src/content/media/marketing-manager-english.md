@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["マーケティングマネージャー", "英語力"]
 pubDate: 2026-07-04
 slug: "marketing-manager-english"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-english.png"
 related: ["marketing-manager-from-scratch", "marketing-manager-future", "marketing-manager-interview", "freelance-consultant-english", "embedded-engineer-english"]
 ---
@@ -22,6 +23,11 @@ related: ["marketing-manager-from-scratch", "marketing-manager-future", "marketi
 - **グローバルプロダクトのローカライズ担当**：英語の原稿・ガイドラインを受け取り、日本市場向けに翻訳・再設計する役割
 
 求人票でよく使われる基準としては「TOEIC800点以上」「ビジネスレベル」「ネイティブレベル歓迎」などがあるが、スコアより実際に英語で議論・メール・ドキュメント作成が自立してできるかどうかを面接で確認する企業が多い傾向にある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力が年収に与える影響：相場観の整理
 
@@ -68,6 +74,11 @@ related: ["marketing-manager-from-scratch", "marketing-manager-future", "marketi
 3. **メール・Slack文書の短文精度**：長文よりも、正確でシンプルな短文でのコミュニケーションが実務では重視される
 
 TOEIC対策よりも、実際のビジネスメール・プレゼン資料の英語に触れながら実務で使える語彙・表現を積み上げるほうが、選考でも実務でも評価されやすい。英語力の証明として資格スコアを求める企業もあるが、外資系の面接では英語面接そのものがスクリーニングになるケースが多い。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

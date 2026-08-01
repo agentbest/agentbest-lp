@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["クラウドインフラ", "業界年収"]
 pubDate: 2026-07-05
 slug: "cloud-industry-salary"
+hub: "cloud-industry"
 image: "/images/media/cloud-industry-salary.png"
 related: ["cloud-industry-company", "cloud-industry-career", "cloud-industry-guide", "healthtech-industry-salary", "consulting-industry-salary"]
 ---
@@ -26,6 +27,11 @@ related: ["cloud-industry-company", "cloud-industry-career", "cloud-industry-gui
 セグメントによって報酬の設計思想が異なる。クラウドプロバイダーはストックオプションやRSUなどの株式報酬が総報酬の相当割合を占める場合があり、額面の基本給だけでは比較が難しい点に留意が必要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 職種別の年収レンジ
 
@@ -94,6 +100,11 @@ AWS認定ソリューションアーキテクト（プロフェッショナル�
 **結果の傾向**：このスキルセットと経験年数の組み合わせでは、700〜850万円台のオファーを受けやすい。インフラ経験とコード管理スキルの両立に加え、上位資格の保有が評価因子として機能しやすいためである。IaC経験を実務事例として具体的に説明できるか、SRE的な思考（SLI・SLO設計、エラーバジェットの概念等）を言語化できるかが、オファーの上下に影響を与えやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

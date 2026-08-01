@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["プロダクトマネージャー", "志望動機"]
 pubDate: 2026-07-04
 slug: "product-manager-motivation"
+hub: "product-manager"
 image: "/images/media/product-manager-motivation.png"
 related: ["product-manager-future", "product-manager-career-guide", "product-manager-how-to-use-agent", "finance-motivation", "data-analyst-motivation"]
 ---
@@ -29,6 +30,11 @@ PdMは、エンジニア・デザイナー・ビジネスサイドを横断し�
 営業やエンジニアの志望動機と比較すると、PdMはこの「接続の論理性」が特に重視されやすい。「なぜPdMか」と「なぜこの会社か」を個別に答えるのではなく、両者が一本の線で結ばれている状態が理想とされる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -113,6 +119,11 @@ PdMは、エンジニア・デザイナー・ビジネスサイドを横断し�
 - **大企業・成熟プロダクト**：ステークホルダーの多さ、既存仕様の制約、組織内の政治構造への理解が求められる。志望動機で「大規模組織での意思決定プロセスへの対応経験」を盛り込めると説得力が増す
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

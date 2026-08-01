@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["バックエンドエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "backend-engineer-salary"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-salary.png"
 related: ["backend-engineer-company-size", "backend-engineer-certification", "backend-engineer-from-scratch", "saas-sales-salary", "enterprise-sales-salary"]
 ---
@@ -18,6 +19,11 @@ related: ["backend-engineer-company-size", "backend-engineer-certification", "ba
 本記事では、年収の目安となるレンジを年代・ポジション別に整理したうえで、どのような要素が年収の上限を引き上げるのか、構造的な観点から解説する。転職を検討している方にとっては交渉の根拠として、現職で年収アップを目指す方にとってはスキルロードマップの参考として活用できる内容を目指した。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年代・ポジション別の年収レンジ目安
 
@@ -102,6 +108,11 @@ related: ["backend-engineer-company-size", "backend-engineer-certification", "ba
 - **個人事業主・業務委託の並用**：正社員と並行して副業・フリーランス案件を持つことで、実質的な年収上限を引き上げるアプローチ。ただし、保険・税務・本業との競業避止契約には注意が必要
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

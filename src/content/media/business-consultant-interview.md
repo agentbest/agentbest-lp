@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["業務コンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "business-consultant-interview"
+hub: "business-consultant"
 image: "/images/media/business-consultant-interview.png"
 related: ["business-consultant-salary-1000", "business-consultant-salary", "business-consultant-salary-600", "customer-success-interview", "backend-engineer-interview"]
 ---
@@ -31,6 +32,11 @@ related: ["business-consultant-salary-1000", "business-consultant-salary", "busi
 これらの評価軸を念頭に置いたうえで、個々の質問に対する準備を進めることが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の組み立て方
 
@@ -93,6 +99,11 @@ related: ["business-consultant-salary-1000", "business-consultant-salary", "busi
 売上改善や工数削減といった成果は、可能な範囲で具体的な数値や割合を用いて表現できると、回答に説得力が増します。ただし、守秘義務の観点から具体的な社名や金額が話せない場合は、「製造業の大手クライアント」「対前年比で一定割合の改善」など抽象化しながらも定量感を残す表現が有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

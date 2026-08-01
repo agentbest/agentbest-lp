@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["リスク・ガバナンスコンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "risk-consultant-career-guide"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-career-guide.png"
 related: ["risk-consultant-salary-600", "risk-consultant-failure", "risk-consultant-company-size", "game-engineer-career-guide", "hrbp-career-guide"]
 ---
@@ -36,6 +37,11 @@ related: ["risk-consultant-salary-600", "risk-consultant-failure", "risk-consult
 - 不正・事案発生後のフォレンジック対応と再発防止策の立案
 
 コンサルタントとしてのキャリアステージによって関与するフェーズは異なる。アナリスト・コンサルタント層は文書化・分析・ワークショップ準備が中心であり、シニアコンサルタント以上になるとクライアントの経営層へのファシリテーションや提言が求められる。マネージャー以上ではプロジェクト全体のデリバリーと人材育成が職責に加わる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 市場価値と年収の目安
 
@@ -108,6 +114,11 @@ related: ["risk-consultant-salary-600", "risk-consultant-failure", "risk-consult
 ### 資格・学習のとらえ方
 
 CIA（公認内部監査人）、CISA（公認情報システム監査人）、FRM（金融リスクマネージャー）などの資格は、専門性の客観的な指標として採用時に参照される傾向がある。ただし、資格はあくまで「実務経験の補完」として機能するものであり、合格実績それ自体が評価の中心になることはほとんどない。取得済みであれば積極的に記載すべきだが、取得予定を前面に出しすぎることは逆効果になる場合もある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

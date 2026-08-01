@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["プロジェクトマネージャー", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "project-manager-career-path"
+hub: "project-manager"
 image: "/images/media/project-manager-career-path.png"
 related: ["project-manager-skills", "project-manager-salary-600", "project-manager-in-20s", "enterprise-sales-career-path", "digital-marketer-career-path"]
 ---
@@ -28,6 +29,11 @@ PMのキャリアには大きく「深さ方向」と「広さ方向」の二軸
 30代のPMにとって重要なのは、この二軸のどちらに比重を置くかを意識的に選ぶことだ。多くの場合、35歳前後を境に「専門職型」か「経営レイヤー型」かの方向性が市場評価に反映されてくる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-career-path">無料で相談する</a>
+</aside>
 
 ## 主要キャリアパスの比較
 
@@ -96,6 +102,11 @@ PM経験を経営視点まで引き上げる最難関のルートだ。スター
 このような判断において重要なのは、市場価値の最大化と自分の価値観（実行責任・規模・業界など）のバランスを事前に言語化しておくことだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

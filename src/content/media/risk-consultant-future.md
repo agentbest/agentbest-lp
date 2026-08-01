@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["リスク・ガバナンスコンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "risk-consultant-future"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-future.png"
 related: ["risk-consultant-salary", "risk-consultant-motivation", "risk-consultant-failure", "recruiter-future", "customer-success-future"]
 ---
@@ -32,6 +33,11 @@ AI・テクノロジーの進化は、リスク・ガバナンスコンサルタ
 一方、**人間の専門家が担う価値が高まる領域**も明確に存在する。経営層・取締役会への進言、ステークホルダーとの利害調整、規制当局との対話、新たなリスク事象の概念整理と意思決定支援といった、判断と説得を伴う領域である。AIは膨大な情報を処理できるが、「この判断の責任を誰が取るか」という問いに答えることはできない。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種の将来性を左右するスキル構造
 
@@ -87,6 +93,11 @@ AI規制・データプライバシー・サプライチェーンリスク・気
 いずれのレンジも、AIガバナンスやサイバーリスク等の新興専門性を持つ場合、同年次比で上振れしやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["セキュリティコンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "security-consultant-in-20s"
+hub: "security-consultant"
 image: "/images/media/security-consultant-in-20s.png"
 related: ["security-consultant-how-to-use-agent", "security-consultant-certification", "security-consultant-interview", "pr-in-20s", "security-engineer-in-20s"]
 ---
@@ -35,6 +36,11 @@ ISMS構築支援、セキュリティポリシー策定、監査対応、リス�
 20代のポテンシャル採用として現実的な間口が広いのは、②と③の領域である。①の技術系は実務経験やCTF・資格での実績が問われやすく、完全未経験からの参入は難しい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用の構造：何が評価されているか
 
@@ -109,6 +115,11 @@ BIG4系の監査法人やそのアドバイザリー部門では、リスクコ�
 このケースが成立しやすい背景には、「社内SE経験でのIT基礎力」「ISMS実務による制度理解」「資格による本気度の証明」「論理的なキャリアストーリーの構成」という4要素が揃っている点がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

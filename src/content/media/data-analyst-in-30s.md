@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["データアナリスト", "30代転職"]
 pubDate: 2026-07-04
 slug: "data-analyst-in-30s"
+hub: "data-analyst"
 image: "/images/media/data-analyst-in-30s.png"
 related: ["data-analyst-certification", "data-analyst-company-size", "data-analyst-work-style", "legal-in-30s", "mobile-engineer-in-30s"]
 ---
@@ -26,6 +27,11 @@ related: ["data-analyst-certification", "data-analyst-company-size", "data-analy
 データアナリスト職において、この構造は特に顕著だ。分析の技術そのものは独学やオンライン学習でも習得できる時代になっている。一方で、「どの問いに答えるべきか」を事業文脈から定義し、分析結果を意思決定に接続する力は、実務経験を通じてしか磨かれにくい。30代転職者のアドバンテージはここにある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 企業が「即戦力」として期待するスキルセット
 
@@ -90,6 +96,11 @@ related: ["data-analyst-certification", "data-analyst-company-size", "data-analy
 **選考対策のポイント**：職務経歴書では、分析によって事業にどのような示唆・意思決定をもたらしたかを定量的に記載することが有効だ。「月次レポートを作成した」という事実だけでなく、「その分析結果が翌月の予算配分に反映された」という流れまで示すと、ビジネス接続力が伝わりやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["法務", "将来性"]
 pubDate: 2026-07-04
 slug: "legal-future"
+hub: "legal"
 image: "/images/media/legal-future.png"
 related: ["legal-career-guide", "legal-salary-1000", "legal-motivation", "strategy-consultant-future", "frontend-engineer-future"]
 ---
@@ -54,6 +55,11 @@ related: ["legal-career-guide", "legal-salary-1000", "legal-motivation", "strate
 この表が示すのは、「法務が不要になる」ではなく「法務業務の重心が移動する」という構造変化だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-future">キャリアを相談する</a>
+</aside>
 
 ## 市場価値が高まる法務パーソンの3条件
 
@@ -109,6 +115,11 @@ Aさんは大手メーカーの法務部で契約審査・知財対応を担当�
 スタートアップや外資系企業では、裁量の広さと引き換えに相場よりも高い処遇を提示するケースがある一方、法務部門の体制が整っていない環境でのリスクも考慮が必要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

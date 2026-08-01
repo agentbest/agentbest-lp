@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["SCM・調達コンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "scm-consultant-certification"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-certification.png"
 related: ["scm-consultant-in-20s", "scm-consultant-in-30s", "scm-consultant-resume", "it-architect-certification", "business-planning-certification"]
 ---
@@ -20,6 +21,11 @@ SCMおよび調達領域のコンサルタントを目指す場合、あるい�
 SCMおよび調達は、製造業・小売業・ライフサイエンス・ハイテクなど産業横断で需要がある一方で、業界固有の慣行や規制が色濃い領域です。そのため、汎用資格よりも「特定産業での実務経験」や「ERP・デジタルツールの導入経験」のほうが評価される傾向があります。
 
 採用市場において、外資系戦略ファーム・Big4・総合系ファームいずれでも、**資格の有無よりも「どのような規模・複雑度のプロジェクトで、どの意思決定に関与したか」**が問われます。資格は補強材料であり、評価の中核にはなりません。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格・加点になりやすい資格
 
@@ -85,6 +91,11 @@ MBAは資格ではなく学位ですが、ここで整理します。SCM・調�
 ある製造業向けSCM改革プロジェクトの採用選考において、CPSM保有・コンサル経験2年の候補者Aと、資格なし・SAP MM実装経験5年の候補者Bが最終候補に残ったとします。多くのファームでは候補者Bを優先評価する傾向があります。理由は、クライアント現場での即戦力性・ツール実装能力・複雑なステークホルダー管理の経験がより直接的に案件に貢献するためです。CPSMは候補者Aの理論的理解度を補強する材料にはなりますが、経験年数・実務深度の差を逆転させる評価要素にはなりにくい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

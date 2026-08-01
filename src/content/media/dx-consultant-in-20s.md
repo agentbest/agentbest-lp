@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["DXコンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "dx-consultant-in-20s"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-in-20s.png"
 related: ["dx-consultant-salary-1000", "dx-consultant-company-size", "dx-consultant-work-style", "sap-consultant-in-20s", "fas-consultant-in-20s"]
 ---
@@ -34,6 +35,11 @@ DXコンサルタントという職種は、純粋なITエンジニアリング�
 **ビジネス文脈の理解**：業務プロセス・ROI・組織変革といった概念を、実体験や学習を通じて語れるか。特にユーザー企業（事業会社）でのIT企画経験や、業務改善プロジェクトへの参画経験があると評価を得やすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## 企業類型別の特徴と「狙い目」の考え方
 
@@ -100,6 +106,11 @@ DXコンサルタントとして評価されやすいスキルは、IT技術の�
 英語については、外資系ファームや大手コンサルでは求められるケースがあるが、国内系・SIer系では必須でない場合も多い。自分が狙う企業類型を先に絞り、要件に合わせて優先順位をつけるのが現実的なアプローチだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

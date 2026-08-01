@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["プラットフォームエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "platform-engineer-interview"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-interview.png"
 related: ["platform-engineer-from-scratch", "platform-engineer-in-30s", "platform-engineer-market-trend", "db-engineer-interview", "ml-engineer-interview"]
 ---
@@ -32,6 +33,11 @@ related: ["platform-engineer-from-scratch", "platform-engineer-in-30s", "platfor
 この3軸を意識せずに「インフラ経験の羅列」にとどまると、技術力はあっても職種適性が伝わりにくい回答になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -116,6 +122,11 @@ OPA/GatekeeperによるPolicy as Code、Image Scanのパイプライン組み込
 経験年数が上がるほど、「技術の深さ」よりも「技術を通じた組織課題の解決」に比重が移りやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

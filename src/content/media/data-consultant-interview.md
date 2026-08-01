@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["データ・アナリティクスコンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "data-consultant-interview"
+hub: "data-consultant"
 image: "/images/media/data-consultant-interview.png"
 related: ["data-consultant-skills", "data-consultant-from-scratch", "data-consultant-company-size", "it-consultant-interview", "cto-vpoe-interview"]
 ---
@@ -29,6 +30,11 @@ related: ["data-consultant-skills", "data-consultant-from-scratch", "data-consul
 特にIT・SaaS出身者とコンサル出身者では、弱点が出やすい軸が異なります。SaaS出身者はビジネス貢献の説明が得意な一方、抽象度の高い問題分解に慣れていないケースが散見されます。逆にコンサル出身者は構造化が自然にできる一方、技術的な実装の深さを問われると回答が表層にとどまりやすい傾向があります。自分がどちらの型かを認識したうえで準備を進めることが効率的です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問の類型と回答の組み立て方
 
@@ -101,6 +107,11 @@ A/Bテストについては、以下の観点をカバーできているかが�
 面接終盤の逆質問は評価対象として軽視されやすいですが、「どのようなプロジェクトに携わる機会がありますか」より、「データ成熟度の低いクライアントに対して、分析の前提条件をどのように整備するアプローチをとっていますか」のような、実務的課題意識を示す質問のほうが印象として残りやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

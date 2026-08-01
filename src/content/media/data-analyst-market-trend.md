@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["データアナリスト", "市場動向"]
 pubDate: 2026-07-04
 slug: "data-analyst-market-trend"
+hub: "data-analyst"
 image: "/images/media/data-analyst-market-trend.png"
 related: ["data-analyst-in-30s", "data-analyst-salary-1000", "data-analyst-salary", "post-consultant-market-trend", "embedded-engineer-market-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["data-analyst-in-30s", "data-analyst-salary-1000", "data-analyst-salar
 三つ目は、生成AIの普及による業務範囲の再定義です。BI作業の一部自動化が進む中で、「ダッシュボードの管理者」ではなく「分析の方針を設計し、事業インパクトを言語化できる人材」への需要がより明確になってきました。ツールを操作するスキルよりも、問いを立て・分析を設計し・示唆を伝えられる能力が評価されやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種・領域別の採用動向
 
@@ -80,6 +86,11 @@ BIツール（Looker・Tableau・Metabaseなど）の習熟は、引き続き実
 **示唆：**技術スキルの水準よりも、「分析が何を変えたか」を具体的に語れるかどうかが、採用プロセスの通過を左右しやすいことを示す事例です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

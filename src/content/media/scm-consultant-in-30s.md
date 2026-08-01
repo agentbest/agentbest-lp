@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["SCM・調達コンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "scm-consultant-in-30s"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-in-30s.png"
 related: ["scm-consultant-salary", "scm-consultant-english", "scm-consultant-career-guide", "pr-in-30s", "infra-engineer-in-30s"]
 ---
@@ -20,6 +21,11 @@ related: ["scm-consultant-salary", "scm-consultant-english", "scm-consultant-car
 国内外のサプライチェーン環境は、ここ数年で大きく変容した。調達の地政学リスク顕在化、物流コストの上昇、カーボンニュートラル対応による調達戦略の見直し、そしてSCMシステム（ERPやTMS、WMS等）のクラウド化推進など、企業が対処すべき経営課題がサプライチェーン領域に集中している。コンサルティングファームの引き合いが強まっているのはこうした背景による。
 
 30代の転職者がこの流れの中でどう位置づけられるかというと、「課題の当事者であった人材」として評価される傾向がある。事業会社での調達・購買・物流・生産管理の実務経験者、あるいはSCM領域に関わるITシステムの導入・PMを担ってきた人材は、コンサルティングファームが社内育成で補いにくいリアルな現場知識を持っている。これが30代転職の最大の強みになり得る。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 即戦力採用で評価される要件の全体像
 
@@ -88,6 +94,11 @@ SCM・調達コンサルタントの選考は、一般的に以下のフェー�
 4. **パートナー・マネージャー面接**：ビジネスへの理解とコミュニケーション適性が中心的な評価軸になる。
 
 ケース面接については、SCM特有のテーマ（在庫水準と欠品率のトレードオフ、調達集中と分散のリスク設計、グローバル調達における為替リスクの管理方針等）を事前に思考練習しておくことが有効である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

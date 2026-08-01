@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["AIエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "ai-engineer-from-scratch"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-from-scratch.png"
 related: ["ai-engineer-resume", "ai-engineer-future", "ai-engineer-motivation", "enterprise-sales-from-scratch", "network-engineer-from-scratch"]
 ---
@@ -26,6 +27,11 @@ AIエンジニアへの転職を検討する未経験者が最初に直面する
 近年は生成AIの普及により、3つ目の「AIアプリケーション開発者」に近い役割を募集する企業が増えています。未経験からの転職で最も現実的なのもこの類型であり、機械学習の深い数学的理解よりも、ソフトウェアエンジニアリングの基礎力とLLM活用の実践経験が評価されやすい傾向にあります。
 
 一方、純粋なMLエンジニアやMLOpsエンジニアについては、数学的背景やインフラの実務経験が求められるケースが多く、完全未経験からの転職は難易度が高い求人が中心です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 未経験転職に必要なスキルセット
 
@@ -94,6 +100,11 @@ SaaSのカスタマーサクセス、ITコンサル、データアナリスト�
 | 実務経験3年以上（大手IT・メガベンチャー） | 700万〜1,000万円前後 |
 
 未経験転職では前職の年収維持や上昇よりも、まず実務経験を積むことを優先する判断が、中長期のキャリアの観点から合理的になるケースが少なくありません。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

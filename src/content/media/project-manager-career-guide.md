@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["プロジェクトマネージャー", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "project-manager-career-guide"
+hub: "project-manager"
 image: "/images/media/project-manager-career-guide.png"
 related: ["project-manager-salary", "project-manager-company-size", "project-manager-in-20s", "infra-engineer-career-guide", "devops-engineer-career-guide"]
 ---
@@ -33,6 +34,11 @@ SIer・ITコンサル・社内システム部門に多く、プロジェクト�
 これら3つは求められるスキルセットが部分的に重なりながらも、転職市場では「どの文脈でのPM経験か」が評価に大きく影響します。転職活動においては、自身のPM経験をこのいずれの文脈で語れるかを意識することが出発点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 市場価値を決める主な要素
 
@@ -112,6 +118,11 @@ PMの面接では、過去の具体的なプロジェクト経験についての
 PMP（Project Management Professional）やPMI-ACP、IPA（情報処理技術者試験）系の資格は、特定の企業・業界では評価されますが、転職市場全体では「実務経験の代替にはならない」と理解しておくことが重要です。資格は応募要件を満たすために必要なケースを除けば、あくまで実務力の補完・証明手段の一つという位置づけが適切です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

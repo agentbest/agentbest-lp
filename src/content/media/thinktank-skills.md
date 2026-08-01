@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["シンクタンク研究員", "必要スキル"]
 pubDate: 2026-07-05
 slug: "thinktank-skills"
+hub: "thinktank"
 image: "/images/media/thinktank-skills.png"
 related: ["thinktank-in-30s", "thinktank-interview", "thinktank-future", "ai-engineer-skills", "customer-success-skills"]
 ---
@@ -28,6 +29,11 @@ related: ["thinktank-in-30s", "thinktank-interview", "thinktank-future", "ai-eng
 この三層を念頭に置くと、「何を優先的に身につけるか」という判断が立てやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-skills">無料で相談する</a>
+</aside>
 
 ## スキル一覧と市場価値への寄与度
 
@@ -96,6 +102,11 @@ related: ["thinktank-in-30s", "thinktank-interview", "thinktank-future", "ai-eng
 この型から読み取れるのは、「コンサルスキルは論理展開の土台として評価される一方、研究員固有のアウトプット経験や専門知識の薄さが課題として指摘されやすい」という傾向である。移籍後の初期フェーズにおいては、得意な分析・構成力を発揮しながら、制度知識やアカデミック作法を意識的に補完していくことが求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

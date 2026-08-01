@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["データベースエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "db-engineer-salary"
+hub: "db-engineer"
 image: "/images/media/db-engineer-salary.png"
 related: ["db-engineer-english", "db-engineer-market-trend", "db-engineer-from-scratch", "embedded-engineer-salary", "product-manager-salary"]
 ---
@@ -37,6 +38,11 @@ related: ["db-engineer-english", "db-engineer-market-trend", "db-engineer-from-s
 同じDB業務でも、開発やデータ分析基盤に近いポジションほど価値が可視化されやすい。SLAが定義されたミッションクリティカルな基幹DBを担当している、あるいはデータ活用による意思決定に直結する基盤を設計・運用している場合、その影響範囲の大きさが報酬交渉の根拠になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収レンジの全体像
 
@@ -114,6 +120,11 @@ DBエンジニアとしての深い専門性に加え、データパイプライ
 数値で裏付けられた実績は、職務経歴書の記述としても、面接での交渉としても、説得力を持ちやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

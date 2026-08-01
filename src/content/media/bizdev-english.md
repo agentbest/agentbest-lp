@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["事業開発", "英語力"]
 pubDate: 2026-07-04
 slug: "bizdev-english"
+hub: "bizdev"
 image: "/images/media/bizdev-english.png"
 related: ["bizdev-in-30s", "bizdev-salary-1000", "bizdev-company-size", "network-engineer-english", "marketing-manager-english"]
 ---
@@ -18,6 +19,11 @@ related: ["bizdev-in-30s", "bizdev-salary-1000", "bizdev-company-size", "network
 結論から言えば、**国内完結型の事業開発では英語力は必須ではないが、グローバル展開・外資・プロダクトのインバウンド対応が絡む領域では、英語力は年収帯や求人母数に直接影響する**。どちらの方向に自分のキャリアを構築するかを踏まえたうえで、英語習得の優先度を判断することが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-english">キャリアを相談する</a>
+</aside>
 
 ## 事業開発の業務範囲と英語が必要になる局面
 
@@ -91,6 +97,11 @@ related: ["bizdev-in-30s", "bizdev-salary-1000", "bizdev-company-size", "network
 完璧な発音よりも、論点を整理して的確に伝えるロジカルな英語表現力が重要視される傾向がある。交渉場面では、「言いたいことを英語で構造化して伝えられるか」が評価の核心になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

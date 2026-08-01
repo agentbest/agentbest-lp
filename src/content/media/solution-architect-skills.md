@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["ソリューションアーキテクト", "必要スキル"]
 pubDate: 2026-07-04
 slug: "solution-architect-skills"
+hub: "solution-architect"
 image: "/images/media/solution-architect-skills.png"
 related: ["solution-architect-in-30s", "solution-architect-future", "solution-architect-motivation", "ai-engineer-skills", "data-engineer-skills"]
 ---
@@ -18,6 +19,11 @@ related: ["solution-architect-in-30s", "solution-architect-future", "solution-ar
 SAは、顧客の経営・業務課題に対してITアーキテクチャの観点から最適解を提示し、提案から導入まで技術面の責任を担う職種である。SIer、クラウドベンダー、SaaS企業、コンサルティングファームなど、在籍する組織によって業務範囲は異なるが、「技術とビジネスの橋渡し役」という本質は共通している。
 
 エンジニアとの違いは、コードを書くことよりも「何を作るべきか・なぜそのアーキテクチャか」を説明する比重が高い点にある。コンサルタントとの違いは、提案内容に対して技術的な実現可能性と整合性の担保まで責任を負う点である。この双方向性がSAの難しさであり、希少性の源泉でもある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキルの全体像と優先順位
 
@@ -83,6 +89,11 @@ SAは顧客向けの提案者であると同時に、社内の製品チーム・
 **示唆**：SaaSベンダーのSAは顧客の経営課題の理解とビジネス会話を前線で担うことが多く、構築フェーズの技術力よりも上流フェーズの設計力・説明力の比重が高い。技術スキルは「前提条件」として評価され、差別化要因にはなりにくいことがある。
 
 一方、SIerのSAポジションでは技術的な実装設計の精度が主要評価軸になるケースも依然として多く、同じSAという職種名でも評価軸は組織によって異なる。応募先の業態・フェーズに合わせてスキルの説明軸を変えることが、書類・面接での評価精度を高める上で有効な傾向にある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

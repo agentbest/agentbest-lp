@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["データベースエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "db-engineer-interview"
+hub: "db-engineer"
 image: "/images/media/db-engineer-interview.png"
 related: ["db-engineer-failure", "db-engineer-salary", "db-engineer-in-30s", "uiux-designer-interview", "platform-engineer-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["db-engineer-failure", "db-engineer-salary", "db-engineer-in-30s", "ui
 「技術力があれば通過できる」という認識は半分正確で半分誤解である。上位ポジションになるほど、技術判断の背景にある思考プロセスと、それを非技術者に伝える能力が問われやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-interview">無料で相談する</a>
+</aside>
 
 ## カテゴリ別：頻出質問と回答の組み立て方
 
@@ -110,6 +116,11 @@ related: ["db-engineer-failure", "db-engineer-salary", "db-engineer-in-30s", "ui
 上位層ほど、逆質問で候補者の思考レベルが見えると言われる傾向がある。「DBのスケーリング戦略において今後の技術的な課題として何を見ていますか」のように、現場の構造的な課題に踏み込む質問は関心の深さを示しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

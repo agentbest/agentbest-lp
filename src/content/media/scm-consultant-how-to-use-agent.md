@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["SCM・調達コンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "scm-consultant-how-to-use-agent"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-how-to-use-agent.png"
 related: ["scm-consultant-salary-1000", "scm-consultant-skills", "scm-consultant-company-size", "partner-sales-how-to-use-agent", "it-architect-how-to-use-agent"]
 ---
@@ -30,6 +31,11 @@ SCM（サプライチェーンマネジメント）・調達コンサルタン�
 これらの経験を「何をどの規模でやり切ったか」という定量軸で職務経歴書に落とし込む作業は、同領域に精通したエージェントのサポートがあるとないとで、書類通過率に大きな差が生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを活用すべき具体的な理由
 
@@ -105,6 +111,11 @@ SCM（サプライチェーンマネジメント）・調達コンサルタン�
 内定後、エージェントが「市場スペック基準での年収算定」を根拠として条件交渉を行い、当初提示から数十万円の上乗せが実現した。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["SaaS営業", "転職エージェント活用"]
 pubDate: 2026-07-03
 slug: "saas-sales-how-to-use-agent"
+hub: "saas-sales"
 image: "/images/media/saas-sales-how-to-use-agent.png"
 related: ["saas-sales-resume", "saas-sales-skills", "saas-sales-salary", "recruiter-how-to-use-agent", "data-analyst-how-to-use-agent"]
 ---
@@ -33,6 +34,11 @@ SaaS企業の求人は、外形上よく似ている。「SMB向けフィール�
 これらの情報は、エージェントが日常的に企業の採用担当・現場責任者と接点を持つなかで蓄積される定性情報であり、求職者個人が短期間に入手することはほぼ難しい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントを活用すべき構造的な理由
 
@@ -99,6 +105,11 @@ SaaS企業の採用面接では、「SaaS KPIの理解度」「営業プロセ�
 このような流れは、特定の成功事例ではなく、エージェント活用時に期待しやすい典型的なパターンの一つとして考えてほしい。個々の状況によって結果は異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

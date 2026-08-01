@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["テックリード", "将来性"]
 pubDate: 2026-07-04
 slug: "tech-lead-future"
+hub: "tech-lead"
 image: "/images/media/tech-lead-future.png"
 related: ["tech-lead-how-to-use-agent", "tech-lead-company-size", "tech-lead-failure", "digital-marketer-future", "recruiter-future"]
 ---
@@ -30,6 +31,11 @@ related: ["tech-lead-how-to-use-agent", "tech-lead-company-size", "tech-lead-fai
 この役割は制度的に消えにくい性質を持っています。コードを書くエンジニアが存在する限り、技術的な方針決定と品質管理を行うリーダーの必要性は継続します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-future">キャリアを相談する</a>
+</aside>
 
 ## AI時代における役割の変容
 
@@ -112,6 +118,11 @@ AIがコード生成を担うほど、「何を作るべきか」「どのよう
 この型が示すのは、テックリードの価値がAIによって代替されるのではなく、「AIを技術組織にどう統合するか」を判断できる人材として再定義されるという方向性です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

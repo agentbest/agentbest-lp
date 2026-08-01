@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["HRテック", "業界年収"]
 pubDate: 2026-07-05
 slug: "hrtech-industry-salary"
+hub: "hrtech-industry"
 image: "/images/media/hrtech-industry-salary.png"
 related: ["hrtech-industry-guide", "hrtech-industry-career", "hrtech-industry-trend", "saas-industry-salary", "edtech-industry-salary"]
 ---
@@ -20,6 +21,11 @@ HRテックは、人事・採用・労務・タレントマネジメントなど
 年収水準全体としては、一般的なSaaS企業と近い構造を持つ。エンタープライズ向けに営業単価が高いプロダクトを持つ企業や、海外本社を持つ外資系企業は相対的に高い傾向がある。一方で、中小・スタートアップ段階の企業は、ストックオプションなどの非現金報酬を含めた総報酬で評価する必要がある。
 
 雇用形態や職種の違い、グレード定義の有無、評価サイクルの設計など、年収に影響する変数は複数ある。以下では職種別に目安となるレンジを示す。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-salary">無料で相談する</a>
+</aside>
 
 ## 職種別年収レンジ（目安）
 
@@ -82,6 +88,11 @@ HRテック企業への転職時に年収交渉を行う際、以下の論点は
 **インセンティブの達成率実績**：OTE（オン・ターゲット・アーニングス）ベースで提示される場合、過去のクォーターにおける社内達成率の分布を確認することで、実態的な年収を推定できる。達成率が50%台の目標設定であれば、OTEは実際には到達しにくい水準である可能性がある。
 
 **非現金報酬のタイムライン**：SOやRSUのベスティングは通常4年程度のスケジュールが設定される。短期での退職を想定している場合は、ベスティングの前倒しクリフ（Cliff）期間を確認する必要がある。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

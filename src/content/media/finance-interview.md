@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["財務・経理", "面接対策"]
 pubDate: 2026-07-04
 slug: "finance-interview"
+hub: "finance"
 image: "/images/media/finance-interview.png"
 related: ["finance-career-guide", "finance-in-30s", "finance-failure", "data-consultant-interview", "mlops-engineer-interview"]
 ---
@@ -33,6 +34,11 @@ CFOや事業部門と連携してきた経験、数字を「経営判断の材�
 この三軸を意識した準備が、回答の説得力を高める基本となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職位別の出題傾向と難易度マップ
 
@@ -124,6 +130,11 @@ CFOや事業部門と連携してきた経験、数字を「経営判断の材�
 この型の回答は「自己PRのための語り」ではなく「相手の課題に対する解像度の高さ」として機能する。転職先の事業・財務状況への理解を示すことが、上位ポジション応募においては特に重要な評価ポイントとなりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

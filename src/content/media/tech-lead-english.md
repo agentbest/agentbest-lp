@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["テックリード", "英語力"]
 pubDate: 2026-07-04
 slug: "tech-lead-english"
+hub: "tech-lead"
 image: "/images/media/tech-lead-english.png"
 related: ["tech-lead-certification", "tech-lead-work-style", "tech-lead-future", "it-consultant-english", "embedded-engineer-english"]
 ---
@@ -32,6 +33,11 @@ related: ["tech-lead-certification", "tech-lead-work-style", "tech-lead-future",
 ### 採用・評価・リードシップの発揮
 
 グローバルなエンジニア採用を行う組織では、テックリードが英語で候補者の技術面接を担当するケースがある。加えて、英語が社内公用語に近い組織では評価コメントや1on1の記録が英語で運用されていることも多い。このような環境では英語力の欠如がリードとしての影響力の範囲を狭める要因になりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力が求人・年収に与える影響
 
@@ -81,6 +87,11 @@ related: ["tech-lead-certification", "tech-lead-work-style", "tech-lead-future",
 ### 会話・会議ファシリテーションが可能な水準
 
 外資系テック企業のテックリードポジション、グローバルコンサルのアーキテクト職が現実的な選択肢に入る。この水準になると英語力よりも技術深度・プロジェクト実績・マネジメント範囲の方がオファー水準を左右しやすくなる。英語力は「前提条件のクリア」として扱われ、競争軸は別の次元に移行する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

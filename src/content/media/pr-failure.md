@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["広報／PR", "転職失敗"]
 pubDate: 2026-07-04
 slug: "pr-failure"
+hub: "pr"
 image: "/images/media/pr-failure.png"
 related: ["pr-salary-1000", "pr-how-to-use-agent", "pr-salary", "db-engineer-failure", "embedded-engineer-failure"]
 ---
@@ -28,6 +29,11 @@ related: ["pr-salary-1000", "pr-how-to-use-agent", "pr-salary", "db-engineer-fai
 これら3フェーズに共通するのは「事前の解像度が低い」という問題だ。広報職は、財務・エンジニアリングのように成果指標が標準化されていない。そのため、転職候補者自身が業務内容・評価基準・キャリアパスを丁寧に言語化して確認しなければ、選考・条件交渉いずれの局面でも主導権を失いやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-failure">無料で相談する</a>
+</aside>
 
 ## 失敗パターン別の構造と回避策
 
@@ -114,6 +120,11 @@ related: ["pr-salary-1000", "pr-how-to-use-agent", "pr-salary", "db-engineer-fai
 - [ ] 年収交渉の根拠となる実績を3点以上言語化した
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

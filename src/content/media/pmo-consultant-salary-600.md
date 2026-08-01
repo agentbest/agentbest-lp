@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["PMOコンサルタント", "年収600万"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-salary-600"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-salary-600.png"
 related: ["pmo-consultant-future", "pmo-consultant-failure", "pmo-consultant-certification", "recruiter-salary-600", "ml-engineer-salary-600"]
 ---
@@ -25,6 +26,11 @@ PMOコンサルタントとして働く方が年収600万円という水準を�
 | マネージャー以上 | 複数PJ管理・提案・組織運営 | 900万円〜 |
 
 これはあくまで目安であり、業種・会社規模・プロジェクトの難易度によって上下します。ただし、550万円台で停滞しているビジネスパーソンが600万円を超えるには、単なる経験年数の積み上げや勤続年数による昇給だけでは届きにくい傾向があります。600万円という水準には、「担当できる仕事の幅と深さが変わった」という実績が求められるからです。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -77,6 +83,11 @@ PMOコンサルタントの需要は、IT・システム開発だけでなく、
 ### 資格取得は評価の補完材料として活用する
 
 PMP（Project Management Professional）やP2M、PRINCE2といった資格が、PMOの市場価値に直結するわけではありません。ただし、一定の知識体系を持っていることを証明する補完材料として機能します。特に、転職市場でスクリーニングを通過しやすくなるという効果は無視できません。資格取得を目的化するよりも、実務の強みを裏付けるための要素として位置づけると有効です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

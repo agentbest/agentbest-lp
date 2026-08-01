@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["法務", "未経験転職"]
 pubDate: 2026-07-04
 slug: "legal-from-scratch"
+hub: "legal"
 image: "/images/media/legal-from-scratch.png"
 related: ["legal-salary-600", "legal-salary", "legal-interview", "solution-architect-from-scratch", "cloud-engineer-from-scratch"]
 ---
@@ -20,6 +21,11 @@ related: ["legal-salary-600", "legal-salary", "legal-interview", "solution-archi
 一方で、未経験採用の需要が「ゼロではない」理由もあります。中小企業や急成長期のスタートアップ、あるいは「法務部を新設する」フェーズの組織では、弁護士資格や豊富な実務経験よりも、素直に業務を習得できる人材・他職種の専門知識を持つ人材を求めるケースがあります。
 
 重要なのは、「未経験」の定義の幅です。「法律系の学位も資格も実務経験もない」場合と、「他職種での実務は3年あるが法務担当は未経験」の場合とでは、採用市場での評価は大きく異なります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験から法務を目指す際に問われるスキル
 
@@ -84,6 +90,11 @@ SaaS企業や情報通信領域では、個人情報保護法・不正競争防�
 
 **優先度：状況次第**
 - 司法書士・弁護士（司法試験）：取得後は法律専門家として高い市場価値を持つが、合格までの時間軸が長く、企業法務に直結しないルートも多い
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

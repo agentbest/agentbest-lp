@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["事業開発", "市場動向"]
 pubDate: 2026-07-04
 slug: "bizdev-market-trend"
+hub: "bizdev"
 image: "/images/media/bizdev-market-trend.png"
 related: ["bizdev-interview", "bizdev-career-guide", "bizdev-salary-1000", "finance-market-trend", "legal-market-trend"]
 ---
@@ -37,6 +38,11 @@ related: ["bizdev-interview", "bizdev-career-guide", "bizdev-salary-1000", "fina
 | プロダクト連携型（BizDev） | PdMと連携しながら事業収益モデルを設計 | SaaS・プロダクト企業のビジネスサイド |
 
 転職活動においては、応募先がどの類型に近いかを見極め、自身の経験をその文脈で語れるかどうかが重要になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 企業フェーズ別の採用ニーズ
 
@@ -83,6 +89,11 @@ related: ["bizdev-interview", "bizdev-career-guide", "bizdev-salary-1000", "fina
 - 転職時のポイント：「なぜ事業会社側に移るのか」を事業成長への関与度という文脈で説明できた。また、前職での提案フェーズに近い業務経験をアライアンス交渉に読み替えて訴求した
 
 このケースが示すように、事業開発職への転職では「経験の直接的な一致」よりも「業務の本質的な近似性を自ら言語化できるか」が重要になる。面接での準備量と論点の深さが採用可否に直結しやすい職種といえる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

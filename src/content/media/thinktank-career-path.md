@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["シンクタンク研究員", "キャリアパス"]
 pubDate: 2026-07-05
 slug: "thinktank-career-path"
+hub: "thinktank"
 image: "/images/media/thinktank-career-path.png"
 related: ["thinktank-salary-1000", "thinktank-from-scratch", "thinktank-motivation", "data-engineer-career-path", "presales-career-path"]
 ---
@@ -35,6 +36,11 @@ related: ["thinktank-salary-1000", "thinktank-from-scratch", "thinktank-motivati
 一方で、シンクタンクの組織規模は民間企業と比べて小さいケースが多く、ポジションの空きが生じにくい構造にある。30代後半以降も組織内でのキャリアアップを目指すなら、研究テーマの旗手として外部からの認知を積み上げるか、マネジメント側へのシフトを視野に入れるかの判断が求められやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代の転換で見えてくる外部キャリアの選択肢
 
@@ -101,6 +107,11 @@ related: ["thinktank-salary-1000", "thinktank-from-scratch", "thinktank-motivati
 これらを言語化できる状態にしておくことが、選考・交渉の場での自己提示精度を高める前提となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

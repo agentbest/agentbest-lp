@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["事業開発", "未経験転職"]
 pubDate: 2026-07-04
 slug: "bizdev-from-scratch"
+hub: "bizdev"
 image: "/images/media/bizdev-from-scratch.png"
 related: ["bizdev-resume", "bizdev-interview", "bizdev-market-trend", "frontend-engineer-from-scratch", "engineering-manager-from-scratch"]
 ---
@@ -28,6 +29,11 @@ related: ["bizdev-resume", "bizdev-interview", "bizdev-market-trend", "frontend-
 「事業開発」という職名でも、実態は営業色が強いポジションから、戦略コンサルに近いポジションまで幅があります。未経験で応募する際は、求人の職務記述書（JD）を読んで類型を見極めることが最初の重要ステップです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験転職の現実：どこから来た人が採用されやすいか
 
@@ -103,6 +109,11 @@ IT系SaaSベンダーでインサイドセールスを3年経験。顧客のプ�
 事業開発のレンジは、企業の資金調達ステージ・事業フェーズ・裁量の広さによって相当幅があります。目安として、シード〜シリーズAのスタートアップでは裁量と引き換えに固定報酬が抑えられる傾向があり、大手事業会社の事業開発は安定性の代わりに変動報酬が小さいケースが多い傾向があります。目先の数字だけで比較することは、意思決定のミスにつながりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["ポストコンサル", "30代転職"]
 pubDate: 2026-07-05
 slug: "post-consultant-in-30s"
+hub: "post-consultant"
 image: "/images/media/post-consultant-in-30s.png"
 related: ["post-consultant-failure", "post-consultant-company-size", "post-consultant-interview", "dev-director-in-30s", "tech-lead-in-30s"]
 ---
@@ -35,6 +36,11 @@ related: ["post-consultant-failure", "post-consultant-company-size", "post-consu
 この表が示すとおり、30代転職では「コンサルタントとしての汎用スキル」だけでは評価されにくい。ファームでのポジション・業界・案件規模が、転職先の候補とその期待値を規定する構造になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用企業別：求められる要件の違い
 
@@ -101,6 +107,11 @@ related: ["post-consultant-failure", "post-consultant-company-size", "post-consu
 コンサルとして多様な業界に関わってきたことが「幅広い知識」と自己評価されがちだが、採用側からすると「浅くいろいろ知っている」と映ることも多い。特定業界・機能に絞ったポジション交渉をするか、入社後の学習計画を具体的に提示できるかが明暗を分ける。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

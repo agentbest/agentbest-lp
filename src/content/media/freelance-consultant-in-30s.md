@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["フリーコンサルタント", "30代転職"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-in-30s"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-in-30s.png"
 related: ["freelance-consultant-market-trend", "freelance-consultant-in-20s", "freelance-consultant-skills", "finance-in-30s", "corporate-it-in-30s"]
 ---
@@ -22,6 +23,11 @@ related: ["freelance-consultant-market-trend", "freelance-consultant-in-20s", "f
 30代は、この市場において最も案件選択肢が多い年齢帯の一つとされる。20代後半〜30代前半は経験年数と単価のバランスが取りやすく、30代後半は専門性と組織運営経験を兼ね備えた人材として評価されやすい傾向がある。ただし、こうした有利性はあくまで「実績と専門性が伴っている場合」に限られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力採用で見られる3つの評価軸
 
@@ -111,6 +117,11 @@ related: ["freelance-consultant-market-trend", "freelance-consultant-in-20s", "f
 独立初期は複数経路を並行させ、案件が途切れるリスクを分散させる戦略が現実的だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

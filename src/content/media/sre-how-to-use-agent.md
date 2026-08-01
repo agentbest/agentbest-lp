@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["SRE", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "sre-how-to-use-agent"
+hub: "sre"
 image: "/images/media/sre-how-to-use-agent.png"
 related: ["sre-salary", "sre-future", "sre-english", "legal-how-to-use-agent", "corporate-it-how-to-use-agent"]
 ---
@@ -18,6 +19,11 @@ SRE（Site Reliability Engineer）の転職市場は、一般的なソフトウ�
 SREポジションは、同じ職種名でも組織によって職務内容が大きく異なる。ある企業では「インフラエンジニアの上位互換」として運用・監視が主業務となり、別の企業では「開発チームに組み込まれ、信頼性設計・SLO策定・カオスエンジニアリングまで担う」というケースもある。この職務定義の揺れは、エンジニア個人が求人票を読み解くだけでは判断しきれない部分である。
 
 加えて、SREポジションは中途採用枠が少なく、非公開求人として流通するケースが相対的に多い傾向がある。大手テック企業・メガベンチャー・外資系SaaS企業はリファラルや特定エージェント経由のみで採用を進める場合もある。転職サイトの公開求人だけを見ていると、実際に存在するポジション群の一部しか把握できないことになる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェントを使う実質的な理由
 
@@ -77,6 +83,11 @@ SRE転職では、1社のみに依存するよりも2〜3社を使い分ける�
 - 企業の過去採用者の年収レンジを参考に、希望年収の根拠を整理して交渉に臨んだ
 
 このパターンが示すのは、エージェント活用の価値が「求人の紹介数」ではなく「意思決定に必要な情報の質」にあるという点である。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["エンジニアリングマネージャー", "資格"]
 pubDate: 2026-07-04
 slug: "engineering-manager-certification"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-certification.png"
 related: ["engineering-manager-career-guide", "engineering-manager-salary-600", "engineering-manager-how-to-use-agent", "cloud-engineer-certification", "platform-engineer-certification"]
 ---
@@ -33,6 +34,11 @@ EMの職責は、技術的な意思決定の支援・チームのパフォーマ
 ただし「資格が全く意味を持たない」とも言い切れない。特定の資格は、学習の証明・専門領域のシグナリング・スキルの構造化として機能する場面がある。問題は「どの資格がその役割を果たすか」の見極めにある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格の特徴と具体例
 
@@ -105,6 +111,11 @@ EMとして有用とされる資格には、次の三つの特徴が共通して
 この事例が示すのは、資格の本来の価値が「試験に合格した事実」よりも「学習を通じた経験の言語化・体系化」にある、という点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

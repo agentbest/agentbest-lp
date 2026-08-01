@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["カスタマーサクセス", "働き方"]
 pubDate: 2026-07-03
 slug: "customer-success-work-style"
+hub: "customer-success"
 image: "/images/media/customer-success-work-style.png"
 related: ["customer-success-motivation", "customer-success-certification", "customer-success-failure", "network-engineer-work-style", "security-engineer-work-style"]
 ---
@@ -24,6 +25,11 @@ CSの主な業務は、オンボーディング支援、定期的なレビュー
 加えて、CSはKPIが複合的になりやすい。NRR（ネット収益維持率）、チャーンレート、CSAT、オンボーディング完了率など、複数指標を追う構造は、業務の優先順位付けを難しくする要因にもなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業規模・フェーズ別の働き方の傾向
 
@@ -96,6 +102,11 @@ SaaS企業全体のトレンドとして、CS職はリモートワークとの�
 - **評価指標と連動するインセンティブ設計**：NRRやアップセルにコミッションが連動しているかどうか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

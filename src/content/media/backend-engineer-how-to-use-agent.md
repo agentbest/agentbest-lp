@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["バックエンドエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "backend-engineer-how-to-use-agent"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-how-to-use-agent.png"
 related: ["backend-engineer-salary", "backend-engineer-failure", "backend-engineer-english", "customer-success-how-to-use-agent", "risk-consultant-how-to-use-agent"]
 ---
@@ -28,6 +29,11 @@ related: ["backend-engineer-salary", "backend-engineer-failure", "backend-engine
 転職エージェントはこの情報の非対称性を、ある程度緩和する機能を持つ。担当者が企業の採用担当・開発組織と継続的に接しており、求人票に書かれていない実態を補完できる場合があるためだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## バックエンドエンジニアがエージェントを使う具体的なメリット
 
@@ -102,6 +108,11 @@ IT・SaaS領域に特化した中規模以下のエージェントは、担当�
 このような構造のケースは、特に「SIer→プロダクト開発企業」「受託→自社開発」の転換を図る際に生じやすい。技術力と書類表現のギャップを埋めることが重要な変数になる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

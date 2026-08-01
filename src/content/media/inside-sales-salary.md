@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["インサイドセールス", "年収相場"]
 pubDate: 2026-07-03
 slug: "inside-sales-salary"
+hub: "inside-sales"
 image: "/images/media/inside-sales-salary.png"
 related: ["inside-sales-from-scratch", "inside-sales-skills", "inside-sales-in-30s", "data-consultant-salary", "recruiter-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["inside-sales-from-scratch", "inside-sales-skills", "inside-sales-in-3
 上記はあくまで相場感の目安であり、業種・会社の調達フェーズ・固定給と変動給の割合によって実態は変わります。スタートアップでは株式報酬を含むトータル報酬で評価されるケースも少なくありません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する構造的な要因
 
@@ -109,6 +115,11 @@ BDRは新規市場の開拓難度が高く、スキルセットの専門性が�
 ポイントは「立ち上げ」「型整備」「育成」の三要素が揃っている点です。この三つが揃うと、在籍企業の規模が小さくても市場評価は相対的に高くなる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

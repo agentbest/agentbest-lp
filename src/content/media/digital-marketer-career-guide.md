@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["デジタルマーケター", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "digital-marketer-career-guide"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-career-guide.png"
 related: ["digital-marketer-work-style", "digital-marketer-how-to-use-agent", "digital-marketer-company-size", "strategy-consultant-career-guide", "legal-career-guide"]
 ---
@@ -32,6 +33,11 @@ related: ["digital-marketer-work-style", "digital-marketer-how-to-use-agent", "d
 **グロースマーケティング**：特にスタートアップ・SaaS企業において、プロダクト成長を主眼に置き、獲得・活性化・継続・紹介の各フェーズに横断的に関与する役割です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-career-guide">無料で相談する</a>
+</aside>
 
 ## デジタルマーケターの市場価値と年収レンジ
 
@@ -106,6 +112,11 @@ related: ["digital-marketer-work-style", "digital-marketer-how-to-use-agent", "d
 「デジタルマーケター募集」という表記は幅広く、実際の業務が運用型広告なのかMA設計なのかは求人票だけでは判断しにくいことがあります。「最初の90日で期待される成果」「チームの人数と構成」「現在最も注力しているチャネル」を面接で確認することで、入社後のギャップを軽減できます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

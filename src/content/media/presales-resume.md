@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["セールスエンジニア／プリセールス", "職務経歴書"]
 pubDate: 2026-07-03
 slug: "presales-resume"
+hub: "presales"
 image: "/images/media/presales-resume.png"
 related: ["presales-motivation", "presales-work-style", "presales-salary-1000", "ai-engineer-resume", "enterprise-sales-resume"]
 ---
@@ -28,6 +29,11 @@ related: ["presales-motivation", "presales-work-style", "presales-salary-1000", 
 セールスエンジニアの場合、「職務要約」で技術的な専門領域と営業フェーズでの役割を同時に示すことが重要です。採用担当者はここで「この人がどのレイヤーの商談に入れる人物か」を判断します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用担当者が見ている評価軸
 
@@ -127,6 +133,11 @@ related: ["presales-motivation", "presales-work-style", "presales-salary-1000", 
 ターゲット企業の求人票に書かれている「歓迎要件」を確認し、最も重視される軸を職務要約とスキルサマリーの冒頭に持ってくることが基本的な最適化です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

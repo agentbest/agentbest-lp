@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["ITアーキテクト", "転職失敗"]
 pubDate: 2026-07-04
 slug: "it-architect-failure"
+hub: "it-architect"
 image: "/images/media/it-architect-failure.png"
 related: ["it-architect-company-size", "it-architect-in-30s", "it-architect-skills", "post-consultant-failure", "solution-architect-failure"]
 ---
@@ -20,6 +21,11 @@ ITアーキテクトは、求人票に記載される職務内容と実際の職
 あるSaaS企業では「プロダクト全体の技術戦略を担う」役割をアーキテクトと呼び、別の事業会社では「インフラ構成の標準化と文書化」を担当する担当者をアーキテクトと定義している。同じ職種名であっても、期待される成果・自律度・影響範囲が大きく異なる。
 
 加えて、アーキテクト職は成果を定量化しにくい。エンジニアと違って「この機能を実装した」という明確な成果が見えにくく、「組織の技術的な意思決定を支えた」という貢献は、評価制度が整備されていない環境では正当に評価されないことがある。こうした構造的な難しさが、入社後のミスマッチを生みやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-failure">キャリアを相談する</a>
+</aside>
 
 ## 失敗パターン別の分析
 
@@ -104,6 +110,11 @@ Aさんが振り返った反省点は、「面談で聞けた情報の量に満�
 - 「入社後、最初の3〜6ヶ月でどのようなアウトプットを期待していますか」
 
 これらの質問に対して、具体性のある回答が返ってこない場合、役割定義が固まっていない可能性が高い。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

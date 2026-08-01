@@ -7,12 +7,18 @@ theme: "面接対策"
 tags: ["カスタマーサクセス", "CS", "面接対策"]
 pubDate: 2026-07-03
 slug: "customer-success-interview"
+hub: "customer-success"
 image: "/images/media/customer-success-interview.png"
 ---
 
 ## CS面接で評価されるのは「顧客の成果」を語れる人
 
 カスタマーサクセスの面接で最も差がつくのは、「自分が何をしたか」ではなく「顧客がどう変わったか」を語れるかどうかです。サポート職との違いを理解しているかが、この一点で判断されます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -43,6 +49,11 @@ CS職の逆質問は、候補者のCS観がそのまま出ます。評価され�
 - オンボーディングとサクセスでチームは分かれていますか
 
 プロダクトや組織への解像度が高い質問は、それ自体が実務理解の証明になります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-interview">キャリアを相談する</a>
+</aside>
 
 ## 未経験・異職種からの場合
 

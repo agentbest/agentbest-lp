@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["ITコンサル", "キャリアパス", "ポストコンサル"]
 pubDate: 2026-07-03
 slug: "it-consultant-career-path"
+hub: "it-consultant"
 image: "/images/media/it-consultant-career-path.png"
 related: ["it-consultant-career-guide", "it-consultant-salary", "post-consultant-career-guide", "it-consultant-future", "it-consultant-skills"]
 ---
@@ -14,6 +15,11 @@ related: ["it-consultant-career-guide", "it-consultant-salary", "post-consultant
 ## ITコンサルのキャリアは「3〜5年目」が分岐点
 
 ITコンサルタントのキャリアは、コンサルタント→シニアコンサルタント→マネージャーと進む中で、3〜5年目に大きな分岐点を迎えます。マネージャー昇進を目指してファームに残るか、コンサル経験を武器に外へ出るか。この判断が、その後10年のキャリアの方向性を大きく左右します。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-career-path">キャリアを相談する</a>
+</aside>
 
 ## ルート1：ファーム内で昇進する
 
@@ -32,6 +38,11 @@ SaaS企業のプロダクトマネージャーや事業開発は、要件定義�
 ## ルート4：フリーコンサル・独立
 
 マネージャー手前でも、単価120〜180万円/月の案件は十分に存在します。年収換算では1,500万円超も可能ですが、案件の継続性・スキルの陳腐化・組織を動かす経験の欠如というリスクは正しく見積もる必要があります。独立は「いつでも戻れる市場価値」を維持できる人に向いた選択肢です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## 30代で「行き先」を最大化するために
 

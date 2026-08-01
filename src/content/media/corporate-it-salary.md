@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["社内SE", "年収相場"]
 pubDate: 2026-07-04
 slug: "corporate-it-salary"
+hub: "corporate-it"
 image: "/images/media/corporate-it-salary.png"
 related: ["corporate-it-english", "corporate-it-motivation", "corporate-it-salary-1000", "game-engineer-salary", "pmo-consultant-salary"]
 ---
@@ -27,6 +28,11 @@ related: ["corporate-it-english", "corporate-it-motivation", "corporate-it-salar
 | 10年超（30代後半〜） | 500〜650万円 | 600〜800万円 | 700〜950万円 | 800〜1,100万円 |
 
 ※上記はあくまでも目安であり、業種・スキルセット・役職によって実際の数値は変動する。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-salary">無料で相談する</a>
+</aside>
 
 ## 年収レンジを左右する3つの構造的要因
 
@@ -82,6 +88,11 @@ ITを事業の中核に置く企業（SaaS、フィンテック、eコマース�
 
 **結果として想定される変化の方向性**
 業種・職種名のみ変更し、担当業務の実態が大きく変わらないケースでも、SaaS企業への転職により年収が650〜750万円程度の帯に移行するケースは一定数存在する。評価制度や報酬テーブルそのものが異なるため、個人の成長がなくても相場差によって年収が変化しうるという構造的な背景がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

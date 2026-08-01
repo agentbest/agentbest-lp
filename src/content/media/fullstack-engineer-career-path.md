@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["フルスタックエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-career-path"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-career-path.png"
 related: ["fullstack-engineer-motivation", "fullstack-engineer-resume", "fullstack-engineer-market-trend", "legal-career-path", "business-planning-career-path"]
 ---
@@ -33,6 +34,11 @@ related: ["fullstack-engineer-motivation", "fullstack-engineer-resume", "fullsta
 それぞれの選択肢は、報酬水準・必要なスキルセット・働き方が大きく異なる。以下でひとつずつ検討する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## 各キャリアパスの実態と年収レンジの目安
 
@@ -99,6 +105,11 @@ SREの場合、インフラ信頼性の設計・運用・改善サイクルを�
 年収の目安としては、テックリードとして転職した場合に750〜900万円前後の提示になるケースが多く、SREの専門性が評価される場合はさらに上振れの余地が生じやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-career-path">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

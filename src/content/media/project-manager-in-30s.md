@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["プロジェクトマネージャー", "30代転職"]
 pubDate: 2026-07-04
 slug: "project-manager-in-30s"
+hub: "project-manager"
 image: "/images/media/project-manager-in-30s.png"
 related: ["project-manager-market-trend", "project-manager-from-scratch", "project-manager-in-20s", "data-consultant-in-30s", "db-engineer-in-30s"]
 ---
@@ -28,6 +29,11 @@ related: ["project-manager-market-trend", "project-manager-from-scratch", "proje
 30代の転職は①〜②が多数派であり、③は経験の読み替えが必要になるぶん、選考難易度が上がる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 即戦力として評価されるスキルセット
 
@@ -93,6 +99,11 @@ Aさんは転職活動と並行して、社内の小規模DXプロジェクト�
 この事例のポイントは、**不足スキルを完全に補完するより、「認識していて、すでに動いている」ことを示した点**にあります。30代の転職においては、学習の姿勢と行動速度が評価対象になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["クラウドインフラ", "業界動向"]
 pubDate: 2026-07-05
 slug: "cloud-industry-trend"
+hub: "cloud-industry"
 image: "/images/media/cloud-industry-trend.png"
 related: ["cloud-industry-company", "cloud-industry-salary", "cloud-industry-career", "web3-industry-trend", "legaltech-industry-trend"]
 ---
@@ -34,6 +35,11 @@ related: ["cloud-industry-company", "cloud-industry-salary", "cloud-industry-car
 金融・医療・公共分野を中心に、クラウドセキュリティ対応の内製化ニーズが高まっています。従来は外部ベンダーに委託することが多かったセキュリティ設計・運用監視を、自社のインフラチームが担う体制へと移行する企業が増えています。これにより「インフラとセキュリティの両方を設計できる人材」という、以前は稀少だった職種が採用市場で明確なポジションを持つようになっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-trend">無料で相談する</a>
+</aside>
 
 ## 採用市場の動向と職種別傾向
 
@@ -98,6 +104,11 @@ AWSを中心としたクラウドインフラの構築・運用経験を6年持�
 このケースから読み取れるのは、スキルの「積み上げ」よりも「設計思想の深化」が評価軸として機能しているという点です。クラウドインフラ領域では、ツールの習熟よりも「なぜその構成を選択したか」を論理的に説明できることが、転職時に評価を左右しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

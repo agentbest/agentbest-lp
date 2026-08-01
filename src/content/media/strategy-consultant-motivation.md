@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["戦略コンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-motivation"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-motivation.png"
 related: ["strategy-consultant-future", "strategy-consultant-work-style", "strategy-consultant-market-trend", "it-consultant-motivation", "saas-sales-motivation"]
 ---
@@ -30,6 +31,11 @@ related: ["strategy-consultant-future", "strategy-consultant-work-style", "strat
 この三点が揃って初めて、「なぜコンサルタントか」「なぜ他業種ではなくコンサルタントか」「なぜ当社か」という三層の問いに対して論理的に答えられる志望動機になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -112,6 +118,11 @@ related: ["strategy-consultant-future", "strategy-consultant-work-style", "strat
 この「なぜ当社か」の部分は、OB・OG訪問や説明会での情報収集を経て記述することが望ましい。公開情報のみを根拠にすると、表面的な内容にとどまりやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

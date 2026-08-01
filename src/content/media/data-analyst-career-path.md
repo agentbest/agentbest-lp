@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["データアナリスト", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "data-analyst-career-path"
+hub: "data-analyst"
 image: "/images/media/data-analyst-career-path.png"
 related: ["data-analyst-salary-600", "data-analyst-career-guide", "data-analyst-failure", "post-consultant-career-path", "digital-marketer-career-path"]
 ---
@@ -30,6 +31,11 @@ related: ["data-analyst-salary-600", "data-analyst-career-guide", "data-analyst-
 | ビジネス統合層 | 意思決定への貢献・ROI可視化・ステークホルダー調整 | 上位〜シニア。年収レンジが大きく拡張する |
 
 30代で年収が停滞するケースの多くは、分析応用層止まりで、ビジネス統合層への移行が遅れていることに起因しやすい。技術的な精度を高めることと、経営・事業判断に直結する示唆を出せることは別の能力であり、意識的に後者を鍛える機会を作る必要がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代のキャリア分岐パターン
 
@@ -95,6 +101,11 @@ related: ["data-analyst-salary-600", "data-analyst-career-guide", "data-analyst-
 **ビジネス貢献の不可視化：** 「分析はしたが、意思決定にどう使われたか」が追えていないと、成果の言語化が難しくなる。意思決定の場に同席すること、または結果フォローアップの習慣が有効になる。
 
 **スキルの棚卸しの遅れ：** 日常業務に追われ、転職市場での自分の評価を定期的に確認しない傾向がある。市場感は定期的に確認しておくことが、選択肢の維持につながる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

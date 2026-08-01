@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["クラウドエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-salary-600"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-salary-600.png"
 related: ["cloud-engineer-how-to-use-agent", "cloud-engineer-failure", "cloud-engineer-company-size", "product-designer-salary-600", "db-engineer-salary-600"]
 ---
@@ -30,6 +31,11 @@ related: ["cloud-engineer-how-to-use-agent", "cloud-engineer-failure", "cloud-en
 500万円台と600万円台の間には、「作業の実行者」から「判断と提案ができる設計者」への質的な転換が求められる。年収が上がらない局面の多くは、この転換が市場・組織から認識されていないことに起因する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁が生まれる構造的な要因
 
@@ -95,6 +101,11 @@ DevOpsエンジニア・プラットフォームエンジニアというポジ�
 SaaSスタートアップおよびIT企業への応募において、インフラ設計主担当としてのポジションで複数のオファーを取得。年収は620〜650万円の水準での着地が見られた。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["カスタマーサクセス", "必要スキル"]
 pubDate: 2026-07-03
 slug: "customer-success-skills"
+hub: "customer-success"
 image: "/images/media/customer-success-skills.png"
 related: ["customer-success-in-30s", "customer-success-salary-1000", "customer-success-in-20s", "saas-sales-skills", "product-manager-skills"]
 ---
@@ -22,6 +23,11 @@ CSに必要なスキルを語る際、まず「ハードスキル」と「ソフ
 - **ビジネス理解**：顧客の業界構造、意思決定プロセス、ROIの定量化能力など
 
 特にSaaS領域では、顧客側の「成果」をCSが主体的に定義・測定・改善するサイクルが求められる。その結果、単なるサポートやリレーション管理を超えた、コンサルティングに近いスキルセットが評価される傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場価値を左右するスキルの優先順位
 
@@ -79,6 +85,11 @@ CSが単なるコスト部門ではなく、収益に貢献できる職種とし
 3. 担当顧客の業界知識（例：製造業の調達プロセス、人事部門の評価サイクルなど）を深めた結果、経営層との対話が増え、契約拡張につながった事例を具体化した
 
 この型では「再現性の証明」が転職評価における決定因子になっている。「うまくいった」ではなく「なぜうまくいったか、同じことをどう再現するか」を語れる状態が、シニアCPや事業会社のCS責任者ポジションへの評価につながりやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["ポストコンサル", "未経験転職"]
 pubDate: 2026-07-05
 slug: "post-consultant-from-scratch"
+hub: "post-consultant"
 image: "/images/media/post-consultant-from-scratch.png"
 related: ["post-consultant-skills", "post-consultant-how-to-use-agent", "post-consultant-salary-1000", "tech-lead-from-scratch", "scm-consultant-from-scratch"]
 ---
@@ -34,6 +35,11 @@ related: ["post-consultant-skills", "post-consultant-how-to-use-agent", "post-co
 - スタートアップにおける「戦略担当」「ビジネスアナリスト」
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 未経験転職で問われるスキルセット
 
@@ -111,6 +117,11 @@ SaaS企業でカスタマーサクセス、インサイドセールス、BizOps�
 コンサル出身者と未経験者では、同じポジションでも初回オファーに差が生じるケースがある。ただし、入社後のパフォーマンスによって収束する傾向もあり、初年度の提示額だけで判断しないことが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

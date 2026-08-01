@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["戦略コンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-resume"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-resume.png"
 related: ["strategy-consultant-salary", "strategy-consultant-motivation", "strategy-consultant-salary-600", "dx-consultant-resume", "web-marketer-resume"]
 ---
@@ -28,6 +29,11 @@ related: ["strategy-consultant-salary", "strategy-consultant-motivation", "strat
 これらを踏まえると、戦略コンサルタントの職務経歴書は「論文の要約」に近い性質を持つ。主張（自身の強み・価値）が冒頭にあり、根拠（プロジェクト実績）が構造的に続く形が、通過率の高い書類に共通する傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 記載すべき5つの要素と優先順位
 
@@ -96,6 +102,11 @@ related: ["strategy-consultant-salary", "strategy-consultant-motivation", "strat
 この三要素を200〜300字で簡潔にまとめることが、職務要約の目標となる。「幅広い業界で戦略コンサルティングを経験してきました」のような抽象的な要約は情報量がほぼゼロに等しく、読み手の興味を引けない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

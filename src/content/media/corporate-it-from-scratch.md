@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["社内SE", "未経験転職"]
 pubDate: 2026-07-04
 slug: "corporate-it-from-scratch"
+hub: "corporate-it"
 image: "/images/media/corporate-it-from-scratch.png"
 related: ["corporate-it-how-to-use-agent", "corporate-it-in-20s", "corporate-it-career-guide", "product-designer-from-scratch", "frontend-engineer-from-scratch"]
 ---
@@ -26,6 +27,11 @@ related: ["corporate-it-how-to-use-agent", "corporate-it-in-20s", "corporate-it-
 未経験者が「社内SEは楽そう」と捉えやすいのは、開発業務が中心ではないという点への期待からである。しかし、現場では技術的な問い合わせへの即時対応、ベンダーとの折衝、経営層への投資提案など、単純にITスキルだけでは対処できない場面も多い。職種の実態を正確に把握することが、転職後のミスマッチを防ぐ第一歩となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-from-scratch">無料で相談する</a>
+</aside>
 
 ## 求められるスキルの全体像
 
@@ -110,6 +116,11 @@ CompTIA A+、ITパスポート、基本情報技術者試験などの資格取�
 これらは企業によって程度が異なるが、事前にOB・OG訪問や面接での逆質問を通じて確認しておくと、入社後のキャリア設計に役立つ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

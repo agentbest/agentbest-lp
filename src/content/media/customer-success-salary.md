@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["カスタマーサクセス", "年収相場"]
 pubDate: 2026-07-03
 slug: "customer-success-salary"
+hub: "customer-success"
 image: "/images/media/customer-success-salary.png"
 related: ["customer-success-motivation", "customer-success-work-style", "customer-success-resume", "recruiter-salary", "corporate-planning-salary"]
 ---
@@ -31,6 +32,11 @@ related: ["customer-success-motivation", "customer-success-work-style", "custome
 数値はあくまで市場での分布傾向であり、企業の資金調達ステージ・給与テーブルの設計方針・個人の交渉力によって上下します。スタートアップとエンタープライズSaaSでは、同じ「CSマネージャー」でも給与レンジが100〜200万円程度異なることがあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収を決める3つの構造的要因
 
@@ -85,6 +91,11 @@ CS職に求められる職務範囲は、企業によってかなり異なりま
 このパターンで共通するのは、「フェーズが上がる企業へのジャンプ」と「過去実績の数値化」の掛け合わせです。CSは職種の性質上、実績が外部から見えにくいため、ポートフォリオを言語化するプロセス自体が転職価値を高めます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["デジタルマーケター", "年収相場"]
 pubDate: 2026-07-04
 slug: "digital-marketer-salary"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-salary.png"
 related: ["digital-marketer-from-scratch", "digital-marketer-failure", "digital-marketer-company-size", "business-planning-salary", "sap-consultant-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["digital-marketer-from-scratch", "digital-marketer-failure", "digital-
 上記はあくまで参考値であり、SaaS系スタートアップのように小さい組織でもVP相当のタイトルと報酬を提示するケース、あるいは大企業でシニアマネージャーでも年収700万円台に収まるケースなど、構造的な例外は多い。注目すべきは「グレード＝経験年数」では必ずしもないという点で、成果の可視性と担当スコープの広さが評価に直結しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-salary">キャリアを相談する</a>
+</aside>
 
 ## 機能別に見る年収の傾向差
 
@@ -99,6 +105,11 @@ SaaS企業を中心に需要が高まっているのが、MAツール（マー�
 なお、特定の資格取得（Google認定資格など）は基礎知識の証明としての機能はあるが、転職市場での直接的な年収上昇効果は限定的とされることが多い。実績の裏付けがある場合に補完的に機能するものと考えると、位置づけとして適切といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

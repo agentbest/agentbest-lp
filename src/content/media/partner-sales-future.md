@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["パートナーセールス／アライアンス", "将来性"]
 pubDate: 2026-07-04
 slug: "partner-sales-future"
+hub: "partner-sales"
 image: "/images/media/partner-sales-future.png"
 related: ["partner-sales-market-trend", "partner-sales-english", "partner-sales-interview", "data-engineer-future", "saas-sales-future"]
 ---
@@ -26,6 +27,11 @@ related: ["partner-sales-market-trend", "partner-sales-english", "partner-sales-
 ただし、「なくなりにくい」と「評価が上がる」は別の話である。この区別を念頭に、以下では構造的な将来性と個人の市場価値を分けて整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-future">無料で相談する</a>
+</aside>
 
 ## AI時代における職種全体の構造的ポジション
 
@@ -101,6 +107,11 @@ SaaS・クラウド領域における間接販売比率は、プロダクトの�
 この整理により、外資系ソフトウェア企業のアライアンスマネージャーポジションへの転換が実現しやすくなった。年収レンジでは100〜200万円程度の上昇が見込まれるケースに該当した（あくまで一般的な転換パターンの目安）。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

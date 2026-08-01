@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["SAPコンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "sap-consultant-salary-600"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-salary-600.png"
 related: ["sap-consultant-failure", "sap-consultant-in-20s", "sap-consultant-skills", "pr-salary-600", "security-engineer-salary-600"]
 ---
@@ -32,6 +33,11 @@ SAPコンサルタントの年収において、600万円という水準はひ�
 この表を見ると、経験2〜4年の層が「450〜580万円」というレンジに入りやすいことがわかる。つまり600万円とは、このレンジの上限を超えてひとつ上の帯域に移行する境界にあたる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の手前で止まりやすい3つの構造的な理由
 
@@ -90,6 +96,11 @@ SIer勤務・MM担当3年。製造業の導入案件を2件経験し、テスト
 この例で重要なのは「機会が来た際に逃げなかった」という点だ。上流工程の経験は、意図的に求めるか、あるいは機会が来たときに引き受けるかしないと蓄積しにくい。評価の変化は結果として後からついてきたという順序になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

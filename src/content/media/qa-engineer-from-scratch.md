@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["QAエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "qa-engineer-from-scratch"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-from-scratch.png"
 related: ["qa-engineer-skills", "qa-engineer-how-to-use-agent", "qa-engineer-salary-600", "data-scientist-from-scratch", "scm-consultant-from-scratch"]
 ---
@@ -30,6 +31,11 @@ QAエンジニア（品質保証エンジニア）への未経験転職は、開
 「QAエンジニア」という肩書きは同じでも、入社後に担うのが「仕様書どおりにクリックするテスト実行者」なのか、「品質戦略を設計するエンジニア」なのかは、求人票を丁寧に読まなければ判別できません。未経験から入る場合、まず自分がどのレイヤーにアプローチしているのかを意識することが出発点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 未経験者に求められる最低限のスキルセット
 
@@ -99,6 +105,11 @@ SIerや受託開発企業の中には、テスト・品質保証を専門に担�
 このように、IT経験がなくても、前職の業務を「QAの文脈で再解釈」することが、選考書類・面接での差別化につながる場合があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

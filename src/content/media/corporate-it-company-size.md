@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["社内SE", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "corporate-it-company-size"
+hub: "corporate-it"
 image: "/images/media/corporate-it-company-size.png"
 related: ["corporate-it-in-30s", "corporate-it-english", "corporate-it-future", "business-planning-company-size", "hr-consultant-company-size"]
 ---
@@ -28,6 +29,11 @@ related: ["corporate-it-in-30s", "corporate-it-english", "corporate-it-future", 
 この「専門深度 vs. 業務横断性」の構造的差異を前提に、以下の比較を読み進めると理解が整理されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 大手 vs. スタートアップ：社内SE視点の比較表
 
@@ -108,6 +114,11 @@ related: ["corporate-it-in-30s", "corporate-it-english", "corporate-it-future", 
 会社全体のITリテラシー・経営層のIT投資への姿勢を見るために、「直近1〜2年で情報システム部門が主導した取り組み」を面接で聞くと、組織のスタンスが見えやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

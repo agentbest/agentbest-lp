@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["パートナーセールス／アライアンス", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "partner-sales-career-path"
+hub: "partner-sales"
 image: "/images/media/partner-sales-career-path.png"
 related: ["partner-sales-salary-600", "partner-sales-certification", "partner-sales-resume", "bridge-se-career-path", "marketing-manager-career-path"]
 ---
@@ -22,6 +23,11 @@ related: ["partner-sales-salary-600", "partner-sales-certification", "partner-sa
 この職種が他の営業職と根本的に異なる点は、「自分ではなくパートナーを動かして成果を出す」という間接的な影響力の行使にあります。直販営業がクローズドな1対1の商談を積み重ねるのに対し、パートナーセールスは複数のパートナー企業の経営者・営業責任者・現場担当者それぞれに対して異なるレイヤーで働きかけ、エコシステム全体を設計・管理します。この特性が、後述するキャリアの広がりにも直結しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-career-path">無料で相談する</a>
+</aside>
 
 ## キャリアラダーの全体像：段階ごとの役割と求められる能力
 
@@ -97,6 +103,11 @@ related: ["partner-sales-salary-600", "partner-sales-certification", "partner-sa
 この事例で重要なのは、「どれが正解か」ではなく、「何を優先するか（処遇改善・経験の幅・リスクテイク）」を自分の中で明確にすることです。パートナーセールスの経験は汎用性が高く、複数の方向への移行が現実的に可能な職種です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## パートナーセールス専門家として市場価値を高める要素
 

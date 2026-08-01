@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["エンタープライズセールス", "未経験転職"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-from-scratch"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-from-scratch.png"
 related: ["enterprise-sales-salary", "enterprise-sales-future", "enterprise-sales-work-style", "pmo-consultant-from-scratch", "inside-sales-from-scratch"]
 ---
@@ -26,6 +27,11 @@ related: ["enterprise-sales-salary", "enterprise-sales-future", "enterprise-sale
 また商談サイクルも長く、初回接点から受注まで6か月から2年程度かかるケースも珍しくありません。数字を追う短期的なクロージング力よりも、関係構築・課題の言語化・提案設計といった中長期的な能力が求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求められるスキルの全体像
 
@@ -100,6 +106,11 @@ SMBセールスは「短サイクルで多数を回す」構造であるのに�
 結果として、従業員2,000名以上をターゲットとする国内SaaSベンダーのエンタープライズセールスポジションに採用され、入社後6か月で独立して担当案件を持つまでに成長しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

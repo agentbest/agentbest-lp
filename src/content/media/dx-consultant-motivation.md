@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["DXコンサルタント", "志望動機"]
 pubDate: 2026-07-04
 slug: "dx-consultant-motivation"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-motivation.png"
 related: ["dx-consultant-resume", "dx-consultant-interview", "dx-consultant-salary-600", "post-consultant-motivation", "security-consultant-motivation"]
 ---
@@ -28,6 +29,11 @@ DXコンサルタントへの転職活動において、志望動機は選考の
 この3軸が揃っていない志望動機は、どれほど熱意が込められていても「一般的な志望理由」と判断される傾向にあります。DXコンサルティングは依頼する企業にとって大きな経営判断を伴うプロジェクトです。そのため、選考側は「論理的に課題を整理し、クライアントに説明できる人物かどうか」を志望動機の段階から見ています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## 志望動機の基本構造と各要素の役割
 
@@ -101,6 +107,11 @@ DXコンサルタントの志望動機においては、以下の2点が特に�
 それぞれの出身背景において、「強みを軸にしながら補完ポイントへの意欲を示す」構造が機能しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

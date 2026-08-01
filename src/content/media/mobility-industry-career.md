@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["モビリティ・自動運転", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "mobility-industry-career"
+hub: "mobility-industry"
 image: "/images/media/mobility-industry-career.png"
 related: ["mobility-industry-trend", "mobility-industry-salary", "mobility-industry-company", "proptech-industry-career", "ma-industry-career"]
 ---
@@ -31,6 +32,11 @@ related: ["mobility-industry-trend", "mobility-industry-salary", "mobility-indus
 これらのプレイヤー間での転職、あるいは業界外から業界内への参入、業界から外への展開——それぞれでまったく異なるキャリアロジックが働く。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-career">無料で相談する</a>
+</aside>
 
 ## 転職市場で評価される経験の実態
 
@@ -109,6 +115,11 @@ related: ["mobility-industry-trend", "mobility-industry-salary", "mobility-indus
 一方、業界特有のドメイン知識（ODD設計、認証プロセス）は汎用性が限定的なこともあり、「技術スタックの汎用部分」と「業界特有部分」を自分のキャリア説明の中でどう整理するかが重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobility-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

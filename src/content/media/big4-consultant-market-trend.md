@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["総合コンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "big4-consultant-market-trend"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-market-trend.png"
 related: ["big4-consultant-in-30s", "big4-consultant-interview", "big4-consultant-salary", "enterprise-sales-market-trend", "dx-consultant-market-trend"]
 ---
@@ -27,6 +28,11 @@ related: ["big4-consultant-in-30s", "big4-consultant-interview", "big4-consultan
 要するに、求人票の数だけを見て「売り手市場」と判断するのは危険であり、層ごとのポジション動向を精緻に把握することが重要になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## ラインごとの採用ニーズの変化
 
@@ -104,6 +110,11 @@ BIG4各社はグローバルデリバリーセンターの拡充を進めてお�
 デジタル行政推進やセキュリティ政策対応に伴い、官公庁・地方自治体向け案件が拡大している。民間企業の経営改革経験だけでなく、行政プロセスや政策動向への理解を持つ人材の需要が高まりやすい傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

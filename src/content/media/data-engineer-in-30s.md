@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["データエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "data-engineer-in-30s"
+hub: "data-engineer"
 image: "/images/media/data-engineer-in-30s.png"
 related: ["data-engineer-interview", "data-engineer-company-size", "data-engineer-english", "network-engineer-in-30s", "backend-engineer-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["data-engineer-interview", "data-engineer-company-size", "data-enginee
 この現実を前提に置いたうえで、30代が競争優位を持てる条件を整理することが、転職活動の出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## 採用企業が30代データエンジニアに求めるスキルの実態
 
@@ -109,6 +115,11 @@ BIエンジニアとしての実績は豊富だが、データパイプライン
 個人開発のデータパイプラインをポートフォリオとして示す場合、データ量・複雑度・チームでの運用経験が実業務とかけ離れているとみなされるリスクがある。ポートフォリオは「技術への理解度」を補足するものとして活用しつつ、実務経験の説明を中心に据えることが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

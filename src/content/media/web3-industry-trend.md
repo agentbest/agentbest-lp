@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["Web3・ブロックチェーン", "業界動向"]
 pubDate: 2026-07-05
 slug: "web3-industry-trend"
+hub: "web3-industry"
 image: "/images/media/web3-industry-trend.png"
 related: ["web3-industry-guide", "web3-industry-company", "web3-industry-career", "iot-industry-trend", "mobility-industry-trend"]
 ---
@@ -27,6 +28,11 @@ Web3・ブロックチェーン業界は、投機的な盛り上がりと急速�
 
 **③ インフラ技術の成熟**
 レイヤー2ソリューション（スケーラビリティ向上を目的とした技術層）やクロスチェーンブリッジ、ゼロ知識証明（ZK）関連の開発が活発化している。技術スタックの複雑性が増しており、高度な専門性を持つエンジニアへの需要が他の技術領域と比べても高い傾向にある。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用トレンド：どのスキルセットが求められているか
 
@@ -83,6 +89,11 @@ Web3業界の成長性を語る際に重要なのは、「投機的な盛り上�
 - **エンタープライズ向けプライベートチェーン**：サプライチェーン・医療・公共インフラ等での採用が続いており、ITインテグレーターや大手SIerも参入している
 
 一方、コンシューマー向けのPlay-to-Earn・メタバース関連は市場調整が続いており、成長が再加速するタイミングは現時点で見通しにくい状況にある。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web3-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

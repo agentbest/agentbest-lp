@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["AIエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "ai-engineer-certification"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-certification.png"
 related: ["ai-engineer-market-trend", "ai-engineer-resume", "ai-engineer-career-path", "web-marketer-certification", "db-engineer-certification"]
 ---
@@ -40,6 +41,11 @@ AIエンジニアの採用現場において、資格はほとんどの場合「
 スキルセットが近い複数の候補者を比較する局面では、関連資格が最終判断の材料になることがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価されやすい資格・されにくい資格
 
@@ -103,6 +109,11 @@ G検定を取得済みであっても、スクリーニングの合否に影響�
 資格は「面接の文脈を作る補助線」として機能することがある一方、採用の中心的な判断材料にはなりにくい。ポートフォリオや実務経験の説明と資格を組み合わせることで、より整合性のある候補者像が伝わりやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

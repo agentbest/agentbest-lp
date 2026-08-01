@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["データエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "data-engineer-skills"
+hub: "data-engineer"
 image: "/images/media/data-engineer-skills.png"
 related: ["data-engineer-interview", "data-engineer-failure", "data-engineer-in-20s", "embedded-engineer-skills", "hr-consultant-skills"]
 ---
@@ -26,6 +27,11 @@ related: ["data-engineer-interview", "data-engineer-failure", "data-engineer-in-
 多くの求職者が技術実装層のスキルリストを充実させようとするが、採用側が評価の差をつけやすいのは設計・アーキテクチャ層であり、シニアクラスの報酬水準を実現するにはビジネス層との往復ができることが求められる傾向にある。以下ではそれぞれの層を詳述する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## 技術実装層：習得すべきコアスキル
 
@@ -122,6 +128,11 @@ AirflowでのETLパイプライン構築、BigQueryを中心としたデータ�
 この事例が示すのは、スキルの習得と「それをビジネス文脈で語る力」の組み合わせが、レベルアップの鍵になるという構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

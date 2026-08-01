@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["社内SE", "資格"]
 pubDate: 2026-07-04
 slug: "corporate-it-certification"
+hub: "corporate-it"
 image: "/images/media/corporate-it-certification.png"
 related: ["corporate-it-salary-600", "corporate-it-career-guide", "corporate-it-work-style", "cto-vpoe-certification", "engineering-manager-certification"]
 ---
@@ -30,6 +31,11 @@ related: ["corporate-it-salary-600", "corporate-it-career-guide", "corporate-it-
 書類選考の段階では、資格は「一定の知識水準を客観的に示すシグナル」として機能します。とりわけ年収600〜800万円台を目指す転職においては、実績・経験の記述と組み合わせることで説得力が増す補強材料になります。資格単独で評価が大きく変わるわけではありませんが、実務経験が5年未満の候補者にとっては差別化の一助になりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格・されにくい資格の分類
 
@@ -78,6 +84,11 @@ related: ["corporate-it-salary-600", "corporate-it-career-guide", "corporate-it-
 このように、「取りたい資格」と「評価される文脈に合う資格」がずれていることは少なくありません。資格選定前に自分の業務の重心を整理することが出発点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

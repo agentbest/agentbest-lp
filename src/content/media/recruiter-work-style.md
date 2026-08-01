@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["採用担当", "働き方"]
 pubDate: 2026-07-04
 slug: "recruiter-work-style"
+hub: "recruiter"
 image: "/images/media/recruiter-work-style.png"
 related: ["recruiter-how-to-use-agent", "recruiter-salary-1000", "recruiter-certification", "frontend-engineer-work-style", "product-manager-work-style"]
 ---
@@ -24,6 +25,11 @@ related: ["recruiter-how-to-use-agent", "recruiter-salary-1000", "recruiter-cert
 **候補者コミュニケーション**は、単なる日程調整にとどまらず、候補者の志向確認・懸念払拭・クロージングといった高度な対人業務を含む。この部分に力量の差が出やすく、経験値が問われる領域でもある。
 
 **採用戦略立案**は、採用要件の設計・チャネル投資配分・採用KPIの管理などを指し、上位職（リードや採用マネージャー）になるほど比重が高まる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 激務度・残業時間のリアル
 
@@ -96,6 +102,11 @@ IT・SaaS領域では、採用担当においてもフルリモートまたは�
 役職が上がると、個別の選考対応から採用戦略・組織設計の領域に移行するため、突発的な業務への依存度が下がる傾向がある。裁量が増える反面、採用成果への責任も重くなるため、働き方の「安定感」とは別軸の負荷が発生する。
 
 採用担当からHRBP（HRビジネスパートナー）・採用マネージャー・HRディレクターへとキャリアを広げる場合、戦略立案・データ活用・ステークホルダーマネジメントのスキルが求められる。こうした上位職では、年収レンジも幅広くなり、ポジションによっては専門職として相当水準の処遇が期待できる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

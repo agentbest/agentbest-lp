@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["採用担当", "将来性"]
 pubDate: 2026-07-04
 slug: "recruiter-future"
+hub: "recruiter"
 image: "/images/media/recruiter-future.png"
 related: ["recruiter-from-scratch", "recruiter-salary", "recruiter-salary-600", "ma-advisor-future", "scm-consultant-future"]
 ---
@@ -34,6 +35,11 @@ related: ["recruiter-from-scratch", "recruiter-salary", "recruiter-salary-600", 
 この構造的な変化は、「採用担当という職種が縮小する」ことを意味するのではなく、**職種内で求められるスキルの重心が移動している**ことを示しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-future">キャリアを相談する</a>
+</aside>
 
 ## AI・ツール化によって代替されやすい業務とそうでない業務
 
@@ -105,6 +111,11 @@ ATS（採用管理システム）やHRテックツールの普及により、デ
 **示唆**：この転換において重要だったのは、「採用担当の定義を自分で広げる行動」でした。ツールに任せられる業務を積極的に委譲しながら、上位レイヤーの業務に自ら参入した点が評価されるパターンです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

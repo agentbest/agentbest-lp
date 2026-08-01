@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["ブリッジSE", "面接対策"]
 pubDate: 2026-07-04
 slug: "bridge-se-interview"
+hub: "bridge-se"
 image: "/images/media/bridge-se-interview.png"
 related: ["bridge-se-work-style", "bridge-se-in-20s", "bridge-se-failure", "db-engineer-interview", "bizdev-interview"]
 ---
@@ -29,6 +30,11 @@ related: ["bridge-se-work-style", "bridge-se-in-20s", "bridge-se-failure", "db-e
 面接では、これらの領域が単独で問われることは少なく、複数の評価軸を1つの質問で横断的に見ようとするケースが多い。回答を組み立てる際には、「技術的な行動」と「ビジネス的な判断」を意図的に織り交ぜることが重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -119,6 +125,11 @@ related: ["bridge-se-work-style", "bridge-se-in-20s", "bridge-se-failure", "db-e
 語学力（特に英語以外の言語：中国語・ベトナム語・インド英語への対応経験など）や、特定ドメイン（金融・医療・物流）での経験がある場合は、上記より高い水準でオファーが出やすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

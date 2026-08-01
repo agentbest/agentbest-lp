@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["セキュリティエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "security-engineer-from-scratch"
+hub: "security-engineer"
 image: "/images/media/security-engineer-from-scratch.png"
 related: ["security-engineer-certification", "security-engineer-career-guide", "security-engineer-in-30s", "it-consultant-from-scratch", "bridge-se-from-scratch"]
 ---
@@ -24,6 +25,11 @@ related: ["security-engineer-certification", "security-engineer-career-guide", "
 **企画・管理系（GRC）**：セキュリティポリシーの策定、リスク評価、コンプライアンス対応など。業務知識やドキュメンテーション能力が重視される。法務・内部監査経験者が横移動しやすいポジションでもある。
 
 未経験転職を検討する際は、まず「どの領域を目指すか」を明確にすることが、準備の効率を大きく左右する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## IT未経験とIT経験者では出発点が異なる
 
@@ -96,6 +102,11 @@ Webアプリケーション開発経験者であれば、OWASPが定義するよ
 | セキュリティアーキテクト・CISO補佐・GRCシニア | 700〜1,200万円程度 |
 
 SOCアナリストは入口として機能しやすいが、L1業務（アラートの一次対応・エスカレーション）だけに留まると年収の天井が低くなりやすい。スキルアップとともにL2・L3へ移行するか、インシデントレスポンスや診断領域にキャリアを広げることが、中長期的な市場価値向上につながりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

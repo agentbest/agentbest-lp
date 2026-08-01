@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["人事", "転職失敗"]
 pubDate: 2026-07-04
 slug: "hrbp-failure"
+hub: "hrbp"
 image: "/images/media/hrbp-failure.png"
 related: ["hrbp-interview", "hrbp-in-30s", "hrbp-english", "project-manager-failure", "erp-consultant-failure"]
 ---
@@ -26,6 +27,11 @@ related: ["hrbp-interview", "hrbp-in-30s", "hrbp-english", "project-manager-fail
 ### 3. 組織文化への依存度が高い
 
 人事は組織の内側に深く関わる仕事であるため、経営陣や現場マネージャーとの関係性、意思決定の文化、人に対する哲学（ピープルフィロソフィー）と自分の価値観がどれだけ一致しているかが、パフォーマンスに直結する。これが他職種より強く影響するにもかかわらず、面接段階では把握しきれないケースが多い。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターンと背景要因
 
@@ -101,6 +107,11 @@ IT系スタートアップの人事マネージャーとして5年間、採用�
 | 人事部長・CHROクラス | 組織全体の人事戦略を統括 | 1,000万円〜（企業規模に依存） |
 
 転職の際に注意したいのは、前職と同じ職名でも担う責任範囲が異なれば、報酬水準も異なることである。また、スタートアップにおいては、基本給が抑えられるかわりにストックオプションや業績連動報酬が設定されているケースも多く、条件の比較には固定給だけでなく総報酬で判断することが重要になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

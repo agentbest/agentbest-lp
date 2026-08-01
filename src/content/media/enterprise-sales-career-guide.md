@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["エンタープライズセールス", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-career-guide"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-career-guide.png"
 related: ["enterprise-sales-interview", "enterprise-sales-market-trend", "enterprise-sales-salary-600", "product-manager-career-guide", "cloud-engineer-career-guide"]
 ---
@@ -26,6 +27,11 @@ SMB営業との最大の違いは、**意思決定の複雑性**にある。大�
 また、1件あたりの契約規模が大きいことも特徴のひとつだ。年間数千万円から億単位の契約を扱う場合もあり、それに伴い自社内の関係部門（プリセールス・カスタマーサクセス・法務・経営層など）を巻き込む社内調整能力も必要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-career-guide">無料で相談する</a>
+</aside>
 
 ## 主な仕事内容
 
@@ -114,6 +120,11 @@ SalesforceなどのCRMを活用し、複数アカウントの商談進捗を管�
 外資系企業を中心に、採用プロセスの終盤でリファレンスチェック（前職関係者への照会）が行われるケースが増えている。前職での実績・関係構築の質・チームへの貢献などを第三者に語ってもらえる関係者を事前に整理しておくと、プロセスがスムーズに進む。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

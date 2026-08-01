@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["リスク・ガバナンスコンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "risk-consultant-salary"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-salary.png"
 related: ["risk-consultant-work-style", "risk-consultant-market-trend", "risk-consultant-english", "business-planning-salary", "dev-director-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["risk-consultant-work-style", "risk-consultant-market-trend", "risk-co
 同じ「リスク・ガバナンスコンサルタント」という名称でも、所属先が変わると給与体系・昇進構造・年収の上限ラインが大きく異なる点が、この職種の年収理解を複雑にしている要因の一つである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-salary">無料で相談する</a>
+</aside>
 
 ## 年収レンジの全体像
 
@@ -102,6 +108,11 @@ CISA・CRISC・CIA・CFE等の資格は「入職要件」ないし「最低限�
 規制改正や大型ガイドライン施行の1〜2年前後は、各組織での採用意欲が高まりやすい。規制動向を追いながら、自身のプロジェクト経験がその文脈に合致するタイミングで動くことが、年収を引き上げやすいとされる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

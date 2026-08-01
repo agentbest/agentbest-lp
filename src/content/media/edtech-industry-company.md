@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["エドテック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "edtech-industry-company"
+hub: "edtech-industry"
 image: "/images/media/edtech-industry-company.png"
 related: ["edtech-industry-trend", "edtech-industry-guide", "edtech-industry-salary", "mobility-industry-company", "web3-industry-company"]
 ---
@@ -24,6 +25,11 @@ related: ["edtech-industry-trend", "edtech-industry-guide", "edtech-industry-sal
 **toBtoC（学校・自治体経由）モデル**は、教育機関や行政を経由してエンドユーザーである学習者に届けるかたちで、GIGAスクール構想以降に市場が拡大した。公共性が高い反面、予算サイクルや調達ルールに事業計画が左右されやすい。
 
 転職先の候補がどのモデルを主軸にしているかによって、求められる職種スキル・KPI・組織文化が大きく異なる。自分のキャリア経験がどのモデルで活きるかを先に整理することが、企業選びの出発点となる。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## 見るべき財務・事業指標
 
@@ -72,6 +78,11 @@ related: ["edtech-industry-trend", "edtech-industry-guide", "edtech-industry-sal
 入社時の職務は法人向けのカスタマーサクセス（CS）。ARRは当時10億円台後半で、NRRは110%超を維持していた。一方で個人向けアプリは有料転換率に課題があり、全社のマーケティング予算の比重が個人向けに傾いていた。
 
 この構造を入社前に把握していれば、「法人CSとして成果を出しても、会社の優先投資先は別セグメント」という優先度のミスマッチを事前に確認できた。面接では「全社のリソース配分の方向性と、このポジションの戦略的位置づけ」を問うことが実務的に有効である。事業モデルが複数ある企業への転職では、自分のポジションがどのセグメントに紐づくかを解像度高く確認することが、入社後のギャップを減らすポイントになる。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-company">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

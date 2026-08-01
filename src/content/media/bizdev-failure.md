@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["事業開発", "転職失敗"]
 pubDate: 2026-07-04
 slug: "bizdev-failure"
+hub: "bizdev"
 image: "/images/media/bizdev-failure.png"
 related: ["bizdev-motivation", "bizdev-salary", "bizdev-certification", "frontend-engineer-failure", "web-marketer-failure"]
 ---
@@ -28,6 +29,11 @@ related: ["bizdev-motivation", "bizdev-salary", "bizdev-certification", "fronten
 この三つのうち一つでも見誤ると、入社後に「思っていた仕事と違う」「なぜ採用されたのかわからない」という状況に陥りやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## 失敗パターン①：「事業開発」の実態を確認せずに入社する
 
@@ -145,6 +151,11 @@ related: ["bizdev-motivation", "bizdev-salary", "bizdev-certification", "fronten
 - [ ] 試用期間中の条件変動の有無を確認した
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["DXコンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "dx-consultant-work-style"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-work-style.png"
 related: ["dx-consultant-from-scratch", "dx-consultant-career-guide", "dx-consultant-market-trend", "data-analyst-work-style", "mlops-engineer-work-style"]
 ---
@@ -34,6 +35,11 @@ DXコンサルタントという職種は、次の三つの組織類型に大別
 上記はあくまで傾向であり、個人の担当案件・フェーズ・役職によって実態は大きく異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 激務度のリアル｜何が負荷を生み出すのか
 
@@ -110,6 +116,11 @@ DX案件に多い製造業・金融・流通業のクライアントは、比較
 このモデルの場合、週の実働時間は55〜65時間程度になりやすく、特に月・木は深夜帯に及ぶこともある。繁忙期と閑散期の差が大きく、年間トータルで平均を取ると中程度の残業水準に収まるケースもある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

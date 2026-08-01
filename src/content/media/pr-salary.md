@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["広報／PR", "年収相場"]
 pubDate: 2026-07-04
 slug: "pr-salary"
+hub: "pr"
 image: "/images/media/pr-salary.png"
 related: ["pr-salary-1000", "pr-english", "pr-market-trend", "hrbp-salary", "scm-consultant-salary"]
 ---
@@ -33,6 +34,11 @@ related: ["pr-salary-1000", "pr-english", "pr-market-trend", "hrbp-salary", "scm
 PR会社は職能が明確に評価される構造のため、実力次第で早期に年収が伸びやすい面があります。一方、大手事業会社は等級制度に基づく安定的な昇給が期待できる代わりに、上昇のスピードは緩やかになる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代の年収レンジと特徴
 
@@ -116,6 +122,11 @@ PR会社は職能が明確に評価される構造のため、実力次第で早
 **③ 職能の深化（専門家路線）**：クライシスコミュニケーション・IR広報・グローバルPR・コンテンツマーケティングとの統合など、代替困難なスキルセットを構築し、スペシャリストとしての市場価値を高める。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

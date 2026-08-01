@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["開発ディレクター", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "dev-director-career-guide"
+hub: "dev-director"
 image: "/images/media/dev-director-career-guide.png"
 related: ["dev-director-from-scratch", "dev-director-in-20s", "dev-director-future", "thinktank-career-guide", "fas-consultant-career-guide"]
 ---
@@ -36,6 +37,11 @@ related: ["dev-director-from-scratch", "dev-director-in-20s", "dev-director-futu
 - エンジニアと対等に議論できる技術的素養（コードレビューの可否より、仕様の妥当性を判断する力）
 
 技術的なバックグラウンドを持たないディレクターが「エンジニアに舐められた」という経験を持つケースは少なくない。技術的素養は採用側も重視しており、「元エンジニア」であることが一つの強みとして機能しやすい傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 開発ディレクターの市場価値と年収レンジ
 
@@ -105,6 +111,11 @@ related: ["dev-director-from-scratch", "dev-director-in-20s", "dev-director-futu
 - **ステークホルダーとの衝突**：「経営層・クライアント・エンジニアの意見が対立した局面でどう合意形成したか」
 
 これらは単なる経験の有無ではなく、思考の構造と再現性を確認するための問いである。「うまくいった経験」より「困難な状況でどう判断したか」を整理しておくことが、準備として実効性が高い。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

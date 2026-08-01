@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["エドテック", "業界年収"]
 pubDate: 2026-07-05
 slug: "edtech-industry-salary"
+hub: "edtech-industry"
 image: "/images/media/edtech-industry-salary.png"
 related: ["edtech-industry-trend", "edtech-industry-company", "edtech-industry-guide", "consulting-industry-salary", "healthtech-industry-salary"]
 ---
@@ -22,6 +23,11 @@ related: ["edtech-industry-trend", "edtech-industry-company", "edtech-industry-g
 業界全体としては、純粋なIT・SaaSと比較すると平均年収はやや抑えられる傾向にあります。ただし、エンタープライズ向けのBtoB SaaSとして展開している企業や、採用・人材育成領域に隣接する企業では、他のSaaS企業に遜色ない水準に達するケースもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-salary">無料で相談する</a>
+</aside>
 
 ## 職種別の年収レンジ目安
 
@@ -80,6 +86,11 @@ SMB向けに薄利多売で販売するモデルと比較して、大手企業�
 入社後のパスとしては、プロダクトの深化とともにプロダクトマネージャーへのキャリアシフトを希望するケースが見られます。教育ドメインの知識を積み上げながら技術的な素養を持つPMは希少性が高く、700〜850万円のレンジを狙いやすいポジションになります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=edtech-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

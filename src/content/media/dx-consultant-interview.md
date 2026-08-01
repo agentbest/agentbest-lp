@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["DXコンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "dx-consultant-interview"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-interview.png"
 related: ["dx-consultant-motivation", "dx-consultant-in-30s", "dx-consultant-future", "dev-director-interview", "erp-consultant-interview"]
 ---
@@ -32,6 +33,11 @@ DXコンサルタントの面接は、一般的なコンサルタント職の選
 これら三つが問いの形を変えながら繰り返し確認されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -117,6 +123,11 @@ DXプロジェクトの経験が豊富でも、それが面接で伝わる形に
 この整理をすることで、「経験がある」から「経験を語れる」に変わります。面接準備の第一歩は、自分のプロジェクト経験をこの粒度まで言語化することです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

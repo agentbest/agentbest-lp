@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["SCM・調達コンサルタント", "将来性"]
 pubDate: 2026-07-04
 slug: "scm-consultant-future"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-future.png"
 related: ["scm-consultant-market-trend", "scm-consultant-salary-1000", "scm-consultant-work-style", "backend-engineer-future", "big4-consultant-future"]
 ---
@@ -43,6 +44,11 @@ SCMおよび調達領域へのコンサルティング需要は、大きく三�
 業種特化（自動車・製薬・食品等）や、後述するデジタル×SCMの掛け合わせスキルを持つ場合、同年次でも上位レンジに近づきやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-future">キャリアを相談する</a>
+</aside>
 
 ## AIが変えるSCMコンサルタントの仕事
 
@@ -108,6 +114,11 @@ SCM・調達コンサルティングにおいて、「提言はしたが効果�
 業界慣行・現場感覚・関係者の論理をすでに内在化しているため、プロジェクトの立ち上げ速度が速く、クライアントからの信頼形成が早い。さらにデジタルツール知識が加わることで、「業務もITもわかる人材」として上位ポジションに就きやすくなる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

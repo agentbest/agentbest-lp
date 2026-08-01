@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["マーケティングマネージャー", "20代転職"]
 pubDate: 2026-07-04
 slug: "marketing-manager-in-20s"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-in-20s.png"
 related: ["marketing-manager-motivation", "marketing-manager-skills", "marketing-manager-from-scratch", "erp-consultant-in-20s", "pr-in-20s"]
 ---
@@ -24,6 +25,11 @@ related: ["marketing-manager-motivation", "marketing-manager-skills", "marketing
 **第二に、スタートアップ・成長期SaaSでは組織が拡大フェーズにあり、マネジメントポジションが内側から埋まりにくい**。創業期に個人で成果を出してきたメンバーが、組織化に対応できないまま離脱するケースも多く、外部からマネージャー人材を招く構造が生まれやすい。
 
 **第三に、事業会社がエージェンシー依存からインハウス化へ移行する流れ**。広告代理店・マーケティング支援会社での実務経験を持つ20代が、事業会社のマーケティングチームを内製で立ち上げる役割として採用される例が増えている。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 「ポテンシャル採用」の実態を正確に理解する
 
@@ -81,6 +87,11 @@ related: ["marketing-manager-motivation", "marketing-manager-skills", "marketing
 シリーズBのHR SaaS企業に、マーケティングマネージャーとして入社。チームは当初2名で、入社6ヶ月後に採用1名を加えた計3名を管掌。年収は前職比で15〜20%程度の上昇（個人差あり）。
 
 このケースが示すのは、「肩書きのギャップ（リーダー→マネージャー）」を埋めるために必要なのは、実績の再解釈と、新しいポジションに対する具体的な思考の提示であるという点だ。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

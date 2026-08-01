@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["クラウドエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-career-guide"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-career-guide.png"
 related: ["cloud-engineer-in-20s", "cloud-engineer-career-path", "cloud-engineer-salary", "partner-sales-career-guide", "qa-engineer-career-guide"]
 ---
@@ -38,6 +39,11 @@ CI/CDパイプラインの構築・維持、サービスの信頼性設計（SLO
 機械学習モデルの学習・推論基盤や、データパイプライン・データレイクの構築・運用を担う。クラウドの知識に加え、Apache Spark・dbt・Airflowなどのデータエンジニアリング系ツールへの習熟も求められる場面が増えている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## 市場価値と報酬水準の目安
 
@@ -105,6 +111,11 @@ AWS Certified Solutions Architect・Google Cloud Professional Cloud Architectな
 クラウドエンジニアのオファー交渉は、認定資格・スキルセットの希少性よりも、「再現可能な実績」に基づく根拠のほうが交渉余地を生みやすい傾向がある。「このアーキテクチャ変更でコストを〇%削減した」「サービスの可用性をXX%から99.9%に改善した」といった定量実績を整理しておくことが交渉の基礎になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

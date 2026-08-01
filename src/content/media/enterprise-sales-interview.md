@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["エンタープライズセールス", "面接対策"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-interview"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-interview.png"
 related: ["enterprise-sales-market-trend", "enterprise-sales-future", "enterprise-sales-certification", "tech-lead-interview", "db-engineer-interview"]
 ---
@@ -26,6 +27,11 @@ related: ["enterprise-sales-market-trend", "enterprise-sales-future", "enterpris
 この3軸が、頻出質問を分解する際の骨格になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問カテゴリーと評価ポイント
 
@@ -126,6 +132,11 @@ SaaS企業の営業職として5年のキャリアを持つAさん（30代前半
 この形式により、組織理解・プロセス管理・経営言語の3軸すべてを一つのエピソードで示すことができます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

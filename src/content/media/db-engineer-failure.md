@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["データベースエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "db-engineer-failure"
+hub: "db-engineer"
 image: "/images/media/db-engineer-failure.png"
 related: ["db-engineer-motivation", "db-engineer-interview", "db-engineer-salary", "partner-sales-failure", "network-engineer-failure"]
 ---
@@ -22,6 +23,11 @@ related: ["db-engineer-motivation", "db-engineer-interview", "db-engineer-salary
 - **分析基盤・データエンジニアリング寄り**：DWH設計、ETLパイプライン構築、BIツールとの連携が中心
 
 転職活動においては、求人票の「データベースエンジニア募集」という表記だけでは、これらのどのロールに近いかが判断しきれないことが多い。このあいまいさが、入社後のミスマッチを生む主因のひとつとなっている。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターン5選
 
@@ -110,6 +116,11 @@ PostgreSQLとOracleの運用・設計経験を持ち、直近ではオンプレ�
 - [ ] リモート・出社方針と変更可能性が確認できた
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

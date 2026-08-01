@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["フィンテック", "業界動向"]
 pubDate: 2026-07-05
 slug: "fintech-industry-trend"
+hub: "fintech-industry"
 image: "/images/media/fintech-industry-trend.png"
 related: ["fintech-industry-guide", "fintech-industry-salary", "fintech-industry-company", "edtech-industry-trend", "legaltech-industry-trend"]
 ---
@@ -24,6 +25,11 @@ related: ["fintech-industry-guide", "fintech-industry-salary", "fintech-industry
 この構造変化は採用に直結します。かつては「既存金融への挑戦者」として完結していたフィンテック企業が、今や大手金融機関・非金融事業会社・規制当局との複雑な関係性のなかで事業を設計しなければならない局面に入っています。そのため、純粋なエンジニアリング力だけでなく、規制対応・事業開発・リスク管理のスキルセットが同時に求められる構造になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要セグメント別の成長動向
 
@@ -77,6 +83,11 @@ BaaS事業のパートナー開拓を担う人材、Embedded Financeの実装に
 **市場での評価感**：ミドルステージ以上（シリーズB〜上場準備期）のフィンテック企業では、プロダクトの複雑性が増しているため、コンサル経験者のPdMへの需要は一定程度安定しています。年収水準は前職比で横ばいから若干のアップサイドが見込まれるケースが多く、ストックオプションの付与有無が実質的な条件差を生む要因になりやすい局面です。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

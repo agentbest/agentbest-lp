@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["事業企画", "年収600万"]
 pubDate: 2026-07-04
 slug: "business-planning-salary-600"
+hub: "business-planning"
 image: "/images/media/business-planning-salary-600.png"
 related: ["business-planning-in-20s", "business-planning-company-size", "business-planning-career-path", "business-consultant-salary-600", "embedded-engineer-salary-600"]
 ---
@@ -34,6 +35,11 @@ related: ["business-planning-in-20s", "business-planning-company-size", "busines
 IT・SaaS系の成長企業や外資系では比較的早期に600万円を超えやすく、製造業・流通業の大企業では同年次でも500万円台にとどまるケースが見られる。業界選択そのものが年収水準に影響することは、構造として理解しておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁が生じる3つの構造的要因
 
@@ -105,6 +111,11 @@ IT・SaaS系の成長企業、外資系事業会社、コンサルティング�
 このプロセスのポイントは、「論点設定者としての実績づくり」と「市場価値の客観的確認」を並行して行った点にある。どちらか一方だけでは、変化のスピードは緩やかになりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

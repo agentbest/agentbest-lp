@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["プロジェクトマネージャー", "面接対策"]
 pubDate: 2026-07-04
 slug: "project-manager-interview"
+hub: "project-manager"
 image: "/images/media/project-manager-interview.png"
 related: ["project-manager-career-guide", "project-manager-motivation", "project-manager-company-size", "erp-consultant-interview", "solution-architect-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["project-manager-career-guide", "project-manager-motivation", "project
 これらは「どんな仕事をしていたか」ではなく「どのように考え、動いたか」を問うものであるため、経験の羅列ではなく思考プロセスを言語化することが求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問のカテゴリと評価軸
 
@@ -106,6 +112,11 @@ PM面接の回答には、STAR（Situation・Task・Action・Result）にReflect
 PMとして信頼性を示すには、「大規模プロジェクト」「多くの関係者」といった曖昧な表現を避け、「6カ月・メンバー7名・関係会社3社」のように数値を交えて話す習慣が重要だ。面接官も現役のビジネスパーソンであることが多く、具体性の有無で回答の信頼性の印象が変わりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

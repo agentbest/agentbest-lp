@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["SAPコンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "sap-consultant-salary-1000"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-salary-1000.png"
 related: ["sap-consultant-salary-600", "sap-consultant-career-guide", "sap-consultant-in-30s", "strategy-consultant-salary-1000", "freelance-consultant-salary-1000"]
 ---
@@ -30,6 +31,11 @@ SAPコンサルタントの年収は、経験年数・担当モジュール・�
 このレンジから読み取れる通り、正社員ルートでは概ねマネージャークラス以上が1,000万円の射程に入る。フリーランスについては月単価80万円を超えたあたりから年収換算で1,000万円前後となる傾向があるが、稼働率や案件の継続性に左右されるため、単純比較は難しい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収1,000万円に到達する主なルート
 
@@ -96,6 +102,11 @@ Fit/Gap分析・BluePrint設計・設定・テスト・カットオーバー支�
 **示唆**：年収改善のトリガーになったのは「資格取得」や「業界の転換」ではなく、現職で希少性の高い経験を積み直したことだった。転職のタイミングと実績の組み合わせが、年収改善の構造として機能しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

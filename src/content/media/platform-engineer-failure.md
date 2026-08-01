@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["プラットフォームエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "platform-engineer-failure"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-failure.png"
 related: ["platform-engineer-market-trend", "platform-engineer-english", "platform-engineer-work-style", "frontend-engineer-failure", "infra-engineer-failure"]
 ---
@@ -20,6 +21,11 @@ related: ["platform-engineer-market-trend", "platform-engineer-english", "platfo
 この職種定義の曖昧さが、転職における認識齟齬の温床になっている。求人票に書かれている「プラットフォームエンジニア」の実態が、入社後に自分の想定と大きくずれていたとしても、求人段階では見抜きにくい。
 
 加えて、この領域は技術の変化が速く、各社の技術スタックの成熟度も大きく異なる。IaCツールやKubernetesの活用レベル、可観測性（Observability）への投資水準が企業によってまちまちであるため、技術的な環境品質を事前に見極めることが難しい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターン
 
@@ -96,6 +102,11 @@ related: ["platform-engineer-market-trend", "platform-engineer-english", "platfo
 - [ ] 株式報酬のベスティング条件
 - [ ] 評価制度とキャリアラダーの明文化状況
 - [ ] プラットフォームエンジニアとして入社した先輩のキャリア事例
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

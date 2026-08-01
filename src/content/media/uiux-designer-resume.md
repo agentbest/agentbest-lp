@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["UI/UXデザイナー", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "uiux-designer-resume"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-resume.png"
 related: ["uiux-designer-salary-1000", "uiux-designer-how-to-use-agent", "uiux-designer-market-trend", "hrbp-resume", "backend-engineer-resume"]
 ---
@@ -30,6 +31,11 @@ UI/UXデザイナーとして転職活動を進める際、書類選考の通過
 この三点が言語化されていない職務経歴書は、ポートフォリオの質にかかわらず「業務の解像度が低い人材」と判断されやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -130,6 +136,11 @@ UIデザインリードとして、PMおよびエンジニア2名と協働。ユ
 「担当しました」「取り組みました」で止まる記述は、何をどう行ったかが伝わらない。動詞の後に「何を・どのように・どのような結果として」を補う意識を持つことが有効だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

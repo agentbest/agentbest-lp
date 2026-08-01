@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["マーケティングマネージャー", "働き方"]
 pubDate: 2026-07-04
 slug: "marketing-manager-work-style"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-work-style.png"
 related: ["marketing-manager-interview", "marketing-manager-motivation", "marketing-manager-market-trend", "big4-consultant-work-style", "platform-engineer-work-style"]
 ---
@@ -27,6 +28,11 @@ MMの業務は大きく以下の4領域に分類できます。
 実態として、個人のプレイヤー時代との最大の違いは「4. クロスファンクション連携」の比重が急増する点です。特にBtoB SaaSや大手コンサルファームのような組織では、MQLからSQLへの転換率をめぐって営業部門との調整が常態化するため、会議・レビューの総量が大幅に増加する傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度の実態：業種・フェーズ別の違い
 
@@ -98,6 +104,11 @@ MMが営業・プロダクト・経営と密に連携する必要がある組織
 外資系テック企業では上記レンジを上回るケースもある一方、国内スタートアップでは職位が高くても年収が抑制されることがあります。ストックオプションやボーナス構成を含めたトータル報酬の観点で比較することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

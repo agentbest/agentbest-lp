@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["Webマーケター", "資格"]
 pubDate: 2026-07-04
 slug: "web-marketer-certification"
+hub: "web-marketer"
 image: "/images/media/web-marketer-certification.png"
 related: ["web-marketer-in-30s", "web-marketer-motivation", "web-marketer-salary", "data-scientist-certification", "strategy-consultant-certification"]
 ---
@@ -32,6 +33,11 @@ IT・SaaS・コンサル領域の採用現場では、Webマーケターの選�
 この「実務接続性」の高低が、後述する「評価されやすい資格」と「不要になりやすい資格」の区分を生む主な要因となっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価されやすい資格と不要になりやすい資格の比較
 
@@ -107,6 +113,11 @@ Google広告認定資格やGoogle アナリティクス認定は、ツールの�
 4. **取得コスト（時間・費用）は許容範囲か**：無料で受験できるプラットフォーム認定と、数万円・数百時間を要する資格では、意思決定のロジックが異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

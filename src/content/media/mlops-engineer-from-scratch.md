@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["MLOpsエンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-from-scratch"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-from-scratch.png"
 related: ["mlops-engineer-salary-600", "mlops-engineer-company-size", "mlops-engineer-market-trend", "pr-from-scratch", "ai-engineer-from-scratch"]
 ---
@@ -30,6 +31,11 @@ MLOpsは"Machine Learning Operations"の略称で、機械学習モデルを本�
 要するに、MLOpsエンジニアはデータサイエンスとバックエンドエンジニアリングとインフラ・SRE的思考の交差点に立つ職種です。この「三角形の広さ」こそが、スキル習得のロードマップを設計するうえで最初に理解すべき点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 必要スキルの全体像
 
@@ -124,6 +130,11 @@ MLOpsエンジニアに求められる技術領域は多岐にわたります。
 SaaSスタートアップやAI専業企業では、実力主義の評価制度を採用しているところも多く、実務年数より成果物・技術力で評価されるケースがある一方、大手企業では職位制度の関係で初年度の年収には上限がかかる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["生成AI・AI", "業界年収"]
 pubDate: 2026-07-05
 slug: "ai-industry-salary"
+hub: "ai-industry"
 image: "/images/media/ai-industry-salary.png"
 related: ["ai-industry-company", "ai-industry-trend", "ai-industry-career", "fintech-industry-salary", "iot-industry-salary"]
 ---
@@ -29,6 +30,11 @@ AI・生成AI領域の報酬が高水準になりやすい理由は、単純な�
 AIエンジニアが実装したモデルが売上・コスト削減に直結するケースでは、貢献の定量評価がしやすい。成果連動型の報酬設計を採用しやすい土台があり、これが上振れ要因になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 職種別年収レンジ
 
@@ -110,6 +116,11 @@ AI基盤モデルの内製開発や自社データセットの構築など、「
 - 教育・学習補助の上限額
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["社内SE", "面接対策"]
 pubDate: 2026-07-04
 slug: "corporate-it-interview"
+hub: "corporate-it"
 image: "/images/media/corporate-it-interview.png"
 related: ["corporate-it-in-30s", "corporate-it-work-style", "corporate-it-motivation", "finance-interview", "marketing-manager-interview"]
 ---
@@ -33,6 +34,11 @@ related: ["corporate-it-in-30s", "corporate-it-work-style", "corporate-it-motiva
 同じ質問に対しても、誰に向けて話すかによって強調点を変える意識を持つことが実践的な対策になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-it-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の組み立て方
 

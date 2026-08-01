@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["CTO・VPoE候補", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-resume"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-resume.png"
 related: ["cto-vpoe-skills", "cto-vpoe-work-style", "cto-vpoe-salary-600", "embedded-engineer-resume", "marketing-manager-resume"]
 ---
@@ -32,6 +33,11 @@ CTO・VPoEの採用は、一般的なエンジニア採用とは異なり、技�
 この3点を満たす書類を設計することが、通過率を高める上での前提条件となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -132,6 +138,11 @@ CTO・VPoEの職務経歴書における技術スキルの記載は、「深さ�
 「できる」と「知っている」を明示的に区別することで、採用担当者が候補者のレベル感を正確に把握しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

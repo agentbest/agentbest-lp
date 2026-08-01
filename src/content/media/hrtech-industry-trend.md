@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["HRテック", "業界動向"]
 pubDate: 2026-07-05
 slug: "hrtech-industry-trend"
+hub: "hrtech-industry"
 image: "/images/media/hrtech-industry-trend.png"
 related: ["hrtech-industry-salary", "hrtech-industry-guide", "hrtech-industry-company", "ec-industry-trend", "ma-industry-trend"]
 ---
@@ -34,6 +35,11 @@ HRテックとは、人事・採用・労務・研修などのHR（Human Resourc
 2026年時点では、労務・給与周辺の基盤系プロダクトはすでに成熟フェーズにあります。一方、タレントマネジメントやピープルアナリティクス、生成AI活用領域は普及の初期〜成長期にあり、競合プロダクトの淘汰と統合が起きやすい局面です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-trend">無料で相談する</a>
+</aside>
 
 ## 2026年の主要な業界動向
 
@@ -107,6 +113,11 @@ CSとして実績を積んだ後は、シニアCS・CSマネージャー、プ�
 HRテックの商談は、人事部門が窓口になりながらも、経営企画・情報システム・法務が関与するケースが多く、意思決定まで一定の時間を要しやすい傾向があります。この構造を理解したうえで、ステークホルダーマネジメントを経験してきた営業・マーケ人材は適応しやすいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrtech-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

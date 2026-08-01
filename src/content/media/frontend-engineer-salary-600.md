@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["フロントエンドエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-salary-600"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-salary-600.png"
 related: ["frontend-engineer-in-30s", "frontend-engineer-from-scratch", "frontend-engineer-market-trend", "backend-engineer-salary-600", "security-engineer-salary-600"]
 ---
@@ -34,6 +35,11 @@ related: ["frontend-engineer-in-30s", "frontend-engineer-from-scratch", "fronten
 言い換えると、正社員として600万円を超えるには、**単なる実装担当から一歩踏み出た役割を担っているかどうか**が大きく影響します。この「一歩」の内実を、次のセクションから詳しく分解します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収600万円の壁になりやすい要素
 
@@ -111,6 +117,11 @@ related: ["frontend-engineer-in-30s", "frontend-engineer-from-scratch", "fronten
 このパターンで共通するのは、スキルの向上より**文脈の変更とアウトプットの言語化**が転換点になっているという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["戦略コンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-failure"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-failure.png"
 related: ["strategy-consultant-future", "strategy-consultant-market-trend", "strategy-consultant-in-30s", "marketing-manager-failure", "data-analyst-failure"]
 ---
@@ -22,6 +23,11 @@ related: ["strategy-consultant-future", "strategy-consultant-market-trend", "str
 加えて、戦略コンサルには「出口の選択肢が広い」という特性がある。これは強みであると同時に、意思決定を曖昧にしてしまう要因にもなる。「選べるから後で決めればいい」という先送りが、結果的に軸なき転職活動につながるケースは少なくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## 失敗パターンの類型と構造
 
@@ -82,6 +88,11 @@ CEOは戦略立案よりも短期的な営業成果・KPI管理を優先する�
 面接時に採用担当者が用いた言葉の解像度を、入社前に上げきれていなかった点が核心にある。「戦略機能の立ち上げ」が現経営陣の今期コミットメントなのか、将来的な構想なのかを確認するだけで、意思決定は変わりえた。オファー検討フェーズで直属上司・関係者と踏み込んだ対話をすることの価値が示された例といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

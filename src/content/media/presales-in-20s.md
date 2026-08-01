@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["セールスエンジニア／プリセールス", "20代転職"]
 pubDate: 2026-07-03
 slug: "presales-in-20s"
+hub: "presales"
 image: "/images/media/presales-in-20s.png"
 related: ["presales-failure", "presales-market-trend", "presales-career-guide", "web-marketer-in-20s", "inside-sales-in-20s"]
 ---
@@ -30,6 +31,11 @@ related: ["presales-failure", "presales-market-trend", "presales-career-guide", 
 SaaSやクラウドインフラ、セキュリティ、データ分析ツールなど、製品の複雑性が高い領域ほどこの職種の存在感は大きい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代ポテンシャル採用の実態
 
@@ -109,6 +115,11 @@ SaaSやクラウドインフラ、セキュリティ、データ分析ツール�
 この経歴パターンでは、シリーズB〜C相当の国内SaaS企業のプリセールスポジションへの書類通過率が高まりやすい。初年度の年収は前職比で横ばい〜1〜2割増の水準になることが多く、2〜3年後の実績次第でより専門性の高い外資系ベンダーへの移行も視野に入る。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

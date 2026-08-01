@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["MLOpsエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-work-style"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-work-style.png"
 related: ["mlops-engineer-future", "mlops-engineer-interview", "mlops-engineer-from-scratch", "presales-work-style", "strategy-consultant-work-style"]
 ---
@@ -34,6 +35,11 @@ MLOpsは、ML基盤が整っていない組織では「ゼロから構築する�
 つまり、働き方の実態は「自社がMLの成熟曲線のどこにいるか」に強く依存する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 激務度の実態：職場タイプ別の比較
 
@@ -98,6 +104,11 @@ MLOpsエンジニアは、業務の性質上フルリモートとの親和性が
 この例では残業は発生していないが、木曜のインシデント対応のように突発的な割り込みは起きている。基盤が整備されているほど対応コストは低下し、働き方が安定しやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

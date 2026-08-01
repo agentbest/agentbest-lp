@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["セキュリティエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "security-engineer-certification"
+hub: "security-engineer"
 image: "/images/media/security-engineer-certification.png"
 related: ["security-engineer-career-guide", "security-engineer-how-to-use-agent", "security-engineer-english", "saas-sales-certification", "legal-certification"]
 ---
@@ -24,6 +25,11 @@ related: ["security-engineer-career-guide", "security-engineer-how-to-use-agent"
 - **プリセールス・提案職**：顧客折衝の場面で資格が商談の信頼形成に活用されるため、取得が推奨されるケースが多い
 
 つまり「資格が必要か」という問いに対する回答は、「何をするためのセキュリティエンジニアか」によって変わる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## キャリアフェーズ別の資格戦略
 
@@ -67,6 +73,11 @@ CEH（Certified Ethical Hacker）は認知度がある資格だが、技術者�
 **転職後の処遇**：スタートアップでは、資格そのものより「何ができるか」を問われる場面が増える。ただし、OSCPを保有しているとペネトレーションテストの実務を担当できるという技術的な期待値が設定されやすく、アサインの幅に影響することがある。
 
 このケースが示すのは、資格の評価は「組織文化と採用側の判断基準」によって変動するという点である。同じ資格でも、転職先の業界・規模・カルチャーによって、評価される度合いが大きく変わる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

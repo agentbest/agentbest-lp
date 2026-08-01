@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["ヘルステック", "業界年収"]
 pubDate: 2026-07-05
 slug: "healthtech-industry-salary"
+hub: "healthtech-industry"
 image: "/images/media/healthtech-industry-salary.png"
 related: ["healthtech-industry-trend", "healthtech-industry-career", "healthtech-industry-guide", "iot-industry-salary", "saas-industry-salary"]
 ---
@@ -35,6 +36,11 @@ related: ["healthtech-industry-trend", "healthtech-industry-career", "healthtech
 ※上記はシリーズB以降の成長期〜上場企業を中心とした目安であり、シードステージや設立初期の企業ではストックオプション込みの評価が前提になる場合があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収を左右する3つの構造的要因
 
@@ -88,6 +94,11 @@ BtoB SaaSは病院・クリニック・保険者・製薬企業を顧客とし�
 - 英語でのコミュニケーションが可能であること（グローバル展開企業の場合）
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=healthtech-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

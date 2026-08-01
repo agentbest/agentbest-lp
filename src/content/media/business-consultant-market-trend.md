@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["業務コンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "business-consultant-market-trend"
+hub: "business-consultant"
 image: "/images/media/business-consultant-market-trend.png"
 related: ["business-consultant-interview", "business-consultant-in-30s", "business-consultant-salary-1000", "saas-sales-market-trend", "mlops-engineer-market-trend"]
 ---
@@ -20,6 +21,11 @@ DX推進の長期化、ERPを中心とした基幹システムの刷新需要、
 この記事では、業務コンサルタントの転職市場において何が起きているのかを構造的に整理し、キャリア検討の判断材料として活用できる情報を提供する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## 採用需要を支える三つの構造的要因
 
@@ -90,6 +96,11 @@ SAPやOracleといった大規模ERPの刷新プロジェクト、あるいはSa
 事業会社からコンサルファームへの転籍は、「コンサルの仕事の仕方（仮説思考・クライアント対峙・成果物品質）」への適応が問われる。面接では業務経験の説明だけでなく、コンサルタントとして「どのように付加価値を出すか」という思考の整理が求められる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

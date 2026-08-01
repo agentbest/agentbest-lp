@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["テックリード", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "tech-lead-resume"
+hub: "tech-lead"
 image: "/images/media/tech-lead-resume.png"
 related: ["tech-lead-in-30s", "tech-lead-salary-600", "tech-lead-salary", "sap-consultant-resume", "network-engineer-resume"]
 ---
@@ -29,6 +30,11 @@ related: ["tech-lead-in-30s", "tech-lead-salary-600", "tech-lead-salary", "sap-c
 テックリードの職務経歴書に求められるのは、この両軸を「技術的意思決定→チームへの波及→事業成果」という因果関係で示すことである。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用担当が職務経歴書を読む視点
 
@@ -143,6 +149,11 @@ related: ["tech-lead-in-30s", "tech-lead-salary-600", "tech-lead-salary", "sap-c
 技術ブログ、登壇、OSS貢献などは「技術的な言語化力」の証左として評価されやすい。ただし、内容の質が問われるため、「〇回登壇」と件数だけ列挙するのではなく、テーマと概要を一行添えることが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

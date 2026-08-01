@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["マーケティングマネージャー", "必要スキル"]
 pubDate: 2026-07-04
 slug: "marketing-manager-skills"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-skills.png"
 related: ["marketing-manager-interview", "marketing-manager-career-guide", "marketing-manager-salary-1000", "devops-engineer-skills", "engineering-manager-skills"]
 ---
@@ -26,6 +27,11 @@ related: ["marketing-manager-interview", "marketing-manager-career-guide", "mark
 採用担当者や現場のヘッドが注目するのは、この3層が「バランスよく存在するか」ではなく、「役割のフェーズに応じた優先順位が体現されているか」です。たとえばシリーズB以降のSaaS企業のマーケティングマネージャーと、大手企業の既存ブランド担当では、同じ職種名でも求められるスキルウェイトは大きく異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-skills">無料で相談する</a>
+</aside>
 
 ## スキル別の優先順位と市場価値への影響度
 
@@ -100,6 +106,11 @@ CAC（顧客獲得コスト）・LTV（顧客生涯価値）・MQLからSQLへ�
 スタートアップや成長期の企業では、データが十分にそろっていない状況での仮説立案・優先順位付けの経験が評価されます。「実績のある施策を正確に実行する能力」と「不確実性の高い状況で方向性を定める能力」は、求められるフェーズが異なります。志望企業のフェーズに合ったスキルを前面に出せるかどうかが、面接評価に影響しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

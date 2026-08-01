@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["エンタープライズセールス", "働き方"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-work-style"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-work-style.png"
 related: ["enterprise-sales-future", "enterprise-sales-how-to-use-agent", "enterprise-sales-career-guide", "salesforce-consultant-work-style", "infra-engineer-work-style"]
 ---
@@ -27,6 +28,11 @@ related: ["enterprise-sales-future", "enterprise-sales-how-to-use-agent", "enter
 この構造が、労働時間や業務密度に直接影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度・残業時間の実態
 
@@ -108,6 +114,11 @@ RFP（提案依頼書）対応や大型案件の提案書作成は、エンタ�
 この例では1週間の稼働時間は45〜50時間程度に収まっていますが、期末や大型RFP対応が重なる時期には60時間を超えるケースも想定されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

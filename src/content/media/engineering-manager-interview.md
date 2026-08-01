@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["エンジニアリングマネージャー", "面接対策"]
 pubDate: 2026-07-04
 slug: "engineering-manager-interview"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-interview.png"
 related: ["engineering-manager-company-size", "engineering-manager-certification", "engineering-manager-how-to-use-agent", "digital-marketer-interview", "hr-consultant-interview"]
 ---
@@ -28,6 +29,11 @@ EMの面接において採用担当者が確認しようとしているのは、
 これら三軸をバランスよく示せないと、「技術力は高いが人が育てられない」「人当たりはよいが技術的な判断に自信がなさそう」という印象につながりやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問のカテゴリと評価意図
 
@@ -114,6 +120,11 @@ EM面接で候補者が詰まりやすい質問の一つが、失敗・困難経
 この「内省と変化」まで語れると、「経験から学び、マネジメントの質を改善できるEM」として評価されやすくなります。過去の失敗を自己批判するのではなく、構造的に語ることが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

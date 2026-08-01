@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["データエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "data-engineer-english"
+hub: "data-engineer"
 image: "/images/media/data-engineer-english.png"
 related: ["data-engineer-resume", "data-engineer-certification", "data-engineer-interview", "it-architect-english", "embedded-engineer-english"]
 ---
@@ -26,6 +27,11 @@ related: ["data-engineer-resume", "data-engineer-certification", "data-engineer-
 **英語がほぼ必須のポジション**：外資系テクノロジー企業・グローバルSaaS・多国籍コンサルファームのデータエンジニアリングロール。マネージャーや上位チームが英語話者であるため、日常的なコミュニケーション・設計レビュー・インシデント対応が英語で行われます。
 
 この三層の差は、求人数の絶対数よりも「ポジションの上限年収」に直接反映されます。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-english">無料で相談する</a>
+</aside>
 
 ## 英語力と年収レンジの関係
 
@@ -90,6 +96,11 @@ related: ["data-engineer-resume", "data-engineer-certification", "data-engineer-
 3. **GitHubでの英語コミュニケーション**：Issueのコメントやプルリクエストの説明文を英語で書くことで、非同期コミュニケーションの実地訓練になります。
 
 4. **英語での技術カンファレンス視聴**：Data Engineering PodcastやdbtのSummitセッションなど、専門用語が文脈の中で使われる音声に慣れることで、MTGでのリスニング力が向上します。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

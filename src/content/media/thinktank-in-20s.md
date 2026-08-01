@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["シンクタンク研究員", "20代転職"]
 pubDate: 2026-07-05
 slug: "thinktank-in-20s"
+hub: "thinktank"
 image: "/images/media/thinktank-in-20s.png"
 related: ["thinktank-career-path", "thinktank-from-scratch", "thinktank-how-to-use-agent", "bizdev-in-20s", "bridge-se-in-20s"]
 ---
@@ -30,6 +31,11 @@ related: ["thinktank-career-path", "thinktank-from-scratch", "thinktank-how-to-u
 金融系は経済学・統計学のバックグラウンドへの期待値が高く、純粋な政策・産業調査を希望する場合は学術的な基礎が問われやすい。財団系・独立系は採用枠自体が少なく、キャリアの入口として選びにくい面がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用が成立する条件
 
@@ -105,6 +111,11 @@ related: ["thinktank-career-path", "thinktank-from-scratch", "thinktank-how-to-u
 シンクタンクの中途採用は、プロジェクトの受注状況によって採用タイミングが不規則になりやすい。年度替わりの前後（2〜4月、9〜10月）に求人が出やすいという傾向はあるものの、求人を見かけたタイミングで動くことが実際には重要である。水面下での紹介採用も少なくないため、エージェントを通じた情報収集が有効な場面がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

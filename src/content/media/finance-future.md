@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["財務・経理", "将来性"]
 pubDate: 2026-07-04
 slug: "finance-future"
+hub: "finance"
 image: "/images/media/finance-future.png"
 related: ["finance-company-size", "finance-work-style", "finance-in-20s", "game-engineer-future", "db-engineer-future"]
 ---
@@ -45,6 +46,11 @@ AI・自動化の進展により、財務・経理職の将来性を問う声は
 自動化が難しいのは「判断・設計・コミュニケーション」が介在する領域だ。AIは過去データを処理するが、制度変更・事業環境の変化・経営意思決定の文脈を読む能力はまだ人間に委ねられている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## 財務・経理の役割別将来性：ポジションごとの見通し
 
@@ -116,6 +122,11 @@ FP&Aポジション・経営企画への異動・転職、またはCFO補佐ポ�
 このプロセスで重要なのは「ツールを使えること」ではなく、「ツールと財務知識を組み合わせて、経営判断を支援できること」だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=finance-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

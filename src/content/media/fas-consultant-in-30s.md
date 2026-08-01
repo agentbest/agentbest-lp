@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["会計・財務コンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "fas-consultant-in-30s"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-in-30s.png"
 related: ["fas-consultant-market-trend", "fas-consultant-certification", "fas-consultant-resume", "it-architect-in-30s", "cto-vpoe-in-30s"]
 ---
@@ -44,6 +45,11 @@ related: ["fas-consultant-market-trend", "fas-consultant-certification", "fas-co
 ※上記はあくまで市場における相場感の目安であり、ファームの規模・個人のグレード・資格保有状況によって大きく変動する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## 30代転職で評価される「経験の質」とは何か
 
@@ -101,6 +107,11 @@ M&A財務DDや事業再生など特定ドメインを深掘りし、マネージ
 いずれのルートも、30代のうちにどのドメインで実績を積むかが、40代以降の選択肢の幅に直結しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

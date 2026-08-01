@@ -7,6 +7,7 @@ theme: "業界年収"
 tags: ["サイバーセキュリティ", "業界年収"]
 pubDate: 2026-07-05
 slug: "security-industry-salary"
+hub: "security-industry"
 image: "/images/media/security-industry-salary.png"
 related: ["security-industry-company", "security-industry-trend", "security-industry-career", "game-industry-salary", "mobility-industry-salary"]
 ---
@@ -28,6 +29,11 @@ related: ["security-industry-company", "security-industry-trend", "security-indu
 全体として、経験3〜5年程度のミドル層で600〜800万円台、シニア・スペシャリスト層で800〜1,200万円台、マネジメントやCISO相当の役職では1,200万円超の提示も珍しくなくなってきた。一方、未経験・1〜2年目の入口層は400〜550万円前後が多く、ここは他のITエンジニア職と大きく変わらない。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-salary">キャリアを相談する</a>
+</aside>
 
 ## 職種別年収レンジ
 
@@ -82,6 +88,11 @@ related: ["security-industry-company", "security-industry-trend", "security-indu
 この型が示すのは、「社内評価軸の外にある実力を、可視化できる形式で蓄積する」ことが転職市場での評価に直結するという構造だ。特にペネトレーションテスト・脆弱性調査領域では、バグバウンティ実績・CTF成績・公開レポートが職務経歴書を補完する強力な根拠になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-industry-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

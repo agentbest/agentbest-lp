@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["戦略コンサルタント", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-career-guide"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-career-guide.png"
 related: ["strategy-consultant-career-path", "strategy-consultant-future", "strategy-consultant-market-trend", "risk-consultant-career-guide", "pmo-consultant-career-guide"]
 ---
@@ -34,6 +35,11 @@ related: ["strategy-consultant-career-path", "strategy-consultant-future", "stra
 業務の性質上、1プロジェクトあたり数週間から数ヶ月で結論を出すことが求められ、スピードと精度を両立させる思考設計の力が問われます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-career-guide">無料で相談する</a>
+</aside>
 
 ## 転職市場における戦略コンサルタントの位置づけ
 
@@ -127,6 +133,11 @@ MBAは依然として有効な要件として設定されることがありま�
 上位ファームへの転職活動は選考期間が長く、複数ファームへの応募タイミングの設計が重要です。第一志望の選考が終わる前に他社で内定承諾期限が来るなど、タイムライン管理の失敗が発生しやすい点に注意が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

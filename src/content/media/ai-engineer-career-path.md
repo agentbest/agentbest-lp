@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["AIエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "ai-engineer-career-path"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-career-path.png"
 related: ["ai-engineer-future", "ai-engineer-skills", "ai-engineer-work-style", "ml-engineer-career-path", "fullstack-engineer-career-path"]
 ---
@@ -36,6 +37,11 @@ AIエンジニアとしてのキャリアは、30代という時間軸で考え�
 年収の目安としては、経験5〜8年程度のシニアクラスで、大手テック企業では800〜1,200万円台の提示が見られ、外資系やスタートアップのストック込みではそれ以上の水準になることもある。ただしこれはあくまで相場の傾向であり、企業規模・事業フェーズ・個人の専門性によって幅がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代で迎えるキャリアの主な分岐
 
@@ -86,6 +92,11 @@ AI領域のスタートアップは調達が活発な時期が続いており、
 **検討軸として有効なのは、**「技術的な深化にまだ強い動機があるか」と「組織の課題・人のマネジメントに対して手応えを感じているか」の2点だ。どちらの軸が強いかによって、IC路線かEM路線かの選択が自ずと絞られる。転職市場での選択肢は複数あるが、自分が何に価値を感じるかが定まっていないと、複数オファーを前にしても判断が難しくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

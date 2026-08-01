@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["ITアーキテクト", "働き方"]
 pubDate: 2026-07-04
 slug: "it-architect-work-style"
+hub: "it-architect"
 image: "/images/media/it-architect-work-style.png"
 related: ["it-architect-career-path", "it-architect-in-20s", "it-architect-resume", "backend-engineer-work-style", "data-analyst-work-style"]
 ---
@@ -25,6 +26,11 @@ ITアーキテクトの働き方を語る前提として、業務の性質を把
 - **技術調査・学習**：新技術・クラウドサービスの評価、業界トレンドの把握
 
 いずれも「手を動かして成果物をつくる」作業よりも、「考え・伝え・判断する」活動の比重が高い。これが、残業時間の計測や激務度の感じ方に独特の複雑さをもたらす要因である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度のリアル：フェーズと所属先で大きく異なる
 
@@ -100,6 +106,11 @@ ITアーキテクトの業務は、オンラインへの移行適性が比較的
 **金曜日**：ドキュメント整備と学習。週次の振り返りメモを書き、次週のアジェンダを整理する。技術ブログや論文を読む時間を意識的に設ける。
 
 この例のようなフェーズでは、残業は月20〜30時間程度に収まりやすい。一方でリリース前後には、この構成が大きく崩れることもある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

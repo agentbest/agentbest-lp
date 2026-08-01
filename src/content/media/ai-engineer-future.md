@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["AIエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "ai-engineer-future"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-future.png"
 related: ["ai-engineer-career-path", "ai-engineer-market-trend", "ai-engineer-skills", "cto-vpoe-future", "uiux-designer-future"]
 ---
@@ -18,6 +19,11 @@ AIエンジニアの将来性は、単純な「需要拡大」という文脈だ
 結論から述べると、AIエンジニアという職種カテゴリ全体の需要は当面拡大傾向にあります。一方で、「AIを使える人材」の裾野が広がるほど、コモディティ化するスキル層と高度化・希少化するスキル層の二極分化が加速します。重要なのは、現在の自分のポジションがどちらに向かっているかを構造的に把握することです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-future">無料で相談する</a>
+</aside>
 
 ## AIエンジニアを取り巻く市場構造の変化
 
@@ -98,6 +104,11 @@ SIerでAI関連プロジェクトに参加し、主に既存フレームワー�
 重要なのは、この差が「技術力」だけでなく、「どの意思決定に関与してきたか」という経験の質によっても決まる点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

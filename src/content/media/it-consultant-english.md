@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["ITコンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "it-consultant-english"
+hub: "it-consultant"
 image: "/images/media/it-consultant-english.png"
 related: ["it-consultant-interview", "it-consultant-how-to-use-agent", "it-consultant-skills", "engineering-manager-english", "sap-consultant-english"]
 ---
@@ -36,6 +37,11 @@ SAPやServiceNow、Salesforceなど英語圏発のプラットフォームを扱
 インドやベトナムなどの開発拠点と連携するプロジェクトマネジメントでは、英語でのコミュニケーション能力が実務要件として明示されることがあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力による求人・年収への影響
 
@@ -87,6 +93,11 @@ ITコンサルとして一定の専門領域（例：SCMシステム導入やデ
 採用面接では、TOEICスコアよりも「実際に英語でどのような業務を遂行したか」という具体的な経験の有無が重視されることが増えています。スコアは参考指標にとどまり、実務での使用歴を示せることのほうが評価につながりやすいと言えます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

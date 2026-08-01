@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["カスタマーサクセス", "資格"]
 pubDate: 2026-07-03
 slug: "customer-success-certification"
+hub: "customer-success"
 image: "/images/media/customer-success-certification.png"
 related: ["customer-success-career-path", "customer-success-salary", "customer-success-in-30s", "pr-certification", "mlops-engineer-certification"]
 ---
@@ -24,6 +25,11 @@ CSは国家資格が存在しない職種であり、採用基準として資格
 
 **② 社内評価・昇進要件として設定されるケースがある**
 特定のエンタープライズ向けSaaS企業やコンサルティングファームでは、プロダクト認定資格やプロジェクト管理系資格を社内のグレード要件に組み込んでいることがある。この場合は取得に実質的なメリットが生じる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-certification">無料で相談する</a>
+</aside>
 
 ## 評価されやすい資格・知識証明の類型
 
@@ -82,6 +88,11 @@ SaaS企業のCSポジションに未経験から転職する場合を例に、�
 Gainsightが提供するGainsight Certified Customer Success Manager（GCSM）や、国内外のCS教育機関が提供するCSM認定は、CS専門の知識体系を証明するものとして一定の認知がある。
 
 ただし、これらの認定はまだ採用市場における共通の評価基準として確立しているとは言いにくく、認知度は企業規模・業種によってばらつきが大きい。CS専業ベンダー・支援会社への転職や、CSの専門性を深めたいという意志の証明として使う用途においては有効な場合がある。認定取得よりも、取得を通じてCSの方法論（オンボーディング設計・ヘルススコア・QBR設計など）を体系的に理解したことを具体的に語れるかどうかのほうが、面接の場では重視されやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["PMO", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "pmo-resume"
+hub: "pmo"
 image: "/images/media/pmo-resume.png"
 related: ["pmo-certification", "pmo-salary-1000", "pmo-company-size", "bizdev-resume", "hr-consultant-resume"]
 ---
@@ -30,6 +31,11 @@ PMOの業務は、プロジェクトマネジャー（PM）や開発担当者の
 この3軸を職務単位で整理できると、書類としての情報密度が格段に上がる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -112,6 +118,11 @@ PMOのキャリアステージによって、採用担当者が着目するポ�
 経験が浅い段階では「正確に・確実に動いた」という信頼性の記述が有効で、経験を積むほど「仕組みを設計した」「判断した」「変えた」という主体性の記述が求められる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-resume">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

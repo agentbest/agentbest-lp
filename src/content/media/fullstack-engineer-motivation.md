@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["フルスタックエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-motivation"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-motivation.png"
 related: ["fullstack-engineer-in-20s", "fullstack-engineer-skills", "fullstack-engineer-future", "it-architect-motivation", "thinktank-motivation"]
 ---
@@ -28,6 +29,11 @@ related: ["fullstack-engineer-in-20s", "fullstack-engineer-skills", "fullstack-e
 これらの懸念を先回りして払拭するのが、評価される志望動機の役割である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の3つの構成要素
 
@@ -89,6 +95,11 @@ related: ["fullstack-engineer-in-20s", "fullstack-engineer-skills", "fullstack-e
 志望動機において重要なのは、自分が目指すポジションがどのフェーズの企業で求められているかを理解したうえで、そのフェーズに合致した貢献の描き方をすることである。スタートアップ向けの志望動機と大手企業向けの志望動機では、強調すべき要素が異なってくる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

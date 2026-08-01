@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["ポストコンサル", "資格"]
 pubDate: 2026-07-05
 slug: "post-consultant-certification"
+hub: "post-consultant"
 image: "/images/media/post-consultant-certification.png"
 related: ["post-consultant-interview", "post-consultant-career-guide", "post-consultant-english", "enterprise-sales-certification", "pmo-consultant-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["post-consultant-interview", "post-consultant-career-guide", "post-con
 3. **転身の評価にほぼ寄与しない資格**（一般的な認知度はあるが、採用評価に影響を与えにくいもの）
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## 資格の評価マップ
 
@@ -106,6 +112,11 @@ SIer出身の大手ITコンサルティングファーム在籍者が、SaaS企�
 コンサル在籍中は、実案件での経験蓄積と言語化能力の向上が最も価値の高い投資になる。資格学習に充てる時間がある場合、そのエネルギーをプロジェクトリードや提言の実行支援に振り向けられないかを先に問うべきである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

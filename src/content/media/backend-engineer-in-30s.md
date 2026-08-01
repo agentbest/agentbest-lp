@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["バックエンドエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "backend-engineer-in-30s"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-in-30s.png"
 related: ["backend-engineer-company-size", "backend-engineer-career-guide", "backend-engineer-english", "solution-architect-in-30s", "pr-in-30s"]
 ---
@@ -24,6 +25,11 @@ related: ["backend-engineer-company-size", "backend-engineer-career-guide", "bac
 この構造上の違いを理解していない候補者が、「コーディングには自信があるのに選考が通らない」という状況に陥りやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用側が30代に期待する能力の構造
 
@@ -122,6 +128,11 @@ SaaS系B2B企業で7年勤務・バックエンド中心・Go＋PostgreSQL・コ
 企業ごとに選考プロセスの構成が異なるため、応募前にエージェント経由や口コミサービスで選考フローを把握しておくことが、準備の効率化につながる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

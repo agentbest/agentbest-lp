@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["バックエンドエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "backend-engineer-work-style"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-work-style.png"
 related: ["backend-engineer-company-size", "backend-engineer-in-20s", "backend-engineer-from-scratch", "it-consultant-work-style", "legal-work-style"]
 ---
@@ -30,6 +31,11 @@ related: ["backend-engineer-company-size", "backend-engineer-in-20s", "backend-e
 この表はあくまで傾向の整理であり、同じ類型内でもチーム構成やプロダクトのフェーズによって実態は異なる。特に「残業時間の少なさ」と「裁量の広さ」はトレードオフになりやすく、どちらを優先するかが職場選びの軸になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 激務になりやすい構造的な要因
 
@@ -103,6 +109,11 @@ IT職種全体でリモートワーク対応は進んでいるが、バックエ
 数値はあくまで目安であり、企業規模・地域・スキルセットによって大きく異なる。年収が高い水準の求人ほど、高負荷のフェーズや広い責務が前提となっているケースが多い傾向がある。「年収が高いから働きすぎ」という単純な相関ではなく、責務の範囲が広がることで自律的なコントロールが求められるという構造として理解するとよい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

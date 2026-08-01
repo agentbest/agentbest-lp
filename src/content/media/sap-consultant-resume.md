@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["SAPコンサルタント", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "sap-consultant-resume"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-resume.png"
 related: ["sap-consultant-in-30s", "sap-consultant-salary-600", "sap-consultant-how-to-use-agent", "uiux-designer-resume", "business-planning-resume"]
 ---
@@ -24,6 +25,11 @@ SAPコンサルタントとしての経験は、一般的なITエンジニアの
 「大手メーカーのSAP導入プロジェクトに参画した」という一文だけでは、採用担当者は評価のしようがありません。プロジェクトの規模感、自身の役割、具体的な成果物、判断した場面の記述が揃ってはじめて書類として機能します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の全体構成
 
@@ -113,6 +119,11 @@ SAPコンサルタントの職務経歴書は、以下の順序で構成する�
 上記の年収レンジはあくまで市場の一般的な目安であり、企業規模・事業形態（SIer・コンサルファーム・事業会社社内SE）・個人のスキルセットによって大きく前後します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 書類通過率を下げがちな記載パターン
 

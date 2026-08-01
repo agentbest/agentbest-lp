@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["PMOコンサルタント", "転職失敗"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-failure"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-failure.png"
 related: ["pmo-consultant-salary-600", "pmo-consultant-company-size", "pmo-consultant-interview", "it-architect-failure", "platform-engineer-failure"]
 ---
@@ -23,6 +24,11 @@ PMOという職種は、組織・企業・プロジェクトのフェーズに�
 - PMとPMOの兼務・境界があいまいな役割
 
 この幅広さが「転職してみたら想定と異なる業務だった」という不一致を生みやすい。さらに、PMOコンサルタントは経験の棚卸しが難しく、職務経歴書の記述が抽象的になりやすい。結果として、面接で双方が異なるイメージを持ったまま入社に至るケースが散見される。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-failure">無料で相談する</a>
+</aside>
 
 ## 転職失敗のパターン別分類
 
@@ -107,6 +113,11 @@ PMOコンサルタントは複数の部門・ステークホルダーと協働�
 - [ ] 実際に一緒に働く予定のチームメンバーとの面談機会を設けたか
 - [ ] 平均的なプロジェクト期間・複数掛け持ちの有無を確認したか
 - [ ] リモート・在宅勤務の実態（制度と運用の乖離がないか）を確認したか
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

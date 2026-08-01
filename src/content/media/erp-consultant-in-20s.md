@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["ERPコンサルタント", "20代転職"]
 pubDate: 2026-07-05
 slug: "erp-consultant-in-20s"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-in-20s.png"
 related: ["erp-consultant-skills", "erp-consultant-interview", "erp-consultant-salary-600", "it-architect-in-20s", "fas-consultant-in-20s"]
 ---
@@ -22,6 +23,11 @@ ERP（Enterprise Resource Planning）の実装・運用支援を担うコンサ�
 こうした状況下で、20代のポテンシャル採用は確かに増加傾向にある。しかし現場が求めているのは「若さ」ではなく、「短期間でキャッチアップできる素地と、顧客折衝に耐えうる基礎力」である。採用側の論理を理解したうえで、自身の経験を適切に翻訳できるかどうかが、書類選考の段階から評価を分ける。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## ポテンシャル採用で評価される4つの要素
 
@@ -94,6 +100,11 @@ ERPの実装プロジェクトは、複数の関係者・フェーズが入り�
 ERPコンサルタントへの転職は、業務ドメイン（会計・製造・人事など）と製品の組み合わせで実務が大きく異なる。どのドメインを軸に経験を積みたいかを定めないまま、求人を横断的に応募すると、面接でのキャリアビジョンが薄くなりやすい。最初の1〜2社は「自分の業務経験ともっとも近いモジュール領域」を軸に絞るほうが、選考の精度が上がりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

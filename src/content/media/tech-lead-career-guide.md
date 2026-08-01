@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["テックリード", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "tech-lead-career-guide"
+hub: "tech-lead"
 image: "/images/media/tech-lead-career-guide.png"
 related: ["tech-lead-salary", "tech-lead-interview", "tech-lead-career-path", "recruiter-career-guide", "game-engineer-career-guide"]
 ---
@@ -18,6 +19,11 @@ related: ["tech-lead-salary", "tech-lead-interview", "tech-lead-career-path", "r
 「テックリード」というタイトルは職種名として広く使われるようになった一方、企業によって期待役割の幅が大きく異なります。単なるシニアエンジニアとほぼ同義で使われるケースから、エンジニアリングマネージャーに近い位置づけで使われるケースまで存在します。転職活動においてこのばらつきを正確に把握しておくことが、ミスマッチを防ぐうえで最初の重要な一歩です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## テックリードの仕事内容｜「技術」と「人」の両軸で機能する役割
 
@@ -139,6 +145,11 @@ related: ["tech-lead-salary", "tech-lead-interview", "tech-lead-career-path", "r
 - インシデント発生時の対応文化とポストモーテムの有無
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

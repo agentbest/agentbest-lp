@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["インフラエンジニア", "必要スキル"]
 pubDate: 2026-07-04
 slug: "infra-engineer-skills"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-skills.png"
 related: ["infra-engineer-salary", "infra-engineer-future", "infra-engineer-salary-600", "fullstack-engineer-skills", "data-engineer-skills"]
 ---
@@ -22,6 +23,11 @@ related: ["infra-engineer-salary", "infra-engineer-future", "infra-engineer-sala
 3. **エンジニアリング周辺スキル**：セキュリティ、可観測性（Observability）、プロジェクト・コミュニケーション能力
 
 この3層は「上位層ほど市場価値が高い」という単純な関係ではなく、基盤が盤石であってこそ上位層が機能するという垂直方向の依存関係にある。また、昨今はSREやDevOpsエンジニアとの職域の重複が進んでおり、純粋なインフラ運用のみを担うポジションは減少傾向にある。市場価値の観点では、複数層にわたるスキルの組み合わせが重視されやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル別の優先順位と市場評価
 
@@ -83,6 +89,11 @@ related: ["infra-engineer-salary", "infra-engineer-future", "infra-engineer-sala
 **経験3〜5年の段階**では、クラウドサービスの実務経験を積みながら、TerraformとDockerを習得する流れが一般的な選択肢になる。CI/CDパイプラインへの関与も、この段階で始めておくと後の選択肢が広がりやすい。
 
 **経験5年以上の段階**では、Kubernetesの本番運用経験、あるいはセキュリティ設計・コスト最適化・マルチアカウント設計といった横断的なアーキテクチャ設計能力が市場評価の分岐点になりやすい。加えて、障害対応のポストモーテムを主導した経験や、他職種（開発・セキュリティ・事業部門）との協働経験が上位ポジションの選考で問われる傾向がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

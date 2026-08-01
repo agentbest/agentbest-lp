@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["SCM・調達コンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "scm-consultant-interview"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-interview.png"
 related: ["scm-consultant-failure", "scm-consultant-company-size", "scm-consultant-english", "mlops-engineer-interview", "freelance-consultant-interview"]
 ---
@@ -32,6 +33,11 @@ SCM・調達コンサルタントの面接は、一般的なコンサルタン�
 大手総合系コンサルティングファームでは3〜5回の面接が一般的で、SCM・調達の専門組織を持つファームでは途中にドメイン専門家との面接が加わるケースもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問のカテゴリと評価軸
 
@@ -98,6 +104,11 @@ SCM・調達領域のケースに特有の留意点として、以下が挙げ�
 - **改革の難所（人・組織・IT）に言及する**：施策の実行段階で何が障壁になるかという視点を含めることで、実務経験のある候補者としての信頼感が高まります
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

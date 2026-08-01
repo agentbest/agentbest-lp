@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["SCM・調達コンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "scm-consultant-from-scratch"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-from-scratch.png"
 related: ["scm-consultant-future", "scm-consultant-salary-600", "scm-consultant-motivation", "saas-sales-from-scratch", "sap-consultant-from-scratch"]
 ---
@@ -28,6 +29,11 @@ SCM（サプライチェーン・マネジメント）コンサルタントお�
 戦略コンサルや業務コンサルの大きな括りの中でも、SCM・調達はサプライチェーンの物理的な制約（リードタイム・ロット・輸送条件など）を理解したうえで議論を組み立てる必要があるため、業務知識の深さが差別化要素になりやすい分野です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験者が直面する2つのギャップ
 
@@ -127,6 +133,11 @@ SCM・調達に特化したブティックファームや、大手コンサル�
 これらは業務知識とは別の習慣形成です。入社前にコンサルタントのアウトプット（公開資料・論文・ケーススタディ）を読み込み、その構造を真似る練習をしておくことが、立ち上がり期間の短縮につながる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

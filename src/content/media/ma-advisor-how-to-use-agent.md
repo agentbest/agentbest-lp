@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["M&Aアドバイザー", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "ma-advisor-how-to-use-agent"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-how-to-use-agent.png"
 related: ["ma-advisor-salary-1000", "ma-advisor-future", "ma-advisor-resume", "digital-marketer-how-to-use-agent", "devops-engineer-how-to-use-agent"]
 ---
@@ -38,6 +39,11 @@ M&Aアドバイザーの報酬はベース給与とボーナスの比率が職�
 また、シニアになるにつれてクライアント持ち込みによるレベニューシェアが報酬に占める割合が高まる傾向もある。自社単独でこれらの構造を把握するには限界があり、エージェントが持つ複数社にわたる処遇情報は意思決定において重要な参照軸になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェント選定の基準
 
@@ -76,6 +82,11 @@ M&Aアドバイザー領域の転職支援においてエージェントの質�
 このケースでは転職活動期間の目安として3〜6ヶ月程度を想定したうえで、エージェントとの情報共有を密にしながら選考の解像度を高めていくアプローチが現実的である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

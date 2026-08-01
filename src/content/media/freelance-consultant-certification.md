@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["フリーコンサルタント", "資格"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-certification"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-certification.png"
 related: ["freelance-consultant-in-30s", "freelance-consultant-failure", "freelance-consultant-company-size", "corporate-planning-certification", "recruiter-certification"]
 ---
@@ -26,6 +27,11 @@ related: ["freelance-consultant-in-30s", "freelance-consultant-failure", "freela
 つまり、「フリーコンサルタントに資格は必要か」という問いへの答えは、**どの市場で・どの種類の案件を受注しようとしているか**によって異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-certification">無料で相談する</a>
+</aside>
 
 ## 評価されやすい資格・されにくい資格
 
@@ -90,6 +96,11 @@ PMPの取得プロセスはプロジェクトマネジメントの体系的な�
 資格取得に半年〜1年の学習期間を要する場合、その間に稼働できる案件数や単価向上の機会と比較する視点が必要である。特に経験が豊富なフリーコンサルタントにとっては、資格よりも高難度案件への参画が市場価値向上に直結しやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

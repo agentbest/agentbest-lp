@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["コンサルティング", "業界研究"]
 pubDate: 2026-07-05
 slug: "consulting-industry-guide"
+hub: "consulting-industry"
 image: "/images/media/consulting-industry-guide.png"
 related: ["consulting-industry-career", "consulting-industry-company", "consulting-industry-trend", "cloud-industry-guide", "logitech-industry-guide"]
 ---
@@ -40,6 +41,11 @@ related: ["consulting-industry-career", "consulting-industry-company", "consulti
 特にSaaS・クラウドの普及以降、ITコンサルティング領域の需要は質・量ともに変化しており、単なるシステム導入支援にとどまらず、業務設計や組織変革を一体で担える人材への引き合いが強まっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要企業の類型と特徴
 
@@ -101,6 +107,11 @@ IT・SaaS業界出身者がコンサルティング業界へ転職する場合�
 **結果の傾向**：こうした背景を持つ候補者は、SIerや大手ITベンダーとの差別化として「ビジネス視点とIT実装の両軸を持つ」点が評価されやすく、DX支援系のプロジェクトを多く抱えるファームへの親和性が高くなる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=consulting-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職プロセスで意識すべき実務的なポイント
 

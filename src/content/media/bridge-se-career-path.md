@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["ブリッジSE", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "bridge-se-career-path"
+hub: "bridge-se"
 image: "/images/media/bridge-se-career-path.png"
 related: ["bridge-se-interview", "bridge-se-salary", "bridge-se-in-20s", "dev-director-career-path", "pr-career-path"]
 ---
@@ -32,6 +33,11 @@ related: ["bridge-se-interview", "bridge-se-salary", "bridge-se-in-20s", "dev-di
 担当者レベルから脱するうえで最初の分岐点となるのは、「言語・技術の橋渡し役」から「プロジェクトの品質と方向性に責任を持つ役割」への転換である。この転換を経験できるかどうかが、30代以降のキャリアの幅を左右しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代ブリッジSEが直面する3つの選択肢
 
@@ -92,6 +98,11 @@ SaaSプロダクト企業やスタートアップにおいて、海外開発チ�
 英語・ベトナム語・中国語などの語学力はブリッジSEの入場要件に過ぎず、30代以降は差別化の主軸にはなりにくい。語学力を前提として、その上に「何を解決できるか」を示す必要がある。技術負債の整理・DevOps導入支援・チームトポロジーの設計など、エンジニアリング組織に対して付加価値を提示できる領域を意識的に広げておくと選択肢が増えやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

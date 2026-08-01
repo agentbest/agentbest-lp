@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["モバイルエンジニア", "将来性"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-future"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-future.png"
 related: ["mobile-engineer-career-path", "mobile-engineer-motivation", "mobile-engineer-work-style", "qa-engineer-future", "data-engineer-future"]
 ---
@@ -18,6 +19,11 @@ related: ["mobile-engineer-career-path", "mobile-engineer-motivation", "mobile-e
 スマートフォンの世界的な普及率が高い水準で安定している現在、モバイルアプリの新規開発需要は一時期ほどの急成長を見せていない。しかし、これは「市場の縮小」を意味しない。既存アプリの高度化・リプレース需要、企業のDX推進に伴う業務アプリ開発、そして新興国市場での継続的な拡大など、需要の構造が「量的拡大」から「質的深化」へと移行していると見るほうが実態に近い。
 
 特にSaaS企業やフィンテック領域では、モバイルがユーザーとの主要な接点であり続けている。BtoBプロダクトにおいても、営業支援ツールや現場向けオペレーションアプリの需要は安定して存在する。モバイルエンジニアの需要が消えるというよりも、「汎用的なスキルセットだけでは評価されにくくなる」という変化が進行していると理解するのが適切だろう。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI時代に何が変わるのか
 
@@ -62,6 +68,11 @@ iOSとAndroidそれぞれの内部挙動——メモリ管理、スレッドモ�
 複数クライアントのiOSアプリ開発を担当してきたが、「実装を速くこなせる」という評価に留まっていた。転職活動では書類通過率が伸び悩んだ。ターニングポイントになったのは、個人プロダクトとして生成AIを活用したメモアプリを開発・公開し、アーキテクチャの選定理由とパフォーマンス計測の結果をGitHubおよびZennの技術記事で発信したことだ。「設計の意図を言語化できる」「AI統合の実装経験がある」という評価が加わり、SaaS企業のモバイル開発ポジションへの転換につながった。
 
 この事例が示唆するのは、経験年数や実装量より、「技術的判断の根拠を言語化できるか」「最新技術との接続ポイントを自分で作れるか」が採用判断に影響しやすいという点だ。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

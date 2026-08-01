@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["法務", "転職失敗"]
 pubDate: 2026-07-04
 slug: "legal-failure"
+hub: "legal"
 image: "/images/media/legal-failure.png"
 related: ["legal-salary", "legal-from-scratch", "legal-english", "ai-engineer-failure", "hrbp-failure"]
 ---
@@ -26,6 +27,11 @@ related: ["legal-salary", "legal-from-scratch", "legal-english", "ai-engineer-fa
 加えて、法務職は社内での「少数精鋭」体制であることが多く、入社後に「思っていた仕事ができない」と気づいても相談相手が社内にいない、という孤立リスクも存在します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-failure">無料で相談する</a>
+</aside>
 
 ## よくある失敗パターンと構造的な原因
 
@@ -106,6 +112,11 @@ related: ["legal-salary", "legal-from-scratch", "legal-english", "ai-engineer-fa
 ※上記はあくまで市場の傾向を示す目安であり、企業の資金調達状況・業種・地域によって実態は大きく異なります。年収が高いからといって業務の深さや専門性の幅が広いとは限らない点に注意が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

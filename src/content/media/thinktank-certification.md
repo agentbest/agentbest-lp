@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["シンクタンク研究員", "資格"]
 pubDate: 2026-07-05
 slug: "thinktank-certification"
+hub: "thinktank"
 image: "/images/media/thinktank-certification.png"
 related: ["thinktank-salary-600", "thinktank-in-30s", "thinktank-market-trend", "pmo-certification", "business-planning-certification"]
 ---
@@ -30,6 +31,11 @@ related: ["thinktank-salary-600", "thinktank-in-30s", "thinktank-market-trend", 
 資格はあくまで「専門性の裏付け」として機能するものであり、それ自体が採用・昇進を直接決定する要因にはなりにくい。一方で、特定の文脈では資格の有無が「足切り」または「差別化」として働く局面があることも事実である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格：領域別の整理
 
@@ -106,6 +112,11 @@ related: ["thinktank-salary-600", "thinktank-in-30s", "thinktank-market-trend", 
 30代前後で戦略コンサルや金融機関での実務経験を持つ層。分析スキルと業務遂行力は高く評価されやすいが、「研究員として何を書けるか」というアウトプットの実績が不足しやすい。この段階で資格取得よりも有効な動きは、自主的な論考・白書・寄稿を継続的に発信し、テーマ専門家としての認知を積み上げることである。中小企業診断士や公認会計士などの専門資格を既に持っている場合は、受託調査のポジション応募時に一定の補強材料として活用できる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

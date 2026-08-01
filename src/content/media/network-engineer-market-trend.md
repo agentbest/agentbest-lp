@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["ネットワークエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "network-engineer-market-trend"
+hub: "network-engineer"
 image: "/images/media/network-engineer-market-trend.png"
 related: ["network-engineer-motivation", "network-engineer-salary-600", "network-engineer-how-to-use-agent", "presales-market-trend", "erp-consultant-market-trend"]
 ---
@@ -31,6 +32,11 @@ related: ["network-engineer-motivation", "network-engineer-salary-600", "network
 Ansible、Terraform、PythonによるNAE（Network Automation Engineering）対応を必須要件に含める求人が増えている。手作業による構成管理から、コードで管理するアプローチへの転換が、採用要件に直接反映されている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## スキル別の採用ニーズ変化
 
@@ -99,6 +105,11 @@ Ansible、Terraform、PythonによるNAE（Network Automation Engineering）対�
 インフラをコード管理する文化が根付いており、Terraform・Ansibleの実務経験がある場合に評価されやすい。組織規模が小さいため職域が広く、NWに限らずクラウドインフラ全体を担うケースが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

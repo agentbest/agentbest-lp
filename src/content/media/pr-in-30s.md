@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["広報／PR", "30代転職"]
 pubDate: 2026-07-04
 slug: "pr-in-30s"
+hub: "pr"
 image: "/images/media/pr-in-30s.png"
 related: ["pr-motivation", "pr-future", "pr-resume", "risk-consultant-in-30s", "bizdev-in-30s"]
 ---
@@ -25,6 +26,11 @@ related: ["pr-motivation", "pr-future", "pr-resume", "risk-consultant-in-30s", "
 - **デジタルPR・SNS運用の実務知識**：オーガニック流入設計、インフルエンサー活用の是非を判断できるレベル
 
 20代採用との本質的な差は、「何ができるかの幅」ではなく「どこまで責任をとれるか」にある。30代採用の求人では、担当者レベルではなくリーダー・マネージャー候補として打診されるケースが増えるため、実務のコア部分での経験深度が問われやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求められるスキルと経験の全体像
 
@@ -85,6 +91,11 @@ IPO準備中のスタートアップは特に、「広報機能がほぼゼロ�
 ### 年収の過大期待
 
 30代の広報転職における想定年収は、企業規模・フェーズ・役割範囲によって幅がある。一般的な目安として、事業会社の広報担当レベルで450〜650万円程度、リーダー・マネージャークラスで600〜900万円程度が見えやすいレンジではあるが、スタートアップでは固定給を抑えてエクイティで補う設計もある。複数の求人を比較して相場感を自分で持つことが重要になる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

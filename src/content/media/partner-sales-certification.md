@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["パートナーセールス／アライアンス", "資格"]
 pubDate: 2026-07-04
 slug: "partner-sales-certification"
+hub: "partner-sales"
 image: "/images/media/partner-sales-certification.png"
 related: ["partner-sales-in-20s", "partner-sales-motivation", "partner-sales-skills", "hrbp-certification", "engineering-manager-certification"]
 ---
@@ -32,6 +33,11 @@ related: ["partner-sales-in-20s", "partner-sales-motivation", "partner-sales-ski
 これらはいずれも資格証明書には載らない。資格はあくまでも「業界・領域への理解度」を補完する位置づけとなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格・評価されにくい資格の整理
 
@@ -98,6 +104,11 @@ SaaS企業で3年間パートナーセールスを担当。担当代理店数は
 SIerにとって自社サービスがどのポジションに位置づくか、コンサルファームがアライアンスに求めるのはブランドか収益かリソースか——このような相手側の意思決定構造を読む力は、業界経験と人脈から蓄積される。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

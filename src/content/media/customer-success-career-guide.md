@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["カスタマーサクセス", "転職ガイド"]
 pubDate: 2026-07-03
 slug: "customer-success-career-guide"
+hub: "customer-success"
 image: "/images/media/customer-success-career-guide.png"
 related: ["customer-success-motivation", "customer-success-english", "customer-success-failure", "embedded-engineer-career-guide", "marketing-manager-career-guide"]
 ---
@@ -35,6 +36,11 @@ related: ["customer-success-motivation", "customer-success-english", "customer-s
 職種の中でも、担当顧客の規模によってアプローチは大きく異なります。エンタープライズ向けCSは少数顧客に深く入り込む「ハイタッチ」が中心となり、SMB向けではデジタルタッチや自動化を組み合わせた効率的な支援設計が求められます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## カスタマーサクセスの市場価値：年収水準と需要動向
 
@@ -95,6 +101,11 @@ CS未経験から転職を検討する場合、最も有効な起点は「過去
 自分のキャリアフェーズに応じて「組織を作る経験を得たいのか」「すでに整った環境で専門性を高めたいのか」を明確にしてから企業選定をおこなうと、入社後のミスマッチを減らしやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

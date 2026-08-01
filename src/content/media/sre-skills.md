@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["SRE", "必要スキル"]
 pubDate: 2026-07-04
 slug: "sre-skills"
+hub: "sre"
 image: "/images/media/sre-skills.png"
 related: ["sre-work-style", "sre-in-30s", "sre-resume", "data-scientist-skills", "marketing-manager-skills"]
 ---
@@ -26,6 +27,11 @@ SREは「信頼性をエンジニアリングで解決する」役割である�
 これらはそれぞれ独立しているわけではなく、実務では常に組み合わせて機能する。採用市場においても、「どの層に強みがあるか」が評価軸の一つになっており、特定の層が著しく弱い場合は市場価値が下がりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-skills">無料で相談する</a>
+</aside>
 
 ## スキル別の市場価値への影響度
 
@@ -94,6 +100,11 @@ SREにおけるプログラミングは、アプリケーション開発より�
 これらのスキルは、30代中盤以降のSREにとって年収帯を引き上げる主要因になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

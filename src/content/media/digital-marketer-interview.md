@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["デジタルマーケター", "面接対策"]
 pubDate: 2026-07-04
 slug: "digital-marketer-interview"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-interview.png"
 related: ["digital-marketer-english", "digital-marketer-in-30s", "digital-marketer-salary", "corporate-it-interview", "it-consultant-interview"]
 ---
@@ -26,6 +27,11 @@ related: ["digital-marketer-english", "digital-marketer-in-30s", "digital-market
 「どのツールが使えますか」という質問に見えても、実際にはツールを通じてこの3軸を測っていることが多い。したがって、回答は「ツール名＋できること」で終わらせず、「その施策がビジネスにどう貢献したか」まで届ける構成が基本となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -128,6 +134,11 @@ BtoBのSaaS企業で、MQL（マーケティング起点の見込み客）をイ
 逆質問は評価が終わった場ではない。「マーケティング施策の意思決定プロセスを教えてください」「現状、マーケットとセールスの連携においてどのような課題感をお持ちですか」のように、課題を共有する姿勢を示す質問は、入社後の仕事の進め方への期待感を高めやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["マーケティングマネージャー", "未経験転職"]
 pubDate: 2026-07-04
 slug: "marketing-manager-from-scratch"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-from-scratch.png"
 related: ["marketing-manager-certification", "marketing-manager-salary", "marketing-manager-salary-600", "it-architect-from-scratch", "sap-consultant-from-scratch"]
 ---
@@ -29,6 +30,11 @@ related: ["marketing-manager-certification", "marketing-manager-salary", "market
 未経験の段階でこれらを全て担えるポジションへの採用は、まず発生しません。そのため、どの領域から着手するかが、キャリアルートの分岐点になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験からのルート：現実的な3つのパス
 
@@ -102,6 +108,11 @@ SaaS系スタートアップではストックオプション込みの報酬設�
 このケースで重要なのは、「コンサルの経験が直接通用した領域」を最初から意識的に選んだ点です。完全にゼロから始めるのではなく、既存のスキルセットとマーケティング実務が交差する領域を入り口にしたことが、速度に寄与しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

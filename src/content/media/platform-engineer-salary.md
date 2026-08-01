@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["プラットフォームエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "platform-engineer-salary"
+hub: "platform-engineer"
 image: "/images/media/platform-engineer-salary.png"
 related: ["platform-engineer-career-path", "platform-engineer-from-scratch", "platform-engineer-motivation", "pmo-consultant-salary", "presales-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["platform-engineer-career-path", "platform-engineer-from-scratch", "pl
 SREが「信頼性の維持・向上」に軸足を置くのに対し、プラットフォームエンジニアは「開発生産性の基盤を設計する」ことに主眼があります。この違いが、報酬テーブルにも反映されています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収レンジの全体像
 
@@ -113,6 +119,11 @@ SaaS系企業のSenior Platform Engineerとして採用。年収は950万円台�
 このケースで重要なのは、スキルそのものが変わったわけではなく、「何を解いたか・誰に影響を与えたか」の文脈整理が市場での評価を変えた点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=platform-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

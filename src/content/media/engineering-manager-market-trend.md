@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["エンジニアリングマネージャー", "市場動向"]
 pubDate: 2026-07-04
 slug: "engineering-manager-market-trend"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-market-trend.png"
 related: ["engineering-manager-salary", "engineering-manager-future", "engineering-manager-how-to-use-agent", "cto-vpoe-market-trend", "security-engineer-market-trend"]
 ---
@@ -26,6 +27,11 @@ EMという職種が日本市場で認知され始めたのは2010年代後半�
 グローバルな景気調整やコスト最適化の影響を受けた大手外資系IT企業では、採用ペースが鈍化・一時停止となるケースが目立つようになった。一方、国内のSaaS・フィンテック・HRTech・ヘルスケアテック領域では、プロダクトの複雑化と組織規模の拡大に伴いEMの需要は継続的に高い。事業会社のシステム内製化を推進する大手企業でも、社内エンジニア組織のマネジメント体制整備を目的としたEM採用が増加傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業規模・フェーズ別の採用ニーズ比較
 
@@ -96,6 +102,11 @@ Series C企業（エンジニア30名規模）でEM職として入社。半年�
 EMは個人スキルの評価だけでなく、その人物が「自社の組織フェーズに合っているか」という文脈依存性が高い職種である。年収・職種名・会社規模のみで判断するのではなく、自分がその組織で何を実現できるかという視点での検討が、結果として転職満足度を高めやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

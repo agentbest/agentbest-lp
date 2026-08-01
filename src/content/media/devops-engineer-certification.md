@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["DevOpsエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "devops-engineer-certification"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-certification.png"
 related: ["devops-engineer-failure", "devops-engineer-in-20s", "devops-engineer-resume", "security-engineer-certification", "erp-consultant-certification"]
 ---
@@ -30,6 +31,11 @@ DevOpsエンジニアの採用選考では、評価の中心は実務の成果�
 逆に言えば、5年以上の実務があり、GitHubリポジトリや具体的なアーキテクチャ設計の経験が語れる候補者にとって、資格の有無が選考結果を左右することはほぼない。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-certification">無料で相談する</a>
+</aside>
 
 ## 評価される資格の類型
 
@@ -96,6 +102,11 @@ ITIL Foundation（特にv4）は、DevOpsやSREの思想と親和性の高い内
 結果として、書類選考の通過率が改善し、面接では「どうやって学んだか」という問いに対して資格・個人開発・ドキュメントの3点セットで具体的に説明できるようになった。この事例が示すのは、資格単体の効果ではなく、「資格 × 実践 × アウトプット」の組み合わせによってキャリアの文脈が説明できるようになったという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

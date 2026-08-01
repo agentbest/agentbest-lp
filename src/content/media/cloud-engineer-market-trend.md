@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["クラウドエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-market-trend"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-market-trend.png"
 related: ["cloud-engineer-motivation", "cloud-engineer-in-20s", "cloud-engineer-future", "pmo-market-trend", "pmo-consultant-market-trend"]
 ---
@@ -20,6 +21,11 @@ related: ["cloud-engineer-motivation", "cloud-engineer-in-20s", "cloud-engineer-
 注目すべきは、需要の発生源が変化してきている点である。以前は大手企業の「クラウド移行プロジェクト」が牽引役だったが、現在は移行後の「運用最適化・コスト管理・セキュリティ強化」フェーズに移っている企業が増えている。これは、採用側が求めるスキルの重心が「移行実装」から「設計・ガバナンス・FinOps」へとシフトしていることを意味する。
 
 また、生成AIの普及に伴い、MLOpsやAIインフラ基盤の整備を担う人材需要が急速に高まっている。クラウドエンジニアとMLエンジニアの境界が曖昧になりつつあり、クラウド基盤上にAIワークロードを展開・運用できる人材は、採用競争が特に激しい領域の一つとなっている。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## 採用ニーズの変化：職種内の需給格差
 
@@ -89,6 +95,11 @@ FinOpsとMLOpsの双方に関与できる人材として再ポジショニング
 **スタートアップ・SaaS企業**：スピードとスケーラビリティを両立できる設計力が求められる。年収・ストックオプションの条件が魅力的な場合があるが、事業フェーズによって組織安定性に差がある。
 
 **コンサルティングファーム（クラウド実装部門）**：戦略立案から実装・移行まで担えるアーキテクト人材の採用競争が激しい。複数のクラウドを横断的に扱える経験や、顧客折衝経験が評価されやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

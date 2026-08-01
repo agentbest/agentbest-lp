@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["セキュリティコンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "security-consultant-certification"
+hub: "security-consultant"
 image: "/images/media/security-consultant-certification.png"
 related: ["security-consultant-resume", "security-consultant-how-to-use-agent", "security-consultant-interview", "data-scientist-certification", "devops-engineer-certification"]
 ---
@@ -33,6 +34,11 @@ related: ["security-consultant-resume", "security-consultant-how-to-use-agent", 
 一方で、資格だけでは評価されにくい側面も明確です。顧客との折衝力、複雑な脅威環境における判断の質、提案書の説得力といった要素は、資格試験の合否とは切り離されています。これは採用側・発注側ともに認識していることであり、資格はあくまで評価の一要素に過ぎません。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格・されにくい資格の整理
 
@@ -89,6 +95,11 @@ NIST CSF・ISO/IEC 27001・SOC 2などのフレームワークを、実際に顧
 クラウドセキュリティ・OTセキュリティ・アプリケーションセキュリティなど、特定領域の専門性を深く持つことは、汎用的な資格の取得以上に差別化につながる場合があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

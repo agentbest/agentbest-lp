@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["クラウドエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-salary"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-salary.png"
 related: ["cloud-engineer-in-20s", "cloud-engineer-work-style", "cloud-engineer-how-to-use-agent", "ml-engineer-salary", "presales-salary"]
 ---
@@ -29,6 +30,11 @@ related: ["cloud-engineer-in-20s", "cloud-engineer-work-style", "cloud-engineer-
 上記はあくまで目安であり、雇用形態（正社員・業務委託）、企業規模、事業フェーズ、担当するクラウドプラットフォームの種類によって変動する。外資系IT企業や国内メガベンチャーでは、同等スキルであっても国内中堅SIerと比べて年収水準が1.3〜1.5倍程度高くなる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-salary">無料で相談する</a>
+</aside>
 
 ## 20代クラウドエンジニアの年収傾向
 
@@ -110,6 +116,11 @@ AWSは国内案件が最も多いものの、供給（エンジニア人口）�
 在職中の転職活動において、現年収を基準に「◯%アップ」という交渉は必ずしも有効ではない。市場価値ベースの交渉（同等ポジションの市場相場を根拠として提示する）の方が、期待値とのギャップを埋めやすい傾向がある。エージェント経由の場合、企業側のバジェットレンジ情報をもとに交渉の土台を設定することが、実質的な年収改善につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

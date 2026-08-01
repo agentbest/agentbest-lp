@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["フルスタックエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "fullstack-engineer-company-size"
+hub: "fullstack-engineer"
 image: "/images/media/fullstack-engineer-company-size.png"
 related: ["fullstack-engineer-salary-1000", "fullstack-engineer-career-path", "fullstack-engineer-market-trend", "presales-company-size", "product-manager-company-size"]
 ---
@@ -22,6 +23,11 @@ related: ["fullstack-engineer-salary-1000", "fullstack-engineer-career-path", "f
 一方スタートアップでは、インフラ構築・CI/CD設計・データ基盤・場合によってはプロダクトマネジメント的な意思決定まで、一人のエンジニアが担うことを期待される局面が珍しくない。「フルスタック」の定義が広く、実質的にはプロダクト全体に責任を持つジェネラリストに近い動き方が求められる傾向がある。
 
 この違いは、どちらが優れているという話ではなく、自分がどちらの働き方で成長したいかという問いに直結する。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 報酬・待遇の比較
 
@@ -79,6 +85,11 @@ related: ["fullstack-engineer-salary-1000", "fullstack-engineer-career-path", "f
 - 万一スタートアップが2〜3年以内に事業縮小した場合、その経験はどう次のキャリアに説明できるか
 
 大手を選ぶ合理性があるのは、技術基盤をさらに強化したい・今すぐリスクを取れない事情がある場合。スタートアップを選ぶ合理性があるのは、プロダクトドメインへの関心が高く・リスク許容度があり・「実績としてのCTO経験」に市場価値を感じる場合である。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fullstack-engineer-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["ポストコンサル", "市場動向"]
 pubDate: 2026-07-05
 slug: "post-consultant-market-trend"
+hub: "post-consultant"
 image: "/images/media/post-consultant-market-trend.png"
 related: ["post-consultant-certification", "post-consultant-from-scratch", "post-consultant-motivation", "cloud-engineer-market-trend", "frontend-engineer-market-trend"]
 ---
@@ -20,6 +21,11 @@ related: ["post-consultant-certification", "post-consultant-from-scratch", "post
 供給サイドでは、主要ファームにおける採用規模の拡大が2020年代前半にかけて続いた結果、経験3〜7年のミドル層コンサルタントが市場に厚く存在するようになった。プロジェクト経験の多様化も進んでおり、デジタル・テクノロジー領域を主軸とするコンサルタントの割合が増加している傾向が見られる。
 
 需要サイドでは、事業会社のDX推進・PMO機能の内製化志向が強まっており、外部コンサルに依存してきたナレッジを自社に取り込もうとする動きが継続している。同時に、スタートアップエコシステムの拡大により、成長フェーズの企業が事業開発・戦略企画の即戦力としてコンサルタント出身者を求めるケースも増えている。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 採用ニーズの変化：業種・職種別の傾向
 
@@ -88,6 +94,11 @@ PEファンドのオペレーション改善（ポートフォリオ支援）部
 - **マネジメント経験**：後輩指導・チームリード経験は、マネージャー以上のポジションで必須に近い要件となりやすい
 
 逆に、プロジェクトの幅が広くても一つひとつの経験が浅く見える場合（いわゆる「広く浅い」経歴）は、差別化が難しくなる傾向がある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

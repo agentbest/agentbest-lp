@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["インフラエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "infra-engineer-certification"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-certification.png"
 related: ["infra-engineer-salary", "infra-engineer-how-to-use-agent", "infra-engineer-market-trend", "product-manager-certification", "enterprise-sales-certification"]
 ---
@@ -30,6 +31,11 @@ related: ["infra-engineer-salary", "infra-engineer-how-to-use-agent", "infra-eng
 逆に、経験5年以上のシニアクラスが転職する場合、資格の有無よりも「何のシステムをどの規模で設計したか」「障害対応でどのような判断をしたか」といった実務の深度が主要な評価軸になる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価されやすい資格・されにくい資格
 
@@ -89,6 +95,11 @@ ITパスポートや基本情報技術者試験は、エントリーレベルの
 - **難関資格は時間軸を長く見る**：Cisco CCNPや登録セキスペクラスは、数ヶ月単位の学習期間を見込んでおく必要がある。在職中に計画的に進める方が現実的なケースが多い
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "業界企業選び"
 tags: ["ゲーム・エンタメテック", "業界企業選び"]
 pubDate: 2026-07-05
 slug: "game-industry-company"
+hub: "game-industry"
 image: "/images/media/game-industry-company.png"
 related: ["game-industry-salary", "game-industry-career", "game-industry-trend", "edtech-industry-company", "mobility-industry-company"]
 ---
@@ -30,6 +31,11 @@ related: ["game-industry-salary", "game-industry-career", "game-industry-trend",
 同じ「エンタメ×テック」でも、求められるスキル・キャリアの伸び方・組織の意思決定スタイルが異なる。転職活動において「業界」という括りで一律に比較することには限界があるため、業態レベルで解像度を上げることが出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-company">無料キャリア面談を予約する</a>
+</aside>
 
 ## 企業を評価する際に見るべき6つの指標
 
@@ -98,6 +104,11 @@ related: ["game-industry-salary", "game-industry-career", "game-industry-trend",
 この4ステップを経ることで、「なんとなく有名だから」「好きなゲームを作っているから」という理由だけで意思決定するリスクを下げやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-industry-company">キャリアを相談する</a>
+</aside>
 
 ## 年収レンジの目安と待遇評価の注意点
 

@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["シンクタンク研究員", "転職ガイド"]
 pubDate: 2026-07-05
 slug: "thinktank-career-guide"
+hub: "thinktank"
 image: "/images/media/thinktank-career-guide.png"
 related: ["thinktank-company-size", "thinktank-how-to-use-agent", "thinktank-salary-600", "solution-architect-career-guide", "dev-director-career-guide"]
 ---
@@ -40,6 +41,11 @@ related: ["thinktank-company-size", "thinktank-how-to-use-agent", "thinktank-sal
 転職を検討する際に混乱しやすいのが、シンクタンク研究員とコンサルタントの違いです。コンサルタントは「クライアントの意思決定を支援し実行に伴走する」ことを主目的とするのに対し、研究員は「客観的な知識・分析を蓄積・発信する」ことに軸足を置きます。ただし民間シンクタンクでは両者の業務が重なることが多く、いずれの機能を強化したいかによって転職先の選定基準が変わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-career-guide">キャリアを相談する</a>
+</aside>
 
 ## シンクタンク研究員の市場価値
 
@@ -118,6 +124,11 @@ related: ["thinktank-company-size", "thinktank-how-to-use-agent", "thinktank-sal
 3. **LinkedIn等での情報発信**：専門領域の見解・調査知見を発信しておくことで、企業側からの接触が発生しやすくなります
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-career-guide">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

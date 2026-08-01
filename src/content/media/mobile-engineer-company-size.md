@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["モバイルエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-company-size"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-company-size.png"
 related: ["mobile-engineer-interview", "mobile-engineer-future", "mobile-engineer-certification", "partner-sales-company-size", "backend-engineer-company-size"]
 ---
@@ -40,6 +41,11 @@ related: ["mobile-engineer-interview", "mobile-engineer-future", "mobile-enginee
 スタートアップでは、技術選定の意思決定に近い位置に立てる可能性が高い。ゼロ→イチのフェーズであれば、アーキテクチャの設計から担うことができ、エンジニアとしての「設計経験」を早期に積める。ただしレビュー文化やQAプロセスが未整備な環境もあり、技術的負債の蓄積が速い点は留意が必要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## キャリアフェーズ別の適合性
 
@@ -76,6 +82,11 @@ related: ["mobile-engineer-interview", "mobile-engineer-future", "mobile-enginee
 どちらが優れているかではなく、「自分がどのような技術的成熟を次の3年で得たいか」を起点に選択するのが実務的な判断軸として機能しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["リスク・ガバナンスコンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "risk-consultant-in-20s"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-in-20s.png"
 related: ["risk-consultant-english", "risk-consultant-from-scratch", "risk-consultant-motivation", "bridge-se-in-20s", "mlops-engineer-in-20s"]
 ---
@@ -31,6 +32,11 @@ related: ["risk-consultant-english", "risk-consultant-from-scratch", "risk-consu
 これらは独立しているようで、実務上は密接に連携する。特に大手クライアントでは、ERMとコーポレートガバナンスの統合的な再設計プロジェクトが増えており、単一領域の専門家よりも横断的な視野を持つ人材が評価されやすい傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 20代ポテンシャル採用の実態
 
@@ -107,6 +113,11 @@ Big4系のアドバイザリー部門やアクセンチュア・デロイト等�
 コンサルタント採用では、業務知識と並んで「論点を分解して整理する能力」が評価される。過去の業務において、複雑な問題をどう構造化して解決したかを具体的に説明できることが、選考での評価に直結しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

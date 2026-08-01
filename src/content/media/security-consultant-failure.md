@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["セキュリティコンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "security-consultant-failure"
+hub: "security-consultant"
 image: "/images/media/security-consultant-failure.png"
 related: ["security-consultant-from-scratch", "security-consultant-salary-1000", "security-consultant-english", "erp-consultant-failure", "dx-consultant-failure"]
 ---
@@ -76,6 +77,11 @@ CISSP・CISM・CEH・OSSCPなどの資格は、セキュリティコンサルタ
 
 ---
 
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-failure">無料で相談する</a>
+</aside>
+
 ## 内定承諾前のチェックリスト
 
 以下の項目を確認した上で意思決定するとリスクを低減しやすくなります。すべてを面接・オファー面談で直接確認できるわけではないため、エージェントや内部情報へのアクセスも活用することが実務的には有効です。
@@ -104,6 +110,11 @@ SIer出身でネットワーク・インフラ構築の実務経験を5年程度
 この型の失敗を防ぐには、「入社後3〜6ヶ月でどの種類の案件にアサインされる可能性が高いか」を具体的に確認し、「将来的に」という抽象的な約束を言質として扱わないことが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

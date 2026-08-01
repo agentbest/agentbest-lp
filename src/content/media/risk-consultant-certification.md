@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["リスク・ガバナンスコンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "risk-consultant-certification"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-certification.png"
 related: ["risk-consultant-how-to-use-agent", "risk-consultant-in-20s", "risk-consultant-market-trend", "business-planning-certification", "big4-consultant-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["risk-consultant-how-to-use-agent", "risk-consultant-in-20s", "risk-co
 ただし、採用・評価の場において資格が果たす役割は「必要条件」ではなく「加点要素」であることが多い。マネージャー以上のポジションでは、資格よりも実績・クライアントワークの質・提案力が優先される傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格｜取得優先度ごとの整理
 
@@ -99,6 +105,11 @@ MBAは資格ではなく学位であるが、「資格として検討すべき�
 金融機関でリスクマネジメント部門に7年在籍した後、コンサルタントに転職したケースを考える。市場リスク管理、ALM、バーゼル規制対応の実務経験を持つ場合、FRMを保有していなくても採用・プロジェクトアサインで高評価を受けることは十分にある。この場合、資格が「実務経験を補完する証明」として機能するのに対し、実務経験そのものが資格の代替となっている状態である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

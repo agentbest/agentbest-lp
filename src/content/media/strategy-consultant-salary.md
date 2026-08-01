@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["戦略コンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-salary"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-salary.png"
 related: ["strategy-consultant-motivation", "strategy-consultant-career-guide", "strategy-consultant-failure", "corporate-planning-salary", "tech-lead-salary"]
 ---
@@ -30,6 +31,11 @@ related: ["strategy-consultant-motivation", "strategy-consultant-career-guide", 
 ### 社内ランク
 
 一般的なランク体系はアナリスト→コンサルタント（ジュニアコンサルタント）→マネージャー（プロジェクトリーダー）→プリンシパル（シニアマネージャー）→パートナー（ディレクター）という階層で構成される。各ランクへの昇格可否が、年収の連続的な上昇に直結する。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-salary">無料で相談する</a>
+</aside>
 
 ## 20代・30代別の年収レンジ（目安）
 
@@ -87,6 +93,11 @@ related: ["strategy-consultant-motivation", "strategy-consultant-career-guide", 
 ### 3. 専門領域・インダストリーの希少性を高める
 
 生成AI・ライフサイエンス・エネルギー転換といった高需要領域での専門性を持つコンサルタントは、需給バランスの観点から交渉力が高くなりやすい傾向がある。特定のインダストリー経験が希少な場合、同ランク内でもボーナス評価が高くなる、あるいは引き抜き時のオファーが厚くなるという構造が生じやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

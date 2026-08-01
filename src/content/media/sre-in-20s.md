@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["SRE", "20代転職"]
 pubDate: 2026-07-04
 slug: "sre-in-20s"
+hub: "sre"
 image: "/images/media/sre-in-20s.png"
 related: ["sre-salary", "sre-motivation", "sre-career-guide", "data-scientist-in-20s", "network-engineer-in-20s"]
 ---
@@ -22,6 +23,11 @@ SRE（Site Reliability Engineering）は、Googleが提唱したエンジニア�
 この構造的な供給不足が、ポテンシャル採用の最大の根拠となっている。転職市場において「経験者のみ採用」を貫けるのは、ブランド力と報酬水準で上位に位置する一部の大手テック企業に限られる傾向があり、SaaS系スタートアップや事業会社のSRE立ち上げフェーズでは、インフラエンジニアやバックエンドエンジニアからの転換を前提に採用設計されているケースが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用側が評価する要素：スキルマップの実態
 
@@ -82,6 +88,11 @@ SRE組織を新設・拡張するタイミングでポテンシャル採用が�
 書類通過率は低め（5〜10社中1〜2社程度）だったが、通過した企業では「手を動かした痕跡がある」点を評価されやすく、2〜3社から内定に至るケースが多い。年収の変化は前職比で横ばいから1〜2割増の範囲に収まることが多く、「SRE経験1年以上」を積んだ後の次の転職での上昇幅のほうが大きくなる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sre-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

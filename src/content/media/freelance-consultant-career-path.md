@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["フリーコンサルタント", "キャリアパス"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-career-path"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-career-path.png"
 related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-work-style", "freelance-consultant-salary-1000", "saas-sales-career-path", "data-scientist-career-path"]
 ---
@@ -31,6 +32,11 @@ related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-work-st
 これはあくまで目安であり、専門領域・業界の需給・稼働比率・エージェントや人的ネットワークの質によって大きく変動する。重要なのは、この表が示す「単価の上昇」だけをキャリアの尺度にしないことだ。影響範囲の広がりと、自分が担う知的貢献の質が伴わなければ、単価の上限は早期に頭打ちになりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## 30代フリーコンサルタントが直面する「停滞の構造」
 
@@ -79,6 +85,11 @@ related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-work-st
 この事例が示すのは、「フリーランスか否か」よりも「自分の専門性と市場接点をどう活かすか」を軸にキャリアの選択を判断することの重要性だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

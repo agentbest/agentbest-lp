@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["開発ディレクター", "英語力"]
 pubDate: 2026-07-04
 slug: "dev-director-english"
+hub: "dev-director"
 image: "/images/media/dev-director-english.png"
 related: ["dev-director-salary-1000", "dev-director-company-size", "dev-director-market-trend", "hr-consultant-english", "strategy-consultant-english"]
 ---
@@ -25,6 +26,11 @@ related: ["dev-director-salary-1000", "dev-director-company-size", "dev-director
 - 海外開発チームへの指示・レビュー（オフショア含む）
 
 これらすべてに高度な英語力が必要というわけではないが、「書面英語（Slack・メール・仕様書）」と「口頭英語（会議・報告）」の双方が求められる場面は明確に増えている。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力レベル別の求人・役割の傾向
 
@@ -100,6 +106,11 @@ TOEICスコアは書類選考の参考情報になり得るが、スコアのみ
 - **20代・キャリア初期**：英語より実務スキル（PjM・PdM・技術理解）の蓄積を優先し、英語は並行して継続投資する
 - **30代前半**：英語での非同期コミュニケーションを実務に取り込めるレベルを目指す
 - **30代後半以降**：英語での会議・交渉対応ができると、外資系・グローバルポジションの選択肢が広がる
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["データエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "data-engineer-certification"
+hub: "data-engineer"
 image: "/images/media/data-engineer-certification.png"
 related: ["data-engineer-in-30s", "data-engineer-career-path", "data-engineer-in-20s", "big4-consultant-certification", "erp-consultant-certification"]
 ---
@@ -34,6 +35,11 @@ related: ["data-engineer-in-30s", "data-engineer-career-path", "data-engineer-in
 一方、シニアクラスになるほど、資格よりも「どのような規模・複雑さのデータ基盤を設計・構築したか」「チームやプロジェクト全体に対してどのような責任を持ったか」という実績の語り方が評価の中心になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価されやすい資格とそうでない資格
 
@@ -90,6 +96,11 @@ ITパスポートや基本情報技術者試験は、汎用的なIT知識の証�
 初期段階では、クラウドプロバイダーのアソシエイトレベルを1〜2個取得し、実務またはポートフォリオと並行させるのが現実的な進め方といえる。プロフェッショナルレベルや複数ベンダーへの展開は、実務での設計経験が一定蓄積された後に検討するほうが、試験対策と実務理解が噛み合いやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

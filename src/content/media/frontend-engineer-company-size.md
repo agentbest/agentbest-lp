@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["フロントエンドエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-company-size"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-company-size.png"
 related: ["frontend-engineer-resume", "frontend-engineer-in-30s", "frontend-engineer-salary-1000", "legal-company-size", "pr-company-size"]
 ---
@@ -38,6 +39,11 @@ related: ["frontend-engineer-resume", "frontend-engineer-in-30s", "frontend-engi
 重要なのは、技術的な自由度の高さは「責任範囲の広さ」と裏表である点だ。フロントエンドの設計から、バックエンドとのAPI設計の議論、デザインシステムの構築、リリースプロセスの整備まで、一人のエンジニアが関与しなければならない局面は多い。それを「成長機会」と捉えられるかどうかが、スタートアップ適性の核心といえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## 年収・報酬構造の比較
 
@@ -87,6 +93,11 @@ related: ["frontend-engineer-resume", "frontend-engineer-in-30s", "frontend-engi
 経験4年、スタートアップ3社を経験したフロントエンドエンジニア。速いサイクルの開発経験は豊富だが、コードレビュー文化や設計ドキュメントの整備が薄い環境が続いていたことを課題と感じていた。大手IT企業のプロダクト開発組織に転職し、コードの品質基準・アクセシビリティへの組織的な取り組み・エンジニアリングドキュメントの文化を経験。年収は増加し、技術的な「地盤」を固める期間となった。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

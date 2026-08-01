@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["総合コンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "big4-consultant-skills"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-skills.png"
 related: ["big4-consultant-market-trend", "big4-consultant-salary", "big4-consultant-in-30s", "it-architect-skills", "pr-skills"]
 ---
@@ -29,6 +30,11 @@ related: ["big4-consultant-market-trend", "big4-consultant-salary", "big4-consul
 これらは独立して存在するのではなく、相互に補完し合う。ただし、採用・昇進・案件アサインの場面で「他のスキルを引き上げる基礎」として機能するのは思考・分析スキルであり、この領域の習熟度が市場価値の土台になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキルの優先順位と市場価値への影響
 
@@ -94,6 +100,11 @@ related: ["big4-consultant-market-trend", "big4-consultant-salary", "big4-consul
 ビジネスデベロップメント（提案活動・関係構築）の能力と、特定ドメインでの「指名される専門性」が評価軸の中心になる。純粋な分析・実行スキルの比重は相対的に下がり、「誰に頼むべきか」という判断をクライアント側が下す際に名前が挙がるポジショニングが市場価値を左右する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

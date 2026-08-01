@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["リスク・ガバナンスコンサルタント", "転職失敗"]
 pubDate: 2026-07-04
 slug: "risk-consultant-failure"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-failure.png"
 related: ["risk-consultant-company-size", "risk-consultant-work-style", "risk-consultant-motivation", "network-engineer-failure", "qa-engineer-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["risk-consultant-company-size", "risk-consultant-work-style", "risk-co
 求人票の記載が抽象的なまま進み、面接でも「実績を語る場」に終始すると、入社後に「思っていた仕事と違う」という状況が生じやすい。加えて、この職種はポジションの絶対数が多くないため、候補者側が「希少な機会を逃したくない」という心理的プレッシャーを受けやすく、判断が前のめりになるリスクがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターンとその構造
 
@@ -106,6 +112,11 @@ related: ["risk-consultant-company-size", "risk-consultant-work-style", "risk-co
 この事例が示すのは、「タイトルと年収が条件を満たしていても、業務の具体性を確認しないと後悔しやすい」という構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

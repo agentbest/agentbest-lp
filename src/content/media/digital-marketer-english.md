@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["デジタルマーケター", "英語力"]
 pubDate: 2026-07-04
 slug: "digital-marketer-english"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-english.png"
 related: ["digital-marketer-salary", "digital-marketer-interview", "digital-marketer-certification", "risk-consultant-english", "db-engineer-english"]
 ---
@@ -37,6 +38,11 @@ Google・Meta・HubSpot・Salesforce・Braze など、デジタルマーケテ�
 国内完結型のBtoC事業（ECや消費財ブランドのSNSマーケティングなど）やスタートアップの初期フェーズでは、英語力が評価されていても選考上の足切り項目にはならないことが多い。日本語での実績・数字・ロジックの方が重視される傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力が年収・求人に与える影響
 
@@ -88,6 +94,11 @@ Google・Meta・HubSpot・Salesforce・Braze など、デジタルマーケテ�
 英語は「あれば有利」なスキルではあるが、マーケターとしての根幹である「仮説→施策→計測→改善」のサイクルを回す能力と、顧客・市場に対する洞察力が主軸である。英語力はその上に乗るレバレッジとして機能するという整理が実態に近い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

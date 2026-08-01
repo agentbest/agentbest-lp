@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["フリーコンサルタント", "職務経歴書"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-resume"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-resume.png"
 related: ["freelance-consultant-interview", "freelance-consultant-salary-600", "freelance-consultant-failure", "product-designer-resume", "devops-engineer-resume"]
 ---
@@ -26,6 +27,11 @@ related: ["freelance-consultant-interview", "freelance-consultant-salary-600", "
 また、フリーコンサルタントは複数社・複数プロジェクトを経験していることが多いため、情報量が多くなりがちだ。「網羅性より選択と集中」を意識した編集が、書類通過率に影響しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-resume">無料で相談する</a>
+</aside>
 
 ## 構成の全体像
 
@@ -148,6 +154,11 @@ related: ["freelance-consultant-interview", "freelance-consultant-salary-600", "
 スキルセットに記載した項目が、プロジェクト経歴のどこにも出てこないケースがある。スキルは実績によって裏付けられて初めて説得力を持つため、両セクションを突き合わせて整合性を確認する習慣が重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

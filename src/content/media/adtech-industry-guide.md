@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["アドテック・マーケティングテック", "業界研究"]
 pubDate: 2026-07-05
 slug: "adtech-industry-guide"
+hub: "adtech-industry"
 image: "/images/media/adtech-industry-guide.png"
 related: ["adtech-industry-trend", "adtech-industry-company", "adtech-industry-salary", "govtech-industry-guide", "edtech-industry-guide"]
 ---
@@ -28,6 +29,11 @@ related: ["adtech-industry-trend", "adtech-industry-company", "adtech-industry-s
 近年はこの両者の境界が曖昧になっており、CDPとDSPを連携させてオーディエンスデータを広告配信に活用するといった統合的な活用が一般的になっています。転職先を選ぶ際は、企業がどちらの機能を主軸に置いているかを確認することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場動向：なぜ今、この業界に注目が集まるのか
 
@@ -104,6 +110,11 @@ SaaSプロダクトの定着・活用促進を担うロールです。技術的�
 このケースが示すのは、「現場での実務経験」が技術的な専門職においても評価基準になり得るという点です。エンジニアリングバックグラウンドがなくとも、ツールの使用経験と課題解決の文脈が整合していれば、テクニカルに見えるポジションへの転職が成立しやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## 転職活動で意識すべきポイント
 

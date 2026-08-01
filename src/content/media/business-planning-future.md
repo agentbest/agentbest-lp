@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["事業企画", "将来性"]
 pubDate: 2026-07-04
 slug: "business-planning-future"
+hub: "business-planning"
 image: "/images/media/business-planning-future.png"
 related: ["business-planning-motivation", "business-planning-salary-1000", "business-planning-salary-600", "strategy-consultant-future", "ml-engineer-future"]
 ---
@@ -32,6 +33,11 @@ IT・SaaS企業では、プロダクトマネジャーや事業開発と役割�
 この点が今、問い直されている。「ロジカルシンキングと資料作成能力」という従来の評価軸が、生成AIによって部分的に代替され始めているためだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI時代に代替されやすい業務・されにくい業務
 
@@ -109,6 +115,11 @@ SaaSやテクノロジー企業では、事業企画とPMM（プロダクトマ�
 このパターンに共通するのは、AI活用を「作業効率化」で止めず、空いたリソースを「高付加価値業務への再投資」につなげているという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

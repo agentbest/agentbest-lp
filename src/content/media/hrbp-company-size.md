@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["人事", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "hrbp-company-size"
+hub: "hrbp"
 image: "/images/media/hrbp-company-size.png"
 related: ["hrbp-salary-1000", "hrbp-future", "hrbp-work-style", "risk-consultant-company-size", "tech-lead-company-size"]
 ---
@@ -20,6 +21,11 @@ related: ["hrbp-salary-1000", "hrbp-future", "hrbp-work-style", "risk-consultant
 大手企業の人事部門は、採用・労務・制度設計・研修・タレントマネジメントなどが機能別に細分化されている傾向があります。専門性を一つの領域で深めやすい反面、人事全体の構造を俯瞰する機会は限られやすく、他領域との接続を意識しないと「採用担当」「給与計算担当」という専門家にとどまるケースもあります。
 
 スタートアップの人事は、少人数で採用から制度設計、組織開発、労務対応まで横断的に担うことが求められます。制度が整備されていない状態から仕組みを作る経験は、HRBPとして将来的に組織の戦略パートナーになるうえで重要な素地になりやすいと言えます。一方で、前任者の属人的なノウハウに依存した状態が多く、学習コストが高い環境でもあります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 経験の質・深度の比較
 
@@ -68,6 +74,11 @@ HRBPというポジションは、日本企業では大手外資系・IT企業�
 - 人事以外のステークホルダー（CFO・事業部長等）と定期的な対話機会があるか
 
 これらが整備されているかどうかは、企業規模よりも「経営層が人事に何を期待しているか」という文化的な問題です。大手でも形式的な運用にとどまるケースがあり、スタートアップでも経営者のHR感度が高ければ実質的なHRBP体験が得られる場合があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

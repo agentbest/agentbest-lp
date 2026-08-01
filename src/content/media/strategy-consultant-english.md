@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["戦略コンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-english"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-english.png"
 related: ["strategy-consultant-motivation", "strategy-consultant-from-scratch", "strategy-consultant-salary-600", "product-manager-english", "erp-consultant-english"]
 ---
@@ -20,6 +21,11 @@ related: ["strategy-consultant-motivation", "strategy-consultant-from-scratch", 
 グローバルファームとは、主に欧米系の大手コンサルティングファームの日本オフィスを指す。これらのファームでは、クライアントが多国籍企業である場合や、海外拠点のチームと協働するプロジェクトが常態的に発生する。業務上の英語使用は日常的であり、採用選考においても英語での面接や英語ケース面接が含まれることが多い。
 
 一方、国内系の戦略コンサルティングファームや総合系ファームの戦略部門では、主要クライアントが国内企業であるケースが中心となる。こうした環境では、英語が必須条件として明示されないポジションも存在する。ただし、クロスボーダーM&Aや海外展開支援プロジェクトへのアサイン機会を希望する場合は、英語力の有無が実質的な参入障壁になりやすい。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-english">無料で相談する</a>
+</aside>
 
 ## 英語力の有無で変わる求人の質と量
 
@@ -79,6 +85,11 @@ related: ["strategy-consultant-motivation", "strategy-consultant-from-scratch", 
 一般的に、こうした転籍の選考過程では「英語でのケースインタビュー」が1〜2回設定されることが多い。日本語でのケース対応に慣れていても、英語で同等のパフォーマンスを発揮するには、別途の準備が必要となる。
 
 このプロセスを経てグローバルファームへ移籍した場合、年収水準が以前のファームと比較して20〜40%程度改善される事例は、転職市場においてそれほど珍しくないとされる。ただし、これはスキル・グレード・交渉経緯によって大きく異なるため、あくまで参考水準として理解されたい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

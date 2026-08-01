@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["SaaS営業", "年収600万"]
 pubDate: 2026-07-03
 slug: "saas-sales-salary-600"
+hub: "saas-sales"
 image: "/images/media/saas-sales-salary-600.png"
 related: ["saas-sales-interview", "saas-sales-salary-1000", "saas-sales-failure", "cto-vpoe-salary-600", "network-engineer-salary-600"]
 ---
@@ -30,6 +31,11 @@ SaaS営業（フィールドセールス）において、年収600万円は一�
 この表からわかる通り、500〜600万円帯は「担当の難易度が上がる一方で、評価軸が変わり始める過渡期」に位置します。600万円を超えるためには、量的な頑張りに加え、企業側の評価設計に対する理解が不可欠です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁が生まれる三つの構造的要因
 
@@ -104,6 +110,11 @@ SMB担当として高い達成率を維持していても、「エンタープ�
 このケースが示す本質は、「成果の出し方が評価設計の要件と合っているか」を確認し、ズレがあれば意図的に修正するという姿勢です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

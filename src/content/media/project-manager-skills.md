@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["プロジェクトマネージャー", "必要スキル"]
 pubDate: 2026-07-04
 slug: "project-manager-skills"
+hub: "project-manager"
 image: "/images/media/project-manager-skills.png"
 related: ["project-manager-resume", "project-manager-certification", "project-manager-company-size", "salesforce-consultant-skills", "legal-skills"]
 ---
@@ -34,6 +35,11 @@ WBS作成・スケジュール管理・リスク管理・コスト管理・品�
 SaaS・エンタープライズIT・製造業DX・金融システムなど、業界固有の商習慣・規制・技術スタックへの理解がこれにあたります。PM経験を積むほど、ドメイン知識の深さが専門性として機能し、年収レンジや担当できるプロジェクトの規模に影響しやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル別の市場評価マップ
 
@@ -93,6 +99,11 @@ SaaS企業における基幹システム刷新プロジェクトを例に挙げ�
 この事例が示すのは、ステークホルダー管理が「関係者と仲良くする力」ではなく、「構造として設計する力」であるという点です。シニアPMほど、この設計を開始フェーズで確実に行う習慣を持っています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

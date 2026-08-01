@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["プロダクトデザイナー", "年収600万"]
 pubDate: 2026-07-04
 slug: "product-designer-salary-600"
+hub: "product-designer"
 image: "/images/media/product-designer-salary-600.png"
 related: ["product-designer-company-size", "product-designer-failure", "product-designer-certification", "big4-consultant-salary-600", "enterprise-sales-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["product-designer-company-size", "product-designer-failure", "product-
 この中で600万円という水準は「ミドルの上限からシニアの入口」に位置します。多くのプロダクトデザイナーが「経験を積んでいるのになかなか到達できない」と感じやすい境界線でもあり、単なる年数の積み上げだけでは超えにくいゾーンといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい要素
 
@@ -86,6 +92,11 @@ related: ["product-designer-company-size", "product-designer-failure", "product-
 **結果**：上記を経て転職活動を開始し、SaaS系中堅企業でシニアデザイナーとして採用。年収630万円でオファーを受けた。社内昇格ではなく、外部評価を通じて突破した事例として参考になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["ERPコンサルタント", "働き方"]
 pubDate: 2026-07-05
 slug: "erp-consultant-work-style"
+hub: "erp-consultant"
 image: "/images/media/erp-consultant-work-style.png"
 related: ["erp-consultant-market-trend", "erp-consultant-interview", "erp-consultant-career-guide", "corporate-it-work-style", "solution-architect-work-style"]
 ---
@@ -28,6 +29,11 @@ ERP導入プロジェクトは一般に「構想・要件定義 → 設計 → �
 **③ 担当モジュール・ロール**
 
 財務・調達・製造・人事といったモジュールによって、クライアント側の担当者の関与度や意思決定速度が異なる。また、PMO・業務コンサルタント・テクニカルコンサルタントというロールの違いも、業務の性質と時間配分に影響する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## フェーズ別・残業実態の目安
 
@@ -102,6 +108,11 @@ ERPコンサルタントとしてのキャリアが進むにつれ、業務の�
 - **シニア・マネージャー期（8年目以降）**：提案活動、複数プロジェクト管理が入る。プロジェクト管理の視点で時間を設計しやすくなる一方、責任範囲が拡大する。
 
 キャリアが上がるほど「時間量」より「判断の質」が求められるようになり、純粋な労働時間は落ち着く傾向がある。ただし、経営層への提案活動や複数案件の掛け持ちが増える場合は、別の種類の負荷がかかる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=erp-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["PMOコンサルタント", "年収1000万"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-salary-1000"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-salary-1000.png"
 related: ["pmo-consultant-motivation", "pmo-consultant-how-to-use-agent", "pmo-consultant-english", "corporate-planning-salary-1000", "qa-engineer-salary-1000"]
 ---
@@ -34,6 +35,11 @@ PMOコンサルタントとして年収1,000万円に到達することは、構
 つまり年収1,000万円の到達可否を左右する要素として、「スキル」と同等かそれ以上に「どの組織に所属しているか」が機能する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-salary-1000">無料で相談する</a>
+</aside>
 
 ## 1,000万円に届く人・届かない人の分岐点
 
@@ -97,6 +103,11 @@ PMO業務の中でも、「管理補佐」的な性質の案件のみを積み�
 コンサルタントとして評価が高い人材は、プロジェクトのデリバリーに貢献するだけでなく、ファームにとっての収益貢献──提案活動・人材育成・リピート受注──に対して意識的に関与している傾向がある。これはマネージャー以上の昇格において特に重要な評価軸になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

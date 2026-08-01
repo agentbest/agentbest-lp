@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["ITアーキテクト", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "it-architect-how-to-use-agent"
+hub: "it-architect"
 image: "/images/media/it-architect-how-to-use-agent.png"
 related: ["it-architect-resume", "it-architect-from-scratch", "it-architect-salary", "thinktank-how-to-use-agent", "corporate-it-how-to-use-agent"]
 ---
@@ -34,6 +35,11 @@ ITアーキテクトは担当領域と経験の幅が広く、自身の強みを
 年収・役職・裁量範囲・リモート可否など、ITアーキテクトクラスになると条件交渉の要素が多くなります。企業側は同ポジションを何件も採用しているのに対し、個人の転職回数には限りがあるため、交渉の場における情報量に非対称性が生じます。エージェントは企業の採用傾向・条件の柔軟性・過去の受諾事例を知っていることが多く、交渉のサポートに機能しやすい構造です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## ITアーキテクトに適したエージェントの選定基準
 
@@ -96,6 +102,11 @@ ITアーキテクトクラスでは、2〜3社のエージェントを並行活�
 また、各エージェントの強みを把握して役割を分けることが実用的です。例えば、一方は事業会社・スタートアップ系のネットワークに強いエージェント、もう一方はコンサルや外資系企業に強いエージェントという形で使い分けると、情報収集の幅が広がります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

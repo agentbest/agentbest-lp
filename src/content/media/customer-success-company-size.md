@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["カスタマーサクセス", "大手vsスタートアップ"]
 pubDate: 2026-07-03
 slug: "customer-success-company-size"
+hub: "customer-success"
 image: "/images/media/customer-success-company-size.png"
 related: ["customer-success-work-style", "customer-success-motivation", "customer-success-salary-1000", "bridge-se-company-size", "security-consultant-company-size"]
 ---
@@ -36,6 +37,11 @@ related: ["customer-success-work-style", "customer-success-motivation", "custome
 基本給は相場感として安定している一方、インセンティブ設計はチャーン率・NPS・GRR（グロス収益維持率）・NRR（ネット収益維持率）といった指標に連動する体系が多い。昇給・昇格は社内評価制度に沿って進み、成果が出ても昇進には一定の在籍期間・等級要件がかかりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## スタートアップのCS：事業を動かす経験を早期に積む環境
 
@@ -100,6 +106,11 @@ CS経験が浅い段階では、体系化された環境で顧客対応の基礎
 このような移行が評価されるのは、「大手での構造化された経験」と「スタートアップで求められる推進力」がセットで認識されるからだ。逆に、大手経験のみで高い自律性が求められる環境に入ると、業務定義の曖昧さに適応しにくいと感じるケースもある。スタートアップへの転換を検討するなら、「設計されていない状態からKPIを設定できるか」を自問することが、意思決定の精度を上げる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["ブリッジSE", "英語力"]
 pubDate: 2026-07-04
 slug: "bridge-se-english"
+hub: "bridge-se"
 image: "/images/media/bridge-se-english.png"
 related: ["bridge-se-failure", "bridge-se-career-guide", "bridge-se-company-size", "devops-engineer-english", "hr-consultant-english"]
 ---
@@ -31,6 +32,11 @@ related: ["bridge-se-failure", "bridge-se-career-guide", "bridge-se-company-size
 英語力の高さは②と③の質に最も影響します。日本語話者としての「架け橋」という役割上、英語と日本語の双方でビジネス文書が書けるかどうかが評価の核になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-english">無料で相談する</a>
+</aside>
 
 ## 英語レベル別・求人の広がりと年収の目安
 
@@ -90,6 +96,11 @@ shall/should/mustを使った要件記述、機能仕様・非機能要件の表
 即座に返答できない状況で誤解を生まない文章を書く技術は、特にオフショア管理で差が出ます。曖昧さを排除した簡潔な英文の習熟が重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

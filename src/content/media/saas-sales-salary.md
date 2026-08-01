@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["SaaS営業", "年収", "フィールドセールス"]
 pubDate: 2026-07-03
 slug: "saas-sales-salary"
+hub: "saas-sales-salary"
 image: "/images/media/saas-sales-salary.png"
 related: ["saas-sales-career-guide", "saas-sales-interview", "inside-sales-salary", "enterprise-sales-salary", "customer-success-salary"]
 ---
@@ -25,6 +26,11 @@ SaaS営業の年収は、企業フェーズと担当領域でほぼ決まりま�
 | 営業部長・VP of Sales | 1,200〜1,800万円 | 1,400万円 |
 
 同じ「SaaS営業」という肩書きでも、扱う商材単価と顧客規模でレンジは倍近く変わります。年収を上げたいなら、個人の頑張り以前に「どの市場で戦うか」を設計する必要があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収を構成する3つの変数
 
@@ -98,6 +104,11 @@ SaaS企業の営業報酬は「OTE（On Target Earnings：目標達成時想定�
 - 失注をどう分析し、次にどう活かしたか
 
 プロセスを構造的に語れる人は、商材が変わっても売れると判断されます。逆に、プロダクトの力で売れていた実績は割り引かれます。自分の成果のうち何が自分の力によるものかを切り分けて説明できるように準備しておきましょう。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=saas-sales-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

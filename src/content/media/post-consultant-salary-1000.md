@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["ポストコンサル", "年収1000万"]
 pubDate: 2026-07-05
 slug: "post-consultant-salary-1000"
+hub: "post-consultant"
 image: "/images/media/post-consultant-salary-1000.png"
 related: ["post-consultant-career-guide", "post-consultant-market-trend", "post-consultant-motivation", "finance-salary-1000", "fullstack-engineer-salary-1000"]
 ---
@@ -38,6 +39,11 @@ related: ["post-consultant-career-guide", "post-consultant-market-trend", "post-
 この表から読み取れるように、「外資系かどうか」「投資サイドかどうか」という属性が、年収1,000万円の到達しやすさを大きく左右します。ただし転身後の満足度はパッケージだけでは測れず、業務内容・裁量・成長環境を含めた設計が重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収1,000万円に到達しやすいポジションの類型
 
@@ -100,6 +106,11 @@ related: ["post-consultant-career-guide", "post-consultant-market-trend", "post-
 このケーススタディが示すように、固定給単体での1,000万円到達にこだわるよりも、変動報酬・株式報酬を含めたTC全体で設計することが、ポストコンサルのキャリアでは実態に即した考え方です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

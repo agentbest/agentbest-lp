@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["ゲームエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "game-engineer-in-30s"
+hub: "game-engineer"
 image: "/images/media/game-engineer-in-30s.png"
 related: ["game-engineer-failure", "game-engineer-company-size", "game-engineer-skills", "infra-engineer-in-30s", "enterprise-sales-in-30s"]
 ---
@@ -28,6 +29,11 @@ related: ["game-engineer-failure", "game-engineer-company-size", "game-engineer-
 30代採用でよく見られる落とし穴は、「自分のスキルレベルは十分なはず」という前提で動いてしまうことだ。ゲームエンジニアリングには、他の領域で通用するコーディング力とは独立して要求される専門性がある。この点を見誤ると、書類通過後の技術面接や実技試験で評価が思うように得られない結果につながりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## 即戦力として評価されるスキルセット
 
@@ -101,6 +107,11 @@ related: ["game-engineer-failure", "game-engineer-company-size", "game-engineer-
 ゲーム企業の技術面接は、特定のアルゴリズム問題よりも「実際の開発現場での意思決定」を問うスタイルが多い傾向にある。自身の過去プロジェクトを構造的に説明し、課題・判断・結果の三点セットで語れるよう準備しておくことが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=game-engineer-in-30s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["ポストコンサル", "転職失敗"]
 pubDate: 2026-07-05
 slug: "post-consultant-failure"
+hub: "post-consultant"
 image: "/images/media/post-consultant-failure.png"
 related: ["post-consultant-motivation", "post-consultant-how-to-use-agent", "post-consultant-future", "marketing-manager-failure", "data-consultant-failure"]
 ---
@@ -40,6 +41,11 @@ related: ["post-consultant-motivation", "post-consultant-how-to-use-agent", "pos
 コンサルファームの報酬体系（固定報酬中心・評価サイクルが明確）に慣れた人材にとって、事業会社の報酬設計は不透明に映ることがあります。特に、ストックオプションや業績連動賞与を含む報酬提示の場合、その実質的な期待値を過大評価する傾向が見られます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-failure">無料で相談する</a>
+</aside>
 
 ## 失敗パターン別：リスクの類型と目安
 
@@ -99,6 +105,11 @@ related: ["post-consultant-motivation", "post-consultant-how-to-use-agent", "pos
 - 社風・文化を、面接担当者以外（中途入社者・OB/OGなど）からも確認しているか
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=post-consultant-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

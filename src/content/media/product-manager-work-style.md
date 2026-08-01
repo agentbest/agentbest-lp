@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["プロダクトマネージャー", "働き方"]
 pubDate: 2026-07-04
 slug: "product-manager-work-style"
+hub: "product-manager"
 image: "/images/media/product-manager-work-style.png"
 related: ["product-manager-career-path", "product-manager-from-scratch", "product-manager-failure", "sap-consultant-work-style", "business-planning-work-style"]
 ---
@@ -28,6 +29,11 @@ PdMを「激務職種」と表現すること自体は間違いではないが�
 - 競合・市場動向のモニタリング
 
 これらは「完了」という状態が曖昧なものばかりである。数字を追いながらも、同時に複数の関係者の期待値をマネジメントし続けなければならない。こうした構造的な負荷が、PdMの疲弊感の本質と言える。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-work-style">無料で相談する</a>
+</aside>
 
 ## 残業・拘束時間の実態
 
@@ -83,6 +89,11 @@ PdMが3名体制になり、担当プロダクト領域を分割。UXリサー�
 プロダクト組織が独立した部門として機能し、PdMはシニア化してプロダクトオーナー的な役割に集中。定常業務の多くは後輩PdMやプロセスに委譲され、月残業は20時間前後。フルフレックス・フルリモートを選択できる環境になっている。
 
 このパターンが示すのは、PdMの働き方は固定ではなく、組織の成熟と自身の役割の変化に連動して変わっていくという点である。入り口の環境だけで職種全体の激務度を評価することには限界がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["シンクタンク研究員", "志望動機"]
 pubDate: 2026-07-05
 slug: "thinktank-motivation"
+hub: "thinktank"
 image: "/images/media/thinktank-motivation.png"
 related: ["thinktank-how-to-use-agent", "thinktank-resume", "thinktank-certification", "security-consultant-motivation", "legal-motivation"]
 ---
@@ -24,6 +25,11 @@ related: ["thinktank-how-to-use-agent", "thinktank-resume", "thinktank-certifica
 この職種特性を理解していない志望動機は、採用担当者に「本当にこの仕事をわかっているか」という疑問を抱かせます。まずここを押さえることが、差別化された動機を書く前提条件となります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の4要素
 
@@ -109,6 +115,11 @@ related: ["thinktank-how-to-use-agent", "thinktank-resume", "thinktank-certifica
 この構造は、起点→実績→職種理解→貢献という4ステップが、それぞれ有機的につながっています。自分の経験に合わせて内容を入れ替えながら活用できる型です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

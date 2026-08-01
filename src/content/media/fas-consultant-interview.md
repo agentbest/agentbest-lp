@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["会計・財務コンサルタント", "面接対策"]
 pubDate: 2026-07-04
 slug: "fas-consultant-interview"
+hub: "fas-consultant"
 image: "/images/media/fas-consultant-interview.png"
 related: ["fas-consultant-motivation", "fas-consultant-salary-1000", "fas-consultant-certification", "dx-consultant-interview", "cloud-engineer-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["fas-consultant-motivation", "fas-consultant-salary-1000", "fas-consul
 これら3軸を理解したうえで準備を進めると、個別の質問への対応が体系的に組み立てやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問のカテゴリと対策
 
@@ -106,6 +112,11 @@ STAR形式（Situation・Task・Action・Result）は多くの読者が知って
 コンサルティングの現場では専門知識と同等に、相手の課題をどのように引き出して信頼関係を構築するかが問われる。「どのようにして関係者の合意を形成したか」という質問への準備は、技術的な質問への準備と同程度の比重で行うことを勧めたい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fas-consultant-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

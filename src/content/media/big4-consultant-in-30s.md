@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["総合コンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "big4-consultant-in-30s"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-in-30s.png"
 related: ["big4-consultant-from-scratch", "big4-consultant-market-trend", "big4-consultant-career-guide", "sap-consultant-in-30s", "tech-lead-in-30s"]
 ---
@@ -24,6 +25,11 @@ BIG4（大手総合系コンサルティングファーム4社）をはじめと
 3. **成果の言語化力**：「何をしたか」ではなく「何を変えたか・何を生み出したか」を定量・定性で説明できるか
 
 この3軸はいずれも、書類選考の段階から問われる要素であり、面接での準備だけでカバーできるものではない。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-in-30s">キャリアを相談する</a>
+</aside>
 
 ## 求められるスキルセットと経験の目安
 
@@ -96,6 +102,11 @@ BIG4を含む大手総合系コンサルタントファームにおける30代�
 職務経歴書の初稿は業務フローの列挙にとどまっていた。そこで、「何を問題と定義し、どう意思決定し、何が変わったか」という因果構造に書き直した。ケース面接では、製造業の業務知識を踏まえた「現実感のある仮説」を提示することで、教科書的な回答との差別化を図った。
 
 この型から読み取れる本質は、「転職前の職種名」よりも「何を主体的に判断し、何を完成させたか」の記述精度が評価を左右するという点である。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["組み込みエンジニア", "面接対策"]
 pubDate: 2026-07-04
 slug: "embedded-engineer-interview"
+hub: "embedded-engineer"
 image: "/images/media/embedded-engineer-interview.png"
 related: ["embedded-engineer-english", "embedded-engineer-salary-600", "embedded-engineer-career-guide", "it-consultant-interview", "platform-engineer-interview"]
 ---
@@ -24,6 +25,11 @@ related: ["embedded-engineer-english", "embedded-engineer-salary-600", "embedded
 多くの応募者が技術知識の準備には時間をかける一方、実務経験の言語化を軽視しがちだ。しかし上位層のポジション、とりわけチームリードや設計上流を含む役割への選考では、後者の比重が高まる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問カテゴリーと深度ごとの対策
 
@@ -121,6 +127,11 @@ RTOSの使用経験がある候補者には、以下のような質問が頻出�
 「技術を磨きたい」だけでは弱い。「これまでセンサー系の組み込み開発で培ったリアルタイム処理の設計知識を、御社の産業用ロボット制御に応用し、さらにFunctional Safety（機能安全）の知見を身につけたい」のように、具体性と方向性を合わせて語ることが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=embedded-engineer-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

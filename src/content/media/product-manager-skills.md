@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["プロダクトマネージャー", "必要スキル"]
 pubDate: 2026-07-04
 slug: "product-manager-skills"
+hub: "product-manager"
 image: "/images/media/product-manager-skills.png"
 related: ["product-manager-salary-600", "product-manager-certification", "product-manager-from-scratch", "pmo-skills", "tech-lead-skills"]
 ---
@@ -47,6 +48,11 @@ PdMに必要な能力は大きく「ハードスキル」「ソフトスキル�
 - **技術理解**：APIの概念、データベース設計の基礎、システム制約の把握（実装経験は必須ではないが、エンジニアと対等に議論できる水準）
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## フェーズ別の優先スキルマップ
 
@@ -115,6 +121,11 @@ PdMは常に「なぜこの機能をこの順番で作るのか」を問われ�
 どの職種から転向する場合も、「プロダクトの成果に対してオーナーシップを持った経験」が乏しい段階では、評価レンジの上限が抑えられる傾向がある。副業・社内異動・0→1プロジェクトへの参画などを通じて実績の起点を作ることが、転職時の評価を高める現実的な手順となりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

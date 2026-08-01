@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["PMO", "年収相場"]
 pubDate: 2026-07-04
 slug: "pmo-salary"
+hub: "pmo"
 image: "/images/media/pmo-salary.png"
 related: ["pmo-failure", "pmo-how-to-use-agent", "pmo-market-trend", "solution-architect-salary", "platform-engineer-salary"]
 ---
@@ -32,6 +33,11 @@ PMOの年収は、担当する役割の抽象度・責任範囲・所属組織�
 この表はあくまで傾向を示すものであり、特にコンサルティングファームや外資系SaaS企業では上振れしやすく、事業会社の内製PMOでは下振れ傾向が見られることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収レンジを決める主な要因
 
@@ -104,6 +110,11 @@ PMOは転職で年収を更新しやすい職種の一つでもある。特に�
 PMO関連で市場での評価につながりやすい資格としては、PMP（Project Management Professional）、P2M（プログラム＆プロジェクトマネジメント）などが挙げられる。ただし、資格はあくまで「スキルの証明を補完するもの」であり、実務経験の裏付けがなければ転職市場での訴求力には限界がある。資格取得は実務と並走させる形で進めることが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-salary">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

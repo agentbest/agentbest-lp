@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["CTO・VPoE候補", "市場動向"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-market-trend"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-market-trend.png"
 related: ["cto-vpoe-career-guide", "cto-vpoe-how-to-use-agent", "cto-vpoe-company-size", "corporate-it-market-trend", "hr-consultant-market-trend"]
 ---
@@ -30,6 +31,11 @@ related: ["cto-vpoe-career-guide", "cto-vpoe-how-to-use-agent", "cto-vpoe-compan
 最後の点は2025年以降に急浮上した要件であり、この一点だけで候補者の評価が大きく分かれるケースが増えている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-market-trend">キャリアを相談する</a>
+</aside>
 
 ## ポジション別の需給構造
 
@@ -107,6 +113,11 @@ CTOが技術戦略・アーキテクチャ・対外コミュニケーション�
 **示唆**：VPoEポジションは、要件定義の段階で「何をする人か」が不明確なまま採用が走りやすい。候補者側は、ポジションの目的・成功定義・CTOとの役割分担を面接の早い段階で確認することが有効である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

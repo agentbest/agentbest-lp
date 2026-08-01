@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["開発ディレクター", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "dev-director-company-size"
+hub: "dev-director"
 image: "/images/media/dev-director-company-size.png"
 related: ["dev-director-salary", "dev-director-failure", "dev-director-future", "business-consultant-company-size", "it-consultant-company-size"]
 ---
@@ -34,6 +35,11 @@ related: ["dev-director-salary", "dev-director-failure", "dev-director-future", 
 意思決定のサイクルは短く、CEOやCTOへの直接アクセスが得やすい分、結果への帰責も直接的になる。半期単位での仕様の大幅変更、組織の再編、事業ピボットへの対応が求められることもある。この環境では、不確実性への対処能力・0→1フェーズのプロダクト設計・資源制約下での優先判断といった、垂直方向の深化スキルが形成されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 4軸での比較：役割・意思決定・年収・スキル
 
@@ -92,6 +98,11 @@ Bさんが選択したのは、IT系大手企業のプロダクト開発部門�
 4. **3〜5年後に目指すポジションや状態はどちらで実現しやすいか**：CTO・技術共同創業を視野に入れるならスタートアップ、技術組織の上位管理職や専門性の高い大型プロジェクト統括を目指すなら大手での経験が直結しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

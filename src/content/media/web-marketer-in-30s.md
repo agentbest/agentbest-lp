@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["Webマーケター", "30代転職"]
 pubDate: 2026-07-04
 slug: "web-marketer-in-30s"
+hub: "web-marketer"
 image: "/images/media/web-marketer-in-30s.png"
 related: ["web-marketer-motivation", "web-marketer-how-to-use-agent", "web-marketer-from-scratch", "post-consultant-in-30s", "tech-lead-in-30s"]
 ---
@@ -43,6 +44,11 @@ BtoBのSaaS企業やDX推進を掲げる事業会社を中心に、マーケテ�
 この構造的な違いを把握していないまま「Webマーケターに興味があって〜」という動機ベースのアプローチをとると、書類段階でのスクリーニングを通過しにくくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力として評価されるスキルセット
 
@@ -133,6 +139,11 @@ Webマーケターの求人は職種としての幅が広く、コンテンツSE
 ただし、これらはあくまで市場の傾向値であり、企業の資金調達状況・評価制度・事業フェーズによって大きく変動する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

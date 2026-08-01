@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["ITアーキテクト", "面接対策"]
 pubDate: 2026-07-04
 slug: "it-architect-interview"
+hub: "it-architect"
 image: "/images/media/it-architect-interview.png"
 related: ["it-architect-future", "it-architect-failure", "it-architect-work-style", "thinktank-interview", "db-engineer-interview"]
 ---
@@ -28,6 +29,11 @@ ITアーキテクトの転職面接は、一般的なエンジニア職の選考
 この三軸は互いに連動しており、どれか一つだけが突出していても評価が伸びにくい傾向があります。面接準備においてもこの三軸を念頭に置くことが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-interview">キャリアを相談する</a>
+</aside>
 
 ## 頻出質問カテゴリと回答の方向性
 
@@ -120,6 +126,11 @@ ITアーキテクトといっても、ポジションのレベルや組織規模
 企業のテックブログ・登壇資料・OSS公開内容等からアーキテクチャの傾向を事前に把握しておくと、「現在のシステムに対してどんな課題感を持ちますか」という問いに対して具体的な対話ができます。こうした準備は入社意欲と技術的関心の両方を示すものとして機能します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

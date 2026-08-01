@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["QAエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "qa-engineer-career-path"
+hub: "qa-engineer"
 image: "/images/media/qa-engineer-career-path.png"
 related: ["qa-engineer-market-trend", "qa-engineer-company-size", "qa-engineer-from-scratch", "db-engineer-career-path", "sre-career-path"]
 ---
@@ -29,6 +30,11 @@ QAエンジニアのキャリアは、大きく以下の四方向に分かれる
 上記はあくまで国内市場における大まかな目安であり、業種・企業規模・個人の経験によって大きく幅がある。重要なのは数値の絶対値より、各方向の「移行ロジック」を理解することにある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 「QA専門性の深化」という選択肢
 
@@ -110,6 +116,11 @@ QAエンジニアのキャリアの中でも、最も難易度が高く、かつ
 **この事例のポイント**は、「自動化の実績」と「上流への関与」という二つの要素が、転職市場での評価を後押しした点にある。QAリードへの昇格が評価の転換点になり、外部からもオファーが増えたと推測される。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=qa-engineer-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["リスク・ガバナンスコンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "risk-consultant-salary-1000"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-salary-1000.png"
 related: ["risk-consultant-work-style", "risk-consultant-interview", "risk-consultant-skills", "erp-consultant-salary-1000", "digital-marketer-salary-1000"]
 ---
@@ -35,6 +36,11 @@ related: ["risk-consultant-work-style", "risk-consultant-interview", "risk-consu
 リスク・ガバナンス領域の報酬は、固定給・業績連動賞与・インセンティブの組み合わせで構成されることが多い。大手ファームでは、マネージャー以上になると業績連動部分の比重が高まり、担当案件の稼働率やクライアント獲得への貢献が報酬に直結しやすくなる。
 
 一方、専門ファームや独立コンサルタントでは、固定収入が抑えられる代わりに、成約単価や契約形態の自由度が高くなる。特に、規制対応・危機対応・第三者評価のような高付加価値領域では、案件単価が市場全体の平均を上回る傾向がある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの特徴
 
@@ -88,6 +94,11 @@ related: ["risk-consultant-work-style", "risk-consultant-interview", "risk-consu
 新卒・中途でファームに入り、社内でのキャリアラダーを着実に歩む。スタッフから3〜5年でシニアコンサルタント、その後2〜3年でマネージャーに昇格し、1,000万円台に入る。この経路では、特定のサービスラインでの実績の蓄積と、若手の指導・案件管理の経験が昇格条件として評価されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["PMOコンサルタント", "志望動機"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-motivation"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-motivation.png"
 related: ["pmo-consultant-failure", "pmo-consultant-market-trend", "pmo-consultant-certification", "it-architect-motivation", "security-consultant-motivation"]
 ---
@@ -36,6 +37,11 @@ PMOコンサルタントは、プロジェクト管理の標準化・進捗管�
 コンサルティングファームによってPMOのスコープは異なる。戦略系に近い上流のガバナンス設計を担うケースもあれば、大規模SIerのPMO支援として実務的な進捗管理が中心のケースもある。志望先のPMOコンサルタントがどの領域を強みとするかを把握したうえで、志望動機の方向性を合わせられているかが評価ポイントになる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -91,6 +97,11 @@ PMOコンサルタントの仕事は、プロジェクトを「管理する」�
 「現職より専門性に見合う報酬を得られる環境を求めた」という本音は理解できるが、志望動機として前面に出すことは評価に影響する。待遇への不満や期待は、転職理由の文脈で別途確認される場合に答えるにとどめるべきである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

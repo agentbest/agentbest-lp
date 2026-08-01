@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["データ・アナリティクスコンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "data-consultant-certification"
+hub: "data-consultant"
 image: "/images/media/data-consultant-certification.png"
 related: ["data-consultant-salary-600", "data-consultant-how-to-use-agent", "data-consultant-in-20s", "business-consultant-certification", "partner-sales-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["data-consultant-salary-600", "data-consultant-how-to-use-agent", "dat
 **顧客への信頼担保**：特に大企業や金融・公共領域のクライアントは、担当コンサルタントの資格保有状況を確認する場合があります。ベンダー資格（AWSやGCPの認定資格など）は、提案書や名刺に記載できる「可視化された信頼」として機能しやすい傾向があります。
 
 **所属組織のパートナー認定要件**：クラウドベンダーのパートナー企業は、認定資格保有者の人数が審査基準に組み込まれているケースがあります。この場合、個人のスキル証明というよりも組織ニーズとして資格取得が求められます。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## 評価される資格の全体像
 
@@ -89,6 +95,11 @@ IT系事業会社でBIレポートの作成・SQL開発を3年担当してきた
 | マネージャー〜プリンシパル | 900〜1,300万円前後 | 資格よりも実績・マネジメント経験が主軸 |
 
 上記はあくまでも市場における傾向としての目安であり、企業規模・業種・個人の実績によって大きく変動します。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

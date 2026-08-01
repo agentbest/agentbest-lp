@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["開発ディレクター", "将来性"]
 pubDate: 2026-07-04
 slug: "dev-director-future"
+hub: "dev-director"
 image: "/images/media/dev-director-future.png"
 related: ["dev-director-company-size", "dev-director-skills", "dev-director-from-scratch", "tech-lead-future", "security-consultant-future"]
 ---
@@ -18,6 +19,11 @@ related: ["dev-director-company-size", "dev-director-skills", "dev-director-from
 本稿では、開発ディレクターの将来性を構造的に整理したうえで、AI時代に生き残るために必要な条件を実務レベルで掘り下げる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-future">無料で相談する</a>
+</aside>
 
 ## 開発ディレクターの現在地：職種としての立ち位置
 
@@ -123,6 +129,11 @@ AIツールを使いこなす能力も重要だが、それ以上に評価が高
 採用・育成・組織文化・評価制度まで関与できる開発ディレクターは、単なるプロジェクトマネージャーとは明確に区別される。特にスタートアップ・スケールアップ企業においては、開発組織そのものを作れる人材への需要が継続している。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

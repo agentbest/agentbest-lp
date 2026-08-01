@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["経営企画", "面接対策"]
 pubDate: 2026-07-04
 slug: "corporate-planning-interview"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-interview.png"
 related: ["corporate-planning-career-path", "corporate-planning-salary-600", "corporate-planning-company-size", "qa-engineer-interview", "cto-vpoe-interview"]
 ---
@@ -24,6 +25,11 @@ related: ["corporate-planning-career-path", "corporate-planning-salary-600", "co
 また、経営企画はポジションによってスコープが大きく異なります。中期経営計画の策定を担うのか、M&Aのデューデリジェンスを支援するのか、予算管理・KPI管理が主体なのか――同じ「経営企画」でも業務内容は企業ごとに相違するため、応募先が何を期待しているかを事前に精密に読み解く作業が不可欠です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -125,6 +131,11 @@ related: ["corporate-planning-career-path", "corporate-planning-salary-600", "co
 応募先のフェーズを踏まえて、自身の経験のどの側面を強調するかを調整することが、説得力のある回答につながります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["総合コンサルタント", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "big4-consultant-career-path"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-career-path.png"
 related: ["big4-consultant-motivation", "big4-consultant-in-20s", "big4-consultant-salary-1000", "db-engineer-career-path", "game-engineer-career-path"]
 ---
@@ -28,6 +29,11 @@ related: ["big4-consultant-motivation", "big4-consultant-in-20s", "big4-consulta
 年次はあくまで目安であり、昇進スピードはパフォーマンス評価と専門領域の市場需要に左右される。30代前半がシニアコンサルタントからマネージャーの移行期にあたることが多く、この時期の選択が以後10年のキャリアの方向性を実質的に規定しやすい。
 
 マネージャーへの昇進は単なる役職変更ではなく、「プロジェクトを実行する人」から「プロジェクトを設計・管理し、チームに責任を持つ人」への転換を意味する。この変化に適応できるかどうかが、継続か転身かを判断する一つの軸になる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-career-path">無料で相談する</a>
+</aside>
 
 ## コンサル内継続：パートナーを目指す道の実態
 
@@ -75,6 +81,11 @@ related: ["big4-consultant-motivation", "big4-consultant-in-20s", "big4-consulta
 
 **3. 報酬構造と安定性の優先度**
 コンサル（特にパートナー）・フリーランスは変動幅が大きく、事業会社の管理職は固定給比率が高い傾向がある。どちらを優先するかは、ライフステージや価値観によって異なる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

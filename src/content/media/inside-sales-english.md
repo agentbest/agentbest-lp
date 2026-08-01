@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["インサイドセールス", "英語力"]
 pubDate: 2026-07-03
 slug: "inside-sales-english"
+hub: "inside-sales"
 image: "/images/media/inside-sales-english.png"
 related: ["inside-sales-certification", "inside-sales-career-guide", "inside-sales-salary", "recruiter-english", "web-marketer-english"]
 ---
@@ -31,6 +32,11 @@ related: ["inside-sales-certification", "inside-sales-career-guide", "inside-sal
 - **プロダクトの仕様書・リリースノートが英語で提供される場合**：技術系SaaSでは英語のドキュメントを読んで顧客説明に変換する能力が求められることがある
 
 これらは「例外的なシーン」ではなく、外資系SaaS企業では日常的に発生しやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力が年収・求人に与える影響
 
@@ -81,6 +87,11 @@ TOEIC換算であれば700〜800点台が「実務で支障を感じない」目
 - **RevOps・マーケティングとの連携職**
 
 外資系企業においては、いずれの方向に進む場合も英語でのコミュニケーション能力が一定以上求められる。特にグローバルな組織構造をもつ企業では、マネージャー以上のポジションで本社との連携頻度が高まり、英語の重要度も自然と上がりやすい。英語力を早期に一定水準まで引き上げておくことは、将来のキャリア移行コストを下げるという意味でも合理的だ。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

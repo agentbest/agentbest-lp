@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["総合コンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "big4-consultant-salary"
+hub: "big4-consultant"
 image: "/images/media/big4-consultant-salary.png"
 related: ["big4-consultant-motivation", "big4-consultant-in-30s", "big4-consultant-career-path", "customer-success-salary", "security-engineer-salary"]
 ---
@@ -43,6 +44,11 @@ related: ["big4-consultant-motivation", "big4-consultant-in-30s", "big4-consulta
 ### 軸③：専門領域の需給
 
 領域ごとの需給バランスが報酬に影響する。現時点での傾向として、データ・AI活用、サイバーセキュリティ、ERP実装（特定プロダクト保有者）、M&Aデューデリジェンスといった領域は、有資格者・経験者の需要に対して供給が追いつきにくく、同じランクでも高めのオファーが出やすい。逆に、汎用的なプロセス改善・組織変革系のロールは相対的に流動性が高く、差別化しにくい状況にある。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-salary">無料で相談する</a>
+</aside>
 
 ## 20代・30代の年収レンジと実態
 
@@ -94,6 +100,11 @@ related: ["big4-consultant-motivation", "big4-consultant-in-30s", "big4-consulta
 | スタートアップ（SCMプロダクト企業） | 事業開発責任者ポジション | 800万〜1,000万円＋ストックオプション |
 
 このケースでは、ERP実装経験という希少性と領域専門性が組み合わさることで、競合ファームでのスキップ昇格余地が生じている点が重要だ。ただし、事業会社・スタートアップの選択肢は短期年収よりも中長期の資産形成やキャリアの方向性を加味した判断になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=big4-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

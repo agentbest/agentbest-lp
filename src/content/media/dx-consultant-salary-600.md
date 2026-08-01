@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["DXコンサルタント", "年収600万"]
 pubDate: 2026-07-04
 slug: "dx-consultant-salary-600"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-salary-600.png"
 related: ["dx-consultant-interview", "dx-consultant-from-scratch", "dx-consultant-how-to-use-agent", "mobile-engineer-salary-600", "thinktank-salary-600"]
 ---
@@ -31,6 +32,11 @@ DXコンサルタントとして年収600万円を超えることは、多くの
 600万円という水準は、総合コンサルファームでは「シニアコンサルタント〜マネジャー手前」、事業会社内DX部門では「中堅〜上位中堅」のレンジに相当します。単純なキャリア年数の積み上げだけでは到達しにくく、何らかの意図的な変化が必要になる水準でもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## 600万円の壁が生じる構造的な理由
 
@@ -92,6 +98,11 @@ DXコンサルタントとしてのキャリア設計において、最も優先
 **結果の傾向**：同種のケースでは、上記の行動から1〜2年程度で600〜650万円レンジへの評価改定に至るケースが見られます。ただし組織の評価サイクルや枠の有無によって時間軸は異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

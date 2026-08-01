@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["フリーコンサルタント", "年収600万"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-salary-600"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-salary-600.png"
 related: ["freelance-consultant-salary-1000", "freelance-consultant-failure", "freelance-consultant-in-30s", "customer-success-salary-600", "frontend-engineer-salary-600"]
 ---
@@ -36,6 +37,11 @@ related: ["freelance-consultant-salary-1000", "freelance-consultant-failure", "f
 ここから見えるのは、**年収600万円（額面）を達成するには月単価50万円でフル稼働するか、月単価60万円台で稼働率を高く維持することが現実的な水準**だという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-salary-600">無料で相談する</a>
+</aside>
 
 ## 年収600万円の「壁」になりやすい要素
 
@@ -104,6 +110,11 @@ related: ["freelance-consultant-salary-1000", "freelance-consultant-failure", "f
 **結果の型**：稼働案件1件（月60〜68万円）＋顧問1〜2社（月10〜15万円）という構成で、稼働月数にかかわらず年収700万円台が視野に入る構造に移行しやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["エンタープライズセールス", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-company-size"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-company-size.png"
 related: ["enterprise-sales-failure", "enterprise-sales-certification", "enterprise-sales-work-style", "backend-engineer-company-size", "it-consultant-company-size"]
 ---
@@ -23,6 +24,11 @@ related: ["enterprise-sales-failure", "enterprise-sales-certification", "enterpr
 - **提案の深度が問われる**：製品スペックの説明に留まらず、顧客の業務課題・組織構造・予算サイクルへの理解が必要とされる
 
 この前提をふまえると、「大手かスタートアップか」の比較は、同じ土俵に乗っているようで実は異なる能力を育む環境の比較であることがわかる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-company-size">キャリアを相談する</a>
+</aside>
 
 ## 大手企業とスタートアップの構造的な違い
 
@@ -83,6 +89,11 @@ related: ["enterprise-sales-failure", "enterprise-sales-certification", "enterpr
 - **セールスの基礎・業界理解・大企業との関係構築を深めたい段階**では、大手企業の方が体系的な学習環境を提供しやすい傾向がある
 - **大型商談の経験がある程度あり、次のステップとして組織横断的な関与・裁量・報酬の上振れを求める段階**では、成長フェーズのスタートアップが合致しやすい
 - **将来的にVP of Sales・Chief Revenue Officerなどのリーダーシップポジションを目指す場合**は、大手で部門間連携や組織設計を学んだ後にスタートアップで責任者として立つ、というルートが一つの有力な選択肢になりうる
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

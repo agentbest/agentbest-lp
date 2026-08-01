@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["ITアーキテクト", "志望動機"]
 pubDate: 2026-07-04
 slug: "it-architect-motivation"
+hub: "it-architect"
 image: "/images/media/it-architect-motivation.png"
 related: ["it-architect-market-trend", "it-architect-future", "it-architect-salary", "legal-motivation", "strategy-consultant-motivation"]
 ---
@@ -28,6 +29,11 @@ ITアーキテクトは、システムの全体設計・技術選定・非機能
 採用側の視点で言えば、「意欲はあるが、何をしたいのかが見えない候補者」より「課題認識と仮説が明確な候補者」が評価されやすい傾向にあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -110,6 +116,11 @@ ITアーキテクトへの応募は、キャリアの出発点によって強調
 | 面接での口頭説明 | 1〜2分（300〜400字相当） | 結論→根拠→貢献仮説の順に構造化する |
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

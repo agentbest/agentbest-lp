@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["DevOpsエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "devops-engineer-salary-600"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-salary-600.png"
 related: ["devops-engineer-career-path", "devops-engineer-company-size", "devops-engineer-in-20s", "network-engineer-salary-600", "erp-consultant-salary-600"]
 ---
@@ -31,6 +32,11 @@ DevOpsエンジニアの年収600万円という水準は、多くの求職者�
 この表から読み取れることは、**600万円という水準は「3〜5年の経験を積んだ層がスコープを広げはじめる移行期」に相当しやすい**という点です。ただし、3年の経験があれば自動的に到達するわけではなく、何ができるかという定性的な要素が強く影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 年収600万円の壁になりやすい要素
 
@@ -94,6 +100,11 @@ Platform Engineeringの概念では、開発チームを「内部顧客」とし
 **結果の型**：SaaS系の事業会社（シリーズC・従業員200名程度）のPlatform Engineerポジションへ転職。年収は700万円前後に。給与レンジの変化は、職種名の変化よりも「設計・提案の実績があること」が採用側の評価理由として挙げられやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

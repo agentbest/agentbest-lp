@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["データエンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "data-engineer-failure"
+hub: "data-engineer"
 image: "/images/media/data-engineer-failure.png"
 related: ["data-engineer-work-style", "data-engineer-salary-1000", "data-engineer-interview", "corporate-it-failure", "cto-vpoe-failure"]
 ---
@@ -24,6 +25,11 @@ related: ["data-engineer-work-style", "data-engineer-salary-1000", "data-enginee
 このような構造的な特性を踏まえた上で、転職活動の各フェーズごとに失敗パターンを見ていく。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## フェーズ別：よくある失敗パターン
 
@@ -115,6 +121,11 @@ related: ["data-engineer-work-style", "data-engineer-salary-1000", "data-enginee
 - [ ] 入社後に触れる技術・スコープを明確にしたか
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

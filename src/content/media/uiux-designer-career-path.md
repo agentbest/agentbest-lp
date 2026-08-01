@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["UI/UXデザイナー", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "uiux-designer-career-path"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-career-path.png"
 related: ["uiux-designer-market-trend", "uiux-designer-work-style", "uiux-designer-company-size", "data-analyst-career-path", "corporate-it-career-path"]
 ---
@@ -34,6 +35,11 @@ UI/UXデザイナーのキャリアは、大きく「スペシャリスト型」
 CPO（最高プロダクト責任者）補佐、プロダクトマネージャー（PM）、あるいは経営企画・新規事業開発への転換は、30代以降に現実的な選択肢として浮上しやすい。UXリサーチや情報設計の素養は、事業仮説の検証や顧客課題の言語化に直結するため、デザイナー出身者が価値を発揮できる領域は広い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-career-path">無料で相談する</a>
+</aside>
 
 ## 職位・役割別の年収レンジ（目安）
 
@@ -100,6 +106,11 @@ Aさんが最終的にスタートアップを選んだ主な理由は「プロ�
 転職を検討していなくても、年に1〜2回程度は外部の市場評価を確認することは有益だ。自社のなかにいるだけでは見えない「相場とのズレ」「職能の需要変化」を把握できることに加え、具体的なオファーに触れることで自分が何を優先しているかが明確になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

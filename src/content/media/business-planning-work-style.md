@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["事業企画", "働き方"]
 pubDate: 2026-07-04
 slug: "business-planning-work-style"
+hub: "business-planning"
 image: "/images/media/business-planning-work-style.png"
 related: ["business-planning-salary-600", "business-planning-certification", "business-planning-how-to-use-agent", "mlops-engineer-work-style", "dev-director-work-style"]
 ---
@@ -28,6 +29,11 @@ KPI管理・予算管理・新規施策の企画・他部門との調整・経�
 
 **④意思決定サイクルの速さ**
 四半期・月次・週次でレビューが行われる企業ほど、資料更新や数値の精査が恒常的なタスクとして積み重なる傾向がある。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-work-style">キャリアを相談する</a>
+</aside>
 
 ## 残業の発生パターンと実態
 
@@ -90,6 +96,11 @@ KPI管理・予算管理・新規施策の企画・他部門との調整・経�
 - **チーム人数と一人当たりの担当範囲**：少数精鋭型は負荷が高まりやすく、一方でレバレッジが大きい経験も積みやすい
 - **経営との距離**：CFO・CEOとの距離が近い組織では、突発依頼の頻度が上がりやすい
 - **ツール・プロセスの整備状況**：データ基盤や資料テンプレートが整備されているかどうかで、実作業の負担感が大きく異なる
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

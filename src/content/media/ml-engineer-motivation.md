@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["機械学習エンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "ml-engineer-motivation"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-motivation.png"
 related: ["ml-engineer-certification", "ml-engineer-how-to-use-agent", "ml-engineer-from-scratch", "backend-engineer-motivation", "solution-architect-motivation"]
 ---
@@ -34,6 +35,11 @@ related: ["ml-engineer-certification", "ml-engineer-how-to-use-agent", "ml-engin
 「学びたい」「成長したい」という受け手側の姿勢だけでは評価が上がりにくい傾向があります。現在の自分のスキルセットが、入社後にどのような課題解決につながるのかを候補者自身が描けているかどうかが問われます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 志望動機を構成する3つのパーツ
 
@@ -120,6 +126,11 @@ related: ["ml-engineer-certification", "ml-engineer-how-to-use-agent", "ml-engin
 この2つの情報を重ね合わせることで、「固有の接点」が見えてきます。その接点が志望動機の核になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

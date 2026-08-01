@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["プロジェクトマネージャー", "年収1000万"]
 pubDate: 2026-07-04
 slug: "project-manager-salary-1000"
+hub: "project-manager"
 image: "/images/media/project-manager-salary-1000.png"
 related: ["project-manager-work-style", "project-manager-future", "project-manager-in-30s", "mobile-engineer-salary-1000", "product-manager-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["project-manager-work-style", "project-manager-future", "project-manag
 この表からわかるように、年収1,000万円は「経験8年以上のベテランにだけ許された世界」ではありません。コンサルティングファームや外資系IT企業では、実績と専門性次第で5〜8年目での到達も視野に入ります。一方、伝統的なSIerのラインマネジメント構造の中では、同等の経験年数でも到達しにくい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-salary-1000">無料で相談する</a>
+</aside>
 
 ## 到達者に共通する3つのキャリア上の選択
 
@@ -96,6 +102,11 @@ PMP（Project Management Professional）やPMI-ACP、PRINCE2などの資格は�
 PMとPMO（Project Management Office）は、企業によって定義が混用されていますが、責任軸が異なります。PMOは複数プロジェクトの横串管理・ガバナンス構築に強みを持ち、大企業での評価が高い傾向があります。一方、PMはプロジェクト単体の成否に責任を持ち、外資・スタートアップ・コンサルでの評価軸に合いやすいです。どちらの方向に深めるかを早期に意識することで、キャリア設計の解像度が上がります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

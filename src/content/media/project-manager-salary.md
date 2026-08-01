@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["プロジェクトマネージャー", "年収相場"]
 pubDate: 2026-07-04
 slug: "project-manager-salary"
+hub: "project-manager"
 image: "/images/media/project-manager-salary.png"
 related: ["project-manager-career-guide", "project-manager-certification", "project-manager-failure", "recruiter-salary", "dx-consultant-salary"]
 ---
@@ -38,6 +39,11 @@ PMに求めるスキルは採用企業によって異なります。金融・ヘ
 PMP（Project Management Professional）やPMI-ACP等の資格は、採用・昇給の際のスクリーニング条件になる企業もあります。ただし、資格単体が年収を引き上げるというより、「大規模案件経験＋資格」の組み合わせが評価されやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-salary">無料で相談する</a>
+</aside>
 
 ## 年代・領域別の年収レンジ目安
 
@@ -118,6 +124,11 @@ PMとして年収を上げようとする際、多くの人が「もっと大き
 同一企業での昇給ペースは、多くの場合、転職によって得られる年収ジャンプより緩やかです。ただし、転職には適応コスト・機会損失・関係性のリセットも伴います。「今の会社で上がる見込みがあるか」「市場での評価と乖離があるか」を分けて判断することが重要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=project-manager-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

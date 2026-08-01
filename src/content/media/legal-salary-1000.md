@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["法務", "年収1000万"]
 pubDate: 2026-07-04
 slug: "legal-salary-1000"
+hub: "legal"
 image: "/images/media/legal-salary-1000.png"
 related: ["legal-certification", "legal-in-30s", "legal-company-size", "presales-salary-1000", "business-planning-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["legal-certification", "legal-in-30s", "legal-company-size", "presales
 注目すべきは、法務職における1,000万円超は「マネジメント職に就いている」か「高度専門領域のスペシャリスト」かのどちらかに収斂しやすいという点である。この二軸を理解することが、年収戦略を立てる上での出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円に到達しやすいキャリアルート
 
@@ -92,6 +98,11 @@ related: ["legal-certification", "legal-in-30s", "legal-company-size", "presales
 **示唆**：このパターンに共通するのは、「成長企業における経営直結の法務経験」と「希少な専門領域（データプライバシー）の実績」の組み合わせである。大手でのスタートよりも、関与できる案件の幅と深度が年収を引き上げる要因になっていることが見てとれる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

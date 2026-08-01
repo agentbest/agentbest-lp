@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["リスク・ガバナンスコンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "risk-consultant-work-style"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-work-style.png"
 related: ["risk-consultant-salary-600", "risk-consultant-salary", "risk-consultant-market-trend", "dx-consultant-work-style", "engineering-manager-work-style"]
 ---
@@ -25,6 +26,11 @@ related: ["risk-consultant-salary-600", "risk-consultant-salary", "risk-consulta
 - **ガバナンス改革支援**（取締役会実効性評価、三線モデルの再設計など）
 
 これらは「成果物がクライアントの経営・規制対応に直結する」という共通点を持つ。期日は外部規制や監査スケジュールによって強制的に決まることが多く、柔軟性よりも確実性が求められる性質のプロジェクトである。この点が、働き方のリズムに大きく影響する。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度の構造的な理解：「波がある忙しさ」が基本形
 
@@ -100,6 +106,11 @@ related: ["risk-consultant-salary-600", "risk-consultant-salary", "risk-consulta
 | 独立系コンサルティングファーム | 案件の幅が広く、少人数で高度な役割を担う機会が早期に生じやすい。プロジェクト管理の個人依存度が高め |
 | 総合系コンサルティングファーム（Big4系など） | 他サービスラインとの連携機会が多い。組織的なサポート体制は厚い傾向。案件の対象業界が幅広い |
 | 事業会社の内部コンサル・リスク管理部門 | 残業は相対的に抑えられやすい。外部の案件多様性は少ないが、経営への距離感が近い |
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

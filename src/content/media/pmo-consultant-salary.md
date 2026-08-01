@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["PMOコンサルタント", "年収相場"]
 pubDate: 2026-07-05
 slug: "pmo-consultant-salary"
+hub: "pmo-consultant"
 image: "/images/media/pmo-consultant-salary.png"
 related: ["pmo-consultant-in-30s", "pmo-consultant-career-guide", "pmo-consultant-resume", "legal-salary", "dx-consultant-salary"]
 ---
@@ -34,6 +35,11 @@ PMOコンサルタントとしての市場価値は、大きく「所属組織�
 ※上記はあくまでも市場全体の傾向に基づく目安であり、個人の経歴・スキル・交渉力によって実際の数値は変動する。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-salary">無料で相談する</a>
+</aside>
 
 ## 年収を構成する主要因
 
@@ -91,6 +97,11 @@ SAPやSalesforceなど特定のプラットフォームに深い知見を持つP
 **結果の傾向**：このアプローチにより、転職後の想定年収が750〜850万円台のレンジに入るケースが見られる。ファームへの移行後、難易度の高い案件に早期から参画することで、35〜38歳での1,000万円台到達が視野に入りやすくなる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

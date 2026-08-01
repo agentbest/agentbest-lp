@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["Webマーケター", "年収相場"]
 pubDate: 2026-07-04
 slug: "web-marketer-salary"
+hub: "web-marketer"
 image: "/images/media/web-marketer-salary.png"
 related: ["web-marketer-salary-600", "web-marketer-salary-1000", "web-marketer-skills", "risk-consultant-salary", "tech-lead-salary"]
 ---
@@ -29,6 +30,11 @@ Webマーケターの年収が複雑に見えるのは、「マーケター」�
 この四つの掛け合わせで年収レンジは大きく変わるため、以降はこの構造に沿って整理する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-salary">キャリアを相談する</a>
+</aside>
 
 ## 年代別・タイプ別の年収レンジ
 
@@ -103,6 +109,11 @@ GAやBIツールを使いこなし、施策の評価と意思決定を自分で�
 このケースが示す教訓は、「実績の言語化」と「領域の接続」が転職市場での評価に直結するという点だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

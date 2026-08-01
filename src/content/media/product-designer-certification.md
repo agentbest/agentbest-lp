@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["プロダクトデザイナー", "資格"]
 pubDate: 2026-07-04
 slug: "product-designer-certification"
+hub: "product-designer"
 image: "/images/media/product-designer-certification.png"
 related: ["product-designer-in-30s", "product-designer-failure", "product-designer-how-to-use-agent", "dx-consultant-certification", "data-analyst-certification"]
 ---
@@ -30,6 +31,11 @@ related: ["product-designer-in-30s", "product-designer-failure", "product-design
 これらの機能を念頭に置くと、「どの資格が評価されるか」という問いは「どの文脈で評価されるか」という問いと不可分になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-certification">無料で相談する</a>
+</aside>
 
 ## 資格の分類と実務評価の傾向
 
@@ -112,6 +118,11 @@ related: ["product-designer-in-30s", "product-designer-failure", "product-design
 資格は5番目の要素として参照される場合があるが、1〜4が弱い状態での資格取得は優先順位として効率が高いとは言いにくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["シンクタンク研究員", "働き方"]
 pubDate: 2026-07-05
 slug: "thinktank-work-style"
+hub: "thinktank"
 image: "/images/media/thinktank-work-style.png"
 related: ["thinktank-in-30s", "thinktank-salary-600", "thinktank-interview", "mlops-engineer-work-style", "data-consultant-work-style"]
 ---
@@ -31,6 +32,11 @@ related: ["thinktank-in-30s", "thinktank-salary-600", "thinktank-interview", "ml
 この分類を念頭に置かずに「シンクタンクは激務か否か」を論じると、実態からずれた議論になりやすい。同じ「シンクタンク研究員」という肩書きでも、官公庁系の受託調査中心の部署と、独立系の長期研究部門では、日々の業務密度が相当異なる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度と残業のリアル
 
@@ -98,6 +104,11 @@ related: ["thinktank-in-30s", "thinktank-salary-600", "thinktank-interview", "ml
 この例では残業は1〜2時間程度に収まることが多いが、報告書の提出前2週間は、毎日2〜3時間の残業が続く状況になりやすい。フレックスを活用して翌日の勤務開始を遅らせるなど、体力的な調整を自分で行う必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

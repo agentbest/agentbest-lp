@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["セールスエンジニア／プリセールス", "キャリアパス"]
 pubDate: 2026-07-03
 slug: "presales-career-path"
+hub: "presales"
 image: "/images/media/presales-career-path.png"
 related: ["presales-work-style", "presales-interview", "presales-company-size", "partner-sales-career-path", "bridge-se-career-path"]
 ---
@@ -45,6 +46,11 @@ related: ["presales-work-style", "presales-interview", "presales-company-size", 
 外資系ソフトウェア企業ではOTE（On-Target Earnings）制度を採用するケースが多く、変動報酬が年収全体の20〜40%を占める構造になりやすい。そのため、上記レンジはベース給与を基準にした目安であり、商談への貢献度やチームパフォーマンスによって実収入は変動する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代における典型的な分岐点
 
@@ -105,6 +111,11 @@ related: ["presales-work-style", "presales-interview", "presales-company-size", 
 この類型から読み取れるのは、「移行先職種の擬似体験を副業や社外活動で先行して積む」アプローチが、転職時のリスク軽減と交渉力強化の両面で有効に働きやすいということである。転職市場における「プリセールス経験のあるPM」という希少な組み合わせが、競争優位として機能した。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

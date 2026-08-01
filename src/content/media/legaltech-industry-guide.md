@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["リーガルテック", "業界研究"]
 pubDate: 2026-07-05
 slug: "legaltech-industry-guide"
+hub: "legaltech-industry"
 image: "/images/media/legaltech-industry-guide.png"
 related: ["legaltech-industry-company", "legaltech-industry-career", "legaltech-industry-salary", "ai-industry-guide", "adtech-industry-guide"]
 ---
@@ -30,6 +31,11 @@ related: ["legaltech-industry-company", "legaltech-industry-career", "legaltech-
 国内市場は北米・欧州と比較してまだ成熟段階にある領域が多く、大手IT企業の本格参入や海外プレイヤーの日本展開など、競争環境は変化の途上にあります。この「伸びしろのある市場」という特性が、キャリアチェンジ先として関心を集める一因になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要企業の分類と事業領域
 
@@ -97,6 +103,11 @@ related: ["legaltech-industry-company", "legaltech-industry-career", "legaltech-
 転職後にキャッチアップが必要な領域として、SaaSメトリクスの基礎・プロダクト理解・社内のセールスとの連携方法などが挙げられます。事前にSaaSビジネスの基本書や類似職種経験者との対話を通じて、ギャップを把握してから転職活動に臨むと、面接での説明力も高まります。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legaltech-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

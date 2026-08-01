@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["アドテック・マーケティングテック", "業界動向"]
 pubDate: 2026-07-05
 slug: "adtech-industry-trend"
+hub: "adtech-industry"
 image: "/images/media/adtech-industry-trend.png"
 related: ["adtech-industry-company", "adtech-industry-career", "adtech-industry-guide", "edtech-industry-trend", "logitech-industry-trend"]
 ---
@@ -32,6 +33,11 @@ CDPは「マーケティングツール」から「データインフラ」と�
 生成AI技術はアドテック・マーテック領域においても、主にクリエイティブ制作と効果予測の二つの局面で実装が進んでいる。広告バナーや動画の自動生成、A/Bテストの自動化、入札最適化へのLLM活用などが代表例だ。
 
 ただし注意が必要なのは、AIツールの普及がもたらすのは「クリエイティブの量産化」だけでなく、「人が担う業務の上流シフト」でもあるという点だ。ブランドの一貫性維持、倫理的チェック、顧客インサイトの解釈といった領域は、むしろ人材の価値が高まりやすい。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-trend">無料で相談する</a>
+</aside>
 
 ## 採用トレンドと求められるスキルセット
 
@@ -83,6 +89,11 @@ CDPは「マーケティングツール」から「データインフラ」と�
 MOps（Marketing Operations）という職域は、欧米では数年前から独立した専門職として確立されているが、国内でも2025年以降に採用事例が増加している。MAツールの設定・管理・データ品質管理・CRMとの連携設計を担うこのポジションは、エンジニアとマーケターの境界にあり、両方のコミュニティで希少性が高い。
 
 SaaSベンダーやコンサルファームのみならず、大手事業会社でも内製化を進めるためにMOpsを採用するケースが増えており、未経験からのキャリアパスとしてはHubSpotやSalesforceのオペレーション担当からの異動・転職が比較的多いとされている。
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=adtech-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

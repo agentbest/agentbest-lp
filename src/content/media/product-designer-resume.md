@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["プロダクトデザイナー", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "product-designer-resume"
+hub: "product-designer"
 image: "/images/media/product-designer-resume.png"
 related: ["product-designer-how-to-use-agent", "product-designer-in-30s", "product-designer-company-size", "embedded-engineer-resume", "partner-sales-resume"]
 ---
@@ -26,6 +27,11 @@ related: ["product-designer-how-to-use-agent", "product-designer-in-30s", "produ
 さらに、数値で成果を示すことが難しい職種でもある。だからこそ、「指標の変化」「プロセスへの貢献」「チームへの影響」を言語化する技術が求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-resume">無料で相談する</a>
+</aside>
 
 ## 職務経歴書の基本構成
 
@@ -122,6 +128,11 @@ related: ["product-designer-how-to-use-agent", "product-designer-in-30s", "produ
 シニアになるほど「個人の手を動かした量」より「チームや組織にどう影響を与えたか」が評価の重心になる傾向がある。シニア志向のポジションを目指す場合は、メンタリング・採用貢献・デザイン基準の整備といった組織貢献も記述に含める。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

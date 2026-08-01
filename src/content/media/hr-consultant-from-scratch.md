@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["人事・組織コンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "hr-consultant-from-scratch"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-from-scratch.png"
 related: ["hr-consultant-work-style", "hr-consultant-company-size", "hr-consultant-failure", "digital-marketer-from-scratch", "recruiter-from-scratch"]
 ---
@@ -30,6 +31,11 @@ related: ["hr-consultant-work-style", "hr-consultant-company-size", "hr-consulta
 転職を検討する際は、「どの領域のコンサルタントになりたいのか」を最初に絞り込むことが、ルート選定の精度を高める上で重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験転職の現実：どこまでが「未経験」か
 
@@ -117,6 +123,11 @@ ITコンサル・PMO・業務改革コンサルなどの経験を持つ場合、
 未経験に近い形で入職する場合、最初のポジションはジュニア扱いになることが多く、前職の年収水準によっては一時的に年収が下がることも想定しておく必要がある。中長期的な年収軌跡を描いたうえで意思決定することが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

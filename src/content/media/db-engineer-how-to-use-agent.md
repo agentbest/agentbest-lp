@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["データベースエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "db-engineer-how-to-use-agent"
+hub: "db-engineer"
 image: "/images/media/db-engineer-how-to-use-agent.png"
 related: ["db-engineer-in-20s", "db-engineer-resume", "db-engineer-work-style", "platform-engineer-how-to-use-agent", "enterprise-sales-how-to-use-agent"]
 ---
@@ -30,6 +31,11 @@ DBエンジニアのスキルは、RDBMS・NoSQL・NewSQLにまたがる製品�
 自分のスキルを「正しい言語」で表現できなければ、書類選考の段階で機会を逃す。採用担当者がDBエンジニアリングの専門的な実態を十分に理解していない場合も多く、職務経歴書の書き方が選考結果に大きく影響する。この点で、業界に精通したエージェントからのフィードバックは実質的な価値を持つ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## 転職エージェントを活用すべき5つの理由
 
@@ -87,6 +93,11 @@ DBエンジニアとして転職活動をする場合、エージェントを選
 この例が示すのは、スキルの「ラベリング」と「文脈」の重要性だ。同じ経験でも、どのポジションのどの課題に対応できる経験として提示するかで評価が変わる。これはエージェントの介在によって精度が上がりやすい部分である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=db-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

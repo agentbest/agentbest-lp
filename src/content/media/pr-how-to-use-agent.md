@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["広報／PR", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "pr-how-to-use-agent"
+hub: "pr"
 image: "/images/media/pr-how-to-use-agent.png"
 related: ["pr-future", "pr-market-trend", "pr-in-30s", "big4-consultant-how-to-use-agent", "solution-architect-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["pr-future", "pr-market-trend", "pr-in-30s", "big4-consultant-how-to-u
 企業の採用担当者が広報職のスキルを詳細に把握しきれていない場合もあり、専門知識を持つエージェントが間に入って双方の要件をすり合わせる役割を果たすケースが多い。求職者にとっても、自身の経験をどの切り口で説明するかの整理を、エージェントとの対話を通じて深められるという側面がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## 転職エージェントを活用することで得られる実質的なメリット
 
@@ -103,6 +109,11 @@ related: ["pr-future", "pr-market-trend", "pr-in-30s", "big4-consultant-how-to-u
 このような流れを経ることで、自己応募では把握しきれなかった非公開求人への応募機会が生まれ、また面接準備の密度が高まりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pr-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

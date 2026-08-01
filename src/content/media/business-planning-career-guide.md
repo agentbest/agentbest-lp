@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["事業企画", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "business-planning-career-guide"
+hub: "business-planning"
 image: "/images/media/business-planning-career-guide.png"
 related: ["business-planning-certification", "business-planning-interview", "business-planning-failure", "freelance-consultant-career-guide", "big4-consultant-career-guide"]
 ---
@@ -34,6 +35,11 @@ related: ["business-planning-certification", "business-planning-interview", "bus
 求職者がまず確認すべきは、応募先の「事業企画」がどのレイヤーを担当するかです。ベンチャーの事業企画は0→1フェーズの実務執行を担うことが多く、大企業の事業企画は分析・提言が主体となる傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 事業企画が担う主な業務領域
 
@@ -127,6 +133,11 @@ related: ["business-planning-certification", "business-planning-interview", "bus
 志望企業が現在どのフェーズにあるか（グロース期・収益化期・多角化期など）を理解し、自分のスキルがそのフェーズのニーズに合致していることを伝えることが有効です。「事業企画が好きだから」という動機よりも、「この事業のこの課題を解くために自分の経験が役立つ」という言語化が刺さりやすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

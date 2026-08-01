@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["M&A仲介", "業界動向"]
 pubDate: 2026-07-05
 slug: "ma-industry-trend"
+hub: "ma-industry"
 image: "/images/media/ma-industry-trend.png"
 related: ["ma-industry-company", "ma-industry-guide", "ma-industry-salary", "adtech-industry-trend", "mobility-industry-trend"]
 ---
@@ -18,6 +19,11 @@ M&A仲介業界は、国内の中小企業における後継者問題を主た�
 M&A仲介業界の成長を語るうえで外せないのが、国内中小企業における後継者不在問題です。中小企業庁が継続的に問題提起してきたとおり、国内には後継者不在の中小企業が膨大に存在しており、廃業回避の手段としてM&Aへの関心が高まっています。この需要は景気の好不況に左右される部分が少なく、むしろ経営者の高齢化が進むにつれて中長期的に積み上がる性質を持っています。
 
 「経営者が高齢化するほど案件数が増える」という構造は、業界にとって強固な追い風です。ただし、この追い風は業界全体に均等に作用するわけではなく、案件組成力・リード獲得力・成約後のサポート体制に差があるプレイヤー間で、収益性の格差が広がる傾向が見られます。
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-trend">キャリアを相談する</a>
+</aside>
 
 ## 主要プレイヤーの類型と特徴
 
@@ -86,6 +92,11 @@ M&A仲介会社が売り手・買い手双方から報酬を受け取る「両�
 - **会社選定の軸**：未経験者向けの研修体制が充実しているか、OJTの担当者が明確か、固定給での最低保証期間が設けられているか。
 
 入社後に成果が出るまでのタイムラインは、業界経験者でも平均的に6〜12ヶ月程度かかることが多く、この点を事前に家計・ライフプランと照合して納得した上で転職することが、定着の観点からも重要です。
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-industry-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

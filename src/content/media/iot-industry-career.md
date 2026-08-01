@@ -7,6 +7,7 @@ theme: "業界キャリア"
 tags: ["IoT・ハードウェアテック", "業界キャリア"]
 pubDate: 2026-07-05
 slug: "iot-industry-career"
+hub: "iot-industry"
 image: "/images/media/iot-industry-career.png"
 related: ["iot-industry-company", "iot-industry-trend", "iot-industry-guide", "healthtech-industry-career", "ma-industry-career"]
 ---
@@ -32,6 +33,11 @@ IoT・ハードウェアテック領域が他のIT業界と大きく異なるの
 - **デバイスメーカー・スタートアップ**：センサー、ウェアラブル、産業機器などを自社で設計・製造する企業。ハードウェアエンジニア・組み込みソフトエンジニアの需要が高い
 - **プラットフォーマー・SaaS企業**：デバイスから収集したデータを活用するSaaS層。クラウドインフラ・データエンジニア・AIエンジニアの需要が高まっている
 - **製造業のDX推進部門**：既存の大手製造業がスマートファクトリーやコネクテッド製品を開発する文脈。社内変革の文脈でプロジェクトマネージャーやソリューションアーキテクトが求められることが多い
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-career">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される経験と職種別のポジション
 
@@ -83,6 +89,11 @@ IoT・ハードウェアテック領域が他のIT業界と大きく異なるの
 | 技術×ビジネスの統合（アーキテクト・PM） | 顧客や事業側との対話に意欲がある | 技術背景の維持が継続的に求められる |
 | 製造業DXの推進側へ（事業会社） | 大きな組織での変革プロセスに関心がある | 意思決定のスピードや組織文化に慣れが必要 |
 | スタートアップ創業・事業化 | プロダクト開発の全体責任を担いたい | ハードウェアのキャッシュフロー特性への理解が必須 |
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=iot-industry-career">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

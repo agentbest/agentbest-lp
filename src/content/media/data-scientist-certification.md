@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["データサイエンティスト", "資格"]
 pubDate: 2026-07-04
 slug: "data-scientist-certification"
+hub: "data-scientist"
 image: "/images/media/data-scientist-certification.png"
 related: ["data-scientist-company-size", "data-scientist-how-to-use-agent", "data-scientist-from-scratch", "big4-consultant-certification", "security-consultant-certification"]
 ---
@@ -26,6 +27,11 @@ IT・SaaS・コンサル領域の企業において、データサイエンテ�
 これらの評価軸に照らすと、資格は主に「技術水準の客観的な証明」として機能する場合に有効であり、実績や問題解決能力を補完するものとして位置づけられる。つまり、資格単体が評価を決定づけることは少なく、あくまでポートフォリオや職務経歴書の信頼性を補強するひとつの要素となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-certification">無料で相談する</a>
+</aside>
 
 ## 評価されやすい資格・認定の特徴
 
@@ -94,6 +100,11 @@ G検定やデータサイエンティスト検定（リテラシーレベル）�
 こうした資格は「学習のマイルストーンとして取得し、その後の実装経験やポートフォリオにつなげた」という文脈で語る際に機能する。資格名を前面に出すより、それを起点にした実践の蓄積を示す方が、採用担当者や現場エンジニアへの説得力が高まる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

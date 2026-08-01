@@ -6,21 +6,22 @@ import Header from '../../components/Header.astro';
 
 const posts = await getCollection('media');
 
-// 職種・業界ごとに記事を集計
+// 職種・業界・企業ごとに記事を集計
+const groupKey = (p) => p.data.jobType ?? p.data.industry ?? p.data.companyName;
+
 const groups = new Map();
+const slugsOf = new Map();
 for (const p of posts) {
-  const key = p.data.jobType ?? p.data.industry;
-  if (!groups.has(key)) groups.set(key, { name: key, category: p.data.category, count: 0, slugPrefix: p.slug.replace(/-[a-z0-9-]+$/, '') });
-  groups.get(key).count++;
+  const key = groupKey(p);
+  if (!groups.has(key)) groups.set(key, { name: key, category: p.data.category, count: 0, hub: p.data.hub });
+  const g = groups.get(key);
+  g.count++;
+  // frontmatter の hub があればそれを優先（無い記事は下の commonPrefix で推定）
+  if (!g.hub && p.data.hub) g.hub = p.data.hub;
+  if (!slugsOf.has(key)) slugsOf.set(key, []);
+  slugsOf.get(key).push(p.slug);
 }
-// ハブslug（記事slugの共通接頭辞）を求める: 記事slugからテーマ部分を除いた形
-// 職種・業界ごとの代表slugプレフィックスを最初の記事から推定
-const hubOf = new Map();
-for (const p of posts) {
-  const key = p.data.jobType ?? p.data.industry;
-  if (!hubOf.has(key)) hubOf.set(key, []);
-  hubOf.get(key).push(p.slug);
-}
+// 後方互換：hub 未指定の記事群は従来どおり記事slugの共通接頭辞から推定する
 function commonPrefix(arr) {
   if (arr.length === 1) return arr[0];
   let pre = arr[0];
@@ -31,14 +32,16 @@ function commonPrefix(arr) {
 }
 const jobGroups = [];
 const industryGroups = [];
+const companyGroups = [];
 for (const [key, g] of groups) {
-  const hub = commonPrefix(hubOf.get(key));
-  const item = { name: key, count: g.count, hub };
+  const item = { name: key, count: g.count, hub: g.hub ?? commonPrefix(slugsOf.get(key)) };
   if (g.category === '職種') jobGroups.push(item);
+  else if (g.category === '企業') companyGroups.push(item);
   else industryGroups.push(item);
 }
 jobGroups.sort((a, b) => a.hub.localeCompare(b.hub));
 industryGroups.sort((a, b) => a.hub.localeCompare(b.hub));
+companyGroups.sort((a, b) => a.hub.localeCompare(b.hub));
 
 const title = 'キャリアメディア｜IT・SaaS・コンサル領域の転職情報';
 const description = 'IT・SaaS・コンサル領域の転職・キャリア情報を職種別・業界別に解説。年収相場・キャリアパス・面接対策まで、実務目線でまとめています。';
@@ -65,6 +68,17 @@ const description = 'IT・SaaS・コンサル領域の転職・キャリア情�
         <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
       ))}
     </ul>
+
+    {companyGroups.length > 0 && (
+      <>
+        <h2>企業から探す</h2>
+        <ul class="cat-grid">
+          {companyGroups.map((g) => (
+            <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
+          ))}
+        </ul>
+      </>
+    )}
 
     <aside class="cta">
       <h2>キャリアの選択肢を、プロと整理しませんか</h2>

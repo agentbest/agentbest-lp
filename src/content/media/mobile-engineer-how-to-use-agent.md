@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["モバイルエンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-how-to-use-agent"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-how-to-use-agent.png"
 related: ["mobile-engineer-career-guide", "mobile-engineer-salary", "mobile-engineer-interview", "it-consultant-how-to-use-agent", "db-engineer-how-to-use-agent"]
 ---
@@ -34,6 +35,11 @@ iOSとAndroidの2軸に加え、近年はFlutterやReact Nativeを軸にした�
 年収の交渉は候補者と採用担当者の間で直接行われるのではなく、エージェントを経由することで交渉の場が分離されます。採用担当者と直接対面で交渉する状況では、候補者側が遠慮や関係性への配慮から希望を伝えにくくなる傾向があります。エージェントが代理交渉することで、候補者は合理的な条件提示をしやすい構造になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェント選びで確認すべき5つの視点
 
@@ -96,6 +102,11 @@ iOSとAndroidの2軸に加え、近年はFlutterやReact Nativeを軸にした�
 - 入社後の技術的ミスマッチが少なく、定着率が高い傾向
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

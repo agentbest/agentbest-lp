@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["DXコンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "dx-consultant-salary"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-salary.png"
 related: ["dx-consultant-salary-600", "dx-consultant-in-30s", "dx-consultant-market-trend", "bridge-se-salary", "engineering-manager-salary"]
 ---
@@ -22,6 +23,11 @@ DXコンサルタントという呼称が定着したのは比較的近年のこ
 この職種の年収を論じる際に重要なのは、「どの組織に所属するか」が報酬水準の最大の規定要因になるという点だ。IT技術を軸にするか、経営・業務変革を軸にするかという専門性の向き、そしてプロジェクト型の収益構造を持つ組織かどうかが、報酬の上限と下限を決める。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-salary">無料で相談する</a>
+</aside>
 
 ## 組織類型別の年収レンジ
 
@@ -99,6 +105,11 @@ DXコンサルタントとして市場評価を高めるには、「広く浅い
 オファー交渉の際は、現職年収の開示義務がないことを踏まえつつ、自身の市場価値の客観的な根拠を示すことが交渉力につながる。「他社と比較している」という事実は示しつつも、感情的な押しつけを避け、論拠をデータや実績ベースで提示する姿勢が、採用側に好印象を与えやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["SCM・調達コンサルタント", "市場動向"]
 pubDate: 2026-07-04
 slug: "scm-consultant-market-trend"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-market-trend.png"
 related: ["scm-consultant-resume", "scm-consultant-from-scratch", "scm-consultant-salary-600", "hrbp-market-trend", "finance-market-trend"]
 ---
@@ -32,6 +33,11 @@ ERP・SCMシステムの刷新（特にSAP S/4HANA移行）やサプライチェ
 TCFD・CSRD等の国際的な情報開示要件の強化を背景に、サプライヤーリスク評価や人権デューデリジェンスを含む「責任ある調達」の体制整備が急務となっている。この領域は従来の調達部門のみでは対応しきれないため、コンサルタントへの依頼が増加傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用主体別の動向
 
@@ -102,6 +108,11 @@ SCM・調達コンサルタントの求人は、大きく「総合系・戦略�
 SCM・調達に特化した案件比率は、ファームによって大きく異なる。面接プロセスで「直近3年間のSCM関連案件の比率と具体的な案件テーマ」を確認することが、入社後のミスマッチを防ぐ上で有効である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

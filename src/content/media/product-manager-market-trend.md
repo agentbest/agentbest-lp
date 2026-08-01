@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["プロダクトマネージャー", "市場動向"]
 pubDate: 2026-07-04
 slug: "product-manager-market-trend"
+hub: "product-manager"
 image: "/images/media/product-manager-market-trend.png"
 related: ["product-manager-skills", "product-manager-career-guide", "product-manager-career-path", "pmo-consultant-market-trend", "partner-sales-market-trend"]
 ---
@@ -29,6 +30,11 @@ PdMポジションの求人数は、2020年前後から増加傾向が続いて�
 | コンサル・SIer系 | プロダクト思考の内部導入 | ビジネス理解と技術リテラシーの両立 |
 
 この四類型はニーズの構造が異なるため、同じ「PdM求人」であっても求められる経験値や成果の定義がかなり異なる。転職活動においては、求人票の文面以上に採用背景を確認することが実務的に重要になる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 採用ニーズの質的変化：「定義できるPdM」への要求
 
@@ -81,6 +87,11 @@ PdMの年収は経験年数よりも、「どのフェーズのプロダクト�
 **懸念されやすいポイント：** プロダクトオーナーシップの有無。コンサルタントは「提案する側」であり、「成果に長期的に責任を持つ側」の経験が乏しいという懸念を持つ企業は少なくない。また、エンジニアリングの理解深度が不足しているケースでは、技術的なトレードオフを自分で判断できるかを疑問視される場合がある。
 
 この転職パターンで内定につながりやすいのは、コンサル時代にシステム内製化プロジェクトのPM・PO的な役割を担った実績や、副業・個人プロジェクトでプロダクトオーナーシップを体験してきた経緯を具体的に説明できる候補者である。「コンサル出身のPdMは多い」という市場認識があるだけに、何を差別化として提示できるかが通過率を左右しやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

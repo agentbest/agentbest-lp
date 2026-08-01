@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["SCM・調達コンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "scm-consultant-skills"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-skills.png"
 related: ["scm-consultant-in-30s", "scm-consultant-how-to-use-agent", "scm-consultant-failure", "security-engineer-skills", "sre-skills"]
 ---
@@ -20,6 +21,11 @@ SCM（サプライチェーンマネジメント）・調達領域のコンサ�
 採用市場での評価は、これら4層の組み合わせ方と深度によって決まります。特にファームや事業会社のコンサルティング部門では、「業務知識＋分析能力」の掛け合わせを最低限の基礎として見なし、そこに「プロジェクト推進力」や「クライアント対応力」が加わると評価が大きく上がる傾向にあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-skills">無料で相談する</a>
+</aside>
 
 ## スキル優先順位の全体マップ
 
@@ -94,6 +100,11 @@ SAPやOracle等の主要ERPにおける業務プロセスの理解は、シス�
 これらを言語化できている場合、業務知識を評価軸のひとつとして転換先ファームで中途採用の対象になりやすい傾向があります。年収レンジとしては、事業会社からコンサルに転換する際に一定の水準の変動が生じるケースが多く、ポジション（コンサルタント/シニアコンサルタント等）と担当領域の専門性によって個人差が大きいとされています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

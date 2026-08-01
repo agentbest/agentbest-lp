@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["人事", "年収600万"]
 pubDate: 2026-07-04
 slug: "hrbp-salary-600"
+hub: "hrbp"
 image: "/images/media/hrbp-salary-600.png"
 related: ["hrbp-how-to-use-agent", "hrbp-certification", "hrbp-interview", "ma-advisor-salary-600", "erp-consultant-salary-600"]
 ---
@@ -25,6 +26,11 @@ related: ["hrbp-how-to-use-agent", "hrbp-certification", "hrbp-interview", "ma-a
 | 人事部長・HRディレクター | 900〜1,500万円以上 | 人事戦略立案、経営レイヤーとの折衝、全社制度設計 |
 
 この表で確認できるのは、600万円という水準が「シニア担当・リーダー」の上限付近から「HRBP・マネージャー」の入口付近に位置するという点です。つまり600万円の壁は、単なる評価の問題ではなく、職能の定義そのものが変わる境界線にあたります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円前後で停滞しやすい構造的な理由
 
@@ -81,6 +87,11 @@ HRBPは、特定の事業部門に伴走し、採用・育成・組織設計・�
 ---
 
 この型から読み取れるのは、実績そのものが乏しいのではなく、実績の整理と職位の定義がある企業を選ぶという「打ち手の設計」が年収に直結したという点です。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

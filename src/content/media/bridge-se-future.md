@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["ブリッジSE", "将来性"]
 pubDate: 2026-07-04
 slug: "bridge-se-future"
+hub: "bridge-se"
 image: "/images/media/bridge-se-future.png"
 related: ["bridge-se-salary-1000", "bridge-se-salary-600", "bridge-se-work-style", "recruiter-future", "pmo-consultant-future"]
 ---
@@ -22,6 +23,11 @@ related: ["bridge-se-salary-1000", "bridge-se-salary-600", "bridge-se-work-style
 ここでブリッジSEが果たす機能を整理すると、単なる「翻訳者」にとどまらないことがわかります。要件定義の言語化、文化的背景の差異を踏まえた仕様調整、開発拠点間の期待値のすり合わせ、そして品質管理のゲートキーパーとしての役割——これらは現時点のAIが代替しにくい領域です。
 
 一方で、定型的なドキュメント翻訳、ステータス管理、定例会議のアジェンダ整理といった業務は、翻訳AIや生成AIによって効率化が進んでいます。この分断を正確に理解することが、将来性を考える上での出発点になります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AIが代替しやすい業務と代替しにくい業務
 
@@ -83,6 +89,11 @@ AIによる翻訳精度が向上するほど、語学力単体の価値は相対
 | PMO・プロジェクトマネージャー | 上流全体・複数拠点管理 | 800〜1,100万円前後 |
 
 ※上記は求人市場における一般的な目安であり、企業規模・業種・スキルセットにより大きく異なります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["人事・組織コンサルタント", "20代転職"]
 pubDate: 2026-07-04
 slug: "hr-consultant-in-20s"
+hub: "hr-consultant"
 image: "/images/media/hr-consultant-in-20s.png"
 related: ["hr-consultant-salary-600", "hr-consultant-career-path", "hr-consultant-company-size", "infra-engineer-in-20s", "product-designer-in-20s"]
 ---
@@ -28,6 +29,11 @@ related: ["hr-consultant-salary-600", "hr-consultant-career-path", "hr-consultan
 市場参加者は、外資系大手HRコンサルファーム、総合系コンサルファームのピープル＆オルガニゼーション部門、国内独立系ファーム、HRテクノロジーを組み合わせたHRコンサルティングを展開するスタートアップまで多岐にわたる。20代転職者が狙える入口は、このうち後者二つに集中する傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代に対するポテンシャル採用の実態
 
@@ -97,6 +103,11 @@ related: ["hr-consultant-salary-600", "hr-consultant-career-path", "hr-consultan
 **ハードルが高い層**：外資系大手HRコンサルティングファームや戦略系ファームのオルガニゼーションプラクティス。業界経験・上位校・コンサル経験が事実上の前提になっているケースが多い。ただし、突出したスキルや論文・研究歴がある場合は例外的に突破する事例もある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hr-consultant-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

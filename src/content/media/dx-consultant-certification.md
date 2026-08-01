@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["DXコンサルタント", "資格"]
 pubDate: 2026-07-04
 slug: "dx-consultant-certification"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-certification.png"
 related: ["dx-consultant-interview", "dx-consultant-how-to-use-agent", "dx-consultant-in-30s", "project-manager-certification", "sre-certification"]
 ---
@@ -30,6 +31,11 @@ DXコンサルタントのキャリアにおいて、資格の有無は採用や
 つまり資格は「取れば評価が上がる」ものではなく、「文脈によって評価の重みが変わる」ものと理解するのが正確だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格と評価されにくい資格の構造的な違い
 
@@ -97,6 +103,11 @@ DXコンサルタントに対する評価の観点から資格を整理すると
 重要なのは、「転職市場で資格の評価を最大化する」という逆算思考ではなく、「自分が担いたい実務に近い資格を選ぶ」という順算思考だ。資格は目的ではなく、実務能力を示すための補助的な手段に過ぎない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

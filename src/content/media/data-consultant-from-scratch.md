@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["データ・アナリティクスコンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "data-consultant-from-scratch"
+hub: "data-consultant"
 image: "/images/media/data-consultant-from-scratch.png"
 related: ["data-consultant-salary-600", "data-consultant-in-30s", "data-consultant-company-size", "hrbp-from-scratch", "cloud-engineer-from-scratch"]
 ---
@@ -28,6 +29,11 @@ DACは、データを活用して企業の経営課題を解決するコンサ�
 DACを「分析屋」ではなく「コンサルタント」として機能させるためには、技術力だけでなく、課題設定力と説明力が不可欠です。この点が、データサイエンティストなど他職種との本質的な差異といえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## 未経験から目指す際に直面する現実
 
@@ -115,6 +121,11 @@ DACに必要なスキルは、技術・思考・コミュニケーションの�
 大手外資系・総合系コンサルと、独立系・中堅ファームの間には、同じポジション名でも報酬水準に一定の開きがある傾向があります。福利厚生や評価サイクルの違いも含めて比較することが望まれます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

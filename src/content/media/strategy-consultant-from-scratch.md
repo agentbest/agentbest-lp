@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["戦略コンサルタント", "未経験転職"]
 pubDate: 2026-07-04
 slug: "strategy-consultant-from-scratch"
+hub: "strategy-consultant"
 image: "/images/media/strategy-consultant-from-scratch.png"
 related: ["strategy-consultant-motivation", "strategy-consultant-career-guide", "strategy-consultant-salary-600", "big4-consultant-from-scratch", "tech-lead-from-scratch"]
 ---
@@ -31,6 +32,11 @@ related: ["strategy-consultant-motivation", "strategy-consultant-career-guide", 
 逆に言えば、「ある業界で10年働いた」という経験値だけでは採用理由として弱い。業界知識はプロジェクト内で習得可能な一方、思考の型は採用後に変えることが難しいと判断されるからである。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 未経験転職における現実的なルート
 
@@ -125,6 +131,11 @@ ExcelによるデータモデリングやPowerPointによる資料作成スキ�
 成果主義の色が強いため、評価・昇格のペースによって同年次でも差が生じやすい構造を理解しておくことが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=strategy-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

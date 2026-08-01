@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["インフラエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "infra-engineer-resume"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-resume.png"
 related: ["infra-engineer-career-guide", "infra-engineer-interview", "infra-engineer-certification", "partner-sales-resume", "security-consultant-resume"]
 ---
@@ -30,6 +31,11 @@ related: ["infra-engineer-career-guide", "infra-engineer-interview", "infra-engi
 これらの課題を解決するには、単なる業務の列挙ではなく、「規模・難度・判断」の観点から経験を再構成する必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-resume">無料で相談する</a>
+</aside>
 
 ## 全体構成とセクションの役割
 
@@ -138,6 +144,11 @@ related: ["infra-engineer-career-guide", "infra-engineer-interview", "infra-engi
 | セキュリティ対応 | 対応した要件の種類（ISMS、SOC2対応補助、PCI DSS対応等）で価値を示す |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

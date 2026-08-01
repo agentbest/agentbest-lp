@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["ブリッジSE", "年収600万"]
 pubDate: 2026-07-04
 slug: "bridge-se-salary-600"
+hub: "bridge-se"
 image: "/images/media/bridge-se-salary-600.png"
 related: ["bridge-se-resume", "bridge-se-future", "bridge-se-career-guide", "data-engineer-salary-600", "security-consultant-salary-600"]
 ---
@@ -29,6 +30,11 @@ related: ["bridge-se-resume", "bridge-se-future", "bridge-se-career-guide", "dat
 600万円という水準は、おおむね「経験5年前後、上流工程を一定程度主導できる段階」に相当しやすい傾向があります。言い換えると、この水準を超えるためには「オフショア開発の窓口担当者」という役割定義から脱し、より上位の責任領域にポジショニングを移す必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい3つの要因
 
@@ -96,6 +102,11 @@ PMP（Project Management Professional）やIPAのプロジェクトマネージ�
 前職比で年収が120万円前後増加し、650万円の水準に到達。職位はエンジニアではなく「IT企画・推進担当」として採用。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bridge-se-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

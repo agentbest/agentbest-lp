@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["マーケティングマネージャー", "転職失敗"]
 pubDate: 2026-07-04
 slug: "marketing-manager-failure"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-failure.png"
 related: ["marketing-manager-salary-1000", "marketing-manager-how-to-use-agent", "marketing-manager-from-scratch", "customer-success-failure", "game-engineer-failure"]
 ---
@@ -40,6 +41,11 @@ related: ["marketing-manager-salary-1000", "marketing-manager-how-to-use-agent",
 自分がこれまで積み上げてきた成果の定義と、転職先のKPI体系が噛み合っていない場合、同じパフォーマンスを発揮していても「期待と違う」という評価が下されやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターン6つ
 
@@ -120,6 +126,11 @@ SaaS系企業でデマンドジェネレーションを専門としてきたAさ
 「具体的に週の業務時間のうち、どの機能にどれくらいの比率を割くか」「外部代理店との役割分担はどうなっているか」という2点を深掘りする機会があれば、入社前にミスマッチを把握できた可能性が高い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

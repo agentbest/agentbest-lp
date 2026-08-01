@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["テックリード", "20代転職"]
 pubDate: 2026-07-04
 slug: "tech-lead-in-20s"
+hub: "tech-lead"
 image: "/images/media/tech-lead-in-20s.png"
 related: ["tech-lead-career-guide", "tech-lead-salary", "tech-lead-how-to-use-agent", "partner-sales-in-20s", "cloud-engineer-in-20s"]
 ---
@@ -27,6 +28,11 @@ related: ["tech-lead-career-guide", "tech-lead-salary", "tech-lead-how-to-use-ag
 大企業においては、これらの機能が「アーキテクト」「シニアエンジニア」「EMの補佐」等に分散されるケースが多い。一方、スタートアップでは1名が全機能を担うことも珍しくない。20代でテックリードを目指す場合、この「役割の広さ」が採用の鍵になることが多い。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-in-20s">無料で相談する</a>
+</aside>
 
 ## 20代のテックリード採用：ポテンシャル採用の実態
 
@@ -105,6 +111,11 @@ related: ["tech-lead-career-guide", "tech-lead-salary", "tech-lead-how-to-use-ag
 **結果**：2社からオファーを受け、入社後6ヶ月でチームのコードレビュープロセスを整備、設計ドキュメントの雛形を社内標準化した。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=tech-lead-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

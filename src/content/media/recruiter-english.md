@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["採用担当", "英語力"]
 pubDate: 2026-07-04
 slug: "recruiter-english"
+hub: "recruiter"
 image: "/images/media/recruiter-english.png"
 related: ["recruiter-failure", "recruiter-skills", "recruiter-company-size", "salesforce-consultant-english", "platform-engineer-english"]
 ---
@@ -32,6 +33,11 @@ related: ["recruiter-failure", "recruiter-skills", "recruiter-company-size", "sa
 ### グローバルHR業務・ポリシー策定への関与
 
 採用担当がHRBP（HRビジネスパートナー）やHR Generalistへのキャリアシフトを志す場合、グローバルの人事ポリシー・コンプライアンス要件・報酬設計などを英語で読み解く能力が求められる。採用担当の職域を超えた英語力は、将来的なキャリア拡張においても価値を持つ。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-english">無料で相談する</a>
+</aside>
 
 ## 英語力別に見る求人の広がりと年収の目安
 
@@ -67,6 +73,11 @@ related: ["recruiter-failure", "recruiter-skills", "recruiter-company-size", "sa
 **対応と結果：** 転職活動と並行して、実務英語に特化した学習（ビジネス英語のメール演習・採用領域の英文JD読み込み・模擬英語面接練習）を3〜4か月継続。LinkedInのプロフィールを英語で整備し、グローバル採用担当者からのスカウトが届く環境を整えた。最終的に外資系SaaS企業のTAポジションへ転職、年収は前職比で150〜200万円程度の改善となるケースが多い。
 
 このケースが示すのは、英語力の底上げよりも「採用担当としての専門スキルを英語でアウトプットできるか」が問われているという点である。ゼロからの英語学習ではなく、既存の業務知識と英語を掛け合わせる方向性での準備が有効に機能しやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

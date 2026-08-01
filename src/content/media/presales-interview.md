@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["セールスエンジニア／プリセールス", "面接対策"]
 pubDate: 2026-07-03
 slug: "presales-interview"
+hub: "presales"
 image: "/images/media/presales-interview.png"
 related: ["presales-failure", "presales-motivation", "presales-from-scratch", "engineering-manager-interview", "thinktank-interview"]
 ---
@@ -28,6 +29,11 @@ related: ["presales-failure", "presales-motivation", "presales-from-scratch", "e
 技術的な正確さのみを訴求する回答は、コミュニケーション設計やビジネス判断の軸で評価が下がりやすい。3軸がバランスよく伝わる構成を意識することが準備の出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-interview">無料で相談する</a>
+</aside>
 
 ## 頻出質問と回答の組み立て方
 
@@ -110,6 +116,11 @@ related: ["presales-failure", "presales-motivation", "presales-from-scratch", "e
 4. **営業・PM・カスタマーサクセスとの連携経験**：ポジションを超えた協働の実例を2〜3件準備する
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

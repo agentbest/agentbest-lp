@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["経営企画", "転職失敗"]
 pubDate: 2026-07-04
 slug: "corporate-planning-failure"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-failure.png"
 related: ["corporate-planning-company-size", "corporate-planning-how-to-use-agent", "corporate-planning-salary", "enterprise-sales-failure", "ml-engineer-failure"]
 ---
@@ -38,6 +39,11 @@ related: ["corporate-planning-company-size", "corporate-planning-how-to-use-agen
 反対に、事業会社から別の事業会社の経営企画へ転職する場合は、業界・ビジネスモデルの違いが業務難易度に直結します。SaaS企業でのARR・NRR管理に慣れた人材が、製造業の予算管理プロセスに適応するには相応の学習コストがかかります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある失敗パターン5選
 
@@ -103,6 +109,11 @@ related: ["corporate-planning-company-size", "corporate-planning-how-to-use-agen
 このようなギャップは、面接時に「入社後3ヵ月・6ヵ月のアウトプットイメージを具体的に教えてください」と聞くことで、ある程度は防ぎやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

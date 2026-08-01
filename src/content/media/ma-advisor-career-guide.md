@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["M&Aアドバイザー", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "ma-advisor-career-guide"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-career-guide.png"
 related: ["ma-advisor-resume", "ma-advisor-skills", "ma-advisor-salary-600", "freelance-consultant-career-guide", "product-designer-career-guide"]
 ---
@@ -30,6 +31,11 @@ M&Aアドバイザーへの転職、あるいはM&Aアドバイザーとして�
 事業会社の内部に設置されたM&A専門部署での役割です。外部アドバイザーの管理・監督、ストラテジックフィットの評価、PMI（統合後プロセス）への関与が求められます。フィーは発生せず、固定報酬が基本です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-career-guide">無料で相談する</a>
+</aside>
 
 ## 市場価値と報酬レンジの目安
 
@@ -98,6 +104,11 @@ DCFに加え、類似会社比較法（マーケットマルチプル法）・�
 **結果の傾向**：業界特化型ブティックへの転職が成立しやすく、ジェネラリストブティックへの転職は財務モデリングの習熟度がボトルネックになりやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

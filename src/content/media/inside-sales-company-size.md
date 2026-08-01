@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["インサイドセールス", "大手vsスタートアップ"]
 pubDate: 2026-07-03
 slug: "inside-sales-company-size"
+hub: "inside-sales"
 image: "/images/media/inside-sales-company-size.png"
 related: ["inside-sales-salary", "inside-sales-market-trend", "inside-sales-skills", "freelance-consultant-company-size", "solution-architect-company-size"]
 ---
@@ -28,6 +29,11 @@ related: ["inside-sales-salary", "inside-sales-market-trend", "inside-sales-skil
 スタートアップや成長初期のSaaS企業では、インサイドセールスが担う範囲は流動的です。見込み客の発掘から商談設定、時には商談への同席、顧客成功に近い業務まで兼務することも珍しくありません。また、営業戦略の設計そのものに関与を求められるケースもあります。
 
 プロセスが整備されていない分、自ら型を作る力が問われます。これを「不安定」ととらえるか「機会」ととらえるかは、当人のキャリアフェーズと志向性によって判断が分かれます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 主要な比較軸で整理する
 
@@ -77,6 +83,11 @@ related: ["inside-sales-salary", "inside-sales-market-trend", "inside-sales-skil
 3. **外資系SaaS企業のエンタープライズBDR**：商材の訴求対象が変わり、スキルの棚卸しが必要。ブランドと学習環境は得やすい。
 
 3つのうちどれが正解かは状況次第ですが、Aさんの場合「戦略設計への関与」という明確な目標があるため、2番か3番が目標に近い環境として機能しやすい傾向があります。いずれも、現職でのポータブルスキルを整理し、どう転用できるかを言語化できるかが転職活動での鍵になります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=inside-sales-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

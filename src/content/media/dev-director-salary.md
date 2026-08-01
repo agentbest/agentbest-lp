@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["開発ディレクター", "年収相場"]
 pubDate: 2026-07-04
 slug: "dev-director-salary"
+hub: "dev-director"
 image: "/images/media/dev-director-salary.png"
 related: ["dev-director-english", "dev-director-career-guide", "dev-director-failure", "customer-success-salary", "inside-sales-salary"]
 ---
@@ -22,6 +23,11 @@ related: ["dev-director-english", "dev-director-career-guide", "dev-director-fai
 **受託・SI型**：クライアントプロジェクトの開発工程全体を担い、要件定義から品質管理・納品まで責任を持つ役割。プロジェクトマネージャーに近い立場で動くことも多い。
 
 この区分を踏まえたうえで、以下の年収相場を参照してください。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-salary">キャリアを相談する</a>
+</aside>
 
 ## 年齢帯・経験年数別の年収目安レンジ
 
@@ -88,6 +94,11 @@ related: ["dev-director-english", "dev-director-career-guide", "dev-director-fai
 転職での年収アップは、現年収を起点に交渉するより、「求人ポジションの報酬レンジのどこに入るか」を軸に議論を進めた方が効果的です。求人票にレンジが記載されている場合、上限に近い提示を引き出すには、スキルセットの網羅性よりも「入社後の具体的な貢献イメージ」を面接で明示できるかどうかが鍵になります。
 
 また、エージェントを活用する場合、複数社に分散せず1〜2社に絞って担当者との情報共有を密にするほうが、企業との交渉における後押しを得やすい傾向があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

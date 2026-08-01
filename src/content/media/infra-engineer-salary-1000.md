@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["インフラエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "infra-engineer-salary-1000"
+hub: "infra-engineer"
 image: "/images/media/infra-engineer-salary-1000.png"
 related: ["infra-engineer-salary-600", "infra-engineer-career-path", "infra-engineer-company-size", "project-manager-salary-1000", "backend-engineer-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["infra-engineer-salary-600", "infra-engineer-career-path", "infra-engi
 この表が示す通り、1,000万円は「上位層の入り口」に位置します。一般的なキャリアパスで自然に到達する水準ではなく、技術の深度・ポジションの種別・企業環境の三つが重なって初めて見えてくる数字です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 到達者に共通する三つのキャリアパターン
 
@@ -112,6 +118,11 @@ SaaS企業のSREポジションへの転職により、年収を850〜950万円�
 この表が示すように、転職は年収改善の手段として最も影響力が高い傾向があります。ただし、転職のタイミングと提示できる実績の量は連動しており、「実績が薄い状態での早期転職」より「担当領域を広げた直後の転職」のほうが条件交渉力が高まりやすいことは念頭に置いておく価値があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=infra-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

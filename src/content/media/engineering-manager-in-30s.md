@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["エンジニアリングマネージャー", "30代転職"]
 pubDate: 2026-07-04
 slug: "engineering-manager-in-30s"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-in-30s.png"
 related: ["engineering-manager-resume", "engineering-manager-salary-1000", "engineering-manager-salary", "data-consultant-in-30s", "recruiter-in-30s"]
 ---
@@ -28,6 +29,11 @@ EM職は企業によって定義の幅が大きい。ただし、即戦力採用
 この3軸のうち、どの重みが大きいかは組織のフェーズによって異なる。スタートアップ初期のEMはデリバリーと採用に比重が置かれやすく、大手・メガベンチャーのEMは制度設計や組織間連携が主戦場になる傾向がある。転職活動では「どのフェーズの組織で、どの軸を期待されているか」を先に解像度高く把握することが、ミスマッチ防止の第一歩になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-in-30s">無料で相談する</a>
+</aside>
 
 ## 30代EM転職の市場構造：なぜ難易度が高まるのか
 
@@ -110,6 +116,11 @@ EMは技術職ではないが、技術的な意思決定に関与する役割を
 この型のキャリアでは、EM経験者と競合するポジションよりも「EMを作っていく段階の組織」を狙う選択が、採用確率と入社後の成長機会の両面で合理的になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

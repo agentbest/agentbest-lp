@@ -7,6 +7,7 @@ theme: "業界研究"
 tags: ["フィンテック", "業界研究"]
 pubDate: 2026-07-05
 slug: "fintech-industry-guide"
+hub: "fintech-industry"
 image: "/images/media/fintech-industry-guide.png"
 related: ["fintech-industry-trend", "fintech-industry-company", "fintech-industry-career", "healthtech-industry-guide", "mobility-industry-guide"]
 ---
@@ -34,6 +35,11 @@ related: ["fintech-industry-trend", "fintech-industry-company", "fintech-industr
 この分類が示すとおり、フィンテックという括りの中でも、事業モデル・競合環境・必要な規制知識はサブセクターごとに大きく異なります。求人票に「フィンテック企業」と書かれていても、実態はBtoB SaaSに近い企業もあれば、金融機関に近いライセンス事業者もある、という点を最初に認識しておく必要があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## 市場の現状と成長の方向性
 
@@ -116,6 +122,11 @@ related: ["fintech-industry-trend", "fintech-industry-company", "fintech-industr
 こうしたケースで転職がうまく機能しやすいのは、「自分が金融機関側にいたからこそ見えた課題を、フィンテック側から解決したい」という具体的な動機を持ち、かつ「その課題を解決するプロダクトまたはビジネスモデルがこの企業にある」という接続が明確な場合です。動機の言語化と企業選定の精度が、結果に大きく影響する傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>非公開求人を含めて、選択肢を確認してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=fintech-industry-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

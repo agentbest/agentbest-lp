@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["バックエンドエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "backend-engineer-english"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-english.png"
 related: ["backend-engineer-career-guide", "backend-engineer-market-trend", "backend-engineer-motivation", "devops-engineer-english", "data-engineer-english"]
 ---
@@ -33,6 +34,11 @@ related: ["backend-engineer-career-guide", "backend-engineer-market-trend", "bac
 国内に閉じた開発チームであれば、上記の場面はほぼ発生しない。一方で、外資系企業・グローバルSaaS・外国籍メンバーを含む開発チームでは、テキストベースの英語コミュニケーションが日常業務として発生する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## 英語力で変わる求人の種類と特徴
 
@@ -99,6 +105,11 @@ related: ["backend-engineer-career-guide", "backend-engineer-market-trend", "bac
 英語会議への参加はテキストよりも難易度が上がる。特に、技術的な設計議論やアーキテクチャの意思決定を英語で行う場合、語彙力だけでなく「技術的な論点を即興で構成する力」が必要になる。この水準は意図的なトレーニングなしには習得しにくく、外資系のシニアポジションを目指す場合に準備が求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-english">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

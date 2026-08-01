@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["法務", "面接対策"]
 pubDate: 2026-07-04
 slug: "legal-interview"
+hub: "legal"
 image: "/images/media/legal-interview.png"
 related: ["legal-motivation", "legal-career-path", "legal-salary-600", "db-engineer-interview", "sap-consultant-interview"]
 ---
@@ -26,6 +27,11 @@ related: ["legal-motivation", "legal-career-path", "legal-salary-600", "db-engin
 一般的なスキル確認面接と異なり、法務面接では「正解を知っているかどうか」より「正解を導く過程を説明できるかどうか」が評価軸になりやすいです。特にSaaS・IT・コンサル領域では、新たな法的論点が頻出するため、前例のない問題を自分なりに整理できる力が重視されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-interview">無料キャリア面談を予約する</a>
+</aside>
 
 ## 頻出質問とその意図
 
@@ -104,6 +110,11 @@ related: ["legal-motivation", "legal-career-path", "legal-salary-600", "db-engin
 ※上記はIT・SaaS・コンサル領域における一般的な目安であり、企業規模・個人経験・スキルセットにより大きく異なります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-interview">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

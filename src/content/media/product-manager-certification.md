@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["プロダクトマネージャー", "資格"]
 pubDate: 2026-07-04
 slug: "product-manager-certification"
+hub: "product-manager"
 image: "/images/media/product-manager-certification.png"
 related: ["product-manager-from-scratch", "product-manager-work-style", "product-manager-failure", "mobile-engineer-certification", "ml-engineer-certification"]
 ---
@@ -28,6 +29,11 @@ related: ["product-manager-from-scratch", "product-manager-work-style", "product
 したがって「資格があれば転職に有利になる」という期待を起点に資格取得を検討している場合、その期待値を事前に調整しておくことが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格と評価されにくい資格
 
@@ -92,6 +98,11 @@ PdMとして市場価値を高める文脈で、資格取得より先に注力�
 SQL・BIツールの基礎的な操作能力、指標設計とモニタリングの経験は、多くのSaaS企業のPdMポジションで実質的に求められる素養だ。この領域については、資格取得より実務や個人プロジェクトでの習得の方が証明力を持ちやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-manager-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

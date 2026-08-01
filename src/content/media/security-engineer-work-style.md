@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["セキュリティエンジニア", "働き方"]
 pubDate: 2026-07-04
 slug: "security-engineer-work-style"
+hub: "security-engineer"
 image: "/images/media/security-engineer-work-style.png"
 related: ["security-engineer-interview", "security-engineer-english", "security-engineer-salary", "dev-director-work-style", "tech-lead-work-style"]
 ---
@@ -29,6 +30,11 @@ related: ["security-engineer-interview", "security-engineer-english", "security-
 「セキュリティエンジニア」という職種名は単一の仕事を指すわけではなく、上記の類型をまたいで複数の役割が混在している。転職や就職を検討する際は、職種名ではなく「どの類型のどのポジションか」を正確に把握することが出発点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-work-style">無料で相談する</a>
+</aside>
 
 ## 激務度の構造：残業が発生しやすい場面とその理由
 
@@ -95,6 +101,11 @@ SOCは24時間365日の監視体制を維持する必要があるため、夜間
 待遇の高さと働き方の負荷は比例するとは限らない。事業会社のセキュリティ専任ポジションは、コンサルより残業が少ない傾向がありながら、年収も競争力のある水準に達しているケースが増えている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

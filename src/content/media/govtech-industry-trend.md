@@ -7,6 +7,7 @@ theme: "業界動向"
 tags: ["GovTech", "業界動向"]
 pubDate: 2026-07-05
 slug: "govtech-industry-trend"
+hub: "govtech-industry"
 image: "/images/media/govtech-industry-trend.png"
 related: ["govtech-industry-company", "govtech-industry-salary", "govtech-industry-career", "web3-industry-trend", "saas-industry-trend"]
 ---
@@ -24,6 +25,11 @@ GovTechが注目される背景には、日本の行政デジタル化の遅れ�
 加えて、地方自治体の数は全国に約1,700存在し、それぞれが個別に情報システムを調達・運用してきた経緯から、標準化コストと移行リスクが複雑に絡み合っています。2026年に向けては、「自治体情報システムの標準化・共通化」という国の施策に基づく移行期限対応が最大のドライバーのひとつとなっています。この標準化対応は、多数の自治体が同時並行でシステム刷新を進めることを意味し、プロジェクトマネジメント・プロダクト実装・変更管理の各フェーズで専門人材の需要が集中しています。
 
 ---
+
+<aside class="cta-inline">
+  <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-trend">無料で相談する</a>
+</aside>
 
 ## 市場の成長性：官民両サイドの投資動向
 
@@ -81,6 +87,11 @@ GovTech領域の採用は、民間ITとは異なる特性を持ちます。以�
 前職：650〜700万円程度 → 転職後：700〜800万円程度（ストックオプション別）。スタートアップのフェーズや役割によってレンジは大きく異なりますが、民間SaaSと比較して著しく低い水準になることは少ない傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>年収レンジの実態を、企業ごとに聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=govtech-industry-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

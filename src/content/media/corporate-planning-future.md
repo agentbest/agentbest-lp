@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["経営企画", "将来性"]
 pubDate: 2026-07-04
 slug: "corporate-planning-future"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-future.png"
 related: ["corporate-planning-salary", "corporate-planning-career-path", "corporate-planning-in-20s", "infra-engineer-future", "security-engineer-future"]
 ---
@@ -32,6 +33,11 @@ related: ["corporate-planning-salary", "corporate-planning-career-path", "corpor
 しかし②③は構造的に自動化しにくい。「このデータが示す経営上の意味は何か」「この判断が組織文化にどう影響するか」「ステークホルダーの利害をどう調整するか」という問いは、文脈と関係性を深く理解した人間が扱うべき領域にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-future">キャリアを相談する</a>
+</aside>
 
 ## AIによって変わること、変わらないこと
 
@@ -104,6 +110,11 @@ AIは与えられた問いへの回答生成を得意とする。しかし「今
 優れた経営企画担当者は、経営層が何に迷っているかを先読みし、その判断材料を先回りして整える。このためには、業績管理の作業者としてではなく、経営課題のオーナーシップを部分的に引き受ける姿勢が求められる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

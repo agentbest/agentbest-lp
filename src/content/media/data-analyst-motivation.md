@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["データアナリスト", "志望動機"]
 pubDate: 2026-07-04
 slug: "data-analyst-motivation"
+hub: "data-analyst"
 image: "/images/media/data-analyst-motivation.png"
 related: ["data-analyst-career-path", "data-analyst-from-scratch", "data-analyst-future", "freelance-consultant-motivation", "corporate-it-motivation"]
 ---
@@ -26,6 +27,11 @@ related: ["data-analyst-career-path", "data-analyst-from-scratch", "data-analyst
 加えて、職種名が同じでも企業ごとに業務内容や期待役割は大きく異なる。マーケティング部門に付属するアナリストと、プロダクト改善を担うアナリストでは、求められる思考スタイルも異なる。志望動機を「職種への関心」だけで書くと、この企業固有の文脈が抜け落ちる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される志望動機の三層構造
 
@@ -94,6 +100,11 @@ related: ["data-analyst-career-path", "data-analyst-from-scratch", "data-analyst
 **コンサルから事業会社へのキャリアチェンジの場合**は、「なぜ事業会社か」という軸の説明を丁寧に行わないと、「安定志向」や「疲弊による転職」と読まれるリスクがある。「当事者としてPDCAを回したい」という動機の構造的な説明が有効だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-motivation">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

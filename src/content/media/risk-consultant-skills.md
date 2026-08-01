@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["リスク・ガバナンスコンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "risk-consultant-skills"
+hub: "risk-consultant"
 image: "/images/media/risk-consultant-skills.png"
 related: ["risk-consultant-interview", "risk-consultant-in-20s", "risk-consultant-company-size", "post-consultant-skills", "pmo-consultant-skills"]
 ---
@@ -28,6 +29,11 @@ related: ["risk-consultant-interview", "risk-consultant-in-20s", "risk-consultan
 これら3つは相互に重なり合うため、専門性を深めながらも隣接領域への理解を持つことが市場価値を左右する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-skills">キャリアを相談する</a>
+</aside>
 
 ## スキルの全体像と優先順位
 
@@ -114,6 +120,11 @@ DXの加速に伴い、ITシステムやデータに関するリスクをガバ�
 このパターンが示すのは、専門知識と分析スキルが「入口」として機能し、コミュニケーション系スキルが「成長余地」として評価される、というキャリアの構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=risk-consultant-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

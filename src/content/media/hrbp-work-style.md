@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["人事", "働き方"]
 pubDate: 2026-07-04
 slug: "hrbp-work-style"
+hub: "hrbp"
 image: "/images/media/hrbp-work-style.png"
 related: ["hrbp-salary", "hrbp-career-path", "hrbp-certification", "platform-engineer-work-style", "data-consultant-work-style"]
 ---
@@ -31,6 +32,11 @@ related: ["hrbp-salary", "hrbp-career-path", "hrbp-certification", "platform-eng
 採用担当が選考シーズンに週60時間超の稼働になることがある一方、制度設計を専門とする人材開発担当が閑散期に比較的余裕を持つ、という光景は同じ人事部門内でも起こり得ます。転職時に「人事の働き方」を一括りに評価することは、構造的に難しいといえます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 組織規模別の負荷構造
 
@@ -95,6 +101,11 @@ HRBPは人事部門に籍を置きながら、担当事業部門の経営課題�
 フルリモートを実現している人事職は存在しますが、上記のような対面残存業務があるため、「週1〜2日程度の出社を前提としたハイブリッド」が現実的な着地点として多く採用されています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

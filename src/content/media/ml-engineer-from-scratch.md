@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["機械学習エンジニア", "未経験転職"]
 pubDate: 2026-07-04
 slug: "ml-engineer-from-scratch"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-from-scratch.png"
 related: ["ml-engineer-in-20s", "ml-engineer-career-path", "ml-engineer-salary-600", "network-engineer-from-scratch", "data-consultant-from-scratch"]
 ---
@@ -31,6 +32,11 @@ related: ["ml-engineer-in-20s", "ml-engineer-career-path", "ml-engineer-salary-6
 未経験からの転職では、リサーチ寄りの役割に直接入ることは現実的に難しい傾向があります。一方でエンジニアリング寄り・データ寄りの役割は、ソフトウェアエンジニアやデータエンジニアとしての経験を足がかりにしやすい構造です。自分がどのタイプを目指すかを早期に絞ることが、学習効率と採用確率の両方に影響します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-from-scratch">無料で相談する</a>
+</aside>
 
 ## 必要スキルの全体像と優先順位
 
@@ -99,6 +105,11 @@ MLエンジニアの年収水準は、企業フェーズ・役割・スキルセ
 外資系ファンド出資先や大手IT企業では、シニア職を中心に上記を大幅に上回るケースもあります。スタートアップでは年収がやや抑えられる代わりに成長機会が提供される場合もあり、一律の比較は難しい状況です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

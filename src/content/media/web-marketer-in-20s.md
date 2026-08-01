@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["Webマーケター", "20代転職"]
 pubDate: 2026-07-04
 slug: "web-marketer-in-20s"
+hub: "web-marketer"
 image: "/images/media/web-marketer-in-20s.png"
 related: ["web-marketer-work-style", "web-marketer-english", "web-marketer-failure", "ma-advisor-in-20s", "enterprise-sales-in-20s"]
 ---
@@ -20,6 +21,11 @@ Webマーケティング職は、職種の性質上スキルの幅が広い。SE
 20代が転職市場に出る際、この構造を理解していないと軸がぼけやすい。「マーケティングをやりたい」という動機だけでは、面接で想定される質問に答えにくくなる。自分がどの領域のどの業務から入りたいのかを、ある程度言語化した状態で活動を始めることが、選考通過率に影響する傾向がある。
 
 需要面では、デジタルマーケティング人材の不足は依然として続いている。特に中規模以下のSaaS企業・EC企業・メディア企業では、即戦力が少ない分、ポテンシャル採用に前向きな企業も一定数存在する。ただし「ポテンシャル採用」は採用コストを抑えた採用形態であるため、初年度年収が現職を下回るケースも少なくない。これを事前に認識しているかどうかが、転職活動の方針設計に大きく関わる。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-in-20s">無料キャリア面談を予約する</a>
+</aside>
 
 ## ポテンシャル採用で企業が実際に見ているもの
 
@@ -75,6 +81,11 @@ Webマーケティングは数値を扱う職種であり、データから示�
 **入社後の動き：** 最初の3か月は既存のリード獲得施策の数値を分析することに時間を使い、施策の改善提案を月次でまとめた。営業経験があるため、マーケが生成するリードの質をビジネスサイドの視点で言語化できた点が評価された。1年後には広告予算の一部を任されるポジションに移行している。
 
 このパターンが示すのは、「営業経験がある＝Webマーケターとして有利」という単純な話ではなく、「現職の経験をマーケティングの文脈で語り直せているかどうか」が採用に関与するという構造だ。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

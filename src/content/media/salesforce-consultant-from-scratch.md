@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["Salesforceコンサルタント", "未経験転職"]
 pubDate: 2026-07-05
 slug: "salesforce-consultant-from-scratch"
+hub: "salesforce-consultant"
 image: "/images/media/salesforce-consultant-from-scratch.png"
 related: ["salesforce-consultant-skills", "salesforce-consultant-english", "salesforce-consultant-in-30s", "hrbp-from-scratch", "digital-marketer-from-scratch"]
 ---
@@ -24,6 +25,11 @@ Salesforceコンサルタントとは、CRMプラットフォームであるSale
 - **運用・定着フェーズ**：トレーニング、運用ルール整備、改善提案
 
 所属する組織によって担当範囲は異なります。SIer・コンサルティングファームではプロジェクト型で全フェーズを経験しやすく、SaaS系ベンダーやスタートアップでは特定フェーズに特化したロールを担うケースが多い傾向があります。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## 必要なスキルセットの全体像
 
@@ -96,6 +102,11 @@ Salesforceコンサルタントの年収は、経験年数・保有資格・ポ�
 | フリーランス（稼働率次第） | 実案件3年以上が目安 | 単価80〜150万円/月前後 |
 
 未経験での入社初年度は、IT業界の平均的な水準からスタートし、資格取得・実案件の経験積み上げとともに段階的に上昇していく構造です。フリーランス転向は、案件を自力で獲得できる実績とネットワークが形成されて初めて現実的な選択肢になります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=salesforce-consultant-from-scratch">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

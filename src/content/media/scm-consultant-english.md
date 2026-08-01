@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["SCM・調達コンサルタント", "英語力"]
 pubDate: 2026-07-04
 slug: "scm-consultant-english"
+hub: "scm-consultant"
 image: "/images/media/scm-consultant-english.png"
 related: ["scm-consultant-in-30s", "scm-consultant-from-scratch", "scm-consultant-motivation", "cto-vpoe-english", "data-consultant-english"]
 ---
@@ -28,6 +29,11 @@ SCM・調達コンサルタントという職種は一括りに語られやす�
 ### 英語の関与が低い領域
 
 国内調達・国内物流の効率化、中堅・中小企業向けのオペレーション改善、BPR（業務改革）プロジェクトでは、英語が直接必要になる場面は限られる傾向があります。国内サプライヤーとの交渉支援、在庫管理の仕組み構築、需給計画の精度向上といった案件では、日本語でのコミュニケーション能力とデータ分析スキルが中心的な要件になります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-english">無料で相談する</a>
+</aside>
 
 ## 英語力と求人・年収の相関
 
@@ -76,6 +82,11 @@ Aさんは当時TOEIC 680点相当で、英語の会議経験はほぼありま�
 - データ分析・可視化スキル（Pythonや高度なExcel、BIツール）
 
 英語力×専門スキルの掛け合わせが、求人・年収における実質的な差別化要因になります。どちらか一方だけでは、外資系グローバル案件で高い評価を得るのは難しい側面があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=scm-consultant-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

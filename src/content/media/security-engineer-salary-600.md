@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["セキュリティエンジニア", "年収600万"]
 pubDate: 2026-07-04
 slug: "security-engineer-salary-600"
+hub: "security-engineer"
 image: "/images/media/security-engineer-salary-600.png"
 related: ["security-engineer-how-to-use-agent", "security-engineer-salary", "security-engineer-from-scratch", "post-consultant-salary-600", "embedded-engineer-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["security-engineer-how-to-use-agent", "security-engineer-salary", "sec
 また、同じ「セキュリティエンジニア」という職種名でも、SIer・MSS（マネージドセキュリティサービス）事業者・事業会社のセキュリティ部門・コンサルティングファーム・外資系ベンダーでは報酬体系が大きく異なります。在籍先の構造を理解することが、壁を意識する最初のステップです。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-salary-600">無料で相談する</a>
+</aside>
 
 ## 年収600万円で止まりやすい構造的な理由
 
@@ -96,6 +102,11 @@ IPAの情報処理安全確保支援士やCISSPなどの資格は、一定の知
 この型において共通しているのは、「何をやったか」から「何を変えたか・何を設計したか」への記述の転換と、ジョブ型評価制度を採用している企業への転職という二点です。年功的な給与テーブルが残る企業では、スキルが高くても評価が追いつかない構造が生じやすいため、制度選択そのものが重要になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

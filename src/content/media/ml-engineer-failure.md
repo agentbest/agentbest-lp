@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["機械学習エンジニア", "転職失敗"]
 pubDate: 2026-07-04
 slug: "ml-engineer-failure"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-failure.png"
 related: ["ml-engineer-interview", "ml-engineer-company-size", "ml-engineer-career-path", "thinktank-failure", "finance-failure"]
 ---
@@ -77,6 +78,11 @@ related: ["ml-engineer-interview", "ml-engineer-company-size", "ml-engineer-care
 
 ---
 
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-failure">無料で相談する</a>
+</aside>
+
 ## 転職前・選考中・内定後のフェーズ別チェックリスト
 
 以下は、転職活動の各フェーズで確認すべき項目をまとめたものだ。チェックリストは「確認できた」ではなく「回答の内容が納得できた」を基準にする。
@@ -115,6 +121,11 @@ related: ["ml-engineer-interview", "ml-engineer-company-size", "ml-engineer-care
 **この事例から学べること：** ポジションの魅力を説明する言葉が多い企業ほど、「では実際の一日の業務はどのように構成されているか」という具体的な問いを返すことが有効だ。現場エンジニアとの対話の場を設けることを、選考受諾の条件のひとつとして考えることも選択肢に入る。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["CTO・VPoE候補", "働き方"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-work-style"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-work-style.png"
 related: ["cto-vpoe-interview", "cto-vpoe-resume", "cto-vpoe-salary-600", "ml-engineer-work-style", "freelance-consultant-work-style"]
 ---
@@ -24,6 +25,11 @@ CTOは技術戦略・アーキテクチャ方針・外部への技術ブラン�
 どちらも「候補」段階では、現行の技術責任者の下でこれらの職務を学習・代替できる状態に至ることが期待される。つまり、通常のシニアエンジニアよりも経営的意思決定への関与が早期に求められる点が、働き方の負荷に直結する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-work-style">無料キャリア面談を予約する</a>
+</aside>
 
 ## 激務度のリアル：忙しい理由は「量」より「質」にある
 
@@ -95,6 +101,11 @@ CTO・VPoE候補の職位では、一般職と比較してリモート勤務の�
 このような週構造では、集中してコードを書く時間は実質的にゼロに近くなる。技術的なキャッチアップはプライベートの時間か、業務上の緊急案件での参戦に限られる傾向がある。「コードを書き続けたい」という志向性が強い場合は、VPoEよりもスタッフエンジニア・プリンシパルエンジニアのキャリアラインが適合しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-work-style">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

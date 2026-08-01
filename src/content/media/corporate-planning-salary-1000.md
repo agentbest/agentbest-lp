@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["経営企画", "年収1000万"]
 pubDate: 2026-07-04
 slug: "corporate-planning-salary-1000"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-salary-1000.png"
 related: ["corporate-planning-company-size", "corporate-planning-how-to-use-agent", "corporate-planning-motivation", "it-consultant-salary-1000", "digital-marketer-salary-1000"]
 ---
@@ -32,6 +33,11 @@ related: ["corporate-planning-company-size", "corporate-planning-how-to-use-agen
 この表から読み取れる重要な点が二つある。一つは、マネージャー層においてすでに1,000万円に届くケースが存在すること。もう一つは、同じマネージャーであっても企業の規模・業種・報酬体系によって数百万円単位の差が生じやすいことである。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリアの構造
 
@@ -103,6 +109,11 @@ IPOを目指す成長フェーズの企業で経営企画の立ち上げを担�
 - **財務・数値への向き合いを避ける**：事業計画・バリュエーション・資本政策への理解が浅いと、CFOラインやM&A担当との協働機会が得られにくく、役割の幅が広がりにくい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

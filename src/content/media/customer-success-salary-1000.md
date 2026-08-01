@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["カスタマーサクセス", "年収1000万"]
 pubDate: 2026-07-03
 slug: "customer-success-salary-1000"
+hub: "customer-success"
 image: "/images/media/customer-success-salary-1000.png"
 related: ["customer-success-from-scratch", "customer-success-english", "customer-success-market-trend", "hr-consultant-salary-1000", "sap-consultant-salary-1000"]
 ---
@@ -30,6 +31,11 @@ CS職の年収は、担当業務・グレード・企業フェーズによって
 表から読み取れる通り、IC（個人貢献者）のままで1,000万円に到達するケースは、エンタープライズ専門のシニアCSMや特定のプロダクト知識が深いスペシャリストに限られる傾向がある。多くの場合、マネージャー以上のグレードへの昇格、または事業全体の責任範囲を担うポジションへの移行が現実的な経路となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 年収1,000万円に到達するCS職の3つの経路
 
@@ -94,6 +100,11 @@ CSのシニアポジションほど、部門横断的な影響力が求められ
 この経路に共通するのは、「CSのスコープを広げながら、数値で結果を語れる実績を積んでいる」点と、「各転職で役割の難易度が明確に上がっている」点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=customer-success-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

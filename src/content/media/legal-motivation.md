@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["法務", "志望動機"]
 pubDate: 2026-07-04
 slug: "legal-motivation"
+hub: "legal"
 image: "/images/media/legal-motivation.png"
 related: ["legal-salary-1000", "legal-salary-600", "legal-future", "erp-consultant-motivation", "risk-consultant-motivation"]
 ---
@@ -18,6 +19,11 @@ related: ["legal-salary-1000", "legal-salary-600", "legal-future", "erp-consulta
 法務職の選考は、他職種と比較しても「論理の一貫性」と「言語化能力」が厳しく評価される傾向にある。契約書のレビュー、社内規程の整備、訴訟対応、コンプライアンス推進——いずれの業務においても、事実を正確に把握し、論拠を明確にして相手に伝える力が日常的に求められるからだ。
 
 志望動機は、その能力を最初に示す場面でもある。採用担当者は内容の真偽だけでなく、「この人は自分の考えを整理して言語化できるか」「論理に飛躍がないか」を志望動機の文章そのものから読み取ろうとする。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の3つの構成要素
 
@@ -82,6 +88,11 @@ related: ["legal-salary-1000", "legal-salary-600", "legal-future", "erp-consulta
 4. **成長イメージの提示**: 法律事務所等の外部専門家と連携しながら専門性を深め、将来的に契約法務から事業法務へと領域を広げたいという志向を加える
 
 このように、「法務の知識があるから法務職を志望する」ではなく、「ビジネス経験の中から必然的に法務への志向が生まれた」という構造にすることで、説得力が増す。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=legal-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

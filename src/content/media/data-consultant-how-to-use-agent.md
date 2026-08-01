@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["データ・アナリティクスコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-05
 slug: "data-consultant-how-to-use-agent"
+hub: "data-consultant"
 image: "/images/media/data-consultant-how-to-use-agent.png"
 related: ["data-consultant-company-size", "data-consultant-work-style", "data-consultant-failure", "cto-vpoe-how-to-use-agent", "enterprise-sales-how-to-use-agent"]
 ---
@@ -45,6 +46,11 @@ DAコンサルタントは技術スキルとビジネススキルが混在する
 こうした要素を適切に組み合わせた書類を作成するには、その職種の選考を熟知した人物からのフィードバックが有効に機能しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## エージェント選びで確認すべき3つの軸
 
@@ -117,6 +123,11 @@ DAコンサルタントの年収は、経験・スキル・転職先のタイプ
 **結果：** 応募した独立系データコンサル・事業会社の戦略データ組織の双方で最終選考へ進み、希望条件に近い形での内定を獲得。自力での転職活動では言語化できていなかった「ビジネス課題の定義力」を強みとして前面に出せたことが評価されたと、入社後のフォローアップで確認された。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

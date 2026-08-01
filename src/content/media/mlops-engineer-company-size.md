@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["MLOpsエンジニア", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-company-size"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-company-size.png"
 related: ["mlops-engineer-english", "mlops-engineer-motivation", "mlops-engineer-market-trend", "fullstack-engineer-company-size", "enterprise-sales-company-size"]
 ---
@@ -32,6 +33,11 @@ MLOpsエンジニアというポジションは、機械学習モデルの開発
 ただし、大規模なデータと本番トラフィックに触れられる環境は、スタートアップでは再現しにくい。何十億件ものデータを扱う特徴量エンジニアリング基盤の運用や、数百モデルを並行管理するモデルレジストリの設計は、大手でしか得づらい経験値と言える。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-company-size">キャリアを相談する</a>
+</aside>
 
 ## スタートアップのMLOps環境：何が得られ、何が足りないか
 
@@ -94,6 +100,11 @@ Bの場合、データパイプラインとモデルサービングの仕組み�
 この分岐において重要なのは「現時点でMLOpsの基本的な技術判断を自力でできるか」という自己評価である。自力での判断に自信がある場合、Bの加速度的な成長環境が市場価値を大きく伸ばしやすい。逆に、スキルセットの穴をまず埋めたい段階であれば、Aの構造化された環境の方が中長期のキャリア形成に資しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-company-size">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

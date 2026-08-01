@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["マーケティングマネージャー", "年収相場"]
 pubDate: 2026-07-04
 slug: "marketing-manager-salary"
+hub: "marketing-manager"
 image: "/images/media/marketing-manager-salary.png"
 related: ["marketing-manager-resume", "marketing-manager-interview", "marketing-manager-in-20s", "data-scientist-salary", "solution-architect-salary"]
 ---
@@ -31,6 +32,11 @@ related: ["marketing-manager-resume", "marketing-manager-interview", "marketing-
 | 国内スタートアップ（シード〜Series A） | 500〜750万円 | 固定給は抑制、SOで補完する設計が多い |
 
 この表はあくまで市場の傾向を示す目安であり、個人の経験・スキルセット・交渉経緯によって実際の条件は変動します。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-salary">無料で相談する</a>
+</aside>
 
 ## 年代別の年収実態と求められるケイパビリティ
 
@@ -83,6 +89,11 @@ SEO・SEM・CRM等の特定チャネルの専門性だけでは、マネージ�
 > 外資系SaaS企業への転職活動において、「年間マーケティング予算2億円の管理・MQL前年比150%成長への貢献・MAツール導入のPMO経験」を具体的なROI付きで提示。結果、シニアマーケティングマネージャーのポジション（年収980万円）にて採用。
 
 このケースのポイントは、スキルの列挙ではなく「予算規模」「数値インパクト」「意思決定の範囲」を定量的に示した点にあります。マーケティング職種は成果の定量化が難しいと言われますが、逆に言えば、定量化できるマネージャーは相対的に希少であり、選考上の優位性を持ちやすい傾向があります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=marketing-manager-salary">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "大手vsスタートアップ"
 tags: ["パートナーセールス／アライアンス", "大手vsスタートアップ"]
 pubDate: 2026-07-04
 slug: "partner-sales-company-size"
+hub: "partner-sales"
 image: "/images/media/partner-sales-company-size.png"
 related: ["partner-sales-resume", "partner-sales-skills", "partner-sales-career-guide", "db-engineer-company-size", "risk-consultant-company-size"]
 ---
@@ -20,6 +21,11 @@ related: ["partner-sales-resume", "partner-sales-skills", "partner-sales-career-
 求められる能力としては、パートナー企業との関係構築・維持、共同事業計画（ビジネスプラン）の策定と進捗管理、社内の製品・マーケティング・法務・フィールドセールス各部門との連携、そしてエコシステム全体を見渡す視野が挙げられる。
 
 この職種では「人的ネットワーク」が最重要資産のひとつとなるため、どの環境でネットワークを構築するかという選択が、後のキャリアに対して構造的な影響を持つ。それが、入社先の規模選択を単なる「年収・待遇の比較」に留めてはならない理由でもある。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-company-size">無料キャリア面談を予約する</a>
+</aside>
 
 ## 大手企業のパートナーセールス／アライアンス
 
@@ -91,6 +97,11 @@ related: ["partner-sales-resume", "partner-sales-skills", "partner-sales-career-
 転職後は、パートナー採用基準の策定、契約書ひな形の整備、パートナーポータルの導入、セールスイネーブルメント資料の作成まで一手に担うことになった。業務範囲は前職比で大きく拡大し、負荷も増加したが、2年後には同部門のマネージャーとして採用面接や戦略立案まで担う立場となった。
 
 このケースが示すのは、「大手での運用経験」と「スタートアップでの設計経験」の組み合わせが、アライアンス人材としての市場価値形成に寄与しやすいという構造である。どちらか一方に偏るよりも、異なる環境での経験を意図的に組み合わせるキャリア設計が、長期的には有効に機能しやすい。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=partner-sales-company-size">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

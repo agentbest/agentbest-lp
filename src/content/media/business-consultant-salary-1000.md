@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["業務コンサルタント", "年収1000万"]
 pubDate: 2026-07-04
 slug: "business-consultant-salary-1000"
+hub: "business-consultant"
 image: "/images/media/business-consultant-salary-1000.png"
 related: ["business-consultant-future", "business-consultant-work-style", "business-consultant-in-30s", "platform-engineer-salary-1000", "fullstack-engineer-salary-1000"]
 ---
@@ -30,6 +31,11 @@ related: ["business-consultant-future", "business-consultant-work-style", "busin
 | 個人事業・フリーランス | ― | 500〜1,500万円台（稼働・単価次第） |
 
 大手ファームにおいては、マネージャー職位への昇格が年収1,000万円到達の大きな分岐点になりやすいといえます。一方、独立系ファームやフリーランスでは、案件単価と稼働量の設計次第で到達時期が変動するため、職位よりも「市場での需給バランス」が規定要因になる傾向があります。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-salary-1000">無料で相談する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアパターン
 
@@ -87,6 +93,11 @@ related: ["business-consultant-future", "business-consultant-work-style", "busin
 ### 上位職位・グレードの要件を把握した上で動く
 
 在籍中のファームや次の転職先で想定されるマネージャー・シニアマネージャー相当の役割・評価要件を早期に把握し、そこに逆算した形でプロジェクト選びや成果の積み上げを設計することが重要です。漠然と経験を積むより、「このプロジェクトで何を主導し、何を成果として定義するか」を事前に設計する姿勢が、評価の精度を高めます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

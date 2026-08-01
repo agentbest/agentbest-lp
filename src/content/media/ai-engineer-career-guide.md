@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["AIエンジニア", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "ai-engineer-career-guide"
+hub: "ai-engineer"
 image: "/images/media/ai-engineer-career-guide.png"
 related: ["ai-engineer-resume", "ai-engineer-salary-1000", "ai-engineer-interview", "data-consultant-career-guide", "platform-engineer-career-guide"]
 ---
@@ -36,6 +37,11 @@ AIエンジニアの転職市場は、他の職種と比較して明らかに売
 生成AIの普及に伴い、大規模言語モデル（LLM）を活用したシステム開発を専門とするポジションが急増しています。RAG（Retrieval-Augmented Generation）の設計・実装、プロンプトエンジニアリングの体系化、LLMの評価基盤の構築などが主な業務です。従来のMLエンジニアとは求められるスキルセットが一部異なるため、ソフトウェアエンジニアからの転身事例も増えています。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## AIエンジニアの市場価値と年収の目安
 
@@ -106,6 +112,11 @@ AIエンジニアの技術面接は、コーディングテスト・機械学習
 AI領域への転職は「ゼロからの全面転換」よりも「既存の強みとの組み合わせ」で市場価値が出やすい構造があります。自分のバックグラウンドをどう活かすか設計することが、転職成功の鍵になります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ai-engineer-career-guide">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["エンジニアリングマネージャー", "必要スキル"]
 pubDate: 2026-07-04
 slug: "engineering-manager-skills"
+hub: "engineering-manager"
 image: "/images/media/engineering-manager-skills.png"
 related: ["engineering-manager-company-size", "engineering-manager-salary-1000", "engineering-manager-interview", "backend-engineer-skills", "security-consultant-skills"]
 ---
@@ -27,6 +28,11 @@ EMのスキルは大きく四つの領域に分類できる。
 これら四領域は独立しているわけではなく、相互に補完し合う。たとえばピープルマネジメントの精度は、技術的文脈を理解していないと大きく落ちる。成長の機会をメンバーに正確に示すには、技術ロードマップや事業の方向性を把握していることが前提になるからだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-skills">無料で相談する</a>
+</aside>
 
 ## スキル別の市場価値への影響度
 
@@ -96,6 +102,11 @@ EMがプロダクトマネージャー（PM）と連携する際、双方の役�
 このパターンから示唆されるのは、EMのスキル転換は「捨てる・拡張する・新たに習得する」の三層で進むという点である。技術的な深さを完全に捨てることなく、マネジメントと事業理解を拡張しながら、プロセス設計や組織調整を新たに身につけていく構造が多く見られる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=engineering-manager-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["データサイエンティスト", "年収1000万"]
 pubDate: 2026-07-04
 slug: "data-scientist-salary-1000"
+hub: "data-scientist"
 image: "/images/media/data-scientist-salary-1000.png"
 related: ["data-scientist-failure", "data-scientist-motivation", "data-scientist-salary", "hrbp-salary-1000", "ai-engineer-salary-1000"]
 ---
@@ -31,6 +32,11 @@ related: ["data-scientist-failure", "data-scientist-motivation", "data-scientist
 重要なのは、この水準に到達するかどうかが「年数の積み上げ」ではなく、「貢献の可視化」と「希少性の確保」によって決まる点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円に到達しやすい環境の特徴
 
@@ -89,6 +95,11 @@ related: ["data-scientist-failure", "data-scientist-motivation", "data-scientist
 この型において共通しているのは、「スキルの深さ」に加え「実績の言語化」と「適切な市場（外資・ベンチャー）への接続」という2点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["開発ディレクター", "必要スキル"]
 pubDate: 2026-07-04
 slug: "dev-director-skills"
+hub: "dev-director"
 image: "/images/media/dev-director-skills.png"
 related: ["dev-director-in-20s", "dev-director-english", "dev-director-work-style", "fullstack-engineer-skills", "ma-advisor-skills"]
 ---
@@ -22,6 +23,11 @@ related: ["dev-director-in-20s", "dev-director-english", "dev-director-work-styl
 共通するのは「開発チームと事業・経営の接点に立つ」という機能である。エンジニアリングの実務を直接担うわけではなく、かつ純粋な事業側でもない。その中間に位置するため、求められるスキルセットは技術と経営の双方に足がかかり、それが職種としての難度と市場希少性を生む。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-skills">無料で相談する</a>
+</aside>
 
 ## スキル三領域と市場価値への影響度
 
@@ -117,6 +123,11 @@ PM・PMO出身のパターンに相当する。進行管理・関係者調整は
 スキルポートフォリオの充実度が、同一企業内でもどのレンジに着地するかに大きく影響する。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dev-director-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

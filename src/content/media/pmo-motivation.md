@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["PMO", "志望動機"]
 pubDate: 2026-07-04
 slug: "pmo-motivation"
+hub: "pmo"
 image: "/images/media/pmo-motivation.png"
 related: ["pmo-career-path", "pmo-interview", "pmo-resume", "business-consultant-motivation", "dx-consultant-motivation"]
 ---
@@ -26,6 +27,11 @@ PMOの志望動機は、「プロジェクト管理に興味があります」�
 | ダイレクティブ型PMO | プロジェクトへの直接関与・PM機能の代替 | リーダーシップ・意思決定力・PM実務経験 |
 
 応募先がどの類型に近いかを求人票・面接で確認し、そこに必要とされる要素と自分の経験を対応させることが、説得力のある志望動機の出発点となる。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-motivation">キャリアを相談する</a>
+</aside>
 
 ## 評価される志望動機の構造
 
@@ -104,6 +110,11 @@ PMOへの転職は、前職の職種によって強調すべき点が異なる�
 | 業務コンサル（非IT） | 業務改善・変革管理の経験 | システム・IT領域の理解度 |
 
 自分の経験の「強み」と「補完が必要な部分」を自覚したうえで、補完部分に対する学習意欲や補完策を志望動機の末尾に自然な形で盛り込むと、誠実さと自己分析力の両方を示すことができる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-motivation">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

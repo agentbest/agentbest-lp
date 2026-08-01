@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["M&Aアドバイザー", "将来性"]
 pubDate: 2026-07-04
 slug: "ma-advisor-future"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-future.png"
 related: ["ma-advisor-interview", "ma-advisor-skills", "ma-advisor-failure", "digital-marketer-future", "fullstack-engineer-future"]
 ---
@@ -35,6 +36,11 @@ M&Aアドバイザーには大きく二つの類型がある。
 仲介型はマッチングプラットフォームやAIとの競合が生じやすく、FA型は高度な専門性と信頼関係が参入障壁になる。この差が、将来性を考えるうえでの核心的な論点となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-future">無料で相談する</a>
+</aside>
 
 ## AIが代替しやすい領域と、そうでない領域
 
@@ -112,6 +118,11 @@ M&Aアドバイザーの報酬は、雇用形態・勤務先の類型・実績�
 仲介型は固定給＋案件成功報酬のインセンティブ構造が一般的で、案件数と単価がそのまま収入に反映されやすい。FA型は大型案件への関与度合いが年収変動の主因となる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["採用担当", "市場動向"]
 pubDate: 2026-07-04
 slug: "recruiter-market-trend"
+hub: "recruiter"
 image: "/images/media/recruiter-market-trend.png"
 related: ["recruiter-salary", "recruiter-how-to-use-agent", "recruiter-english", "ml-engineer-market-trend", "product-manager-market-trend"]
 ---
@@ -26,6 +27,11 @@ related: ["recruiter-salary", "recruiter-how-to-use-agent", "recruiter-english",
 **リモート・分散組織の定着**：採用対象エリアが全国・海外へと広がるにつれ、候補者との関係構築やオンボーディングの設計力が採用担当のコア業務として認識されるようになっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## 求人数とニーズの分布：どのセグメントで採用が活発か
 
@@ -88,6 +94,11 @@ IT・SaaS領域では、採用担当としての経験が2〜5年あり、エン
 **生成AI・ATS活用の実務経験を積む**：採用業務における自動化・効率化の議論は実務レベルで進んでいる。AIを活用した候補者スクリーニングや求人票の改善、ATSを使ったデータ集計・分析の経験は、2026年時点での採用担当としての付加価値として言及できるポイントになりつつある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-market-trend">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

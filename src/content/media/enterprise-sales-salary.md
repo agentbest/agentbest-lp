@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["エンタープライズセールス", "年収相場"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-salary"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-salary.png"
 related: ["enterprise-sales-how-to-use-agent", "enterprise-sales-company-size", "enterprise-sales-motivation", "tech-lead-salary", "data-engineer-salary"]
 ---
@@ -32,6 +33,11 @@ related: ["enterprise-sales-how-to-use-agent", "enterprise-sales-company-size", 
 上記はあくまで相場感の目安であり、雇用企業の規模・資金調達フェーズ・業種によって変動します。外資系ソフトウェア企業では同ポジションでも上振れする傾向があり、国内SaaS企業では固定給比率が高め・変動幅が小さめの設計が多く見られます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-salary">キャリアを相談する</a>
+</aside>
 
 ## 20代のエンタープライズセールス年収
 
@@ -108,6 +114,11 @@ related: ["enterprise-sales-how-to-use-agent", "enterprise-sales-company-size", 
 エンタープライズセールスとして蓄積したスキル（マルチスレッド商談管理・エグゼクティブエンゲージメント・パイプライン予測精度など）を言語化し、転職市場での評価を定期的に確認することも有効です。市場価値を把握しておくことは、現職での待遇改善交渉の根拠にもなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

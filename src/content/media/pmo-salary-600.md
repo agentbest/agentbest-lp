@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["PMO", "年収600万"]
 pubDate: 2026-07-04
 slug: "pmo-salary-600"
+hub: "pmo"
 image: "/images/media/pmo-salary-600.png"
 related: ["pmo-in-20s", "pmo-motivation", "pmo-company-size", "partner-sales-salary-600", "post-consultant-salary-600"]
 ---
@@ -25,6 +26,11 @@ PMO職の年収は、経験年数・業種・雇用形態・組織規模によ�
 | PMOリード／マネジャー | 戦略レイヤーとの連携・人材育成・経営報告 | 800万〜1,200万円程度 |
 
 このレンジを前提にすると、600万円は「ミドルとシニアの境界付近」に位置します。経験を重ねれば自然に到達できるように見える水準ですが、実際には多くのPMO担当者がこのあたりで昇給が鈍化する傾向があります。その背景には、PMOという職種に固有の評価構造上の難しさがあります。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-salary-600">無料キャリア面談を予約する</a>
+</aside>
 
 ## 600万円の壁になりやすい3つの構造的要因
 
@@ -83,6 +89,11 @@ SIer勤務・経験5年・現年収520万円。PMO業務として進捗管理・
 
 **【結果の傾向】**
 この類型では、役割の格上げを伴うオファーで年収600万〜700万円台に到達するケースが見られます。転職先の事業ステージや業界によって幅があるため、複数社のオファーを比較検討することが重要です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=pmo-salary-600">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

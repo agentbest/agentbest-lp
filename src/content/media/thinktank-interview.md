@@ -7,6 +7,7 @@ theme: "面接対策"
 tags: ["シンクタンク研究員", "面接対策"]
 pubDate: 2026-07-05
 slug: "thinktank-interview"
+hub: "thinktank"
 image: "/images/media/thinktank-interview.png"
 related: ["thinktank-motivation", "thinktank-resume", "thinktank-skills", "customer-success-interview", "fullstack-engineer-interview"]
 ---
@@ -26,6 +27,11 @@ related: ["thinktank-motivation", "thinktank-resume", "thinktank-skills", "custo
 特に注意すべきは三点目である。シンクタンクは組織規模が比較的小さく、チームの専門性が明確に分かれている場合が多い。「優秀であれば誰でも歓迎」ではなく、「今この組織が必要としているピースに合致するか」が選考の実質的な基準になりやすい。応募前の組織研究を怠ると、いかに質の高い回答をしても空振りに終わることがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-interview">キャリアを相談する</a>
+</aside>
 
 ## 面接の構造と評価フェーズの目的
 
@@ -100,6 +106,11 @@ related: ["thinktank-motivation", "thinktank-resume", "thinktank-skills", "custo
 この事例が示す本質は、「研究者らしく見せる」ことではなく、**自身の経験をシンクタンクの評価軸に翻訳する**ことにある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-interview">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

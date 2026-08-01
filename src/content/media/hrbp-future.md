@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["人事", "将来性"]
 pubDate: 2026-07-04
 slug: "hrbp-future"
+hub: "hrbp"
 image: "/images/media/hrbp-future.png"
 related: ["hrbp-market-trend", "hrbp-career-path", "hrbp-how-to-use-agent", "salesforce-consultant-future", "product-manager-future"]
 ---
@@ -26,6 +27,11 @@ AI・デジタル化の進展により、採用管理や給与計算といった
 この三層の中で、自動化・AI化の影響を最も直接的に受けるのはオペレーション層である。クラウド型の人事管理システムやRPAの普及により、従来は専任担当者が何日もかけて行っていた作業が大幅に効率化されてきた。一方、戦略・パートナー層は自動化が最も困難な領域であり、ここへの移行が人事パーソンの将来性を左右する分岐点になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-future">無料キャリア面談を予約する</a>
+</aside>
 
 ## AI・デジタル化が変える人事業務の構造
 
@@ -91,6 +97,11 @@ HRテックツールの導入・選定プロセスへの関与は、IT・SaaS領
 このような移行は、単なる職種変更ではなく、**人事が事業パートナーとして機能できるという実証**を積み重ねたプロセスである。再現性の高い条件は「事業側との接点」「提案の結果を数値で追った経験」「人事施策の因果を説明した実績」の三点に集約されやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-future">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "英語力"
 tags: ["クラウドエンジニア", "英語力"]
 pubDate: 2026-07-04
 slug: "cloud-engineer-english"
+hub: "cloud-engineer"
 image: "/images/media/cloud-engineer-english.png"
 related: ["cloud-engineer-how-to-use-agent", "cloud-engineer-certification", "cloud-engineer-salary", "data-consultant-english", "enterprise-sales-english"]
 ---
@@ -26,6 +27,11 @@ AWS・Google Cloud・Microsoft Azureに代表される主要クラウドプラ�
 この構造を踏まえると、英語力はクラウドエンジニアにとって「業務コミュニケーションの手段」である前に、「技術情報へのアクセス手段」として機能しているといえる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-english">無料キャリア面談を予約する</a>
+</aside>
 
 ## 英語力レベル別：求人と業務範囲の変化
 
@@ -96,6 +102,11 @@ GitHubでのIssueコメントや、Stack Overflowでの質問・回答を英語�
 外資系企業への転職においては、「読み書きはできるが会話が弱い」という状態で選考に臨むと、面接でパフォーマンスが出づらい傾向がある。技術的な内容を英語で口頭説明する訓練を、転職活動の準備期間に組み込むことが望ましい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cloud-engineer-english">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

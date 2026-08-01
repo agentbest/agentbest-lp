@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["セキュリティコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "security-consultant-how-to-use-agent"
+hub: "security-consultant"
 image: "/images/media/security-consultant-how-to-use-agent.png"
 related: ["security-consultant-work-style", "security-consultant-company-size", "security-consultant-future", "hr-consultant-how-to-use-agent", "strategy-consultant-how-to-use-agent"]
 ---
@@ -32,6 +33,11 @@ related: ["security-consultant-work-style", "security-consultant-company-size", 
 セキュリティコンサルタントの年収は、専門領域・グレード・ファームの規模・プロジェクト収益性などによって幅が大きく、相場観が見えにくい職種です。自己申告で交渉する場合、市場水準より低い条件で合意してしまうリスクがあります。エージェントは複数の成約実績から相場感を持っており、候補者が提示すべき年収レンジの根拠を持った形で交渉を代行できます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントの選び方：5つの評価軸
 
@@ -72,6 +78,11 @@ related: ["security-consultant-work-style", "security-consultant-company-size", 
 **第三に、ファームのカルチャーフィットの事前確認です。** セキュリティコンサルタントを抱えるファームは、戦略系・総合系・テクノロジー系・専門ブティック系と多様です。プロジェクトの性質（インシデント対応が多いか、ガバナンス支援が多いか、技術アーキテクチャ設計が多いか）や、上流フェーズの関与度もファームによって異なります。エージェントを通じてこうした内部情報を事前に収集できるかどうかは、入社後のミスマッチ防止に直結します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-consultant-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

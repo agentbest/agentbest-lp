@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["デジタルマーケター", "転職失敗"]
 pubDate: 2026-07-04
 slug: "digital-marketer-failure"
+hub: "digital-marketer"
 image: "/images/media/digital-marketer-failure.png"
 related: ["digital-marketer-in-30s", "digital-marketer-in-20s", "digital-marketer-skills", "data-engineer-failure", "frontend-engineer-failure"]
 ---
@@ -22,6 +23,11 @@ related: ["digital-marketer-in-30s", "digital-marketer-in-20s", "digital-markete
 加えて、ツールや手法の変化が速い領域であるため、前職での実績が次の職場でそのまま通用するとは限りません。この前提を踏まえずに転職を進めると、「思っていた仕事と違う」「成果を出せる環境がない」という事態に陥りやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-failure">無料キャリア面談を予約する</a>
+</aside>
 
 ## 失敗パターンの類型と構造的な原因
 
@@ -113,6 +119,11 @@ related: ["digital-marketer-in-30s", "digital-marketer-in-20s", "digital-markete
 **示唆**：広告運用スキルの汎用性は、業種や営業モデルの違いによって大きく変わります。特にBtoB SaaSへの転向時は、マーケティングファネルの定義・役割分担・ツール環境を事前に詳細に確認することが不可欠です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=digital-marketer-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

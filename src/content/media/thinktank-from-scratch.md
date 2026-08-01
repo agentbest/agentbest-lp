@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["シンクタンク研究員", "未経験転職"]
 pubDate: 2026-07-05
 slug: "thinktank-from-scratch"
+hub: "thinktank"
 image: "/images/media/thinktank-from-scratch.png"
 related: ["thinktank-company-size", "thinktank-skills", "thinktank-career-guide", "data-scientist-from-scratch", "customer-success-from-scratch"]
 ---
@@ -20,6 +21,11 @@ related: ["thinktank-company-size", "thinktank-skills", "thinktank-career-guide"
 これらは組織の性格によってミッションが異なり、研究員に求められる能力も変わります。政府系・公益系は政策研究・学術的な文献調査に重きを置く傾向があり、博士号や専門修士の保有者が評価されやすい環境です。一方、民間系・グループ傘下のシンクタンクでは、クライアントへの提言書作成・マーケット調査・定量分析が中心業務になることが多く、コンサルタント的な実務能力がより重視される傾向があります。
 
 未経験転職を考える際には、まずどの類型のシンクタンクを目指すのかを明確にすることが出発点になります。類型によって求人の出方・評価基準・必要な準備が大きく異なるためです。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 類型別：求められるスキルと未経験者の参入難易度
 
@@ -86,6 +92,11 @@ IT・SaaS領域のビジネスアナリストや、コンサルファームの�
 | フェロー・部門長クラス | 1,000万円〜（組織による） |
 
 コンサルティングファームと比較すると、パフォーマンス連動の報酬変動幅は小さく、年収よりも研究の独立性・社会的影響力を重視する方が多い職種です。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=thinktank-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

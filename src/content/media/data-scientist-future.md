@@ -7,6 +7,7 @@ theme: "将来性"
 tags: ["データサイエンティスト", "将来性"]
 pubDate: 2026-07-04
 slug: "data-scientist-future"
+hub: "data-scientist"
 image: "/images/media/data-scientist-future.png"
 related: ["data-scientist-salary-1000", "data-scientist-company-size", "data-scientist-certification", "uiux-designer-future", "embedded-engineer-future"]
 ---
@@ -33,6 +34,11 @@ related: ["data-scientist-salary-1000", "data-scientist-company-size", "data-sci
 特に最後の点は重要で、生成AIの普及はデータサイエンティストの仕事を奪うというより、新たな専門領域を生み出している側面が強い。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-future">キャリアを相談する</a>
+</aside>
 
 ## スキル構造の変化：何が「コモディティ化」し、何が「希少」になっているか
 
@@ -104,6 +110,11 @@ related: ["data-scientist-salary-1000", "data-scientist-company-size", "data-sci
 LLMやAIエージェントを業務に組み込み、その品質保証に関与した経験は、今後数年の市場で明確な差別化要因になる。単に「使える」レベルを超え、「評価できる・設計できる」水準が求められるようになってきている。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-future">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

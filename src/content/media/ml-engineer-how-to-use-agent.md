@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["機械学習エンジニア", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "ml-engineer-how-to-use-agent"
+hub: "ml-engineer"
 image: "/images/media/ml-engineer-how-to-use-agent.png"
 related: ["ml-engineer-salary", "ml-engineer-salary-1000", "ml-engineer-company-size", "security-engineer-how-to-use-agent", "inside-sales-how-to-use-agent"]
 ---
@@ -52,6 +53,11 @@ related: ["ml-engineer-salary", "ml-engineer-salary-1000", "ml-engineer-company-
 この振れ幅の大きさは「交渉余地がある」ことを意味するが、相場観なしに交渉しても適切なアンカーを置けず、本来取れた条件を得られないままになるリスクがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを活用すべき具体的な理由
 
@@ -114,6 +120,11 @@ related: ["ml-engineer-salary", "ml-engineer-salary-1000", "ml-engineer-company-
 **エージェント活用後の変化：** エージェントのヒアリングを通じて、「推薦モデルの改善がどのような事業指標に影響を与えたか」を数値で言語化し直した。また、非公開案件として、大規模な購買データを持つ事業会社のAIプロダクト部門のポジションを紹介される。年収交渉においても、同レベルの成約実績を参照軸として提示してもらい、最終的に850万円でのオファーを獲得。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ml-engineer-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

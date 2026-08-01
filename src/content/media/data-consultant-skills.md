@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["データ・アナリティクスコンサルタント", "必要スキル"]
 pubDate: 2026-07-04
 slug: "data-consultant-skills"
+hub: "data-consultant"
 image: "/images/media/data-consultant-skills.png"
 related: ["data-consultant-salary-1000", "data-consultant-interview", "data-consultant-salary-600", "partner-sales-skills", "project-manager-skills"]
 ---
@@ -29,6 +30,11 @@ related: ["data-consultant-salary-1000", "data-consultant-interview", "data-cons
 この三層を俯瞰した上で、以下に各スキルの詳細と優先順位を解説します。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-skills">無料で相談する</a>
+</aside>
 
 ## テクニカルスキルの優先順位
 
@@ -108,6 +114,11 @@ related: ["data-consultant-salary-1000", "data-consultant-interview", "data-cons
 | 5年以上 | 提言力・ステークホルダー管理・組織設計 | シニア・マネージャーポジションでの評価軸が変わる |
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-consultant-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

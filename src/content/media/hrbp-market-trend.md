@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["人事", "市場動向"]
 pubDate: 2026-07-04
 slug: "hrbp-market-trend"
+hub: "hrbp"
 image: "/images/media/hrbp-market-trend.png"
 related: ["hrbp-salary", "hrbp-skills", "hrbp-future", "it-consultant-market-trend", "network-engineer-market-trend"]
 ---
@@ -38,6 +39,11 @@ related: ["hrbp-salary", "hrbp-skills", "hrbp-future", "it-consultant-market-tre
 HRBPという職能は数年前まで外資系・先端IT企業に限られていたが、国内メーカーや大手サービス業、成長フェーズのスタートアップにまで浸透しつつある。一方で「HRBP」と表記しながら実態は採用担当に近い求人も存在するため、JDの精読と企業実態の確認が転職活動においてより重要になっている。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-market-trend">キャリアを相談する</a>
+</aside>
 
 ## 領域別の採用ニーズの変化
 
@@ -103,6 +109,11 @@ HRBPや戦略人事のポジションは、求人数は多くないが、適切�
 これらは単体でも評価されるが、複数を組み合わせて持つ人材は市場での希少性が高くなる傾向にある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-market-trend">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

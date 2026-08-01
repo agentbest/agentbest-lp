@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["ネットワークエンジニア", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "network-engineer-resume"
+hub: "network-engineer"
 image: "/images/media/network-engineer-resume.png"
 related: ["network-engineer-career-guide", "network-engineer-career-path", "network-engineer-work-style", "security-engineer-resume", "pr-resume"]
 ---
@@ -28,6 +29,11 @@ related: ["network-engineer-career-guide", "network-engineer-career-path", "netw
 これらの課題を踏まえ、以下の構成で職務経歴書を組み立てることが有効です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-resume">キャリアを相談する</a>
+</aside>
 
 ## 職務経歴書の基本構成
 
@@ -141,6 +147,11 @@ Beforeは「何をしたか」の事実のみ。Afterは「なぜその判断か
 応募先のJD（求人票）を読み込み、職務経歴書の冒頭職務要約と自己PRを応募先ごとに調整することで、書類通過率は高まりやすくなります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=network-engineer-resume">無料で相談する</a>
+</aside>
 
 ## 年収レンジとスキルの対応目安
 

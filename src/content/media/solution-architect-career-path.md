@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["ソリューションアーキテクト", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "solution-architect-career-path"
+hub: "solution-architect"
 image: "/images/media/solution-architect-career-path.png"
 related: ["solution-architect-future", "solution-architect-salary-600", "solution-architect-company-size", "ml-engineer-career-path", "mobile-engineer-career-path"]
 ---
@@ -32,6 +33,11 @@ SAの職務は企業によって定義が異なるが、共通して積まれる
 この三層のうちどれが特に厚いかによって、その後のキャリアの伸びしろが変わってくる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-career-path">無料で相談する</a>
+</aside>
 
 ## 30代SAに生じる主なキャリアの分岐点
 
@@ -86,6 +92,11 @@ SAからPMへの移行は、技術的な実現可能性を判断できるPMが�
 **この型から読み取れること：** SAからコンサルへの転換では「技術知識そのもの」よりも「論点整理と提言の型」を先に示せるかどうかが選考の分水嶺になりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=solution-architect-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

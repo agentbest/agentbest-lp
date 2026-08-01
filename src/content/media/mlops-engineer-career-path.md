@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["MLOpsエンジニア", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-career-path"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-career-path.png"
 related: ["mlops-engineer-salary", "mlops-engineer-in-30s", "mlops-engineer-how-to-use-agent", "data-scientist-career-path", "inside-sales-career-path"]
 ---
@@ -20,6 +21,11 @@ MLOpsは「Machine Learning Operations」の略称であり、機械学習モデ
 具体的には、フィーチャーストアの設計、モデルレジストリの管理、CI/CDパイプラインの機械学習向け拡張、モデルのドリフト検知と再学習トリガーの実装、推論基盤のスケーリング設計などが主な担当領域です。データエンジニアリング、クラウドインフラ、ソフトウェア品質管理、そして統計・機械学習の基礎知識が交差する領域であるため、特定のバックグラウンドから流入するというよりも、複数の経路から参入するエンジニアが混在しています。
 
 このような特性から、MLOpsエンジニアのキャリアパスは一本道ではなく、出発点と強みによって複数の方向性が自然に生まれやすい構造になっています。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-career-path">無料で相談する</a>
+</aside>
 
 ## 経験年数とスコープの変化
 
@@ -70,6 +76,11 @@ Webサービス開発でCI/CD・Kubernetes運用を5年経験後、ML系スタ�
 大手メーカーのデータ分析部門でモデル開発を担当後、「本番で動かせないモデルを作り続けることへの限界感」からMLOpsへ関心を移す。SaaS企業に転職し、フィーチャーストア設計・実験管理基盤の整備を担当。モデリングの経験があるため、データサイエンティストとの協業においてコミュニケーションコストが低く、要件の翻訳役として機能している。35歳現在は、MLパイプライン全体を見るリード的なポジションに移行しつつ、EMへの道と技術専門職としての道を並行して検討中。
 
 このように、出発点が異なれば強みの質も異なり、最適なキャリアの方向性も変わってきます。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

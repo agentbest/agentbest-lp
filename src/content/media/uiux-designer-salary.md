@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["UI/UXデザイナー", "年収相場"]
 pubDate: 2026-07-04
 slug: "uiux-designer-salary"
+hub: "uiux-designer"
 image: "/images/media/uiux-designer-salary.png"
 related: ["uiux-designer-in-20s", "uiux-designer-how-to-use-agent", "uiux-designer-interview", "post-consultant-salary", "mobile-engineer-salary"]
 ---
@@ -29,6 +30,11 @@ UI/UXデザイナーの年収は、スキルセット・所属企業の業態・
 上記はあくまで市場に流通する求人・転職事例から導かれる傾向値であり、個人の交渉力や企業の評価制度によって個別の数値は変動します。特にシニア以降は「マネジメント有無」「事業インパクトの定量実績」がレンジに大きく関わります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-salary">キャリアを相談する</a>
+</aside>
 
 ## 20代のUI/UXデザイナーが意識すべき年収構造
 
@@ -105,6 +111,11 @@ UIデザイン（画面設計・ビジュアル）からUXリサーチ・情報�
 35歳前後になると「デザインマネージャー（ピープルマネジメント）」か「プリンシパルデザイナー（個人の専門性で組織に貢献）」かの方向性が年収の天井を左右します。どちらが自分のキャリア設計に合うかを早めに検討することが、900万円以上のレンジへの到達に関係してきます。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=uiux-designer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

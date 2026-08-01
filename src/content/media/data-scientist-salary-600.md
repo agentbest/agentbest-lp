@@ -7,6 +7,7 @@ theme: "年収600万"
 tags: ["データサイエンティスト", "年収600万"]
 pubDate: 2026-07-04
 slug: "data-scientist-salary-600"
+hub: "data-scientist"
 image: "/images/media/data-scientist-salary-600.png"
 related: ["data-scientist-skills", "data-scientist-certification", "data-scientist-in-30s", "frontend-engineer-salary-600", "pr-salary-600"]
 ---
@@ -31,6 +32,11 @@ related: ["data-scientist-skills", "data-scientist-certification", "data-scienti
 600万円という水準は「中級」の真ん中から上位に位置します。技術的に一人前であることが前提になる一方、技術力だけでは届かないケースが多い水準でもあります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-salary-600">キャリアを相談する</a>
+</aside>
 
 ## 600万円の壁になりやすい3つの構造的要因
 
@@ -102,6 +108,11 @@ related: ["data-scientist-skills", "data-scientist-certification", "data-scienti
 このパターンから見えるのは、「技術の向上」よりも「業務難易度の引き上げ」と「成果の言語化」が転換点になりやすいという点です。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-scientist-salary-600">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

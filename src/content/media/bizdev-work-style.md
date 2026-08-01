@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["事業開発", "働き方"]
 pubDate: 2026-07-04
 slug: "bizdev-work-style"
+hub: "bizdev"
 image: "/images/media/bizdev-work-style.png"
 related: ["bizdev-salary-1000", "bizdev-career-guide", "bizdev-company-size", "data-scientist-work-style", "post-consultant-work-style"]
 ---
@@ -22,6 +23,11 @@ related: ["bizdev-salary-1000", "bizdev-career-guide", "bizdev-company-size", "d
 社外のスケジュールに引っ張られやすいため、自分だけで業務ペースをコントロールしにくい局面が多い。相手方の意思決定者のスケジュール、法務・財務の確認期間、経営会議のサイクルなど、外部要因によって仕事の密度が上下する。この「波のある働き方」を事前に理解しているかどうかが、入社後の体感に直結する。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-work-style">キャリアを相談する</a>
+</aside>
 
 ## 激務度の実態：フェーズと局面によって変わる
 
@@ -102,6 +108,11 @@ IT・SaaS領域の事業開発は、業界全体にオンライン商談が定�
 クロージング前の週になると、火曜の対面商談が夜間まで続いたり、先方からの大量コメントへの対応が水曜深夜まで続くなど、負荷の質が変わりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=bizdev-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

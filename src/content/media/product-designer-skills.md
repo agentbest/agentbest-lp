@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["プロダクトデザイナー", "必要スキル"]
 pubDate: 2026-07-04
 slug: "product-designer-skills"
+hub: "product-designer"
 image: "/images/media/product-designer-skills.png"
 related: ["product-designer-certification", "product-designer-from-scratch", "product-designer-salary", "uiux-designer-skills", "frontend-engineer-skills"]
 ---
@@ -20,6 +21,11 @@ related: ["product-designer-certification", "product-designer-from-scratch", "pr
 UIデザイナーやUXデザイナーとの違いは、職責の範囲にある。UIデザイナーが視覚的な画面仕上げに集中しやすいのに対し、プロダクトデザイナーはユーザー課題の定義からプロトタイピング、プロダクトマネージャー・エンジニアとの協働まで、プロダクト開発サイクル全体に関与する傾向が強い。
 
 この職種の市場価値を決める要因は、技術力単体ではなく「ビジネス文脈でデザインの意思決定ができるか」にある。以下で紹介するスキルは、この視点から優先順位を整理している。
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-skills">キャリアを相談する</a>
+</aside>
 
 ## スキルの全体像と優先順位
 
@@ -87,6 +93,11 @@ BtoC領域では、エンドユーザーへの共感設計とデータドリブ�
 中期段階（3〜5年）では、ユーザーリサーチの設計・実施、デザインシステムの構築経験、PdMやエンジニアとの協働フローの確立が差別化ポイントになりやすい。ここで「作る」から「設計する」への移行が起きると、採用市場での評価レンジが大きく変わる傾向がある。
 
 上位職への移行（5年以上）では、ビジネス指標との接続、組織内でのデザイン文化の構築、他のデザイナーのアウトプットの質を上げるメンタリングや仕組みづくりが評価軸に加わる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-skills">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

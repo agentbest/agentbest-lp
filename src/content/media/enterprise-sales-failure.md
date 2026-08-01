@@ -7,6 +7,7 @@ theme: "転職失敗"
 tags: ["エンタープライズセールス", "転職失敗"]
 pubDate: 2026-07-04
 slug: "enterprise-sales-failure"
+hub: "enterprise-sales"
 image: "/images/media/enterprise-sales-failure.png"
 related: ["enterprise-sales-from-scratch", "enterprise-sales-skills", "enterprise-sales-in-30s", "uiux-designer-failure", "mlops-engineer-failure"]
 ---
@@ -26,6 +27,11 @@ related: ["enterprise-sales-from-scratch", "enterprise-sales-skills", "enterpris
 これらの特性から、前職では高実績だった人材が転職後に成果を出せず、「自分の能力が問題なのか、環境が問題なのか」の判別すら難しくなるケースが生じます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-failure">キャリアを相談する</a>
+</aside>
 
 ## よくある失敗パターン5つ
 
@@ -104,6 +110,11 @@ related: ["enterprise-sales-from-scratch", "enterprise-sales-skills", "enterpris
 **問題の構造**：製品力・組織の支援体制・市場認知度のいずれもが「前職の環境」に紐づいていた成功要因であり、それを「自分の個人スキル」と混同したことが根本原因です。転職前の情報収集で確認できた可能性のある項目（ランプアップ期間・マーケティングとの役割分担・OTE達成率の分布）が未確認のまま意思決定されていました。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=enterprise-sales-failure">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

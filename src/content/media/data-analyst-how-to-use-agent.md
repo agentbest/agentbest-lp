@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["データアナリスト", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "data-analyst-how-to-use-agent"
+hub: "data-analyst"
 image: "/images/media/data-analyst-how-to-use-agent.png"
 related: ["data-analyst-interview", "data-analyst-salary", "data-analyst-resume", "platform-engineer-how-to-use-agent", "cloud-engineer-how-to-use-agent"]
 ---
@@ -24,6 +25,11 @@ related: ["data-analyst-interview", "data-analyst-salary", "data-analyst-resume"
 また、データアナリスト職は転職市場全体での認知度が高まる一方、職種名の定義が企業間で標準化されていないため、給与レンジの把握も難しい。同等のスキルセットでも、業界・事業フェーズ・組織規模によって年収提示額に幅が生じやすく、適切な比較軸なしに交渉を進めると、相場より低い水準で内定を受諾してしまうリスクがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## エージェントを使う具体的なメリット
 
@@ -87,6 +93,11 @@ Webサービス系企業で3年間、事業部門に向けたレポーティン�
 担当者との面談で、レポーティング業務の中で「どのような問いを立て・どのように分析設計を行い・事業部門にどう伝えたか」というプロセスを整理する。同じ経験をビジネス課題の定義から成果まで一連のフローで記述することで、「分析思考力とコミュニケーション」を評価する企業に対して訴求力のある書類が完成しやすい。さらに、Pythonスキルの現水準を正直に伝えた上で、そのギャップを許容しつつ育成意向のある企業に絞ってアプローチできるため、入社後のミスマッチが軽減される傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-how-to-use-agent">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

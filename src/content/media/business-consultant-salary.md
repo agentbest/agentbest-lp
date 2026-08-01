@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["業務コンサルタント", "年収相場"]
 pubDate: 2026-07-04
 slug: "business-consultant-salary"
+hub: "business-consultant"
 image: "/images/media/business-consultant-salary.png"
 related: ["business-consultant-from-scratch", "business-consultant-career-guide", "business-consultant-resume", "mlops-engineer-salary", "data-engineer-salary"]
 ---
@@ -22,6 +23,11 @@ related: ["business-consultant-from-scratch", "business-consultant-career-guide"
 近年はSAPやSalesforceなどのERP・SaaSパッケージの導入案件、SCM（サプライチェーン管理）の再設計、共通業務のシェアードサービス化といった領域での需要が高まっており、ITと業務改善の両方の知見を持つ人材への評価が上昇している傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収レンジの全体像（ポジション別）
 
@@ -105,6 +111,11 @@ related: ["business-consultant-from-scratch", "business-consultant-career-guide"
 **ポイント：** 事業会社での業務知識、ファーム内での早期昇格、専門スキルの意図的な積み上げ、転職のタイミングの掛け合わせが機能した事例といえる。単独の要因ではなく、複合的な要素が重なった結果である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-consultant-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

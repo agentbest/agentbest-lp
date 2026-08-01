@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["フロントエンドエンジニア", "30代転職"]
 pubDate: 2026-07-04
 slug: "frontend-engineer-in-30s"
+hub: "frontend-engineer"
 image: "/images/media/frontend-engineer-in-30s.png"
 related: ["frontend-engineer-from-scratch", "frontend-engineer-salary-600", "frontend-engineer-future", "security-consultant-in-30s", "bizdev-in-30s"]
 ---
@@ -22,6 +23,11 @@ related: ["frontend-engineer-from-scratch", "frontend-engineer-salary-600", "fro
 採用企業が30代に期待するのは、実装力に加えて「技術判断ができること」と「チームへの貢献度」です。20代に求めるのが成長ポテンシャルであるとすれば、30代に求めるのは即効性のある問題解決能力です。この違いを正確に認識しておくことが、転職活動の前提となります。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-in-30s">無料で相談する</a>
+</aside>
 
 ## 即戦力として求められるスキルセット
 
@@ -101,6 +107,11 @@ GitHubのコードが「動くだけ」の水準にとどまっている場合�
 30代の面接では、コーディングテストに加えて設計の議論が行われる場合があります。「コンポーネントをどのような基準で分割するか」「状態管理ライブラリの選択で何を考慮するか」といった問いに対して、自分なりの考えを論理的に展開できるかどうかが評価されます。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=frontend-engineer-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["バックエンドエンジニア", "20代転職"]
 pubDate: 2026-07-04
 slug: "backend-engineer-in-20s"
+hub: "backend-engineer"
 image: "/images/media/backend-engineer-in-20s.png"
 related: ["backend-engineer-certification", "backend-engineer-future", "backend-engineer-how-to-use-agent", "devops-engineer-in-20s", "corporate-planning-in-20s"]
 ---
@@ -26,6 +27,11 @@ related: ["backend-engineer-certification", "backend-engineer-future", "backend-
 いずれにせよ、ポテンシャル採用は「何もできなくてよい」ではなく、「現時点の完成度よりも伸び率と適性を見ている」という点を認識しておく必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代が評価される構造的な背景
 
@@ -114,6 +120,11 @@ related: ["backend-engineer-certification", "backend-engineer-future", "backend-
 前職のスキルを完全に切り捨てるのではなく、**ドメイン知識や業務理解をエンジニアリングの文脈で再定義できると、ポテンシャル採用での差別化につながりやすい**。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=backend-engineer-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

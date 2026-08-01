@@ -7,6 +7,7 @@ theme: "20代転職"
 tags: ["事業企画", "20代転職"]
 pubDate: 2026-07-04
 slug: "business-planning-in-20s"
+hub: "business-planning"
 image: "/images/media/business-planning-in-20s.png"
 related: ["business-planning-english", "business-planning-salary-1000", "business-planning-in-30s", "web-marketer-in-20s", "pmo-in-20s"]
 ---
@@ -46,6 +47,11 @@ related: ["business-planning-english", "business-planning-salary-1000", "busines
 いずれのパターンにも共通するのは、「現状の把握→課題の特定→施策の立案→実行と検証」というサイクルを、何らかの形で経験していることだ。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-in-20s">キャリアを相談する</a>
+</aside>
 
 ## 20代に求められるスキルセットの詳細
 
@@ -107,6 +113,11 @@ related: ["business-planning-english", "business-planning-salary-1000", "busines
 事業企画の実務経験はゼロだったが、「現場数値を使って意思決定を動かした経験」を再定義することで、思考力と実行力の両面を伝えることができた。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-in-20s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "働き方"
 tags: ["SAPコンサルタント", "働き方"]
 pubDate: 2026-07-04
 slug: "sap-consultant-work-style"
+hub: "sap-consultant"
 image: "/images/media/sap-consultant-work-style.png"
 related: ["sap-consultant-company-size", "sap-consultant-resume", "sap-consultant-english", "recruiter-work-style", "business-planning-work-style"]
 ---
@@ -31,6 +32,11 @@ SAPコンサルタントの業務負荷を語るうえで最も重要な視点�
 カットオーバー前後の数週間から1〜2カ月は、深夜作業・休日対応が発生しやすい。一方、要件定義の序盤や保守フェーズは比較的落ち着いており、月間残業時間が20〜30時間程度に収まるケースも珍しくない。「SAPコンサルタントは常に激務」という認識は、最繁忙期のイメージが固定化したものと考えると理解しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-work-style">キャリアを相談する</a>
+</aside>
 
 ## 残業時間の実態と雇用形態による差異
 
@@ -100,6 +106,11 @@ SAPコンサルタントの業務負荷を語るうえで最も重要な視点�
 問合せ対応・定例報告が中心となり、月間残業は20〜30時間程度に落ち着く傾向がある。次案件へのアサインや社内知識移転を行う時期。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=sap-consultant-work-style">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

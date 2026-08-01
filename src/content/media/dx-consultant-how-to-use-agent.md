@@ -7,6 +7,7 @@ theme: "転職エージェント活用"
 tags: ["DXコンサルタント", "転職エージェント活用"]
 pubDate: 2026-07-04
 slug: "dx-consultant-how-to-use-agent"
+hub: "dx-consultant"
 image: "/images/media/dx-consultant-how-to-use-agent.png"
 related: ["dx-consultant-failure", "dx-consultant-english", "dx-consultant-salary-1000", "it-consultant-how-to-use-agent", "cloud-engineer-how-to-use-agent"]
 ---
@@ -30,6 +31,11 @@ DXコンサルタントのポジションは、職種名が統一されていな
 DXコンサルタントは業務の幅が広く、経営層へのプレゼンテーション、業務プロセスの再設計、ベンダーマネジメント、システム要件定義など、異なる性質のスキルが混在する。これをどのような構成で職務経歴書に落とし込むかは、採用担当者の視点を持つ人間の助言が有効に働きやすい。エージェントが保有するフォーマットや、過去に通過した書類の傾向情報は、独力での書類作成と比較して再現性が高くなりやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-how-to-use-agent">無料キャリア面談を予約する</a>
+</aside>
 
 ## エージェントを活用すべき具体的な理由
 
@@ -93,6 +99,11 @@ DXコンサルタントとしての転職においては、担当アドバイザ
 **示唆：** 公開求人からの直接応募では得られない選考プロセスに関する内部情報が、書類通過率と面接準備の質に影響した。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=dx-consultant-how-to-use-agent">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

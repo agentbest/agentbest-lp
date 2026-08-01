@@ -7,6 +7,7 @@ theme: "転職ガイド"
 tags: ["ITアーキテクト", "転職ガイド"]
 pubDate: 2026-07-04
 slug: "it-architect-career-guide"
+hub: "it-architect"
 image: "/images/media/it-architect-career-guide.png"
 related: ["it-architect-in-30s", "it-architect-certification", "it-architect-interview", "mobile-engineer-career-guide", "salesforce-consultant-career-guide"]
 ---
@@ -36,6 +37,11 @@ ITアーキテクトは、システム全体の設計方針を定め、技術的
 ### 他職種との境界線
 
 ITアーキテクトとシニアエンジニア・テックリードの違いが曖昧になりやすい。大きな違いは「設計の射程の広さ」と「責任の対象」にある。テックリードはチームの技術的な方向を導くが、ITアーキテクトは複数チーム・複数システム・時に組織の技術戦略全体を設計の対象とする。また、非機能要件（可用性・スケーラビリティ・セキュリティ・コスト効率）を経営判断に接続する能力が求められる点も異なる特徴といえる。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-career-guide">無料で相談する</a>
+</aside>
 
 ## 市場におけるポジションと年収水準
 
@@ -100,6 +106,11 @@ SaaS企業の面接では、「プロダクト開発のスピードを支える�
 
 **結果の傾向**
 スタートアップ段階を超えた成長フェーズのSaaS企業（従業員200〜500名規模）で、年収1,050万円前後のオファーを得るケースが多い。大手SIerでの大規模設計経験と、限定的ではあってもモダンスタックへの実務的関与が組み合わさった場合、評価が高くなりやすい。
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-architect-career-guide">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

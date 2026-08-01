@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["セールスエンジニア／プリセールス", "年収1000万"]
 pubDate: 2026-07-03
 slug: "presales-salary-1000"
+hub: "presales"
 image: "/images/media/presales-salary-1000.png"
 related: ["presales-in-20s", "presales-english", "presales-work-style", "solution-architect-salary-1000", "business-consultant-salary-1000"]
 ---
@@ -29,6 +30,11 @@ related: ["presales-in-20s", "presales-english", "presales-work-style", "solutio
 表から読み取れる通り、年収1,000万円は「シニア期〜リード層」の領域に位置する。中堅期でも外資系SaaS企業やインセンティブ設計の手厚い環境であれば上限が引き上がる傾向にあり、一律に「何年で到達できる」とは言いにくい。構造として重要なのは、フェーズよりも**担当する商談の単価・複雑性・自分の希少性**の三つが年収水準を規定しやすいという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するスキル構造
 
@@ -81,6 +87,11 @@ related: ["presales-in-20s", "presales-english", "presales-work-style", "solutio
 このケースが示すのは、「スキルのポータビリティ（持ち出し可能性）」と「報酬設計の合理性」を同時に満たす環境への移行が、年収改善の確実な手段になりやすいという点である。スキルは既に市場価値を持っていたが、組織の報酬設計がそれを反映できていなかった。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=presales-salary-1000">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

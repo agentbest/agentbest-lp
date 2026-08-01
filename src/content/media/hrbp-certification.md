@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["人事", "資格"]
 pubDate: 2026-07-04
 slug: "hrbp-certification"
+hub: "hrbp"
 image: "/images/media/hrbp-certification.png"
 related: ["hrbp-career-path", "hrbp-future", "hrbp-salary-600", "mlops-engineer-certification", "digital-marketer-certification"]
 ---
@@ -35,6 +36,11 @@ related: ["hrbp-career-path", "hrbp-future", "hrbp-salary-600", "mlops-engineer-
 逆に、社内の人事業務においては、実務経験・プロジェクト実績・マネジメント能力のほうが昇格や評価に直結しやすく、資格の優先度が相対的に下がるのが実情です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-certification">無料キャリア面談を予約する</a>
+</aside>
 
 ## 評価される資格と不要・過剰な資格
 
@@ -90,6 +96,11 @@ related: ["hrbp-career-path", "hrbp-future", "hrbp-salary-600", "mlops-engineer-
 ここで重要なのは、資格単体ではなく「資格取得による知識習得＋それを実務に活かした実績」という組み合わせが評価されているという点です。資格はあくまでも入口であり、実務での適用が問われます。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=hrbp-certification">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

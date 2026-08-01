@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["採用担当", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "recruiter-career-path"
+hub: "recruiter"
 image: "/images/media/recruiter-career-path.png"
 related: ["recruiter-from-scratch", "recruiter-salary", "recruiter-salary-600", "big4-consultant-career-path", "freelance-consultant-career-path"]
 ---
@@ -28,6 +29,11 @@ related: ["recruiter-from-scratch", "recruiter-salary", "recruiter-salary-600", 
 この3軸のうちどれを選ぶかは、現職の組織構造・経験の厚み・志向性の掛け合わせによって決まります。30代前半と後半でも「現実的な選択肢の幅」が異なるため、以下ではフェーズ別に整理します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## 30代前半（30〜34歳）：専門性の「深さ」か「幅」かを選ぶ分岐点
 
@@ -91,6 +97,11 @@ related: ["recruiter-from-scratch", "recruiter-salary", "recruiter-salary-600", 
 **示唆**：採用担当からHRBPへの転換には、採用以外の人事業務への意図的な関与と、自己学習による知識補完が有効に機能しやすい。転換のタイミングは「組織が拡大・複雑化するフェーズ」と重なると機会が得やすい傾向があります。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-career-path">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

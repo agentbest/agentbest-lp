@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["CTO・VPoE候補", "年収1000万"]
 pubDate: 2026-07-04
 slug: "cto-vpoe-salary-1000"
+hub: "cto-vpoe"
 image: "/images/media/cto-vpoe-salary-1000.png"
 related: ["cto-vpoe-resume", "cto-vpoe-failure", "cto-vpoe-work-style", "db-engineer-salary-1000", "network-engineer-salary-1000"]
 ---
@@ -28,6 +29,11 @@ CTO・VPoEという肩書は、スタートアップの初期フェーズから�
 | 外資系テック企業の技術幹部相当 | 1,500万円〜（RSU含む） | RSU主体が多い |
 
 年収1,000万円という水準は、シリーズB〜C期以降のスタートアップや、大手事業会社の技術幹部ポジションで標準的に設定されやすいゾーンに位置する。ただし、現職からのジャンプ幅や交渉力、組織の採用予算によって、同じ肩書でも200〜300万円程度の差が生じることは珍しくない。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-salary-1000">無料で相談する</a>
+</aside>
 
 ## 1,000万円到達者に共通するキャリアの型
 
@@ -91,6 +97,11 @@ CTOとしての市場評価において、登壇実績・技術ブログの執�
 - **ストックオプションの行使条件と評価額の試算方法**：付与枚数・行使価格・行使期間・上場見込みのタイムラインを確認する
 - **評価サイクルと昇給幅の実態**：年1回の評価で昇給幅が数%に留まる設計なのか、フェーズ昇格に連動したジャンプがあるのかを区別する
 - **「候補」から「本役」への昇格要件の明文化**：口頭での合意ではなく、オファーレターや個別の合意書に落とし込まれているかを確認する
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=cto-vpoe-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

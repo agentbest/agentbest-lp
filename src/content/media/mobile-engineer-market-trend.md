@@ -7,6 +7,7 @@ theme: "市場動向"
 tags: ["モバイルエンジニア", "市場動向"]
 pubDate: 2026-07-04
 slug: "mobile-engineer-market-trend"
+hub: "mobile-engineer"
 image: "/images/media/mobile-engineer-market-trend.png"
 related: ["mobile-engineer-company-size", "mobile-engineer-certification", "mobile-engineer-future", "db-engineer-market-trend", "fas-consultant-market-trend"]
 ---
@@ -24,6 +25,11 @@ related: ["mobile-engineer-company-size", "mobile-engineer-certification", "mobi
 - スタートアップ・メガベンチャーに加え、**事業会社（非IT業種）のモバイルエンジニア採用**が増加傾向にある
 
 求人数自体は横ばいから微増の傾向ですが、「スキルセットの希少性」によって個人が受け取るオファーの質は大きく分岐しています。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-market-trend">無料で相談する</a>
+</aside>
 
 ## スキル需要の変化：何が求められているか
 
@@ -104,6 +110,11 @@ SaaS系の上場企業や大手プラットフォーマーにおいても、モ�
 このケースで転職先に刺さりやすいのは、「受託経験を活かしつつ、プロダクト思考を習得したい」という意欲を具体的に言語化し、技術力に加えて「何を改善しようとしてきたか」のストーリーを持つことです。コードを書く力は評価されても、「なぜそう実装したか」の設計意図を説明できるかどうかが、書類・面接通過の分岐点になりやすいです。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mobile-engineer-market-trend">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

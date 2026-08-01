@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["データエンジニア", "年収1000万"]
 pubDate: 2026-07-04
 slug: "data-engineer-salary-1000"
+hub: "data-engineer"
 image: "/images/media/data-engineer-salary-1000.png"
 related: ["data-engineer-english", "data-engineer-from-scratch", "data-engineer-career-guide", "infra-engineer-salary-1000", "thinktank-salary-1000"]
 ---
@@ -27,6 +28,11 @@ related: ["data-engineer-english", "data-engineer-from-scratch", "data-engineer-
 この表からわかる通り、年収1,000万円はシニア〜リードクラスに相当する水準であり、年功序列ではなく「何ができるか」によって到達可否が決まりやすいポジションです。また、外資系・グローバルSaaS企業と国内事業会社では評価基準が異なり、外資系や高成長スタートアップでは経験年数が比較的短くても1,000万円台に到達するケースが存在します。
 
 重要なのは、「データエンジニアであれば自動的に高年収になる」わけではない点です。職種そのものよりも、**どのレイヤーの問題を解けるか**が報酬に直結します。
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-salary-1000">無料で相談する</a>
+</aside>
 
 ## 1,000万円到達者に共通する3つの構造的特徴
 
@@ -85,6 +91,11 @@ related: ["data-engineer-english", "data-engineer-from-scratch", "data-engineer-
 - **設計ドキュメントの保有**：アーキテクチャ図、ADR（Architecture Decision Record）など、過去の設計思想を示せる成果物があると面接での説得力が増します
 - **スタック選定の理由を語れること**：「なぜそのツールを選んだか」という問いに対して、代替案との比較・当時の制約・事後評価まで話せるエンジニアは評価が高い傾向があります
 - **障害対応・インシデントの経験**：大規模データ基盤における障害は避けられないため、原因分析・対応・再発防止の経験を具体的に話せることが重視されます
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-engineer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

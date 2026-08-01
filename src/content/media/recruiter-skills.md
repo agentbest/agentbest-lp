@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["採用担当", "必要スキル"]
 pubDate: 2026-07-04
 slug: "recruiter-skills"
+hub: "recruiter"
 image: "/images/media/recruiter-skills.png"
 related: ["recruiter-salary", "recruiter-certification", "recruiter-work-style", "erp-consultant-skills", "solution-architect-skills"]
 ---
@@ -24,6 +25,11 @@ related: ["recruiter-salary", "recruiter-certification", "recruiter-work-style",
 レベルや経験年数によって重点が変わるため、まず全体像を俯瞰した上で自分の現在地を確認することが重要である。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキルの優先順位：3層構造で整理する
 
@@ -110,6 +116,11 @@ LinkedInやGitHub、専門コミュニティなど、ポジションの特性に
 このように、コアスキルを土台に専門スキルを1〜2領域深掘りし、その実績を上位レイヤーへの橋頭堡とする流れは、採用担当のキャリアパスとして一般的に見られる構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=recruiter-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "職務経歴書"
 tags: ["経営企画", "職務経歴書"]
 pubDate: 2026-07-04
 slug: "corporate-planning-resume"
+hub: "corporate-planning"
 image: "/images/media/corporate-planning-resume.png"
 related: ["corporate-planning-future", "corporate-planning-market-trend", "corporate-planning-skills", "post-consultant-resume", "pmo-resume"]
 ---
@@ -35,6 +36,11 @@ P&L管理や予算策定に関与した経験があるか。定量的なイン�
 この3軸を念頭に置いて職務経歴書を設計することが、通過率向上の前提となる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-resume">無料キャリア面談を予約する</a>
+</aside>
 
 ## 経営企画職務経歴書の全体構成
 
@@ -140,6 +146,11 @@ P&L管理や予算策定に関与した経験があるか。定量的なイン�
 経営企画の採用では、「経営層と実際にどれだけ近い仕事をしてきたか」が重視されることが多い。誰に報告していたか、誰の前でプレゼンしたか、誰と意思決定を行ったかを明示すると説得力が増す。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=corporate-planning-resume">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

@@ -7,6 +7,7 @@ theme: "キャリアパス"
 tags: ["事業企画", "キャリアパス"]
 pubDate: 2026-07-04
 slug: "business-planning-career-path"
+hub: "business-planning"
 image: "/images/media/business-planning-career-path.png"
 related: ["business-planning-in-20s", "business-planning-company-size", "business-planning-resume", "project-manager-career-path", "saas-sales-career-path"]
 ---
@@ -26,6 +27,11 @@ related: ["business-planning-in-20s", "business-planning-company-size", "busines
 だからこそ、自分が何の経験を積んでいるかを構造的に把握しておくことが、長期的なキャリア形成において重要になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-career-path">無料で相談する</a>
+</aside>
 
 ## 年次別のキャリアステージと求められる役割
 
@@ -104,6 +110,11 @@ related: ["business-planning-in-20s", "business-planning-company-size", "busines
 特定の業界・事業モデルへの深い知見は強みになる一方、「その会社でしか通用しない」と判断されると転職市場での可搬性が下がる。複数の業界・事業フェーズを経験しているか、または自分の知見の再現性をどう説明できるかが鍵になる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=business-planning-career-path">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

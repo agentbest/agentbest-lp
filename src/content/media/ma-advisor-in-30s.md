@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["M&Aアドバイザー", "30代転職"]
 pubDate: 2026-07-04
 slug: "ma-advisor-in-30s"
+hub: "ma-advisor"
 image: "/images/media/ma-advisor-in-30s.png"
 related: ["ma-advisor-career-guide", "ma-advisor-from-scratch", "ma-advisor-certification", "saas-sales-in-30s", "engineering-manager-in-30s"]
 ---
@@ -41,6 +42,11 @@ M&A仲介・FA（フィナンシャルアドバイザー）いずれの領域に
 特定のセクター（IT・医療・製造・不動産など）における深い知見は、差別化要因になりやすい。たとえばSaaS企業のM&Aに特化したチームが、IT業界出身のアドバイザー候補を優先するケースは珍しくない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-in-30s">キャリアを相談する</a>
+</aside>
 
 ## バックグラウンド別：30代からの移行難易度と評価のされ方
 
@@ -117,6 +123,11 @@ M&Aアドバイザーの報酬は成功報酬依存度が高く、案件クロ�
 大手・有名ファームへの志望集中は競争倍率を上げるだけでなく、「自分が成果を出しやすい環境かどうか」という観点が抜け落ちるリスクがある。セクター特化・案件規模・チームの支援体制・ソーシングチャネルの有無などを比較することが、入社後のパフォーマンスに直結しやすい。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=ma-advisor-in-30s">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

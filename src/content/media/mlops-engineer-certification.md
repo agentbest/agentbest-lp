@@ -7,6 +7,7 @@ theme: "資格"
 tags: ["MLOpsエンジニア", "資格"]
 pubDate: 2026-07-04
 slug: "mlops-engineer-certification"
+hub: "mlops-engineer"
 image: "/images/media/mlops-engineer-certification.png"
 related: ["mlops-engineer-interview", "mlops-engineer-failure", "mlops-engineer-future", "product-designer-certification", "fullstack-engineer-certification"]
 ---
@@ -26,6 +27,11 @@ MLOpsという領域は、機械学習（ML）モデルの開発・デプロイ�
 また、MLOpsは2020年代に入ってから急速に体系化が進んだ領域であり、資格制度そのものの成熟度がソフトウェアエンジニア領域に比べてまだ低い。現時点で「これを持っていれば即戦力」と明示的に示せる資格体系は存在しない。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-certification">キャリアを相談する</a>
+</aside>
 
 ## 採用現場で一定の評価を受けやすい資格
 
@@ -101,6 +107,11 @@ MLflow、Kubeflow、Airflow、Argo Workflowsなど、MLOpsで広く使われるO
 この事例が示すのは、資格が単独で価値を持つのではなく、経験・ポートフォリオ・資格の組み合わせが採用判断を補完するという構造である。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=mlops-engineer-certification">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

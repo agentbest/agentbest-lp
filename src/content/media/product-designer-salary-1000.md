@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["プロダクトデザイナー", "年収1000万"]
 pubDate: 2026-07-04
 slug: "product-designer-salary-1000"
+hub: "product-designer"
 image: "/images/media/product-designer-salary-1000.png"
 related: ["product-designer-salary", "product-designer-in-20s", "product-designer-skills", "mobile-engineer-salary-1000", "web-marketer-salary-1000"]
 ---
@@ -42,6 +43,11 @@ related: ["product-designer-salary", "product-designer-in-20s", "product-designe
 この表からも読み取れるように、1,000万円はおおむね「5年以上のキャリアを持つシニア層以降」の水準と捉えるのが現実的な目安となる。ただし、外資系テック企業や成長期のスタートアップでは、経験年数が浅くても到達するケースがある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-salary-1000">無料で相談する</a>
+</aside>
 
 ## 年収1,000万円到達者に共通するキャリアの特徴
 
@@ -101,6 +107,11 @@ UXリサーチのスコープをゼロから設計し、仮説の立て方から
 国内大手と外資系テック企業の間には、デザイナー職に対する報酬水準に相応の開きがある傾向がある。グローバルに通用するプロダクト思考や英語でのコミュニケーション能力を持つ人材に対して、外資企業は積極的にオファーを出しやすい。英語力は前提条件ではないものの、あることで選択肢が広がる。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=product-designer-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

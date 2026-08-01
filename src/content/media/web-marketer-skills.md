@@ -7,6 +7,7 @@ theme: "必要スキル"
 tags: ["Webマーケター", "必要スキル"]
 pubDate: 2026-07-04
 slug: "web-marketer-skills"
+hub: "web-marketer"
 image: "/images/media/web-marketer-skills.png"
 related: ["web-marketer-motivation", "web-marketer-company-size", "web-marketer-interview", "post-consultant-skills", "network-engineer-skills"]
 ---
@@ -26,6 +27,11 @@ Webマーケターに求められる能力は、大きく3つの層に分けて�
 市場価値が高いWebマーケターは、この3層をバランスよく持ちながら、いずれかの層に強みを持っているという構造になっています。逆に「ツールは使えるが事業貢献の説明ができない」という状態は、年収交渉や役職へのアピールで弱みになりやすい点に注意が必要です。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-skills">無料キャリア面談を予約する</a>
+</aside>
 
 ## スキル一覧と市場評価の目安
 
@@ -95,6 +101,11 @@ Webマーケターに求められる能力は、大きく3つの層に分けて�
 **ドキュメンテーション力**：施策の設計意図、結果の解釈、次の打ち手を文書化して共有する能力は、リモートワーク環境が定着した現在、組織内での影響力を高める重要な要素になっています。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=web-marketer-skills">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

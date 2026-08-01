@@ -7,6 +7,7 @@ theme: "年収1000万"
 tags: ["フリーコンサルタント", "年収1000万"]
 pubDate: 2026-07-05
 slug: "freelance-consultant-salary-1000"
+hub: "freelance-consultant"
 image: "/images/media/freelance-consultant-salary-1000.png"
 related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-in-30s", "freelance-consultant-interview", "data-consultant-salary-1000", "game-engineer-salary-1000"]
 ---
@@ -33,6 +34,11 @@ related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-in-30s"
 上記から読み取れるのは、「月単価100万円前後を、年間を通じて安定的に確保できるか」が一つの分水嶺になるという点です。月単価80万円台でもフル稼働に近い形で年間を通じてプロジェクトを繋げれば届く水準である一方、稼働が途切れると一気に下振れします。フリーコンサルタントにおける収入の安定性は、単価だけでなく「受注継続率」と「空白期間の最小化」に強く依存します。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-salary-1000">無料キャリア面談を予約する</a>
+</aside>
 
 ## 到達者に共通するキャリアの型
 
@@ -95,6 +101,11 @@ related: ["freelance-consultant-how-to-use-agent", "freelance-consultant-in-30s"
 特定のエージェント一社または一つのコネクションに依存している場合、そのチャネルが細くなると収入が急減します。受注経路の分散（複数エージェント・直接契約・リファラル）は、単価水準を上げる以前に取り組むべき構造的な課題です。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=freelance-consultant-salary-1000">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 

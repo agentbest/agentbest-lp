@@ -7,6 +7,7 @@ theme: "年収相場"
 tags: ["セキュリティエンジニア", "年収相場"]
 pubDate: 2026-07-04
 slug: "security-engineer-salary"
+hub: "security-engineer"
 image: "/images/media/security-engineer-salary.png"
 related: ["security-engineer-english", "security-engineer-in-30s", "security-engineer-market-trend", "thinktank-salary", "db-engineer-salary"]
 ---
@@ -31,6 +32,11 @@ related: ["security-engineer-english", "security-engineer-in-30s", "security-eng
 ロールによる差も顕著で、同じ5年の経験であっても、SOC運用寄りのポジションとオフェンシブセキュリティ（ペネトレーションテスト）やセキュリティアーキテクチャ設計を担うポジションとでは、市場評価に100〜200万円程度の開きが生じやすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-salary">キャリアを相談する</a>
+</aside>
 
 ## 年収に影響する構造的な要因
 
@@ -107,6 +113,11 @@ related: ["security-engineer-english", "security-engineer-in-30s", "security-eng
 このケースで機能したのは「既存業務（脆弱性診断）の延長線上に市場評価の高い領域を積み上げた」という戦略である。完全な職種転換より、現在の強みを起点にした領域の深化・シフトのほうがリスクが低く、採用側の納得感も得やすい傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=security-engineer-salary">無料で相談する</a>
+</aside>
 
 ## よくある質問
 

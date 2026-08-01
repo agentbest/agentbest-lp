@@ -7,6 +7,7 @@ theme: "志望動機"
 tags: ["DevOpsエンジニア", "志望動機"]
 pubDate: 2026-07-04
 slug: "devops-engineer-motivation"
+hub: "devops-engineer"
 image: "/images/media/devops-engineer-motivation.png"
 related: ["devops-engineer-salary-1000", "devops-engineer-salary", "devops-engineer-certification", "embedded-engineer-motivation", "fullstack-engineer-motivation"]
 ---
@@ -38,6 +39,11 @@ DevOpsエンジニアの役割は、開発チームと運用チームの間に�
 たとえばSaaS企業であれば、デプロイ頻度の高さとプロダクトの品質保証の両立という課題感は共通しやすい。コンサルティングファームやSIerのDX推進部門であれば、クライアントの内製化支援や標準化された実装パターンの提供という文脈が効く場合がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-motivation">無料で相談する</a>
+</aside>
 
 ## 評価される志望動機の構成モデル
 
@@ -92,6 +98,11 @@ DevOpsエンジニアの役割は、開発チームと運用チームの間に�
 「DevOpsエンジニアとして成長したいため志望しました」は、その企業でなくてもよい理由になる。採用担当者は志望動機を通じて「なぜ自社か」を確認している。企業固有の文脈への言及がない志望動機は、応募数が多い選考では埋もれやすくなる傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=devops-engineer-motivation">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

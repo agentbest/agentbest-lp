@@ -7,6 +7,7 @@ theme: "30代転職"
 tags: ["ITコンサルタント", "30代転職"]
 pubDate: 2026-07-04
 slug: "it-consultant-in-30s"
+hub: "it-consultant"
 image: "/images/media/it-consultant-in-30s.png"
 related: ["it-consultant-how-to-use-agent", "it-consultant-career-guide", "it-consultant-salary", "data-engineer-in-30s", "network-engineer-in-30s"]
 ---
@@ -26,6 +27,11 @@ ITコンサルティング領域への需要は、DX推進・クラウド移行�
 また、ファームによって採用スタンスには差がある。外資系戦略ファームでは30代後半の未経験転職が構造的に難しいのに対し、国内系ITコンサル・独立系SIer出身のコンサルファームでは、業務系・産業系の知見を持つ30代を積極的に採用する傾向がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>この職種で自分の経験がどう評価されるか、整理してみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-in-30s">無料で相談する</a>
+</aside>
 
 ## 採用企業が30代に求めるもの：評価の3軸
 
@@ -109,6 +115,11 @@ ITコンサルタントの業務の中心はプロジェクト推進であり、
 「ITコンサルタント」という職種名でも、ファームによって業務の重心は異なる。戦略系ファームのIT部門、総合系ファームのテクノロジー部門、独立系ITコンサル、SIer系コンサルでは、クライアント層・プロジェクト規模・求められるスキルに差がある。入社後のミスマッチを防ぐため、面接段階で担当プロジェクトの実例を詳しく確認することが重要だ。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=it-consultant-in-30s">無料キャリア面談を予約する</a>
+</aside>
 
 ## よくある質問
 

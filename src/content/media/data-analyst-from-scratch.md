@@ -7,6 +7,7 @@ theme: "未経験転職"
 tags: ["データアナリスト", "未経験転職"]
 pubDate: 2026-07-04
 slug: "data-analyst-from-scratch"
+hub: "data-analyst"
 image: "/images/media/data-analyst-from-scratch.png"
 related: ["data-analyst-company-size", "data-analyst-work-style", "data-analyst-how-to-use-agent", "erp-consultant-from-scratch", "uiux-designer-from-scratch"]
 ---
@@ -24,6 +25,11 @@ related: ["data-analyst-company-size", "data-analyst-work-style", "data-analyst-
 業界・企業規模によって求められる技術水準はかなり幅広い。SQLとExcelが主な武器になるポジションから、PythonやBIツール（TableauやLookerなど）の活用が前提になるポジション、さらにA/Bテストの設計や統計的推論が求められるポジションまで存在する。転職活動の際には、「データアナリスト」という職種名に惑わされず、求人票に記載されたスキル要件と業務内容を精緻に読み解く必要がある。
 
 ---
+
+<aside class="cta-inline">
+  <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-from-scratch">無料キャリア面談を予約する</a>
+</aside>
 
 ## 未経験転職に必要なスキルの構造
 
@@ -83,6 +89,11 @@ SaaS企業の営業職として3〜4年勤務。ExcelやSalesforce等のCRMツ�
 このパターンが示すのは、「ゼロからのスキル習得」と「前職経験の再定義」を組み合わせることで、ポートフォリオの説得力が高まるという点である。
 
 ---
+
+<aside class="cta-inline">
+  <p>求人票には出てこない、実際の評価基準を聞いてみませんか</p>
+  <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=data-analyst-from-scratch">キャリアを相談する</a>
+</aside>
 
 ## よくある質問
 
