@@ -34,6 +34,26 @@ const related = (post.data.related ?? [])
     </p>
     <Content />
 
+    {(post.data.sources ?? []).length > 0 && (
+      <div class="sources">
+        <strong>出典</strong>
+        <ul>
+          {post.data.sources.map((s) => (
+            <li>
+              {s.url
+                ? <a href={s.url} target="_blank" rel="noopener nofollow">{s.name}</a>
+                : s.name}
+            </li>
+          ))}
+        </ul>
+        {post.data.reviewedAt && (
+          <p class="reviewed">
+            本記事は {post.data.reviewedAt.toLocaleDateString('ja-JP')} 時点の公開情報にもとづいて作成しています。
+          </p>
+        )}
+      </div>
+    )}
+
     {related.length > 0 && (
       <div class="related">
         <strong>関連記事</strong>
@@ -92,6 +112,15 @@ const related = (post.data.related ?? [])
     background: #f6f8fa; border-radius: 10px; font-size: .95rem;
   }
   .media-article .related ul { margin: .6em 0 0; }
+  /* 出典（frontmatter の sources / reviewedAt から自動描画） */
+  .media-article .sources {
+    margin-top: 2.6rem; padding: 1.1rem 1.4rem;
+    border: 1px solid #e3e7eb; border-radius: 10px;
+    font-size: .88rem; color: #454e59;
+  }
+  .media-article .sources ul { margin: .6em 0 0; }
+  .media-article .sources li { margin-bottom: .3em; }
+  .media-article .sources .reviewed { margin: .9em 0 0; color: #6b7480; font-size: .84rem; }
   .media-article .cta {
     margin-top: 2rem; padding: 2rem 1.5rem; border-radius: 12px;
     background: #1c1c2e; color: #fff; text-align: center;
