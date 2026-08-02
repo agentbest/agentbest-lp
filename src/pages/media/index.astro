@@ -6,12 +6,33 @@ import Header from '../../components/Header.astro';
 
 const posts = await getCollection('media');
 
-// 職種・業界・企業ごとに記事を集計
+// 選考対策記事（企業別・業界別・職種別）の領域ハブ。1つのハブに複数企業の記事が入るため、
+// 職種・業界の集計とは分けて数える
+const DOMAIN_HUBS = {
+  consul: 'コンサルティング業界',
+  ma: 'M&A業界',
+  pm: 'PM・事業会社',
+  startup: 'スタートアップ',
+};
+const domainCount = new Map();
+const legacyPosts = [];
+for (const p of posts) {
+  if (p.data.hub && DOMAIN_HUBS[p.data.hub]) {
+    domainCount.set(p.data.hub, (domainCount.get(p.data.hub) ?? 0) + 1);
+  } else {
+    legacyPosts.push(p);
+  }
+}
+const domainGroups = Object.entries(DOMAIN_HUBS)
+  .filter(([hub]) => domainCount.has(hub))
+  .map(([hub, name]) => ({ hub, name, count: domainCount.get(hub) }));
+
+// 職種・業界ごとに記事を集計
 const groupKey = (p) => p.data.jobType ?? p.data.industry ?? p.data.companyName;
 
 const groups = new Map();
 const slugsOf = new Map();
-for (const p of posts) {
+for (const p of legacyPosts) {
   const key = groupKey(p);
   if (!groups.has(key)) groups.set(key, { name: key, category: p.data.category, count: 0, hub: p.data.hub });
   const g = groups.get(key);
@@ -69,6 +90,18 @@ const description = 'IT・SaaS・コンサル領域の転職・キャリア情�
       ))}
     </ul>
 
+    {domainGroups.length > 0 && (
+      <>
+        <h2>企業の評判・選考対策から探す</h2>
+        <p class="hub-note">企業ごとの評判・年収・選考対策の記事を、領域ごとにまとめています。</p>
+        <ul class="cat-grid">
+          {domainGroups.map((g) => (
+            <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
+          ))}
+        </ul>
+      </>
+    )}
+
     {companyGroups.length > 0 && (
       <>
         <h2>企業から探す</h2>
@@ -93,6 +126,7 @@ const description = 'IT・SaaS・コンサル領域の転職・キャリア情�
   .hub h1 { font-size: 1.6rem; margin: .4em 0; }
   .hub h2 { font-size: 1.25rem; margin: 2.2em 0 .8em; padding: .35em .8em; border-left: 5px solid #1c1c2e; background: #f6f8fa; border-radius: 4px; }
   .hub-lead { color: #454e59; }
+  .hub-note { margin: -.4em 0 .8em; color: #6b7480; font-size: .92rem; }
   .cat-grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
   .cat-grid li a {
     display: flex; justify-content: space-between; align-items: center;

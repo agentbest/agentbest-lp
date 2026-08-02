@@ -29,7 +29,7 @@ const related = (post.data.related ?? [])
     {post.data.image && <img class="eyecatch" src={post.data.image} alt="" width="1200" height="630" />}
     <h1>{post.data.title}</h1>
     <p class="meta">
-      {post.data.category}：{post.data.jobType ?? post.data.industry}
+      {post.data.category}：{post.data.jobType ?? post.data.industry ?? post.data.companyName}
       ｜更新日 {post.data.pubDate.toLocaleDateString('ja-JP')}
     </p>
     <Content />
@@ -106,6 +106,33 @@ const related = (post.data.related ?? [])
     background: #fff; color: #1c1c2e; border-radius: 8px;
     text-decoration: none; font-weight: 700;
   }
+  /* エージェントベストの見解（markdown本文に <div class="ab-insight"> で記述） */
+  .media-article .ab-insight {
+    margin: 2.4em 0;
+    padding: 1.3rem 1.5rem;
+    border: 1px solid #cdd6dd;
+    border-radius: 10px;
+    background: #f4f8fa;
+  }
+  .media-article .ab-insight-label {
+    margin: 0 0 .6em;
+    font-size: .78rem;
+    font-weight: 700;
+    letter-spacing: .06em;
+    color: #1e5f56;
+  }
+  .media-article .ab-insight-label::before {
+    content: '';
+    display: inline-block;
+    width: 14px;
+    height: 2px;
+    background: #1e5f56;
+    vertical-align: middle;
+    margin-right: .5em;
+  }
+  .media-article .ab-insight p { margin: .8em 0 0; font-size: .95rem; }
+  .media-article .ab-insight p:first-of-type { margin-top: 0; }
+
   /* 本文中に差し込む中間CTA（markdown本文に <aside class="cta-inline"> で記述） */
   .media-article .cta-inline {
     margin: 2.4em 0;

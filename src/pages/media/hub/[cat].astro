@@ -5,14 +5,39 @@ import Layout from '../../../layouts/Layout.astro';
 import Header from '../../../components/Header.astro';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('media');
-  const groups = new Map();
-  for (const p of posts) {
-    const key = p.data.jobType ?? p.data.industry ?? p.data.companyName;
-    if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push(p);
+  // getStaticPaths は独立したスコープで実行されるため、定数もこの中に置く
+  // 領域ハブ（選考対策記事）の表示名。1つのhubに複数企業の記事がぶら下がるため、
+  // 記事の jobType/industry/companyName ではハブ名を決められない
+  const HUB_LABEL = {
+    consul: 'コンサルティング業界',
+    ma: 'M&A業界',
+    pm: 'PM・事業会社',
+    startup: 'スタートアップ',
+  };
+  // 記事の種別が混ざるハブ（企業＋業界＋職種）はパンくずを「領域別」にする
+  function hubCategory(items) {
+    const cats = new Set(items.map((i) => i.data.category));
+    return cats.size === 1 ? [...cats][0] : '領域';
   }
-  // 後方互換：hub 未指定の記事群は従来どおり記事slugの共通接頭辞から推定する
+
+  const posts = await getCollection('media');
+
+  // hub 単位でまとめる（同じ hub の記事は1ページに集約する）
+  const byHub = new Map();
+  const noHub = new Map();
+  for (const p of posts) {
+    if (p.data.hub) {
+      if (!byHub.has(p.data.hub)) byHub.set(p.data.hub, []);
+      byHub.get(p.data.hub).push(p);
+    } else {
+      // 後方互換：hub 未指定の記事は従来どおり職種／業界名でまとめる
+      const key = p.data.jobType ?? p.data.industry ?? p.data.companyName;
+      if (!noHub.has(key)) noHub.set(key, []);
+      noHub.get(key).push(p);
+    }
+  }
+
+  // 後方互換：hub 未指定の記事群のURLは記事slugの共通接頭辞から推定する
   function commonPrefix(arr) {
     if (arr.length === 1) return arr[0];
     let pre = arr[0];
@@ -21,12 +46,24 @@ export async function getStaticPaths() {
     }
     return pre.replace(/-$/, '');
   }
-  return [...groups.entries()].map(([name, items]) => ({
-    params: {
-      cat: items.find((i) => i.data.hub)?.data.hub ?? commonPrefix(items.map((i) => i.slug)),
-    },
-    props: { name, items, category: items[0].data.category },
-  }));
+
+  function label(hub, items) {
+    if (HUB_LABEL[hub]) return HUB_LABEL[hub];
+    // 従来のハブは全記事が同じ職種／業界なので、記事から名前を取れる
+    const d = items[0].data;
+    return d.jobType ?? d.industry ?? d.companyName ?? hub;
+  }
+
+  return [
+    ...[...byHub.entries()].map(([hub, items]) => ({
+      params: { cat: hub },
+      props: { name: label(hub, items), items, category: hubCategory(items) },
+    })),
+    ...[...noHub.entries()].map(([name, items]) => ({
+      params: { cat: commonPrefix(items.map((i) => i.slug)) },
+      props: { name, items, category: hubCategory(items) },
+    })),
+  ];
 }
 
 const { name, items, category } = Astro.props;
@@ -38,7 +75,7 @@ const description = `${name}の転職・キャリアに関する記事一覧で�
 <Layout title={title} description={description}>
   <Header />
   <section class="hub">
-    <p class="breadcrumb"><a href="/media">キャリアメディア</a> / {category === '職種' ? '職種別' : category === '企業' ? '企業別' : '業界別'}</p>
+    <p class="breadcrumb"><a href="/media">キャリアメディア</a> / {category === '職種' ? '職種別' : category === '企業' ? '企業別' : category === '領域' ? '領域別' : '業界別'}</p>
     <h1>{name}の転職情報</h1>
     <p class="hub-lead">
       {name}に関する転職・キャリア記事の一覧です。検討フェーズに応じてご活用ください。

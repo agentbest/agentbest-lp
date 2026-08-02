@@ -1,4 +1,4 @@
-// src/content/config.ts に追記してください
+// src/content/config.ts … メディア記事（src/content/media/*.md）のfrontmatter定義
 import { defineCollection, z } from 'astro:content';
 
 const media = defineCollection({
