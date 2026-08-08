@@ -9,7 +9,7 @@ tags: ["コーポレイトディレクション", "CDI", "コンサル転職", "
 pubDate: 2026-08-03
 slug: "company-corporate-directions-reputation"
 image: "/images/media/company-corporate-directions-reputation.png"
-related: ["consulting-industry-trend", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-career-path", "company-a-t-kearney-reputation"]
+related: ["consulting-industry-trend", "industry-senryaku-consul-tenshoku-nanido", "job-senryaku-consultant-tenshoku-nanido", "job-senryaku-consultant-nensyu"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社コーポレイト ディレクション 会社概要"

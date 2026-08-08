@@ -9,7 +9,7 @@ tags: ["戦略コンサル", "ケース面接", "選考フロー", "コンサル
 pubDate: 2026-08-02
 slug: "industry-senryaku-consul-senkou-flow"
 image: "/images/media/industry-senryaku-consul-senkou-flow.png"
-related: ["strategy-consultant-interview", "company-a-t-kearney-reputation", "company-abeam-consulting-reputation", "company-accenture-japan-reputation"]
+related: ["strategy-consultant-interview", "industry-senryaku-consul-career-path", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu"]
 reviewedAt: 2026-08-02
 sources:
   - name: "マッキンゼー・アンド・カンパニー日本 採用（応募方法）"

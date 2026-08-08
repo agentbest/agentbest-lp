@@ -9,7 +9,7 @@ tags: ["コンサル", "総合コンサルティングファーム", "アビー�
 pubDate: 2026-08-02
 slug: "company-abeam-consulting-reputation"
 image: "/images/media/company-abeam-consulting-reputation.png"
-related: ["strategy-consultant-english", "industry-senryaku-consul-senkou-flow", "company-a-t-kearney-reputation", "company-accenture-japan-reputation"]
+related: ["strategy-consultant-english", "industry-senryaku-consul-tenshoku-nanido", "job-senryaku-consultant-tenshoku-nanido", "company-accenture-japan-reputation"]
 reviewedAt: 2026-08-02
 sources:
   - name: "会社情報"

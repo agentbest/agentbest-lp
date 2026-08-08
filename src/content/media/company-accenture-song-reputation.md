@@ -9,7 +9,7 @@ tags: ["アクセンチュア", "アクセンチュアソング", "コンサル�
 pubDate: 2026-08-02
 slug: "company-accenture-song-reputation"
 image: "/images/media/company-accenture-song-reputation.png"
-related: ["big4-consultant-interview", "industry-senryaku-consul-senkou-flow", "company-a-t-kearney-reputation", "company-abeam-consulting-reputation"]
+related: ["big4-consultant-interview", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "company-pwc-japan-group-reputation"]
 reviewedAt: 2026-08-02
 sources:
   - name: "アクセンチュア株式会社 会社概要・地図（公式）"
