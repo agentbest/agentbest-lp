@@ -9,7 +9,7 @@ tags: ["味の素", "消費財", "食品", "アミノ酸", "東証プライム"]
 pubDate: 2026-08-06
 slug: "company-ajinomoto-reputation"
 image: "/images/media/company-ajinomoto-reputation.png"
-related: ["pmo-how-to-use-agent", "company-rikoojapan-reputation", "company-rikuruutohoorudingusu-reputation", "company-risonahoorudingusu-reputation"]
+related: ["pmo-how-to-use-agent", "company-amazonjapan-reputation", "company-amerikan-ekisupuresu-reputation", "company-arufashisutemuzu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "味の素株式会社 有価証券報告書 第148期（2026年3月期）"

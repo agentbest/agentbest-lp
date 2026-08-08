@@ -9,7 +9,7 @@ tags: ["みずほフィナンシャルグループ", "銀行", "金融", "持株
 pubDate: 2026-08-05
 slug: "company-mizuhofinansharuguruupu-reputation"
 image: "/images/media/company-mizuhofinansharuguruupu-reputation.png"
-related: ["product-manager-certification", "company-workday-reputation", "company-yamadahoorudingusu-reputation", "company-yuni-chaamu-reputation"]
+related: ["product-manager-certification", "company-kokusaikyouryokuginkou-reputation", "company-konikaminoruta-reputation", "company-kuredisezon-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "みずほフィナンシャルグループ 有価証券報告書 2025年度（2026年3月期）"

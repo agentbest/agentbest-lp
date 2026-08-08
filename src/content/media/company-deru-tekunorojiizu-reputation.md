@@ -9,7 +9,7 @@ tags: ["デル・テクノロジーズ", "外資系IT", "サーバー", "AIイ�
 pubDate: 2026-08-06
 slug: "company-deru-tekunorojiizu-reputation"
 image: "/images/media/company-deru-tekunorojiizu-reputation.png"
-related: ["dev-director-work-style", "company-toyotajidousha-reputation", "company-toyotakonekuteiddo-reputation", "company-ubsshouken-reputation"]
+related: ["dev-director-work-style", "company-morugan-sutanree-reputation", "company-murataseisakusho-reputation", "company-nec-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "Dell Technologies Inc. Form 10-K（FY2026・2026年1月30日終了年度）"

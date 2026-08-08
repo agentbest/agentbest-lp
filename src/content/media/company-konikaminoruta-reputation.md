@@ -9,7 +9,7 @@ tags: ["コニカミノルタ", "複合機", "メーカー", "IFRS", "東証プ�
 pubDate: 2026-08-05
 slug: "company-konikaminoruta-reputation"
 image: "/images/media/company-konikaminoruta-reputation.png"
-related: ["business-planning-motivation", "company-workday-reputation", "company-yamadahoorudingusu-reputation", "company-yuni-chaamu-reputation"]
+related: ["business-planning-motivation", "company-kddi-reputation", "company-kiiensu-reputation", "company-kiyanonitsoryuushonzu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "コニカミノルタ 有価証券報告書 第122期（2026年3月期）"

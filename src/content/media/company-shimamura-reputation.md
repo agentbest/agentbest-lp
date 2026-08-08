@@ -9,7 +9,7 @@ tags: ["しまむら", "小売", "アパレル", "プロジェクトマネージ
 pubDate: 2026-08-05
 slug: "company-shimamura-reputation"
 image: "/images/media/company-shimamura-reputation.png"
-related: ["dev-director-work-style", "company-ntthigashinihon-reputation", "company-nttkomuuea-reputation", "company-nttnishinihon-reputation"]
+related: ["dev-director-work-style", "company-waakuman-reputation", "company-workday-reputation", "company-yamadahoorudingusu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "しまむら 有価証券報告書 第73期（2026年2月期）"

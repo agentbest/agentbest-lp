@@ -9,7 +9,7 @@ tags: ["NSD", "SIer", "金融IT", "システム開発", "東証プライム"]
 pubDate: 2026-08-05
 slug: "company-nsd-reputation"
 image: "/images/media/company-nsd-reputation.png"
-related: ["business-planning-market-trend", "company-kiiensu-reputation", "company-kiyanonitsoryuushonzu-reputation", "company-konikaminoruta-reputation"]
+related: ["business-planning-market-trend", "company-tdk-reputation", "company-tis-reputation", "company-toukyouerekutoron-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NSD 有価証券報告書 第57期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["ローム", "メーカー", "半導体", "SiC", "東証プライム"]
 pubDate: 2026-08-06
 slug: "company-roomu-reputation"
 image: "/images/media/company-roomu-reputation.png"
-related: ["business-planning-interview", "company-ntttekunokurosu-reputation", "company-omuron-reputation", "company-oobikku-reputation"]
+related: ["business-planning-interview", "company-sas-institute-japan-reputation", "company-sbihoorudingusu-reputation", "company-screenhoorudingusu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ローム株式会社 有価証券報告書 第68期（2026年3月期）"

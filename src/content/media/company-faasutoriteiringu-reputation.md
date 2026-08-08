@@ -9,7 +9,7 @@ tags: ["ファーストリテイリング", "小売", "ユニクロ", "ジーユ
 pubDate: 2026-08-06
 slug: "company-faasutoriteiringu-reputation"
 image: "/images/media/company-faasutoriteiringu-reputation.png"
-related: ["project-manager-failure", "company-horiba-reputation", "company-infomeeshon-diberopumento-reputation", "company-ion-reputation"]
+related: ["project-manager-failure", "company-smbcnikkoushouken-reputation", "company-sofutobanku-reputation", "company-soniiguruupu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社ファーストリテイリング 有価証券報告書 第64期（2025年8月期）"

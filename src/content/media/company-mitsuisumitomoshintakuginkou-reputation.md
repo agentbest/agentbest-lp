@@ -9,7 +9,7 @@ tags: ["三井住友信託銀行", "金融", "信託銀行", "三井住友トラ
 pubDate: 2026-08-06
 slug: "company-mitsuisumitomoshintakuginkou-reputation"
 image: "/images/media/company-mitsuisumitomoshintakuginkou-reputation.png"
-related: ["corporate-planning-resume", "company-manekkusuguruupu-reputation", "company-mitsubishidenki-reputation", "company-mitsubishidenkisofutouea-reputation"]
+related: ["corporate-planning-resume", "company-nttkomuuea-reputation", "company-nttnishinihon-reputation", "company-ntttekunokurosu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "三井住友トラストグループ株式会社 有価証券報告書 第15期（2026年3月期）"

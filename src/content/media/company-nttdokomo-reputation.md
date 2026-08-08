@@ -9,7 +9,7 @@ tags: ["NTTドコモ", "通信", "NTTグループ", "プロジェクトマネー
 pubDate: 2026-08-05
 slug: "company-nttdokomo-reputation"
 image: "/images/media/company-nttdokomo-reputation.png"
-related: ["product-manager-english", "company-servicenow-japan-reputation", "company-shaapu-reputation", "company-shimamura-reputation"]
+related: ["product-manager-english", "company-fanakku-reputation", "company-fujitsuu-reputation", "company-fujitsuujapan-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NTT 有価証券報告書 第41期（2026年3月期）"

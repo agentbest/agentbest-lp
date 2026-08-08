@@ -9,7 +9,7 @@ tags: ["三菱UFJインフォメーションテクノロジー", "SIer", "MUIT",
 pubDate: 2026-08-06
 slug: "company-mitsubishiufjinfomeeshontekunorojii-reputation"
 image: "/images/media/company-mitsubishiufjinfomeeshontekunorojii-reputation.png"
-related: ["corporate-planning-market-trend", "company-kuredisezon-reputation", "company-kyousera-reputation", "company-manekkusuguruupu-reputation"]
+related: ["corporate-planning-market-trend", "company-ion-reputation", "company-itooyookadou-reputation", "company-itouchuutekunosoryuushonzu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "三菱UFJインフォメーションテクノロジー株式会社 会社概要（公式）"

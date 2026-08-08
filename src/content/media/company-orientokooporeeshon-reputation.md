@@ -9,7 +9,7 @@ tags: ["オリエントコーポレーション", "オリコ", "信販", "クレ
 pubDate: 2026-08-05
 slug: "company-orientokooporeeshon-reputation"
 image: "/images/media/company-orientokooporeeshon-reputation.png"
-related: ["product-manager-skills", "company-mizuhoginkou-reputation", "company-mizuhoshouken-reputation", "company-morugan-sutanree-reputation"]
+related: ["product-manager-skills", "company-pandgjapan-reputation", "company-raion-reputation", "company-rikoojapan-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "オリエントコーポレーション 有価証券報告書 第66期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["ユニリーバ・ジャパン", "消費財", "外資系", "パーソナ
 pubDate: 2026-08-06
 slug: "company-yuniriiba-japan-reputation"
 image: "/images/media/company-yuniriiba-japan-reputation.png"
-related: ["corporate-planning-salary-1000", "company-guuguru-kuraudo-japan-reputation", "company-horiba-reputation", "company-infomeeshon-diberopumento-reputation"]
+related: ["corporate-planning-salary-1000", "company-morugan-sutanree-reputation", "company-murataseisakusho-reputation", "company-nec-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ユニリーバ・ジャパンについて（公式）"

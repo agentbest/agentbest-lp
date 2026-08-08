@@ -9,7 +9,7 @@ tags: ["オービック", "SIer", "ERP", "システムインテグレーショ�
 pubDate: 2026-08-05
 slug: "company-oobikku-reputation"
 image: "/images/media/company-oobikku-reputation.png"
-related: ["product-manager-future", "company-nikon-reputation", "company-nitorihoorudingusu-reputation", "company-nsd-reputation"]
+related: ["product-manager-future", "company-kiyanonitsoryuushonzu-reputation", "company-kobayashiseiyaku-reputation", "company-kokusaikyouryokuginkou-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "オービック 有価証券報告書 第59期（2026年3月期）"

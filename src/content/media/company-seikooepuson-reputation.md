@@ -9,7 +9,7 @@ tags: ["セイコーエプソン", "エプソン", "プリンター", "メーカ
 pubDate: 2026-08-06
 slug: "company-seikooepuson-reputation"
 image: "/images/media/company-seikooepuson-reputation.png"
-related: ["dev-director-interview", "company-adobantesuto-reputation", "company-adobe-reputation", "company-ajinomoto-reputation"]
+related: ["dev-director-interview", "company-raion-reputation", "company-rikoojapan-reputation", "company-rikuruutohoorudingusu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "セイコーエプソン 有価証券報告書 第84期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["DTS", "SIer", "システム開発", "プロジェクトマネージャ�
 pubDate: 2026-08-05
 slug: "company-dts-reputation"
 image: "/images/media/company-dts-reputation.png"
-related: ["business-planning-skills", "company-mitsubishidenkisofutouea-reputation", "company-mitsubishiufjfinansharu-guruupu-reputation", "company-mitsubishiufjginkou-reputation"]
+related: ["business-planning-skills", "company-uubun-bai-toyota-reputation", "company-waakuman-reputation", "company-workday-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "DTS 有価証券報告書 第54期（2026年3月期）"

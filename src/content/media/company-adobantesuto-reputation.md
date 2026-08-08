@@ -9,7 +9,7 @@ tags: ["アドバンテスト", "半導体", "検査装置", "メーカー", "�
 pubDate: 2026-08-05
 slug: "company-adobantesuto-reputation"
 image: "/images/media/company-adobantesuto-reputation.png"
-related: ["corporate-planning-english", "company-sapjapan-reputation", "company-sas-institute-japan-reputation", "company-sbihoorudingusu-reputation"]
+related: ["corporate-planning-english", "company-nikon-reputation", "company-nippondenshindenwa-reputation", "company-nipponginkou-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "アドバンテスト 有価証券報告書 第84期（2026年3月期）"

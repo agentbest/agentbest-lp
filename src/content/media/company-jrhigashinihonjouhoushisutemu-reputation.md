@@ -9,7 +9,7 @@ tags: ["JR東日本情報システム", "JEIS", "SIer", "ユーザー系", "プ�
 pubDate: 2026-08-05
 slug: "company-jrhigashinihonjouhoushisutemu-reputation"
 image: "/images/media/company-jrhigashinihonjouhoushisutemu-reputation.png"
-related: ["project-manager-in-20s", "company-arufashisutemuzu-reputation", "company-aukabukomushouken-reputation", "company-bikkukamera-reputation"]
+related: ["project-manager-in-20s", "company-hondagikenkougyou-reputation", "company-horiba-reputation", "company-infomeeshon-diberopumento-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "JR東日本情報システム 公式サイト 会社概要"

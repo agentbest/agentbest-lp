@@ -9,7 +9,7 @@ tags: ["伊藤忠テクノソリューションズ", "SIer", "CTC", "伊藤忠�
 pubDate: 2026-08-06
 slug: "company-itouchuutekunosoryuushonzu-reputation"
 image: "/images/media/company-itouchuutekunosoryuushonzu-reputation.png"
-related: ["project-manager-interview", "company-sas-institute-japan-reputation", "company-sbihoorudingusu-reputation", "company-screenhoorudingusu-reputation"]
+related: ["project-manager-interview", "company-mitsubishidenki-reputation", "company-mitsubishidenkisofutouea-reputation", "company-mitsubishiufjfinansharu-guruupu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "伊藤忠テクノソリューションズ株式会社 会社概要（公式）"
