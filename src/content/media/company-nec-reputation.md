@@ -9,7 +9,7 @@ tags: ["NEC", "日本電気", "SIer", "メーカー", "プロジェクトマネ�
 pubDate: 2026-08-05
 slug: "company-nec-reputation"
 image: "/images/media/company-nec-reputation.png"
-related: ["project-manager-salary-600", "company-screenhoorudingusu-reputation", "company-scsk-reputation", "company-sebunandai-hoorudingusu-reputation"]
+related: ["project-manager-salary-600", "company-mitsubishiufjfinansharu-guruupu-reputation", "company-mitsubishiufjginkou-reputation", "company-mitsubishiufjinfomeeshontekunorojii-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NEC 有価証券報告書 第188期（2026年3月期）"

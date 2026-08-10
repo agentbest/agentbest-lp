@@ -9,7 +9,7 @@ tags: ["セブン&アイ・ホールディングス", "小売", "コンビニエ
 pubDate: 2026-08-06
 slug: "company-sebunandai-hoorudingusu-reputation"
 image: "/images/media/company-sebunandai-hoorudingusu-reputation.png"
-related: ["product-manager-english", "company-mitsubishiufjinfomeeshontekunorojii-reputation", "company-mitsubishiufjshintakuginkou-reputation", "company-mitsuijouhou-reputation"]
+related: ["product-manager-english", "company-ootsukashoukai-reputation", "company-orientokooporeeshon-reputation", "company-panasonikku-konekuto-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社セブン＆アイ・ホールディングス 有価証券報告書 第21期（2026年2月期）"

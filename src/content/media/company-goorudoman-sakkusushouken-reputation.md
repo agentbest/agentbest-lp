@@ -9,7 +9,7 @@ tags: ["ゴールドマン・サックス証券", "外資系証券", "投資銀�
 pubDate: 2026-08-06
 slug: "company-goorudoman-sakkusushouken-reputation"
 image: "/images/media/company-goorudoman-sakkusushouken-reputation.png"
-related: ["product-manager-salary", "company-mitsubishidenki-reputation", "company-mitsubishidenkisofutouea-reputation", "company-mitsubishiufjfinansharu-guruupu-reputation"]
+related: ["product-manager-salary", "company-nec-reputation", "company-necsoryuushon-inobeeta-reputation", "company-nesurenippon-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ゴールドマン・サックス証券 業務及び財産の状況に関する説明書（2025年12月期）"

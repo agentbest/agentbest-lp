@@ -9,7 +9,7 @@ tags: ["ビックカメラ", "小売", "家電量販", "コジマ", "東証プ�
 pubDate: 2026-08-06
 slug: "company-bikkukamera-reputation"
 image: "/images/media/company-bikkukamera-reputation.png"
-related: ["business-planning-motivation", "company-nec-reputation", "company-necsoryuushon-inobeeta-reputation", "company-nesurenippon-reputation"]
+related: ["business-planning-motivation", "company-nipponorakuru-reputation", "company-nipponrorearu-reputation", "company-nipponseisakutoushiginkou-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社ビックカメラ 有価証券報告書 第45期（2025年8月期）"

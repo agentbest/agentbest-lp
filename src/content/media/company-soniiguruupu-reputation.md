@@ -9,7 +9,7 @@ tags: ["ソニーグループ", "エンタテインメント", "半導体", "メ
 pubDate: 2026-08-06
 slug: "company-soniiguruupu-reputation"
 image: "/images/media/company-soniiguruupu-reputation.png"
-related: ["pmo-skills", "company-toukyouerekutoron-reputation", "company-toyotajidousha-reputation", "company-toyotakonekuteiddo-reputation"]
+related: ["pmo-skills", "company-shisukoshisutemuzu-reputation", "company-sky-reputation", "company-smbcnikkoushouken-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ソニーグループ株式会社 有価証券報告書 第109期（2026年3月期）"

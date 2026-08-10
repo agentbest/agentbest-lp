@@ -9,7 +9,7 @@ tags: ["イオン", "小売", "GMS", "純粋持株会社", "東証プライム"]
 pubDate: 2026-08-05
 slug: "company-ion-reputation"
 image: "/images/media/company-ion-reputation.png"
-related: ["business-planning-motivation", "company-tis-reputation", "company-toukyouerekutoron-reputation", "company-toyotajidousha-reputation"]
+related: ["business-planning-motivation", "company-nippondenshindenwa-reputation", "company-nipponginkou-reputation", "company-nipponhyuuretto-pakkaado-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "イオン 有価証券報告書 第101期（2026年2月期）"

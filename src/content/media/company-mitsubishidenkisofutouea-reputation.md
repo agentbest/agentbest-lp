@@ -9,7 +9,7 @@ tags: ["三菱電機ソフトウエア", "SIer", "組込みソフト", "三菱�
 pubDate: 2026-08-06
 slug: "company-mitsubishidenkisofutouea-reputation"
 image: "/images/media/company-mitsubishidenkisofutouea-reputation.png"
-related: ["corporate-planning-failure", "company-seerusufoosu-japan-reputation", "company-seikooepuson-reputation", "company-servicenow-japan-reputation"]
+related: ["corporate-planning-failure", "company-uubun-bai-toyota-reputation", "company-waakuman-reputation", "company-workday-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "三菱電機ソフトウエア株式会社 会社概要（公式）"

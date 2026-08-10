@@ -9,7 +9,7 @@ tags: ["Sky株式会社", "SKYSEA", "SIer", "自社パッケージ", "プロジ�
 pubDate: 2026-08-05
 slug: "company-sky-reputation"
 image: "/images/media/company-sky-reputation.png"
-related: ["corporate-planning-in-30s", "company-amerikan-ekisupuresu-reputation", "company-arufashisutemuzu-reputation", "company-aukabukomushouken-reputation"]
+related: ["corporate-planning-in-30s", "company-ntthigashinihon-reputation", "company-nttkomuuea-reputation", "company-nttnishinihon-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "Sky株式会社 公式サイト 企業情報（会社概要）"

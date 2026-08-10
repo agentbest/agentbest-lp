@@ -9,7 +9,7 @@ tags: ["シャープ", "家電", "ディスプレイ", "メーカー", "東証�
 pubDate: 2026-08-06
 slug: "company-shaapu-reputation"
 image: "/images/media/company-shaapu-reputation.png"
-related: ["product-manager-market-trend", "company-mitsubishiufjshintakuginkou-reputation", "company-mitsuijouhou-reputation", "company-mitsuisumitomofinansharuguruupu-reputation"]
+related: ["product-manager-market-trend", "company-screenhoorudingusu-reputation", "company-scsk-reputation", "company-sebunandai-hoorudingusu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "シャープ 有価証券報告書 第132期（2026年3月期）"

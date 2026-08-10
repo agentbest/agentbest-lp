@@ -9,7 +9,7 @@ tags: ["ユニ・チャーム", "消費財", "パーソナルケア", "ペット
 pubDate: 2026-08-06
 slug: "company-yuni-chaamu-reputation"
 image: "/images/media/company-yuni-chaamu-reputation.png"
-related: ["product-manager-salary", "company-goorudoman-sakkusushouken-reputation", "company-guuguru-kuraudo-japan-reputation", "company-hitachiseisakusho-reputation"]
+related: ["product-manager-salary", "company-jcb-reputation", "company-jpmoruganshouken-reputation", "company-jrhigashinihonjouhoushisutemu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ユニ・チャーム株式会社 有価証券報告書 第66期（2025年12月期）"

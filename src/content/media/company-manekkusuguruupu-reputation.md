@@ -9,7 +9,7 @@ tags: ["マネックスグループ", "金融", "ネット証券", "暗号資産
 pubDate: 2026-08-06
 slug: "company-manekkusuguruupu-reputation"
 image: "/images/media/company-manekkusuguruupu-reputation.png"
-related: ["corporate-planning-salary-1000", "company-kyousera-reputation", "company-meijiyasudashisutemu-tekunorojii-reputation", "company-mitsubishidenki-reputation"]
+related: ["corporate-planning-salary-1000", "company-yuniriiba-japan-reputation", "company-adobantesuto-reputation", "company-adobe-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "マネックスグループ株式会社 有価証券報告書 第22期（2026年3月期）"

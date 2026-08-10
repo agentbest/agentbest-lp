@@ -9,7 +9,7 @@ tags: ["アマゾンウェブサービスジャパン", "AWS", "クラウド", "
 pubDate: 2026-08-05
 slug: "company-amazon-uebusaabisujapan-reputation"
 image: "/images/media/company-amazon-uebusaabisujapan-reputation.png"
-related: ["dev-director-resume", "company-goorudoman-sakkusushouken-reputation", "company-guuguru-kuraudo-japan-reputation", "company-hitachiseisakusho-reputation"]
+related: ["dev-director-resume", "company-morugan-sutanree-reputation", "company-murataseisakusho-reputation", "company-nec-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "Amazon.com, Inc. Form 8-K Exhibit 99.1（2026年2月5日、Q4 2025決算）"

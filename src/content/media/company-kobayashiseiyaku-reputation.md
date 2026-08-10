@@ -9,7 +9,7 @@ tags: ["小林製薬", "消費財", "ヘルスケア", "日用品", "東証プ�
 pubDate: 2026-08-08
 slug: "company-kobayashiseiyaku-reputation"
 image: "/images/media/company-kobayashiseiyaku-reputation.png"
-related: ["product-manager-salary-600", "company-smbcnikkoushouken-reputation", "company-sofutobanku-reputation", "company-soniiguruupu-reputation"]
+related: ["product-manager-salary-600", "company-nttdeeta-reputation", "company-nttdeetaguruupu-reputation", "company-nttdeetasentangijutsu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "小林製薬株式会社 有価証券報告書 第108期（2025年12月期）"

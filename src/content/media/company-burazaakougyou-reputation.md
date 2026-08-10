@@ -9,7 +9,7 @@ tags: ["ブラザー工業", "メーカー", "プリンター", "名古屋", "�
 pubDate: 2026-08-06
 slug: "company-burazaakougyou-reputation"
 image: "/images/media/company-burazaakougyou-reputation.png"
-related: ["corporate-planning-from-scratch", "company-mitsubishiufjinfomeeshontekunorojii-reputation", "company-mitsubishiufjshintakuginkou-reputation", "company-mitsuijouhou-reputation"]
+related: ["corporate-planning-from-scratch", "company-horiba-reputation", "company-infomeeshon-diberopumento-reputation", "company-ion-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ブラザー工業株式会社 有価証券報告書 第134期（2026年3月期）"

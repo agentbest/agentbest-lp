@@ -9,7 +9,7 @@ tags: ["リクルートホールディングス", "HR", "Indeed", "人材派遣"
 pubDate: 2026-08-06
 slug: "company-rikuruutohoorudingusu-reputation"
 image: "/images/media/company-rikuruutohoorudingusu-reputation.png"
-related: ["business-planning-from-scratch", "company-screenhoorudingusu-reputation", "company-scsk-reputation", "company-sebunandai-hoorudingusu-reputation"]
+related: ["business-planning-from-scratch", "company-daikinkougyou-reputation", "company-daiwashouken-reputation", "company-densoo-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社リクルートホールディングス 有価証券報告書 第66期（2026年3月期）"

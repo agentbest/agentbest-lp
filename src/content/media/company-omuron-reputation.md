@@ -9,7 +9,7 @@ tags: ["オムロン", "制御機器", "ヘルスケア", "メーカー", "東�
 pubDate: 2026-08-05
 slug: "company-omuron-reputation"
 image: "/images/media/company-omuron-reputation.png"
-related: ["business-planning-certification", "company-nttkomuuea-reputation", "company-nttnishinihon-reputation", "company-ntttekunokurosu-reputation"]
+related: ["business-planning-certification", "company-yuni-chaamu-reputation", "company-yuniriiba-japan-reputation", "company-adobantesuto-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "オムロン 有価証券報告書 第89期（2026年3月期）"

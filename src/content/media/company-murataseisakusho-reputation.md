@@ -9,7 +9,7 @@ tags: ["村田製作所", "メーカー", "電子部品", "MLCC", "東証プラ�
 pubDate: 2026-08-08
 slug: "company-murataseisakusho-reputation"
 image: "/images/media/company-murataseisakusho-reputation.png"
-related: ["project-manager-salary-1000", "company-ajinomoto-reputation", "company-amazon-uebusaabisujapan-reputation", "company-amazonjapan-reputation"]
+related: ["project-manager-salary-1000", "company-roomu-reputation", "company-rooson-reputation", "company-runesasuerekutoronikusu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "株式会社村田製作所 有価証券報告書 第90期（2026年3月期）"

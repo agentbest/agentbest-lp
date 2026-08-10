@@ -9,7 +9,7 @@ tags: ["大和証券", "証券会社", "金融", "ウェルスマネジメント
 pubDate: 2026-08-08
 slug: "company-daiwashouken-reputation"
 image: "/images/media/company-daiwashouken-reputation.png"
-related: ["business-planning-skills", "company-mizuhoshouken-reputation", "company-morugan-sutanree-reputation", "company-murataseisakusho-reputation"]
+related: ["business-planning-skills", "company-mizuhofinansharuguruupu-reputation", "company-mizuhoginkou-reputation", "company-mizuhoshouken-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "株式会社大和証券グループ本社 有価証券報告書 第89期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["安川電機", "メーカー", "産業用ロボット", "モーション
 pubDate: 2026-08-08
 slug: "company-yasukawadenki-reputation"
 image: "/images/media/company-yasukawadenki-reputation.png"
-related: ["business-planning-in-20s", "company-kokusaikyouryokuginkou-reputation", "company-konikaminoruta-reputation", "company-kuredisezon-reputation"]
+related: ["business-planning-in-20s", "company-infomeeshon-diberopumento-reputation", "company-ion-reputation", "company-itooyookadou-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "株式会社安川電機 有価証券報告書 第110期（2026年2月期）"
