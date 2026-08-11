@@ -5,21 +5,17 @@ import Header from '../components/Header.astro';
 /* ---------------------------------------------------------------
    Airtable「キャリア相談」フォーム
    ---------------------------------------------------------------
-   テーブル: 求人応募（サイト） / ベース: 人材紹介事業
-   Airtable 側でフォームを複製・調整したら、FORM_SHARE_ID の shr… を
-   差し替えるだけでこのページに反映されます。
-   （相談用フォームでは 履歴書・職務経歴書 を「任意」にしてください）
+   ベース: 人材紹介事業 / テーブル: 求職者（HP）
+   相談専用の Airtable フォーム（ページID pagFw3nywLJ4AJF3n）。
+   求人応募フォームとは別テーブル・別フォームで、履歴書・職務経歴書は任意。
+   応募求人・企業名・求人レコードIDはフォームに無いのでプリフィルは不要。
+   Airtable 側でフォームを作り直したら FORM_PAGE_ID を差し替える。
 --------------------------------------------------------------- */
 const AIRTABLE_BASE_ID = 'appYkc36EvioYoL1A';
-const FORM_SHARE_ID = 'shr0K5l9MSiNMgUe6';
+const FORM_PAGE_ID = 'pagFw3nywLJ4AJF3n';
 
-const formParams = new URLSearchParams({
-  prefill_応募求人: 'キャリア相談（求人未定）',
-  hide_応募求人: 'true',
-  hide_企業名: 'true',
-  hide_求人レコードID: 'true',
-});
-const FORM_EMBED_URL = `https://airtable.com/embed/${AIRTABLE_BASE_ID}/${FORM_SHARE_ID}?${formParams}`;
+const FORM_EMBED_URL = `https://airtable.com/embed/${AIRTABLE_BASE_ID}/${FORM_PAGE_ID}/form`;
+const FORM_DIRECT_URL = `https://airtable.com/${AIRTABLE_BASE_ID}/${FORM_PAGE_ID}/form`;
 
 const CALENDLY_URL = 'https://calendly.com/r_matsuoka';
 
@@ -142,7 +138,7 @@ const steps = [
 
         <p class="form-foot">
           フォームが表示されない場合は
-          <a href={FORM_EMBED_URL.replace('/embed/', '/')} target="_blank" rel="noopener">こちらから直接ご記入</a>
+          <a href={FORM_DIRECT_URL} target="_blank" rel="noopener">こちらから直接ご記入</a>
           いただけます。
         </p>
 
@@ -255,9 +251,9 @@ const steps = [
       border-radius: 3px;
       overflow: hidden;
     }
-    .airtable-embed { display: block; width: 100%; height: 2780px; border: 0; background: #fff; }
-    @media (max-width: 900px) { .airtable-embed { height: 3000px; } }
-    @media (max-width: 560px) { .airtable-embed { height: 3400px; } }
+    .airtable-embed { display: block; width: 100%; height: 1960px; border: 0; background: #fff; }
+    @media (max-width: 900px) { .airtable-embed { height: 2150px; } }
+    @media (max-width: 560px) { .airtable-embed { height: 2500px; } }
 
     .form-foot { margin-top: 1.2rem; font-size: 0.8rem; color: var(--slate-mute); }
     .form-foot a { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
