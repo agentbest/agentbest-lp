@@ -9,7 +9,7 @@ tags: ["JCB", "ジェーシービー", "決済", "クレジットカード", "�
 pubDate: 2026-08-05
 slug: "company-jcb-reputation"
 image: "/images/media/company-jcb-reputation.png"
-related: ["project-manager-in-30s", "company-kyousera-reputation", "company-manekkusuguruupu-reputation", "company-matsuishouken-reputation"]
+related: ["project-manager-in-30s", "industry-jigyo-gaisha-pdm-nensyu", "company-orientokooporeeshon-reputation", "company-panasonikku-konekuto-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "JCB 公式サイト 会社概要"

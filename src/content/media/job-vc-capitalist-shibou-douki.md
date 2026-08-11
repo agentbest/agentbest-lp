@@ -9,7 +9,7 @@ tags: ["ベンチャーキャピタル", "VC", "志望動機", "投資", "転職
 pubDate: 2026-08-11
 slug: "job-vc-capitalist-shibou-douki"
 image: "/images/media/job-vc-capitalist-shibou-douki.png"
-related: ["saas-sales-company-size", "job-vc-capitalist-career-path", "job-vc-capitalist-nensyu", "company-rakutenguruupu-reputation"]
+related: ["saas-industry-trend", "job-vc-capitalist-career-path", "job-vc-capitalist-nensyu", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ファンドマネージャー"

@@ -9,7 +9,7 @@ tags: ["Workday", "ワークデイ", "外資系IT", "SaaS", "人事システム"
 pubDate: 2026-08-05
 slug: "company-workday-reputation"
 image: "/images/media/company-workday-reputation.png"
-related: ["project-manager-career-guide", "company-rikoojapan-reputation", "company-rikuruutohoorudingusu-reputation", "company-risonahoorudingusu-reputation"]
+related: ["project-manager-career-guide", "industry-jigyo-gaisha-pdm-senkou-flow", "company-morugan-sutanree-reputation", "company-murataseisakusho-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "Workday Announces Fiscal 2026 Fourth Quarter and Full Year Financial Results（2026年2月24日・Form 8-K Exhibit 99.1）"

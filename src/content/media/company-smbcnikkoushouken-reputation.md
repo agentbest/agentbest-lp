@@ -9,7 +9,7 @@ tags: ["SMBC日興証券", "証券会社", "IBD", "M&A", "三井住友フィナ�
 pubDate: 2026-08-05
 slug: "company-smbcnikkoushouken-reputation"
 image: "/images/media/company-smbcnikkoushouken-reputation.png"
-related: ["project-manager-company-size", "company-nesurenippon-reputation", "company-nikon-reputation", "company-nippondenshindenwa-reputation"]
+related: ["project-manager-company-size", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow", "industry-jigyo-gaisha-pdm-shibou-douki"]
 reviewedAt: 2026-08-05
 sources:
   - name: "SMBC日興証券 業務及び財産の状況に関する説明書（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["ベンチャーキャピタル", "VC", "転職難易度", "投資", "ス
 pubDate: 2026-08-11
 slug: "job-vc-capitalist-tenshoku-nanido"
 image: "/images/media/job-vc-capitalist-tenshoku-nanido.png"
-related: ["saas-industry-career", "job-vc-capitalist-career-path", "job-vc-capitalist-nensyu", "company-rogurasu-reputation"]
+related: ["industry-saas-startup-career-path", "job-vc-capitalist-career-path", "job-vc-capitalist-nensyu", "industry-mega-venture-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ファンドマネージャー"

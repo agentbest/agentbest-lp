@@ -9,7 +9,7 @@ tags: ["ログラス", "Loglass", "経営管理", "SaaS", "非上場"]
 pubDate: 2026-08-15
 slug: "company-rogurasu-reputation"
 image: "/images/media/company-rogurasu-reputation.png"
-related: ["bizdev-resume", "job-it-architect-nensyu", "job-inside-sales-nensyu", "job-inside-sales-senkou-flow"]
+related: ["customer-success-career-guide", "industry-mega-venture-nensyu", "job-jigyo-kikaku-nensyu", "job-field-sales-nensyu"]
 reviewedAt: 2026-08-15
 sources:
   - name: "株式会社ログラス 会社概要"

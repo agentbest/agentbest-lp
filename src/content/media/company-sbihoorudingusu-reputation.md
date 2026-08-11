@@ -9,7 +9,7 @@ tags: ["SBIホールディングス", "金融", "持株会社", "ネット証券
 pubDate: 2026-08-05
 slug: "company-sbihoorudingusu-reputation"
 image: "/images/media/company-sbihoorudingusu-reputation.png"
-related: ["corporate-planning-career-guide", "company-ajinomoto-reputation", "company-amazon-uebusaabisujapan-reputation", "company-amazonjapan-reputation"]
+related: ["corporate-planning-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-seerusufoosu-japan-reputation", "company-seikooepuson-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "SBIホールディングス 有価証券報告書 第28期（2026年3月期）"

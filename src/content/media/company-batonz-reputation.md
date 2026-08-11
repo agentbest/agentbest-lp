@@ -9,7 +9,7 @@ tags: ["バトンズ", "BATONZ", "M&Aプラットフォーム", "東証グロー
 pubDate: 2026-08-23
 slug: "company-batonz-reputation"
 image: "/images/media/company-batonz-reputation.png"
-related: ["ma-advisor-market-trend", "job-fas-analyst-tenshoku-nanido", "company-furonteia-manejimento-reputation", "company-gca-reputation"]
+related: ["ma-advisor-market-trend", "job-fas-analyst-senkou-flow", "company-mandabesutopaatonaazu-reputation", "company-mandakyapitarupaatonaazu-reputation"]
 reviewedAt: 2026-08-23
 sources:
   - name: "有価証券報告書 第8期（2026年3月期）"

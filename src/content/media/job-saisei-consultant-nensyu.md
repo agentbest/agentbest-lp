@@ -9,7 +9,7 @@ tags: ["事業再生", "ターンアラウンド", "年収相場", "賃金構造
 pubDate: 2026-08-11
 slug: "job-saisei-consultant-nensyu"
 image: "/images/media/job-saisei-consultant-nensyu.png"
-related: ["ma-advisor-salary-1000", "job-saisei-consultant-career-path", "job-saisei-consultant-senkou-flow", "company-banku-obu-amerikashouken-reputation"]
+related: ["ma-advisor-salary-1000", "job-saisei-consultant-career-path", "job-saisei-consultant-senkou-flow", "company-nipponmandaadobaizaakyoukai-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

@@ -9,7 +9,7 @@ tags: ["社内SE", "志望動機", "職務経歴書", "情報システム部門"
 pubDate: 2026-08-10
 slug: "job-shanai-se-shibou-douki"
 image: "/images/media/job-shanai-se-shibou-douki.png"
-related: ["customer-success-work-style", "job-shanai-se-tenshoku-nanido", "job-shanai-se-career-path", "company-wisevine-reputation"]
+related: ["saas-industry-company", "job-shanai-se-career-path", "job-shanai-se-nensyu", "industry-mega-venture-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／運用・管理（IT）"

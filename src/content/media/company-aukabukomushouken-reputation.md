@@ -9,7 +9,7 @@ tags: ["auカブコム証券", "三菱UFJ eスマート証券", "ネット証券
 pubDate: 2026-08-05
 slug: "company-aukabukomushouken-reputation"
 image: "/images/media/company-aukabukomushouken-reputation.png"
-related: ["project-manager-certification", "company-nesurenippon-reputation", "company-nikon-reputation", "company-nippondenshindenwa-reputation"]
+related: ["project-manager-certification", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow"]
 reviewedAt: 2026-08-05
 sources:
   - name: "三菱UFJ eスマート証券（旧auカブコム証券）業務及び財産の状況に関する説明書 第27期（2025年4月1日～2026年3月31日）"

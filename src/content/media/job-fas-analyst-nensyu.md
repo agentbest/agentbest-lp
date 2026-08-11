@@ -9,7 +9,7 @@ tags: ["FAS", "アナリスト", "年収相場", "賃金構造基本統計調査
 pubDate: 2026-08-10
 slug: "job-fas-analyst-nensyu"
 image: "/images/media/job-fas-analyst-nensyu.png"
-related: ["post-consultant-market-trend", "job-fas-analyst-shibou-douki", "job-fas-analyst-tenshoku-nanido", "company-yamadakonsaruteinguguruupu-reputation"]
+related: ["post-consultant-market-trend", "job-fas-analyst-career-path", "job-fas-analyst-senkou-flow", "company-yamadakonsaruteinguguruupu-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／公認会計士"

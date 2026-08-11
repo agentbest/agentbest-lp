@@ -9,7 +9,7 @@ tags: ["事業開発", "BizDev", "志望動機", "職務経歴書", "転職書�
 pubDate: 2026-08-10
 slug: "job-bizdev-shibou-douki"
 image: "/images/media/job-bizdev-shibou-douki.png"
-related: ["product-manager-english", "job-bizdev-career-path", "job-bizdev-nensyu", "company-rogurasu-reputation"]
+related: ["saas-sales-salary-1000", "job-bizdev-career-path", "job-bizdev-nensyu", "industry-mega-venture-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

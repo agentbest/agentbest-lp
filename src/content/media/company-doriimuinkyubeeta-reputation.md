@@ -9,7 +9,7 @@ tags: ["ドリームインキュベータ", "DI", "戦略コンサル", "東証�
 pubDate: 2026-08-03
 slug: "company-doriimuinkyubeeta-reputation"
 image: "/images/media/company-doriimuinkyubeeta-reputation.png"
-related: ["business-consultant-market-trend", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-tanabekonsaruteinguguruupu-reputation"]
+related: ["business-consultant-market-trend", "industry-senryaku-consul-senkou-flow", "job-pmo-consultant-senkou-flow", "company-abeam-consulting-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社ドリームインキュベータ 有価証券報告書 第26期（2025年4月1日〜2026年3月31日、2026年6月19日提出）"

@@ -9,7 +9,7 @@ tags: ["京セラ", "メーカー", "電子部品", "アメーバ経営", "東�
 pubDate: 2026-08-06
 slug: "company-kyousera-reputation"
 image: "/images/media/company-kyousera-reputation.png"
-related: ["product-manager-salary", "company-nipponorakuru-reputation", "company-nipponrorearu-reputation", "company-nipponseisakutoushiginkou-reputation"]
+related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-nensyu", "company-deru-tekunorojiizu-reputation", "company-dts-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "京セラ株式会社 有価証券報告書 第72期（2026年3月期）"

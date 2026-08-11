@@ -9,7 +9,7 @@ tags: ["マネジメントソリューションズ", "MSOL", "PMO", "プロジ�
 pubDate: 2026-08-21
 slug: "company-manejimentosoryuushonzu-reputation"
 image: "/images/media/company-manejimentosoryuushonzu-reputation.png"
-related: ["thinktank-salary-600", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-corporate-directions-reputation"]
+related: ["thinktank-salary-600", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-reiyaazu-konsaruteingu-reputation"]
 reviewedAt: 2026-08-21
 sources:
   - name: "有価証券報告書 第21期（2025年12月期）"

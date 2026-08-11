@@ -9,7 +9,7 @@ tags: ["プロダクトマネージャー", "PdM", "年収相場", "賃金構造
 pubDate: 2026-08-11
 slug: "job-product-manager-nensyu"
 image: "/images/media/job-product-manager-nensyu.png"
-related: ["product-manager-market-trend", "job-product-manager-career-path", "job-product-manager-senkou-flow", "company-atama-plus-reputation"]
+related: ["saas-sales-company-size", "job-product-manager-career-path", "job-product-manager-senkou-flow", "industry-mega-venture-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

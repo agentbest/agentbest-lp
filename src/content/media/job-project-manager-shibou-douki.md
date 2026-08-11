@@ -9,7 +9,7 @@ tags: ["プロジェクトマネージャー", "PjM", "志望動機", "職務経
 pubDate: 2026-08-10
 slug: "job-project-manager-shibou-douki"
 image: "/images/media/job-project-manager-shibou-douki.png"
-related: ["customer-success-career-path", "job-project-manager-career-path", "job-project-manager-nensyu", "company-andopaddo-reputation"]
+related: ["bizdev-future", "job-project-manager-career-path", "job-project-manager-nensyu", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

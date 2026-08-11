@@ -9,7 +9,7 @@ tags: ["CxO候補", "経営幹部", "選考フロー", "面接対策", "スタ�
 pubDate: 2026-08-10
 slug: "job-cxo-kouho-senkou-flow"
 image: "/images/media/job-cxo-kouho-senkou-flow.png"
-related: ["saas-sales-failure", "job-cxo-kouho-career-path", "job-cxo-kouho-nensyu", "company-tbm-reputation"]
+related: ["bizdev-market-trend", "job-cxo-kouho-career-path", "job-cxo-kouho-nensyu", "industry-mega-venture-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "国税庁 タックスアンサー No.5200 役員の範囲"

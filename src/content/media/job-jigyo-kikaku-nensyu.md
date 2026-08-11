@@ -9,7 +9,7 @@ tags: ["事業企画", "年収相場", "賃金構造基本統計調査", "スタ
 pubDate: 2026-08-10
 slug: "job-jigyo-kikaku-nensyu"
 image: "/images/media/job-jigyo-kikaku-nensyu.png"
-related: ["saas-sales-failure", "job-jigyo-kikaku-career-path", "job-jigyo-kikaku-senkou-flow", "company-fundinno-reputation"]
+related: ["customer-success-certification", "job-jigyo-kikaku-career-path", "job-jigyo-kikaku-senkou-flow", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

@@ -9,7 +9,7 @@ tags: ["CxO候補", "経営幹部", "キャリアパス", "スタートアップ
 pubDate: 2026-08-10
 slug: "job-cxo-kouho-career-path"
 image: "/images/media/job-cxo-kouho-career-path.png"
-related: ["customer-success-company-size", "job-cxo-kouho-nensyu", "job-cxo-kouho-senkou-flow", "company-tbm-reputation"]
+related: ["product-manager-in-30s", "job-cxo-kouho-nensyu", "job-cxo-kouho-senkou-flow", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "国税庁 タックスアンサー No.5200 役員の範囲"

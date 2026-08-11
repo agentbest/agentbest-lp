@@ -9,7 +9,7 @@ tags: ["みずほキャピタル", "みずほフィナンシャルグループ",
 pubDate: 2026-08-25
 slug: "company-mizuhokyapitaru-reputation"
 image: "/images/media/company-mizuhokyapitaru-reputation.png"
-related: ["finance-market-trend", "job-ma-chukai-eigyo-career-path", "company-doitsushouken-reputation", "company-east-ventures-reputation"]
+related: ["finance-market-trend", "job-fas-analyst-senkou-flow", "job-ma-chukai-eigyo-senkou-flow", "job-ma-chukai-eigyo-shibou-douki"]
 reviewedAt: 2026-08-25
 sources:
   - name: "株式会社みずほフィナンシャルグループ 有価証券報告書 第24期（2026年3月期）"

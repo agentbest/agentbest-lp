@@ -9,7 +9,7 @@ tags: ["グロービング", "Globe-ing", "戦略コンサルティング", "東
 pubDate: 2026-08-19
 slug: "company-guroobingu-reputation"
 image: "/images/media/company-guroobingu-reputation.png"
-related: ["business-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-abanto-reputation"]
+related: ["business-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-dentsuusouken-reputation"]
 reviewedAt: 2026-08-19
 sources:
   - name: "有価証券報告書 第10期（2025年5月期）"

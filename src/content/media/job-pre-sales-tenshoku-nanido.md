@@ -9,7 +9,7 @@ tags: ["プリセールス", "セールスエンジニア", "転職難易度", "
 pubDate: 2026-08-10
 slug: "job-pre-sales-tenshoku-nanido"
 image: "/images/media/job-pre-sales-tenshoku-nanido.png"
-related: ["product-manager-interview", "job-pre-sales-career-path", "job-pre-sales-nensyu", "company-merukari-reputation"]
+related: ["product-manager-market-trend", "job-pre-sales-nensyu", "job-pre-sales-senkou-flow", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／システムエンジニア（基盤システム）"

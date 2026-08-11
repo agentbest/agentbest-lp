@@ -9,7 +9,7 @@ tags: ["ラック", "情報セキュリティ", "KDDI", "システムインテ�
 pubDate: 2026-08-21
 slug: "company-rakku-reputation"
 image: "/images/media/company-rakku-reputation.png"
-related: ["thinktank-in-30s", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "company-atstream-consulting-reputation"]
+related: ["it-consultant-in-30s", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "company-sigmaxyz-holdings-reputation"]
 reviewedAt: 2026-08-21
 sources:
   - name: "有価証券報告書 第17期（2024年3月期）"

@@ -9,7 +9,7 @@ tags: ["DIMENSION", "ベンチャーキャピタル", "ドリームインキュ�
 pubDate: 2026-08-23
 slug: "company-dimension-reputation"
 image: "/images/media/company-dimension-reputation.png"
-related: ["finance-english", "job-fas-analyst-tenshoku-nanido", "company-eysutoratejii-ando-konsaruteingu-reputation", "company-fronteo-reputation"]
+related: ["finance-english", "job-ma-chukai-eigyo-tenshoku-nanido", "company-spiral-capital-reputation", "company-strive-reputation"]
 reviewedAt: 2026-08-23
 sources:
   - name: "DIMENSION株式会社 公式サイト（会社概要）"

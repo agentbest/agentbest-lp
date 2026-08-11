@@ -9,7 +9,7 @@ tags: ["PEファンド", "プライベートエクイティ", "選考フロー",
 pubDate: 2026-08-11
 slug: "job-pe-investment-senkou-flow"
 image: "/images/media/job-pe-investment-senkou-flow.png"
-related: ["bizdev-failure", "job-pe-investment-career-path", "job-pe-investment-nensyu", "company-guroobaruuei-reputation"]
+related: ["bizdev-from-scratch", "job-pe-investment-career-path", "job-pe-investment-nensyu", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント/M&Aアドバイザー"

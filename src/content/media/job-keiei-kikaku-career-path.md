@@ -9,7 +9,7 @@ tags: ["経営企画", "キャリアパス", "IR", "スタートアップ", "上
 pubDate: 2026-08-10
 slug: "job-keiei-kikaku-career-path"
 image: "/images/media/job-keiei-kikaku-career-path.png"
-related: ["product-manager-resume", "job-keiei-kikaku-nensyu", "job-keiei-kikaku-senkou-flow", "company-upsider-reputation"]
+related: ["saas-sales-career-guide", "job-keiei-kikaku-nensyu", "job-keiei-kikaku-senkou-flow", "industry-mega-venture-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／IR広報担当"

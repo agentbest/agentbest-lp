@@ -9,7 +9,7 @@ tags: ["東芝", "メーカー", "上場廃止", "東芝再興計画", "非上�
 pubDate: 2026-08-09
 slug: "company-toushiba-reputation"
 image: "/images/media/company-toushiba-reputation.png"
-related: ["pmo-resume", "company-mitsubishiufjginkou-reputation", "company-mitsubishiufjinfomeeshontekunorojii-reputation", "company-mitsubishiufjshintakuginkou-reputation"]
+related: ["pmo-resume", "industry-jigyo-gaisha-pdm-nensyu", "company-ainesu-reputation", "company-airu-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "株式会社東芝 2025年度決算（2026年5月15日）"

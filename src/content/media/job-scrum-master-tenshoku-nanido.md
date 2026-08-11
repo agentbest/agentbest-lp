@@ -9,7 +9,7 @@ tags: ["スクラムマスター", "アジャイル", "転職難易度", "資格
 pubDate: 2026-08-10
 slug: "job-scrum-master-tenshoku-nanido"
 image: "/images/media/job-scrum-master-tenshoku-nanido.png"
-related: ["saas-industry-guide", "job-scrum-master-career-path", "job-scrum-master-nensyu", "company-upsider-reputation"]
+related: ["product-manager-company-size", "job-scrum-master-career-path", "job-scrum-master-nensyu", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

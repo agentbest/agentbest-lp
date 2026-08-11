@@ -9,7 +9,7 @@ tags: ["カスタマーサクセス", "SaaS", "キャリアパス", "解約率",
 pubDate: 2026-08-10
 slug: "job-customer-success-career-path"
 image: "/images/media/job-customer-success-career-path.png"
-related: ["customer-success-work-style", "job-customer-success-nensyu", "job-customer-success-senkou-flow", "company-mediaeido-reputation"]
+related: ["customer-success-failure", "job-customer-success-nensyu", "job-customer-success-senkou-flow", "industry-mega-venture-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ヘルプデスク（IT）"

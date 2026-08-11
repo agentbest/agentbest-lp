@@ -9,7 +9,7 @@ tags: ["ディー・エヌ・エー", "DeNA", "メガベンチャー", "東証�
 pubDate: 2026-08-14
 slug: "company-dii-enu-ee-reputation"
 image: "/images/media/company-dii-enu-ee-reputation.png"
-related: ["product-manager-salary-600", "job-customer-success-shibou-douki", "company-bittokii-reputation", "company-burijjiwan-reputation"]
+related: ["product-manager-skills", "industry-mega-venture-shibou-douki", "job-vc-capitalist-shibou-douki", "job-product-manager-shibou-douki"]
 reviewedAt: 2026-08-14
 sources:
   - name: "有価証券報告書 第28期（2026年3月期）"

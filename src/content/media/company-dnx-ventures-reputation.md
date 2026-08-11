@@ -9,7 +9,7 @@ tags: ["DNX Ventures", "ベンチャーキャピタル", "B2B", "SaaS", "Draper 
 pubDate: 2026-08-23
 slug: "company-dnx-ventures-reputation"
 image: "/images/media/company-dnx-ventures-reputation.png"
-related: ["post-consultant-failure", "job-ma-chukai-eigyo-career-path", "company-anri-reputation", "company-aozoraginkouguruupu-reputation"]
+related: ["post-consultant-failure", "job-saisei-consultant-career-path", "job-ma-advisor-career-path", "job-ma-advisor-nensyu"]
 reviewedAt: 2026-08-23
 sources:
   - name: "DNX Ventures 公式サイト（日本ファンド／Team）"

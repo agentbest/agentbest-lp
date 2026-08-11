@@ -9,7 +9,7 @@ tags: ["リコージャパン", "SIer", "デジタルサービス", "リコー",
 pubDate: 2026-08-06
 slug: "company-rikoojapan-reputation"
 image: "/images/media/company-rikoojapan-reputation.png"
-related: ["dev-director-company-size", "company-soniiguruupu-reputation", "company-sonpojapanshisutemuzu-reputation", "company-tdk-reputation"]
+related: ["dev-director-company-size", "industry-jigyo-gaisha-pdm-shibou-douki", "company-jbcchoorudingusu-reputation", "company-jcb-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社リコー 有価証券報告書 第126期（2026年3月期）"

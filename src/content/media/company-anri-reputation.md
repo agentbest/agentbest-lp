@@ -9,7 +9,7 @@ tags: ["ANRI", "ベンチャーキャピタル", "シード投資", "ディー�
 pubDate: 2026-08-23
 slug: "company-anri-reputation"
 image: "/images/media/company-anri-reputation.png"
-related: ["post-consultant-resume", "job-fas-analyst-tenshoku-nanido", "company-ondekku-reputation", "company-peakyapitaru-reputation"]
+related: ["post-consultant-resume", "job-ma-chukai-eigyo-tenshoku-nanido", "job-saisei-consultant-tenshoku-nanido", "company-adobantejjipaatonaazu-reputation"]
 reviewedAt: 2026-08-23
 sources:
   - name: "科学技術振興機構（JST）ディープテック・スタートアップ国際展開プログラム 事業化推進機関 ANRI株式会社"

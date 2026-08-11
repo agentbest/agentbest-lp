@@ -9,7 +9,7 @@ tags: ["リブ・コンサルティング", "LiB Consulting", "ベンチャー�
 pubDate: 2026-08-03
 slug: "company-ribu-konsaruteingu-reputation"
 image: "/images/media/company-ribu-konsaruteingu-reputation.png"
-related: ["strategy-consultant-salary", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "company-sutoraikuguruupu-reputation"]
+related: ["job-gyomu-consultant-career-path", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "job-sap-consultant-nensyu"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社リブ・コンサルティング 会社案内"

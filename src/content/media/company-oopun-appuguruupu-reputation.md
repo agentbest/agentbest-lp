@@ -9,7 +9,7 @@ tags: ["オープンアップグループ", "技術者派遣", "持株会社", "
 pubDate: 2026-08-11
 slug: "company-oopun-appuguruupu-reputation"
 image: "/images/media/company-oopun-appuguruupu-reputation.png"
-related: ["product-manager-salary", "industry-mega-venture-tenshoku-nanido", "job-customer-success-tenshoku-nanido", "company-kyadi-reputation"]
+related: ["bizdev-failure", "industry-mega-venture-tenshoku-nanido", "job-customer-success-tenshoku-nanido", "company-kyadi-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社オープンアップグループ 有価証券報告書 第21期（2025年6月期・2025年9月22日提出）"

@@ -9,7 +9,7 @@ tags: ["PEファンド", "プライベートエクイティ", "転職難易度",
 pubDate: 2026-08-11
 slug: "job-pe-investment-tenshoku-nanido"
 image: "/images/media/job-pe-investment-tenshoku-nanido.png"
-related: ["bizdev-company-size", "job-pe-investment-career-path", "job-pe-investment-nensyu", "company-gurii-reputation"]
+related: ["saas-industry-salary", "job-pe-investment-career-path", "job-pe-investment-nensyu", "industry-mega-venture-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント/M&Aアドバイザー"

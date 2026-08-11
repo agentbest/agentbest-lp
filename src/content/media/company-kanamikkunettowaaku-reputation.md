@@ -9,7 +9,7 @@ tags: ["カナミックネットワーク", "介護クラウド", "地域包括�
 pubDate: 2026-08-11
 slug: "company-kanamikkunettowaaku-reputation"
 image: "/images/media/company-kanamikkunettowaaku-reputation.png"
-related: ["bizdev-interview", "industry-mega-venture-career-path", "job-inside-sales-career-path", "job-field-sales-career-path"]
+related: ["customer-success-salary", "industry-mega-venture-career-path", "job-inside-sales-career-path", "job-field-sales-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社カナミックネットワーク 有価証券報告書 第25期（2025年9月期・2025年12月17日提出）"

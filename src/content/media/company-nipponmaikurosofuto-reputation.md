@@ -9,7 +9,7 @@ tags: ["日本マイクロソフト", "外資系IT", "クラウド", "Azure", "�
 pubDate: 2026-08-08
 slug: "company-nipponmaikurosofuto-reputation"
 image: "/images/media/company-nipponmaikurosofuto-reputation.png"
-related: ["project-manager-resume", "company-kiiensu-reputation", "company-kiyanonitsoryuushonzu-reputation", "company-kobayashiseiyaku-reputation"]
+related: ["project-manager-resume", "industry-jigyo-gaisha-pdm-career-path", "company-necsoryuushon-inobeeta-reputation", "company-nesurenippon-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "日本マイクロソフト株式会社 会社概要"

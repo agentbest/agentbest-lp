@@ -9,7 +9,7 @@ tags: ["戦略コンサルタント", "志望動機", "選考対策", "コンサ
 pubDate: 2026-08-02
 slug: "job-senryaku-consultant-shibou-douki"
 image: "/images/media/job-senryaku-consultant-shibou-douki.png"
-related: ["consulting-industry-company", "job-senryaku-consultant-career-path", "job-senryaku-consultant-nensyu", "industry-senryaku-consul-nensyu"]
+related: ["industry-it-consul-nensyu", "job-senryaku-consultant-career-path", "job-senryaku-consultant-nensyu", "industry-senryaku-consul-nensyu"]
 reviewedAt: 2026-08-02
 sources:
   - name: "マッキンゼー・アンド・カンパニー 公式採用サイト／面接準備"

@@ -9,7 +9,7 @@ tags: ["アーキテックス", "注文住宅", "リフォーム", "不動産", 
 pubDate: 2026-08-12
 slug: "company-aakitekkusu-reputation"
 image: "/images/media/company-aakitekkusu-reputation.png"
-related: ["saas-industry-trend", "job-pre-sales-tenshoku-nanido", "company-rogurasu-reputation", "company-saibaaeejiento-reputation"]
+related: ["product-manager-in-30s", "industry-mega-venture-tenshoku-nanido", "job-project-manager-tenshoku-nanido", "job-ibd-analyst-tenshoku-nanido"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アーキテックス株式会社 会社概要"

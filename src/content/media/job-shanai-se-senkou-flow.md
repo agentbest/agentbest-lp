@@ -9,7 +9,7 @@ tags: ["社内SE", "選考フロー", "面接対策", "情報システム部門"
 pubDate: 2026-08-10
 slug: "job-shanai-se-senkou-flow"
 image: "/images/media/job-shanai-se-senkou-flow.png"
-related: ["customer-success-motivation", "job-shanai-se-career-path", "job-shanai-se-nensyu", "company-atama-plus-reputation"]
+related: ["saas-industry-career", "job-shanai-se-career-path", "job-shanai-se-nensyu", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／運用・管理（IT）"

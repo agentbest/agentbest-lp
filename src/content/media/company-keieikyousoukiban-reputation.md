@@ -9,7 +9,7 @@ tags: ["経営共創基盤", "IGPI", "事業再生", "ハンズオン", "コン�
 pubDate: 2026-08-05
 slug: "company-keieikyousoukiban-reputation"
 image: "/images/media/company-keieikyousoukiban-reputation.png"
-related: ["business-consultant-motivation", "industry-senryaku-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "company-terasukai-reputation"]
+related: ["business-consultant-motivation", "industry-senryaku-consul-shibou-douki", "job-pmo-consultant-shibou-douki", "company-accenture-japan-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "経営共創基盤 公式サイト 会社概要"

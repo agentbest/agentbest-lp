@@ -9,7 +9,7 @@ tags: ["ローランド・ベルガー", "Roland Berger", "戦略コンサル", 
 pubDate: 2026-08-03
 slug: "company-roorando-berugaa-reputation"
 image: "/images/media/company-roorando-berugaa-reputation.png"
-related: ["strategy-consultant-company-size", "industry-senryaku-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "company-a-t-kearney-reputation"]
+related: ["thinktank-how-to-use-agent", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "industry-senryaku-consul-nensyu"]
 reviewedAt: 2026-08-03
 sources:
   - name: "ローランド・ベルガー 日本（会社情報・拠点）"

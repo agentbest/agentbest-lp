@@ -9,7 +9,7 @@ tags: ["イトーヨーカ堂", "小売", "GMS", "ヨーク・ホールディン
 pubDate: 2026-08-05
 slug: "company-itooyookadou-reputation"
 image: "/images/media/company-itooyookadou-reputation.png"
-related: ["dev-director-motivation", "company-raion-reputation", "company-rakutenmobairu-reputation", "company-rikoojapan-reputation"]
+related: ["dev-director-motivation", "industry-jigyo-gaisha-pdm-nensyu", "company-shimazuseisakusho-reputation", "company-shiseidou-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "セブン&アイ・ホールディングス「当社子会社における会社分割（吸収分割）による子会社の異動に関するお知らせ」（2025年3月6日）"

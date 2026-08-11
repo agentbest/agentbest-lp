@@ -9,7 +9,7 @@ tags: ["インサイドセールス", "SaaS", "キャリアパス", "スター�
 pubDate: 2026-08-10
 slug: "job-inside-sales-career-path"
 image: "/images/media/job-inside-sales-career-path.png"
-related: ["saas-sales-certification", "job-inside-sales-senkou-flow", "job-inside-sales-shibou-douki", "company-esu-emu-esu-reputation"]
+related: ["saas-sales-motivation", "job-inside-sales-nensyu", "job-inside-sales-senkou-flow", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

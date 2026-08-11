@@ -9,7 +9,7 @@ tags: ["PMO", "志望動機", "転職", "プロジェクトマネジメント", 
 pubDate: 2026-08-11
 slug: "job-pmo-consultant-shibou-douki"
 image: "/images/media/job-pmo-consultant-shibou-douki.png"
-related: ["thinktank-interview", "job-pmo-consultant-career-path", "job-pmo-consultant-nensyu", "industry-senryaku-consul-nensyu"]
+related: ["strategy-consultant-from-scratch", "job-pmo-consultant-career-path", "job-pmo-consultant-nensyu", "industry-senryaku-consul-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「プロジェクトマネージャ（IT）」（令和7年賃金構造基本統計調査ほか）"

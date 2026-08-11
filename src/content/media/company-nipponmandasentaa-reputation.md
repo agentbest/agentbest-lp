@@ -9,7 +9,7 @@ tags: ["日本M&Aセンター", "M&A仲介", "事業承継", "東証プライム
 pubDate: 2026-08-05
 slug: "company-nipponmandasentaa-reputation"
 image: "/images/media/company-nipponmandasentaa-reputation.png"
-related: ["fas-consultant-salary-600", "job-fas-analyst-nensyu", "company-nihonsangyoupaatonaazu-reputation", "company-nipponmandaadobaizaakyoukai-reputation"]
+related: ["fas-consultant-salary-600", "job-saisei-consultant-senkou-flow", "company-peakyapitaru-reputation", "company-porarisu-kyapitaru-guruupu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "日本M&Aセンターホールディングス 有価証券報告書 第35期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["ラクスル", "RAKSUL", "印刷EC", "メガベンチャー", "東証プ
 pubDate: 2026-08-14
 slug: "company-rakusuru-reputation"
 image: "/images/media/company-rakusuru-reputation.png"
-related: ["customer-success-english", "job-keiei-kikaku-nensyu", "job-jigyo-kikaku-nensyu", "job-jigyo-kikaku-senkou-flow"]
+related: ["customer-success-in-30s", "industry-mega-venture-nensyu", "job-pe-investment-nensyu", "job-inside-sales-nensyu"]
 reviewedAt: 2026-08-14
 sources:
   - name: "有価証券報告書 第16期（2025年7月期）"

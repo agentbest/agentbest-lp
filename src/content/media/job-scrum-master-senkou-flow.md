@@ -9,7 +9,7 @@ tags: ["スクラムマスター", "選考フロー", "面接対策", "アジャ
 pubDate: 2026-08-10
 slug: "job-scrum-master-senkou-flow"
 image: "/images/media/job-scrum-master-senkou-flow.png"
-related: ["saas-industry-trend", "job-scrum-master-career-path", "job-scrum-master-nensyu", "company-vanteejimanejimento-reputation"]
+related: ["saas-sales-failure", "job-scrum-master-career-path", "job-scrum-master-nensyu", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

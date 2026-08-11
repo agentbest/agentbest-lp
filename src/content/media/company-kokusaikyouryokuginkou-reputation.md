@@ -9,7 +9,7 @@ tags: ["国際協力銀行", "JBIC", "政策金融機関", "国際金融", "非�
 pubDate: 2026-08-08
 slug: "company-kokusaikyouryokuginkou-reputation"
 image: "/images/media/company-kokusaikyouryokuginkou-reputation.png"
-related: ["project-manager-company-size", "company-seerusufoosu-japan-reputation", "company-seikooepuson-reputation", "company-servicenow-japan-reputation"]
+related: ["project-manager-company-size", "industry-jigyo-gaisha-pdm-nensyu", "company-nttdeetaguruupu-reputation", "company-nttdeetasentangijutsu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "株式会社国際協力銀行 役職員の報酬・給与等について（令和7年度）"

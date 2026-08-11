@@ -9,7 +9,7 @@ tags: ["インフォメーション・ディベロプメント", "IDホールデ
 pubDate: 2026-08-05
 slug: "company-infomeeshon-diberopumento-reputation"
 image: "/images/media/company-infomeeshon-diberopumento-reputation.png"
-related: ["dev-director-salary", "company-guuguru-kuraudo-japan-reputation", "company-hitachiseisakusho-reputation", "company-hitachishisutemuzu-reputation"]
+related: ["dev-director-salary", "industry-jigyo-gaisha-pdm-senkou-flow", "company-screenhoorudingusu-reputation", "company-scsk-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "IDホールディングス 有価証券報告書 第58期（2026年3月期）"

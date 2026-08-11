@@ -9,7 +9,7 @@ tags: ["セルム", "組織・人材開発", "リーダー育成", "東証グロ
 pubDate: 2026-08-20
 slug: "company-serumu-reputation"
 image: "/images/media/company-serumu-reputation.png"
-related: ["thinktank-salary-1000", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "job-senryaku-consultant-tenshoku-nanido"]
+related: ["industry-sogo-consul-nensyu", "industry-senryaku-consul-nensyu", "job-pmo-consultant-nensyu", "company-deroito-toomatsu-risukuadobaizarii-reputation"]
 reviewedAt: 2026-08-20
 sources:
   - name: "有価証券報告書 第10期（2026年3月期）"

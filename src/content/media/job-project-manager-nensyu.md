@@ -9,7 +9,7 @@ tags: ["プロジェクトマネージャー", "PjM", "年収相場", "賃金構
 pubDate: 2026-08-10
 slug: "job-project-manager-nensyu"
 image: "/images/media/job-project-manager-nensyu.png"
-related: ["product-manager-certification", "job-project-manager-career-path", "job-project-manager-senkou-flow", "company-tbm-reputation"]
+related: ["product-manager-skills", "job-project-manager-career-path", "job-project-manager-senkou-flow", "industry-mega-venture-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

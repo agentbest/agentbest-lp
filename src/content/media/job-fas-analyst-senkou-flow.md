@@ -9,7 +9,7 @@ tags: ["FAS", "アナリスト", "選考フロー", "面接対策", "M&A"]
 pubDate: 2026-08-10
 slug: "job-fas-analyst-senkou-flow"
 image: "/images/media/job-fas-analyst-senkou-flow.png"
-related: ["finance-work-style", "job-fas-analyst-career-path", "job-fas-analyst-nensyu", "company-batonz-reputation"]
+related: ["finance-work-style", "job-fas-analyst-career-path", "job-fas-analyst-nensyu", "company-doitsushouken-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／公認会計士"

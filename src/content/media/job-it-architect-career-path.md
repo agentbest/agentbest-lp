@@ -9,7 +9,7 @@ tags: ["ITアーキテクト", "設計", "キャリアパス", "スタートア�
 pubDate: 2026-08-10
 slug: "job-it-architect-career-path"
 image: "/images/media/job-it-architect-career-path.png"
-related: ["saas-sales-certification", "job-it-architect-nensyu", "job-it-architect-senkou-flow", "company-esu-emu-esu-reputation"]
+related: ["saas-sales-motivation", "job-it-architect-nensyu", "job-it-architect-senkou-flow", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／システムエンジニア（基盤システム）"

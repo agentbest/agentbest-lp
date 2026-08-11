@@ -9,7 +9,7 @@ tags: ["野村證券", "証券会社", "金融", "ウェルスマネジメント
 pubDate: 2026-08-09
 slug: "company-nomurashouken-reputation"
 image: "/images/media/company-nomurashouken-reputation.png"
-related: ["corporate-planning-work-style", "company-mizuhoginkou-reputation", "company-mizuhoshouken-reputation", "company-morugan-sutanree-reputation"]
+related: ["corporate-planning-work-style", "industry-jigyo-gaisha-pdm-nensyu", "company-mitsuisumitomofinansharuguruupu-reputation", "company-mitsuisumitomoginkou-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "野村ホールディングス株式会社 有価証券報告書 第122期（2026年3月期）"

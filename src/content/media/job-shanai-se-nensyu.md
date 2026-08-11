@@ -9,7 +9,7 @@ tags: ["社内SE", "年収相場", "賃金構造基本統計調査", "情報シ�
 pubDate: 2026-08-10
 slug: "job-shanai-se-nensyu"
 image: "/images/media/job-shanai-se-nensyu.png"
-related: ["saas-industry-career", "job-shanai-se-career-path", "job-shanai-se-senkou-flow", "company-suriishieiku-reputation"]
+related: ["customer-success-market-trend", "job-shanai-se-career-path", "job-shanai-se-senkou-flow", "industry-mega-venture-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／運用・管理（IT）"

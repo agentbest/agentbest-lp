@@ -9,7 +9,7 @@ tags: ["サステナビリティ", "コンサルタント", "キャリアパス"
 pubDate: 2026-08-11
 slug: "job-sustainability-consultant-career-path"
 image: "/images/media/job-sustainability-consultant-career-path.png"
-related: ["dx-consultant-english", "job-sustainability-consultant-nensyu", "job-sustainability-consultant-senkou-flow", "industry-senryaku-consul-tenshoku-nanido"]
+related: ["strategy-consultant-resume", "job-sustainability-consultant-nensyu", "job-sustainability-consultant-senkou-flow", "industry-senryaku-consul-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／経営コンサルタント"

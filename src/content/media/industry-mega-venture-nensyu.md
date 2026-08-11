@@ -9,7 +9,7 @@ tags: ["メガベンチャー", "年収相場", "有価証券報告書", "平均
 pubDate: 2026-08-11
 slug: "industry-mega-venture-nensyu"
 image: "/images/media/industry-mega-venture-nensyu.png"
-related: ["saas-sales-how-to-use-agent", "industry-mega-venture-career-path", "industry-mega-venture-senkou-flow", "job-cxo-kouho-tenshoku-nanido"]
+related: ["saas-sales-in-20s", "industry-mega-venture-career-path", "industry-mega-venture-senkou-flow", "job-cxo-kouho-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "金融庁 企業内容等の開示に関する内閣府令等改正の解説"

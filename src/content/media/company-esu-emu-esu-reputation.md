@@ -9,7 +9,7 @@ tags: ["エス・エム・エス", "SMS", "介護", "医療", "東証プライ�
 pubDate: 2026-08-12
 slug: "company-esu-emu-esu-reputation"
 image: "/images/media/company-esu-emu-esu-reputation.png"
-related: ["product-manager-english", "job-dx-suishin-nensyu", "company-vanteejimanejimento-reputation", "company-varietas-reputation"]
+related: ["customer-success-work-style", "industry-mega-venture-nensyu", "job-pre-sales-nensyu", "job-scrum-master-nensyu"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社エス・エム・エス 会社概要"

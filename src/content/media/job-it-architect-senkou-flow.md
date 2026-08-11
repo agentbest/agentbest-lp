@@ -9,7 +9,7 @@ tags: ["ITアーキテクト", "選考フロー", "面接対策", "設計課題"
 pubDate: 2026-08-10
 slug: "job-it-architect-senkou-flow"
 image: "/images/media/job-it-architect-senkou-flow.png"
-related: ["customer-success-in-20s", "job-it-architect-career-path", "job-it-architect-nensyu", "company-esu-emu-esu-reputation"]
+related: ["industry-saas-startup-career-path", "job-it-architect-career-path", "job-it-architect-nensyu", "industry-mega-venture-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ITコンサルタント"

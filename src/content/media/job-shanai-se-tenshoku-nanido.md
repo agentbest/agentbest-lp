@@ -9,7 +9,7 @@ tags: ["社内SE", "転職難易度", "有効求人倍率", "情報システム�
 pubDate: 2026-08-10
 slug: "job-shanai-se-tenshoku-nanido"
 image: "/images/media/job-shanai-se-tenshoku-nanido.png"
-related: ["customer-success-interview", "job-shanai-se-career-path", "job-shanai-se-nensyu", "company-andopaddo-reputation"]
+related: ["customer-success-salary-600", "job-shanai-se-career-path", "job-shanai-se-nensyu", "industry-mega-venture-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／運用・管理（IT）"

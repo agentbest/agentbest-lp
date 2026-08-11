@@ -9,7 +9,7 @@ tags: ["DX推進", "転職難易度", "有効求人倍率", "デジタルスキ�
 pubDate: 2026-08-10
 slug: "job-dx-suishin-tenshoku-nanido"
 image: "/images/media/job-dx-suishin-tenshoku-nanido.png"
-related: ["bizdev-market-trend", "job-dx-suishin-career-path", "job-dx-suishin-nensyu", "company-fundinno-reputation"]
+related: ["bizdev-how-to-use-agent", "job-dx-suishin-career-path", "job-dx-suishin-nensyu", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／DXプロデューサー"

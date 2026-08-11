@@ -9,7 +9,7 @@ tags: ["ストックマーク", "Stockmark", "生成AI", "LLM", "非上場"]
 pubDate: 2026-08-14
 slug: "company-sutokkumaaku-reputation"
 image: "/images/media/company-sutokkumaaku-reputation.png"
-related: ["customer-success-how-to-use-agent", "job-keiei-kikaku-career-path", "job-bizdev-career-path", "job-bizdev-nensyu"]
+related: ["bizdev-in-20s", "industry-mega-venture-career-path", "job-field-sales-career-path", "job-dx-suishin-career-path"]
 reviewedAt: 2026-08-14
 sources:
   - name: "ストックマーク株式会社 会社概要"

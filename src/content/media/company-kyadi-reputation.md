@@ -9,7 +9,7 @@ tags: ["キャディ", "CADDi", "製造業DX", "AI", "非上場"]
 pubDate: 2026-08-13
 slug: "company-kyadi-reputation"
 image: "/images/media/company-kyadi-reputation.png"
-related: ["saas-sales-future", "job-field-sales-shibou-douki", "job-data-scientist-shibou-douki", "job-data-scientist-tenshoku-nanido"]
+related: ["bizdev-resume", "industry-mega-venture-shibou-douki", "job-jigyo-kikaku-shibou-douki", "company-hal-reputation"]
 reviewedAt: 2026-08-13
 sources:
   - name: "キャディ株式会社 会社概要"

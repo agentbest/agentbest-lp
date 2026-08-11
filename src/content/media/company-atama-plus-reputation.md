@@ -9,7 +9,7 @@ tags: ["atama plus", "EdTech", "AI", "教育", "非上場"]
 pubDate: 2026-08-09
 slug: "company-atama-plus-reputation"
 image: "/images/media/company-atama-plus-reputation.png"
-related: ["product-manager-salary-600", "job-dx-suishin-nensyu", "job-jigyo-kikaku-nensyu", "job-jigyo-kikaku-senkou-flow"]
+related: ["product-manager-motivation", "industry-mega-venture-nensyu", "job-shanai-se-nensyu", "job-customer-success-nensyu"]
 reviewedAt: 2026-08-09
 sources:
   - name: "atama plus株式会社 Company"

@@ -9,7 +9,7 @@ tags: ["クラリスキャピタル", "M&A仲介", "小規模M&A", "事業承継
 pubDate: 2026-08-04
 slug: "company-kurarisukyapitaru-reputation"
 image: "/images/media/company-kurarisukyapitaru-reputation.png"
-related: ["post-consultant-salary", "job-fas-analyst-tenshoku-nanido", "company-nipponmandaadobaizaakyoukai-reputation", "company-nipponmandasentaa-reputation"]
+related: ["post-consultant-salary", "job-fas-analyst-career-path", "company-fundbook-reputation", "company-furonteia-manejimento-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社クラリスキャピタル 会社概要"

@@ -9,7 +9,7 @@ tags: ["HAL", "システム開発", "SIer", "エンジニア", "非上場"]
 pubDate: 2026-08-15
 slug: "company-hal-reputation"
 image: "/images/media/company-hal-reputation.png"
-related: ["bizdev-salary-1000", "job-data-scientist-senkou-flow", "job-field-sales-senkou-flow", "job-field-sales-shibou-douki"]
+related: ["product-manager-motivation", "industry-mega-venture-senkou-flow", "job-customer-success-senkou-flow", "job-field-sales-senkou-flow"]
 reviewedAt: 2026-08-15
 sources:
   - name: "株式会社HAL 企業情報"

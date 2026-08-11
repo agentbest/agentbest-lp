@@ -9,7 +9,7 @@ tags: ["SmartHR", "SaaS", "HRTech", "スタートアップ", "非上場"]
 pubDate: 2026-08-10
 slug: "company-smarthr-reputation"
 image: "/images/media/company-smarthr-reputation.png"
-related: ["saas-industry-guide", "job-project-manager-senkou-flow", "job-field-sales-senkou-flow", "job-field-sales-shibou-douki"]
+related: ["saas-sales-how-to-use-agent", "industry-mega-venture-senkou-flow", "job-data-scientist-senkou-flow", "job-keiei-kikaku-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "株式会社SmartHR 会社概要"

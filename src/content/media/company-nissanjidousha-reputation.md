@@ -9,7 +9,7 @@ tags: ["日産自動車", "自動車", "メーカー", "経営再建", "東証�
 pubDate: 2026-08-08
 slug: "company-nissanjidousha-reputation"
 image: "/images/media/company-nissanjidousha-reputation.png"
-related: ["business-planning-english", "company-amerikan-ekisupuresu-reputation", "company-arufashisutemuzu-reputation", "company-aukabukomushouken-reputation"]
+related: ["business-planning-english", "industry-jigyo-gaisha-pdm-career-path", "company-workday-reputation", "company-yamadahoorudingusu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "日産自動車株式会社 有価証券報告書 第127期（2026年3月期）"

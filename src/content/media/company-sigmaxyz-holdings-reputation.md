@@ -9,7 +9,7 @@ tags: ["シグマクシス", "コンサル転職", "戦略コンサルティン�
 pubDate: 2026-08-03
 slug: "company-sigmaxyz-holdings-reputation"
 image: "/images/media/company-sigmaxyz-holdings-reputation.png"
-related: ["thinktank-interview", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "company-deroito-toomatsu-guruupu-reputation"]
+related: ["thinktank-interview", "industry-senryaku-consul-nensyu", "job-pmo-consultant-nensyu", "company-rakku-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社シグマクシス・ホールディングス 会社概要"

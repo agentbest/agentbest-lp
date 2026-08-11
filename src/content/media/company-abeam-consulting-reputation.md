@@ -9,7 +9,7 @@ tags: ["コンサル", "総合コンサルティングファーム", "アビー�
 pubDate: 2026-08-02
 slug: "company-abeam-consulting-reputation"
 image: "/images/media/company-abeam-consulting-reputation.png"
-related: ["strategy-consultant-english", "industry-senryaku-consul-tenshoku-nanido", "job-senryaku-consultant-tenshoku-nanido", "company-abanto-reputation"]
+related: ["thinktank-in-20s", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "industry-senryaku-consul-senkou-flow"]
 reviewedAt: 2026-08-02
 sources:
   - name: "会社情報"

@@ -9,7 +9,7 @@ tags: ["名南M&A", "M&A仲介", "事業承継", "東海", "名証"]
 pubDate: 2026-08-04
 slug: "company-meiminamimanda-reputation"
 image: "/images/media/company-meiminamimanda-reputation.png"
-related: ["fas-consultant-interview", "job-fas-analyst-shibou-douki", "company-clsakyapitarupaatonaazu-reputation", "company-coral-capital-reputation"]
+related: ["fas-consultant-interview", "job-ma-chukai-eigyo-nensyu", "job-ma-chukai-eigyo-senkou-flow", "job-ma-chukai-eigyo-shibou-douki"]
 reviewedAt: 2026-08-04
 sources:
   - name: "名南M&A 有価証券報告書 第11期（2025年9月期）"

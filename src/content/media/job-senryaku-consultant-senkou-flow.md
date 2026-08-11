@@ -9,7 +9,7 @@ tags: ["戦略コンサルタント", "ケース面接", "選考対策", "コン
 pubDate: 2026-08-02
 slug: "job-senryaku-consultant-senkou-flow"
 image: "/images/media/job-senryaku-consultant-senkou-flow.png"
-related: ["it-consultant-market-trend", "job-senryaku-consultant-career-path", "job-senryaku-consultant-nensyu", "industry-senryaku-consul-senkou-flow"]
+related: ["strategy-consultant-salary-600", "job-senryaku-consultant-career-path", "job-senryaku-consultant-nensyu", "industry-senryaku-consul-senkou-flow"]
 reviewedAt: 2026-08-02
 sources:
   - name: "ベイン・アンド・カンパニー 公式採用サイト／中途採用の選考プロセス（東京オフィス）"

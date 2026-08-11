@@ -9,7 +9,7 @@ tags: ["FUNDINNO", "株式投資型クラウドファンディング", "金融�
 pubDate: 2026-08-15
 slug: "company-fundinno-reputation"
 image: "/images/media/company-fundinno-reputation.png"
-related: ["saas-sales-in-30s", "job-cxo-kouho-shibou-douki", "job-customer-success-shibou-douki", "job-customer-success-tenshoku-nanido"]
+related: ["saas-sales-salary-600", "industry-mega-venture-shibou-douki", "job-dx-suishin-shibou-douki", "job-bizdev-shibou-douki"]
 reviewedAt: 2026-08-15
 sources:
   - name: "有価証券報告書 第10期（2025年10月期）"

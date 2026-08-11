@@ -9,7 +9,7 @@ tags: ["インソース", "社会人研修", "教育サービス", "東証プラ
 pubDate: 2026-08-18
 slug: "company-insoosu-reputation"
 image: "/images/media/company-insoosu-reputation.png"
-related: ["thinktank-certification", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-pwc-consulting-reputation"]
+related: ["business-consultant-market-trend", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-rakku-reputation"]
 reviewedAt: 2026-08-18
 sources:
   - name: "有価証券報告書 第23期（2025年9月期）"

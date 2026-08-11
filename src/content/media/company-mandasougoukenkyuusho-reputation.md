@@ -9,7 +9,7 @@ tags: ["M&A総合研究所", "M&A仲介", "M&A Tech", "事業承継", "AI"]
 pubDate: 2026-08-04
 slug: "company-mandasougoukenkyuusho-reputation"
 image: "/images/media/company-mandasougoukenkyuusho-reputation.png"
-related: ["post-consultant-salary", "job-fas-analyst-shibou-douki", "company-j-star-reputation", "company-jafuko-guruupu-reputation"]
+related: ["post-consultant-salary", "job-ma-advisor-career-path", "company-strive-reputation", "company-subaru-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社クオンツ総研ホールディングス（旧 株式会社Ｍ＆Ａ総研ホールディングス）有価証券報告書 第7期（2024年10月1日〜2025年9月30日、2026年1月5日提出）"

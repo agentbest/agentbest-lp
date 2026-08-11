@@ -9,7 +9,7 @@ tags: ["タナベコンサルティンググループ", "経営コンサルテ�
 pubDate: 2026-08-20
 slug: "company-tanabekonsaruteinguguruupu-reputation"
 image: "/images/media/company-tanabekonsaruteinguguruupu-reputation.png"
-related: ["business-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-insoosu-reputation"]
+related: ["thinktank-future", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "job-sustainability-consultant-tenshoku-nanido"]
 reviewedAt: 2026-08-20
 sources:
   - name: "有価証券報告書 第64期（2026年3月期）"

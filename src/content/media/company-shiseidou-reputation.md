@@ -9,7 +9,7 @@ tags: ["資生堂", "化粧品", "消費財", "グローバル", "東証プラ�
 pubDate: 2026-08-09
 slug: "company-shiseidou-reputation"
 image: "/images/media/company-shiseidou-reputation.png"
-related: ["pmo-failure", "company-guuguru-kuraudo-japan-reputation", "company-hitachiseisakusho-reputation", "company-hitachishisutemuzu-reputation"]
+related: ["pmo-failure", "industry-jigyo-gaisha-pdm-nensyu", "company-rooson-reputation", "company-runesasuerekutoronikusu-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "株式会社資生堂 有価証券報告書 第126期（2025年12月期）"

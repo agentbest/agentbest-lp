@@ -9,7 +9,7 @@ tags: ["日本ロレアル", "化粧品", "消費財", "外資系", "非上場"]
 pubDate: 2026-08-08
 slug: "company-nipponrorearu-reputation"
 image: "/images/media/company-nipponrorearu-reputation.png"
-related: ["dev-director-english", "company-necsoryuushon-inobeeta-reputation", "company-nesurenippon-reputation", "company-nikon-reputation"]
+related: ["dev-director-english", "industry-jigyo-gaisha-pdm-nensyu", "company-mizuhoshouken-reputation", "company-morugan-sutanree-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "日本ロレアル 会社概要（L'Oréal 公式サイト）"

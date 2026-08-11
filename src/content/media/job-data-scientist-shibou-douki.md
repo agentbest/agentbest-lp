@@ -9,7 +9,7 @@ tags: ["データサイエンティスト", "志望動機", "職務経歴書", "
 pubDate: 2026-08-10
 slug: "job-data-scientist-shibou-douki"
 image: "/images/media/job-data-scientist-shibou-douki.png"
-related: ["bizdev-from-scratch", "job-data-scientist-career-path", "job-data-scientist-nensyu", "company-upsider-reputation"]
+related: ["saas-sales-salary-600", "job-data-scientist-career-path", "job-data-scientist-nensyu", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／データサイエンティスト"

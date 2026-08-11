@@ -9,7 +9,7 @@ tags: ["メガベンチャー", "志望動機", "職務経歴書", "セグメン
 pubDate: 2026-08-11
 slug: "industry-mega-venture-shibou-douki"
 image: "/images/media/industry-mega-venture-shibou-douki.png"
-related: ["product-manager-motivation", "industry-mega-venture-career-path", "industry-mega-venture-nensyu", "job-inside-sales-career-path"]
+related: ["customer-success-company-size", "industry-mega-venture-career-path", "industry-mega-venture-nensyu", "job-inside-sales-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "金融庁 企業内容等の開示に関する内閣府令等改正の解説"

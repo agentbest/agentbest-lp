@@ -9,7 +9,7 @@ tags: ["UB Ventures", "ファーストライト・キャピタル", "ユーザ�
 pubDate: 2026-08-25
 slug: "company-ub-ventures-reputation"
 image: "/images/media/company-ub-ventures-reputation.png"
-related: ["ma-advisor-career-guide", "job-saisei-consultant-shibou-douki", "company-spiral-capital-reputation", "company-strive-reputation"]
+related: ["ma-advisor-career-guide", "job-fas-analyst-career-path", "company-ronguriichiguruupu-reputation", "company-rosuchairudoandkanpanii-reputation"]
 reviewedAt: 2026-08-25
 sources:
   - name: "ファーストライト・キャピタル（旧UB Ventures）公式サイト"

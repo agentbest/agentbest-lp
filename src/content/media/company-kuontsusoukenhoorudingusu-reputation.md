@@ -9,7 +9,7 @@ tags: ["クオンツ総研ホールディングス", "M&A総合研究所", "M&A�
 pubDate: 2026-08-19
 slug: "company-kuontsusoukenhoorudingusu-reputation"
 image: "/images/media/company-kuontsusoukenhoorudingusu-reputation.png"
-related: ["strategy-consultant-salary-1000", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "company-makuromiru-reputation"]
+related: ["industry-think-tank-nensyu", "industry-senryaku-consul-nensyu", "job-sap-consultant-nensyu", "company-funaisoukenhoorudingusu-reputation"]
 reviewedAt: 2026-08-19
 sources:
   - name: "有価証券報告書 第7期（2025年9月期）"

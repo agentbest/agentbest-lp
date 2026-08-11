@@ -9,7 +9,7 @@ tags: ["PMO", "転職難易度", "未経験", "プロジェクトマネジメン
 pubDate: 2026-08-11
 slug: "job-pmo-consultant-tenshoku-nanido"
 image: "/images/media/job-pmo-consultant-tenshoku-nanido.png"
-related: ["it-consultant-career-guide", "job-pmo-consultant-career-path", "job-pmo-consultant-nensyu", "industry-senryaku-consul-career-path"]
+related: ["thinktank-in-30s", "job-pmo-consultant-career-path", "job-pmo-consultant-nensyu", "industry-senryaku-consul-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「プロジェクトマネージャ（IT）」（令和7年賃金構造基本統計調査ほか）"

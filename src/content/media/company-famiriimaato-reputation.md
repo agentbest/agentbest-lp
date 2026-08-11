@@ -9,7 +9,7 @@ tags: ["ファミリーマート", "小売", "コンビニエンスストア", "
 pubDate: 2026-08-06
 slug: "company-famiriimaato-reputation"
 image: "/images/media/company-famiriimaato-reputation.png"
-related: ["business-planning-certification", "company-konikaminoruta-reputation", "company-kuredisezon-reputation", "company-kyousera-reputation"]
+related: ["business-planning-certification", "industry-jigyo-gaisha-pdm-career-path", "company-nesurenippon-reputation", "company-nikon-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社ファミリーマート 会社概要（公式）"

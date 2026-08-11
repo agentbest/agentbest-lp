@@ -9,7 +9,7 @@ tags: ["デンソー", "自動車部品", "メーカー", "トヨタグループ
 pubDate: 2026-08-06
 slug: "company-densoo-reputation"
 image: "/images/media/company-densoo-reputation.png"
-related: ["product-manager-skills", "company-shimamura-reputation", "company-shimazuseisakusho-reputation", "company-shiseidou-reputation"]
+related: ["product-manager-skills", "industry-jigyo-gaisha-pdm-nensyu", "company-sbihoorudingusu-reputation", "company-screenhoorudingusu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社デンソー 有価証券報告書 第103期（2026年3月期）"

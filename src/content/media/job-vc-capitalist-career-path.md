@@ -9,7 +9,7 @@ tags: ["ベンチャーキャピタル", "VC", "キャリアパス", "投資", "
 pubDate: 2026-08-11
 slug: "job-vc-capitalist-career-path"
 image: "/images/media/job-vc-capitalist-career-path.png"
-related: ["bizdev-salary", "job-vc-capitalist-nensyu", "job-vc-capitalist-senkou-flow", "company-saibaaeejiento-reputation"]
+related: ["customer-success-career-path", "job-vc-capitalist-nensyu", "job-vc-capitalist-senkou-flow", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ファンドマネージャー"

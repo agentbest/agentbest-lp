@@ -9,7 +9,7 @@ tags: ["カスタマーサクセス", "選考フロー", "面接対策", "ケー
 pubDate: 2026-08-10
 slug: "job-customer-success-senkou-flow"
 image: "/images/media/job-customer-success-senkou-flow.png"
-related: ["bizdev-certification", "job-customer-success-career-path", "job-customer-success-nensyu", "company-mediaeido-reputation"]
+related: ["saas-sales-certification", "job-customer-success-career-path", "job-customer-success-nensyu", "industry-mega-venture-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ヘルプデスク（IT）"

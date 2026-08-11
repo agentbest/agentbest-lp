@@ -9,7 +9,7 @@ tags: ["UPSIDER", "フィンテック", "法人カード", "スタートアッ�
 pubDate: 2026-08-11
 slug: "company-upsider-reputation"
 image: "/images/media/company-upsider-reputation.png"
-related: ["product-manager-salary-600", "job-pre-sales-senkou-flow", "job-dx-suishin-senkou-flow", "job-dx-suishin-shibou-douki"]
+related: ["saas-sales-company-size", "industry-mega-venture-senkou-flow", "job-cxo-kouho-senkou-flow", "job-jigyo-kikaku-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社UPSIDERホールディングス 会社概要"

@@ -9,7 +9,7 @@ tags: ["日本産業パートナーズ", "JIP", "PEファンド", "カーブア�
 pubDate: 2026-08-05
 slug: "company-nihonsangyoupaatonaazu-reputation"
 image: "/images/media/company-nihonsangyoupaatonaazu-reputation.png"
-related: ["fas-consultant-company-size", "job-fas-analyst-career-path", "company-t-kyapitarupaatonaazu-reputation", "company-yamadakonsaruteinguguruupu-reputation"]
+related: ["fas-consultant-company-size", "job-saisei-consultant-shibou-douki", "company-shiteiguruupushouken-reputation", "company-spiral-capital-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "日本産業パートナーズ 公式サイト 会社概要"

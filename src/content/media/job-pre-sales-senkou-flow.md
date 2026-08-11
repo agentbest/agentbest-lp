@@ -9,7 +9,7 @@ tags: ["プリセールス", "選考フロー", "面接対策", "デモ", "非�
 pubDate: 2026-08-10
 slug: "job-pre-sales-senkou-flow"
 image: "/images/media/job-pre-sales-senkou-flow.png"
-related: ["product-manager-motivation", "job-pre-sales-career-path", "job-pre-sales-nensyu", "company-miginanameue-reputation"]
+related: ["saas-sales-resume", "job-pre-sales-career-path", "job-pre-sales-nensyu", "industry-mega-venture-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

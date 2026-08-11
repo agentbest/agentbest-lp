@@ -9,7 +9,7 @@ tags: ["戦略コンサルタント", "転職難易度", "未経験", "コンサ
 pubDate: 2026-08-02
 slug: "job-senryaku-consultant-tenshoku-nanido"
 image: "/images/media/job-senryaku-consultant-tenshoku-nanido.png"
-related: ["thinktank-in-30s", "job-senryaku-consultant-career-path", "job-senryaku-consultant-nensyu", "industry-senryaku-consul-career-path"]
+related: ["it-consultant-in-30s", "job-senryaku-consultant-career-path", "job-senryaku-consultant-nensyu", "industry-senryaku-consul-career-path"]
 reviewedAt: 2026-08-02
 sources:
   - name: "ベイン・アンド・カンパニー 公式採用サイト／中途採用の選考プロセス（東京オフィス）"

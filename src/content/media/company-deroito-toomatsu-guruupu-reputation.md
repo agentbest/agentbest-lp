@@ -9,7 +9,7 @@ tags: ["デロイト トーマツ", "Big4", "コンサル転職", "企業研究"
 pubDate: 2026-08-03
 slug: "company-deroito-toomatsu-guruupu-reputation"
 image: "/images/media/company-deroito-toomatsu-guruupu-reputation.png"
-related: ["thinktank-failure", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "company-a-t-kearney-reputation"]
+related: ["thinktank-failure", "industry-senryaku-consul-career-path", "job-sap-consultant-career-path", "company-makkinzee-ando-kanpanii-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "デロイト トーマツ グループ Impact Report 2025"

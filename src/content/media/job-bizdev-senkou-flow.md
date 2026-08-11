@@ -9,7 +9,7 @@ tags: ["事業開発", "BizDev", "選考フロー", "面接対策", "取適法"]
 pubDate: 2026-08-10
 slug: "job-bizdev-senkou-flow"
 image: "/images/media/job-bizdev-senkou-flow.png"
-related: ["customer-success-salary-600", "job-bizdev-career-path", "job-bizdev-nensyu", "company-smarthr-reputation"]
+related: ["saas-sales-resume", "job-bizdev-career-path", "job-bizdev-nensyu", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

@@ -9,7 +9,7 @@ tags: ["WiseVine", "自治体DX", "GovTech", "フルリモート", "非上場"]
 pubDate: 2026-08-16
 slug: "company-wisevine-reputation"
 image: "/images/media/company-wisevine-reputation.png"
-related: ["bizdev-career-guide", "job-dx-suishin-senkou-flow", "job-data-scientist-senkou-flow", "job-data-scientist-shibou-douki"]
+related: ["bizdev-from-scratch", "industry-mega-venture-senkou-flow", "job-ibd-analyst-senkou-flow", "job-cxo-kouho-senkou-flow"]
 reviewedAt: 2026-08-16
 sources:
   - name: "株式会社WiseVine 採用情報（HERP）"

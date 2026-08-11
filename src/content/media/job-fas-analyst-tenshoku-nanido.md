@@ -9,7 +9,7 @@ tags: ["FAS", "アナリスト", "転職難易度", "未経験", "M&A"]
 pubDate: 2026-08-10
 slug: "job-fas-analyst-tenshoku-nanido"
 image: "/images/media/job-fas-analyst-tenshoku-nanido.png"
-related: ["finance-future", "job-fas-analyst-career-path", "job-fas-analyst-nensyu", "company-dnx-ventures-reputation"]
+related: ["finance-future", "job-fas-analyst-career-path", "job-fas-analyst-nensyu", "company-mizuhokyapitaru-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／公認会計士"

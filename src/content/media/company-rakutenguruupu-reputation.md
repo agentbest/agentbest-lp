@@ -9,7 +9,7 @@ tags: ["楽天グループ", "楽天", "メガベンチャー", "東証プライ
 pubDate: 2026-08-18
 slug: "company-rakutenguruupu-reputation"
 image: "/images/media/company-rakutenguruupu-reputation.png"
-related: ["customer-success-career-path", "job-customer-success-senkou-flow", "job-cxo-kouho-senkou-flow", "job-cxo-kouho-shibou-douki"]
+related: ["saas-sales-from-scratch", "industry-mega-venture-senkou-flow", "job-vc-capitalist-senkou-flow", "company-ookunetto-reputation"]
 reviewedAt: 2026-08-18
 sources:
   - name: "有価証券報告書 第29期（2025年12月期）"

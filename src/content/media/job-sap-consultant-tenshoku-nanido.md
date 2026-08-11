@@ -9,7 +9,7 @@ tags: ["SAP", "ERP", "転職難易度", "未経験", "SAPコンサルタント"]
 pubDate: 2026-08-11
 slug: "job-sap-consultant-tenshoku-nanido"
 image: "/images/media/job-sap-consultant-tenshoku-nanido.png"
-related: ["dx-consultant-market-trend", "job-sap-consultant-senkou-flow", "job-sap-consultant-shibou-douki", "industry-senryaku-consul-senkou-flow"]
+related: ["thinktank-certification", "job-sap-consultant-senkou-flow", "job-sap-consultant-shibou-douki", "industry-senryaku-consul-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ITコンサルタント"

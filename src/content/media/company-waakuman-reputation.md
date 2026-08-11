@@ -9,7 +9,7 @@ tags: ["ワークマン", "小売", "フランチャイズ", "ベイシアグル
 pubDate: 2026-08-06
 slug: "company-waakuman-reputation"
 image: "/images/media/company-waakuman-reputation.png"
-related: ["pmo-english", "company-kokusaikyouryokuginkou-reputation", "company-konikaminoruta-reputation", "company-kuredisezon-reputation"]
+related: ["pmo-english", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow", "industry-jigyo-gaisha-pdm-shibou-douki"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社ワークマン 有価証券報告書 第45期（2026年3月期）"

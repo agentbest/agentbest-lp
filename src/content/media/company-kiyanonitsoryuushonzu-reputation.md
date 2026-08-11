@@ -9,7 +9,7 @@ tags: ["キヤノンITソリューションズ", "キヤノンMJ", "SIer", "シ�
 pubDate: 2026-08-05
 slug: "company-kiyanonitsoryuushonzu-reputation"
 image: "/images/media/company-kiyanonitsoryuushonzu-reputation.png"
-related: ["corporate-planning-career-guide", "company-hitachisoryuushonzu-reputation", "company-hondagikenkougyou-reputation", "company-horiba-reputation"]
+related: ["corporate-planning-career-guide", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-arugogurafikkusu-reputation", "company-asuteria-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "キヤノンマーケティングジャパン 有価証券報告書（2025年12月期）"

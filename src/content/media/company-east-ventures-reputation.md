@@ -9,7 +9,7 @@ tags: ["East Ventures", "イーストベンチャーズ", "ベンチャーキャ
 pubDate: 2026-08-24
 slug: "company-east-ventures-reputation"
 image: "/images/media/company-east-ventures-reputation.png"
-related: ["post-consultant-work-style", "job-fas-analyst-shibou-douki", "company-mandasougoukenkyuusho-reputation", "company-meiminamimanda-reputation"]
+related: ["post-consultant-work-style", "job-ma-chukai-eigyo-tenshoku-nanido", "job-ma-advisor-tenshoku-nanido", "job-ma-chukai-eigyo-career-path"]
 reviewedAt: 2026-08-24
 sources:
   - name: "East Ventures 公式サイト（Team）"

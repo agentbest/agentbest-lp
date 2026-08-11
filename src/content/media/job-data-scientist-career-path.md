@@ -9,7 +9,7 @@ tags: ["データサイエンティスト", "キャリアパス", "スタート�
 pubDate: 2026-08-10
 slug: "job-data-scientist-career-path"
 image: "/images/media/job-data-scientist-career-path.png"
-related: ["customer-success-salary-600", "job-data-scientist-nensyu", "job-data-scientist-senkou-flow", "company-visional-reputation"]
+related: ["customer-success-skills", "job-data-scientist-nensyu", "job-data-scientist-senkou-flow", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／データサイエンティスト"

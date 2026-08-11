@@ -9,7 +9,7 @@ tags: ["LegalOn Technologies", "リーガルテック", "SaaS", "スタートア
 pubDate: 2026-08-09
 slug: "company-legalon-technologies-reputation"
 image: "/images/media/company-legalon-technologies-reputation.png"
-related: ["customer-success-interview", "job-field-sales-career-path", "job-scrum-master-career-path", "job-scrum-master-nensyu"]
+related: ["product-manager-interview", "industry-mega-venture-career-path", "job-pe-investment-career-path", "job-jigyo-kikaku-career-path"]
 reviewedAt: 2026-08-09
 sources:
   - name: "株式会社LegalOn Technologies 会社案内"

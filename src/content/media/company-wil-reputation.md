@@ -9,7 +9,7 @@ tags: ["WiL", "World Innovation Lab", "ベンチャーキャピタル", "シリ�
 pubDate: 2026-08-25
 slug: "company-wil-reputation"
 image: "/images/media/company-wil-reputation.png"
-related: ["post-consultant-failure", "job-fas-analyst-shibou-douki", "company-eysutoratejii-ando-konsaruteingu-reputation", "company-fronteo-reputation"]
+related: ["post-consultant-failure", "job-fas-analyst-career-path", "company-adobantejjipaatonaazu-reputation", "company-agskonsaruteingu-reputation"]
 reviewedAt: 2026-08-25
 sources:
   - name: "パナソニック ホールディングス「米国ベンチャー投資ファンド『WiL Ventures III, L.P.』への出資について」（2022年3月4日）"

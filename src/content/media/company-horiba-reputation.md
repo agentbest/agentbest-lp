@@ -9,7 +9,7 @@ tags: ["HORIBA", "堀場製作所", "分析・計測機器", "メーカー", "�
 pubDate: 2026-08-05
 slug: "company-horiba-reputation"
 image: "/images/media/company-horiba-reputation.png"
-related: ["pmo-skills", "company-rakutenmobairu-reputation", "company-rikoojapan-reputation", "company-rikuruutohoorudingusu-reputation"]
+related: ["pmo-skills", "industry-jigyo-gaisha-pdm-senkou-flow", "company-ntttekunokurosu-reputation", "company-omuron-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "堀場製作所 有価証券報告書 第88期（2025年12月期）"

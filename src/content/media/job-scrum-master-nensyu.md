@@ -9,7 +9,7 @@ tags: ["スクラムマスター", "年収相場", "アジャイル", "兼任", 
 pubDate: 2026-08-10
 slug: "job-scrum-master-nensyu"
 image: "/images/media/job-scrum-master-nensyu.png"
-related: ["bizdev-from-scratch", "job-scrum-master-career-path", "job-scrum-master-senkou-flow", "company-rogurasu-reputation"]
+related: ["industry-saas-startup-senkou-flow", "job-scrum-master-career-path", "job-scrum-master-senkou-flow", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

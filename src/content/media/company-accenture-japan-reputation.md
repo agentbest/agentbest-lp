@@ -9,7 +9,7 @@ tags: ["コンサル", "アクセンチュア", "総合コンサルティング�
 pubDate: 2026-08-02
 slug: "company-accenture-japan-reputation"
 image: "/images/media/company-accenture-japan-reputation.png"
-related: ["strategy-consultant-in-20s", "industry-senryaku-consul-tenshoku-nanido", "job-senryaku-consultant-tenshoku-nanido", "company-ey-japan-reputation"]
+related: ["big4-consultant-work-style", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "company-insoosu-reputation"]
 reviewedAt: 2026-08-02
 sources:
   - name: "Accenture plc Form 10-K（2025年8月期）"

@@ -9,7 +9,7 @@ tags: ["ニトリホールディングス", "小売", "家具", "SPA", "東証�
 pubDate: 2026-08-06
 slug: "company-nitorihoorudingusu-reputation"
 image: "/images/media/company-nitorihoorudingusu-reputation.png"
-related: ["business-planning-from-scratch", "company-nipponhyuuretto-pakkaado-reputation", "company-nipponkoka-koora-reputation", "company-nipponmaikurosofuto-reputation"]
+related: ["business-planning-from-scratch", "industry-jigyo-gaisha-pdm-shibou-douki", "company-soniiguruupu-reputation", "company-sonpojapanshisutemuzu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社ニトリホールディングス 有価証券報告書 第54期（2026年3月期）"

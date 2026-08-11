@@ -9,7 +9,7 @@ tags: ["DX推進", "デジタルスキル標準", "キャリアパス", "スタ�
 pubDate: 2026-08-10
 slug: "job-dx-suishin-career-path"
 image: "/images/media/job-dx-suishin-career-path.png"
-related: ["product-manager-market-trend", "job-dx-suishin-nensyu", "job-dx-suishin-senkou-flow", "company-gurii-reputation"]
+related: ["saas-sales-how-to-use-agent", "job-dx-suishin-nensyu", "job-dx-suishin-senkou-flow", "industry-mega-venture-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／DXプロデューサー"

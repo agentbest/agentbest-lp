@@ -9,7 +9,7 @@ tags: ["電通総研", "電通国際情報サービス", "ISID", "システム�
 pubDate: 2026-08-22
 slug: "company-dentsuusouken-reputation"
 image: "/images/media/company-dentsuusouken-reputation.png"
-related: ["big4-consultant-in-30s", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "company-accenture-song-reputation"]
+related: ["it-consultant-failure", "industry-senryaku-consul-career-path", "job-sap-consultant-career-path", "company-insoosu-reputation"]
 reviewedAt: 2026-08-22
 sources:
   - name: "有価証券報告書 第51期（2025年12月期）"

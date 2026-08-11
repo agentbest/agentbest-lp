@@ -9,7 +9,7 @@ tags: ["投資銀行", "アナリスト", "志望動機", "職務経歴書", "�
 pubDate: 2026-08-11
 slug: "job-ibd-analyst-shibou-douki"
 image: "/images/media/job-ibd-analyst-shibou-douki.png"
-related: ["bizdev-motivation", "job-ibd-analyst-career-path", "job-ibd-analyst-nensyu", "company-tbm-reputation"]
+related: ["customer-success-english", "job-ibd-analyst-career-path", "job-ibd-analyst-nensyu", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／証券アナリスト"

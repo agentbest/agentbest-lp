@@ -9,7 +9,7 @@ tags: ["島津製作所", "メーカー", "分析計測機器", "医用機器", 
 pubDate: 2026-08-08
 slug: "company-shimazuseisakusho-reputation"
 image: "/images/media/company-shimazuseisakusho-reputation.png"
-related: ["project-manager-salary-1000", "company-nsd-reputation", "company-nttdeeta-reputation", "company-nttdeetaguruupu-reputation"]
+related: ["project-manager-salary-1000", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-ajinomoto-reputation", "company-amazon-uebusaabisujapan-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "株式会社島津製作所 有価証券報告書 第163期（2026年3月期）"

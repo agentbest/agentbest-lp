@@ -9,7 +9,7 @@ tags: ["ポラリス・キャピタル・グループ", "PEファンド", "バ�
 pubDate: 2026-08-04
 slug: "company-porarisu-kyapitaru-guruupu-reputation"
 image: "/images/media/company-porarisu-kyapitaru-guruupu-reputation.png"
-related: ["finance-interview", "job-fas-analyst-senkou-flow", "company-ondekku-reputation", "company-peakyapitaru-reputation"]
+related: ["finance-interview", "job-ma-advisor-nensyu", "company-nsskguruupu-reputation", "company-ondekku-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "ポラリス・キャピタル・グループ株式会社 会社概要"
