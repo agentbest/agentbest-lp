@@ -9,7 +9,7 @@ tags: ["TDK", "電子部品", "メーカー", "プロジェクトマネージャ
 pubDate: 2026-08-05
 slug: "company-tdk-reputation"
 image: "/images/media/company-tdk-reputation.png"
-related: ["business-planning-in-30s", "industry-jigyo-gaisha-pdm-nensyu", "company-kiyuupii-reputation", "company-koa-reputation"]
+related: ["business-planning-in-30s", "industry-jigyo-gaisha-pdm-nensyu", "company-nsd-reputation", "company-nsw-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "TDK 有価証券報告書 第130期（2026年3月期）"

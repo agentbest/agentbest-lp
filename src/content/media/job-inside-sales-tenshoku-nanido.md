@@ -9,7 +9,7 @@ tags: ["インサイドセールス", "転職難易度", "未経験", "SaaS", "�
 pubDate: 2026-08-10
 slug: "job-inside-sales-tenshoku-nanido"
 image: "/images/media/job-inside-sales-tenshoku-nanido.png"
-related: ["bizdev-work-style", "job-inside-sales-shibou-douki", "job-inside-sales-career-path", "industry-kinyu-it-nensyu"]
+related: ["bizdev-work-style", "job-inside-sales-career-path", "job-inside-sales-nensyu", "industry-kinyu-it-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

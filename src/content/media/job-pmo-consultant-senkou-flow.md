@@ -9,7 +9,7 @@ tags: ["PMO", "選考フロー", "面接対策", "プロジェクトマネジメ
 pubDate: 2026-08-11
 slug: "job-pmo-consultant-senkou-flow"
 image: "/images/media/job-pmo-consultant-senkou-flow.png"
-related: ["it-consultant-work-style", "job-pmo-consultant-career-path", "job-pmo-consultant-nensyu", "industry-senryaku-consul-senkou-flow"]
+related: ["dx-consultant-market-trend", "job-pmo-consultant-career-path", "job-pmo-consultant-nensyu", "industry-senryaku-consul-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「プロジェクトマネージャ（IT）」（令和7年賃金構造基本統計調査ほか）"

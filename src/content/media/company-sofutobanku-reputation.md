@@ -9,7 +9,7 @@ tags: ["ソフトバンク", "通信", "PayPay", "LINEヤフー", "東証プラ�
 pubDate: 2026-08-06
 slug: "company-sofutobanku-reputation"
 image: "/images/media/company-sofutobanku-reputation.png"
-related: ["dev-director-salary", "industry-user-kei-sier-tenshoku-nanido", "company-kirinhoorudingusu-reputation", "company-kiyanonitsoryuushonzu-reputation"]
+related: ["dev-director-salary", "industry-user-kei-sier-tenshoku-nanido", "company-workday-reputation", "company-yamadahoorudingusu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ソフトバンク株式会社 有価証券報告書 第40期（2026年3月期）"

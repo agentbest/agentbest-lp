@@ -9,7 +9,7 @@ tags: ["プロレド・パートナーズ", "コンサルティング", "成果�
 pubDate: 2026-08-21
 slug: "company-puroredo-paatonaazu-reputation"
 image: "/images/media/company-puroredo-paatonaazu-reputation.png"
-related: ["big4-consultant-salary-1000", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "company-lts-reputation"]
+related: ["thinktank-in-20s", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "company-lts-reputation"]
 reviewedAt: 2026-08-21
 sources:
   - name: "有価証券報告書 第18期（2025年10月期）"

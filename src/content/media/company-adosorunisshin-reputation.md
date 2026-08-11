@@ -9,7 +9,7 @@ tags: ["アドソル日進", "社会インフラ", "電力", "組込み", "先�
 pubDate: 2026-08-31
 slug: "company-adosorunisshin-reputation"
 image: "/images/media/company-adosorunisshin-reputation.png"
-related: ["corporate-planning-from-scratch", "industry-user-kei-sier-senkou-flow", "company-smbcnikkoushouken-reputation", "company-sofutobanku-reputation"]
+related: ["corporate-planning-from-scratch", "industry-user-kei-sier-senkou-flow", "company-daiwashouken-reputation", "company-dejitaru-infomeeshon-tekunorojii-reputation"]
 reviewedAt: 2026-08-31
 sources:
   - name: "アドソル日進株式会社 有価証券報告書 第51期（2026年3月期）"

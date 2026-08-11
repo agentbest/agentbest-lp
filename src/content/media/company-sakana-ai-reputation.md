@@ -9,7 +9,7 @@ tags: ["Sakana AI", "AI", "生成AI", "基盤モデル", "非上場"]
 pubDate: 2026-08-10
 slug: "company-sakana-ai-reputation"
 image: "/images/media/company-sakana-ai-reputation.png"
-related: ["customer-success-how-to-use-agent", "industry-tsushin-shibou-douki", "job-field-sales-shibou-douki", "job-shanai-se-career-path"]
+related: ["customer-success-how-to-use-agent", "industry-tsushin-shibou-douki", "job-field-sales-shibou-douki", "job-inside-sales-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "Sakana AI 企業情報"

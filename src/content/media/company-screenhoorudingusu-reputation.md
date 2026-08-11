@@ -9,7 +9,7 @@ tags: ["SCREENホールディングス", "半導体製造装置", "メーカー"
 pubDate: 2026-08-05
 slug: "company-screenhoorudingusu-reputation"
 image: "/images/media/company-screenhoorudingusu-reputation.png"
-related: ["project-manager-failure", "industry-jigyo-gaisha-pdm-senkou-flow", "company-shisukoshisutemuzu-reputation", "company-shisutemurisaachi-reputation"]
+related: ["project-manager-failure", "industry-jigyo-gaisha-pdm-senkou-flow", "company-shisutemusapootohoorudingusu-reputation", "company-shisutena-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "SCREENホールディングス 有価証券報告書 第85期（2026年3月期）"

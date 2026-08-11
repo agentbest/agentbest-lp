@@ -9,7 +9,7 @@ tags: ["グーグル・クラウド・ジャパン", "Google Cloud", "クラウ�
 pubDate: 2026-08-05
 slug: "company-guuguru-kuraudo-japan-reputation"
 image: "/images/media/company-guuguru-kuraudo-japan-reputation.png"
-related: ["pmo-failure", "industry-jigyo-gaisha-pdm-nensyu", "company-ryouhinkeikaku-reputation", "company-santoriihoorudingusu-reputation"]
+related: ["pmo-failure", "industry-jigyo-gaisha-pdm-nensyu", "company-nipponmaikurosofuto-reputation", "company-nipponorakuru-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "Alphabet Inc. Form 10-K（2025年12月期、2026年2月5日提出）"

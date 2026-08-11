@@ -9,7 +9,7 @@ tags: ["SRAホールディングス", "SRA", "オープンソース", "システ
 pubDate: 2026-08-29
 slug: "company-srahoorudingusu-reputation"
 image: "/images/media/company-srahoorudingusu-reputation.png"
-related: ["corporate-planning-how-to-use-agent", "industry-user-kei-sier-shibou-douki", "company-konikaminoruta-reputation", "company-kubota-reputation"]
+related: ["corporate-planning-how-to-use-agent", "industry-user-kei-sier-shibou-douki", "company-nttkomuuea-reputation", "company-nttnishinihon-reputation"]
 reviewedAt: 2026-08-29
 sources:
   - name: "株式会社ＳＲＡホールディングス 有価証券報告書 第36期（2026年3月期）"

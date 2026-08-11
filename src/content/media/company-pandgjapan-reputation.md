@@ -9,7 +9,7 @@ tags: ["P&Gジャパン", "外資系", "消費財", "マーケティング", "�
 pubDate: 2026-08-05
 slug: "company-pandgjapan-reputation"
 image: "/images/media/company-pandgjapan-reputation.png"
-related: ["business-planning-salary-600", "industry-jigyo-gaisha-pdm-senkou-flow", "company-oobikku-reputation", "company-oobikkubijinesukonsarutanto-reputation"]
+related: ["business-planning-salary-600", "industry-jigyo-gaisha-pdm-senkou-flow", "company-isu-jidousha-reputation", "company-itooyookadou-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "P&Gジャパン 公式サイト 日本での事業展開"

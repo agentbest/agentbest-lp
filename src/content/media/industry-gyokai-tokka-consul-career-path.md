@@ -9,7 +9,7 @@ tags: ["業界特化型コンサル", "キャリアパス", "中小企業診断�
 pubDate: 2026-08-11
 slug: "industry-gyokai-tokka-consul-career-path"
 image: "/images/media/industry-gyokai-tokka-consul-career-path.png"
-related: ["industry-sier-nensyu", "industry-gyokai-tokka-consul-nensyu", "industry-gyokai-tokka-consul-senkou-flow", "job-pmo-consultant-career-path"]
+related: ["dx-consultant-salary", "industry-gyokai-tokka-consul-nensyu", "industry-gyokai-tokka-consul-senkou-flow", "job-pmo-consultant-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「中小企業診断士」（令和7年賃金構造基本統計調査ほか）"

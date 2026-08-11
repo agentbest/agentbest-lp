@@ -9,7 +9,7 @@ tags: ["SAP", "ERP", "志望動機", "面接対策", "SAPコンサルタント"]
 pubDate: 2026-08-11
 slug: "job-sap-consultant-shibou-douki"
 image: "/images/media/job-sap-consultant-shibou-douki.png"
-related: ["business-consultant-in-30s", "job-sap-consultant-career-path", "job-sap-consultant-nensyu", "industry-senryaku-consul-shibou-douki"]
+related: ["strategy-consultant-motivation", "job-sap-consultant-career-path", "job-sap-consultant-nensyu", "industry-senryaku-consul-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ITコンサルタント"

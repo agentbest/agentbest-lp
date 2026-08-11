@@ -9,7 +9,7 @@ tags: ["ネオジャパン", "desknet's NEO", "グループウェア", "クラ�
 pubDate: 2026-09-07
 slug: "company-neojapan-reputation"
 image: "/images/media/company-neojapan-reputation.png"
-related: ["dev-director-salary", "industry-jigyo-gaisha-pdm-senkou-flow", "company-santoriihoorudingusu-reputation", "company-sapjapan-reputation"]
+related: ["dev-director-salary", "industry-jigyo-gaisha-pdm-senkou-flow", "company-nipponorakuru-reputation", "company-nipponrorearu-reputation"]
 reviewedAt: 2026-09-07
 sources:
   - name: "株式会社ネオジャパン 有価証券報告書 第34期（2026年1月期）"

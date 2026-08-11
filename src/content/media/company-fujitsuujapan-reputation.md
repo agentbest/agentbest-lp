@@ -9,7 +9,7 @@ tags: ["富士通Japan", "SIer", "公共システム", "自治体", "非上場"]
 pubDate: 2026-08-08
 slug: "company-fujitsuujapan-reputation"
 image: "/images/media/company-fujitsuujapan-reputation.png"
-related: ["corporate-planning-motivation", "industry-user-kei-sier-career-path", "company-karubii-reputation", "company-kddi-reputation"]
+related: ["corporate-planning-motivation", "industry-user-kei-sier-career-path", "company-sbihoorudingusu-reputation", "company-screenhoorudingusu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "富士通株式会社 有価証券報告書 第126期（2026年3月期）"

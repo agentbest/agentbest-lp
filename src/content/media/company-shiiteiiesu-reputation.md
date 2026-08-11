@@ -9,7 +9,7 @@ tags: ["シーティーエス", "建設ICT", "サイトアシストパッケー�
 pubDate: 2026-09-04
 slug: "company-shiiteiiesu-reputation"
 image: "/images/media/company-shiiteiiesu-reputation.png"
-related: ["dev-director-company-size", "industry-user-kei-sier-senkou-flow", "company-itooyookadou-reputation", "company-itouchuutekunosoryuushonzu-reputation"]
+related: ["dev-director-company-size", "industry-user-kei-sier-senkou-flow", "company-toransu-kosumosu-reputation", "company-toranvia-reputation"]
 reviewedAt: 2026-09-04
 sources:
   - name: "株式会社シーティーエス 有価証券報告書 第36期（2026年3月期）"

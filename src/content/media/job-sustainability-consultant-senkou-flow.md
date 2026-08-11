@@ -9,7 +9,7 @@ tags: ["サステナビリティ", "コンサルタント", "選考フロー", "
 pubDate: 2026-08-11
 slug: "job-sustainability-consultant-senkou-flow"
 image: "/images/media/job-sustainability-consultant-senkou-flow.png"
-related: ["it-consultant-salary", "job-sustainability-consultant-career-path", "job-sustainability-consultant-nensyu", "industry-gyokai-tokka-consul-career-path"]
+related: ["it-consultant-career-guide", "job-sustainability-consultant-career-path", "job-sustainability-consultant-nensyu", "industry-gyokai-tokka-consul-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／経営コンサルタント"

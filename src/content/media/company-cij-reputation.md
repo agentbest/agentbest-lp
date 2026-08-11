@@ -9,7 +9,7 @@ tags: ["CIJ", "日本コンピュータ研究所", "システム開発", "横浜
 pubDate: 2026-08-28
 slug: "company-cij-reputation"
 image: "/images/media/company-cij-reputation.png"
-related: ["project-manager-salary-600", "industry-user-kei-sier-shibou-douki", "company-jasutoshisutemu-reputation", "company-jbcchoorudingusu-reputation"]
+related: ["project-manager-salary-600", "industry-user-kei-sier-shibou-douki", "company-nikon-reputation", "company-nippondenshindenwa-reputation"]
 reviewedAt: 2026-08-28
 sources:
   - name: "株式会社ＣＩＪ 有価証券報告書 第50期（2025年6月期）"

@@ -9,7 +9,7 @@ tags: ["アクセンチュア", "アクセンチュアソング", "コンサル�
 pubDate: 2026-08-02
 slug: "company-accenture-song-reputation"
 image: "/images/media/company-accenture-song-reputation.png"
-related: ["strategy-consultant-from-scratch", "industry-senryaku-consul-nensyu", "job-sap-consultant-nensyu", "company-arthur-d-little-reputation"]
+related: ["industry-sogo-consul-nensyu", "industry-senryaku-consul-nensyu", "job-sap-consultant-nensyu", "company-arthur-d-little-reputation"]
 reviewedAt: 2026-08-02
 sources:
   - name: "アクセンチュア株式会社 会社概要・地図（公式）"

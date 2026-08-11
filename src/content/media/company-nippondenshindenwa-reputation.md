@@ -9,7 +9,7 @@ tags: ["日本電信電話", "NTT", "通信", "持株会社", "東証プライ�
 pubDate: 2026-08-08
 slug: "company-nippondenshindenwa-reputation"
 image: "/images/media/company-nippondenshindenwa-reputation.png"
-related: ["pmo-market-trend", "industry-jigyo-gaisha-pdm-career-path", "company-panasonikku-konekuto-reputation", "company-pandgjapan-reputation"]
+related: ["pmo-market-trend", "industry-jigyo-gaisha-pdm-career-path", "company-raion-reputation", "company-rakutenmobairu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "NTT株式会社（旧 日本電信電話株式会社） 有価証券報告書 第41期（2026年3月期）"

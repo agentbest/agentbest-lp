@@ -9,7 +9,7 @@ tags: ["戦略コンサル", "ケース面接", "選考フロー", "コンサル
 pubDate: 2026-08-02
 slug: "industry-senryaku-consul-senkou-flow"
 image: "/images/media/industry-senryaku-consul-senkou-flow.png"
-related: ["job-it-consultant-tenshoku-nanido", "industry-senryaku-consul-career-path", "industry-senryaku-consul-nensyu", "job-pmo-consultant-nensyu"]
+related: ["industry-think-tank-nensyu", "industry-senryaku-consul-career-path", "industry-senryaku-consul-nensyu", "job-pmo-consultant-nensyu"]
 reviewedAt: 2026-08-02
 sources:
   - name: "マッキンゼー・アンド・カンパニー日本 採用（応募方法）"

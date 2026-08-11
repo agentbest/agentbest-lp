@@ -9,7 +9,7 @@ tags: ["Voicy", "音声メディア", "スタートアップ", "非上場", "転
 pubDate: 2026-08-11
 slug: "company-voicy-reputation"
 image: "/images/media/company-voicy-reputation.png"
-related: ["saas-sales-in-30s", "industry-kinyu-it-senkou-flow", "job-project-manager-senkou-flow", "company-uinguaaku1st-reputation"]
+related: ["saas-sales-in-30s", "industry-kinyu-it-senkou-flow", "job-project-manager-senkou-flow", "company-jigen-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社Voicy 公式サイト（会社情報）"

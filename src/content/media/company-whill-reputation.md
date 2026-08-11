@@ -9,7 +9,7 @@ tags: ["WHILL", "パーソナルモビリティ", "ハードウェア", "スタ�
 pubDate: 2026-08-11
 slug: "company-whill-reputation"
 image: "/images/media/company-whill-reputation.png"
-related: ["saas-sales-career-guide", "industry-mega-venture-senkou-flow", "job-pre-sales-senkou-flow", "company-sakuraintaanetto-reputation"]
+related: ["saas-sales-career-guide", "industry-mega-venture-senkou-flow", "job-pre-sales-senkou-flow", "company-feriesuto-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "WHILL株式会社 公式サイト（会社情報）"

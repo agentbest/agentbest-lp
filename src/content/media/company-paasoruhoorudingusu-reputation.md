@@ -9,7 +9,7 @@ tags: ["パーソルホールディングス", "人材派遣", "BPO", "テンプ
 pubDate: 2026-09-07
 slug: "company-paasoruhoorudingusu-reputation"
 image: "/images/media/company-paasoruhoorudingusu-reputation.png"
-related: ["project-manager-in-20s", "industry-user-kei-sier-career-path", "company-komatsu-reputation", "company-komuchua-reputation"]
+related: ["project-manager-in-20s", "industry-user-kei-sier-career-path", "company-hitachisoryuushonzu-reputation", "company-hondagikenkougyou-reputation"]
 reviewedAt: 2026-09-07
 sources:
   - name: "パーソルホールディングス株式会社 有価証券報告書 第18期（2026年3月期）"

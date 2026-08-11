@@ -9,7 +9,7 @@ tags: ["ブリッジワン", "人材紹介", "M&A仲介", "経営コンサルテ
 pubDate: 2026-08-17
 slug: "company-burijjiwan-reputation"
 image: "/images/media/company-burijjiwan-reputation.png"
-related: ["industry-saas-vendor-tenshoku-nanido", "industry-maker-it-career-path", "job-pe-investment-career-path", "job-vc-capitalist-career-path"]
+related: ["industry-saas-vendor-tenshoku-nanido", "industry-maker-it-career-path", "job-pe-investment-career-path", "job-it-architect-career-path"]
 reviewedAt: 2026-08-17
 sources:
   - name: "株式会社ブリッジワン 採用情報（HERP）"

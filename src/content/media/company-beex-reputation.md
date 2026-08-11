@@ -9,7 +9,7 @@ tags: ["BeeX", "クラウド移行", "SAP", "東証グロース", "テラスカ�
 pubDate: 2026-08-18
 slug: "company-beex-reputation"
 image: "/images/media/company-beex-reputation.png"
-related: ["strategy-consultant-resume", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "company-sigmaxyz-holdings-reputation"]
+related: ["dx-consultant-motivation", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "company-sigmaxyz-holdings-reputation"]
 reviewedAt: 2026-08-18
 sources:
   - name: "有価証券報告書 第10期（2026年2月期）"

@@ -9,7 +9,7 @@ tags: ["業界特化型コンサル", "年収", "有価証券報告書", "中小
 pubDate: 2026-08-11
 slug: "industry-gyokai-tokka-consul-nensyu"
 image: "/images/media/industry-gyokai-tokka-consul-nensyu.png"
-related: ["big4-consultant-company-size", "industry-gyokai-tokka-consul-career-path", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-tenshoku-nanido"]
+related: ["strategy-consultant-english", "industry-gyokai-tokka-consul-career-path", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「中小企業診断士」（令和7年賃金構造基本統計調査ほか）"

@@ -9,7 +9,7 @@ tags: ["シグマクシス", "コンサル転職", "戦略コンサルティン�
 pubDate: 2026-08-03
 slug: "company-sigmaxyz-holdings-reputation"
 image: "/images/media/company-sigmaxyz-holdings-reputation.png"
-related: ["strategy-consultant-work-style", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "company-accenture-japan-reputation"]
+related: ["it-consultant-salary-1000", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "company-accenture-japan-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社シグマクシス・ホールディングス 会社概要"

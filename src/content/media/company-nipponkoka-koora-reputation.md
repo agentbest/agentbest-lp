@@ -9,7 +9,7 @@ tags: ["日本コカ・コーラ", "消費財", "飲料", "外資系", "非上�
 pubDate: 2026-08-08
 slug: "company-nipponkoka-koora-reputation"
 image: "/images/media/company-nipponkoka-koora-reputation.png"
-related: ["dev-director-failure", "industry-user-kei-sier-career-path", "company-mitsuisumitomofinansharuguruupu-reputation", "company-mitsuisumitomoginkou-reputation"]
+related: ["dev-director-failure", "industry-user-kei-sier-career-path", "company-puroshippu-reputation", "company-raion-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "日本コカ・コーラ株式会社 会社概要"

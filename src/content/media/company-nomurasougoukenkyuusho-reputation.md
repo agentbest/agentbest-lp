@@ -9,7 +9,7 @@ tags: ["野村総合研究所", "NRI", "シンクタンク", "ITソリューシ�
 pubDate: 2026-08-22
 slug: "company-nomurasougoukenkyuusho-reputation"
 image: "/images/media/company-nomurasougoukenkyuusho-reputation.png"
-related: ["it-consultant-resume", "industry-gyokai-tokka-consul-career-path", "job-senryaku-consultant-career-path", "company-keieikyousoukiban-reputation"]
+related: ["it-consultant-failure", "industry-gyokai-tokka-consul-career-path", "job-senryaku-consultant-career-path", "company-keieikyousoukiban-reputation"]
 reviewedAt: 2026-08-22
 sources:
   - name: "有価証券報告書 第61期（2026年3月期）"

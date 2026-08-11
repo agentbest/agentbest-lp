@@ -9,7 +9,7 @@ tags: ["Visional", "ビズリーチ", "HRTech", "メガベンチャー", "東証
 pubDate: 2026-08-11
 slug: "company-visional-reputation"
 image: "/images/media/company-visional-reputation.png"
-related: ["customer-success-future", "industry-tsushin-senkou-flow", "job-field-sales-senkou-flow", "job-scrum-master-tenshoku-nanido"]
+related: ["customer-success-future", "industry-tsushin-senkou-flow", "job-field-sales-senkou-flow", "job-inside-sales-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "ビジョナル株式会社 有価証券報告書 第6期（2025年7月期）"

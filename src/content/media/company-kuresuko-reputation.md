@@ -9,7 +9,7 @@ tags: ["クレスコ", "ITサービス", "デジタルソリューション", "�
 pubDate: 2026-09-02
 slug: "company-kuresuko-reputation"
 image: "/images/media/company-kuresuko-reputation.png"
-related: ["project-manager-career-path", "industry-user-kei-sier-senkou-flow", "company-toyotajidousha-reputation", "company-toyotakonekuteiddo-reputation"]
+related: ["project-manager-career-path", "industry-user-kei-sier-senkou-flow", "company-sbihoorudingusu-reputation", "company-screenhoorudingusu-reputation"]
 reviewedAt: 2026-09-02
 sources:
   - name: "株式会社クレスコ 有価証券報告書 第38期（2026年3月期）"

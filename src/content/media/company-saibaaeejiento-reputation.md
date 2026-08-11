@@ -9,7 +9,7 @@ tags: ["サイバーエージェント", "ABEMA", "メガベンチャー", "東�
 pubDate: 2026-08-13
 slug: "company-saibaaeejiento-reputation"
 image: "/images/media/company-saibaaeejiento-reputation.png"
-related: ["product-manager-interview", "industry-maker-it-shibou-douki", "job-scrum-master-shibou-douki", "job-pre-sales-tenshoku-nanido"]
+related: ["product-manager-interview", "industry-maker-it-shibou-douki", "job-scrum-master-shibou-douki", "job-cxo-kouho-shibou-douki"]
 reviewedAt: 2026-08-13
 sources:
   - name: "有価証券報告書 第28期（2025年9月期）"

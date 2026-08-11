@@ -9,7 +9,7 @@ tags: ["戦略コンサル", "志望動機", "コンサル転職", "面接対策
 pubDate: 2026-08-03
 slug: "industry-senryaku-consul-shibou-douki"
 image: "/images/media/industry-senryaku-consul-shibou-douki.png"
-related: ["consulting-industry-guide", "industry-senryaku-consul-career-path", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-career-path"]
+related: ["big4-consultant-salary", "industry-senryaku-consul-career-path", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-career-path"]
 reviewedAt: 2026-08-03
 sources:
   - name: "アーサー・ディ・リトル ビヘイビア面接（公式サイト・面接の準備）"

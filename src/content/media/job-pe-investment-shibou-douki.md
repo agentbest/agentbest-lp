@@ -9,7 +9,7 @@ tags: ["PEファンド", "プライベートエクイティ", "志望動機", "�
 pubDate: 2026-08-11
 slug: "job-pe-investment-shibou-douki"
 image: "/images/media/job-pe-investment-shibou-douki.png"
-related: ["customer-success-company-size", "job-pe-investment-tenshoku-nanido", "job-pe-investment-career-path", "industry-tsushin-tenshoku-nanido"]
+related: ["customer-success-company-size", "job-pe-investment-career-path", "job-pe-investment-nensyu", "industry-tsushin-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント/M&Aアドバイザー"

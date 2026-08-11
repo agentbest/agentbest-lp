@@ -9,7 +9,7 @@ tags: ["シンプレクス", "シンプレクス・ホールディングス", "I
 pubDate: 2026-08-19
 slug: "company-shinpurekusu-reputation"
 image: "/images/media/company-shinpurekusu-reputation.png"
-related: ["business-consultant-motivation", "industry-gyokai-tokka-consul-senkou-flow", "job-pmo-consultant-senkou-flow", "job-sap-consultant-tenshoku-nanido"]
+related: ["thinktank-certification", "industry-gyokai-tokka-consul-senkou-flow", "job-pmo-consultant-senkou-flow", "job-sap-consultant-tenshoku-nanido"]
 reviewedAt: 2026-08-19
 sources:
   - name: "有価証券報告書 第10期（2026年3月期）"

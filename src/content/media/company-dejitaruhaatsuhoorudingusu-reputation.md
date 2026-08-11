@@ -9,7 +9,7 @@ tags: ["デジタルハーツホールディングス", "デバッグ", "AGEST",
 pubDate: 2026-09-06
 slug: "company-dejitaruhaatsuhoorudingusu-reputation"
 image: "/images/media/company-dejitaruhaatsuhoorudingusu-reputation.png"
-related: ["business-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-sas-institute-japan-reputation", "company-sbihoorudingusu-reputation"]
+related: ["business-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-apirittsu-reputation", "company-arufashisutemuzu-reputation"]
 reviewedAt: 2026-09-06
 sources:
   - name: "株式会社デジタルハーツホールディングス 有価証券報告書 第13期（2026年3月期）"

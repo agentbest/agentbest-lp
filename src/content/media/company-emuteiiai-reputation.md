@@ -9,7 +9,7 @@ tags: ["エムティーアイ", "ルナルナ", "ヘルスケア", "学校DX", "
 pubDate: 2026-08-11
 slug: "company-emuteiiai-reputation"
 image: "/images/media/company-emuteiiai-reputation.png"
-related: ["customer-success-career-path", "industry-kinyu-it-tenshoku-nanido", "job-dx-suishin-tenshoku-nanido", "company-uezaanyuuzu-reputation"]
+related: ["customer-success-career-path", "industry-kinyu-it-tenshoku-nanido", "job-dx-suishin-tenshoku-nanido", "company-gurii-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エムティーアイ 有価証券報告書 第30期（2025年9月期・2025年12月19日提出）"

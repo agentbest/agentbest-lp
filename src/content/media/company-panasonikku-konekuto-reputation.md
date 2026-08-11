@@ -9,7 +9,7 @@ tags: ["パナソニック コネクト", "B2B", "サプライチェーン", "�
 pubDate: 2026-08-06
 slug: "company-panasonikku-konekuto-reputation"
 image: "/images/media/company-panasonikku-konekuto-reputation.png"
-related: ["business-planning-salary", "industry-jigyo-gaisha-pdm-nensyu", "company-morugan-sutanree-reputation", "company-murataseisakusho-reputation"]
+related: ["business-planning-salary", "industry-jigyo-gaisha-pdm-nensyu", "company-kiiensu-reputation", "company-kiiueasoryuushonzu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "パナソニック コネクト グループ概要（公式）"

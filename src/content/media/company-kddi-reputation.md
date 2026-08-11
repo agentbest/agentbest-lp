@@ -9,7 +9,7 @@ tags: ["KDDI", "通信", "au", "プロジェクトマネージャー", "東証�
 pubDate: 2026-08-05
 slug: "company-kddi-reputation"
 image: "/images/media/company-kddi-reputation.png"
-related: ["project-manager-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-segueguruupu-reputation", "company-seikooepuson-reputation"]
+related: ["project-manager-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-ye-digital-reputation", "company-yuni-chaamu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "KDDI 有価証券報告書 第42期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["ヴァンテージマネジメント", "Webマーケティング", "人�
 pubDate: 2026-08-15
 slug: "company-vanteejimanejimento-reputation"
 image: "/images/media/company-vanteejimanejimento-reputation.png"
-related: ["saas-industry-guide", "industry-tsushin-senkou-flow", "job-data-scientist-senkou-flow", "job-field-sales-senkou-flow"]
+related: ["saas-industry-guide", "industry-tsushin-senkou-flow", "job-data-scientist-senkou-flow", "company-uiruguruupu-reputation"]
 reviewedAt: 2026-08-15
 sources:
   - name: "ヴァンテージマネジメント株式会社 会社概要"

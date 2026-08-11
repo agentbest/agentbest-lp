@@ -9,7 +9,7 @@ tags: ["ヤマダホールディングス", "小売", "家電量販", "ヤマダ
 pubDate: 2026-08-06
 slug: "company-yamadahoorudingusu-reputation"
 image: "/images/media/company-yamadahoorudingusu-reputation.png"
-related: ["product-manager-from-scratch", "industry-jigyo-gaisha-pdm-shibou-douki", "company-santoriihoorudingusu-reputation", "company-sapjapan-reputation"]
+related: ["product-manager-from-scratch", "industry-jigyo-gaisha-pdm-shibou-douki", "company-sas-institute-japan-reputation", "company-sbihoorudingusu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社ヤマダホールディングス 有価証券報告書 第49期（2026年3月期）"

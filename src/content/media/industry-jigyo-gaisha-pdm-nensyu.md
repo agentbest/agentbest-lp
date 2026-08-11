@@ -9,7 +9,7 @@ tags: ["事業会社", "プロダクト開発", "年収相場", "賃金構造基
 pubDate: 2026-08-11
 slug: "industry-jigyo-gaisha-pdm-nensyu"
 image: "/images/media/industry-jigyo-gaisha-pdm-nensyu.png"
-related: ["corporate-planning-future", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "company-komatsu-reputation"]
+related: ["corporate-planning-future", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "company-panasonikku-konekuto-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／システムエンジニア（Webサービス開発）"

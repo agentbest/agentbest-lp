@@ -9,7 +9,7 @@ tags: ["ウィルグループ", "人材派遣", "業務請負", "人材紹介", 
 pubDate: 2026-08-11
 slug: "company-uiruguruupu-reputation"
 image: "/images/media/company-uiruguruupu-reputation.png"
-related: ["customer-success-salary-1000", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "job-pe-investment-nensyu"]
+related: ["customer-success-salary-1000", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "job-customer-success-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ウィルグループ 有価証券報告書 第20期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["戦略コンサル", "年収", "コンサル転職", "有価証券報告
 pubDate: 2026-08-03
 slug: "industry-senryaku-consul-nensyu"
 image: "/images/media/industry-senryaku-consul-nensyu.png"
-related: ["big4-consultant-career-guide", "industry-senryaku-consul-career-path", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-tenshoku-nanido"]
+related: ["it-consultant-work-style", "industry-senryaku-consul-career-path", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-tenshoku-nanido"]
 reviewedAt: 2026-08-03
 sources:
   - name: "厚生労働省 job tag「経営コンサルタント」（令和7年賃金構造基本統計調査ほか）"

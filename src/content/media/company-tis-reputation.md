@@ -9,7 +9,7 @@ tags: ["TIS", "TISインテックグループ", "SIer", "金融IT", "東証プ�
 pubDate: 2026-08-05
 slug: "company-tis-reputation"
 image: "/images/media/company-tis-reputation.png"
-related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-kyuubushisutemu-reputation", "company-manekkusuguruupu-reputation"]
+related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-oobikkubijinesukonsarutanto-reputation", "company-oopunguruupu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "TIS 有価証券報告書 第18期（2026年3月期）"

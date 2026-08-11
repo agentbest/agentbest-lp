@@ -9,7 +9,7 @@ tags: ["コア", "組込みシステム", "GNSS", "カンパニー制", "自主�
 pubDate: 2026-09-02
 slug: "company-koa-reputation"
 image: "/images/media/company-koa-reputation.png"
-related: ["business-planning-certification", "industry-jigyo-gaisha-pdm-shibou-douki", "company-jrhigashinihonjouhoushisutemu-reputation", "company-kaou-reputation"]
+related: ["business-planning-certification", "industry-jigyo-gaisha-pdm-shibou-douki", "company-nipponmaikurosofuto-reputation", "company-nipponorakuru-reputation"]
 reviewedAt: 2026-09-02
 sources:
   - name: "株式会社コア 有価証券報告書 第57期（2026年3月期）"

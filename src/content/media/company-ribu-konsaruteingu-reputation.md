@@ -9,7 +9,7 @@ tags: ["リブ・コンサルティング", "LiB Consulting", "ベンチャー�
 pubDate: 2026-08-03
 slug: "company-ribu-konsaruteingu-reputation"
 image: "/images/media/company-ribu-konsaruteingu-reputation.png"
-related: ["industry-sier-senkou-flow", "industry-gyokai-tokka-consul-career-path", "job-senryaku-consultant-career-path", "company-fuyuuchaa-reputation"]
+related: ["dx-consultant-in-30s", "industry-gyokai-tokka-consul-career-path", "job-senryaku-consultant-career-path", "company-fuyuuchaa-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社リブ・コンサルティング 会社案内"

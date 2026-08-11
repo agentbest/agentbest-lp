@@ -9,7 +9,7 @@ tags: ["SAP", "ERP", "年収相場", "賃金構造基本統計調査", "SAPコ�
 pubDate: 2026-08-11
 slug: "job-sap-consultant-nensyu"
 image: "/images/media/job-sap-consultant-nensyu.png"
-related: ["thinktank-certification", "job-sap-consultant-career-path", "job-sap-consultant-senkou-flow", "industry-senryaku-consul-senkou-flow"]
+related: ["industry-dx-consul-senkou-flow", "job-sap-consultant-career-path", "job-sap-consultant-senkou-flow", "industry-senryaku-consul-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ITコンサルタント"

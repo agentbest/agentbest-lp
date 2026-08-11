@@ -9,7 +9,7 @@ tags: ["カルビー", "食品", "スナック菓子", "年収", "評判"]
 pubDate: 2026-08-11
 slug: "company-karubii-reputation"
 image: "/images/media/company-karubii-reputation.png"
-related: ["pmo-motivation", "industry-jigyo-gaisha-pdm-nensyu", "company-ii-gaadian-reputation", "company-iiemushisutemuzu-reputation"]
+related: ["pmo-motivation", "industry-jigyo-gaisha-pdm-nensyu", "company-deru-tekunorojiizu-reputation", "company-dts-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "カルビー株式会社 有価証券報告書 第77期（2026年3月期・2026年6月19日提出）"

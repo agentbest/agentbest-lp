@@ -9,7 +9,7 @@ tags: ["カカクコム", "価格.com", "食べログ", "求人ボックス", "�
 pubDate: 2026-08-11
 slug: "company-kakakukomu-reputation"
 image: "/images/media/company-kakakukomu-reputation.png"
-related: ["industry-saas-vendor-shibou-douki", "industry-kinyu-it-tenshoku-nanido", "job-keiei-kikaku-tenshoku-nanido", "job-shanai-se-tenshoku-nanido"]
+related: ["industry-saas-vendor-shibou-douki", "industry-kinyu-it-tenshoku-nanido", "job-keiei-kikaku-tenshoku-nanido", "job-inside-sales-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社カカクコム 有価証券報告書 第29期（2026年3月期・2026年6月17日提出）"

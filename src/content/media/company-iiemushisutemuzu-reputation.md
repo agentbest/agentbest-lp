@@ -9,7 +9,7 @@ tags: ["イーエムシステムズ", "EMシステムズ", "調剤システム",
 pubDate: 2026-09-01
 slug: "company-iiemushisutemuzu-reputation"
 image: "/images/media/company-iiemushisutemuzu-reputation.png"
-related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-shibou-douki", "company-yamadahoorudingusu-reputation", "company-yasukawadenki-reputation"]
+related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-shibou-douki", "company-asuterasuseiyaku-reputation", "company-asuteria-reputation"]
 reviewedAt: 2026-09-01
 sources:
   - name: "株式会社イーエムシステムズ 有価証券報告書 第43期（2025年12月期）"

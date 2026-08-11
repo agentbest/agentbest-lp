@@ -9,7 +9,7 @@ tags: ["エーアイ", "音声合成", "AITalk", "CRM", "評判"]
 pubDate: 2026-08-11
 slug: "company-eeai-reputation"
 image: "/images/media/company-eeai-reputation.png"
-related: ["product-manager-market-trend", "industry-jigyo-gaisha-pdm-senkou-flow", "company-santoriihoorudingusu-reputation", "company-sapjapan-reputation"]
+related: ["product-manager-market-trend", "industry-jigyo-gaisha-pdm-senkou-flow", "company-toyotajidousha-reputation", "company-toyotakonekuteiddo-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エーアイ 有価証券報告書 第23期（2026年3月期・2026年6月22日提出）"

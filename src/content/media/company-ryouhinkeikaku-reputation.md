@@ -9,7 +9,7 @@ tags: ["良品計画", "無印良品", "小売", "SPA", "東証プライム"]
 pubDate: 2026-08-09
 slug: "company-ryouhinkeikaku-reputation"
 image: "/images/media/company-ryouhinkeikaku-reputation.png"
-related: ["corporate-planning-career-guide", "industry-jigyo-gaisha-pdm-nensyu", "company-shiseidoujapan-reputation", "company-shisukoshisutemuzu-reputation"]
+related: ["corporate-planning-career-guide", "industry-jigyo-gaisha-pdm-nensyu", "company-buroodoriifu-reputation", "company-cac-holdings-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "株式会社良品計画 有価証券報告書 第47期（2025年8月期）"

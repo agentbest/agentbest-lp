@@ -9,7 +9,7 @@ tags: ["コーポレイトディレクション", "CDI", "コンサル転職", "
 pubDate: 2026-08-03
 slug: "company-corporate-directions-reputation"
 image: "/images/media/company-corporate-directions-reputation.png"
-related: ["it-consultant-in-30s", "industry-gyokai-tokka-consul-tenshoku-nanido", "job-pmo-consultant-tenshoku-nanido", "company-pricewaterhousecoopers-japan-llc-reputation"]
+related: ["industry-sier-tenshoku-nanido", "industry-gyokai-tokka-consul-tenshoku-nanido", "job-pmo-consultant-tenshoku-nanido", "company-pricewaterhousecoopers-japan-llc-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社コーポレイト ディレクション 会社概要"

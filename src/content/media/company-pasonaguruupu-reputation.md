@@ -9,7 +9,7 @@ tags: ["パソナグループ", "BPO", "人材派遣", "人材紹介", "地方�
 pubDate: 2026-09-07
 slug: "company-pasonaguruupu-reputation"
 image: "/images/media/company-pasonaguruupu-reputation.png"
-related: ["dev-director-salary", "industry-user-kei-sier-senkou-flow", "company-meijiyasudashisutemu-tekunorojii-reputation", "company-mitsubishidenki-reputation"]
+related: ["dev-director-salary", "industry-user-kei-sier-senkou-flow", "company-smbcnikkoushouken-reputation", "company-sofutobanku-reputation"]
 reviewedAt: 2026-09-07
 sources:
   - name: "株式会社パソナグループ 有価証券報告書 第18期（2025年5月期）"

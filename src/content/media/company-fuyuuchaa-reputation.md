@@ -9,7 +9,7 @@ tags: ["フューチャー", "フューチャーアーキテクト", "ITコン�
 pubDate: 2026-08-20
 slug: "company-fuyuuchaa-reputation"
 image: "/images/media/company-fuyuuchaa-reputation.png"
-related: ["big4-consultant-market-trend", "industry-senryaku-consul-tenshoku-nanido", "job-sustainability-consultant-tenshoku-nanido", "job-pmo-consultant-senkou-flow"]
+related: ["it-consultant-work-style", "industry-senryaku-consul-tenshoku-nanido", "job-sustainability-consultant-tenshoku-nanido", "job-pmo-consultant-senkou-flow"]
 reviewedAt: 2026-08-20
 sources:
   - name: "有価証券報告書 第37期（2025年12月期）"

@@ -9,7 +9,7 @@ tags: ["アバントグループ", "DivaSystem", "連結会計", "ジール", "�
 pubDate: 2026-08-31
 slug: "company-abantoguruupu-reputation"
 image: "/images/media/company-abantoguruupu-reputation.png"
-related: ["dev-director-certification", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-komatsu-reputation", "company-komuchua-reputation"]
+related: ["dev-director-certification", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-shaapu-reputation", "company-shift-reputation"]
 reviewedAt: 2026-08-31
 sources:
   - name: "株式会社アバントグループ 有価証券報告書 第29期（2025年6月期）"
