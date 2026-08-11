@@ -9,7 +9,7 @@ tags: ["ストライク", "M&A仲介", "東証プライム", "事業承継", "�
 pubDate: 2026-08-04
 slug: "company-sutoraiku-reputation"
 image: "/images/media/company-sutoraiku-reputation.png"
-related: ["ma-advisor-salary-600", "company-nihonsangyoupaatonaazu-reputation", "company-nipponmandaadobaizaakyoukai-reputation", "company-nipponmandasentaa-reputation"]
+related: ["ma-advisor-salary-600", "job-fas-analyst-nensyu", "company-razaado-fureeru-reputation", "company-ronguriichiguruupu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社ストライク 有価証券報告書 第29期（2024年10月1日〜2025年9月30日、2025年12月17日提出）"

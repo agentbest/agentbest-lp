@@ -9,7 +9,7 @@ tags: ["フロンティア・マネジメント", "FAS", "事業再生", "経営
 pubDate: 2026-08-04
 slug: "company-furonteia-manejimento-reputation"
 image: "/images/media/company-furonteia-manejimento-reputation.png"
-related: ["ma-industry-company", "company-mitsukikonsaruteingu-reputation", "company-nihonsangyoupaatonaazu-reputation", "company-nipponmandaadobaizaakyoukai-reputation"]
+related: ["ma-industry-company", "job-fas-analyst-nensyu", "company-puruutasu-konsaruteingu-reputation", "company-pwcadobaizarii-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "フロンティア・マネジメント株式会社 有価証券報告書 第19期（2025年1月1日〜2025年12月31日、2026年3月25日提出）"

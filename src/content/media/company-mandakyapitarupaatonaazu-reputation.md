@@ -9,7 +9,7 @@ tags: ["M&Aキャピタルパートナーズ", "M&A仲介", "事業承継", "東
 pubDate: 2026-08-04
 slug: "company-mandakyapitarupaatonaazu-reputation"
 image: "/images/media/company-mandakyapitarupaatonaazu-reputation.png"
-related: ["fas-consultant-skills", "company-yunizon-kyapitaru-reputation", "company-adobantejjipaatonaazu-reputation", "company-agskonsaruteingu-reputation"]
+related: ["fas-consultant-skills", "job-ma-chukai-eigyo-career-path", "company-rosuchairudoandkanpanii-reputation", "company-shiteiguruupushouken-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "Ｍ＆Ａキャピタルパートナーズ株式会社 有価証券報告書 第20期（2024年10月1日〜2025年9月30日、2025年12月24日提出）"

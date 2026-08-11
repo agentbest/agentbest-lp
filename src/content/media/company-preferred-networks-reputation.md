@@ -9,7 +9,7 @@ tags: ["Preferred Networks", "AI", "生成AI", "半導体", "非上場"]
 pubDate: 2026-08-09
 slug: "company-preferred-networks-reputation"
 image: "/images/media/company-preferred-networks-reputation.png"
-related: ["customer-success-future", "job-cxo-kouho-career-path", "job-cxo-kouho-nensyu", "job-cxo-kouho-senkou-flow"]
+related: ["customer-success-future", "job-shanai-se-career-path", "job-customer-success-career-path", "job-customer-success-nensyu"]
 reviewedAt: 2026-08-09
 sources:
   - name: "株式会社Preferred Networks 会社概要"

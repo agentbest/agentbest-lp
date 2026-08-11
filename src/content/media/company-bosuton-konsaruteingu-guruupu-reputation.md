@@ -9,7 +9,7 @@ tags: ["BCG", "ボストンコンサルティンググループ", "MBB", "戦略
 pubDate: 2026-08-03
 slug: "company-bosuton-konsaruteingu-guruupu-reputation"
 image: "/images/media/company-bosuton-konsaruteingu-guruupu-reputation.png"
-related: ["business-consultant-salary-1000", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "company-kpmg-japan-reputation"]
+related: ["business-consultant-salary-1000", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "job-senryaku-consultant-tenshoku-nanido"]
 reviewedAt: 2026-08-03
 sources:
   - name: "BCG 採用情報・応募（日本）"

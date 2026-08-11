@@ -9,7 +9,7 @@ tags: ["SmartNews", "メディア", "ニュースアプリ", "スタートアッ
 pubDate: 2026-08-10
 slug: "company-smartnews-reputation"
 image: "/images/media/company-smartnews-reputation.png"
-related: ["customer-success-work-style", "job-customer-success-tenshoku-nanido", "company-preferred-networks-reputation", "company-purekkusu-reputation"]
+related: ["customer-success-work-style", "job-bizdev-tenshoku-nanido", "job-dx-suishin-tenshoku-nanido", "job-field-sales-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "スマートニュース株式会社 会社概要"

@@ -9,7 +9,7 @@ tags: ["KPMG FAS", "Big4", "FAS", "M&A", "事業再生"]
 pubDate: 2026-08-04
 slug: "company-kpmg-fas-reputation"
 image: "/images/media/company-kpmg-fas-reputation.png"
-related: ["fas-consultant-skills", "company-nihonsangyoupaatonaazu-reputation", "company-nipponmandaadobaizaakyoukai-reputation", "company-nipponmandasentaa-reputation"]
+related: ["fas-consultant-skills", "job-fas-analyst-senkou-flow", "company-kkrjapan-reputation", "company-kurarisukyapitaru-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社KPMG FAS 会社概要"

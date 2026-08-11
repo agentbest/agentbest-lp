@@ -9,7 +9,7 @@ tags: ["事業企画", "選考フロー", "面接対策", "課題提出", "景�
 pubDate: 2026-08-10
 slug: "job-jigyo-kikaku-senkou-flow"
 image: "/images/media/job-jigyo-kikaku-senkou-flow.png"
-related: ["product-manager-english", "job-jigyo-kikaku-career-path", "job-jigyo-kikaku-nensyu", "company-fundinno-reputation"]
+related: ["product-manager-english", "job-jigyo-kikaku-career-path", "job-jigyo-kikaku-nensyu", "company-mixi-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

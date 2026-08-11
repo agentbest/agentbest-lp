@@ -9,7 +9,7 @@ tags: ["経営承継支援", "M&A仲介", "事業承継", "中小企業", "三�
 pubDate: 2026-08-05
 slug: "company-keieishoukeishien-reputation"
 image: "/images/media/company-keieishoukeishien-reputation.png"
-related: ["finance-certification", "company-integuruupu-reputation", "company-j-star-reputation", "company-jafuko-guruupu-reputation"]
+related: ["finance-certification", "job-fas-analyst-career-path", "company-porarisu-kyapitaru-guruupu-reputation", "company-puruutasu-konsaruteingu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "経営承継支援 公式サイト 会社概要"

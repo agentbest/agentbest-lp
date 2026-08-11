@@ -9,7 +9,7 @@ tags: ["Sakana AI", "AI", "生成AI", "基盤モデル", "非上場"]
 pubDate: 2026-08-10
 slug: "company-sakana-ai-reputation"
 image: "/images/media/company-sakana-ai-reputation.png"
-related: ["saas-sales-salary-1000", "job-jigyo-kikaku-shibou-douki", "job-customer-success-nensyu", "job-customer-success-senkou-flow"]
+related: ["saas-sales-salary-1000", "job-data-scientist-shibou-douki", "job-cxo-kouho-shibou-douki", "job-cxo-kouho-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "Sakana AI 企業情報"

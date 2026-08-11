@@ -9,7 +9,7 @@ tags: ["フィールドセールス", "SaaS営業", "転職難易度", "未経�
 pubDate: 2026-08-10
 slug: "job-field-sales-tenshoku-nanido"
 image: "/images/media/job-field-sales-tenshoku-nanido.png"
-related: ["saas-sales-in-20s", "job-field-sales-career-path", "job-field-sales-nensyu", "company-purekkusu-reputation"]
+related: ["saas-sales-in-20s", "job-field-sales-career-path", "job-field-sales-nensyu", "company-preferred-networks-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

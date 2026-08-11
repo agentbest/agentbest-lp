@@ -9,7 +9,7 @@ tags: ["戦略コンサル", "Strategy&", "PwC", "Big4", "コンサル転職"]
 pubDate: 2026-08-02
 slug: "company-pwc-strategyand-reputation"
 image: "/images/media/company-pwc-strategyand-reputation.png"
-related: ["big4-consultant-motivation", "industry-senryaku-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "company-ey-japan-reputation"]
+related: ["big4-consultant-motivation", "industry-senryaku-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "industry-senryaku-consul-tenshoku-nanido"]
 reviewedAt: 2026-08-02
 sources:
   - name: "Strategy&は、PwCの戦略コンサルティング部門です（Strategy& Japan 公式）"

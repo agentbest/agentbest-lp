@@ -9,7 +9,7 @@ tags: ["fundbook", "M&A仲介", "事業承継", "プラットフォーム", "未
 pubDate: 2026-08-04
 slug: "company-fundbook-reputation"
 image: "/images/media/company-fundbook-reputation.png"
-related: ["post-consultant-work-style", "company-sutoraiku-reputation", "company-t-kyapitarupaatonaazu-reputation", "company-yamadakonsaruteinguguruupu-reputation"]
+related: ["post-consultant-work-style", "job-fas-analyst-senkou-flow", "company-mandabesutopaatonaazu-reputation", "company-mandakyapitarupaatonaazu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社fundbook 会社概要"

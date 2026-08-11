@@ -9,7 +9,7 @@ tags: ["FRONTEO", "リーガルテック", "eディスカバリ", "AI", "東証�
 pubDate: 2026-08-04
 slug: "company-fronteo-reputation"
 image: "/images/media/company-fronteo-reputation.png"
-related: ["post-consultant-motivation", "company-doitsushouken-reputation", "company-ebakoa-reputation", "company-endebaa-yunaiteddo-reputation"]
+related: ["post-consultant-motivation", "job-fas-analyst-nensyu", "company-baakureizushouken-reputation", "company-banku-obu-amerikashouken-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社FRONTEO 有価証券報告書 第23期（2025年4月1日〜2026年3月31日、2026年6月23日提出）"

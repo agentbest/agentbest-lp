@@ -9,7 +9,7 @@ tags: ["エンデバー・ユナイテッド", "PEファンド", "事業再生",
 pubDate: 2026-08-04
 slug: "company-endebaa-yunaiteddo-reputation"
 image: "/images/media/company-endebaa-yunaiteddo-reputation.png"
-related: ["finance-salary", "company-meiminamimanda-reputation", "company-mitsubishiufjmorugan-sutanreeshouken-reputation", "company-mitsukikonsaruteingu-reputation"]
+related: ["finance-salary", "job-fas-analyst-nensyu", "job-fas-analyst-senkou-flow", "job-fas-analyst-shibou-douki"]
 reviewedAt: 2026-08-04
 sources:
   - name: "エンデバー・ユナイテッド株式会社 会社概要"

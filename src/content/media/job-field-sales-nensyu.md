@@ -9,7 +9,7 @@ tags: ["フィールドセールス", "SaaS営業", "年収相場", "インセ�
 pubDate: 2026-08-10
 slug: "job-field-sales-nensyu"
 image: "/images/media/job-field-sales-nensyu.png"
-related: ["bizdev-skills", "job-field-sales-career-path", "job-field-sales-senkou-flow", "company-merukari-reputation"]
+related: ["bizdev-skills", "job-field-sales-career-path", "job-field-sales-senkou-flow", "company-ii-foosu-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

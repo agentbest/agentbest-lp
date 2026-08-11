@@ -9,7 +9,7 @@ tags: ["KPMGジャパン", "Big4", "コンサル転職", "企業研究", "監査
 pubDate: 2026-08-02
 slug: "company-kpmg-japan-reputation"
 image: "/images/media/company-kpmg-japan-reputation.png"
-related: ["it-consultant-from-scratch", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "company-accenture-japan-reputation"]
+related: ["it-consultant-from-scratch", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "company-rinkuandomochibeeshon-reputation"]
 reviewedAt: 2026-08-02
 sources:
   - name: "KPMGジャパン｜About（メンバーファーム構成）"

@@ -9,7 +9,7 @@ tags: ["データサイエンティスト", "年収相場", "賃金構造基本�
 pubDate: 2026-08-10
 slug: "job-data-scientist-nensyu"
 image: "/images/media/job-data-scientist-nensyu.png"
-related: ["customer-success-from-scratch", "job-data-scientist-career-path", "job-data-scientist-senkou-flow", "company-esu-emu-esu-reputation"]
+related: ["customer-success-from-scratch", "job-data-scientist-career-path", "job-data-scientist-senkou-flow", "company-sakana-ai-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／データサイエンティスト"

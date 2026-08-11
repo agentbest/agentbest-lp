@@ -9,7 +9,7 @@ tags: ["パトスロゴス", "PathosLogos", "Combosite", "HR SaaS", "非上場"]
 pubDate: 2026-08-16
 slug: "company-patosurogosu-reputation"
 image: "/images/media/company-patosurogosu-reputation.png"
-related: ["product-manager-interview", "job-field-sales-senkou-flow", "company-atama-plus-reputation", "company-bittokii-reputation"]
+related: ["product-manager-interview", "job-shanai-se-senkou-flow", "job-dx-suishin-senkou-flow", "job-dx-suishin-shibou-douki"]
 reviewedAt: 2026-08-16
 sources:
   - name: "シリーズAの資金調達を完了（2024年7月23日）"

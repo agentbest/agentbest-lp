@@ -9,7 +9,7 @@ tags: ["日本IBM", "IBM", "ITコンサル", "外資系", "コンサル転職"]
 pubDate: 2026-08-03
 slug: "company-nipponai-bii-emu-reputation"
 image: "/images/media/company-nipponai-bii-emu-reputation.png"
-related: ["business-consultant-salary", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "industry-senryaku-consul-shibou-douki"]
+related: ["business-consultant-salary", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "company-deroito-toomatsu-konsaruteingu-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "IBM採用情報 応募者のFAQ（中途採用比率・選考・評価制度、公表日2025年5月20日時点）"

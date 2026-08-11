@@ -9,7 +9,7 @@ tags: ["グリー", "グリーホールディングス", "GREE", "メガベン�
 pubDate: 2026-08-13
 slug: "company-gurii-reputation"
 image: "/images/media/company-gurii-reputation.png"
-related: ["bizdev-certification", "job-customer-success-senkou-flow", "company-fundinno-reputation", "company-guroobaruuei-reputation"]
+related: ["bizdev-certification", "job-jigyo-kikaku-senkou-flow", "job-inside-sales-senkou-flow", "job-inside-sales-shibou-douki"]
 reviewedAt: 2026-08-13
 sources:
   - name: "有価証券報告書 第21期（2025年6月期）"

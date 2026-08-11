@@ -9,7 +9,7 @@ tags: ["MIXI", "mixi", "メガベンチャー", "東証プライム", "スポー
 pubDate: 2026-08-12
 slug: "company-mixi-reputation"
 image: "/images/media/company-mixi-reputation.png"
-related: ["saas-industry-trend", "job-field-sales-senkou-flow", "job-cxo-kouho-shibou-douki", "job-cxo-kouho-tenshoku-nanido"]
+related: ["saas-industry-trend", "job-customer-success-senkou-flow", "job-jigyo-kikaku-senkou-flow", "job-jigyo-kikaku-shibou-douki"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社MIXI 会社概要"

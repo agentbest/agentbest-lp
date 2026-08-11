@@ -9,7 +9,7 @@ tags: ["カーライル", "PEファンド", "バイアウト", "外資系ファ�
 pubDate: 2026-08-04
 slug: "company-kaarairu-japan-reputation"
 image: "/images/media/company-kaarairu-japan-reputation.png"
-related: ["ma-advisor-how-to-use-agent", "company-nipponmandaadobaizaakyoukai-reputation", "company-nipponmandasentaa-reputation", "company-nsskguruupu-reputation"]
+related: ["ma-advisor-how-to-use-agent", "job-fas-analyst-shibou-douki", "company-j-star-reputation", "company-jafuko-guruupu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "The Carlyle Group 公式サイト「カーライル・ジャパンについて」"

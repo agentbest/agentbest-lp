@@ -9,7 +9,7 @@ tags: ["カケハシ", "KAKEHASHI", "医療DX", "調剤薬局", "非上場"]
 pubDate: 2026-08-13
 slug: "company-kakehashi-reputation"
 image: "/images/media/company-kakehashi-reputation.png"
-related: ["saas-industry-trend", "job-cxo-kouho-career-path", "company-upsider-reputation", "company-vanteejimanejimento-reputation"]
+related: ["saas-industry-trend", "job-data-scientist-career-path", "company-fundinno-reputation", "company-gurii-reputation"]
 reviewedAt: 2026-08-13
 sources:
   - name: "株式会社カケハシ 会社概要"

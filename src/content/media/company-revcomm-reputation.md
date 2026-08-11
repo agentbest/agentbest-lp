@@ -9,7 +9,7 @@ tags: ["RevComm", "SaaS", "AI", "スタートアップ", "非上場"]
 pubDate: 2026-08-10
 slug: "company-revcomm-reputation"
 image: "/images/media/company-revcomm-reputation.png"
-related: ["product-manager-resume", "job-cxo-kouho-tenshoku-nanido", "company-esu-emu-esu-reputation", "company-feriesuto-reputation"]
+related: ["product-manager-resume", "job-keiei-kikaku-tenshoku-nanido", "job-data-scientist-tenshoku-nanido", "job-dx-suishin-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "株式会社RevComm 会社概要"

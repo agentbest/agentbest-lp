@@ -9,7 +9,7 @@ tags: ["ブリッジワン", "人材紹介", "M&A仲介", "経営コンサルテ
 pubDate: 2026-08-17
 slug: "company-burijjiwan-reputation"
 image: "/images/media/company-burijjiwan-reputation.png"
-related: ["customer-success-salary-600", "job-jigyo-kikaku-career-path", "company-spiber-reputation", "company-suriishieiku-reputation"]
+related: ["customer-success-salary-600", "job-data-scientist-career-path", "company-suriishieiku-reputation", "company-sutokkumaaku-reputation"]
 reviewedAt: 2026-08-17
 sources:
   - name: "株式会社ブリッジワン 採用情報（HERP）"

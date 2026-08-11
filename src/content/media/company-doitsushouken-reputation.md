@@ -9,7 +9,7 @@ tags: ["ドイツ証券", "外資系証券", "債券", "投資銀行", "外資�
 pubDate: 2026-08-04
 slug: "company-doitsushouken-reputation"
 image: "/images/media/company-doitsushouken-reputation.png"
-related: ["ma-industry-guide", "company-t-kyapitarupaatonaazu-reputation", "company-yamadakonsaruteinguguruupu-reputation", "company-yunizon-kyapitaru-reputation"]
+related: ["ma-industry-guide", "job-ma-chukai-eigyo-career-path", "company-mitsukikonsaruteingu-reputation", "company-nihonsangyoupaatonaazu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "ドイツ証券株式会社「業務及び財産の状況に関する説明書」2025年12月期（金融商品取引法第46条の4）"

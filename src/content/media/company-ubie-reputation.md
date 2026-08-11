@@ -9,7 +9,7 @@ tags: ["Ubie", "医療DX", "ヘルステック", "AI", "非上場"]
 pubDate: 2026-08-11
 slug: "company-ubie-reputation"
 image: "/images/media/company-ubie-reputation.png"
-related: ["product-manager-from-scratch", "job-jigyo-kikaku-tenshoku-nanido", "company-spiber-reputation", "company-suriishieiku-reputation"]
+related: ["product-manager-from-scratch", "job-project-manager-tenshoku-nanido", "job-dx-suishin-tenshoku-nanido", "job-field-sales-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "Ubie株式会社 ユビーについて（会社情報）"

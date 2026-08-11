@@ -9,7 +9,7 @@ tags: ["コンサル", "Big4", "KPMGコンサルティング", "企業研究", "
 pubDate: 2026-08-02
 slug: "company-kpmg-consulting-reputation"
 image: "/images/media/company-kpmg-consulting-reputation.png"
-related: ["big4-consultant-skills", "industry-senryaku-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "company-kpmg-japan-reputation"]
+related: ["big4-consultant-skills", "industry-senryaku-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "job-senryaku-consultant-tenshoku-nanido"]
 reviewedAt: 2026-08-02
 sources:
   - name: "KPMGコンサルティング 採用サイト「会社を知る（会社概要）」"

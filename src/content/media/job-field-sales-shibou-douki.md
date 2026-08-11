@@ -9,7 +9,7 @@ tags: ["フィールドセールス", "SaaS営業", "志望動機", "職務経�
 pubDate: 2026-08-10
 slug: "job-field-sales-shibou-douki"
 image: "/images/media/job-field-sales-shibou-douki.png"
-related: ["saas-sales-skills", "job-field-sales-career-path", "job-field-sales-nensyu", "company-feriesuto-reputation"]
+related: ["saas-sales-skills", "job-field-sales-career-path", "job-field-sales-nensyu", "company-noharaguruupu-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

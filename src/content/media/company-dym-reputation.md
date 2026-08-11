@@ -9,7 +9,7 @@ tags: ["DYM", "人材", "WEB", "医療", "非上場"]
 pubDate: 2026-08-15
 slug: "company-dym-reputation"
 image: "/images/media/company-dym-reputation.png"
-related: ["customer-success-salary-600", "job-jigyo-kikaku-shibou-douki", "company-kyadi-reputation", "company-legalon-technologies-reputation"]
+related: ["customer-success-salary-600", "job-it-architect-shibou-douki", "job-keiei-kikaku-shibou-douki", "job-keiei-kikaku-tenshoku-nanido"]
 reviewedAt: 2026-08-15
 sources:
   - name: "株式会社DYM 会社概要"

@@ -9,7 +9,7 @@ tags: ["カスタマーサクセス", "年収相場", "SaaS", "継続率", "評�
 pubDate: 2026-08-10
 slug: "job-customer-success-nensyu"
 image: "/images/media/job-customer-success-nensyu.png"
-related: ["customer-success-how-to-use-agent", "job-customer-success-career-path", "job-customer-success-senkou-flow", "company-upsider-reputation"]
+related: ["customer-success-how-to-use-agent", "job-customer-success-career-path", "job-customer-success-senkou-flow", "company-estie-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ヘルプデスク（IT）"

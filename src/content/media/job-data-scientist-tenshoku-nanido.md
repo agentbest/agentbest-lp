@@ -9,7 +9,7 @@ tags: ["データサイエンティスト", "転職難易度", "有効求人倍�
 pubDate: 2026-08-10
 slug: "job-data-scientist-tenshoku-nanido"
 image: "/images/media/job-data-scientist-tenshoku-nanido.png"
-related: ["saas-sales-skills", "job-data-scientist-career-path", "job-data-scientist-nensyu", "company-hal-reputation"]
+related: ["saas-sales-skills", "job-data-scientist-career-path", "job-data-scientist-nensyu", "company-varietas-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／データサイエンティスト"

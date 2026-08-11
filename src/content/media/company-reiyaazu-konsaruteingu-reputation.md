@@ -9,7 +9,7 @@ tags: ["レイヤーズ・コンサルティング", "総合コンサル", "実�
 pubDate: 2026-08-03
 slug: "company-reiyaazu-konsaruteingu-reputation"
 image: "/images/media/company-reiyaazu-konsaruteingu-reputation.png"
-related: ["consulting-industry-career", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "company-deroito-toomatsu-guruupu-reputation"]
+related: ["consulting-industry-career", "industry-senryaku-consul-career-path", "job-senryaku-consultant-career-path", "company-corporate-directions-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社レイヤーズ・コンサルティング 企業情報"

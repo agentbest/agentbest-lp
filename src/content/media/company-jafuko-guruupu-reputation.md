@@ -9,7 +9,7 @@ tags: ["ジャフコ", "ベンチャーキャピタル", "東証プライム", "
 pubDate: 2026-08-04
 slug: "company-jafuko-guruupu-reputation"
 image: "/images/media/company-jafuko-guruupu-reputation.png"
-related: ["finance-in-30s", "company-yamadakonsaruteinguguruupu-reputation", "company-yunizon-kyapitaru-reputation", "company-adobantejjipaatonaazu-reputation"]
+related: ["finance-in-30s", "job-fas-analyst-tenshoku-nanido", "company-kkrjapan-reputation", "company-kpmg-fas-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "ジャフコ グループ株式会社 有価証券報告書 第54期（2025年4月1日〜2026年3月31日、2026年6月17日提出）"

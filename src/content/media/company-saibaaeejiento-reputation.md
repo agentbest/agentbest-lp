@@ -9,7 +9,7 @@ tags: ["サイバーエージェント", "ABEMA", "メガベンチャー", "東�
 pubDate: 2026-08-13
 slug: "company-saibaaeejiento-reputation"
 image: "/images/media/company-saibaaeejiento-reputation.png"
-related: ["bizdev-failure", "job-field-sales-shibou-douki", "job-cxo-kouho-senkou-flow", "job-cxo-kouho-shibou-douki"]
+related: ["bizdev-failure", "job-keiei-kikaku-shibou-douki", "job-field-sales-shibou-douki", "job-field-sales-tenshoku-nanido"]
 reviewedAt: 2026-08-13
 sources:
   - name: "有価証券報告書 第28期（2025年9月期）"

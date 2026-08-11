@@ -9,7 +9,7 @@ tags: ["フォーティエンスコンサルティング", "クニエ", "コン�
 pubDate: 2026-08-03
 slug: "company-fortience-consulting-reputation"
 image: "/images/media/company-fortience-consulting-reputation.png"
-related: ["dx-consultant-career-path", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "job-senryaku-consultant-shibou-douki"]
+related: ["dx-consultant-career-path", "industry-senryaku-consul-nensyu", "job-senryaku-consultant-nensyu", "company-rakku-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "フォーティエンスコンサルティング株式会社 会社概要"

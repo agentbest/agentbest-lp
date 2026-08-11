@@ -9,7 +9,7 @@ tags: ["ビットキー", "bitkey", "IoT", "スマートロック", "非上場"]
 pubDate: 2026-08-14
 slug: "company-bittokii-reputation"
 image: "/images/media/company-bittokii-reputation.png"
-related: ["saas-sales-how-to-use-agent", "job-inside-sales-nensyu", "company-uirugeeto-reputation", "company-upsider-reputation"]
+related: ["saas-sales-how-to-use-agent", "job-cxo-kouho-nensyu", "job-customer-success-nensyu", "job-customer-success-senkou-flow"]
 reviewedAt: 2026-08-14
 sources:
   - name: "株式会社ビットキー 会社概要"

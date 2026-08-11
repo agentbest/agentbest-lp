@@ -9,7 +9,7 @@ tags: ["ベイカレント", "総合コンサル", "東証プライム", "コン
 pubDate: 2026-08-03
 slug: "company-beikarento-reputation"
 image: "/images/media/company-beikarento-reputation.png"
-related: ["big4-consultant-how-to-use-agent", "industry-senryaku-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "company-hitachikonsaruteingu-reputation"]
+related: ["big4-consultant-how-to-use-agent", "industry-senryaku-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "company-pwc-consulting-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社ベイカレント 有価証券報告書 第12期（2025年3月1日〜2026年2月28日、2026年5月26日提出）"

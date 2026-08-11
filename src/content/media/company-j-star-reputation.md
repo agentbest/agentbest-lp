@@ -9,7 +9,7 @@ tags: ["J-STAR", "PEファンド", "独立系", "バイアウト", "中堅中小
 pubDate: 2026-08-04
 slug: "company-j-star-reputation"
 image: "/images/media/company-j-star-reputation.png"
-related: ["post-consultant-interview", "company-rosuchairudoandkanpanii-reputation", "company-shiteiguruupushouken-reputation", "company-subaru-reputation"]
+related: ["post-consultant-interview", "job-fas-analyst-shibou-douki", "company-gca-reputation", "company-integuraru-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "J-STAR株式会社 会社概要"

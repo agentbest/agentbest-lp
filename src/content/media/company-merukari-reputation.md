@@ -9,7 +9,7 @@ tags: ["メルカリ", "Mercari", "メガベンチャー", "東証プライム",
 pubDate: 2026-08-14
 slug: "company-merukari-reputation"
 image: "/images/media/company-merukari-reputation.png"
-related: ["saas-sales-in-20s", "job-inside-sales-senkou-flow", "company-upsider-reputation", "company-vanteejimanejimento-reputation"]
+related: ["saas-sales-in-20s", "job-cxo-kouho-senkou-flow", "job-customer-success-senkou-flow", "job-customer-success-shibou-douki"]
 reviewedAt: 2026-08-14
 sources:
   - name: "有価証券報告書 第13期（2025年6月期）"

@@ -9,7 +9,7 @@ tags: ["EY新日本有限責任監査法人", "監査法人", "Big4", "コンサ
 pubDate: 2026-08-02
 slug: "company-ernst-and-young-shinnihon-llc-reputation"
 image: "/images/media/company-ernst-and-young-shinnihon-llc-reputation.png"
-related: ["strategy-consultant-future", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-deroito-toomatsu-guruupu-reputation"]
+related: ["strategy-consultant-future", "industry-senryaku-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-corporate-directions-reputation"]
 reviewedAt: 2026-08-02
 sources:
   - name: "EY新日本有限責任監査法人 法人案内（EY Japan公式）"

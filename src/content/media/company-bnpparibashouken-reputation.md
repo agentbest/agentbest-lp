@@ -9,7 +9,7 @@ tags: ["BNPパリバ証券", "外資系投資銀行", "IBD", "グローバルマ
 pubDate: 2026-08-03
 slug: "company-bnpparibashouken-reputation"
 image: "/images/media/company-bnpparibashouken-reputation.png"
-related: ["fas-consultant-career-path", "company-integuraru-reputation", "company-integuruupu-reputation", "company-j-star-reputation"]
+related: ["fas-consultant-career-path", "job-fas-analyst-senkou-flow", "company-anri-reputation", "company-aozoraginkouguruupu-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "ＢＮＰパリバ証券株式会社 業務及び財産の状況に関する説明書【2025年3月期】（金融商品取引法第46条の4）"

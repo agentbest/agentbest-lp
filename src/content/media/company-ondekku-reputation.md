@@ -9,7 +9,7 @@ tags: ["オンデック", "M&A仲介", "東証グロース", "大阪", "事業�
 pubDate: 2026-08-04
 slug: "company-ondekku-reputation"
 image: "/images/media/company-ondekku-reputation.png"
-related: ["post-consultant-career-path", "company-t-kyapitarupaatonaazu-reputation", "company-yamadakonsaruteinguguruupu-reputation", "company-yunizon-kyapitaru-reputation"]
+related: ["post-consultant-career-path", "job-fas-analyst-nensyu", "company-yamadakonsaruteinguguruupu-reputation", "company-yunizon-kyapitaru-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社オンデック 有価証券報告書 第18期（2024年12月1日〜2025年11月30日、2026年2月24日提出）"

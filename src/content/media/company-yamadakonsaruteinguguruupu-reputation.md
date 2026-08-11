@@ -9,7 +9,7 @@ tags: ["山田コンサルティンググループ", "事業再生", "事業承�
 pubDate: 2026-08-04
 slug: "company-yamadakonsaruteinguguruupu-reputation"
 image: "/images/media/company-yamadakonsaruteinguguruupu-reputation.png"
-related: ["finance-in-20s", "company-beinkyapitaru-japan-reputation", "company-bnpparibashouken-reputation", "company-clsakyapitarupaatonaazu-reputation"]
+related: ["finance-in-20s", "job-fas-analyst-nensyu", "company-agskonsaruteingu-reputation", "company-anri-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "山田コンサルティンググループ 有価証券報告書 第37期（2026年3月期）"

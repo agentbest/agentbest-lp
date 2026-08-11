@@ -9,7 +9,7 @@ tags: ["プレックス", "PLEX", "人材紹介", "物流", "非上場"]
 pubDate: 2026-08-17
 slug: "company-purekkusu-reputation"
 image: "/images/media/company-purekkusu-reputation.png"
-related: ["product-manager-interview", "job-field-sales-career-path", "company-tbm-reputation", "company-ubie-reputation"]
+related: ["product-manager-interview", "job-data-scientist-career-path", "job-it-architect-career-path", "job-it-architect-nensyu"]
 reviewedAt: 2026-08-17
 sources:
   - name: "株式会社プレックス 会社概要"

@@ -9,7 +9,7 @@ tags: ["アーキテックス", "注文住宅", "リフォーム", "不動産", 
 pubDate: 2026-08-12
 slug: "company-aakitekkusu-reputation"
 image: "/images/media/company-aakitekkusu-reputation.png"
-related: ["saas-industry-trend", "job-data-scientist-tenshoku-nanido", "job-jigyo-kikaku-career-path", "job-jigyo-kikaku-nensyu"]
+related: ["saas-industry-trend", "job-pre-sales-tenshoku-nanido", "company-rogurasu-reputation", "company-saibaaeejiento-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アーキテックス株式会社 会社概要"

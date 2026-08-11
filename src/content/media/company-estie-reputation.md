@@ -9,7 +9,7 @@ tags: ["estie", "不動産DX", "SaaS", "スタートアップ", "非上場"]
 pubDate: 2026-08-11
 slug: "company-estie-reputation"
 image: "/images/media/company-estie-reputation.png"
-related: ["saas-sales-salary-1000", "job-jigyo-kikaku-nensyu", "company-burijjiwan-reputation", "company-dii-enu-ee-reputation"]
+related: ["saas-sales-salary-1000", "job-it-architect-nensyu", "job-field-sales-nensyu", "job-field-sales-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社estie 会社情報"

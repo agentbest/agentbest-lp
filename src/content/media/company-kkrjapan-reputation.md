@@ -9,7 +9,7 @@ tags: ["KKR", "PEファンド", "外資系", "バイアウト", "金融転職"]
 pubDate: 2026-08-04
 slug: "company-kkrjapan-reputation"
 image: "/images/media/company-kkrjapan-reputation.png"
-related: ["post-consultant-motivation", "company-pwcadobaizarii-reputation", "company-razaado-fureeru-reputation", "company-ronguriichiguruupu-reputation"]
+related: ["post-consultant-motivation", "job-fas-analyst-senkou-flow", "company-jiefuriizushouken-reputation", "company-kaarairu-japan-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "KKRジャパン（日本拠点・お問い合わせ）"

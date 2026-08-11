@@ -9,7 +9,7 @@ tags: ["スリーシェイク", "3-shake", "SRE", "インフラ", "非上場"]
 pubDate: 2026-08-16
 slug: "company-suriishieiku-reputation"
 image: "/images/media/company-suriishieiku-reputation.png"
-related: ["customer-success-career-path", "job-field-sales-shibou-douki", "job-customer-success-shibou-douki", "job-customer-success-tenshoku-nanido"]
+related: ["customer-success-career-path", "job-it-architect-shibou-douki", "company-ubie-reputation", "company-uirugeeto-reputation"]
 reviewedAt: 2026-08-16
 sources:
   - name: "株式会社スリーシェイク 会社概要"

@@ -9,7 +9,7 @@ tags: ["Spiber", "バイオ素材", "ディープテック", "スタートアッ
 pubDate: 2026-08-10
 slug: "company-spiber-reputation"
 image: "/images/media/company-spiber-reputation.png"
-related: ["customer-success-career-guide", "job-data-scientist-shibou-douki", "company-upsider-reputation", "company-vanteejimanejimento-reputation"]
+related: ["customer-success-career-guide", "job-bizdev-shibou-douki", "job-data-scientist-shibou-douki", "job-data-scientist-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "Spiber株式会社 Company（企業情報）"
