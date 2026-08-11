@@ -9,7 +9,7 @@ tags: ["デロイト トーマツ リスクアドバイザリー", "DTRA", "Big4
 pubDate: 2026-08-03
 slug: "company-deroito-toomatsu-risukuadobaizarii-reputation"
 image: "/images/media/company-deroito-toomatsu-risukuadobaizarii-reputation.png"
-related: ["industry-chusho-consul-tenshoku-nanido", "industry-gyokai-tokka-consul-tenshoku-nanido", "job-senryaku-consultant-tenshoku-nanido", "job-sustainability-consultant-nensyu"]
+related: ["industry-chusho-consul-tenshoku-nanido", "industry-gyokai-tokka-consul-tenshoku-nanido", "job-senryaku-consultant-tenshoku-nanido", "company-shinpurekusu-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "デロイト トーマツ リスクアドバイザリーサービス（サービス区分）"

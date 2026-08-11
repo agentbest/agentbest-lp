@@ -9,7 +9,7 @@ tags: ["トレンドマイクロ", "セキュリティ", "Trend Vision One", "�
 pubDate: 2026-09-07
 slug: "company-torendomaikuro-reputation"
 image: "/images/media/company-torendomaikuro-reputation.png"
-related: ["corporate-planning-career-guide", "industry-jigyo-gaisha-pdm-nensyu", "company-kyapitaru-asetto-puranningu-reputation", "company-kycomhoorudingusu-reputation"]
+related: ["corporate-planning-career-guide", "industry-jigyo-gaisha-pdm-nensyu", "company-cri-midoruuea-reputation", "company-daburusutandaado-reputation"]
 reviewedAt: 2026-09-07
 sources:
   - name: "トレンドマイクロ株式会社 有価証券報告書 第37期（2025年12月期）"

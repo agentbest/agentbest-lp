@@ -9,7 +9,7 @@ tags: ["TKC", "会計事務所", "地方公共団体", "宇都宮", "情報処�
 pubDate: 2026-08-29
 slug: "company-tkc-reputation"
 image: "/images/media/company-tkc-reputation.png"
-related: ["business-planning-in-20s", "industry-jigyo-gaisha-pdm-career-path", "company-mitsubishiufjfinansharu-guruupu-reputation", "company-mitsubishiufjginkou-reputation"]
+related: ["business-planning-in-20s", "industry-jigyo-gaisha-pdm-career-path", "company-ic-reputation", "company-idhoorudingusu-reputation"]
 reviewedAt: 2026-08-29
 sources:
   - name: "株式会社ＴＫＣ 有価証券報告書 第59期（2025年9月期）"

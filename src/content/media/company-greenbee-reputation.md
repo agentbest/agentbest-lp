@@ -9,7 +9,7 @@ tags: ["GreenBee", "sMedio", "GX", "企業研究", "有価証券報告書"]
 pubDate: 2026-08-12
 slug: "company-greenbee-reputation"
 image: "/images/media/company-greenbee-reputation.png"
-related: ["dev-director-career-guide", "industry-user-kei-sier-senkou-flow", "company-dejitaruhaatsuhoorudingusu-reputation", "company-densanshisutemuhoorudingusu-reputation"]
+related: ["dev-director-career-guide", "industry-user-kei-sier-senkou-flow", "company-ulsguruupu-reputation", "company-uubun-bai-toyota-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＧｒｅｅｎＢｅｅ株式会社 有価証券報告書 第19期（2025年12月期）"

@@ -9,7 +9,7 @@ tags: ["日本システム技術", "GAKUEN", "医療ビッグデータ", "受注
 pubDate: 2026-09-10
 slug: "company-nipponshisutemugijutsu-reputation"
 image: "/images/media/company-nipponshisutemugijutsu-reputation.png"
-related: ["project-manager-company-size", "industry-user-kei-sier-nensyu", "company-meijiyasudashisutemu-tekunorojii-reputation", "company-mirokujouhousaabisu-reputation"]
+related: ["project-manager-company-size", "industry-user-kei-sier-nensyu", "company-asuteria-reputation", "company-asutorazeneka-reputation"]
 reviewedAt: 2026-09-10
 sources:
   - name: "日本システム技術株式会社 有価証券報告書 第54期（2026年3月期）"

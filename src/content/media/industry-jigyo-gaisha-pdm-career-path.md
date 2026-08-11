@@ -9,7 +9,7 @@ tags: ["事業会社", "プロダクト開発", "キャリアパス", "デジタ
 pubDate: 2026-08-11
 slug: "industry-jigyo-gaisha-pdm-career-path"
 image: "/images/media/industry-jigyo-gaisha-pdm-career-path.png"
-related: ["product-manager-salary-600", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow", "company-kyapitaru-asetto-puranningu-reputation"]
+related: ["product-manager-salary-600", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow", "company-boodorua-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "IPA デジタルスキル標準DSS-P 分冊版 ver.2.0（ロール一覧・担うべき責務）"

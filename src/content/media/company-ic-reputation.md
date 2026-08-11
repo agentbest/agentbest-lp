@@ -9,7 +9,7 @@ tags: ["IC", "SIer", "情報サービス", "企業研究", "有価証券報告�
 pubDate: 2026-08-12
 slug: "company-ic-reputation"
 image: "/images/media/company-ic-reputation.png"
-related: ["business-planning-in-30s", "industry-jigyo-gaisha-pdm-senkou-flow", "company-azujiento-reputation", "company-beesu-reputation"]
+related: ["business-planning-in-30s", "industry-jigyo-gaisha-pdm-senkou-flow", "company-tsuzukidenki-reputation", "company-ubicomhoorudingusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＩＣ 有価証券報告書 第48期（2025年9月期）"

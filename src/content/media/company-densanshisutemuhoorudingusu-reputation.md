@@ -9,7 +9,7 @@ tags: ["電算システムホールディングス", "収納代行", "Google Clo
 pubDate: 2026-09-11
 slug: "company-densanshisutemuhoorudingusu-reputation"
 image: "/images/media/company-densanshisutemuhoorudingusu-reputation.png"
-related: ["corporate-planning-failure", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-eezai-reputation", "company-eitoreddo-reputation"]
+related: ["corporate-planning-failure", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-sebunandai-hoorudingusu-reputation", "company-seerusufoosu-japan-reputation"]
 reviewedAt: 2026-09-11
 sources:
   - name: "株式会社電算システムホールディングス 有価証券報告書 第5期（2025年12月期）"

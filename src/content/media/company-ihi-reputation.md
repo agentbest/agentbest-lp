@@ -9,7 +9,7 @@ tags: ["IHI", "重工", "航空宇宙", "企業研究", "有価証券報告書"]
 pubDate: 2026-08-12
 slug: "company-ihi-reputation"
 image: "/images/media/company-ihi-reputation.png"
-related: ["business-planning-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "company-manekkusuguruupu-reputation", "company-matsuishouken-reputation"]
+related: ["business-planning-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "company-guuguru-kuraudo-japan-reputation", "company-heroz-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＩＨＩ 有価証券報告書 第209期（2026年3月期）"

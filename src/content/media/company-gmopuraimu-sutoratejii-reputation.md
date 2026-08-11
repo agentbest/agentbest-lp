@@ -9,7 +9,7 @@ tags: ["GMOプライム・ストラテジー", "KUSANAGI", "OSS", "企業研究"
 pubDate: 2026-08-12
 slug: "company-gmopuraimu-sutoratejii-reputation"
 image: "/images/media/company-gmopuraimu-sutoratejii-reputation.png"
-related: ["business-planning-from-scratch", "industry-jigyo-gaisha-pdm-career-path", "company-dejitaru-infomeeshon-tekunorojii-reputation", "company-dejitaruaatsu-reputation"]
+related: ["business-planning-from-scratch", "industry-jigyo-gaisha-pdm-career-path", "company-shift-reputation", "company-shiiiishii-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "プライム・ストラテジー株式会社 有価証券報告書 第23期（2025年11月期）"

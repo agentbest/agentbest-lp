@@ -9,7 +9,7 @@ tags: ["Z会", "通信教育", "教育", "企業研究", "転職"]
 pubDate: 2026-08-12
 slug: "company-zkai-reputation"
 image: "/images/media/company-zkai-reputation.png"
-related: ["project-manager-work-style", "industry-user-kei-sier-tenshoku-nanido", "company-soritonshisutemuzu-reputation", "company-srahoorudingusu-reputation"]
+related: ["project-manager-work-style", "industry-user-kei-sier-tenshoku-nanido", "company-ntttekunokurosu-reputation", "company-odksoryuushonzu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社Z会（法人番号 9080101006434）"

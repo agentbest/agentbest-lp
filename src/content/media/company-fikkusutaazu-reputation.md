@@ -9,7 +9,7 @@ tags: ["フィックスターズ", "ソフトウェア高速化", "GPU", "自動
 pubDate: 2026-09-09
 slug: "company-fikkusutaazu-reputation"
 image: "/images/media/company-fikkusutaazu-reputation.png"
-related: ["dev-director-resume", "industry-user-kei-sier-senkou-flow", "company-sghoorudingusu-reputation", "company-shaapu-reputation"]
+related: ["dev-director-resume", "industry-user-kei-sier-senkou-flow", "company-mitsubishiufjginkou-reputation", "company-mitsubishiufjinfomeeshontekunorojii-reputation"]
 reviewedAt: 2026-09-09
 sources:
   - name: "株式会社フィックスターズ 有価証券報告書 第24期（2025年9月期）"

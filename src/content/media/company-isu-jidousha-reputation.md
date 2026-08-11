@@ -9,7 +9,7 @@ tags: ["いすゞ自動車", "自動車", "商用車", "有価証券報告書", 
 pubDate: 2026-08-11
 slug: "company-isu-jidousha-reputation"
 image: "/images/media/company-isu-jidousha-reputation.png"
-related: ["product-manager-market-trend", "industry-user-kei-sier-career-path", "company-mitsuisumitomoshintakuginkou-reputation", "company-mizuhofinansharuguruupu-reputation"]
+related: ["product-manager-market-trend", "industry-user-kei-sier-career-path", "company-fanakku-reputation", "company-fig-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "いすゞ自動車株式会社 有価証券報告書 第124期（2026年3月期）"

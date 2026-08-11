@@ -9,7 +9,7 @@ tags: ["JTP", "日本サード・パーティ", "SIer", "医療機器", "有価�
 pubDate: 2026-08-12
 slug: "company-jtp-reputation"
 image: "/images/media/company-jtp-reputation.png"
-related: ["corporate-planning-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "company-murataseisakusho-reputation", "company-ncd-reputation"]
+related: ["corporate-planning-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "company-ipshoorudingusu-reputation", "company-isu-jidousha-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＪＴＰ株式会社 有価証券報告書 第39期（2026年3月期）"

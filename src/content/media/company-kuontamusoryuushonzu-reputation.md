@@ -9,7 +9,7 @@ tags: ["クオンタムソリューションズ", "AI", "企業研究", "転職"
 pubDate: 2026-08-11
 slug: "company-kuontamusoryuushonzu-reputation"
 image: "/images/media/company-kuontamusoryuushonzu-reputation.png"
-related: ["dev-director-career-path", "industry-user-kei-sier-nensyu", "company-tis-reputation", "company-tkc-reputation"]
+related: ["dev-director-career-path", "industry-user-kei-sier-nensyu", "company-mitsuisumitomoshintakuginkou-reputation", "company-mizuhofinansharuguruupu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社クオンタムソリューションズ 有価証券報告書 第27期（2026年2月期）"

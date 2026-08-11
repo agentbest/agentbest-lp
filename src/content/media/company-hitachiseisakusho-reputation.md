@@ -9,7 +9,7 @@ tags: ["日立製作所", "メーカー", "社会イノベーション", "DX", "
 pubDate: 2026-08-08
 slug: "company-hitachiseisakusho-reputation"
 image: "/images/media/company-hitachiseisakusho-reputation.png"
-related: ["pmo-salary-1000", "industry-user-kei-sier-career-path", "company-ksk-reputation", "company-kubota-reputation"]
+related: ["pmo-salary-1000", "industry-user-kei-sier-career-path", "company-asutorazeneka-reputation", "company-aukabukomushouken-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "株式会社日立製作所 有価証券報告書 第157期（2026年3月期）"

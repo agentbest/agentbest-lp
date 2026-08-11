@@ -9,7 +9,7 @@ tags: ["PayPay", "フィンテック", "キャッシュレス", "企業研究", 
 pubDate: 2026-08-12
 slug: "company-paypay-reputation"
 image: "/images/media/company-paypay-reputation.png"
-related: ["project-manager-in-30s", "industry-user-kei-sier-shibou-douki", "company-nomurashouken-reputation", "company-nsd-reputation"]
+related: ["project-manager-in-30s", "industry-user-kei-sier-shibou-douki", "company-kanposeimeihoken-reputation", "company-kaou-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／PayPay株式会社（法人番号 5010001192707）"

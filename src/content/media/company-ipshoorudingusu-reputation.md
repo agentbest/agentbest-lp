@@ -9,7 +9,7 @@ tags: ["IPSホールディングス", "SAP", "ERP", "企業研究", "有価証�
 pubDate: 2026-08-12
 slug: "company-ipshoorudingusu-reputation"
 image: "/images/media/company-ipshoorudingusu-reputation.png"
-related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-torendomaikuro-reputation", "company-toukyouerekutoron-reputation"]
+related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-nipponmaikurosofuto-reputation", "company-nipponorakuru-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＩＰＳホールディングス株式会社 有価証券報告書 第29期（2025年6月期）"

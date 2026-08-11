@@ -9,7 +9,7 @@ tags: ["コムチュア", "クラウド", "SaaS", "デジタルソリューシ�
 pubDate: 2026-09-03
 slug: "company-komuchua-reputation"
 image: "/images/media/company-komuchua-reputation.png"
-related: ["pmo-market-trend", "industry-user-kei-sier-tenshoku-nanido", "company-hitachisoryuushonzu-reputation", "company-hondagikenkougyou-reputation"]
+related: ["pmo-market-trend", "industry-user-kei-sier-tenshoku-nanido", "company-ai-esu-bii-reputation", "company-aibiishii-reputation"]
 reviewedAt: 2026-09-03
 sources:
   - name: "コムチュア株式会社 有価証券報告書 第42期（2026年3月期）"

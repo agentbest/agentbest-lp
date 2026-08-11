@@ -9,7 +9,7 @@ tags: ["エル・ティー・エス", "LTS", "コンサル転職", "東証プラ
 pubDate: 2026-08-03
 slug: "company-lts-reputation"
 image: "/images/media/company-lts-reputation.png"
-related: ["strategy-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "industry-gyokai-tokka-consul-shibou-douki"]
+related: ["strategy-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-corporate-directions-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社エル・ティー・エス 有価証券報告書 第24期（2025年1月1日〜2025年12月31日、2026年3月23日提出）"

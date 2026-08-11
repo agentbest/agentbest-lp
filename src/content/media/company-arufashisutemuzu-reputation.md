@@ -9,7 +9,7 @@ tags: ["アルファシステムズ", "SIer", "ソフトウェア開発", "通�
 pubDate: 2026-08-05
 slug: "company-arufashisutemuzu-reputation"
 image: "/images/media/company-arufashisutemuzu-reputation.png"
-related: ["corporate-planning-english", "industry-jigyo-gaisha-pdm-shibou-douki", "company-heroz-reputation", "company-hikuratesu-reputation"]
+related: ["corporate-planning-english", "industry-jigyo-gaisha-pdm-shibou-douki", "company-workday-reputation", "company-yamadahoorudingusu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "アルファシステムズ 有価証券報告書 第54期（2026年3月期）"

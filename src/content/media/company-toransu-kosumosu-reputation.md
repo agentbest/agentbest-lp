@@ -9,7 +9,7 @@ tags: ["トランス・コスモス", "BPO", "CXサービス", "コンタクト�
 pubDate: 2026-09-06
 slug: "company-toransu-kosumosu-reputation"
 image: "/images/media/company-toransu-kosumosu-reputation.png"
-related: ["project-manager-from-scratch", "industry-user-kei-sier-career-path", "company-burazaakougyou-reputation", "company-buroodoriifu-reputation"]
+related: ["project-manager-from-scratch", "industry-user-kei-sier-career-path", "company-shiseidoujapan-reputation", "company-shisukoshisutemuzu-reputation"]
 reviewedAt: 2026-09-06
 sources:
   - name: "トランス・コスモス株式会社 有価証券報告書 第41期（2026年3月期）"

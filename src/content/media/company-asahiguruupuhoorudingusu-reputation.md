@@ -9,7 +9,7 @@ tags: ["アサヒグループホールディングス", "食品", "飲料", "純
 pubDate: 2026-08-12
 slug: "company-asahiguruupuhoorudingusu-reputation"
 image: "/images/media/company-asahiguruupuhoorudingusu-reputation.png"
-related: ["pmo-failure", "industry-user-kei-sier-senkou-flow", "company-cij-reputation", "company-daburusutandaado-reputation"]
+related: ["pmo-failure", "industry-user-kei-sier-senkou-flow", "company-sapjapan-reputation", "company-sas-institute-japan-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アサヒグループホールディングス株式会社 有価証券報告書 第102期（2025年12月期・2026年7月27日提出）"

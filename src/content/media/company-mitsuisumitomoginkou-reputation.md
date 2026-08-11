@@ -9,7 +9,7 @@ tags: ["三井住友銀行", "金融", "メガバンク", "SMBC", "非上場"]
 pubDate: 2026-08-06
 slug: "company-mitsuisumitomoginkou-reputation"
 image: "/images/media/company-mitsuisumitomoginkou-reputation.png"
-related: ["project-manager-salary-1000", "industry-jigyo-gaisha-pdm-nensyu", "company-ryouhinkeikaku-reputation", "company-sakurakeeshiiesu-reputation"]
+related: ["project-manager-salary-1000", "industry-jigyo-gaisha-pdm-nensyu", "company-jtp-reputation", "company-kadokawa-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社三井住友銀行 有価証券報告書 第23期（2026年3月期）"

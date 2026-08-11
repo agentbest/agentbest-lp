@@ -9,7 +9,7 @@ tags: ["資生堂ジャパン", "化粧品", "消費財", "日本事業", "非�
 pubDate: 2026-08-09
 slug: "company-shiseidoujapan-reputation"
 image: "/images/media/company-shiseidoujapan-reputation.png"
-related: ["project-manager-market-trend", "industry-jigyo-gaisha-pdm-shibou-douki", "company-jtp-reputation", "company-kadokawa-reputation"]
+related: ["project-manager-market-trend", "industry-jigyo-gaisha-pdm-shibou-douki", "company-akushisu-reputation", "company-amazon-uebusaabisujapan-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "株式会社資生堂 有価証券報告書 第126期（2025年12月期）"

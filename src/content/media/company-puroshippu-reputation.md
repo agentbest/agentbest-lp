@@ -9,7 +9,7 @@ tags: ["プロシップ", "固定資産管理", "パッケージ", "新リース
 pubDate: 2026-09-09
 slug: "company-puroshippu-reputation"
 image: "/images/media/company-puroshippu-reputation.png"
-related: ["product-manager-motivation", "industry-user-kei-sier-senkou-flow", "company-biprogy-reputation", "company-boodorua-reputation"]
+related: ["product-manager-motivation", "industry-user-kei-sier-senkou-flow", "company-sukairaakuhoorudingusu-reputation", "company-sun-asterisk-reputation"]
 reviewedAt: 2026-09-09
 sources:
   - name: "株式会社プロシップ 有価証券報告書 第57期（2026年3月期）"

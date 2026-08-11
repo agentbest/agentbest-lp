@@ -9,7 +9,7 @@ tags: ["JR東海", "鉄道", "インフラ", "企業研究", "有価証券報告
 pubDate: 2026-08-12
 slug: "company-jrtoukai-reputation"
 image: "/images/media/company-jrtoukai-reputation.png"
-related: ["product-manager-failure", "industry-jigyo-gaisha-pdm-nensyu", "company-intaatoreedo-reputation", "company-interijiento-ueibu-reputation"]
+related: ["product-manager-failure", "industry-jigyo-gaisha-pdm-nensyu", "company-akushisu-reputation", "company-amazon-uebusaabisujapan-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "東海旅客鉄道株式会社 有価証券報告書 第39期（2026年3月期）"

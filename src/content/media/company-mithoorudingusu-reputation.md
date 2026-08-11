@@ -9,7 +9,7 @@ tags: ["MITホールディングス", "システムイオ", "独立系SIer", "SI
 pubDate: 2026-08-12
 slug: "company-mithoorudingusu-reputation"
 image: "/images/media/company-mithoorudingusu-reputation.png"
-related: ["corporate-planning-market-trend", "industry-jigyo-gaisha-pdm-senkou-flow", "company-toransu-kosumosu-reputation", "company-toranvia-reputation"]
+related: ["corporate-planning-market-trend", "industry-jigyo-gaisha-pdm-senkou-flow", "company-nipponhyuuretto-pakkaado-reputation", "company-nipponkoka-koora-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＭＩＴホールディングス株式会社 有価証券報告書 第16期（2025年11月期）"

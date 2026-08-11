@@ -9,7 +9,7 @@ tags: ["デロイト トーマツ コンサルティング", "DTC", "Big4", "総
 pubDate: 2026-08-03
 slug: "company-deroito-toomatsu-konsaruteingu-reputation"
 image: "/images/media/company-deroito-toomatsu-konsaruteingu-reputation.png"
-related: ["thinktank-salary-1000", "industry-gyokai-tokka-consul-nensyu", "job-senryaku-consultant-nensyu", "company-nomurasougoukenkyuusho-reputation"]
+related: ["thinktank-salary-1000", "industry-gyokai-tokka-consul-nensyu", "job-senryaku-consultant-nensyu", "company-deroito-toomatsu-akuto-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "新会社名称「合同会社デロイト トーマツ」を発表～12月1日に発足（2025年10月10日）"

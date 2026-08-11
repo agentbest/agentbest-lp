@@ -9,7 +9,7 @@ tags: ["ユーザー系SIer", "年収", "有価証券報告書", "SIer", "転職
 pubDate: 2026-08-11
 slug: "industry-user-kei-sier-nensyu"
 image: "/images/media/industry-user-kei-sier-nensyu.png"
-related: ["product-manager-market-trend", "industry-user-kei-sier-career-path", "industry-user-kei-sier-senkou-flow", "company-ai-esu-bii-reputation"]
+related: ["product-manager-market-trend", "industry-user-kei-sier-career-path", "industry-user-kei-sier-senkou-flow", "company-rooson-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「システムエンジニア（受託開発）」（令和7年賃金構造基本統計調査ほか）"

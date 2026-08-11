@@ -9,7 +9,7 @@ tags: ["YE DIGITAL", "SIer", "IoT", "安川電機", "有価証券報告書"]
 pubDate: 2026-08-11
 slug: "company-ye-digital-reputation"
 image: "/images/media/company-ye-digital-reputation.png"
-related: ["product-manager-resume", "industry-user-kei-sier-tenshoku-nanido", "company-runesasuerekutoronikusu-reputation", "company-ryouhinkeikaku-reputation"]
+related: ["product-manager-resume", "industry-user-kei-sier-tenshoku-nanido", "company-manekkusuguruupu-reputation", "company-matsuishouken-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ＹＥ ＤＩＧＩＴＡＬ 有価証券報告書 第49期（2026年2月期）"

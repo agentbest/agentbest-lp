@@ -9,7 +9,7 @@ tags: ["SUBARU", "自動車", "航空宇宙", "企業研究", "有価証券報�
 pubDate: 2026-08-12
 slug: "company-subaru-2-reputation"
 image: "/images/media/company-subaru-2-reputation.png"
-related: ["product-manager-english", "industry-jigyo-gaisha-pdm-nensyu", "company-toyotakonekuteiddo-reputation", "company-tsuzukidenki-reputation"]
+related: ["product-manager-english", "industry-jigyo-gaisha-pdm-nensyu", "company-oro-reputation", "company-paasoruhoorudingusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＳＵＢＡＲＵ 有価証券報告書 第95期（2026年3月期）"

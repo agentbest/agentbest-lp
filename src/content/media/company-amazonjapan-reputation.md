@@ -9,7 +9,7 @@ tags: ["アマゾンジャパン", "Amazon", "EC", "外資系", "小売"]
 pubDate: 2026-08-05
 slug: "company-amazonjapan-reputation"
 image: "/images/media/company-amazonjapan-reputation.png"
-related: ["corporate-planning-certification", "industry-user-kei-sier-nensyu", "company-ihi-reputation", "company-ii-gaadian-reputation"]
+related: ["corporate-planning-certification", "industry-user-kei-sier-nensyu", "company-adosorunisshin-reputation", "company-afurakkuseimeihoken-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "Amazon.com, Inc. Form 10-K（2025年12月期、2026年2月6日提出）"

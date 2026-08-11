@@ -9,7 +9,7 @@ tags: ["オリエンタルランド", "テーマパーク", "浦安", "年収", 
 pubDate: 2026-08-11
 slug: "company-orientarurando-reputation"
 image: "/images/media/company-orientarurando-reputation.png"
-related: ["business-planning-resume", "industry-user-kei-sier-career-path", "company-kuesuto-reputation", "company-kuontamusoryuushonzu-reputation"]
+related: ["business-planning-resume", "industry-user-kei-sier-career-path", "company-buroodoriifu-reputation", "company-cac-holdings-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社オリエンタルランド 有価証券報告書 第66期（2026年3月期・2026年6月25日提出）"

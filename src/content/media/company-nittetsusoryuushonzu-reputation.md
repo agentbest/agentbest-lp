@@ -9,7 +9,7 @@ tags: ["日鉄ソリューションズ", "NSSOL", "日本製鉄", "受注残高"
 pubDate: 2026-09-11
 slug: "company-nittetsusoryuushonzu-reputation"
 image: "/images/media/company-nittetsusoryuushonzu-reputation.png"
-related: ["dev-director-motivation", "industry-user-kei-sier-shibou-douki", "company-ubicomhoorudingusu-reputation", "company-ubsshouken-reputation"]
+related: ["dev-director-motivation", "industry-user-kei-sier-shibou-douki", "company-neojapan-reputation", "company-nesurenippon-reputation"]
 reviewedAt: 2026-09-11
 sources:
   - name: "日鉄ソリューションズ株式会社 有価証券報告書 第46期（2026年3月期）"

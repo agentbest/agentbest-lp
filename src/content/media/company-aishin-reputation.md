@@ -9,7 +9,7 @@ tags: ["アイシン", "自動車部品", "メーカー", "年収", "評判"]
 pubDate: 2026-08-12
 slug: "company-aishin-reputation"
 image: "/images/media/company-aishin-reputation.png"
-related: ["product-manager-from-scratch", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-msd-reputation", "company-murataseisakusho-reputation"]
+related: ["product-manager-from-scratch", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-iiemushisutemuzu-reputation", "company-iisapootorinku-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社アイシン 有価証券報告書 第103期（2026年3月期・2026年6月12日提出）"

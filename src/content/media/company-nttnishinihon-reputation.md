@@ -9,7 +9,7 @@ tags: ["NTT西日本", "通信", "NTTグループ", "地域通信", "プロジ�
 pubDate: 2026-08-05
 slug: "company-nttnishinihon-reputation"
 image: "/images/media/company-nttnishinihon-reputation.png"
-related: ["corporate-planning-salary-600", "industry-user-kei-sier-tenshoku-nanido", "company-bikkukamera-reputation", "company-biprogy-reputation"]
+related: ["corporate-planning-salary-600", "industry-user-kei-sier-tenshoku-nanido", "company-sky-reputation", "company-smbcnikkoushouken-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NTT 有価証券報告書 第41期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["PCIホールディングス", "SIer", "組込み", "企業研究", "有�
 pubDate: 2026-08-12
 slug: "company-pcihoorudingusu-reputation"
 image: "/images/media/company-pcihoorudingusu-reputation.png"
-related: ["business-planning-skills", "industry-user-kei-sier-shibou-douki", "company-soniiguruupu-reputation", "company-sonpojapanshisutemuzu-reputation"]
+related: ["business-planning-skills", "industry-user-kei-sier-shibou-douki", "company-mizuhoshouken-reputation", "company-morugan-sutanree-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＰＣＩホールディングス株式会社 有価証券報告書（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["エーザイ", "製薬", "医薬品", "年収", "評判"]
 pubDate: 2026-08-11
 slug: "company-eezai-reputation"
 image: "/images/media/company-eezai-reputation.png"
-related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-dejitaruhaatsuhoorudingusu-reputation", "company-densanshisutemuhoorudingusu-reputation"]
+related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-yuniriiba-japan-reputation", "company-zenrin-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "エーザイ株式会社 有価証券報告書 第114期（2026年3月期・2026年6月12日提出）"

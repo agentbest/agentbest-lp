@@ -9,7 +9,7 @@ tags: ["エイトレッド", "ワークフロー", "パッケージソフト", "
 pubDate: 2026-08-11
 slug: "company-eitoreddo-reputation"
 image: "/images/media/company-eitoreddo-reputation.png"
-related: ["dev-director-interview", "industry-user-kei-sier-senkou-flow", "company-nissanjidousha-reputation", "company-nitorihoorudingusu-reputation"]
+related: ["dev-director-interview", "industry-user-kei-sier-senkou-flow", "company-jasutoshisutemu-reputation", "company-jbcchoorudingusu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エイトレッド 有価証券報告書 第19期（2026年3月期・2026年6月18日提出）"

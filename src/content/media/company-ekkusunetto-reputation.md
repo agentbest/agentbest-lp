@@ -9,7 +9,7 @@ tags: ["エックスネット", "金融システム", "ASP", "年収", "評判"]
 pubDate: 2026-08-11
 slug: "company-ekkusunetto-reputation"
 image: "/images/media/company-ekkusunetto-reputation.png"
-related: ["pmo-market-trend", "industry-user-kei-sier-nensyu", "company-kurosukyatto-reputation", "company-kyapitaru-asetto-puranningu-reputation"]
+related: ["pmo-market-trend", "industry-user-kei-sier-nensyu", "company-dejitaru-infomeeshon-tekunorojii-reputation", "company-dejitaruaatsu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エックスネット 有価証券報告書 第35期（2026年3月期・2026年6月25日提出）"

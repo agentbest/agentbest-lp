@@ -9,7 +9,7 @@ tags: ["JR東日本", "鉄道", "インフラ", "企業研究", "有価証券報
 pubDate: 2026-08-12
 slug: "company-jrhigashinihon-reputation"
 image: "/images/media/company-jrhigashinihon-reputation.png"
-related: ["project-manager-in-30s", "industry-jigyo-gaisha-pdm-nensyu", "company-jrtoukai-reputation", "company-jtp-reputation"]
+related: ["project-manager-in-30s", "industry-jigyo-gaisha-pdm-nensyu", "company-ajinomoto-reputation", "company-akumosu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "東日本旅客鉄道株式会社 有価証券報告書 第39期（2026年3月期）"

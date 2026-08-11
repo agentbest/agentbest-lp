@@ -9,7 +9,7 @@ tags: ["アイル", "アラジンオフィス", "CROSS MALL", "中堅・中小�
 pubDate: 2026-08-30
 slug: "company-airu-reputation"
 image: "/images/media/company-airu-reputation.png"
-related: ["business-planning-career-path", "industry-jigyo-gaisha-pdm-nensyu", "company-sukairaakuhoorudingusu-reputation", "company-sun-asterisk-reputation"]
+related: ["business-planning-career-path", "industry-jigyo-gaisha-pdm-nensyu", "company-oobiishisutemu-reputation", "company-oobikku-reputation"]
 reviewedAt: 2026-08-30
 sources:
   - name: "株式会社アイル 有価証券報告書 第35期（2025年7月期）"

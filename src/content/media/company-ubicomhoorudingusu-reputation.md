@@ -9,7 +9,7 @@ tags: ["Ubicomホールディングス", "SIer", "オフショア", "企業研�
 pubDate: 2026-08-12
 slug: "company-ubicomhoorudingusu-reputation"
 image: "/images/media/company-ubicomhoorudingusu-reputation.png"
-related: ["project-manager-english", "industry-jigyo-gaisha-pdm-nensyu", "company-toushiba-reputation", "company-toushibadejitarusoryuushonzu-reputation"]
+related: ["project-manager-english", "industry-jigyo-gaisha-pdm-nensyu", "company-nipponbijinesushisutemuzu-reputation", "company-nippondenshindenwa-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Ｕｂｉｃｏｍホールディングス 有価証券報告書 第21期（2026年3月期）"

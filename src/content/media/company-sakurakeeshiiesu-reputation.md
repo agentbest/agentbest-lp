@@ -9,7 +9,7 @@ tags: ["さくらケーシーエス", "SIer", "情報サービス", "企業研�
 pubDate: 2026-08-12
 slug: "company-sakurakeeshiiesu-reputation"
 image: "/images/media/company-sakurakeeshiiesu-reputation.png"
-related: ["product-manager-salary-600", "industry-user-kei-sier-nensyu", "company-aukabukomushouken-reputation", "company-azujiento-reputation"]
+related: ["product-manager-salary-600", "industry-user-kei-sier-nensyu", "company-sghoorudingusu-reputation", "company-shaapu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社さくらケーシーエス 有価証券報告書 第58期（2026年3月期）"

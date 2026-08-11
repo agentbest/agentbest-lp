@@ -9,7 +9,7 @@ tags: ["Adobe", "アドビ", "外資系IT", "プロダクトマネージャー",
 pubDate: 2026-08-05
 slug: "company-adobe-reputation"
 image: "/images/media/company-adobe-reputation.png"
-related: ["pmo-salary", "industry-user-kei-sier-career-path", "company-beesu-reputation", "company-biiuizu-reputation"]
+related: ["pmo-salary", "industry-user-kei-sier-career-path", "company-toranvia-reputation", "company-torendomaikuro-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "Adobe Reports Record Q4 and FY2025 Revenue（2025年12月10日・Form 8-K Exhibit 99.1）"

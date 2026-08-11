@@ -9,7 +9,7 @@ tags: ["損保ジャパンシステムズ", "SOMPOシステムズ", "SIer", "保
 pubDate: 2026-08-08
 slug: "company-sonpojapanshisutemuzu-reputation"
 image: "/images/media/company-sonpojapanshisutemuzu-reputation.png"
-related: ["project-manager-company-size", "industry-user-kei-sier-senkou-flow", "company-asahiguruupuhoorudingusu-reputation", "company-asukuru-reputation"]
+related: ["project-manager-company-size", "industry-user-kei-sier-senkou-flow", "company-rakutenmobairu-reputation", "company-rikoojapan-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "ＳＯＭＰＯシステムズ株式会社 会社概要・沿革"

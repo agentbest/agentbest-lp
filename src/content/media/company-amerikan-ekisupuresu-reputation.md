@@ -9,7 +9,7 @@ tags: ["アメリカン・エキスプレス", "アメックス", "クレジッ�
 pubDate: 2026-08-05
 slug: "company-amerikan-ekisupuresu-reputation"
 image: "/images/media/company-amerikan-ekisupuresu-reputation.png"
-related: ["business-planning-how-to-use-agent", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-kddi-reputation", "company-kiiensu-reputation"]
+related: ["business-planning-how-to-use-agent", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-aibiishii-reputation", "company-aiekkusu-narejji-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "American Express Company Form 10-K（2025年12月期、2026年2月6日提出）"

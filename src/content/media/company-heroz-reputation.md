@@ -9,7 +9,7 @@ tags: ["HEROZ", "AI", "機械学習", "企業研究", "有価証券報告書"]
 pubDate: 2026-08-12
 slug: "company-heroz-reputation"
 image: "/images/media/company-heroz-reputation.png"
-related: ["business-planning-career-path", "industry-jigyo-gaisha-pdm-career-path", "company-greenbee-reputation", "company-guuguru-kuraudo-japan-reputation"]
+related: ["business-planning-career-path", "industry-jigyo-gaisha-pdm-career-path", "company-aiekkusu-narejji-reputation", "company-ainesu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＨＥＲＯＺ株式会社 有価証券報告書 第18期（2026年4月期）"

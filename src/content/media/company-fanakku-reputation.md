@@ -9,7 +9,7 @@ tags: ["ファナック", "メーカー", "FA", "産業用ロボット", "東証
 pubDate: 2026-08-06
 slug: "company-fanakku-reputation"
 image: "/images/media/company-fanakku-reputation.png"
-related: ["pmo-future", "industry-user-kei-sier-career-path", "company-sun-asterisk-reputation", "company-syshoorudingusu-reputation"]
+related: ["pmo-future", "industry-user-kei-sier-career-path", "company-nttdokomo-reputation", "company-ntthigashinihon-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ファナック株式会社 有価証券報告書 第57期（2026年3月期）"

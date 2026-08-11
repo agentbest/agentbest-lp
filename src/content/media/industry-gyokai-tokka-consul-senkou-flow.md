@@ -9,7 +9,7 @@ tags: ["業界特化型コンサル", "選考フロー", "面接対策", "中小
 pubDate: 2026-08-11
 slug: "industry-gyokai-tokka-consul-senkou-flow"
 image: "/images/media/industry-gyokai-tokka-consul-senkou-flow.png"
-related: ["it-consultant-interview", "industry-gyokai-tokka-consul-nensyu", "industry-gyokai-tokka-consul-shibou-douki", "job-sap-consultant-nensyu"]
+related: ["it-consultant-interview", "industry-gyokai-tokka-consul-career-path", "industry-gyokai-tokka-consul-nensyu", "job-sap-consultant-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「中小企業診断士」（令和7年賃金構造基本統計調査ほか）"

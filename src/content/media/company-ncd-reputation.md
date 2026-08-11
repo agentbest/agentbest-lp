@@ -9,7 +9,7 @@ tags: ["NCD", "日本コンピュータ・ダイナミクス", "SIer", "駐輪�
 pubDate: 2026-08-12
 slug: "company-ncd-reputation"
 image: "/images/media/company-ncd-reputation.png"
-related: ["project-manager-salary-1000", "industry-user-kei-sier-senkou-flow", "company-kuresuko-reputation", "company-kurosukyatto-reputation"]
+related: ["project-manager-salary-1000", "industry-user-kei-sier-senkou-flow", "company-fujitsuujapan-reputation", "company-fukuikonpyuutahoorudingusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＮＣＤ株式会社 有価証券報告書 第61期（2026年3月期）"

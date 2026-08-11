@@ -9,7 +9,7 @@ tags: ["アイネス", "自治体システム", "標準化", "公共分野", "�
 pubDate: 2026-08-30
 slug: "company-ainesu-reputation"
 image: "/images/media/company-ainesu-reputation.png"
-related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-shibou-douki", "company-nikon-reputation", "company-nipponbijinesushisutemuzu-reputation"]
+related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-shibou-douki", "company-isu-jidousha-reputation", "company-itooyookadou-reputation"]
 reviewedAt: 2026-08-30
 sources:
   - name: "株式会社アイネス 有価証券報告書 第64期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["チェンジホールディングス", "トラストバンク", "ふる�
 pubDate: 2026-09-05
 slug: "company-chenjihoorudingusu-reputation"
 image: "/images/media/company-chenjihoorudingusu-reputation.png"
-related: ["product-manager-in-30s", "industry-user-kei-sier-senkou-flow", "company-sun-asterisk-reputation", "company-syshoorudingusu-reputation"]
+related: ["product-manager-in-30s", "industry-user-kei-sier-senkou-flow", "company-mizuhoginkou-reputation", "company-mizuhoshouken-reputation"]
 reviewedAt: 2026-09-05
 sources:
   - name: "株式会社チェンジホールディングス 有価証券報告書 第24期（2026年3月期）"

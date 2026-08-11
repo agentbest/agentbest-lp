@@ -9,7 +9,7 @@ tags: ["クボタ", "機械メーカー", "企業研究", "転職", "有価証�
 pubDate: 2026-08-11
 slug: "company-kubota-reputation"
 image: "/images/media/company-kubota-reputation.png"
-related: ["product-manager-salary-1000", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-nipponbijinesushisutemuzu-reputation", "company-nippondenshindenwa-reputation"]
+related: ["product-manager-salary-1000", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-isu-jidousha-reputation", "company-itooyookadou-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社クボタ 有価証券報告書 第136期（2025年12月期）"

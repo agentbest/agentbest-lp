@@ -9,7 +9,7 @@ tags: ["TBSテレビ", "放送", "メディア", "企業研究", "有価証券�
 pubDate: 2026-08-12
 slug: "company-tbsterebi-reputation"
 image: "/images/media/company-tbsterebi-reputation.png"
-related: ["dev-director-salary-1000", "industry-jigyo-gaisha-pdm-senkou-flow", "company-nsd-reputation", "company-nsw-reputation"]
+related: ["dev-director-salary-1000", "industry-jigyo-gaisha-pdm-senkou-flow", "company-jpmoruganshouken-reputation", "company-jrhigashinihon-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＴＢＳホールディングス 有価証券報告書 第99期（2026年3月期）"

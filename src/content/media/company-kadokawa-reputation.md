@@ -9,7 +9,7 @@ tags: ["KADOKAWA", "出版", "エンタメ", "メディア", "有価証券報告
 pubDate: 2026-08-12
 slug: "company-kadokawa-reputation"
 image: "/images/media/company-kadokawa-reputation.png"
-related: ["dev-director-from-scratch", "industry-jigyo-gaisha-pdm-shibou-douki", "company-eeai-reputation", "company-eezai-reputation"]
+related: ["dev-director-from-scratch", "industry-jigyo-gaisha-pdm-shibou-douki", "company-ye-digital-reputation", "company-yuni-chaamu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＫＡＤＯＫＡＷＡ 有価証券報告書 第12期（2026年3月期）"

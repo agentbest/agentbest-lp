@@ -9,7 +9,7 @@ tags: ["ポールトゥウィンホールディングス", "ゲームデバッ�
 pubDate: 2026-09-10
 slug: "company-poorutouuinhoorudingusu-reputation"
 image: "/images/media/company-poorutouuinhoorudingusu-reputation.png"
-related: ["project-manager-interview", "industry-jigyo-gaisha-pdm-shibou-douki", "company-torendomaikuro-reputation", "company-toukyouerekutoron-reputation"]
+related: ["project-manager-interview", "industry-jigyo-gaisha-pdm-shibou-douki", "company-mitsubishiufjinfomeeshontekunorojii-reputation", "company-mitsubishiufjshintakuginkou-reputation"]
 reviewedAt: 2026-09-10
 sources:
   - name: "ポールトゥウィンホールディングス株式会社 有価証券報告書 第17期（2026年1月期）"

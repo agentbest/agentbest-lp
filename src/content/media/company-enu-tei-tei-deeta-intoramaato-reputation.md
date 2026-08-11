@@ -9,7 +9,7 @@ tags: ["NTTデータ・イントラマート", "ローコード", "ワークフ�
 pubDate: 2026-08-11
 slug: "company-enu-tei-tei-deeta-intoramaato-reputation"
 image: "/images/media/company-enu-tei-tei-deeta-intoramaato-reputation.png"
-related: ["corporate-planning-skills", "industry-user-kei-sier-shibou-douki", "company-sofutobanku-reputation", "company-sofutokurieitohoorudingusu-reputation"]
+related: ["corporate-planning-skills", "industry-user-kei-sier-shibou-douki", "company-komuchua-reputation", "company-konamidejitaruentateinmento-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エヌ・ティ・ティ・データ・イントラマート 有価証券報告書 第27期（2026年3月期・2026年6月18日提出）"

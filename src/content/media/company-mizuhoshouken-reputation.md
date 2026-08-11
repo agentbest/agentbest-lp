@@ -9,7 +9,7 @@ tags: ["みずほ証券", "証券会社", "IBD", "M&A", "みずほフィナン�
 pubDate: 2026-08-05
 slug: "company-mizuhoshouken-reputation"
 image: "/images/media/company-mizuhoshouken-reputation.png"
-related: ["dev-director-in-20s", "industry-jigyo-gaisha-pdm-nensyu", "company-dejitaru-infomeeshon-tekunorojii-reputation", "company-dejitaruaatsu-reputation"]
+related: ["dev-director-in-20s", "industry-jigyo-gaisha-pdm-nensyu", "company-tbsterebi-reputation", "company-tdcsofuto-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "みずほ証券 業務及び財産の状況に関する説明書（2026年3月期）"

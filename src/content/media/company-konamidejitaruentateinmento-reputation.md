@@ -9,7 +9,7 @@ tags: ["コナミデジタルエンタテインメント", "ゲーム業界", "�
 pubDate: 2026-08-11
 slug: "company-konamidejitaruentateinmento-reputation"
 image: "/images/media/company-konamidejitaruentateinmento-reputation.png"
-related: ["product-manager-future", "industry-user-kei-sier-nensyu", "industry-user-kei-sier-shibou-douki", "industry-user-kei-sier-tenshoku-nanido"]
+related: ["product-manager-future", "industry-user-kei-sier-nensyu", "company-nipponhyuuretto-pakkaado-reputation", "company-nipponkoka-koora-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "コナミグループ株式会社 有価証券報告書 第54期（2026年3月期）"

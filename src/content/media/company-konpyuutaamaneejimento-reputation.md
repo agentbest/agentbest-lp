@@ -9,7 +9,7 @@ tags: ["コンピューターマネージメント", "独立系SIer", "企業研
 pubDate: 2026-08-11
 slug: "company-konpyuutaamaneejimento-reputation"
 image: "/images/media/company-konpyuutaamaneejimento-reputation.png"
-related: ["dev-director-failure", "industry-user-kei-sier-tenshoku-nanido", "company-ihi-reputation", "company-ii-gaadian-reputation"]
+related: ["dev-director-failure", "industry-user-kei-sier-tenshoku-nanido", "company-tsuzukidenki-reputation", "company-ubicomhoorudingusu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "コンピューターマネージメント株式会社 会社概要"

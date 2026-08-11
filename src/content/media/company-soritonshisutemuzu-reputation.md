@@ -9,7 +9,7 @@ tags: ["ソリトンシステムズ", "ITセキュリティ", "NetAttest EPS", "
 pubDate: 2026-09-05
 slug: "company-soritonshisutemuzu-reputation"
 image: "/images/media/company-soritonshisutemuzu-reputation.png"
-related: ["dev-director-career-path", "industry-user-kei-sier-shibou-douki", "company-asutorazeneka-reputation", "company-aukabukomushouken-reputation"]
+related: ["dev-director-career-path", "industry-user-kei-sier-shibou-douki", "company-sbihoorudingusu-reputation", "company-scat-reputation"]
 reviewedAt: 2026-09-05
 sources:
   - name: "株式会社ソリトンシステムズ 有価証券報告書 第48期（2025年12月期）"

@@ -9,7 +9,7 @@ tags: ["ダブルスタンダード", "ビッグデータ", "データクレン�
 pubDate: 2026-09-05
 slug: "company-daburusutandaado-reputation"
 image: "/images/media/company-daburusutandaado-reputation.png"
-related: ["product-manager-certification", "industry-jigyo-gaisha-pdm-nensyu", "company-aiteifoo-reputation", "company-ajinomoto-reputation"]
+related: ["product-manager-certification", "industry-jigyo-gaisha-pdm-nensyu", "company-ryouhinkeikaku-reputation", "company-sakurakeeshiiesu-reputation"]
 reviewedAt: 2026-09-05
 sources:
   - name: "株式会社ダブルスタンダード 有価証券報告書 第14期（2026年3月期）"

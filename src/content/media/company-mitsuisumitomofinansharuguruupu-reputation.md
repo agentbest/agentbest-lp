@@ -9,7 +9,7 @@ tags: ["三井住友フィナンシャルグループ", "金融", "メガバン�
 pubDate: 2026-08-06
 slug: "company-mitsuisumitomofinansharuguruupu-reputation"
 image: "/images/media/company-mitsuisumitomofinansharuguruupu-reputation.png"
-related: ["corporate-planning-career-path", "industry-user-kei-sier-nensyu", "company-sapjapan-reputation", "company-sas-institute-japan-reputation"]
+related: ["corporate-planning-career-path", "industry-user-kei-sier-nensyu", "company-hitachishisutemuzu-reputation", "company-hitachisoryuushonzu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社三井住友フィナンシャルグループ 有価証券報告書 第24期（2026年3月期）"

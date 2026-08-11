@@ -9,7 +9,7 @@ tags: ["NTTテクノクロス", "NTTグループ", "SIer", "ソフトウェア",
 pubDate: 2026-08-05
 slug: "company-ntttekunokurosu-reputation"
 image: "/images/media/company-ntttekunokurosu-reputation.png"
-related: ["pmo-company-size", "industry-jigyo-gaisha-pdm-shibou-douki", "industry-user-kei-sier-senkou-flow", "industry-user-kei-sier-shibou-douki"]
+related: ["pmo-company-size", "industry-jigyo-gaisha-pdm-shibou-douki", "company-oro-reputation", "company-paasoruhoorudingusu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NTTテクノクロス 公式サイト 会社概要"

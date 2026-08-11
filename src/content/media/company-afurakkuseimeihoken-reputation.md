@@ -9,7 +9,7 @@ tags: ["アフラック生命保険", "保険", "外資系", "働き方", "評�
 pubDate: 2026-08-11
 slug: "company-afurakkuseimeihoken-reputation"
 image: "/images/media/company-afurakkuseimeihoken-reputation.png"
-related: ["dev-director-how-to-use-agent", "industry-user-kei-sier-career-path", "company-biprogy-reputation", "company-boodorua-reputation"]
+related: ["dev-director-how-to-use-agent", "industry-user-kei-sier-career-path", "company-sekku-reputation", "company-servicenow-japan-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 女性の活躍推進企業データベース オープンデータ（金融業、保険業／2026年8月11日更新）"

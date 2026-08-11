@@ -9,7 +9,7 @@ tags: ["業界特化型コンサル", "志望動機", "中小企業診断士", "
 pubDate: 2026-08-11
 slug: "industry-gyokai-tokka-consul-shibou-douki"
 image: "/images/media/industry-gyokai-tokka-consul-shibou-douki.png"
-related: ["business-consultant-in-30s", "industry-gyokai-tokka-consul-nensyu", "industry-gyokai-tokka-consul-senkou-flow", "job-sustainability-consultant-career-path"]
+related: ["business-consultant-in-30s", "industry-gyokai-tokka-consul-career-path", "industry-gyokai-tokka-consul-nensyu", "job-sustainability-consultant-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「中小企業診断士」（令和7年賃金構造基本統計調査ほか）"

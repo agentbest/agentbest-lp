@@ -9,7 +9,7 @@ tags: ["グロービング", "Globe-ing", "戦略コンサルティング", "東
 pubDate: 2026-08-19
 slug: "company-guroobingu-reputation"
 image: "/images/media/company-guroobingu-reputation.png"
-related: ["industry-chusho-consul-senkou-flow", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-bosuton-konsaruteingu-guruupu-reputation"]
+related: ["industry-chusho-consul-senkou-flow", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-makkinzee-ando-kanpanii-reputation"]
 reviewedAt: 2026-08-19
 sources:
   - name: "有価証券報告書 第10期（2025年5月期）"

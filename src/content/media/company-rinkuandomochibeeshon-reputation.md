@@ -9,7 +9,7 @@ tags: ["リンクアンドモチベーション", "組織開発", "モチベー�
 pubDate: 2026-08-21
 slug: "company-rinkuandomochibeeshon-reputation"
 image: "/images/media/company-rinkuandomochibeeshon-reputation.png"
-related: ["dx-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-accenture-song-reputation"]
+related: ["dx-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-abanto-reputation"]
 reviewedAt: 2026-08-21
 sources:
   - name: "有価証券報告書 第26期（2025年12月期）"

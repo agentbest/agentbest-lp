@@ -9,7 +9,7 @@ tags: ["三菱総合研究所", "シンクタンク", "コンサルティング"
 pubDate: 2026-08-22
 slug: "company-mitsubishisougoukenkyuusho-reputation"
 image: "/images/media/company-mitsubishisougoukenkyuusho-reputation.png"
-related: ["business-consultant-salary-1000", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "company-deroito-toomatsu-guruupu-reputation"]
+related: ["business-consultant-salary-1000", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "job-sustainability-consultant-shibou-douki"]
 reviewedAt: 2026-08-22
 sources:
   - name: "有価証券報告書 第56期（2025年9月期）"

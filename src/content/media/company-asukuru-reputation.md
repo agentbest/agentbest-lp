@@ -9,7 +9,7 @@ tags: ["アスクル", "EC", "物流", "BtoB", "評判"]
 pubDate: 2026-08-12
 slug: "company-asukuru-reputation"
 image: "/images/media/company-asukuru-reputation.png"
-related: ["project-manager-salary", "industry-jigyo-gaisha-pdm-senkou-flow", "company-adosorunisshin-reputation", "company-afurakkuseimeihoken-reputation"]
+related: ["project-manager-salary", "industry-jigyo-gaisha-pdm-senkou-flow", "company-servicenow-japan-reputation", "company-sghoorudingusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アスクル株式会社 有価証券報告書 第63期（2026年5月期・2026年7月30日提出）"

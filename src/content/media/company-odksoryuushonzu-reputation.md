@@ -9,7 +9,7 @@ tags: ["ODKソリューションズ", "大阪電子計算", "大学入試", "SIe
 pubDate: 2026-08-12
 slug: "company-odksoryuushonzu-reputation"
 image: "/images/media/company-odksoryuushonzu-reputation.png"
-related: ["pmo-in-30s", "industry-jigyo-gaisha-pdm-career-path", "company-adobe-reputation", "company-adosorunisshin-reputation"]
+related: ["pmo-in-30s", "industry-jigyo-gaisha-pdm-career-path", "company-pii-shii-ee-reputation", "company-poorutouuinhoorudingusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＯＤＫソリューションズ 有価証券報告書 第63期（2026年3月期）"

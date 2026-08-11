@@ -9,7 +9,7 @@ tags: ["KSK", "SIer", "組込みソフトウェア", "ネットワーク", "有�
 pubDate: 2026-08-12
 slug: "company-ksk-reputation"
 image: "/images/media/company-ksk-reputation.png"
-related: ["business-planning-salary-1000", "industry-user-kei-sier-senkou-flow", "company-mizuhofinansharuguruupu-reputation", "company-mizuhoginkou-reputation"]
+related: ["business-planning-salary-1000", "industry-user-kei-sier-senkou-flow", "company-infomeeshon-diberopumento-reputation", "company-intaanettoinishiateibu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＫＳＫ 有価証券報告書 第52期（2026年3月期）"

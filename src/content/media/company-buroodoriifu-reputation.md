@@ -9,7 +9,7 @@ tags: ["ブロードリーフ", "モビリティ産業", "クラウド移行", "
 pubDate: 2026-09-09
 slug: "company-buroodoriifu-reputation"
 image: "/images/media/company-buroodoriifu-reputation.png"
-related: ["dev-director-career-guide", "industry-jigyo-gaisha-pdm-shibou-douki", "company-sakurakeeshiiesu-reputation", "company-santoriihoorudingusu-reputation"]
+related: ["dev-director-career-guide", "industry-jigyo-gaisha-pdm-shibou-douki", "company-kuresuko-reputation", "company-kurosukyatto-reputation"]
 reviewedAt: 2026-09-09
 sources:
   - name: "株式会社ブロードリーフ 有価証券報告書 第17期（2025年12月期）"

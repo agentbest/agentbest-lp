@@ -9,7 +9,7 @@ tags: ["SGホールディングス", "佐川急便", "物流", "企業研究", "
 pubDate: 2026-08-12
 slug: "company-sghoorudingusu-reputation"
 image: "/images/media/company-sghoorudingusu-reputation.png"
-related: ["corporate-planning-work-style", "industry-jigyo-gaisha-pdm-career-path", "company-mizuhofinansharuguruupu-reputation", "company-mizuhoginkou-reputation"]
+related: ["corporate-planning-work-style", "industry-jigyo-gaisha-pdm-career-path", "company-enu-tei-tei-deeta-intoramaato-reputation", "company-enuaidei-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＳＧホールディングス株式会社 有価証券報告書 第20期（2026年3月期）"

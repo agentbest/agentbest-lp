@@ -9,7 +9,7 @@ tags: ["ベイン・アンド・カンパニー", "Bain", "MBB", "戦略コン�
 pubDate: 2026-08-03
 slug: "company-bein-ando-kanpanii-reputation"
 image: "/images/media/company-bein-ando-kanpanii-reputation.png"
-related: ["industry-sier-shibou-douki", "industry-gyokai-tokka-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "industry-senryaku-consul-career-path"]
+related: ["industry-sier-shibou-douki", "industry-gyokai-tokka-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "job-pmo-consultant-senkou-flow"]
 reviewedAt: 2026-08-03
 sources:
   - name: "ベイン・アンド・カンパニー 中途採用（東京オフィス）"

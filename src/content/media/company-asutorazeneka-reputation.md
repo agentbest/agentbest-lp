@@ -9,7 +9,7 @@ tags: ["アストラゼネカ", "外資系製薬", "オンコロジー", "MR", "
 pubDate: 2026-08-12
 slug: "company-asutorazeneka-reputation"
 image: "/images/media/company-asutorazeneka-reputation.png"
-related: ["corporate-planning-career-path", "industry-jigyo-gaisha-pdm-shibou-douki", "company-amazonjapan-reputation", "company-amerikan-ekisupuresu-reputation"]
+related: ["corporate-planning-career-path", "industry-jigyo-gaisha-pdm-shibou-douki", "company-sekku-reputation", "company-servicenow-japan-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アストラゼネカ株式会社 会社概要"

@@ -9,7 +9,7 @@ tags: ["ServiceNow", "外資系IT", "SaaS", "ワークフロー", "プロジェ�
 pubDate: 2026-08-05
 slug: "company-servicenow-japan-reputation"
 image: "/images/media/company-servicenow-japan-reputation.png"
-related: ["corporate-planning-skills", "industry-user-kei-sier-shibou-douki", "company-toushibadejitarusoryuushonzu-reputation", "company-toyotajidousha-reputation"]
+related: ["corporate-planning-skills", "industry-user-kei-sier-shibou-douki", "company-nipponseisakutoushiginkou-reputation", "company-nipponshisutemugijutsu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "ServiceNow Reports Fourth Quarter and Full-Year 2025 Financial Results（2026年1月28日・Form 8-K Exhibit 99.1）"

@@ -9,7 +9,7 @@ tags: ["EY Japan", "Big4", "コンサル転職", "総合コンサルティング
 pubDate: 2026-08-02
 slug: "company-ey-japan-reputation"
 image: "/images/media/company-ey-japan-reputation.png"
-related: ["it-consultant-certification", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "industry-senryaku-consul-shibou-douki"]
+related: ["it-consultant-certification", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-azusakansahoujin-reputation"]
 reviewedAt: 2026-08-02
 sources:
   - name: "EYストラテジー・アンド・コンサルティング株式会社 企業情報（採用サイト）"

@@ -9,7 +9,7 @@ tags: ["Hiクラテス", "東和ハイシステム", "歯科", "企業研究", "
 pubDate: 2026-08-12
 slug: "company-hikuratesu-reputation"
 image: "/images/media/company-hikuratesu-reputation.png"
-related: ["pmo-from-scratch", "industry-jigyo-gaisha-pdm-nensyu", "company-aioinisseidouwasongaihoken-reputation", "company-airu-reputation"]
+related: ["pmo-from-scratch", "industry-jigyo-gaisha-pdm-nensyu", "company-seikooepuson-reputation", "company-sekku-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "東和ハイシステム株式会社 有価証券報告書 第48期（2025年9月期）"

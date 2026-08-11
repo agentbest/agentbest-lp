@@ -9,7 +9,7 @@ tags: ["NCS&A", "SIer", "大阪", "自社製品", "有価証券報告書"]
 pubDate: 2026-08-12
 slug: "company-ncsanda-reputation"
 image: "/images/media/company-ncsanda-reputation.png"
-related: ["dev-director-skills", "industry-user-kei-sier-nensyu", "company-smbcnikkoushouken-reputation", "company-sofutobanku-reputation"]
+related: ["dev-director-skills", "industry-user-kei-sier-nensyu", "company-nissanjidousha-reputation", "company-nitorihoorudingusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＮＣＳ＆Ａ株式会社 有価証券報告書 第60期（2026年3月期）"

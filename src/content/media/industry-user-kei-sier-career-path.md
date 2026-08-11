@@ -9,7 +9,7 @@ tags: ["ユーザー系SIer", "キャリアパス", "SIer", "有価証券報告�
 pubDate: 2026-08-11
 slug: "industry-user-kei-sier-career-path"
 image: "/images/media/industry-user-kei-sier-career-path.png"
-related: ["dev-director-career-path", "industry-user-kei-sier-nensyu", "industry-user-kei-sier-senkou-flow", "company-kycomhoorudingusu-reputation"]
+related: ["dev-director-career-path", "industry-user-kei-sier-nensyu", "industry-user-kei-sier-senkou-flow", "company-daburusutandaado-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「システムエンジニア（受託開発）」（令和7年賃金構造基本統計調査ほか）"

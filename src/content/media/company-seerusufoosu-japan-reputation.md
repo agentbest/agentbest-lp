@@ -9,7 +9,7 @@ tags: ["セールスフォース・ジャパン", "SaaS", "外資系IT", "CRM", 
 pubDate: 2026-08-06
 slug: "company-seerusufoosu-japan-reputation"
 image: "/images/media/company-seerusufoosu-japan-reputation.png"
-related: ["dev-director-company-size", "industry-jigyo-gaisha-pdm-nensyu", "company-raion-reputation", "company-rakutenmobairu-reputation"]
+related: ["dev-director-company-size", "industry-jigyo-gaisha-pdm-nensyu", "company-kadokawa-reputation", "company-kanposeimeihoken-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "セールスフォース・ジャパン 会社概要（公式）"

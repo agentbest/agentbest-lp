@@ -9,7 +9,7 @@ tags: ["アクモス", "SI", "消防防災システム", "GIS", "評判"]
 pubDate: 2026-08-12
 slug: "company-akumosu-reputation"
 image: "/images/media/company-akumosu-reputation.png"
-related: ["project-manager-english", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "industry-user-kei-sier-career-path"]
+related: ["project-manager-english", "industry-jigyo-gaisha-pdm-nensyu", "company-sapjapan-reputation", "company-sas-institute-japan-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アクモス株式会社 有価証券報告書 第34期（2025年6月期・2025年9月24日提出）"

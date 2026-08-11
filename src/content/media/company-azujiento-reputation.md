@@ -9,7 +9,7 @@ tags: ["アズジェント", "情報セキュリティ", "MSS", "セキュリテ
 pubDate: 2026-08-12
 slug: "company-azujiento-reputation"
 image: "/images/media/company-azujiento-reputation.png"
-related: ["pmo-salary-600", "industry-jigyo-gaisha-pdm-shibou-douki", "company-panasonikku-konekuto-reputation", "company-pandgjapan-reputation"]
+related: ["pmo-salary-600", "industry-jigyo-gaisha-pdm-shibou-douki", "company-konamidejitaruentateinmento-reputation", "company-konikaminoruta-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社アズジェント 有価証券報告書 第29期（2026年3月期・2026年6月24日提出）"

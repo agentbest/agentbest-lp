@@ -9,7 +9,7 @@ tags: ["SIGグループ", "SIer", "セキュリティ", "企業研究", "有価�
 pubDate: 2026-08-12
 slug: "company-sigguruupu-reputation"
 image: "/images/media/company-sigguruupu-reputation.png"
-related: ["product-manager-resume", "industry-user-kei-sier-shibou-douki", "company-boodorua-reputation", "company-burazaakougyou-reputation"]
+related: ["product-manager-resume", "industry-user-kei-sier-shibou-douki", "company-sun-asterisk-reputation", "company-syshoorudingusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＳＩＧグループ 有価証券報告書 第35期（2026年3月期）"

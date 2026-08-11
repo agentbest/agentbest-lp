@@ -9,7 +9,7 @@ tags: ["MSD", "製薬", "外資系", "MR", "非上場"]
 pubDate: 2026-08-12
 slug: "company-msd-reputation"
 image: "/images/media/company-msd-reputation.png"
-related: ["business-planning-interview", "industry-jigyo-gaisha-pdm-senkou-flow", "company-mitsubishiufjinfomeeshontekunorojii-reputation", "company-mitsubishiufjshintakuginkou-reputation"]
+related: ["business-planning-interview", "industry-jigyo-gaisha-pdm-senkou-flow", "company-ihi-reputation", "company-ii-gaadian-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "MSD株式会社 会社概要"

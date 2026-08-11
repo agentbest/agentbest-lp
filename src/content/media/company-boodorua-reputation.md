@@ -9,7 +9,7 @@ tags: ["ボードルア", "ITインフラ", "ネットワーク", "未経験採�
 pubDate: 2026-09-10
 slug: "company-boodorua-reputation"
 image: "/images/media/company-boodorua-reputation.png"
-related: ["pmo-in-30s", "industry-user-kei-sier-senkou-flow", "company-hitachishisutemuzu-reputation", "company-hitachisoryuushonzu-reputation"]
+related: ["pmo-in-30s", "industry-user-kei-sier-senkou-flow", "company-agc-reputation", "company-ags-reputation"]
 reviewedAt: 2026-09-10
 sources:
   - name: "株式会社ボードルア 有価証券報告書 第19期（2026年2月期）"

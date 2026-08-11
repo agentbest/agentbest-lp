@@ -9,7 +9,7 @@ tags: ["KYCOMホールディングス", "共同コンピュータ", "SIer", "福
 pubDate: 2026-08-12
 slug: "company-kycomhoorudingusu-reputation"
 image: "/images/media/company-kycomhoorudingusu-reputation.png"
-related: ["business-planning-interview", "industry-user-kei-sier-tenshoku-nanido", "company-nomurashouken-reputation", "company-nsd-reputation"]
+related: ["business-planning-interview", "industry-user-kei-sier-tenshoku-nanido", "company-hikuratesu-reputation", "company-hitachiseisakusho-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＫＹＣＯＭホールディングス株式会社 有価証券報告書 第59期（2026年3月期）"

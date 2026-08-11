@@ -9,7 +9,7 @@ tags: ["ビーウィズ", "コンタクトセンター", "BPO", "Omnia LINK", "�
 pubDate: 2026-09-08
 slug: "company-biiuizu-reputation"
 image: "/images/media/company-biiuizu-reputation.png"
-related: ["project-manager-career-guide", "industry-user-kei-sier-senkou-flow", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu"]
+related: ["project-manager-career-guide", "industry-user-kei-sier-senkou-flow", "company-runesasuerekutoronikusu-reputation", "company-ryouhinkeikaku-reputation"]
 reviewedAt: 2026-09-08
 sources:
   - name: "ビーウィズ株式会社 有価証券報告書 第26期（2025年5月期）"

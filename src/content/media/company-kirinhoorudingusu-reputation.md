@@ -9,7 +9,7 @@ tags: ["キリンホールディングス", "持株会社", "企業研究", "転
 pubDate: 2026-08-11
 slug: "company-kirinhoorudingusu-reputation"
 image: "/images/media/company-kirinhoorudingusu-reputation.png"
-related: ["business-planning-failure", "industry-jigyo-gaisha-pdm-shibou-douki", "company-nipponrorearu-reputation", "company-nipponseisakutoushiginkou-reputation"]
+related: ["business-planning-failure", "industry-jigyo-gaisha-pdm-shibou-douki", "company-fukuikonpyuutahoorudingusu-reputation", "company-gmopuraimu-sutoratejii-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "キリンホールディングス株式会社 有価証券報告書 第187期（2025年12月期）"

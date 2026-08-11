@@ -9,7 +9,7 @@ tags: ["SAPジャパン", "外資系IT", "ERP", "コンサルタント", "エン
 pubDate: 2026-08-05
 slug: "company-sapjapan-reputation"
 image: "/images/media/company-sapjapan-reputation.png"
-related: ["dev-director-salary-600", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-fanakku-reputation", "company-fig-reputation"]
+related: ["dev-director-salary-600", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "industry-user-kei-sier-career-path", "industry-user-kei-sier-nensyu"]
 reviewedAt: 2026-08-05
 sources:
   - name: "SAPジャパン 公式サイト SAP について（会社概要）"

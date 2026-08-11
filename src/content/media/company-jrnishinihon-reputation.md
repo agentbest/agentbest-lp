@@ -9,7 +9,7 @@ tags: ["JR西日本", "西日本旅客鉄道", "鉄道", "インフラ", "有価
 pubDate: 2026-08-12
 slug: "company-jrnishinihon-reputation"
 image: "/images/media/company-jrnishinihon-reputation.png"
-related: ["corporate-planning-resume", "industry-user-kei-sier-senkou-flow", "company-rikuruutohoorudingusu-reputation", "company-risonahoorudingusu-reputation"]
+related: ["corporate-planning-resume", "industry-user-kei-sier-senkou-flow", "company-ksk-reputation", "company-kubota-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "西日本旅客鉄道株式会社 有価証券報告書 第39期（2026年3月期）"

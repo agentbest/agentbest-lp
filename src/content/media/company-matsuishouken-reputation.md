@@ -9,7 +9,7 @@ tags: ["松井証券", "ネット証券", "金融", "単一セグメント", "�
 pubDate: 2026-08-09
 slug: "company-matsuishouken-reputation"
 image: "/images/media/company-matsuishouken-reputation.png"
-related: ["dev-director-career-guide", "industry-jigyo-gaisha-pdm-senkou-flow", "company-burazaakougyou-reputation", "company-buroodoriifu-reputation"]
+related: ["dev-director-career-guide", "industry-jigyo-gaisha-pdm-senkou-flow", "company-sofutokurieitohoorudingusu-reputation", "company-soniiguruupu-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "松井証券株式会社 有価証券報告書 第110期（2026年3月期）"

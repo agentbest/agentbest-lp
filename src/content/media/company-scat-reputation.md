@@ -9,7 +9,7 @@ tags: ["SCAT", "美容ICT", "SIer", "企業研究", "有価証券報告書"]
 pubDate: 2026-08-12
 slug: "company-scat-reputation"
 image: "/images/media/company-scat-reputation.png"
-related: ["project-manager-salary", "industry-user-kei-sier-career-path", "company-sofutokurieitohoorudingusu-reputation", "company-soniiguruupu-reputation"]
+related: ["project-manager-salary", "industry-user-kei-sier-career-path", "company-nttdokomo-reputation", "company-ntthigashinihon-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "ＳＣＡＴ株式会社 有価証券報告書 第58期（2025年10月期）"

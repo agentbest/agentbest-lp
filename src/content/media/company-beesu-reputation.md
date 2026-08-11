@@ -9,7 +9,7 @@ tags: ["ベース", "受託開発", "金融系システム", "オフショア", 
 pubDate: 2026-09-09
 slug: "company-beesu-reputation"
 image: "/images/media/company-beesu-reputation.png"
-related: ["project-manager-career-path", "industry-jigyo-gaisha-pdm-career-path", "company-eezai-reputation", "company-eitoreddo-reputation"]
+related: ["project-manager-career-path", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "industry-jigyo-gaisha-pdm-shibou-douki"]
 reviewedAt: 2026-09-09
 sources:
   - name: "ベース株式会社 有価証券報告書 第29期（2025年12月期）"

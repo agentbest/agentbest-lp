@@ -9,7 +9,7 @@ tags: ["タナベコンサルティンググループ", "経営コンサルテ�
 pubDate: 2026-08-20
 slug: "company-tanabekonsaruteinguguruupu-reputation"
 image: "/images/media/company-tanabekonsaruteinguguruupu-reputation.png"
-related: ["big4-consultant-certification", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "job-pmo-consultant-nensyu"]
+related: ["big4-consultant-certification", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-shinpurekusu-reputation"]
 reviewedAt: 2026-08-20
 sources:
   - name: "有価証券報告書 第64期（2026年3月期）"

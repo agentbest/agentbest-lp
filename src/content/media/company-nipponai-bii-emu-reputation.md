@@ -9,7 +9,7 @@ tags: ["日本IBM", "IBM", "ITコンサル", "外資系", "コンサル転職"]
 pubDate: 2026-08-03
 slug: "company-nipponai-bii-emu-reputation"
 image: "/images/media/company-nipponai-bii-emu-reputation.png"
-related: ["industry-dx-consul-career-path", "industry-senryaku-consul-career-path", "job-sustainability-consultant-career-path", "industry-senryaku-consul-nensyu"]
+related: ["industry-dx-consul-career-path", "industry-senryaku-consul-career-path", "job-sustainability-consultant-career-path", "job-sap-consultant-nensyu"]
 reviewedAt: 2026-08-03
 sources:
   - name: "IBM採用情報 応募者のFAQ（中途採用比率・選考・評価制度、公表日2025年5月20日時点）"

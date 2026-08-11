@@ -9,7 +9,7 @@ tags: ["コンサル", "総合コンサルティングファーム", "アビー�
 pubDate: 2026-08-02
 slug: "company-abeam-consulting-reputation"
 image: "/images/media/company-abeam-consulting-reputation.png"
-related: ["job-it-consultant-tenshoku-nanido", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "company-kpmg-consulting-reputation"]
+related: ["job-it-consultant-tenshoku-nanido", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "company-pricewaterhousecoopers-japan-llc-reputation"]
 reviewedAt: 2026-08-02
 sources:
   - name: "会社情報"

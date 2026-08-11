@@ -9,7 +9,7 @@ tags: ["ライオン", "消費財", "オーラルケア", "アジア", "東証�
 pubDate: 2026-08-06
 slug: "company-raion-reputation"
 image: "/images/media/company-raion-reputation.png"
-related: ["project-manager-from-scratch", "industry-user-kei-sier-career-path", "company-enu-tei-tei-deeta-intoramaato-reputation", "company-enuaidei-reputation"]
+related: ["project-manager-from-scratch", "industry-user-kei-sier-career-path", "industry-user-kei-sier-senkou-flow", "industry-user-kei-sier-shibou-douki"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ライオン株式会社 有価証券報告書 第165期（2025年12月期）"

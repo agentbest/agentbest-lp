@@ -9,7 +9,7 @@ tags: ["デジタル・インフォメーション・テクノロジー", "DIT",
 pubDate: 2026-09-06
 slug: "company-dejitaru-infomeeshon-tekunorojii-reputation"
 image: "/images/media/company-dejitaru-infomeeshon-tekunorojii-reputation.png"
-related: ["dev-director-career-guide", "industry-user-kei-sier-nensyu", "company-komuchua-reputation", "company-konamidejitaruentateinmento-reputation"]
+related: ["dev-director-career-guide", "industry-user-kei-sier-nensyu", "company-zozo-reputation", "industry-jigyo-gaisha-pdm-career-path"]
 reviewedAt: 2026-09-06
 sources:
   - name: "デジタル・インフォメーション・テクノロジー株式会社 有価証券報告書 第24期（2025年6月期）"

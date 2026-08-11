@@ -9,7 +9,7 @@ tags: ["識学", "組織コンサルティング", "東証グロース", "福島
 pubDate: 2026-08-22
 slug: "company-shikigaku-reputation"
 image: "/images/media/company-shikigaku-reputation.png"
-related: ["it-consultant-how-to-use-agent", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "industry-gyokai-tokka-consul-nensyu"]
+related: ["it-consultant-how-to-use-agent", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "job-sustainability-consultant-nensyu"]
 reviewedAt: 2026-08-22
 sources:
   - name: "有価証券報告書 第11期（2026年2月期）"

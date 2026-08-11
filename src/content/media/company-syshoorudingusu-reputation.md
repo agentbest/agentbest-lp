@@ -9,7 +9,7 @@ tags: ["SYSホールディングス", "SIer", "情報サービス", "企業研�
 pubDate: 2026-08-12
 slug: "company-syshoorudingusu-reputation"
 image: "/images/media/company-syshoorudingusu-reputation.png"
-related: ["dev-director-motivation", "industry-jigyo-gaisha-pdm-shibou-douki", "company-zenrin-reputation", "company-zkai-reputation"]
+related: ["dev-director-motivation", "industry-jigyo-gaisha-pdm-shibou-douki", "company-ntttekunokurosu-reputation", "company-odksoryuushonzu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ＳＹＳホールディングス 有価証券報告書（2025年7月期）"

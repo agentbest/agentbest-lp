@@ -9,7 +9,7 @@ tags: ["イーソル", "組込みソフトウェア", "リアルタイムOS", "�
 pubDate: 2026-08-11
 slug: "company-iisoru-reputation"
 image: "/images/media/company-iisoru-reputation.png"
-related: ["project-manager-salary-600", "industry-user-kei-sier-career-path", "company-nttkomuuea-reputation", "company-nttnishinihon-reputation"]
+related: ["project-manager-salary-600", "industry-user-kei-sier-career-path", "company-kiyanonitsoryuushonzu-reputation", "company-kiyuupii-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "イーソル株式会社 有価証券報告書 第51期（2025年12月期・2026年3月30日提出）"
