@@ -9,7 +9,7 @@ tags: ["ZOZO", "EC", "ファッション", "有価証券報告書", "転職"]
 pubDate: 2026-08-11
 slug: "company-zozo-reputation"
 image: "/images/media/company-zozo-reputation.png"
-related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-burazaakougyou-reputation", "company-buroodoriifu-reputation"]
+related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ZOZO 有価証券報告書 第28期（2026年3月期）"

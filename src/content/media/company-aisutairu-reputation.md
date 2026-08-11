@@ -9,7 +9,7 @@ tags: ["アイスタイル", "@cosme", "美容", "企業研究", "有価証券�
 pubDate: 2026-08-11
 slug: "company-aisutairu-reputation"
 image: "/images/media/company-aisutairu-reputation.png"
-related: ["industry-saas-vendor-shibou-douki", "industry-mega-venture-nensyu", "job-keiei-kikaku-nensyu", "company-primenumber-reputation"]
+related: ["industry-saas-vendor-shibou-douki", "industry-mega-venture-nensyu", "job-keiei-kikaku-nensyu", "company-kyadi-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アイスタイル 有価証券報告書 第26期（2025年6月期）"

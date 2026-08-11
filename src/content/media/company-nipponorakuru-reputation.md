@@ -9,7 +9,7 @@ tags: ["日本オラクル", "外資系IT", "クラウド", "SaaS", "東証プ�
 pubDate: 2026-08-08
 slug: "company-nipponorakuru-reputation"
 image: "/images/media/company-nipponorakuru-reputation.png"
-related: ["dev-director-motivation", "industry-user-kei-sier-career-path", "company-shisutena-reputation", "company-sky-reputation"]
+related: ["dev-director-motivation", "industry-user-kei-sier-career-path", "company-densoo-reputation", "company-deru-tekunorojiizu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "日本オラクル株式会社 有価証券報告書 第40期（2025年5月期）"

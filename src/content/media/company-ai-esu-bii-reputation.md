@@ -9,7 +9,7 @@ tags: ["アイ・エス・ビー", "ISB", "組込みソフトウェア", "セキ
 pubDate: 2026-08-30
 slug: "company-ai-esu-bii-reputation"
 image: "/images/media/company-ai-esu-bii-reputation.png"
-related: ["corporate-planning-failure", "industry-jigyo-gaisha-pdm-nensyu", "company-toyotakonekuteiddo-reputation", "company-ubsshouken-reputation"]
+related: ["corporate-planning-failure", "industry-jigyo-gaisha-pdm-nensyu", "company-mitsuisumitomoginkou-reputation", "company-mitsuisumitomoshintakuginkou-reputation"]
 reviewedAt: 2026-08-30
 sources:
   - name: "株式会社アイ・エス・ビー 有価証券報告書 第56期（2025年12月期）"

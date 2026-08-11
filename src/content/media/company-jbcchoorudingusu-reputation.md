@@ -9,7 +9,7 @@ tags: ["JBCCホールディングス", "JBCC", "システムインテグレー�
 pubDate: 2026-08-28
 slug: "company-jbcchoorudingusu-reputation"
 image: "/images/media/company-jbcchoorudingusu-reputation.png"
-related: ["project-manager-failure", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-ubsshouken-reputation", "company-uubun-bai-toyota-reputation"]
+related: ["project-manager-failure", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-boodorua-reputation", "company-burazaakougyou-reputation"]
 reviewedAt: 2026-08-28
 sources:
   - name: "ＪＢＣＣホールディングス株式会社 有価証券報告書 第62期（2026年3月期）"

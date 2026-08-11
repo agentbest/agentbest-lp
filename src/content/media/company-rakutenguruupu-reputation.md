@@ -9,7 +9,7 @@ tags: ["楽天グループ", "楽天", "メガベンチャー", "東証プライ
 pubDate: 2026-08-18
 slug: "company-rakutenguruupu-reputation"
 image: "/images/media/company-rakutenguruupu-reputation.png"
-related: ["product-manager-salary-600", "industry-maker-it-senkou-flow", "job-vc-capitalist-senkou-flow", "company-eichiimuhoorudingusu-reputation"]
+related: ["product-manager-salary-600", "industry-maker-it-senkou-flow", "job-vc-capitalist-senkou-flow", "company-aiteimedia-reputation"]
 reviewedAt: 2026-08-18
 sources:
   - name: "有価証券報告書 第29期（2025年12月期）"

@@ -9,7 +9,7 @@ tags: ["システムリサーチ", "名古屋", "独立系", "iCD", "WMS"]
 pubDate: 2026-09-03
 slug: "company-shisutemurisaachi-reputation"
 image: "/images/media/company-shisutemurisaachi-reputation.png"
-related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-shibou-douki", "company-ion-reputation", "company-isu-jidousha-reputation"]
+related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-shibou-douki", "company-mitsubishidenki-reputation", "company-mitsubishidenkisofutouea-reputation"]
 reviewedAt: 2026-09-03
 sources:
   - name: "株式会社システムリサーチ 有価証券報告書 第46期（2026年3月期）"

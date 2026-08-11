@@ -9,7 +9,7 @@ tags: ["アトラエ", "PeopleTech", "Green", "Wevox", "評判"]
 pubDate: 2026-08-11
 slug: "company-atorae-reputation"
 image: "/images/media/company-atorae-reputation.png"
-related: ["saas-industry-trend", "industry-kinyu-it-tenshoku-nanido", "job-pre-sales-tenshoku-nanido", "job-customer-success-tenshoku-nanido"]
+related: ["saas-industry-trend", "industry-kinyu-it-tenshoku-nanido", "job-pre-sales-tenshoku-nanido", "industry-tsushin-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アトラエ 有価証券報告書 第22期（2025年9月期・2025年12月17日提出）"

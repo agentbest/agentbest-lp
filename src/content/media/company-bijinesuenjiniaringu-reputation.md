@@ -9,7 +9,7 @@ tags: ["ビジネスエンジニアリング", "mcframe", "ERP", "製造業", "S
 pubDate: 2026-09-08
 slug: "company-bijinesuenjiniaringu-reputation"
 image: "/images/media/company-bijinesuenjiniaringu-reputation.png"
-related: ["dev-director-certification", "industry-user-kei-sier-shibou-douki", "company-mitsubishiufjfinansharu-guruupu-reputation", "company-mitsubishiufjginkou-reputation"]
+related: ["dev-director-certification", "industry-user-kei-sier-shibou-douki", "company-mitsubishiufjginkou-reputation", "company-mitsubishiufjinfomeeshontekunorojii-reputation"]
 reviewedAt: 2026-09-08
 sources:
   - name: "ビジネスエンジニアリング株式会社 有価証券報告書 第47期（2026年3月期）"

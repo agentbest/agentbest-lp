@@ -9,7 +9,7 @@ tags: ["eBASE", "商品情報管理", "パッケージソフト", "大阪", "年
 pubDate: 2026-08-30
 slug: "company-ebase-reputation"
 image: "/images/media/company-ebase-reputation.png"
-related: ["product-manager-career-path", "industry-jigyo-gaisha-pdm-career-path", "company-intaatoreedo-reputation", "company-interijiento-ueibu-reputation"]
+related: ["product-manager-career-path", "industry-jigyo-gaisha-pdm-career-path", "company-bikkukamera-reputation", "company-biprogy-reputation"]
 reviewedAt: 2026-08-30
 sources:
   - name: "ｅＢＡＳＥ株式会社 有価証券報告書 第25期（2026年3月期）"

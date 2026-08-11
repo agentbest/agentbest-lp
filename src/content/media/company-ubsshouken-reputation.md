@@ -9,7 +9,7 @@ tags: ["UBS証券", "外資系金融", "投資銀行", "IBD", "証券会社"]
 pubDate: 2026-08-05
 slug: "company-ubsshouken-reputation"
 image: "/images/media/company-ubsshouken-reputation.png"
-related: ["pmo-how-to-use-agent", "industry-jigyo-gaisha-pdm-shibou-douki", "company-mizuhoshouken-reputation", "company-morugan-sutanree-reputation"]
+related: ["pmo-how-to-use-agent", "industry-jigyo-gaisha-pdm-shibou-douki", "company-aisantekunorojii-reputation", "company-aishin-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "UBS 日本 公式サイト「日本における展開」"

@@ -9,7 +9,7 @@ tags: ["エネチェンジ", "ENECHANGE", "電力切替", "エネルギー", "Sa
 pubDate: 2026-08-11
 slug: "company-enechenji-reputation"
 image: "/images/media/company-enechenji-reputation.png"
-related: ["bizdev-certification", "industry-maker-it-career-path", "job-customer-success-career-path", "company-atorae-reputation"]
+related: ["bizdev-certification", "industry-maker-it-career-path", "job-customer-success-career-path", "company-aakitekkusu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "ENECHANGE株式会社 有価証券報告書 第11期（2026年3月期）"

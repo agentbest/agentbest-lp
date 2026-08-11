@@ -9,7 +9,7 @@ tags: ["アストロスケール", "宇宙", "軌道上サービス", "スペー
 pubDate: 2026-08-11
 slug: "company-asutorosukeeru-reputation"
 image: "/images/media/company-asutorosukeeru-reputation.png"
-related: ["product-manager-interview", "industry-kinyu-it-nensyu", "job-shanai-se-nensyu", "company-bittokii-reputation"]
+related: ["product-manager-interview", "industry-kinyu-it-nensyu", "job-shanai-se-nensyu", "job-vc-capitalist-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アストロスケールホールディングス 有価証券報告書 第8期（2026年4月期・2026年7月29日提出）"

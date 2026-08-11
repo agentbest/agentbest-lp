@@ -9,7 +9,7 @@ tags: ["フィールドセールス", "SaaS営業", "キャリアパス", "ス�
 pubDate: 2026-08-10
 slug: "job-field-sales-career-path"
 image: "/images/media/job-field-sales-career-path.png"
-related: ["saas-sales-skills", "job-field-sales-senkou-flow", "job-field-sales-shibou-douki", "industry-kinyu-it-senkou-flow"]
+related: ["saas-sales-skills", "job-field-sales-nensyu", "job-field-sales-senkou-flow", "industry-kinyu-it-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

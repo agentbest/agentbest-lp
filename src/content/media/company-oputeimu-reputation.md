@@ -9,7 +9,7 @@ tags: ["オプティム", "AX事業", "アグリテック", "佐賀", "評判"]
 pubDate: 2026-08-11
 slug: "company-oputeimu-reputation"
 image: "/images/media/company-oputeimu-reputation.png"
-related: ["industry-saas-vendor-nensyu", "industry-tsushin-nensyu", "job-jigyo-kikaku-nensyu", "job-pe-investment-nensyu"]
+related: ["industry-saas-vendor-nensyu", "industry-tsushin-nensyu", "job-jigyo-kikaku-nensyu", "job-it-architect-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社オプティム 有価証券報告書 第26期（2026年3月期・2026年6月26日提出）"

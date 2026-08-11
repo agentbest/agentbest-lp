@@ -9,7 +9,7 @@ tags: ["三菱UFJ信託銀行", "金融", "信託銀行", "MUFG", "非上場"]
 pubDate: 2026-08-06
 slug: "company-mitsubishiufjshintakuginkou-reputation"
 image: "/images/media/company-mitsubishiufjshintakuginkou-reputation.png"
-related: ["business-planning-future", "industry-user-kei-sier-nensyu", "company-mitsuisumitomoginkou-reputation", "company-mitsuisumitomoshintakuginkou-reputation"]
+related: ["business-planning-future", "industry-user-kei-sier-nensyu", "company-boodorua-reputation", "company-burazaakougyou-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "三菱ＵＦＪ信託銀行株式会社 有価証券報告書（2026年3月期）"

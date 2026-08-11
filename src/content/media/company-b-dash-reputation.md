@@ -9,7 +9,7 @@ tags: ["b→dash", "データX", "CDP", "SaaS", "企業研究"]
 pubDate: 2026-08-12
 slug: "company-b-dash-reputation"
 image: "/images/media/company-b-dash-reputation.png"
-related: ["saas-sales-salary-1000", "industry-maker-it-senkou-flow", "job-scrum-master-senkou-flow", "company-legalon-technologies-reputation"]
+related: ["saas-sales-salary-1000", "industry-maker-it-senkou-flow", "job-scrum-master-senkou-flow", "company-gurii-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社データX（法人番号 1011101056020）"

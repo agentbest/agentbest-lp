@@ -9,7 +9,7 @@ tags: ["キャディ", "CADDi", "製造業DX", "AI", "非上場"]
 pubDate: 2026-08-13
 slug: "company-kyadi-reputation"
 image: "/images/media/company-kyadi-reputation.png"
-related: ["product-manager-interview", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "company-burijjiwan-reputation"]
+related: ["product-manager-interview", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "company-akatsuki-reputation"]
 reviewedAt: 2026-08-13
 sources:
   - name: "キャディ株式会社 会社概要"

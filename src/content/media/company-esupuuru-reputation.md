@@ -9,7 +9,7 @@ tags: ["エスプール", "障がい者雇用支援", "グループ型派遣", "
 pubDate: 2026-08-11
 slug: "company-esupuuru-reputation"
 image: "/images/media/company-esupuuru-reputation.png"
-related: ["product-manager-work-style", "industry-tsushin-shibou-douki", "job-product-manager-shibou-douki", "job-scrum-master-shibou-douki"]
+related: ["product-manager-work-style", "industry-tsushin-shibou-douki", "job-product-manager-shibou-douki", "job-pre-sales-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エスプール 有価証券報告書 第26期（2025年11月期）"

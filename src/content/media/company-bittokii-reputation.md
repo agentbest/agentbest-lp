@@ -9,7 +9,7 @@ tags: ["ビットキー", "bitkey", "IoT", "スマートロック", "非上場"]
 pubDate: 2026-08-14
 slug: "company-bittokii-reputation"
 image: "/images/media/company-bittokii-reputation.png"
-related: ["customer-success-career-path", "industry-mega-venture-nensyu", "job-dx-suishin-nensyu", "job-ibd-analyst-nensyu"]
+related: ["customer-success-career-path", "industry-mega-venture-nensyu", "job-dx-suishin-nensyu", "job-data-scientist-senkou-flow"]
 reviewedAt: 2026-08-14
 sources:
   - name: "株式会社ビットキー 会社概要"

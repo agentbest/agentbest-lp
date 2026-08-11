@@ -9,7 +9,7 @@ tags: ["ウェザーニューズ", "気象", "BtoS", "航海気象", "予報セ�
 pubDate: 2026-08-11
 slug: "company-uezaanyuuzu-reputation"
 image: "/images/media/company-uezaanyuuzu-reputation.png"
-related: ["customer-success-english", "industry-maker-it-nensyu", "job-inside-sales-nensyu", "industry-tsushin-nensyu"]
+related: ["customer-success-english", "industry-maker-it-nensyu", "job-inside-sales-nensyu", "industry-kinyu-it-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ウェザーニューズ 有価証券報告書 第39期（2025年5月期）"

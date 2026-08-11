@@ -9,7 +9,7 @@ tags: ["カプコン", "ゲーム", "デジタルコンテンツ", "年収", "�
 pubDate: 2026-08-11
 slug: "company-kapukon-reputation"
 image: "/images/media/company-kapukon-reputation.png"
-related: ["product-manager-market-trend", "industry-user-kei-sier-tenshoku-nanido", "company-fujitsuu-reputation", "company-fujitsuujapan-reputation"]
+related: ["product-manager-market-trend", "industry-user-kei-sier-tenshoku-nanido", "company-yamadahoorudingusu-reputation", "company-yasukawadenki-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社カプコン 有価証券報告書 第47期（2026年3月期・2026年6月16日提出）"

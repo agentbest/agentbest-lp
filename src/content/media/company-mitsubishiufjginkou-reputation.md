@@ -9,7 +9,7 @@ tags: ["三菱UFJ銀行", "金融", "メガバンク", "MUFG", "非上場"]
 pubDate: 2026-08-06
 slug: "company-mitsubishiufjginkou-reputation"
 image: "/images/media/company-mitsubishiufjginkou-reputation.png"
-related: ["product-manager-in-20s", "industry-user-kei-sier-career-path", "company-eezai-reputation", "company-eitoreddo-reputation"]
+related: ["product-manager-in-20s", "industry-user-kei-sier-career-path", "company-greenbee-reputation", "company-guuguru-kuraudo-japan-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社三菱ＵＦＪ銀行 有価証券報告書（2026年3月期）"

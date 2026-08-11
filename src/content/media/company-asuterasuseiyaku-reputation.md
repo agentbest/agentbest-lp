@@ -9,7 +9,7 @@ tags: ["アステラス製薬", "製薬", "創薬", "グローバル", "評判"]
 pubDate: 2026-08-12
 slug: "company-asuterasuseiyaku-reputation"
 image: "/images/media/company-asuterasuseiyaku-reputation.png"
-related: ["business-planning-interview", "industry-jigyo-gaisha-pdm-career-path", "company-adobe-reputation", "company-adosorunisshin-reputation"]
+related: ["business-planning-interview", "industry-jigyo-gaisha-pdm-career-path", "company-faindekkusu-reputation", "company-famiriimaato-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アステラス製薬株式会社 有価証券報告書 第21期（2026年3月期・2026年6月16日提出）"

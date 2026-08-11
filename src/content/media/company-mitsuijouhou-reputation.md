@@ -9,7 +9,7 @@ tags: ["三井情報", "SIer", "MKI", "三井物産", "非上場"]
 pubDate: 2026-08-06
 slug: "company-mitsuijouhou-reputation"
 image: "/images/media/company-mitsuijouhou-reputation.png"
-related: ["pmo-how-to-use-agent", "industry-jigyo-gaisha-pdm-nensyu", "company-konpyuutaamaneejimento-reputation", "company-kubota-reputation"]
+related: ["pmo-how-to-use-agent", "industry-jigyo-gaisha-pdm-nensyu", "company-sky-reputation", "company-smbcnikkoushouken-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "三井情報株式会社 会社概要（公式）"

@@ -9,7 +9,7 @@ tags: ["ピー・シー・エー", "PCA", "会計ソフト", "クラウドシフ
 pubDate: 2026-09-08
 slug: "company-pii-shii-ee-reputation"
 image: "/images/media/company-pii-shii-ee-reputation.png"
-related: ["business-planning-salary-1000", "industry-jigyo-gaisha-pdm-nensyu", "company-ion-reputation", "company-isu-jidousha-reputation"]
+related: ["business-planning-salary-1000", "industry-jigyo-gaisha-pdm-nensyu", "company-tdcsofuto-reputation", "company-tdk-reputation"]
 reviewedAt: 2026-09-08
 sources:
   - name: "ピー・シー・エー株式会社 有価証券報告書 第46期（2026年3月期）"

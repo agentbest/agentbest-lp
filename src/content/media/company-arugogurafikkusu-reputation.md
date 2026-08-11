@@ -9,7 +9,7 @@ tags: ["アルゴグラフィックス", "PLM", "CATIA", "3次元CAD", "EDA"]
 pubDate: 2026-08-31
 slug: "company-arugogurafikkusu-reputation"
 image: "/images/media/company-arugogurafikkusu-reputation.png"
-related: ["business-planning-certification", "industry-jigyo-gaisha-pdm-nensyu", "industry-user-kei-sier-career-path", "industry-user-kei-sier-nensyu"]
+related: ["business-planning-certification", "industry-jigyo-gaisha-pdm-nensyu", "company-eeai-reputation", "company-eezai-reputation"]
 reviewedAt: 2026-08-31
 sources:
   - name: "株式会社アルゴグラフィックス 有価証券報告書 第42期（2026年3月期）"

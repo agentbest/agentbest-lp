@@ -9,7 +9,7 @@ tags: ["フェリエスト", "SNSマーケティング", "TOKYO PRO Market", "�
 pubDate: 2026-08-17
 slug: "company-feriesuto-reputation"
 image: "/images/media/company-feriesuto-reputation.png"
-related: ["industry-saas-vendor-senkou-flow", "industry-mega-venture-career-path", "job-keiei-kikaku-career-path", "company-preferred-networks-reputation"]
+related: ["industry-saas-vendor-senkou-flow", "industry-mega-venture-career-path", "job-keiei-kikaku-career-path", "company-kanamikkunettowaaku-reputation"]
 reviewedAt: 2026-08-17
 sources:
   - name: "発行者情報（2026年3月23日公表）／日本取引所グループ"

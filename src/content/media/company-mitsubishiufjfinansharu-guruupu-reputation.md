@@ -9,7 +9,7 @@ tags: ["三菱UFJフィナンシャル・グループ", "金融", "メガバン�
 pubDate: 2026-08-06
 slug: "company-mitsubishiufjfinansharu-guruupu-reputation"
 image: "/images/media/company-mitsubishiufjfinansharu-guruupu-reputation.png"
-related: ["corporate-planning-work-style", "industry-user-kei-sier-career-path", "industry-user-kei-sier-nensyu", "industry-user-kei-sier-senkou-flow"]
+related: ["corporate-planning-work-style", "industry-user-kei-sier-career-path", "company-kokusaikyouryokuginkou-reputation", "company-komatsu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社三菱ＵＦＪフィナンシャル・グループ 有価証券報告書 第21期（2026年3月期）"

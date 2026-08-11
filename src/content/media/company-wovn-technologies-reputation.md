@@ -9,7 +9,7 @@ tags: ["Wovn Technologies", "多言語化", "SaaS", "非上場", "転職"]
 pubDate: 2026-08-11
 slug: "company-wovn-technologies-reputation"
 image: "/images/media/company-wovn-technologies-reputation.png"
-related: ["bizdev-salary", "industry-tsushin-career-path", "job-jigyo-kikaku-career-path", "company-kaminashi-reputation"]
+related: ["bizdev-salary", "industry-tsushin-career-path", "job-jigyo-kikaku-career-path", "company-en-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "WOVN Technologies株式会社 公式サイト"

@@ -9,7 +9,7 @@ tags: ["イーサポートリンク", "青果流通", "農業", "BPO", "評判"]
 pubDate: 2026-08-11
 slug: "company-iisapootorinku-reputation"
 image: "/images/media/company-iisapootorinku-reputation.png"
-related: ["corporate-planning-motivation", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-dts-reputation", "company-ebase-reputation"]
+related: ["corporate-planning-motivation", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-mitsubishiufjshintakuginkou-reputation", "company-mitsuijouhou-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "イーサポートリンク株式会社 有価証券報告書 第28期（2025年11月期・2026年2月26日提出）"

@@ -9,7 +9,7 @@ tags: ["エヌアイデイ", "SIer", "システム開発", "年収", "評判"]
 pubDate: 2026-08-11
 slug: "company-enuaidei-reputation"
 image: "/images/media/company-enuaidei-reputation.png"
-related: ["dev-director-future", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-nesurenippon-reputation", "company-niizuueru-reputation"]
+related: ["dev-director-future", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-eezai-reputation", "company-eitoreddo-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エヌアイデイ 有価証券報告書 第59期（2026年3月期・2026年6月25日提出）"

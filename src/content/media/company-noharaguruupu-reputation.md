@@ -9,7 +9,7 @@ tags: ["野原グループ", "建設DX", "BuildApp", "建材", "非上場"]
 pubDate: 2026-08-18
 slug: "company-noharaguruupu-reputation"
 image: "/images/media/company-noharaguruupu-reputation.png"
-related: ["customer-success-in-30s", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "industry-kinyu-it-shibou-douki"]
+related: ["customer-success-in-30s", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "company-uiruguruupu-reputation"]
 reviewedAt: 2026-08-18
 sources:
   - name: "野原グループ株式会社 会社情報"

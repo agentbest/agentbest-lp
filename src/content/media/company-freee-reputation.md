@@ -9,7 +9,7 @@ tags: ["freee", "SaaS", "会計ソフト", "有価証券報告書", "選考プ�
 pubDate: 2026-08-11
 slug: "company-freee-reputation"
 image: "/images/media/company-freee-reputation.png"
-related: ["industry-saas-vendor-tenshoku-nanido", "industry-maker-it-senkou-flow", "job-inside-sales-senkou-flow", "company-aperuza-reputation"]
+related: ["industry-saas-vendor-tenshoku-nanido", "industry-maker-it-senkou-flow", "job-inside-sales-senkou-flow", "job-vc-capitalist-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "freee株式会社 有価証券報告書（2025年6月期）"

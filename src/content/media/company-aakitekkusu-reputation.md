@@ -9,7 +9,7 @@ tags: ["アーキテックス", "注文住宅", "リフォーム", "不動産", 
 pubDate: 2026-08-12
 slug: "company-aakitekkusu-reputation"
 image: "/images/media/company-aakitekkusu-reputation.png"
-related: ["product-manager-salary-1000", "industry-mega-venture-tenshoku-nanido", "job-project-manager-tenshoku-nanido", "company-patosurogosu-reputation"]
+related: ["product-manager-salary-1000", "industry-mega-venture-tenshoku-nanido", "job-project-manager-tenshoku-nanido", "company-kakehashi-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アーキテックス株式会社 会社概要"

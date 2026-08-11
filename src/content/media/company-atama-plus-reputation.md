@@ -9,7 +9,7 @@ tags: ["atama plus", "EdTech", "AI", "教育", "非上場"]
 pubDate: 2026-08-09
 slug: "company-atama-plus-reputation"
 image: "/images/media/company-atama-plus-reputation.png"
-related: ["saas-sales-english", "industry-kinyu-it-nensyu", "job-shanai-se-nensyu", "company-wisevine-reputation"]
+related: ["saas-sales-english", "industry-kinyu-it-nensyu", "job-shanai-se-nensyu", "company-u-next-holdings-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "atama plus株式会社 Company"

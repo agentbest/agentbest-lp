@@ -9,7 +9,7 @@ tags: ["サントリーホールディングス", "サントリー", "飲料", "
 pubDate: 2026-08-06
 slug: "company-santoriihoorudingusu-reputation"
 image: "/images/media/company-santoriihoorudingusu-reputation.png"
-related: ["project-manager-career-guide", "industry-user-kei-sier-career-path", "company-raion-reputation", "company-rakutenmobairu-reputation"]
+related: ["project-manager-career-guide", "industry-user-kei-sier-career-path", "company-paasoruhoorudingusu-reputation", "company-panasonikku-konekuto-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "サントリーホールディングス 企業概要"

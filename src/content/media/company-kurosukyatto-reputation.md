@@ -9,7 +9,7 @@ tags: ["クロスキャット", "BI", "システムソリューション", "賃�
 pubDate: 2026-09-02
 slug: "company-kurosukyatto-reputation"
 image: "/images/media/company-kurosukyatto-reputation.png"
-related: ["product-manager-failure", "industry-user-kei-sier-senkou-flow", "company-mitsubishiufjginkou-reputation", "company-mitsubishiufjinfomeeshontekunorojii-reputation"]
+related: ["product-manager-failure", "industry-user-kei-sier-senkou-flow", "company-tis-reputation", "company-tkc-reputation"]
 reviewedAt: 2026-09-02
 sources:
   - name: "株式会社クロスキャット 有価証券報告書 第53期（2026年3月期）"

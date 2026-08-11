@@ -9,7 +9,7 @@ tags: ["NTTデータ先端技術", "INTELLILINK", "NTTデータグループ", "I
 pubDate: 2026-08-05
 slug: "company-nttdeetasentangijutsu-reputation"
 image: "/images/media/company-nttdeetasentangijutsu-reputation.png"
-related: ["pmo-how-to-use-agent", "industry-jigyo-gaisha-pdm-shibou-douki", "company-aiekkusu-narejji-reputation", "company-ainesu-reputation"]
+related: ["pmo-how-to-use-agent", "industry-jigyo-gaisha-pdm-shibou-douki", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NTTデータ先端技術 公式サイト 会社概要"

@@ -9,7 +9,7 @@ tags: ["アンドパッド", "ANDPAD", "建設DX", "SaaS", "非上場"]
 pubDate: 2026-08-12
 slug: "company-andopaddo-reputation"
 image: "/images/media/company-andopaddo-reputation.png"
-related: ["bizdev-company-size", "industry-maker-it-nensyu", "job-customer-success-nensyu", "company-bittokii-reputation"]
+related: ["bizdev-company-size", "industry-maker-it-nensyu", "job-customer-success-nensyu", "company-aimobairu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社アンドパッド 会社情報"

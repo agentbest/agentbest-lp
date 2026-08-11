@@ -9,7 +9,7 @@ tags: ["すかいらーくホールディングス", "外食", "持株会社", "
 pubDate: 2026-08-11
 slug: "company-sukairaakuhoorudingusu-reputation"
 image: "/images/media/company-sukairaakuhoorudingusu-reputation.png"
-related: ["pmo-career-path", "industry-user-kei-sier-career-path", "company-kyapitaru-asetto-puranningu-reputation", "company-kyousera-reputation"]
+related: ["pmo-career-path", "industry-user-kei-sier-career-path", "company-jcb-reputation", "company-jfeshisutemuzu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社すかいらーくホールディングス 有価証券報告書 第15期（2025年12月期）"

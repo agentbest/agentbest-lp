@@ -9,7 +9,7 @@ tags: ["アイサンテクノロジー", "測量", "自動運転", "企業研究
 pubDate: 2026-08-12
 slug: "company-aisantekunorojii-reputation"
 image: "/images/media/company-aisantekunorojii-reputation.png"
-related: ["project-manager-from-scratch", "industry-user-kei-sier-career-path", "company-uubun-bai-toyota-reputation", "company-waakuman-reputation"]
+related: ["project-manager-from-scratch", "industry-user-kei-sier-career-path", "company-buroodoriifu-reputation", "company-cac-holdings-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アイサンテクノロジー株式会社 有価証券報告書 第56期（2026年3月期）"

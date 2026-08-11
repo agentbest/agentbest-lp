@@ -9,7 +9,7 @@ tags: ["日本銀行", "日銀", "中央銀行", "金融", "認可法人"]
 pubDate: 2026-08-08
 slug: "company-nipponginkou-reputation"
 image: "/images/media/company-nipponginkou-reputation.png"
-related: ["dev-director-how-to-use-agent", "industry-jigyo-gaisha-pdm-nensyu", "company-jcb-reputation", "company-jpmoruganshouken-reputation"]
+related: ["dev-director-how-to-use-agent", "industry-jigyo-gaisha-pdm-nensyu", "company-sebunandai-hoorudingusu-reputation", "company-seerusufoosu-japan-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "日本銀行（法人番号3010005002599）の役職員の報酬・給与等について（令和6年度）"

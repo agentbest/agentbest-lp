@@ -9,7 +9,7 @@ tags: ["クレオ", "SIer", "企業研究", "転職", "有価証券報告書"]
 pubDate: 2026-08-11
 slug: "company-kureo-reputation"
 image: "/images/media/company-kureo-reputation.png"
-related: ["project-manager-work-style", "industry-user-kei-sier-shibou-douki", "company-kyuubushisutemu-reputation", "company-manekkusuguruupu-reputation"]
+related: ["project-manager-work-style", "industry-user-kei-sier-shibou-douki", "company-gmopuraimu-sutoratejii-reputation", "company-goorudoman-sakkusushouken-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社クレオ 有価証券報告書 第52期（2025年3月期）"

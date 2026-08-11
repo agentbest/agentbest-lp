@@ -9,7 +9,7 @@ tags: ["インタートレード", "金融システム", "証券システム", "
 pubDate: 2026-08-11
 slug: "company-intaatoreedo-reputation"
 image: "/images/media/company-intaatoreedo-reputation.png"
-related: ["business-planning-resume", "industry-user-kei-sier-senkou-flow", "company-enu-tei-tei-deeta-intoramaato-reputation", "company-enuaidei-reputation"]
+related: ["business-planning-resume", "industry-user-kei-sier-senkou-flow", "company-oobikku-reputation", "company-oobikkubijinesukonsarutanto-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社インタートレード 有価証券報告書 第27期（2025年9月期・2025年12月17日提出）"

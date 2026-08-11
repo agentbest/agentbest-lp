@@ -9,7 +9,7 @@ tags: ["ビジネスブレイン太田昭和", "経営会計", "BPO", "SES", "IF
 pubDate: 2026-09-08
 slug: "company-bijinesubureinootashouwa-reputation"
 image: "/images/media/company-bijinesubureinootashouwa-reputation.png"
-related: ["corporate-planning-from-scratch", "industry-user-kei-sier-shibou-douki", "company-enujieihoorudingusu-reputation", "company-faasutoriteiringu-reputation"]
+related: ["corporate-planning-from-scratch", "industry-user-kei-sier-shibou-douki", "company-adobantesuto-reputation", "company-adobe-reputation"]
 reviewedAt: 2026-09-08
 sources:
   - name: "株式会社ビジネスブレイン太田昭和 有価証券報告書 第59期（2026年3月期）"

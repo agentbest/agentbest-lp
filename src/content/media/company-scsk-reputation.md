@@ -9,7 +9,7 @@ tags: ["SCSK", "SIer", "プロジェクトマネージャー", "人的資本", "
 pubDate: 2026-08-05
 slug: "company-scsk-reputation"
 image: "/images/media/company-scsk-reputation.png"
-related: ["business-planning-english", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-aibiishii-reputation", "company-aiekkusu-narejji-reputation"]
+related: ["business-planning-english", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-tbsterebi-reputation", "company-tdcsofuto-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "SCSK 有価証券報告書 第58期（2026年3月期）"

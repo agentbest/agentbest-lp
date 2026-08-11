@@ -9,7 +9,7 @@ tags: ["ファインデックス", "医療システム", "電子カルテ", "Doc
 pubDate: 2026-09-08
 slug: "company-faindekkusu-reputation"
 image: "/images/media/company-faindekkusu-reputation.png"
-related: ["corporate-planning-market-trend", "industry-user-kei-sier-nensyu", "company-soniiguruupu-reputation", "company-sonpojapanshisutemuzu-reputation"]
+related: ["corporate-planning-market-trend", "industry-user-kei-sier-nensyu", "company-ipshoorudingusu-reputation", "company-isu-jidousha-reputation"]
 reviewedAt: 2026-09-08
 sources:
   - name: "株式会社ファインデックス 有価証券報告書 第41期（2025年12月期）"

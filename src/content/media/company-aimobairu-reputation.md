@@ -9,7 +9,7 @@ tags: ["アイモバイル", "インターネット広告", "ふるさと納税"
 pubDate: 2026-08-11
 slug: "company-aimobairu-reputation"
 image: "/images/media/company-aimobairu-reputation.png"
-related: ["bizdev-skills", "industry-kinyu-it-nensyu", "job-dx-suishin-nensyu", "company-feriesuto-reputation"]
+related: ["bizdev-skills", "industry-kinyu-it-nensyu", "job-dx-suishin-nensyu", "company-bittokii-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アイモバイル 有価証券報告書 第18期（2025年7月期）"

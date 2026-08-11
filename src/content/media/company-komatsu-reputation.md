@@ -9,7 +9,7 @@ tags: ["コマツ", "建設機械", "企業研究", "転職", "有価証券報�
 pubDate: 2026-08-11
 slug: "company-komatsu-reputation"
 image: "/images/media/company-komatsu-reputation.png"
-related: ["project-manager-company-size", "industry-jigyo-gaisha-pdm-career-path", "company-iiemushisutemuzu-reputation", "company-iisapootorinku-reputation"]
+related: ["project-manager-company-size", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-shibou-douki", "industry-jigyo-gaisha-pdm-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社小松製作所 有価証券報告書 第157期（2026年3月期）"

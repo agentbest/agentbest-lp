@@ -9,7 +9,7 @@ tags: ["フォーカスシステムズ", "公共システム", "NTTデータ", "
 pubDate: 2026-09-09
 slug: "company-fookasushisutemuzu-reputation"
 image: "/images/media/company-fookasushisutemuzu-reputation.png"
-related: ["business-planning-work-style", "industry-user-kei-sier-nensyu", "company-yuniriiba-japan-reputation", "company-zenrin-reputation"]
+related: ["business-planning-work-style", "industry-user-kei-sier-nensyu", "company-ai-esu-bii-reputation", "company-aibiishii-reputation"]
 reviewedAt: 2026-09-09
 sources:
   - name: "株式会社フォーカスシステムズ 有価証券報告書 第50期（2026年3月期）"

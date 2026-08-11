@@ -9,7 +9,7 @@ tags: ["イー・ガーディアン", "投稿監視", "カスタマーサポー�
 pubDate: 2026-09-01
 slug: "company-ii-gaadian-reputation"
 image: "/images/media/company-ii-gaadian-reputation.png"
-related: ["dev-director-salary-1000", "industry-jigyo-gaisha-pdm-senkou-flow", "company-aibiishii-reputation", "company-aiekkusu-narejji-reputation"]
+related: ["dev-director-salary-1000", "industry-jigyo-gaisha-pdm-senkou-flow", "company-nsw-reputation", "company-nttdeeta-reputation"]
 reviewedAt: 2026-09-01
 sources:
   - name: "イー・ガーディアン株式会社 有価証券報告書 第28期（2025年9月期）"

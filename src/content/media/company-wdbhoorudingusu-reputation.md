@@ -9,7 +9,7 @@ tags: ["WDBホールディングス", "人材サービス", "CRO", "持株会社
 pubDate: 2026-08-11
 slug: "company-wdbhoorudingusu-reputation"
 image: "/images/media/company-wdbhoorudingusu-reputation.png"
-related: ["product-manager-from-scratch", "industry-maker-it-tenshoku-nanido", "job-scrum-master-tenshoku-nanido", "industry-mega-venture-career-path"]
+related: ["product-manager-from-scratch", "industry-maker-it-tenshoku-nanido", "job-scrum-master-tenshoku-nanido", "company-varietas-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "ＷＤＢホールディングス株式会社 有価証券報告書 第41期（2026年3月期）"

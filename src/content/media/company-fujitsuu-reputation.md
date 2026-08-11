@@ -9,7 +9,7 @@ tags: ["富士通", "SIer", "IT", "ジョブ型", "東証プライム"]
 pubDate: 2026-08-08
 slug: "company-fujitsuu-reputation"
 image: "/images/media/company-fujitsuu-reputation.png"
-related: ["project-manager-future", "industry-jigyo-gaisha-pdm-shibou-douki", "company-seikooepuson-reputation", "company-sekku-reputation"]
+related: ["project-manager-future", "industry-jigyo-gaisha-pdm-shibou-douki", "company-kiiensu-reputation", "company-kiiueasoryuushonzu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "富士通株式会社 有価証券報告書 第126期（2026年3月期）"

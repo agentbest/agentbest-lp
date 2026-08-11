@@ -9,7 +9,7 @@ tags: ["キャピタル・アセット・プランニング", "金融IT", "企�
 pubDate: 2026-08-11
 slug: "company-kyapitaru-asetto-puranningu-reputation"
 image: "/images/media/company-kyapitaru-asetto-puranningu-reputation.png"
-related: ["business-planning-salary", "industry-user-kei-sier-career-path", "company-arufashisutemuzu-reputation", "company-arugogurafikkusu-reputation"]
+related: ["business-planning-salary", "industry-user-kei-sier-career-path", "company-scsk-reputation", "company-sebunandai-hoorudingusu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社キャピタル・アセット・プランニング 有価証券報告書 第37期（2025年9月期）"

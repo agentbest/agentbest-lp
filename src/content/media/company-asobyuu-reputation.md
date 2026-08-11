@@ -9,7 +9,7 @@ tags: ["アソビュー", "レジャー", "観光", "スタートアップ", "�
 pubDate: 2026-08-12
 slug: "company-asobyuu-reputation"
 image: "/images/media/company-asobyuu-reputation.png"
-related: ["customer-success-future", "industry-kinyu-it-tenshoku-nanido", "job-dx-suishin-tenshoku-nanido", "company-patosurogosu-reputation"]
+related: ["customer-success-future", "industry-kinyu-it-tenshoku-nanido", "job-dx-suishin-tenshoku-nanido", "company-kanamikkunettowaaku-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／アソビュー株式会社（法人番号 1040001042350）"

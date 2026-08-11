@@ -9,7 +9,7 @@ tags: ["アイビーシー", "System Answer", "IT運用監視", "自社プロダ
 pubDate: 2026-08-12
 slug: "company-aibiishii-reputation"
 image: "/images/media/company-aibiishii-reputation.png"
-related: ["corporate-planning-interview", "industry-user-kei-sier-senkou-flow", "company-yasukawadenki-reputation", "company-ye-digital-reputation"]
+related: ["corporate-planning-interview", "industry-user-kei-sier-senkou-flow", "company-msd-reputation", "company-murataseisakusho-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アイビーシー株式会社 有価証券報告書 第23期（2025年9月期・2025年12月19日提出）"

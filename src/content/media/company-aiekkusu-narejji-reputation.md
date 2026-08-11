@@ -9,7 +9,7 @@ tags: ["アイエックス・ナレッジ", "SIer", "情報サービス", "企�
 pubDate: 2026-08-12
 slug: "company-aiekkusu-narejji-reputation"
 image: "/images/media/company-aiekkusu-narejji-reputation.png"
-related: ["corporate-planning-how-to-use-agent", "industry-user-kei-sier-shibou-douki", "company-nttnishinihon-reputation", "company-ntttekunokurosu-reputation"]
+related: ["corporate-planning-how-to-use-agent", "industry-user-kei-sier-shibou-douki", "company-tdk-reputation", "company-tekumatorikkusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アイエックス・ナレッジ株式会社 有価証券報告書 第48期（2026年3月期）"

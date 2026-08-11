@@ -9,7 +9,7 @@ tags: ["オープングループ", "BizRobo!", "RPA", "オートメーション"
 pubDate: 2026-09-02
 slug: "company-oopunguruupu-reputation"
 image: "/images/media/company-oopunguruupu-reputation.png"
-related: ["product-manager-resume", "industry-user-kei-sier-nensyu", "company-mizuhoginkou-reputation", "company-mizuhoshouken-reputation"]
+related: ["product-manager-resume", "industry-user-kei-sier-nensyu", "company-toyotajidousha-reputation", "company-toyotakonekuteiddo-reputation"]
 reviewedAt: 2026-09-02
 sources:
   - name: "オープングループ株式会社 有価証券報告書 第27期（2026年2月期）"

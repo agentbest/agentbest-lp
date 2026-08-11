@@ -9,7 +9,7 @@ tags: ["ローソン", "小売", "コンビニエンスストア", "三菱商事
 pubDate: 2026-08-06
 slug: "company-rooson-reputation"
 image: "/images/media/company-rooson-reputation.png"
-related: ["business-planning-certification", "industry-jigyo-gaisha-pdm-career-path", "company-waakuman-reputation", "company-workday-reputation"]
+related: ["business-planning-certification", "industry-jigyo-gaisha-pdm-career-path", "company-omuron-reputation", "company-oobiishisutemu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "株式会社ローソン 会社概要（公式）"

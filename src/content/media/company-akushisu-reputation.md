@@ -9,7 +9,7 @@ tags: ["アクシス", "SI", "KITARO", "システム開発", "評判"]
 pubDate: 2026-08-12
 slug: "company-akushisu-reputation"
 image: "/images/media/company-akushisu-reputation.png"
-related: ["product-manager-in-20s", "industry-user-kei-sier-career-path", "company-rakutenmobairu-reputation", "company-rikoojapan-reputation"]
+related: ["product-manager-in-20s", "industry-user-kei-sier-career-path", "company-itooyookadou-reputation", "company-itouchuutekunosoryuushonzu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社アクシス 有価証券報告書 第35期（2025年12月期・2026年3月19日提出）"

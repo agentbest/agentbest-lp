@@ -9,7 +9,7 @@ tags: ["シーイーシー", "座間", "データセンター", "スマートフ
 pubDate: 2026-09-03
 slug: "company-shiiiishii-reputation"
 image: "/images/media/company-shiiiishii-reputation.png"
-related: ["dev-director-career-path", "industry-user-kei-sier-nensyu", "company-konikaminoruta-reputation", "company-konpyuutaamaneejimento-reputation"]
+related: ["dev-director-career-path", "industry-user-kei-sier-nensyu", "company-yuniriiba-japan-reputation", "company-zenrin-reputation"]
 reviewedAt: 2026-09-03
 sources:
   - name: "株式会社シーイーシー 有価証券報告書 第58期（2026年1月期）"

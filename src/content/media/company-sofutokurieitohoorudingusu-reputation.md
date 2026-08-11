@@ -9,7 +9,7 @@ tags: ["ソフトクリエイトホールディングス", "ecbeing", "ECサイ�
 pubDate: 2026-09-05
 slug: "company-sofutokurieitohoorudingusu-reputation"
 image: "/images/media/company-sofutokurieitohoorudingusu-reputation.png"
-related: ["pmo-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-fookasushisutemuzu-reputation", "company-fujitsuu-reputation"]
+related: ["pmo-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-toushibadejitarusoryuushonzu-reputation", "company-toyotajidousha-reputation"]
 reviewedAt: 2026-09-05
 sources:
   - name: "株式会社ソフトクリエイトホールディングス 有価証券報告書 第59期（2026年3月期）"

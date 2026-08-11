@@ -9,7 +9,7 @@ tags: ["アピリッツ", "Web開発", "受託開発", "年収", "評判"]
 pubDate: 2026-08-11
 slug: "company-apirittsu-reputation"
 image: "/images/media/company-apirittsu-reputation.png"
-related: ["product-manager-in-30s", "industry-user-kei-sier-career-path", "company-cij-reputation", "company-daburusutandaado-reputation"]
+related: ["product-manager-in-30s", "industry-user-kei-sier-career-path", "company-risonahoorudingusu-reputation", "company-roomu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アピリッツ 有価証券報告書 第26期（2026年1月期・2026年4月28日提出）"

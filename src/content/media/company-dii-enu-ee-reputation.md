@@ -9,7 +9,7 @@ tags: ["ディー・エヌ・エー", "DeNA", "メガベンチャー", "東証�
 pubDate: 2026-08-14
 slug: "company-dii-enu-ee-reputation"
 image: "/images/media/company-dii-enu-ee-reputation.png"
-related: ["saas-sales-resume", "industry-tsushin-shibou-douki", "job-vc-capitalist-shibou-douki", "company-araya-reputation"]
+related: ["saas-sales-resume", "industry-tsushin-shibou-douki", "job-vc-capitalist-shibou-douki", "job-shanai-se-tenshoku-nanido"]
 reviewedAt: 2026-08-14
 sources:
   - name: "有価証券報告書 第28期（2026年3月期）"

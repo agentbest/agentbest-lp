@@ -9,7 +9,7 @@ tags: ["エムスリー", "m3.com", "医療プラットフォーム", "IFRS", "�
 pubDate: 2026-08-11
 slug: "company-emusurii-reputation"
 image: "/images/media/company-emusurii-reputation.png"
-related: ["industry-saas-startup-nensyu", "industry-mega-venture-nensyu", "job-it-architect-nensyu", "job-keiei-kikaku-nensyu"]
+related: ["industry-saas-startup-nensyu", "industry-mega-venture-nensyu", "job-it-architect-nensyu", "job-inside-sales-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "エムスリー株式会社 有価証券報告書 第26期（2026年3月期・2026年6月25日提出）"

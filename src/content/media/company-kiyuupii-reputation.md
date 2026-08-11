@@ -9,7 +9,7 @@ tags: ["キユーピー", "食品メーカー", "企業研究", "転職", "有�
 pubDate: 2026-08-11
 slug: "company-kiyuupii-reputation"
 image: "/images/media/company-kiyuupii-reputation.png"
-related: ["project-manager-career-path", "industry-user-kei-sier-senkou-flow", "company-sbihoorudingusu-reputation", "company-screenhoorudingusu-reputation"]
+related: ["project-manager-career-path", "industry-user-kei-sier-senkou-flow", "company-jtp-reputation", "company-kadokawa-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "キユーピー株式会社 有価証券報告書 第113期（2025年11月期）"

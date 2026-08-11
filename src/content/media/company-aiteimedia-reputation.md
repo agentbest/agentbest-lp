@@ -9,7 +9,7 @@ tags: ["アイティメディア", "BtoBメディア", "IT", "企業研究", "�
 pubDate: 2026-08-11
 slug: "company-aiteimedia-reputation"
 image: "/images/media/company-aiteimedia-reputation.png"
-related: ["bizdev-how-to-use-agent", "industry-kinyu-it-tenshoku-nanido", "job-cxo-kouho-tenshoku-nanido", "industry-tsushin-tenshoku-nanido"]
+related: ["bizdev-how-to-use-agent", "industry-kinyu-it-tenshoku-nanido", "job-cxo-kouho-tenshoku-nanido", "industry-maker-it-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "アイティメディア株式会社 有価証券報告書 第27期（2026年3月期）"

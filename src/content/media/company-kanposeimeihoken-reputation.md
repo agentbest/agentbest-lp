@@ -9,7 +9,7 @@ tags: ["かんぽ生命保険", "生命保険", "金融", "有価証券報告書
 pubDate: 2026-08-11
 slug: "company-kanposeimeihoken-reputation"
 image: "/images/media/company-kanposeimeihoken-reputation.png"
-related: ["product-manager-failure", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-soniiguruupu-reputation", "company-sonpojapanshisutemuzu-reputation"]
+related: ["product-manager-failure", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-akushisu-reputation", "company-amazon-uebusaabisujapan-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社かんぽ生命保険 有価証券報告書 第20期（2026年3月期）"

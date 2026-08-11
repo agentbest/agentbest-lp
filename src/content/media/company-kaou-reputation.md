@@ -9,7 +9,7 @@ tags: ["花王", "消費財", "化粧品", "ケミカル", "東証プライム"]
 pubDate: 2026-08-09
 slug: "company-kaou-reputation"
 image: "/images/media/company-kaou-reputation.png"
-related: ["business-planning-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-adobe-reputation", "company-adosorunisshin-reputation"]
+related: ["business-planning-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-subaru-2-reputation", "company-sukairaakuhoorudingusu-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "花王株式会社 有価証券報告書 第120期（2025年12月期）"

@@ -9,7 +9,7 @@ tags: ["じげん", "インターネット", "M&A", "企業研究", "有価証�
 pubDate: 2026-08-11
 slug: "company-jigen-reputation"
 image: "/images/media/company-jigen-reputation.png"
-related: ["product-manager-from-scratch", "industry-mega-venture-shibou-douki", "job-it-architect-shibou-douki", "company-asutorosukeeru-reputation"]
+related: ["product-manager-from-scratch", "industry-mega-venture-shibou-douki", "job-it-architect-shibou-douki", "company-aakitekkusu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社じげん 有価証券報告書 第20期（2026年3月期）"

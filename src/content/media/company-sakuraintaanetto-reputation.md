@@ -9,7 +9,7 @@ tags: ["さくらインターネット", "クラウド", "データセンター"
 pubDate: 2026-08-11
 slug: "company-sakuraintaanetto-reputation"
 image: "/images/media/company-sakuraintaanetto-reputation.png"
-related: ["industry-saas-vendor-senkou-flow", "industry-mega-venture-tenshoku-nanido", "job-project-manager-tenshoku-nanido", "job-scrum-master-career-path"]
+related: ["industry-saas-vendor-senkou-flow", "industry-mega-venture-tenshoku-nanido", "job-project-manager-tenshoku-nanido", "job-pe-investment-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "さくらインターネット株式会社 有価証券報告書 第27期（2026年3月期）"

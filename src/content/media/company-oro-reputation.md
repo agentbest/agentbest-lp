@@ -9,7 +9,7 @@ tags: ["オロ", "ZAC", "クラウドERP", "デジタルマーケティング", 
 pubDate: 2026-09-01
 slug: "company-oro-reputation"
 image: "/images/media/company-oro-reputation.png"
-related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-oobikkubijinesukonsarutanto-reputation", "company-oopunguruupu-reputation"]
+related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-ncd-reputation", "company-ncsanda-reputation"]
 reviewedAt: 2026-09-01
 sources:
   - name: "株式会社オロ 有価証券報告書 第28期（2025年12月期）"

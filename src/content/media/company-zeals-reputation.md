@@ -9,7 +9,7 @@ tags: ["Zeals", "チャットコマース", "AI", "スタートアップ", "企�
 pubDate: 2026-08-12
 slug: "company-zeals-reputation"
 image: "/images/media/company-zeals-reputation.png"
-related: ["saas-industry-trend", "industry-mega-venture-nensyu", "job-pre-sales-nensyu", "company-esupuuru-reputation"]
+related: ["saas-industry-trend", "industry-mega-venture-nensyu", "job-pre-sales-nensyu", "company-burijjiwan-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社ZEALS（法人番号 5013301035163）"

@@ -9,7 +9,7 @@ tags: ["エヌジェイホールディングス", "持株会社", "ゲーム", "
 pubDate: 2026-08-11
 slug: "company-enujieihoorudingusu-reputation"
 image: "/images/media/company-enujieihoorudingusu-reputation.png"
-related: ["product-manager-interview", "industry-user-kei-sier-senkou-flow", "company-ekkusunetto-reputation", "company-enkarejji-tekunoroji-reputation"]
+related: ["product-manager-interview", "industry-user-kei-sier-senkou-flow", "company-hikuratesu-reputation", "company-hitachiseisakusho-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エヌジェイホールディングス 有価証券報告書 第34期（2025年6月期・2025年9月24日提出）"

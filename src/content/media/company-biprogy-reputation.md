@@ -9,7 +9,7 @@ tags: ["BIPROGY", "日本ユニシス", "SIer", "プロジェクトマネージ�
 pubDate: 2026-08-05
 slug: "company-biprogy-reputation"
 image: "/images/media/company-biprogy-reputation.png"
-related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-senkou-flow", "company-hitachiseisakusho-reputation", "company-hitachishisutemuzu-reputation"]
+related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-senkou-flow", "company-yuni-chaamu-reputation", "company-yuniriiba-japan-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "BIPROGY 有価証券報告書 第82期（2026年3月期）"

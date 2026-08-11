@@ -9,7 +9,7 @@ tags: ["NTTコムウェア", "NTTドコモソリューションズ", "SIer", "NT
 pubDate: 2026-08-05
 slug: "company-nttkomuuea-reputation"
 image: "/images/media/company-nttkomuuea-reputation.png"
-related: ["pmo-resume", "industry-user-kei-sier-tenshoku-nanido", "company-nesurenippon-reputation", "company-niizuueru-reputation"]
+related: ["pmo-resume", "industry-user-kei-sier-tenshoku-nanido", "company-amazon-uebusaabisujapan-reputation", "company-amazonjapan-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NTTドコモソリューションズ（旧NTTコムウェア）公式サイト 企業概要"

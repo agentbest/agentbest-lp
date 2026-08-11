@@ -9,7 +9,7 @@ tags: ["グローバルウェイ", "キャリコネ", "人材紹介", "DX支援"
 pubDate: 2026-08-13
 slug: "company-guroobaruuei-reputation"
 image: "/images/media/company-guroobaruuei-reputation.png"
-related: ["saas-sales-skills", "industry-mega-venture-shibou-douki", "job-cxo-kouho-shibou-douki", "job-pre-sales-shibou-douki"]
+related: ["saas-sales-skills", "industry-mega-venture-shibou-douki", "job-cxo-kouho-shibou-douki", "job-jigyo-kikaku-senkou-flow"]
 reviewedAt: 2026-08-13
 sources:
   - name: "有価証券報告書 第22期（2026年3月期）"
