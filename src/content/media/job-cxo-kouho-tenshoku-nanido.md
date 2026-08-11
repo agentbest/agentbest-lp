@@ -9,7 +9,7 @@ tags: ["CxO候補", "経営幹部", "転職難易度", "スタートアップ", 
 pubDate: 2026-08-10
 slug: "job-cxo-kouho-tenshoku-nanido"
 image: "/images/media/job-cxo-kouho-tenshoku-nanido.png"
-related: ["saas-sales-english", "job-cxo-kouho-career-path", "job-cxo-kouho-nensyu", "industry-mega-venture-tenshoku-nanido"]
+related: ["bizdev-from-scratch", "job-cxo-kouho-career-path", "job-cxo-kouho-nensyu", "industry-maker-it-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "国税庁 タックスアンサー No.5200 役員の範囲"

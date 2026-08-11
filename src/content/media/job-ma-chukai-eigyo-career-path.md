@@ -9,7 +9,7 @@ tags: ["M&A仲介", "M&A営業", "キャリアパス", "事業承継", "ソー�
 pubDate: 2026-08-10
 slug: "job-ma-chukai-eigyo-career-path"
 image: "/images/media/job-ma-chukai-eigyo-career-path.png"
-related: ["post-consultant-salary-1000", "job-ma-chukai-eigyo-nensyu", "job-ma-chukai-eigyo-senkou-flow", "company-beinkyapitaru-japan-reputation"]
+related: ["post-consultant-salary-1000", "job-ma-chukai-eigyo-nensyu", "job-ma-chukai-eigyo-senkou-flow", "industry-fas-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

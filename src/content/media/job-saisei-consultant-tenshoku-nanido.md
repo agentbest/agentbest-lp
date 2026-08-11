@@ -9,7 +9,7 @@ tags: ["事業再生", "ターンアラウンド", "転職難易度", "未経験
 pubDate: 2026-08-11
 slug: "job-saisei-consultant-tenshoku-nanido"
 image: "/images/media/job-saisei-consultant-tenshoku-nanido.png"
-related: ["fas-consultant-from-scratch", "job-saisei-consultant-career-path", "job-saisei-consultant-nensyu", "company-gca-reputation"]
+related: ["fas-consultant-from-scratch", "job-saisei-consultant-career-path", "job-saisei-consultant-nensyu", "industry-pe-fund-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

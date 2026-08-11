@@ -9,7 +9,7 @@ tags: ["スクラムマスター", "アジャイル", "キャリアパス", "ス
 pubDate: 2026-08-10
 slug: "job-scrum-master-career-path"
 image: "/images/media/job-scrum-master-career-path.png"
-related: ["customer-success-how-to-use-agent", "job-scrum-master-nensyu", "job-scrum-master-senkou-flow", "industry-mega-venture-nensyu"]
+related: ["product-manager-in-30s", "job-scrum-master-nensyu", "job-scrum-master-senkou-flow", "industry-tsushin-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

@@ -9,7 +9,7 @@ tags: ["金融IT", "フィンテック", "志望動機", "職務経歴書", "資
 pubDate: 2026-08-11
 slug: "industry-kinyu-it-shibou-douki"
 image: "/images/media/industry-kinyu-it-shibou-douki.png"
-related: ["product-manager-motivation", "industry-kinyu-it-career-path", "industry-kinyu-it-nensyu", "job-scrum-master-tenshoku-nanido"]
+related: ["saas-industry-trend", "industry-kinyu-it-career-path", "industry-kinyu-it-nensyu", "job-scrum-master-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 資金決済に関する法律 第36条の2（資金移動業の種別）"

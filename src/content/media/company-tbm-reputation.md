@@ -9,7 +9,7 @@ tags: ["TBM", "LIMEX", "素材", "サーキュラーエコノミー", "非上場
 pubDate: 2026-08-11
 slug: "company-tbm-reputation"
 image: "/images/media/company-tbm-reputation.png"
-related: ["saas-sales-certification", "industry-mega-venture-nensyu", "job-dx-suishin-nensyu", "job-it-architect-nensyu"]
+related: ["customer-success-work-style", "industry-mega-venture-nensyu", "job-dx-suishin-nensyu", "company-merukari-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社TBM 会社概要"

@@ -9,7 +9,7 @@ tags: ["NECソリューションイノベータ", "NEC", "SIer", "吸収合併",
 pubDate: 2026-08-05
 slug: "company-necsoryuushon-inobeeta-reputation"
 image: "/images/media/company-necsoryuushon-inobeeta-reputation.png"
-related: ["project-manager-motivation", "industry-jigyo-gaisha-pdm-senkou-flow", "company-ubsshouken-reputation", "company-uubun-bai-toyota-reputation"]
+related: ["project-manager-motivation", "industry-user-kei-sier-senkou-flow", "company-mitsuisumitomoshintakuginkou-reputation", "company-mizuhofinansharuguruupu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NEC「完全子会社（NECソリューションイノベータ株式会社）の吸収合併に関するお知らせ」（2026年7月1日）"

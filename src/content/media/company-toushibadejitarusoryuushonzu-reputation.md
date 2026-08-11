@@ -9,7 +9,7 @@ tags: ["東芝デジタルソリューションズ", "SIer", "東芝", "吸収�
 pubDate: 2026-08-09
 slug: "company-toushibadejitarusoryuushonzu-reputation"
 image: "/images/media/company-toushibadejitarusoryuushonzu-reputation.png"
-related: ["dev-director-company-size", "industry-jigyo-gaisha-pdm-nensyu", "company-nissanjidousha-reputation", "company-nitorihoorudingusu-reputation"]
+related: ["dev-director-company-size", "industry-jigyo-gaisha-pdm-nensyu", "company-waakuman-reputation", "company-workday-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "東芝デジタルソリューションズ株式会社の当社への統合について（2025年9月2日）"

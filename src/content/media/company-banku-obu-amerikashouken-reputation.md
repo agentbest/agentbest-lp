@@ -9,7 +9,7 @@ tags: ["バンク・オブ・アメリカ証券", "BofA証券", "外資系証券
 pubDate: 2026-08-06
 slug: "company-banku-obu-amerikashouken-reputation"
 image: "/images/media/company-banku-obu-amerikashouken-reputation.png"
-related: ["ma-advisor-motivation", "job-ma-advisor-shibou-douki", "company-fronteo-reputation", "company-fundbook-reputation"]
+related: ["ma-advisor-motivation", "industry-ibd-shibou-douki", "job-ma-advisor-shibou-douki", "company-doitsushouken-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "BofA証券株式会社 業務及び財産の状況に関する説明書 2025年12月期"

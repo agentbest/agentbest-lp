@@ -9,7 +9,7 @@ tags: ["キューブシステム", "野村総合研究所", "システムソリ�
 pubDate: 2026-09-02
 slug: "company-kyuubushisutemu-reputation"
 image: "/images/media/company-kyuubushisutemu-reputation.png"
-related: ["dev-director-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-nttnishinihon-reputation", "company-ntttekunokurosu-reputation"]
+related: ["dev-director-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-neojapan-reputation", "company-nesurenippon-reputation"]
 reviewedAt: 2026-09-02
 sources:
   - name: "株式会社キューブシステム 有価証券報告書 第54期（2026年3月期）"

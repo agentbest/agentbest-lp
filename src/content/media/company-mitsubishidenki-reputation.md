@@ -9,7 +9,7 @@ tags: ["三菱電機", "メーカー", "FA", "重電", "東証プライム"]
 pubDate: 2026-08-06
 slug: "company-mitsubishidenki-reputation"
 image: "/images/media/company-mitsubishidenki-reputation.png"
-related: ["project-manager-in-30s", "industry-jigyo-gaisha-pdm-career-path", "company-nttdeeta-reputation", "company-nttdeetaguruupu-reputation"]
+related: ["project-manager-in-30s", "industry-jigyo-gaisha-pdm-career-path", "company-fig-reputation", "company-fujitsuu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "三菱電機株式会社 有価証券報告書 第155期（2026年3月期）"

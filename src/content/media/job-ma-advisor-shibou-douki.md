@@ -9,7 +9,7 @@ tags: ["M&Aアドバイザー", "FA", "志望動機", "職務経歴書", "転職
 pubDate: 2026-08-11
 slug: "job-ma-advisor-shibou-douki"
 image: "/images/media/job-ma-advisor-shibou-douki.png"
-related: ["fas-consultant-salary-1000", "job-ma-advisor-career-path", "job-ma-advisor-nensyu", "company-subaru-reputation"]
+related: ["fas-consultant-salary-1000", "job-ma-advisor-career-path", "job-ma-advisor-nensyu", "industry-jigyo-saisei-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

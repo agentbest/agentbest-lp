@@ -9,7 +9,7 @@ tags: ["社内SE", "情報システム部門", "キャリアパス", "スター�
 pubDate: 2026-08-10
 slug: "job-shanai-se-career-path"
 image: "/images/media/job-shanai-se-career-path.png"
-related: ["bizdev-skills", "job-shanai-se-nensyu", "job-shanai-se-senkou-flow", "industry-mega-venture-tenshoku-nanido"]
+related: ["saas-industry-career", "job-shanai-se-nensyu", "job-shanai-se-senkou-flow", "industry-mega-venture-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／運用・管理（IT）"

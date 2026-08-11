@@ -9,7 +9,7 @@ tags: ["通信キャリア", "志望動機", "職務経歴書", "電気通信事
 pubDate: 2026-08-11
 slug: "industry-tsushin-shibou-douki"
 image: "/images/media/industry-tsushin-shibou-douki.png"
-related: ["bizdev-motivation", "industry-tsushin-career-path", "industry-tsushin-nensyu", "job-inside-sales-career-path"]
+related: ["customer-success-in-20s", "industry-tsushin-career-path", "industry-tsushin-nensyu", "job-inside-sales-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 電気通信事業法 第26条（提供条件の説明）"

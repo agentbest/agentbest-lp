@@ -9,7 +9,7 @@ tags: ["スクラムマスター", "志望動機", "アジャイル", "職務経
 pubDate: 2026-08-10
 slug: "job-scrum-master-shibou-douki"
 image: "/images/media/job-scrum-master-shibou-douki.png"
-related: ["saas-sales-from-scratch", "job-scrum-master-career-path", "job-scrum-master-nensyu", "industry-mega-venture-nensyu"]
+related: ["bizdev-how-to-use-agent", "job-scrum-master-career-path", "job-scrum-master-nensyu", "industry-mega-venture-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

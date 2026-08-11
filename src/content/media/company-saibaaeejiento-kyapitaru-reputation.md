@@ -9,7 +9,7 @@ tags: ["サイバーエージェント・キャピタル", "サイバーエー�
 pubDate: 2026-08-26
 slug: "company-saibaaeejiento-kyapitaru-reputation"
 image: "/images/media/company-saibaaeejiento-kyapitaru-reputation.png"
-related: ["fas-consultant-work-style", "job-saisei-consultant-tenshoku-nanido", "company-toranbi-reputation", "company-ub-ventures-reputation"]
+related: ["fas-consultant-work-style", "industry-pe-fund-tenshoku-nanido", "job-saisei-consultant-tenshoku-nanido", "company-spiral-capital-reputation"]
 reviewedAt: 2026-08-26
 sources:
   - name: "株式会社サイバーエージェント 有価証券報告書 第28期（2025年9月期）"

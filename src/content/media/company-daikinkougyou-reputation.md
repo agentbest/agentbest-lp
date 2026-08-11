@@ -9,7 +9,7 @@ tags: ["ダイキン工業", "空調", "メーカー", "グローバル", "東�
 pubDate: 2026-08-06
 slug: "company-daikinkougyou-reputation"
 image: "/images/media/company-daikinkougyou-reputation.png"
-related: ["corporate-planning-future", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-kyousera-reputation", "company-manekkusuguruupu-reputation"]
+related: ["corporate-planning-future", "industry-user-kei-sier-tenshoku-nanido", "company-jbcchoorudingusu-reputation", "company-jcb-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ダイキン工業株式会社 有価証券報告書 第123期（2026年3月期）"

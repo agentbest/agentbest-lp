@@ -9,7 +9,7 @@ tags: ["カスタマーサクセス", "志望動機", "職務経歴書", "SaaS",
 pubDate: 2026-08-10
 slug: "job-customer-success-shibou-douki"
 image: "/images/media/job-customer-success-shibou-douki.png"
-related: ["saas-sales-company-size", "job-customer-success-career-path", "job-customer-success-nensyu", "industry-mega-venture-shibou-douki"]
+related: ["saas-industry-trend", "job-customer-success-career-path", "job-customer-success-nensyu", "industry-maker-it-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ヘルプデスク（IT）"

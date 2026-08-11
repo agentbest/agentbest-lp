@@ -9,7 +9,7 @@ tags: ["製造業DX", "メーカーIT", "転職難易度", "営業秘密", "生�
 pubDate: 2026-08-11
 slug: "industry-maker-it-tenshoku-nanido"
 image: "/images/media/industry-maker-it-tenshoku-nanido.png"
-related: ["saas-sales-salary-600", "industry-maker-it-career-path", "industry-maker-it-nensyu", "job-cxo-kouho-nensyu"]
+related: ["saas-sales-market-trend", "industry-maker-it-career-path", "industry-maker-it-nensyu", "job-cxo-kouho-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 不正競争防止法 第2条第6項（営業秘密の定義）"

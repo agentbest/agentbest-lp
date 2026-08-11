@@ -9,7 +9,7 @@ tags: ["バークレイズ証券", "外資系証券", "投資銀行", "エクイ
 pubDate: 2026-08-04
 slug: "company-baakureizushouken-reputation"
 image: "/images/media/company-baakureizushouken-reputation.png"
-related: ["ma-advisor-how-to-use-agent", "job-ma-advisor-shibou-douki", "job-ma-advisor-tenshoku-nanido", "job-ma-chukai-eigyo-career-path"]
+related: ["ma-advisor-how-to-use-agent", "industry-ibd-shibou-douki", "job-ma-advisor-shibou-douki", "company-mandakyapitarupaatonaazu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "バークレイズ証券株式会社「業務及び財産の状況に関する説明書」2025年12月期（金融商品取引法第46条の4）"

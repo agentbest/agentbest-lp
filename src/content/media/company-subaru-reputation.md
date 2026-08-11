@@ -9,7 +9,7 @@ tags: ["すばる", "M&A DX", "M&A仲介", "事業承継", "経営再建"]
 pubDate: 2026-08-04
 slug: "company-subaru-reputation"
 image: "/images/media/company-subaru-reputation.png"
-related: ["ma-advisor-salary-1000", "job-ma-advisor-nensyu", "company-mandasakushiido-reputation", "company-mandasougoukenkyuusho-reputation"]
+related: ["ma-advisor-salary-1000", "industry-pe-fund-nensyu", "job-ma-advisor-nensyu", "job-fas-analyst-nensyu"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社M&A DX「株式会社fonfunとの資本提携及び経営体制刷新に関するお知らせ」（2025年7月8日）"

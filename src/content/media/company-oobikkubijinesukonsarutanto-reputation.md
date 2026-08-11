@@ -9,7 +9,7 @@ tags: ["オービックビジネスコンサルタント", "OBC", "奉行シリ�
 pubDate: 2026-09-01
 slug: "company-oobikkubijinesukonsarutanto-reputation"
 image: "/images/media/company-oobikkubijinesukonsarutanto-reputation.png"
-related: ["business-planning-company-size", "industry-jigyo-gaisha-pdm-senkou-flow", "company-ryouhinkeikaku-reputation", "company-santoriihoorudingusu-reputation"]
+related: ["business-planning-company-size", "industry-jigyo-gaisha-pdm-senkou-flow", "company-fujitsuujapan-reputation", "company-goorudoman-sakkusushouken-reputation"]
 reviewedAt: 2026-09-01
 sources:
   - name: "株式会社オービックビジネスコンサルタント 有価証券報告書 第47期（2026年3月期）"

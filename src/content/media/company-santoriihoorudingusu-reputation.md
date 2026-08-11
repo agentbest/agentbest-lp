@@ -9,7 +9,7 @@ tags: ["サントリーホールディングス", "サントリー", "飲料", "
 pubDate: 2026-08-06
 slug: "company-santoriihoorudingusu-reputation"
 image: "/images/media/company-santoriihoorudingusu-reputation.png"
-related: ["project-manager-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-cac-holdings-reputation", "company-cij-reputation"]
+related: ["project-manager-career-guide", "industry-user-kei-sier-career-path", "company-tdcsofuto-reputation", "company-tdk-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "サントリーホールディングス 企業概要"

@@ -9,7 +9,7 @@ tags: ["primeNumber", "データ基盤", "スタートアップ", "企業研究"
 pubDate: 2026-08-11
 slug: "company-primenumber-reputation"
 image: "/images/media/company-primenumber-reputation.png"
-related: ["saas-industry-career", "industry-tsushin-shibou-douki", "job-scrum-master-shibou-douki", "company-andopaddo-reputation"]
+related: ["saas-industry-career", "industry-tsushin-shibou-douki", "job-scrum-master-shibou-douki", "industry-tsushin-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "gBizINFO（経済産業省）／株式会社primeNumber（法人番号 4020001113695）"

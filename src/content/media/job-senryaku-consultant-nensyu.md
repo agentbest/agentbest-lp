@@ -9,7 +9,7 @@ tags: ["戦略コンサルタント", "年収", "報酬体系", "コンサル転
 pubDate: 2026-08-02
 slug: "job-senryaku-consultant-nensyu"
 image: "/images/media/job-senryaku-consultant-nensyu.png"
-related: ["job-it-consultant-career-path", "job-senryaku-consultant-career-path", "job-senryaku-consultant-senkou-flow", "industry-senryaku-consul-career-path"]
+related: ["business-consultant-future", "job-senryaku-consultant-career-path", "job-senryaku-consultant-senkou-flow", "industry-senryaku-consul-career-path"]
 reviewedAt: 2026-08-02
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／経営コンサルタント（令和7年賃金構造基本統計調査）"

@@ -9,7 +9,7 @@ tags: ["キーエンス", "FA", "センサ", "メーカー", "東証プライム
 pubDate: 2026-08-05
 slug: "company-kiiensu-reputation"
 image: "/images/media/company-kiiensu-reputation.png"
-related: ["product-manager-interview", "industry-jigyo-gaisha-pdm-shibou-douki", "company-mitsubishiufjshintakuginkou-reputation", "company-mitsuijouhou-reputation"]
+related: ["product-manager-interview", "industry-user-kei-sier-shibou-douki", "company-kirinhoorudingusu-reputation", "company-kiyanonitsoryuushonzu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "キーエンス 有価証券報告書 第57期（2026年3月期）"

@@ -9,7 +9,7 @@ tags: ["金融IT", "フィンテック", "転職難易度", "資金移動業", "
 pubDate: 2026-08-11
 slug: "industry-kinyu-it-tenshoku-nanido"
 image: "/images/media/industry-kinyu-it-tenshoku-nanido.png"
-related: ["customer-success-in-20s", "industry-kinyu-it-career-path", "industry-kinyu-it-nensyu", "job-it-architect-shibou-douki"]
+related: ["customer-success-failure", "industry-kinyu-it-career-path", "industry-kinyu-it-nensyu", "job-it-architect-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 資金決済に関する法律 第36条の2（資金移動業の種別）"

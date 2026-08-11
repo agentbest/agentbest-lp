@@ -9,7 +9,7 @@ tags: ["LINEヤフー", "メガベンチャー", "インターネット", "IT", 
 pubDate: 2026-08-09
 slug: "company-lineyafuu-reputation"
 image: "/images/media/company-lineyafuu-reputation.png"
-related: ["customer-success-certification", "industry-mega-venture-nensyu", "job-jigyo-kikaku-nensyu", "company-ookunetto-reputation"]
+related: ["industry-saas-startup-shibou-douki", "industry-maker-it-nensyu", "job-jigyo-kikaku-nensyu", "industry-maker-it-senkou-flow"]
 reviewedAt: 2026-08-09
 sources:
   - name: "LINEヤフー株式会社 有価証券報告書 第31期（2026年3月期）"

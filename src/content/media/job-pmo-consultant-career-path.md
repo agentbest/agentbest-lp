@@ -9,7 +9,7 @@ tags: ["PMO", "プロジェクトマネジメント", "キャリアパス", "IT�
 pubDate: 2026-08-11
 slug: "job-pmo-consultant-career-path"
 image: "/images/media/job-pmo-consultant-career-path.png"
-related: ["thinktank-career-path", "job-pmo-consultant-nensyu", "job-pmo-consultant-senkou-flow", "industry-senryaku-consul-nensyu"]
+related: ["industry-chusho-consul-shibou-douki", "job-pmo-consultant-nensyu", "job-pmo-consultant-senkou-flow", "industry-gyokai-tokka-consul-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ITコンサルタント"

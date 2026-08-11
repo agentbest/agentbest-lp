@@ -9,7 +9,7 @@ tags: ["estie", "不動産DX", "SaaS", "スタートアップ", "非上場"]
 pubDate: 2026-08-11
 slug: "company-estie-reputation"
 image: "/images/media/company-estie-reputation.png"
-related: ["customer-success-certification", "industry-mega-venture-nensyu", "job-pe-investment-nensyu", "company-mediaeido-reputation"]
+related: ["product-manager-work-style", "industry-maker-it-nensyu", "job-pe-investment-nensyu", "company-rakutenguruupu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社estie 会社情報"

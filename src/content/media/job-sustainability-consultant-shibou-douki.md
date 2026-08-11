@@ -9,7 +9,7 @@ tags: ["サステナビリティ", "コンサルタント", "志望動機", "職
 pubDate: 2026-08-11
 slug: "job-sustainability-consultant-shibou-douki"
 image: "/images/media/job-sustainability-consultant-shibou-douki.png"
-related: ["job-it-consultant-tenshoku-nanido", "job-sustainability-consultant-career-path", "job-sustainability-consultant-nensyu", "industry-senryaku-consul-tenshoku-nanido"]
+related: ["business-consultant-resume", "job-sustainability-consultant-career-path", "job-sustainability-consultant-nensyu", "industry-senryaku-consul-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／経営コンサルタント"

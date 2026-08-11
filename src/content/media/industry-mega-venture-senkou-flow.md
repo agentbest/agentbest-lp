@@ -9,7 +9,7 @@ tags: ["メガベンチャー", "選考フロー", "面接対策", "カジュア
 pubDate: 2026-08-11
 slug: "industry-mega-venture-senkou-flow"
 image: "/images/media/industry-mega-venture-senkou-flow.png"
-related: ["customer-success-certification", "industry-mega-venture-career-path", "industry-mega-venture-nensyu", "job-inside-sales-nensyu"]
+related: ["bizdev-skills", "industry-mega-venture-career-path", "industry-mega-venture-nensyu", "job-inside-sales-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "金融庁 企業内容等の開示に関する内閣府令等改正の解説"

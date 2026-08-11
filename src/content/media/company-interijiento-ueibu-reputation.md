@@ -9,7 +9,7 @@ tags: ["インテリジェント ウェイブ", "決済", "クレジットカー
 pubDate: 2026-09-01
 slug: "company-interijiento-ueibu-reputation"
 image: "/images/media/company-interijiento-ueibu-reputation.png"
-related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-nensyu", "company-nipponrorearu-reputation", "company-nipponseisakutoushiginkou-reputation"]
+related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-nensyu", "company-mitsubishiufjinfomeeshontekunorojii-reputation", "company-mitsubishiufjshintakuginkou-reputation"]
 reviewedAt: 2026-09-01
 sources:
   - name: "株式会社インテリジェント ウェイブ 有価証券報告書 第42期（2025年6月期）"

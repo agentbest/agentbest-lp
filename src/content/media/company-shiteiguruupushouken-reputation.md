@@ -9,7 +9,7 @@ tags: ["シティグループ証券", "外資系証券", "投資銀行", "エク
 pubDate: 2026-08-04
 slug: "company-shiteiguruupushouken-reputation"
 image: "/images/media/company-shiteiguruupushouken-reputation.png"
-related: ["post-consultant-interview", "job-saisei-consultant-nensyu", "company-wil-reputation", "company-xtech-ventures-reputation"]
+related: ["post-consultant-interview", "industry-jigyo-shokei-nensyu", "job-saisei-consultant-nensyu", "company-jieneshia-benchaazu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "シティグループ証券株式会社「業務及び財産の状況に関する説明書」2025年12月期（金融商品取引法第46条の4）"

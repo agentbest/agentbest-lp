@@ -9,7 +9,7 @@ tags: ["ネスレ日本", "消費財", "食品", "外資系", "非上場"]
 pubDate: 2026-08-06
 slug: "company-nesurenippon-reputation"
 image: "/images/media/company-nesurenippon-reputation.png"
-related: ["dev-director-motivation", "industry-jigyo-gaisha-pdm-nensyu", "company-shimazuseisakusho-reputation", "company-shiseidou-reputation"]
+related: ["dev-director-motivation", "industry-user-kei-sier-nensyu", "company-tdk-reputation", "company-tekumatorikkusu-reputation"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ネスレ日本 会社概要（公式）"

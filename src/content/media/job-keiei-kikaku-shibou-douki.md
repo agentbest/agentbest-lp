@@ -9,7 +9,7 @@ tags: ["経営企画", "志望動機", "職務経歴書", "上場準備", "転�
 pubDate: 2026-08-10
 slug: "job-keiei-kikaku-shibou-douki"
 image: "/images/media/job-keiei-kikaku-shibou-douki.png"
-related: ["customer-success-how-to-use-agent", "job-keiei-kikaku-career-path", "job-keiei-kikaku-nensyu", "industry-mega-venture-tenshoku-nanido"]
+related: ["product-manager-failure", "job-keiei-kikaku-career-path", "job-keiei-kikaku-nensyu", "industry-kinyu-it-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／IR広報担当"

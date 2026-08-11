@@ -9,7 +9,7 @@ tags: ["アイティフォー", "ITFOR", "リカーリング", "自治体BPO", "
 pubDate: 2026-08-30
 slug: "company-aiteifoo-reputation"
 image: "/images/media/company-aiteifoo-reputation.png"
-related: ["dev-director-work-style", "industry-jigyo-gaisha-pdm-nensyu", "company-yamadahoorudingusu-reputation", "company-yasukawadenki-reputation"]
+related: ["dev-director-work-style", "industry-user-kei-sier-nensyu", "company-screenhoorudingusu-reputation", "company-scsk-reputation"]
 reviewedAt: 2026-08-30
 sources:
   - name: "株式会社アイティフォー 有価証券報告書 第67期（2026年3月期）"

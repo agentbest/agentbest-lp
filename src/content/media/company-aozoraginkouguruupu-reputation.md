@@ -9,7 +9,7 @@ tags: ["あおぞら銀行", "銀行", "M&Aアドバイザリー", "東証プラ
 pubDate: 2026-08-04
 slug: "company-aozoraginkouguruupu-reputation"
 image: "/images/media/company-aozoraginkouguruupu-reputation.png"
-related: ["ma-advisor-salary", "job-ma-chukai-eigyo-career-path", "company-rosuchairudoandkanpanii-reputation", "company-saibaaeejiento-kyapitaru-reputation"]
+related: ["ma-advisor-salary", "industry-fas-career-path", "job-ma-chukai-eigyo-career-path", "company-nsskguruupu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社あおぞら銀行 有価証券報告書 第93期（2025年4月1日〜2026年3月31日、2026年6月17日提出）"

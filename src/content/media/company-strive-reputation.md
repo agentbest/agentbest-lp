@@ -9,7 +9,7 @@ tags: ["STRIVE", "グリーベンチャーズ", "ベンチャーキャピタル"
 pubDate: 2026-08-24
 slug: "company-strive-reputation"
 image: "/images/media/company-strive-reputation.png"
-related: ["post-consultant-certification", "job-saisei-consultant-senkou-flow", "company-ondekku-reputation", "company-peakyapitaru-reputation"]
+related: ["post-consultant-certification", "industry-ibd-senkou-flow", "job-saisei-consultant-senkou-flow", "job-ma-chukai-eigyo-senkou-flow"]
 reviewedAt: 2026-08-24
 sources:
   - name: "グリーベンチャーズ株式会社 プレスリリース「新ファンド『STRIVE』を設立、150億円を運用しアーリーステージのスタートアップを支援」（2019年5月14日）"

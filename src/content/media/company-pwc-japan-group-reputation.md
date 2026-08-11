@@ -9,7 +9,7 @@ tags: ["コンサル", "Big4", "PwC", "企業研究", "転職"]
 pubDate: 2026-08-02
 slug: "company-pwc-japan-group-reputation"
 image: "/images/media/company-pwc-japan-group-reputation.png"
-related: ["thinktank-salary-600", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-accenture-japan-reputation"]
+related: ["business-consultant-future", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "industry-senryaku-consul-nensyu"]
 reviewedAt: 2026-08-02
 sources:
   - name: "PwC Japanグループ（about us）"

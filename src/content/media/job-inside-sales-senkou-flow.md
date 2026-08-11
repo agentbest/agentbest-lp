@@ -9,7 +9,7 @@ tags: ["インサイドセールス", "選考フロー", "面接対策", "ロー
 pubDate: 2026-08-10
 slug: "job-inside-sales-senkou-flow"
 image: "/images/media/job-inside-sales-senkou-flow.png"
-related: ["industry-saas-startup-career-path", "job-inside-sales-career-path", "job-inside-sales-nensyu", "industry-mega-venture-shibou-douki"]
+related: ["saas-industry-guide", "job-inside-sales-career-path", "job-inside-sales-nensyu", "industry-maker-it-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

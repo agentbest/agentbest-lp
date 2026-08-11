@@ -9,7 +9,7 @@ tags: ["プルータス・コンサルティング", "企業価値評価", "バ�
 pubDate: 2026-08-04
 slug: "company-puruutasu-konsaruteingu-reputation"
 image: "/images/media/company-puruutasu-konsaruteingu-reputation.png"
-related: ["fas-consultant-skills", "job-saisei-consultant-shibou-douki", "company-t-kyapitarupaatonaazu-reputation", "company-toranbi-reputation"]
+related: ["fas-consultant-skills", "industry-pe-fund-shibou-douki", "job-saisei-consultant-shibou-douki", "company-shiteiguruupushouken-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社プルータス・コンサルティング 会社概要"

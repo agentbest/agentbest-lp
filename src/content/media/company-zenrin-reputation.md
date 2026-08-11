@@ -9,7 +9,7 @@ tags: ["ゼンリン", "住宅地図", "位置情報", "北九州", "ZGP2030"]
 pubDate: 2026-09-04
 slug: "company-zenrin-reputation"
 image: "/images/media/company-zenrin-reputation.png"
-related: ["project-manager-market-trend", "industry-jigyo-gaisha-pdm-career-path", "company-amazon-uebusaabisujapan-reputation", "company-amazonjapan-reputation"]
+related: ["project-manager-market-trend", "industry-jigyo-gaisha-pdm-career-path", "company-tkc-reputation", "company-toransu-kosumosu-reputation"]
 reviewedAt: 2026-09-04
 sources:
   - name: "株式会社ゼンリン 有価証券報告書 第66期（2026年3月期）"

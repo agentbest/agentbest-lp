@@ -9,7 +9,7 @@ tags: ["マクロミル", "マーケティングリサーチ", "非公開化", "
 pubDate: 2026-08-21
 slug: "company-makuromiru-reputation"
 image: "/images/media/company-makuromiru-reputation.png"
-related: ["dx-consultant-company-size", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "company-guroobingu-reputation"]
+related: ["strategy-consultant-in-30s", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "company-funaisoukenhoorudingusu-reputation"]
 reviewedAt: 2026-08-21
 sources:
   - name: "有価証券報告書 第11期（2024年6月期）"

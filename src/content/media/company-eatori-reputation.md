@@ -9,7 +9,7 @@ tags: ["エアトリ", "OTA", "オンライン旅行", "ITオフショア開発"
 pubDate: 2026-08-11
 slug: "company-eatori-reputation"
 image: "/images/media/company-eatori-reputation.png"
-related: ["saas-sales-future", "industry-mega-venture-senkou-flow", "job-project-manager-senkou-flow", "job-field-sales-senkou-flow"]
+related: ["saas-sales-future", "industry-mega-venture-senkou-flow", "job-project-manager-senkou-flow", "job-pe-investment-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エアトリ 有価証券報告書 第19期（2025年9月期）"

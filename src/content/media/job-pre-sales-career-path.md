@@ -9,7 +9,7 @@ tags: ["プリセールス", "セールスエンジニア", "キャリアパス"
 pubDate: 2026-08-10
 slug: "job-pre-sales-career-path"
 image: "/images/media/job-pre-sales-career-path.png"
-related: ["customer-success-salary-600", "job-pre-sales-nensyu", "job-pre-sales-senkou-flow", "industry-mega-venture-shibou-douki"]
+related: ["saas-sales-resume", "job-pre-sales-nensyu", "job-pre-sales-senkou-flow", "industry-mega-venture-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／システムエンジニア（基盤システム）"

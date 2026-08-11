@@ -9,7 +9,7 @@ tags: ["りそなホールディングス", "銀行", "金融", "持株会社", 
 pubDate: 2026-08-05
 slug: "company-risonahoorudingusu-reputation"
 image: "/images/media/company-risonahoorudingusu-reputation.png"
-related: ["project-manager-salary-600", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-shift-reputation", "company-shimamura-reputation"]
+related: ["project-manager-salary-600", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-sun-asterisk-reputation", "company-tdcsofuto-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "りそなホールディングス 有価証券報告書 第25期（2026年3月期）"

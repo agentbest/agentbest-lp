@@ -9,7 +9,7 @@ tags: ["事業会社", "プロダクト開発", "選考フロー", "面接対策
 pubDate: 2026-08-11
 slug: "industry-jigyo-gaisha-pdm-senkou-flow"
 image: "/images/media/industry-jigyo-gaisha-pdm-senkou-flow.png"
-related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu", "company-ajinomoto-reputation"]
+related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu", "company-nttdokomo-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "IPA プレス発表 デジタルスキル標準ver.2.0を公開（2026年4月16日）"

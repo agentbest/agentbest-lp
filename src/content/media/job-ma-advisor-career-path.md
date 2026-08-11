@@ -9,7 +9,7 @@ tags: ["M&Aアドバイザー", "FA", "キャリアパス", "公開買付制度"
 pubDate: 2026-08-11
 slug: "job-ma-advisor-career-path"
 image: "/images/media/job-ma-advisor-career-path.png"
-related: ["ma-advisor-interview", "job-ma-advisor-nensyu", "job-ma-advisor-senkou-flow", "company-bnpparibashouken-reputation"]
+related: ["ma-advisor-interview", "job-ma-advisor-nensyu", "job-ma-advisor-senkou-flow", "industry-pe-fund-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

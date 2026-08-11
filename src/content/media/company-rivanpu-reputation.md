@@ -9,7 +9,7 @@ tags: ["リヴァンプ", "フューチャー", "経営支援", "事業再生", 
 pubDate: 2026-08-27
 slug: "company-rivanpu-reputation"
 image: "/images/media/company-rivanpu-reputation.png"
-related: ["fas-consultant-career-path", "job-fas-analyst-nensyu", "company-saibaaeejiento-kyapitaru-reputation", "company-sbiinbesutomento-reputation"]
+related: ["fas-consultant-career-path", "industry-ma-chukai-nensyu", "job-fas-analyst-nensyu", "industry-ma-chukai-senkou-flow"]
 reviewedAt: 2026-08-27
 sources:
   - name: "フューチャー株式会社 有価証券報告書 第37期（2025年12月期）"

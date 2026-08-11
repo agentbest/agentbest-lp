@@ -9,7 +9,7 @@ tags: ["M&Aベストパートナーズ", "M&A仲介", "事業承継", "業界特
 pubDate: 2026-08-04
 slug: "company-mandabesutopaatonaazu-reputation"
 image: "/images/media/company-mandabesutopaatonaazu-reputation.png"
-related: ["finance-in-30s", "job-saisei-consultant-career-path", "company-east-ventures-reputation", "company-ebakoa-reputation"]
+related: ["finance-in-30s", "industry-pe-fund-career-path", "job-saisei-consultant-career-path", "company-ub-ventures-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "株式会社M&Aベストパートナーズ 会社案内"

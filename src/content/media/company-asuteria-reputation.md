@@ -9,7 +9,7 @@ tags: ["アステリア", "ASTERIA Warp", "データ連携", "ノーコード", 
 pubDate: 2026-08-31
 slug: "company-asuteria-reputation"
 image: "/images/media/company-asuteria-reputation.png"
-related: ["pmo-motivation", "industry-jigyo-gaisha-pdm-career-path", "company-ai-esu-bii-reputation", "company-ainesu-reputation"]
+related: ["pmo-motivation", "industry-jigyo-gaisha-pdm-career-path", "company-shiseidou-reputation", "company-shiseidoujapan-reputation"]
 reviewedAt: 2026-08-31
 sources:
   - name: "アステリア株式会社 有価証券報告書 第28期（2026年3月期）"

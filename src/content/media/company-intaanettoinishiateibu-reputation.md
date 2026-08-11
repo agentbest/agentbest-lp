@@ -9,7 +9,7 @@ tags: ["IIJ", "インターネットイニシアティブ", "ISP", "MVNO", "ネ�
 pubDate: 2026-08-31
 slug: "company-intaanettoinishiateibu-reputation"
 image: "/images/media/company-intaanettoinishiateibu-reputation.png"
-related: ["corporate-planning-career-path", "industry-jigyo-gaisha-pdm-career-path", "company-asuteria-reputation", "company-aukabukomushouken-reputation"]
+related: ["corporate-planning-career-path", "industry-user-kei-sier-career-path", "company-ntthigashinihon-reputation", "company-nttkomuuea-reputation"]
 reviewedAt: 2026-08-31
 sources:
   - name: "株式会社インターネットイニシアティブ 有価証券報告書 第34期（2026年3月期）"

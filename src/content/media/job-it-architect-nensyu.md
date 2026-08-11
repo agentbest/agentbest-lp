@@ -9,7 +9,7 @@ tags: ["ITアーキテクト", "年収相場", "賃金構造基本統計調査",
 pubDate: 2026-08-10
 slug: "job-it-architect-nensyu"
 image: "/images/media/job-it-architect-nensyu.png"
-related: ["bizdev-how-to-use-agent", "job-it-architect-career-path", "job-it-architect-senkou-flow", "industry-mega-venture-nensyu"]
+related: ["product-manager-salary", "job-it-architect-career-path", "job-it-architect-senkou-flow", "industry-tsushin-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／システムエンジニア（基盤システム）"

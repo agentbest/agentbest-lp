@@ -9,7 +9,7 @@ tags: ["投資銀行", "アナリスト", "年収相場", "賞与", "金融"]
 pubDate: 2026-08-11
 slug: "job-ibd-analyst-nensyu"
 image: "/images/media/job-ibd-analyst-nensyu.png"
-related: ["saas-sales-in-30s", "job-ibd-analyst-career-path", "job-ibd-analyst-senkou-flow", "industry-mega-venture-nensyu"]
+related: ["product-manager-company-size", "job-ibd-analyst-career-path", "job-ibd-analyst-senkou-flow", "industry-mega-venture-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／証券アナリスト"

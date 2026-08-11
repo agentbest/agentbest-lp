@@ -9,7 +9,7 @@ tags: ["三菱UFJモルガン・スタンレー証券", "投資銀行", "IBD", "
 pubDate: 2026-08-04
 slug: "company-mitsubishiufjmorugan-sutanreeshouken-reputation"
 image: "/images/media/company-mitsubishiufjmorugan-sutanreeshouken-reputation.png"
-related: ["finance-english", "job-fas-analyst-tenshoku-nanido", "company-clsakyapitarupaatonaazu-reputation", "company-coral-capital-reputation"]
+related: ["finance-english", "industry-jigyo-saisei-tenshoku-nanido", "job-fas-analyst-tenshoku-nanido", "company-puruutasu-konsaruteingu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "三菱UFJモルガン・スタンレー証券 業務及び財産の状況に関する説明書（2026年3月期）"

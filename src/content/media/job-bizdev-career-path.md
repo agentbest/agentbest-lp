@@ -9,7 +9,7 @@ tags: ["事業開発", "BizDev", "キャリアパス", "アライアンス", "�
 pubDate: 2026-08-10
 slug: "job-bizdev-career-path"
 image: "/images/media/job-bizdev-career-path.png"
-related: ["customer-success-salary-600", "job-bizdev-nensyu", "job-bizdev-senkou-flow", "industry-mega-venture-tenshoku-nanido"]
+related: ["bizdev-in-30s", "job-bizdev-nensyu", "job-bizdev-senkou-flow", "industry-maker-it-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

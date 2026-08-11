@@ -9,7 +9,7 @@ tags: ["事業開発", "BizDev", "転職難易度", "アライアンス", "ス�
 pubDate: 2026-08-10
 slug: "job-bizdev-tenshoku-nanido"
 image: "/images/media/job-bizdev-tenshoku-nanido.png"
-related: ["product-manager-market-trend", "job-bizdev-career-path", "job-bizdev-nensyu", "industry-mega-venture-shibou-douki"]
+related: ["bizdev-english", "job-bizdev-career-path", "job-bizdev-nensyu", "industry-maker-it-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

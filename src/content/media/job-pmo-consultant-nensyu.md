@@ -9,7 +9,7 @@ tags: ["PMO", "年収", "有価証券報告書", "プロジェクトマネジメ
 pubDate: 2026-08-11
 slug: "job-pmo-consultant-nensyu"
 image: "/images/media/job-pmo-consultant-nensyu.png"
-related: ["big4-consultant-failure", "job-pmo-consultant-career-path", "job-pmo-consultant-senkou-flow", "industry-senryaku-consul-career-path"]
+related: ["thinktank-in-30s", "job-pmo-consultant-career-path", "job-pmo-consultant-senkou-flow", "industry-senryaku-consul-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト job tag「プロジェクトマネージャ（IT）」（令和7年賃金構造基本統計調査ほか）"

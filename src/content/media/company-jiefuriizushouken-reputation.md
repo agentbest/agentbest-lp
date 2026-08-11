@@ -9,7 +9,7 @@ tags: ["ジェフリーズ証券", "外資系証券", "投資銀行", "少数精
 pubDate: 2026-08-04
 slug: "company-jiefuriizushouken-reputation"
 image: "/images/media/company-jiefuriizushouken-reputation.png"
-related: ["post-consultant-certification", "job-ma-advisor-senkou-flow", "company-beinkyapitaru-japan-reputation", "company-bnpparibashouken-reputation"]
+related: ["post-consultant-certification", "industry-pe-fund-senkou-flow", "job-ma-advisor-senkou-flow", "company-risa-paatonaazu-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "ジェフリーズ・ジャパン・リミテッド（証券会社）「業務及び財産の状況に関する説明書」2025年11月期（金融商品取引法第46条の4）"

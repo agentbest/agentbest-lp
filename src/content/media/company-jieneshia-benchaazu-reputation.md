@@ -9,7 +9,7 @@ tags: ["ジェネシア・ベンチャーズ", "ベンチャーキャピタル",
 pubDate: 2026-08-26
 slug: "company-jieneshia-benchaazu-reputation"
 image: "/images/media/company-jieneshia-benchaazu-reputation.png"
-related: ["ma-advisor-salary-600", "job-fas-analyst-senkou-flow", "job-ma-advisor-senkou-flow", "job-ma-advisor-shibou-douki"]
+related: ["ma-advisor-salary-600", "industry-jigyo-saisei-senkou-flow", "job-fas-analyst-senkou-flow", "company-beinkyapitaru-japan-reputation"]
 reviewedAt: 2026-08-26
 sources:
   - name: "株式会社ジェネシア・ベンチャーズ プレスリリース「Genesia Venture Fund 3号投資事業有限責任組合を総額150億円で組成完了」（2023年5月10日）"

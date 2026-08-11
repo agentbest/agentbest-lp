@@ -9,7 +9,7 @@ tags: ["事業会社", "プロダクト開発", "転職難易度", "内製化", 
 pubDate: 2026-08-11
 slug: "industry-jigyo-gaisha-pdm-tenshoku-nanido"
 image: "/images/media/industry-jigyo-gaisha-pdm-tenshoku-nanido.png"
-related: ["pmo-work-style", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu", "company-ntthigashinihon-reputation"]
+related: ["pmo-work-style", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu", "company-nipponseisakutoushiginkou-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "IPA DX動向2025（日米独比較で探る成果創出の方向性）"

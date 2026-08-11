@@ -9,7 +9,7 @@ tags: ["RevComm", "SaaS", "AI", "スタートアップ", "非上場"]
 pubDate: 2026-08-10
 slug: "company-revcomm-reputation"
 image: "/images/media/company-revcomm-reputation.png"
-related: ["saas-sales-career-guide", "industry-mega-venture-tenshoku-nanido", "job-customer-success-tenshoku-nanido", "job-it-architect-tenshoku-nanido"]
+related: ["bizdev-market-trend", "industry-maker-it-tenshoku-nanido", "job-customer-success-tenshoku-nanido", "company-varietas-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "株式会社RevComm 会社概要"

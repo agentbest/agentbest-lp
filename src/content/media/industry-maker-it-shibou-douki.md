@@ -9,7 +9,7 @@ tags: ["製造業DX", "メーカーIT", "志望動機", "職務経歴書", "営�
 pubDate: 2026-08-11
 slug: "industry-maker-it-shibou-douki"
 image: "/images/media/industry-maker-it-shibou-douki.png"
-related: ["customer-success-failure", "industry-maker-it-career-path", "industry-maker-it-nensyu", "job-jigyo-kikaku-senkou-flow"]
+related: ["industry-saas-startup-nensyu", "industry-maker-it-career-path", "industry-maker-it-nensyu", "job-jigyo-kikaku-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 不正競争防止法 第2条第6項（営業秘密の定義）"

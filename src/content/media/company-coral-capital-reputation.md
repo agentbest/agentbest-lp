@@ -9,7 +9,7 @@ tags: ["Coral Capital", "ベンチャーキャピタル", "シード投資", "�
 pubDate: 2026-08-23
 slug: "company-coral-capital-reputation"
 image: "/images/media/company-coral-capital-reputation.png"
-related: ["finance-from-scratch", "job-saisei-consultant-nensyu", "company-integuruupu-reputation", "company-j-star-reputation"]
+related: ["finance-from-scratch", "industry-jigyo-shokei-nensyu", "job-saisei-consultant-nensyu", "company-batonz-reputation"]
 reviewedAt: 2026-08-23
 sources:
   - name: "株式会社Coral Capital 公式サイト（About／Team）"

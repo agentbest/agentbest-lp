@@ -9,7 +9,7 @@ tags: ["セグエグループ", "ネットワークセキュリティ", "RevoWor
 pubDate: 2026-09-04
 slug: "company-segueguruupu-reputation"
 image: "/images/media/company-segueguruupu-reputation.png"
-related: ["pmo-in-20s", "industry-jigyo-gaisha-pdm-senkou-flow", "company-mitsubishiufjfinansharu-guruupu-reputation", "company-mitsubishiufjginkou-reputation"]
+related: ["pmo-in-20s", "industry-jigyo-gaisha-pdm-senkou-flow", "company-workday-reputation", "company-yamadahoorudingusu-reputation"]
 reviewedAt: 2026-09-04
 sources:
   - name: "セグエグループ株式会社 有価証券報告書 第12期（2025年12月期）"

@@ -9,7 +9,7 @@ tags: ["事業再生", "ターンアラウンド", "選考フロー", "面接対
 pubDate: 2026-08-11
 slug: "job-saisei-consultant-senkou-flow"
 image: "/images/media/job-saisei-consultant-senkou-flow.png"
-related: ["fas-consultant-skills", "job-saisei-consultant-career-path", "job-saisei-consultant-nensyu", "company-spiral-capital-reputation"]
+related: ["fas-consultant-skills", "job-saisei-consultant-career-path", "job-saisei-consultant-nensyu", "industry-fas-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

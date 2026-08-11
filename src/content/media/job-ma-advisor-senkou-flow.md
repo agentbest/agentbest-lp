@@ -9,7 +9,7 @@ tags: ["M&Aアドバイザー", "FA", "選考フロー", "面接対策", "モデ
 pubDate: 2026-08-11
 slug: "job-ma-advisor-senkou-flow"
 image: "/images/media/job-ma-advisor-senkou-flow.png"
-related: ["fas-consultant-market-trend", "job-ma-advisor-career-path", "job-ma-advisor-nensyu", "company-porarisu-kyapitaru-guruupu-reputation"]
+related: ["fas-consultant-market-trend", "job-ma-advisor-career-path", "job-ma-advisor-nensyu", "industry-jigyo-saisei-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

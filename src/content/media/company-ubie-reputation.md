@@ -9,7 +9,7 @@ tags: ["Ubie", "医療DX", "ヘルステック", "AI", "非上場"]
 pubDate: 2026-08-11
 slug: "company-ubie-reputation"
 image: "/images/media/company-ubie-reputation.png"
-related: ["saas-sales-market-trend", "industry-mega-venture-tenshoku-nanido", "job-field-sales-tenshoku-nanido", "company-wisevine-reputation"]
+related: ["industry-saas-startup-tenshoku-nanido", "industry-maker-it-tenshoku-nanido", "job-field-sales-tenshoku-nanido", "job-inside-sales-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "Ubie株式会社 ユビーについて（会社情報）"

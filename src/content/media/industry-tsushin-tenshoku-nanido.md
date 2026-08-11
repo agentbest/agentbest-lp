@@ -9,7 +9,7 @@ tags: ["通信キャリア", "転職難易度", "有効求人倍率", "電気通
 pubDate: 2026-08-11
 slug: "industry-tsushin-tenshoku-nanido"
 image: "/images/media/industry-tsushin-tenshoku-nanido.png"
-related: ["saas-sales-english", "industry-tsushin-career-path", "industry-tsushin-nensyu", "job-vc-capitalist-tenshoku-nanido"]
+related: ["saas-sales-career-guide", "industry-tsushin-career-path", "industry-tsushin-nensyu", "job-vc-capitalist-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 電気通信事業法 第26条（提供条件の説明）"

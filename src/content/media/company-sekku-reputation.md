@@ -9,7 +9,7 @@ tags: ["セック", "リアルタイム技術", "宇宙先端システム", "ロ
 pubDate: 2026-09-04
 slug: "company-sekku-reputation"
 image: "/images/media/company-sekku-reputation.png"
-related: ["project-manager-salary-1000", "industry-user-kei-sier-career-path", "company-nec-reputation", "company-necsoryuushon-inobeeta-reputation"]
+related: ["project-manager-salary-1000", "industry-user-kei-sier-career-path", "company-komatsu-reputation", "company-komuchua-reputation"]
 reviewedAt: 2026-09-04
 sources:
   - name: "株式会社セック 有価証券報告書 第56期（2026年3月期）"

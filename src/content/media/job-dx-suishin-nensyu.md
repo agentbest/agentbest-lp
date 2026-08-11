@@ -9,7 +9,7 @@ tags: ["DX推進", "年収相場", "賃金構造基本統計調査", "デジタ�
 pubDate: 2026-08-10
 slug: "job-dx-suishin-nensyu"
 image: "/images/media/job-dx-suishin-nensyu.png"
-related: ["bizdev-company-size", "job-dx-suishin-career-path", "job-dx-suishin-senkou-flow", "industry-mega-venture-career-path"]
+related: ["saas-industry-career", "job-dx-suishin-career-path", "job-dx-suishin-senkou-flow", "industry-tsushin-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／DXプロデューサー"

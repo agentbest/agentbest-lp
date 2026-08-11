@@ -9,7 +9,7 @@ tags: ["カスタマーサクセス", "転職難易度", "未経験", "SaaS", "�
 pubDate: 2026-08-10
 slug: "job-customer-success-tenshoku-nanido"
 image: "/images/media/job-customer-success-tenshoku-nanido.png"
-related: ["industry-saas-startup-tenshoku-nanido", "job-customer-success-career-path", "job-customer-success-nensyu", "industry-mega-venture-senkou-flow"]
+related: ["customer-success-failure", "job-customer-success-career-path", "job-customer-success-nensyu", "industry-mega-venture-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ヘルプデスク（IT）"

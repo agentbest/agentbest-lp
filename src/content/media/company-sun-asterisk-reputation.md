@@ -9,7 +9,7 @@ tags: ["Sun Asterisk", "デジタルクリエイティブスタジオ", "ベト�
 pubDate: 2026-08-29
 slug: "company-sun-asterisk-reputation"
 image: "/images/media/company-sun-asterisk-reputation.png"
-related: ["project-manager-market-trend", "industry-jigyo-gaisha-pdm-career-path", "company-mitsuijouhou-reputation", "company-mitsuisumitomofinansharuguruupu-reputation"]
+related: ["project-manager-market-trend", "industry-user-kei-sier-career-path", "company-nttdokomo-reputation", "company-ntthigashinihon-reputation"]
 reviewedAt: 2026-08-29
 sources:
   - name: "株式会社Sun Asterisk 有価証券報告書 第13期（2025年12月期）"

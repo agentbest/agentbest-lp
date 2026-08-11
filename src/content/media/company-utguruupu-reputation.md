@@ -9,7 +9,7 @@ tags: ["UTグループ", "製造派遣", "持株会社", "有価証券報告書"
 pubDate: 2026-08-11
 slug: "company-utguruupu-reputation"
 image: "/images/media/company-utguruupu-reputation.png"
-related: ["bizdev-certification", "industry-tsushin-shibou-douki", "job-customer-success-shibou-douki", "company-enechenji-reputation"]
+related: ["bizdev-certification", "industry-tsushin-shibou-douki", "job-customer-success-shibou-douki", "job-inside-sales-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "ＵＴグループ株式会社 有価証券報告書 第19期（2026年3月期）"

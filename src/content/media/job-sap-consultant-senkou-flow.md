@@ -9,7 +9,7 @@ tags: ["SAP", "ERP", "選考フロー", "面接対策", "SAPコンサルタン�
 pubDate: 2026-08-11
 slug: "job-sap-consultant-senkou-flow"
 image: "/images/media/job-sap-consultant-senkou-flow.png"
-related: ["big4-consultant-work-style", "job-sap-consultant-career-path", "job-sap-consultant-nensyu", "industry-senryaku-consul-tenshoku-nanido"]
+related: ["it-consultant-interview", "job-sap-consultant-career-path", "job-sap-consultant-nensyu", "industry-senryaku-consul-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ITコンサルタント"

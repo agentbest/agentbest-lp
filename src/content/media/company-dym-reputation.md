@@ -9,7 +9,7 @@ tags: ["DYM", "人材", "WEB", "医療", "非上場"]
 pubDate: 2026-08-15
 slug: "company-dym-reputation"
 image: "/images/media/company-dym-reputation.png"
-related: ["saas-sales-in-20s", "industry-mega-venture-shibou-douki", "job-field-sales-shibou-douki", "job-jigyo-kikaku-shibou-douki"]
+related: ["industry-saas-vendor-nensyu", "industry-tsushin-shibou-douki", "job-field-sales-shibou-douki", "company-oputeimu-reputation"]
 reviewedAt: 2026-08-15
 sources:
   - name: "株式会社DYM 会社概要"

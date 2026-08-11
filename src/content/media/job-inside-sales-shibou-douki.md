@@ -9,7 +9,7 @@ tags: ["インサイドセールス", "志望動機", "職務経歴書", "SaaS",
 pubDate: 2026-08-10
 slug: "job-inside-sales-shibou-douki"
 image: "/images/media/job-inside-sales-shibou-douki.png"
-related: ["industry-saas-startup-nensyu", "job-inside-sales-career-path", "job-inside-sales-nensyu", "industry-mega-venture-senkou-flow"]
+related: ["product-manager-skills", "job-inside-sales-career-path", "job-inside-sales-nensyu", "industry-tsushin-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

@@ -9,7 +9,7 @@ tags: ["ジャストシステム", "一太郎", "ATOK", "スマイルゼミ", "�
 pubDate: 2026-09-04
 slug: "company-jasutoshisutemu-reputation"
 image: "/images/media/company-jasutoshisutemu-reputation.png"
-related: ["corporate-planning-work-style", "industry-user-kei-sier-tenshoku-nanido", "company-ajinomoto-reputation", "company-amazon-uebusaabisujapan-reputation"]
+related: ["corporate-planning-work-style", "industry-user-kei-sier-tenshoku-nanido", "company-mitsubishiufjfinansharu-guruupu-reputation", "company-mitsubishiufjginkou-reputation"]
 reviewedAt: 2026-09-04
 sources:
   - name: "株式会社ジャストシステム 有価証券報告書 第45期（2026年3月期）"

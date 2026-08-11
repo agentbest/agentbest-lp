@@ -9,7 +9,7 @@ tags: ["プロダクトマネージャー", "PdM", "選考フロー", "面接対
 pubDate: 2026-08-11
 slug: "job-product-manager-senkou-flow"
 image: "/images/media/job-product-manager-senkou-flow.png"
-related: ["bizdev-salary-1000", "job-product-manager-career-path", "job-product-manager-nensyu", "industry-mega-venture-nensyu"]
+related: ["customer-success-future", "job-product-manager-career-path", "job-product-manager-nensyu", "industry-tsushin-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

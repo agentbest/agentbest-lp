@@ -9,7 +9,7 @@ tags: ["システムサポート", "クラウドインテグレーション", "A
 pubDate: 2026-09-03
 slug: "company-shisutemusapootohoorudingusu-reputation"
 image: "/images/media/company-shisutemusapootohoorudingusu-reputation.png"
-related: ["dev-director-from-scratch", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-itooyookadou-reputation", "company-itouchuutekunosoryuushonzu-reputation"]
+related: ["dev-director-from-scratch", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-yasukawadenki-reputation", "company-ye-digital-reputation"]
 reviewedAt: 2026-09-03
 sources:
   - name: "株式会社システムサポートホールディングス 有価証券報告書 第46期（2025年6月期）"

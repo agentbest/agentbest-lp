@@ -9,7 +9,7 @@ tags: ["プロジェクトマネージャー", "PjM", "キャリアパス", "ス
 pubDate: 2026-08-10
 slug: "job-project-manager-career-path"
 image: "/images/media/job-project-manager-career-path.png"
-related: ["product-manager-english", "job-project-manager-nensyu", "job-project-manager-senkou-flow", "industry-mega-venture-career-path"]
+related: ["product-manager-salary", "job-project-manager-nensyu", "job-project-manager-senkou-flow", "industry-kinyu-it-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

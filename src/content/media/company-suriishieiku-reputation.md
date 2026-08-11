@@ -9,7 +9,7 @@ tags: ["スリーシェイク", "3-shake", "SRE", "インフラ", "非上場"]
 pubDate: 2026-08-16
 slug: "company-suriishieiku-reputation"
 image: "/images/media/company-suriishieiku-reputation.png"
-related: ["bizdev-certification", "industry-mega-venture-shibou-douki", "job-data-scientist-shibou-douki", "job-cxo-kouho-shibou-douki"]
+related: ["bizdev-company-size", "industry-tsushin-shibou-douki", "job-data-scientist-shibou-douki", "company-enigumo-reputation"]
 reviewedAt: 2026-08-16
 sources:
   - name: "株式会社スリーシェイク 会社概要"

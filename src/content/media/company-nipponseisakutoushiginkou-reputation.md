@@ -9,7 +9,7 @@ tags: ["日本政策投資銀行", "DBJ", "政策金融機関", "投資銀行", 
 pubDate: 2026-08-08
 slug: "company-nipponseisakutoushiginkou-reputation"
 image: "/images/media/company-nipponseisakutoushiginkou-reputation.png"
-related: ["dev-director-failure", "industry-jigyo-gaisha-pdm-nensyu", "company-mitsubishiufjfinansharu-guruupu-reputation", "company-mitsubishiufjginkou-reputation"]
+related: ["dev-director-failure", "industry-user-kei-sier-nensyu", "company-karubii-reputation", "company-kddi-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "株式会社日本政策投資銀行 有価証券報告書 第18期（2026年3月期）"

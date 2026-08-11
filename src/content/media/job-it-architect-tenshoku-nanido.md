@@ -9,7 +9,7 @@ tags: ["ITアーキテクト", "転職難易度", "設計", "有効求人倍率"
 pubDate: 2026-08-10
 slug: "job-it-architect-tenshoku-nanido"
 image: "/images/media/job-it-architect-tenshoku-nanido.png"
-related: ["bizdev-motivation", "job-it-architect-career-path", "job-it-architect-nensyu", "industry-mega-venture-nensyu"]
+related: ["bizdev-work-style", "job-it-architect-career-path", "job-it-architect-nensyu", "industry-kinyu-it-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／システムエンジニア（基盤システム）"

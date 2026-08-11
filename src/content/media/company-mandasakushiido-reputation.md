@@ -9,7 +9,7 @@ tags: ["M&Aサクシード", "ビジョナル", "ビズリーチ", "M&Aプラッ
 pubDate: 2026-08-24
 slug: "company-mandasakushiido-reputation"
 image: "/images/media/company-mandasakushiido-reputation.png"
-related: ["ma-advisor-market-trend", "job-saisei-consultant-senkou-flow", "company-gca-reputation", "company-guroobaru-burein-reputation"]
+related: ["ma-advisor-market-trend", "industry-pe-fund-senkou-flow", "job-saisei-consultant-senkou-flow", "company-kuredi-agurikorushouken-reputation"]
 reviewedAt: 2026-08-24
 sources:
   - name: "ビジョナル株式会社 有価証券報告書 第6期（2025年7月期）"

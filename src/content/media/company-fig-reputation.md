@@ -9,7 +9,7 @@ tags: ["FIG", "モバイルクリエイト", "REALIZE", "IoT", "持株会社"]
 pubDate: 2026-08-28
 slug: "company-fig-reputation"
 image: "/images/media/company-fig-reputation.png"
-related: ["project-manager-salary-600", "industry-jigyo-gaisha-pdm-shibou-douki", "company-risonahoorudingusu-reputation", "company-roomu-reputation"]
+related: ["project-manager-salary-600", "industry-user-kei-sier-shibou-douki", "company-jasutoshisutemu-reputation", "company-jbcchoorudingusu-reputation"]
 reviewedAt: 2026-08-28
 sources:
   - name: "ＦＩＧ株式会社 有価証券報告書 第8期（2025年12月期）"

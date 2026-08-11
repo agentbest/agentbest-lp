@@ -9,7 +9,7 @@ tags: ["ispace", "宇宙開発", "スタートアップ", "企業研究", "有�
 pubDate: 2026-08-11
 slug: "company-ispace-reputation"
 image: "/images/media/company-ispace-reputation.png"
-related: ["product-manager-salary-600", "industry-tsushin-senkou-flow", "job-pe-investment-senkou-flow", "company-guroobaruuei-reputation"]
+related: ["product-manager-salary-600", "industry-tsushin-senkou-flow", "job-pe-investment-senkou-flow", "job-it-architect-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ispace 有価証券報告書 第16期（2026年3月期）"

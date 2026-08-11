@@ -9,7 +9,7 @@ tags: ["船井総研ホールディングス", "船井総合研究所", "経営�
 pubDate: 2026-08-22
 slug: "company-funaisoukenhoorudingusu-reputation"
 image: "/images/media/company-funaisoukenhoorudingusu-reputation.png"
-related: ["strategy-consultant-english", "industry-senryaku-consul-tenshoku-nanido", "job-pmo-consultant-tenshoku-nanido", "company-corporate-directions-reputation"]
+related: ["big4-consultant-skills", "industry-gyokai-tokka-consul-tenshoku-nanido", "job-pmo-consultant-tenshoku-nanido", "company-deroito-toomatsu-akuto-reputation"]
 reviewedAt: 2026-08-22
 sources:
   - name: "有価証券報告書 第56期（2025年12月期）"

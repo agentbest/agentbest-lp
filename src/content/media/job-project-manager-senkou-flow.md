@@ -9,7 +9,7 @@ tags: ["プロジェクトマネージャー", "PjM", "選考フロー", "面接
 pubDate: 2026-08-10
 slug: "job-project-manager-senkou-flow"
 image: "/images/media/job-project-manager-senkou-flow.png"
-related: ["bizdev-from-scratch", "job-project-manager-career-path", "job-project-manager-nensyu", "industry-mega-venture-nensyu"]
+related: ["bizdev-salary-600", "job-project-manager-career-path", "job-project-manager-nensyu", "industry-maker-it-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

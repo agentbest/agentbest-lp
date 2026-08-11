@@ -9,7 +9,7 @@ tags: ["XTech Ventures", "ベンチャーキャピタル", "シード投資", "�
 pubDate: 2026-08-25
 slug: "company-xtech-ventures-reputation"
 image: "/images/media/company-xtech-ventures-reputation.png"
-related: ["finance-failure", "job-ma-advisor-career-path", "company-banku-obu-amerikashouken-reputation", "company-batonz-reputation"]
+related: ["finance-failure", "industry-ibd-career-path", "job-ma-advisor-career-path", "company-nipponmandasentaa-reputation"]
 reviewedAt: 2026-08-25
 sources:
   - name: "XTech Ventures株式会社「XTech Ventures2号ファンド、総額約130億円で組成完了」（2022年5月13日）"

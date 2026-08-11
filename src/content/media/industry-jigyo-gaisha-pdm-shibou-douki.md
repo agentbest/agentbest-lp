@@ -9,7 +9,7 @@ tags: ["事業会社", "プロダクト開発", "志望動機", "内製化", "�
 pubDate: 2026-08-11
 slug: "industry-jigyo-gaisha-pdm-shibou-douki"
 image: "/images/media/industry-jigyo-gaisha-pdm-shibou-douki.png"
-related: ["project-manager-motivation", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu", "company-nttdeetasentangijutsu-reputation"]
+related: ["project-manager-motivation", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-nensyu", "company-adobe-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "IPA DX動向2025（日米独比較で探る成果創出の方向性）"

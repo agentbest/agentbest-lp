@@ -9,7 +9,7 @@ tags: ["ベインキャピタル", "PEファンド", "バイアウト", "外資�
 pubDate: 2026-08-04
 slug: "company-beinkyapitaru-japan-reputation"
 image: "/images/media/company-beinkyapitaru-japan-reputation.png"
-related: ["fas-consultant-failure", "job-saisei-consultant-career-path", "company-furonteia-manejimento-reputation", "company-gca-reputation"]
+related: ["fas-consultant-failure", "industry-jigyo-shokei-career-path", "job-saisei-consultant-career-path", "company-mandasakushiido-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "Bain Capital Japan 公式サイト About Us"

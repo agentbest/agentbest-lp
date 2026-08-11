@@ -9,7 +9,7 @@ tags: ["通信キャリア", "年収相場", "携帯電話販売", "電気通信
 pubDate: 2026-08-11
 slug: "industry-tsushin-nensyu"
 image: "/images/media/industry-tsushin-nensyu.png"
-related: ["saas-industry-trend", "industry-tsushin-career-path", "industry-tsushin-senkou-flow", "job-cxo-kouho-tenshoku-nanido"]
+related: ["customer-success-from-scratch", "industry-tsushin-career-path", "industry-tsushin-senkou-flow", "job-cxo-kouho-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 電気通信事業法 第27条の3（移動電気通信役務を提供する電気通信事業者の禁止行為）"

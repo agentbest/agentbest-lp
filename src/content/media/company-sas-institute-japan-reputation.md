@@ -9,7 +9,7 @@ tags: ["SAS Institute Japan", "外資系IT", "アナリティクス", "データ
 pubDate: 2026-08-05
 slug: "company-sas-institute-japan-reputation"
 image: "/images/media/company-sas-institute-japan-reputation.png"
-related: ["product-manager-career-path", "industry-jigyo-gaisha-pdm-shibou-douki", "company-nomurashouken-reputation", "company-nsd-reputation"]
+related: ["product-manager-career-path", "industry-user-kei-sier-shibou-douki", "company-risonahoorudingusu-reputation", "company-roomu-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "SAS Institute Japan 公式サイト 会社概要"

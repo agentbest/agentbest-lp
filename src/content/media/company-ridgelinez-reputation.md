@@ -9,7 +9,7 @@ tags: ["Ridgelinez", "コンサル転職", "DXコンサルティング", "富士
 pubDate: 2026-08-02
 slug: "company-ridgelinez-reputation"
 image: "/images/media/company-ridgelinez-reputation.png"
-related: ["big4-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "job-senryaku-consultant-shibou-douki"]
+related: ["it-consultant-in-20s", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "job-senryaku-consultant-nensyu"]
 reviewedAt: 2026-08-02
 sources:
   - name: "Ridgelinez 企業情報（社名の由来・理念）"

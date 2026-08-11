@@ -9,7 +9,7 @@ tags: ["M&A仲介", "M&A営業", "転職難易度", "未経験転職", "中小M&
 pubDate: 2026-08-11
 slug: "job-ma-chukai-eigyo-tenshoku-nanido"
 image: "/images/media/job-ma-chukai-eigyo-tenshoku-nanido.png"
-related: ["finance-in-30s", "job-ma-chukai-eigyo-career-path", "job-ma-chukai-eigyo-nensyu", "company-coral-capital-reputation"]
+related: ["finance-in-30s", "job-ma-chukai-eigyo-career-path", "job-ma-chukai-eigyo-nensyu", "industry-jigyo-saisei-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

@@ -9,7 +9,7 @@ tags: ["製造業DX", "メーカーIT", "キャリアパス", "営業秘密", "�
 pubDate: 2026-08-11
 slug: "industry-maker-it-career-path"
 image: "/images/media/industry-maker-it-career-path.png"
-related: ["saas-industry-guide", "industry-maker-it-nensyu", "industry-maker-it-senkou-flow", "job-bizdev-senkou-flow"]
+related: ["saas-sales-work-style", "industry-maker-it-nensyu", "industry-maker-it-senkou-flow", "job-bizdev-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 不正競争防止法 第2条第6項（営業秘密の定義）"

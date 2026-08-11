@@ -9,7 +9,7 @@ tags: ["金融IT", "フィンテック", "年収相場", "資金移動業", "時
 pubDate: 2026-08-11
 slug: "industry-kinyu-it-nensyu"
 image: "/images/media/industry-kinyu-it-nensyu.png"
-related: ["customer-success-english", "industry-kinyu-it-career-path", "industry-kinyu-it-senkou-flow", "job-pe-investment-shibou-douki"]
+related: ["saas-industry-company", "industry-kinyu-it-career-path", "industry-kinyu-it-senkou-flow", "job-pe-investment-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 資金決済に関する法律 第36条の2（資金移動業の種別）"

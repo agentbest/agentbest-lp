@@ -9,7 +9,7 @@ tags: ["通信キャリア", "選考フロー", "面接対策", "ロールプレ
 pubDate: 2026-08-11
 slug: "industry-tsushin-senkou-flow"
 image: "/images/media/industry-tsushin-senkou-flow.png"
-related: ["bizdev-market-trend", "industry-tsushin-career-path", "industry-tsushin-nensyu", "job-inside-sales-nensyu"]
+related: ["customer-success-motivation", "industry-tsushin-career-path", "industry-tsushin-nensyu", "job-inside-sales-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 電気通信事業法 第26条（提供条件の説明）"

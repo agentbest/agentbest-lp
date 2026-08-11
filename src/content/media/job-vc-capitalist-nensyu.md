@@ -9,7 +9,7 @@ tags: ["ベンチャーキャピタル", "VC", "年収相場", "成功報酬", "
 pubDate: 2026-08-11
 slug: "job-vc-capitalist-nensyu"
 image: "/images/media/job-vc-capitalist-nensyu.png"
-related: ["customer-success-salary", "job-vc-capitalist-career-path", "job-vc-capitalist-senkou-flow", "industry-mega-venture-nensyu"]
+related: ["saas-sales-market-trend", "job-vc-capitalist-career-path", "job-vc-capitalist-senkou-flow", "industry-mega-venture-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ファンドマネージャー"

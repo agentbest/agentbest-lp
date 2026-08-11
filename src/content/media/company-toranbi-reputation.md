@@ -9,7 +9,7 @@ tags: ["トランビ", "TRANBI", "M&Aプラットフォーム", "事業承継", 
 pubDate: 2026-08-26
 slug: "company-toranbi-reputation"
 image: "/images/media/company-toranbi-reputation.png"
-related: ["ma-industry-trend", "job-saisei-consultant-tenshoku-nanido", "company-mandakyapitarupaatonaazu-reputation", "company-mandaroiyaruadobaizarii-reputation"]
+related: ["ma-industry-trend", "industry-pe-fund-tenshoku-nanido", "job-saisei-consultant-tenshoku-nanido", "company-yunizon-kyapitaru-reputation"]
 reviewedAt: 2026-08-26
 sources:
   - name: "株式会社トランビ 運営会社情報"

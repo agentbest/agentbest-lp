@@ -9,7 +9,7 @@ tags: ["グロービス・キャピタル・パートナーズ", "GCP", "ベン�
 pubDate: 2026-08-26
 slug: "company-guroobisu-kyapitaru-paatonaazu-reputation"
 image: "/images/media/company-guroobisu-kyapitaru-paatonaazu-reputation.png"
-related: ["post-consultant-interview", "job-ma-chukai-eigyo-nensyu", "company-razaado-fureeru-reputation", "company-risa-paatonaazu-reputation"]
+related: ["post-consultant-interview", "industry-ma-chukai-nensyu", "job-ma-chukai-eigyo-nensyu", "industry-jigyo-shokei-nensyu"]
 reviewedAt: 2026-08-26
 sources:
   - name: "株式会社グロービス「グロービス・キャピタル・パートナーズ30周年」（2026年7月1日）"

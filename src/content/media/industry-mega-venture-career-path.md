@@ -9,7 +9,7 @@ tags: ["メガベンチャー", "キャリアパス", "有価証券報告書", "
 pubDate: 2026-08-11
 slug: "industry-mega-venture-career-path"
 image: "/images/media/industry-mega-venture-career-path.png"
-related: ["saas-industry-career", "industry-mega-venture-nensyu", "industry-mega-venture-senkou-flow", "job-shanai-se-career-path"]
+related: ["product-manager-salary-1000", "industry-mega-venture-nensyu", "industry-mega-venture-senkou-flow", "job-shanai-se-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "金融庁 企業内容等の開示に関する内閣府令等改正の解説"

@@ -9,7 +9,7 @@ tags: ["CxO候補", "経営幹部", "年収相場", "ストックオプション
 pubDate: 2026-08-10
 slug: "job-cxo-kouho-nensyu"
 image: "/images/media/job-cxo-kouho-nensyu.png"
-related: ["saas-industry-trend", "job-cxo-kouho-career-path", "job-cxo-kouho-senkou-flow", "industry-mega-venture-tenshoku-nanido"]
+related: ["product-manager-certification", "job-cxo-kouho-career-path", "job-cxo-kouho-senkou-flow", "industry-kinyu-it-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "国税庁 タックスアンサー No.5211 役員に対する給与（平成29年4月1日以後支給決議分）"

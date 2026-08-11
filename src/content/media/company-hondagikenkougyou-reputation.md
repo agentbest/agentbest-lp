@@ -9,7 +9,7 @@ tags: ["本田技研工業", "ホンダ", "自動車", "二輪", "東証プラ�
 pubDate: 2026-08-08
 slug: "company-hondagikenkougyou-reputation"
 image: "/images/media/company-hondagikenkougyou-reputation.png"
-related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-shibou-douki", "company-uubun-bai-toyota-reputation", "company-waakuman-reputation"]
+related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-shibou-douki", "company-goorudoman-sakkusushouken-reputation", "company-guuguru-kuraudo-japan-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "本田技研工業株式会社 有価証券報告書 第102期（2026年3月期）"

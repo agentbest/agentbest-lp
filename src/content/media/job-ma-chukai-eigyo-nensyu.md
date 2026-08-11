@@ -9,7 +9,7 @@ tags: ["M&A仲介", "M&A営業", "年収相場", "成功報酬", "中小M&Aガ�
 pubDate: 2026-08-11
 slug: "job-ma-chukai-eigyo-nensyu"
 image: "/images/media/job-ma-chukai-eigyo-nensyu.png"
-related: ["post-consultant-salary", "job-ma-chukai-eigyo-career-path", "job-ma-chukai-eigyo-senkou-flow", "company-kuredi-agurikorushouken-reputation"]
+related: ["post-consultant-salary", "job-ma-chukai-eigyo-career-path", "job-ma-chukai-eigyo-senkou-flow", "industry-pe-fund-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

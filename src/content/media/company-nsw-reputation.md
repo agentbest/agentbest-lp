@@ -9,7 +9,7 @@ tags: ["NSW", "日本システムウエア", "組込みソフトウェア", "山
 pubDate: 2026-08-28
 slug: "company-nsw-reputation"
 image: "/images/media/company-nsw-reputation.png"
-related: ["corporate-planning-interview", "industry-jigyo-gaisha-pdm-senkou-flow", "company-toukyoukaijounichidoushisutemuzu-reputation", "company-toushiba-reputation"]
+related: ["corporate-planning-interview", "industry-jigyo-gaisha-pdm-senkou-flow", "company-mitsubishiufjinfomeeshontekunorojii-reputation", "company-mitsubishiufjshintakuginkou-reputation"]
 reviewedAt: 2026-08-28
 sources:
   - name: "ＮＳＷ株式会社 有価証券報告書 第60期（2026年3月期）"

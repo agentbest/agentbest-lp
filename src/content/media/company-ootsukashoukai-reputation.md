@@ -9,7 +9,7 @@ tags: ["大塚商会", "SIer", "システムインテグレーション", "IT", 
 pubDate: 2026-08-08
 slug: "company-ootsukashoukai-reputation"
 image: "/images/media/company-ootsukashoukai-reputation.png"
-related: ["corporate-planning-future", "industry-jigyo-gaisha-pdm-shibou-douki", "company-arufashisutemuzu-reputation", "company-arugogurafikkusu-reputation"]
+related: ["corporate-planning-future", "industry-user-kei-sier-shibou-douki", "company-sofutobanku-reputation", "company-sofutokurieitohoorudingusu-reputation"]
 reviewedAt: 2026-08-08
 sources:
   - name: "株式会社大塚商会 有価証券報告書 第65期（2025年12月期）"

@@ -9,7 +9,7 @@ tags: ["経営企画", "年収相場", "賃金構造基本統計調査", "IR", "
 pubDate: 2026-08-10
 slug: "job-keiei-kikaku-nensyu"
 image: "/images/media/job-keiei-kikaku-nensyu.png"
-related: ["saas-sales-resume", "job-keiei-kikaku-shibou-douki", "job-keiei-kikaku-tenshoku-nanido", "industry-mega-venture-shibou-douki"]
+related: ["product-manager-certification", "job-keiei-kikaku-career-path", "job-keiei-kikaku-senkou-flow", "industry-kinyu-it-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

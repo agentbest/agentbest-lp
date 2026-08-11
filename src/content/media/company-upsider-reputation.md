@@ -9,7 +9,7 @@ tags: ["UPSIDER", "フィンテック", "法人カード", "スタートアッ�
 pubDate: 2026-08-11
 slug: "company-upsider-reputation"
 image: "/images/media/company-upsider-reputation.png"
-related: ["saas-sales-company-size", "industry-mega-venture-senkou-flow", "job-cxo-kouho-senkou-flow", "job-jigyo-kikaku-senkou-flow"]
+related: ["bizdev-salary", "industry-mega-venture-senkou-flow", "job-cxo-kouho-senkou-flow", "company-wantedly-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社UPSIDERホールディングス 会社概要"

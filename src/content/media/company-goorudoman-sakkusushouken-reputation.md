@@ -9,7 +9,7 @@ tags: ["ゴールドマン・サックス証券", "外資系証券", "投資銀�
 pubDate: 2026-08-06
 slug: "company-goorudoman-sakkusushouken-reputation"
 image: "/images/media/company-goorudoman-sakkusushouken-reputation.png"
-related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow", "industry-jigyo-gaisha-pdm-shibou-douki"]
+related: ["product-manager-salary", "industry-user-kei-sier-nensyu", "industry-user-kei-sier-senkou-flow", "industry-user-kei-sier-shibou-douki"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ゴールドマン・サックス証券 業務及び財産の状況に関する説明書（2025年12月期）"

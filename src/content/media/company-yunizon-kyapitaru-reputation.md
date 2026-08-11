@@ -9,7 +9,7 @@ tags: ["ユニゾン・キャピタル", "PEファンド", "バイアウト", "�
 pubDate: 2026-08-04
 slug: "company-yunizon-kyapitaru-reputation"
 image: "/images/media/company-yunizon-kyapitaru-reputation.png"
-related: ["finance-salary", "job-saisei-consultant-career-path", "company-toranbi-reputation", "company-ub-ventures-reputation"]
+related: ["finance-salary", "industry-pe-fund-career-path", "job-saisei-consultant-career-path", "company-inkyubeitofando-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "Unison Capital 公式サイト About（Philosophy／Guiding Principles／History／Strategy）"

@@ -9,7 +9,7 @@ tags: ["FAS", "アナリスト", "志望動機", "面接対策", "M&A"]
 pubDate: 2026-08-10
 slug: "job-fas-analyst-shibou-douki"
 image: "/images/media/job-fas-analyst-shibou-douki.png"
-related: ["ma-advisor-company-size", "job-fas-analyst-career-path", "job-fas-analyst-nensyu", "company-integuruupu-reputation"]
+related: ["ma-advisor-company-size", "job-fas-analyst-career-path", "job-fas-analyst-nensyu", "industry-fas-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／公認会計士"

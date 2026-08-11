@@ -9,7 +9,7 @@ tags: ["M&Aロイヤルアドバイザリー", "M&A仲介", "事業承継", "未
 pubDate: 2026-08-04
 slug: "company-mandaroiyaruadobaizarii-reputation"
 image: "/images/media/company-mandaroiyaruadobaizarii-reputation.png"
-related: ["ma-advisor-salary-1000", "job-ma-chukai-eigyo-nensyu", "company-furonteia-manejimento-reputation", "company-gca-reputation"]
+related: ["ma-advisor-salary-1000", "industry-jigyo-saisei-nensyu", "job-ma-chukai-eigyo-nensyu", "company-ebakoa-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "M&Aロイヤルアドバイザリー株式会社 会社概要"

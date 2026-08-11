@@ -9,7 +9,7 @@ tags: ["M&Aアドバイザー", "FA", "転職難易度", "銀行から転職", "
 pubDate: 2026-08-11
 slug: "job-ma-advisor-tenshoku-nanido"
 image: "/images/media/job-ma-advisor-tenshoku-nanido.png"
-related: ["fas-consultant-career-guide", "job-ma-advisor-career-path", "job-ma-advisor-nensyu", "company-deroito-toomatsu-fainansharuadobaizarii-reputation"]
+related: ["fas-consultant-career-guide", "job-ma-advisor-career-path", "job-ma-advisor-nensyu", "industry-ibd-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

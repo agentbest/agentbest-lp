@@ -9,7 +9,7 @@ tags: ["アバント", "アバントグループ", "連結会計", "東証プラ
 pubDate: 2026-08-18
 slug: "company-abanto-reputation"
 image: "/images/media/company-abanto-reputation.png"
-related: ["business-consultant-future", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-terasukai-reputation"]
+related: ["big4-consultant-market-trend", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "job-sustainability-consultant-nensyu"]
 reviewedAt: 2026-08-18
 sources:
   - name: "有価証券報告書 第29期（2025年6月期）"

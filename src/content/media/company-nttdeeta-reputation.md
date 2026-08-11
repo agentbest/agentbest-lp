@@ -9,7 +9,7 @@ tags: ["NTTデータ", "SIer", "NTTデータグループ", "システム開発",
 pubDate: 2026-08-05
 slug: "company-nttdeeta-reputation"
 image: "/images/media/company-nttdeeta-reputation.png"
-related: ["pmo-how-to-use-agent", "industry-jigyo-gaisha-pdm-career-path", "company-abantoguruupu-reputation", "company-access-reputation"]
+related: ["pmo-how-to-use-agent", "industry-user-kei-sier-career-path", "company-shift-reputation", "company-shiiiishii-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NTTデータ 公式サイト プロフィール"

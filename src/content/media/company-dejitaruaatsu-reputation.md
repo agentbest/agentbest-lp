@@ -9,7 +9,7 @@ tags: ["デジタルアーツ", "i-FILTER", "フィルタリング", "GIGAスク
 pubDate: 2026-09-06
 slug: "company-dejitaruaatsu-reputation"
 image: "/images/media/company-dejitaruaatsu-reputation.png"
-related: ["business-planning-resume", "industry-user-kei-sier-nensyu", "company-sbihoorudingusu-reputation", "company-screenhoorudingusu-reputation"]
+related: ["business-planning-resume", "industry-user-kei-sier-nensyu", "company-hitachisoryuushonzu-reputation", "company-hondagikenkougyou-reputation"]
 reviewedAt: 2026-09-06
 sources:
   - name: "デジタルアーツ株式会社 有価証券報告書 第31期（2026年3月期）"

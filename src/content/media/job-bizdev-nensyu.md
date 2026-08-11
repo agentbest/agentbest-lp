@@ -9,7 +9,7 @@ tags: ["事業開発", "BizDev", "年収相場", "報酬交渉", "スタート�
 pubDate: 2026-08-10
 slug: "job-bizdev-nensyu"
 image: "/images/media/job-bizdev-nensyu.png"
-related: ["product-manager-future", "job-bizdev-career-path", "job-bizdev-senkou-flow", "industry-mega-venture-shibou-douki"]
+related: ["industry-saas-vendor-tenshoku-nanido", "job-bizdev-career-path", "job-bizdev-senkou-flow", "industry-kinyu-it-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

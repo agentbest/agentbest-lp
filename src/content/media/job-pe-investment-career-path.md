@@ -9,7 +9,7 @@ tags: ["PEファンド", "プライベートエクイティ", "キャリアパ�
 pubDate: 2026-08-11
 slug: "job-pe-investment-career-path"
 image: "/images/media/job-pe-investment-career-path.png"
-related: ["product-manager-english", "job-pe-investment-nensyu", "job-pe-investment-senkou-flow", "industry-mega-venture-tenshoku-nanido"]
+related: ["saas-sales-career-guide", "job-pe-investment-nensyu", "job-pe-investment-senkou-flow", "industry-kinyu-it-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント/M&Aアドバイザー"

@@ -9,7 +9,7 @@ tags: ["IDホールディングス", "インフォメーション・ディベロ
 pubDate: 2026-08-28
 slug: "company-idhoorudingusu-reputation"
 image: "/images/media/company-idhoorudingusu-reputation.png"
-related: ["corporate-planning-from-scratch", "industry-jigyo-gaisha-pdm-senkou-flow", "company-amerikan-ekisupuresu-reputation", "company-arufashisutemuzu-reputation"]
+related: ["corporate-planning-from-scratch", "industry-user-kei-sier-senkou-flow", "company-smbcnikkoushouken-reputation", "company-sofutobanku-reputation"]
 reviewedAt: 2026-08-28
 sources:
   - name: "株式会社ＩＤホールディングス 有価証券報告書 第58期（2026年3月期）"

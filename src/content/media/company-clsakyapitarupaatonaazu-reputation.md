@@ -9,7 +9,7 @@ tags: ["CLSAキャピタルパートナーズ", "サンライズキャピタル"
 pubDate: 2026-08-03
 slug: "company-clsakyapitarupaatonaazu-reputation"
 image: "/images/media/company-clsakyapitarupaatonaazu-reputation.png"
-related: ["fas-consultant-in-20s", "job-ma-advisor-tenshoku-nanido", "company-ronguriichiguruupu-reputation", "company-rosuchairudoandkanpanii-reputation"]
+related: ["fas-consultant-in-20s", "industry-jigyo-shokei-tenshoku-nanido", "job-ma-advisor-tenshoku-nanido", "company-puruutasu-konsaruteingu-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "サンライズキャピタル株式会社 社名変更およびオフィス移転のお知らせ（2024年5月20日）"

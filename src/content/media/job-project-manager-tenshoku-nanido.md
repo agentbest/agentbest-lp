@@ -9,7 +9,7 @@ tags: ["プロジェクトマネージャー", "PjM", "転職難易度", "PMP", 
 pubDate: 2026-08-10
 slug: "job-project-manager-tenshoku-nanido"
 image: "/images/media/job-project-manager-tenshoku-nanido.png"
-related: ["saas-industry-salary", "job-project-manager-career-path", "job-project-manager-nensyu", "industry-mega-venture-tenshoku-nanido"]
+related: ["product-manager-in-20s", "job-project-manager-career-path", "job-project-manager-nensyu", "industry-tsushin-tenshoku-nanido"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

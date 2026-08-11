@@ -9,7 +9,7 @@ tags: ["TDCソフト", "システムインテグレータ", "アジャイル", "
 pubDate: 2026-08-29
 slug: "company-tdcsofuto-reputation"
 image: "/images/media/company-tdcsofuto-reputation.png"
-related: ["pmo-work-style", "industry-jigyo-gaisha-pdm-career-path", "company-shift-reputation", "company-shimamura-reputation"]
+related: ["pmo-work-style", "industry-user-kei-sier-career-path", "company-komatsu-reputation", "company-komuchua-reputation"]
 reviewedAt: 2026-08-29
 sources:
   - name: "ＴＤＣソフト株式会社 有価証券報告書 第73期（2026年3月期）"

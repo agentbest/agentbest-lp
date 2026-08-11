@@ -9,7 +9,7 @@ tags: ["AGSコンサルティング", "FAS", "M&A", "事業承継", "会計コ�
 pubDate: 2026-08-03
 slug: "company-agskonsaruteingu-reputation"
 image: "/images/media/company-agskonsaruteingu-reputation.png"
-related: ["finance-interview", "job-ma-advisor-nensyu", "job-fas-analyst-nensyu", "job-fas-analyst-senkou-flow"]
+related: ["finance-interview", "industry-pe-fund-nensyu", "job-ma-advisor-nensyu", "company-saibaaeejiento-kyapitaru-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "株式会社AGSコンサルティング 会社概要"

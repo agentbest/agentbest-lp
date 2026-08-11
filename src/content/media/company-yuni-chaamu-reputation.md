@@ -9,7 +9,7 @@ tags: ["ユニ・チャーム", "消費財", "パーソナルケア", "ペット
 pubDate: 2026-08-06
 slug: "company-yuni-chaamu-reputation"
 image: "/images/media/company-yuni-chaamu-reputation.png"
-related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-nttdokomo-reputation", "company-ntthigashinihon-reputation"]
+related: ["product-manager-salary", "industry-user-kei-sier-tenshoku-nanido", "company-zozo-reputation", "industry-jigyo-gaisha-pdm-career-path"]
 reviewedAt: 2026-08-06
 sources:
   - name: "ユニ・チャーム株式会社 有価証券報告書 第66期（2025年12月期）"

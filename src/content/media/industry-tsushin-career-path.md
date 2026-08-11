@@ -9,7 +9,7 @@ tags: ["通信キャリア", "キャリアパス", "電気通信事業法", "携
 pubDate: 2026-08-11
 slug: "industry-tsushin-career-path"
 image: "/images/media/industry-tsushin-career-path.png"
-related: ["product-manager-in-30s", "industry-tsushin-nensyu", "industry-tsushin-senkou-flow", "job-shanai-se-career-path"]
+related: ["saas-sales-from-scratch", "industry-tsushin-nensyu", "industry-tsushin-senkou-flow", "job-shanai-se-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 電気通信事業法 第26条（提供条件の説明）"

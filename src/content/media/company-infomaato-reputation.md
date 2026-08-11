@@ -9,7 +9,7 @@ tags: ["インフォマート", "BtoBプラットフォーム", "SaaS", "電子�
 pubDate: 2026-08-11
 slug: "company-infomaato-reputation"
 image: "/images/media/company-infomaato-reputation.png"
-related: ["customer-success-company-size", "industry-maker-it-nensyu", "job-field-sales-nensyu", "industry-maker-it-senkou-flow"]
+related: ["customer-success-company-size", "industry-maker-it-nensyu", "job-field-sales-nensyu", "company-uirugeeto-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社インフォマート 有価証券報告書 第28期（2025年12月期）"

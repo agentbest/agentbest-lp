@@ -9,7 +9,7 @@ tags: ["GCA", "フーリハン・ローキー", "M&Aアドバイザリー", "独
 pubDate: 2026-08-04
 slug: "company-gca-reputation"
 image: "/images/media/company-gca-reputation.png"
-related: ["finance-salary-600", "job-ma-advisor-senkou-flow", "company-sbiinbesutomento-reputation", "company-shiteiguruupushouken-reputation"]
+related: ["finance-salary-600", "industry-pe-fund-senkou-flow", "job-ma-advisor-senkou-flow", "job-saisei-consultant-senkou-flow"]
 reviewedAt: 2026-08-04
 sources:
   - name: "フーリハン・ローキー株式会社 会社概要"

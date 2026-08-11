@@ -9,7 +9,7 @@ tags: ["SHIFT", "ソフトウェアテスト", "品質保証", "QA", "M&A"]
 pubDate: 2026-08-29
 slug: "company-shift-reputation"
 image: "/images/media/company-shift-reputation.png"
-related: ["project-manager-interview", "industry-jigyo-gaisha-pdm-career-path", "company-asuteria-reputation", "company-aukabukomushouken-reputation"]
+related: ["project-manager-interview", "industry-jigyo-gaisha-pdm-career-path", "company-kiyanonitsoryuushonzu-reputation", "company-kiyuupii-reputation"]
 reviewedAt: 2026-08-29
 sources:
   - name: "株式会社SHIFT 有価証券報告書 第20期（2025年8月期）"

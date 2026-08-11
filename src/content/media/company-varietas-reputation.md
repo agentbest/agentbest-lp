@@ -9,7 +9,7 @@ tags: ["VARIETAS", "AI面接官", "HRテック", "AI", "非上場"]
 pubDate: 2026-08-16
 slug: "company-varietas-reputation"
 image: "/images/media/company-varietas-reputation.png"
-related: ["saas-sales-resume", "industry-mega-venture-nensyu", "job-dx-suishin-nensyu", "job-bizdev-nensyu"]
+related: ["customer-success-career-path", "industry-mega-venture-nensyu", "job-dx-suishin-nensyu", "job-project-manager-shibou-douki"]
 reviewedAt: 2026-08-16
 sources:
   - name: "株式会社VARIETAS 採用情報（HERP）"

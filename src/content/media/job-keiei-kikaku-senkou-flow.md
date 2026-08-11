@@ -9,7 +9,7 @@ tags: ["経営企画", "選考フロー", "面接対策", "開示制度", "上�
 pubDate: 2026-08-10
 slug: "job-keiei-kikaku-senkou-flow"
 image: "/images/media/job-keiei-kikaku-senkou-flow.png"
-related: ["customer-success-future", "job-keiei-kikaku-career-path", "job-keiei-kikaku-nensyu", "industry-mega-venture-career-path"]
+related: ["product-manager-in-20s", "job-keiei-kikaku-career-path", "job-keiei-kikaku-nensyu", "industry-tsushin-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／IR広報担当"

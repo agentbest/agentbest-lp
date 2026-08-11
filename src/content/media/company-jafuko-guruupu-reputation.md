@@ -9,7 +9,7 @@ tags: ["ジャフコ", "ベンチャーキャピタル", "東証プライム", "
 pubDate: 2026-08-04
 slug: "company-jafuko-guruupu-reputation"
 image: "/images/media/company-jafuko-guruupu-reputation.png"
-related: ["finance-in-30s", "job-ma-chukai-eigyo-career-path", "company-coral-capital-reputation", "company-deroito-toomatsu-fainansharuadobaizarii-reputation"]
+related: ["finance-in-30s", "industry-jigyo-saisei-career-path", "job-ma-chukai-eigyo-career-path", "company-pwcadobaizarii-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "ジャフコ グループ株式会社 有価証券報告書 第54期（2025年4月1日〜2026年3月31日、2026年6月17日提出）"

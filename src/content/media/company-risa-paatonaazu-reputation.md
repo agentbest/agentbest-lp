@@ -9,7 +9,7 @@ tags: ["リサ・パートナーズ", "NECキャピタルソリューション",
 pubDate: 2026-08-27
 slug: "company-risa-paatonaazu-reputation"
 image: "/images/media/company-risa-paatonaazu-reputation.png"
-related: ["fas-consultant-salary", "job-fas-analyst-career-path", "job-ma-advisor-career-path", "job-ma-advisor-nensyu"]
+related: ["fas-consultant-salary", "industry-ma-chukai-career-path", "job-fas-analyst-career-path", "company-adobantejjipaatonaazu-reputation"]
 reviewedAt: 2026-08-27
 sources:
   - name: "株式会社リサ・パートナーズ 会社概要"

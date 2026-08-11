@@ -9,7 +9,7 @@ tags: ["プロダクトマネージャー", "PdM", "キャリアパス", "CPO", 
 pubDate: 2026-08-11
 slug: "job-product-manager-career-path"
 image: "/images/media/job-product-manager-career-path.png"
-related: ["product-manager-resume", "job-product-manager-nensyu", "job-product-manager-senkou-flow", "industry-mega-venture-career-path"]
+related: ["saas-sales-career-guide", "job-product-manager-nensyu", "job-product-manager-senkou-flow", "industry-mega-venture-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／プロジェクトマネージャ（IT）"

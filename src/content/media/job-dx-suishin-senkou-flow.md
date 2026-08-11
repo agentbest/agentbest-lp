@@ -9,7 +9,7 @@ tags: ["DX推進", "選考フロー", "面接対策", "デジタルスキル標�
 pubDate: 2026-08-10
 slug: "job-dx-suishin-senkou-flow"
 image: "/images/media/job-dx-suishin-senkou-flow.png"
-related: ["customer-success-salary", "job-dx-suishin-career-path", "job-dx-suishin-nensyu", "industry-mega-venture-senkou-flow"]
+related: ["saas-sales-certification", "job-dx-suishin-career-path", "job-dx-suishin-nensyu", "industry-maker-it-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "IPA プレス発表 デジタルスキル標準ver.2.0を公開（2026年4月16日）"

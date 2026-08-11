@@ -9,7 +9,7 @@ tags: ["テクマトリックス", "情報基盤", "医療システム", "NOBORI
 pubDate: 2026-09-05
 slug: "company-tekumatorikkusu-reputation"
 image: "/images/media/company-tekumatorikkusu-reputation.png"
-related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-adosorunisshin-reputation", "company-ai-esu-bii-reputation"]
+related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-kyuubushisutemu-reputation", "company-manekkusuguruupu-reputation"]
 reviewedAt: 2026-09-05
 sources:
   - name: "テクマトリックス株式会社 有価証券報告書 第42期（2026年3月期）"

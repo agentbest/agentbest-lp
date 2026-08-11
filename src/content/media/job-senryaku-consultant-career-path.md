@@ -9,7 +9,7 @@ tags: ["戦略コンサルタント", "キャリアパス", "ポストコンサ�
 pubDate: 2026-08-02
 slug: "job-senryaku-consultant-career-path"
 image: "/images/media/job-senryaku-consultant-career-path.png"
-related: ["it-consultant-career-path", "job-senryaku-consultant-nensyu", "job-senryaku-consultant-senkou-flow", "industry-senryaku-consul-nensyu"]
+related: ["it-consultant-in-30s", "job-senryaku-consultant-nensyu", "job-senryaku-consultant-senkou-flow", "industry-gyokai-tokka-consul-nensyu"]
 reviewedAt: 2026-08-02
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／経営コンサルタント（令和7年賃金構造基本統計調査）"

@@ -9,7 +9,7 @@ tags: ["プリセールス", "志望動機", "セールスエンジニア", "職
 pubDate: 2026-08-10
 slug: "job-pre-sales-shibou-douki"
 image: "/images/media/job-pre-sales-shibou-douki.png"
-related: ["saas-sales-salary-1000", "job-pre-sales-career-path", "job-pre-sales-nensyu", "industry-mega-venture-shibou-douki"]
+related: ["customer-success-salary-600", "job-pre-sales-career-path", "job-pre-sales-nensyu", "industry-maker-it-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／コンサルティング営業（IT）"

@@ -9,7 +9,7 @@ tags: ["SBIインベストメント", "SBIホールディングス", "ベンチ�
 pubDate: 2026-08-24
 slug: "company-sbiinbesutomento-reputation"
 image: "/images/media/company-sbiinbesutomento-reputation.png"
-related: ["finance-interview", "job-ma-advisor-nensyu", "job-fas-analyst-nensyu", "job-fas-analyst-senkou-flow"]
+related: ["finance-interview", "industry-pe-fund-nensyu", "job-ma-advisor-nensyu", "company-rosuchairudoandkanpanii-reputation"]
 reviewedAt: 2026-08-24
 sources:
   - name: "SBIホールディングス株式会社 有価証券報告書 第28期（2026年3月期）"

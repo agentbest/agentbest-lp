@@ -9,7 +9,7 @@ tags: ["NTTデータグループ", "持株会社", "SIer", "グローバル", "�
 pubDate: 2026-08-05
 slug: "company-nttdeetaguruupu-reputation"
 image: "/images/media/company-nttdeetaguruupu-reputation.png"
-related: ["corporate-planning-market-trend", "industry-jigyo-gaisha-pdm-senkou-flow", "company-sofutobanku-reputation", "company-soniiguruupu-reputation"]
+related: ["corporate-planning-market-trend", "industry-jigyo-gaisha-pdm-senkou-flow", "company-kurosukyatto-reputation", "company-kyousera-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "NTTデータグループ 有価証券報告書 第37期（2025年3月期）"

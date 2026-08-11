@@ -9,7 +9,7 @@ tags: ["事業企画", "転職難易度", "有効求人倍率", "スタートア
 pubDate: 2026-08-10
 slug: "job-jigyo-kikaku-tenshoku-nanido"
 image: "/images/media/job-jigyo-kikaku-tenshoku-nanido.png"
-related: ["customer-success-future", "job-jigyo-kikaku-career-path", "job-jigyo-kikaku-nensyu", "industry-mega-venture-career-path"]
+related: ["customer-success-motivation", "job-jigyo-kikaku-career-path", "job-jigyo-kikaku-nensyu", "industry-tsushin-career-path"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／企画・調査担当"

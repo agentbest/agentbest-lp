@@ -9,7 +9,7 @@ tags: ["CAC Holdings", "シーエーシー", "システムインテグレーシ�
 pubDate: 2026-08-27
 slug: "company-cac-holdings-reputation"
 image: "/images/media/company-cac-holdings-reputation.png"
-related: ["dev-director-in-30s", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-ajinomoto-reputation", "company-amazon-uebusaabisujapan-reputation"]
+related: ["dev-director-in-30s", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-kapukon-reputation", "company-karubii-reputation"]
 reviewedAt: 2026-08-27
 sources:
   - name: "株式会社ＣＡＣ Ｈｏｌｄｉｎｇｓ 有価証券報告書 第60期（2025年12月期）"

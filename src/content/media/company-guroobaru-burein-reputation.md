@@ -9,7 +9,7 @@ tags: ["グローバル・ブレイン", "ベンチャーキャピタル", "CVC�
 pubDate: 2026-08-26
 slug: "company-guroobaru-burein-reputation"
 image: "/images/media/company-guroobaru-burein-reputation.png"
-related: ["ma-advisor-in-30s", "job-fas-analyst-career-path", "company-coral-capital-reputation", "company-deroito-toomatsu-fainansharuadobaizarii-reputation"]
+related: ["ma-advisor-in-30s", "industry-ma-chukai-career-path", "job-fas-analyst-career-path", "job-saisei-consultant-career-path"]
 reviewedAt: 2026-08-26
 sources:
   - name: "グローバル・ブレイン株式会社 公式サイト（会社概要）"

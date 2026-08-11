@@ -9,7 +9,7 @@ tags: ["M&A仲介", "M&A営業", "選考フロー", "面接対策", "ロール�
 pubDate: 2026-08-11
 slug: "job-ma-chukai-eigyo-senkou-flow"
 image: "/images/media/job-ma-chukai-eigyo-senkou-flow.png"
-related: ["ma-advisor-certification", "job-ma-chukai-eigyo-career-path", "job-ma-chukai-eigyo-nensyu", "company-peakyapitaru-reputation"]
+related: ["ma-advisor-certification", "job-ma-chukai-eigyo-career-path", "job-ma-chukai-eigyo-nensyu", "industry-jigyo-shokei-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

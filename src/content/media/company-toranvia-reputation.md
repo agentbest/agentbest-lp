@@ -9,7 +9,7 @@ tags: ["トランヴィア", "東邦システムサイエンス", "ランドコ�
 pubDate: 2026-09-06
 slug: "company-toranvia-reputation"
 image: "/images/media/company-toranvia-reputation.png"
-related: ["pmo-work-style", "industry-user-kei-sier-nensyu", "company-hitachisoryuushonzu-reputation", "company-hondagikenkougyou-reputation"]
+related: ["pmo-work-style", "industry-user-kei-sier-nensyu", "company-shisutena-reputation", "company-sky-reputation"]
 reviewedAt: 2026-09-06
 sources:
   - name: "株式会社トランヴィア 新規上場申請のための有価証券報告書（Ⅰの部）（2026年3月2日提出）"

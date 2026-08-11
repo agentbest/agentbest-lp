@@ -9,7 +9,7 @@ tags: ["ニーズウェル", "業務系システム開発", "IT基盤", "長崎�
 pubDate: 2026-09-07
 slug: "company-niizuueru-reputation"
 image: "/images/media/company-niizuueru-reputation.png"
-related: ["project-manager-career-path", "industry-user-kei-sier-nensyu", "company-nttdeetaguruupu-reputation", "company-nttdeetasentangijutsu-reputation"]
+related: ["project-manager-career-path", "industry-user-kei-sier-nensyu", "company-mitsuisumitomoginkou-reputation", "company-mitsuisumitomoshintakuginkou-reputation"]
 reviewedAt: 2026-09-07
 sources:
   - name: "株式会社ニーズウェル 有価証券報告書 第39期（2025年9月期）"

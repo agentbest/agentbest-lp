@@ -9,7 +9,7 @@ tags: ["インテグループ", "M&A仲介", "東証グロース", "完全成功
 pubDate: 2026-08-04
 slug: "company-integuruupu-reputation"
 image: "/images/media/company-integuruupu-reputation.png"
-related: ["finance-market-trend", "job-saisei-consultant-senkou-flow", "company-meiminamimanda-reputation", "company-mitsubishiufjkyapitaru-reputation"]
+related: ["finance-market-trend", "industry-pe-fund-senkou-flow", "job-saisei-consultant-senkou-flow", "company-peakyapitaru-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "インテグループ株式会社 有価証券報告書 第18期（2024年6月1日〜2025年5月31日、2025年8月29日提出）"

@@ -9,7 +9,7 @@ tags: ["M&Aアドバイザー", "FA", "年収相場", "職位", "リテイナー
 pubDate: 2026-08-11
 slug: "job-ma-advisor-nensyu"
 image: "/images/media/job-ma-advisor-nensyu.png"
-related: ["ma-advisor-in-30s", "job-ma-advisor-career-path", "job-ma-advisor-senkou-flow", "company-mandabesutopaatonaazu-reputation"]
+related: ["ma-advisor-in-30s", "job-ma-advisor-career-path", "job-ma-advisor-senkou-flow", "industry-ma-chukai-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

@@ -9,7 +9,7 @@ tags: ["エン", "エン・ジャパン", "人材サービス", "社名変更", 
 pubDate: 2026-08-11
 slug: "company-en-reputation"
 image: "/images/media/company-en-reputation.png"
-related: ["customer-success-career-guide", "industry-tsushin-tenshoku-nanido", "job-vc-capitalist-tenshoku-nanido", "job-scrum-master-shibou-douki"]
+related: ["customer-success-career-guide", "industry-tsushin-tenshoku-nanido", "job-vc-capitalist-tenshoku-nanido", "job-field-sales-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "エン株式会社 有価証券報告書 第26期（2026年3月期・2026年6月22日提出）"

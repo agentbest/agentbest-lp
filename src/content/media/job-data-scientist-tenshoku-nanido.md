@@ -9,7 +9,7 @@ tags: ["データサイエンティスト", "転職難易度", "有効求人倍�
 pubDate: 2026-08-10
 slug: "job-data-scientist-tenshoku-nanido"
 image: "/images/media/job-data-scientist-tenshoku-nanido.png"
-related: ["product-manager-motivation", "job-data-scientist-career-path", "job-data-scientist-nensyu", "industry-mega-venture-nensyu"]
+related: ["product-manager-english", "job-data-scientist-career-path", "job-data-scientist-nensyu", "industry-kinyu-it-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／データサイエンティスト"

@@ -9,7 +9,7 @@ tags: ["プリセールス", "年収相場", "セールスエンジニア", "イ
 pubDate: 2026-08-10
 slug: "job-pre-sales-nensyu"
 image: "/images/media/job-pre-sales-nensyu.png"
-related: ["product-manager-future", "job-pre-sales-career-path", "job-pre-sales-senkou-flow", "industry-mega-venture-senkou-flow"]
+related: ["customer-success-resume", "job-pre-sales-career-path", "job-pre-sales-senkou-flow", "industry-maker-it-senkou-flow"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／システムエンジニア（基盤システム）"

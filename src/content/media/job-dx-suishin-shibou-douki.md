@@ -9,7 +9,7 @@ tags: ["DX推進", "志望動機", "職務経歴書", "デジタルスキル標�
 pubDate: 2026-08-10
 slug: "job-dx-suishin-shibou-douki"
 image: "/images/media/job-dx-suishin-shibou-douki.png"
-related: ["customer-success-salary-1000", "job-dx-suishin-career-path", "job-dx-suishin-nensyu", "industry-mega-venture-nensyu"]
+related: ["saas-industry-salary", "job-dx-suishin-career-path", "job-dx-suishin-nensyu", "industry-tsushin-nensyu"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／DXプロデューサー"

@@ -9,7 +9,7 @@ tags: ["Spiral Capital", "スパイラルキャピタル", "ベンチャーキ�
 pubDate: 2026-08-24
 slug: "company-spiral-capital-reputation"
 image: "/images/media/company-spiral-capital-reputation.png"
-related: ["ma-industry-salary", "job-saisei-consultant-shibou-douki", "company-peakyapitaru-reputation", "company-porarisu-kyapitaru-guruupu-reputation"]
+related: ["ma-industry-salary", "industry-jigyo-shokei-shibou-douki", "job-saisei-consultant-shibou-douki", "company-aozoraginkouguruupu-reputation"]
 reviewedAt: 2026-08-24
 sources:
   - name: "Spiral Capital 公式サイト（ABOUT／TEAM）"

@@ -9,7 +9,7 @@ tags: ["M&A仲介", "M&A営業", "志望動機", "職務経歴書", "事業承�
 pubDate: 2026-08-11
 slug: "job-ma-chukai-eigyo-shibou-douki"
 image: "/images/media/job-ma-chukai-eigyo-shibou-douki.png"
-related: ["ma-advisor-from-scratch", "job-ma-chukai-eigyo-career-path", "job-ma-chukai-eigyo-nensyu", "company-strive-reputation"]
+related: ["ma-advisor-from-scratch", "job-ma-chukai-eigyo-career-path", "job-ma-chukai-eigyo-nensyu", "industry-jigyo-shokei-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／M&Aマネージャー、M&Aコンサルタント・M&Aアドバイザー"

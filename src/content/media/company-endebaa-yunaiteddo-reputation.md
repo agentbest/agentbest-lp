@@ -9,7 +9,7 @@ tags: ["エンデバー・ユナイテッド", "PEファンド", "事業再生",
 pubDate: 2026-08-04
 slug: "company-endebaa-yunaiteddo-reputation"
 image: "/images/media/company-endebaa-yunaiteddo-reputation.png"
-related: ["finance-salary", "job-saisei-consultant-career-path", "company-ub-ventures-reputation", "company-wil-reputation"]
+related: ["finance-salary", "industry-pe-fund-career-path", "job-saisei-consultant-career-path", "company-integuraru-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "エンデバー・ユナイテッド株式会社 会社概要"

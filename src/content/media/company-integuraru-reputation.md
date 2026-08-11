@@ -9,7 +9,7 @@ tags: ["インテグラル", "PEファンド", "東証グロース", "ハンズ�
 pubDate: 2026-08-04
 slug: "company-integuraru-reputation"
 image: "/images/media/company-integuraru-reputation.png"
-related: ["post-consultant-certification", "job-fas-analyst-senkou-flow", "company-anri-reputation", "company-aozoraginkouguruupu-reputation"]
+related: ["post-consultant-certification", "industry-jigyo-saisei-senkou-flow", "job-fas-analyst-senkou-flow", "company-meiminamimanda-reputation"]
 reviewedAt: 2026-08-04
 sources:
   - name: "インテグラル株式会社 有価証券報告書 第20期（2025年1月1日〜2025年12月31日、2026年3月19日提出）"

@@ -9,7 +9,7 @@ tags: ["楽天モバイル", "通信", "MNO", "楽天グループ", "非上場"]
 pubDate: 2026-08-09
 slug: "company-rakutenmobairu-reputation"
 image: "/images/media/company-rakutenmobairu-reputation.png"
-related: ["business-planning-in-30s", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow", "industry-jigyo-gaisha-pdm-shibou-douki"]
+related: ["business-planning-in-30s", "industry-jigyo-gaisha-pdm-nensyu", "company-seikooepuson-reputation", "company-sekku-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "楽天グループ株式会社 有価証券報告書 第29期（2025年12月期）"

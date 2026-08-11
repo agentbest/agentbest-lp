@@ -9,7 +9,7 @@ tags: ["金融IT", "フィンテック", "選考フロー", "面接対策", "資
 pubDate: 2026-08-11
 slug: "industry-kinyu-it-senkou-flow"
 image: "/images/media/industry-kinyu-it-senkou-flow.png"
-related: ["product-manager-market-trend", "industry-kinyu-it-career-path", "industry-kinyu-it-nensyu", "job-shanai-se-career-path"]
+related: ["saas-sales-company-size", "industry-kinyu-it-career-path", "industry-kinyu-it-nensyu", "job-shanai-se-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "e-Gov法令検索 資金決済に関する法律 第36条の2（資金移動業の種別）"

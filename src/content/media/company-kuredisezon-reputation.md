@@ -9,7 +9,7 @@ tags: ["クレディセゾン", "セゾンカード", "クレジットカード"
 pubDate: 2026-08-05
 slug: "company-kuredisezon-reputation"
 image: "/images/media/company-kuredisezon-reputation.png"
-related: ["dev-director-salary-600", "industry-jigyo-gaisha-pdm-nensyu", "company-aukabukomushouken-reputation", "company-bikkukamera-reputation"]
+related: ["dev-director-salary-600", "industry-jigyo-gaisha-pdm-nensyu", "company-kiyuupii-reputation", "company-koa-reputation"]
 reviewedAt: 2026-08-05
 sources:
   - name: "クレディセゾン 有価証券報告書 第76期（2026年3月期）"
