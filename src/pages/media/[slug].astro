@@ -15,6 +15,8 @@ export async function getStaticPaths() {
 
 const { post, all } = Astro.props;
 const { Content } = await post.render();
+const SITE = 'https://www.agent-best.net';
+const articleURL = `${SITE}/media/${post.slug}/`;
 const related = (post.data.related ?? [])
   .map((s) => all.find((p) => p.slug === s))
   .filter(Boolean);
@@ -205,21 +207,42 @@ const related = (post.data.related ?? [])
   }
 </style>
 
-<script type="application/ld+json" set:html={JSON.stringify({
+<script type="application/ld+json" is:inline set:html={JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'Article',
+  mainEntityOfPage: { '@type': 'WebPage', '@id': articleURL },
+  url: articleURL,
   headline: post.data.title,
   description: post.data.description,
   datePublished: post.data.pubDate,
-  image: post.data.image,
+  dateModified: post.data.reviewedAt ?? post.data.pubDate,
+  inLanguage: 'ja',
+  ...(post.data.image ? { image: new URL(post.data.image, SITE).href } : {}),
   author: {
     '@type': 'Person',
     name: '松岡 良次',
-    url: 'https://www.agent-best.net/profile',
+    url: 'https://www.agent-best.net/profile/',
     sameAs: [
       'https://x.com/r_matsuoka0919',
       'https://www.facebook.com/ryouji.matsuoka919',
       'https://www.linkedin.com/in/%E8%89%AF%E6%AC%A1-%E6%9D%BE%E5%B2%A1-87bb9851/'
     ]
   },
+  publisher: {
+    '@type': 'Organization',
+    '@id': 'https://www.agent-best.net/#organization',
+    name: '株式会社エージェントベスト',
+    url: 'https://www.agent-best.net/',
+    logo: { '@type': 'ImageObject', url: 'https://www.agent-best.net/favicon.svg' },
+  },
+})} />
+
+<script type="application/ld+json" is:inline set:html={JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://www.agent-best.net/' },
+    { '@type': 'ListItem', position: 2, name: 'キャリアメディア', item: 'https://www.agent-best.net/media/' },
+    { '@type': 'ListItem', position: 3, name: post.data.title, item: articleURL },
+  ],
 })} />

@@ -70,6 +70,42 @@ const company = [
   { k: '事業内容', v: '有料職業紹介事業／採用支援（RPO）' },
   { k: '許可番号', v: '13-ユ-316964' },
 ];
+
+// 構造化データ（Organization / WebSite）
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': 'https://www.agent-best.net/#organization',
+  name: '株式会社エージェントベスト',
+  alternateName: 'AGENT BEST',
+  url: 'https://www.agent-best.net/',
+  logo: 'https://www.agent-best.net/favicon.svg',
+  description:
+    'IT・スタートアップ・M&A・コンサル領域に特化した転職エージェント。20代・30代のハイクラス層に向けて、10年先から逆算した転職支援を行っています。',
+  address: {
+    '@type': 'PostalAddress',
+    addressCountry: 'JP',
+    addressRegion: '東京都',
+    addressLocality: '港区',
+    streetAddress: '六本木4-8-7 嶋田ビル5階',
+  },
+  founder: {
+    '@type': 'Person',
+    name: '松岡 良次',
+    url: 'https://www.agent-best.net/profile/',
+  },
+  knowsAbout: ['転職支援', 'IT業界', 'スタートアップ', 'コンサルティング業界', 'M&A業界', '採用支援'],
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': 'https://www.agent-best.net/#website',
+  url: 'https://www.agent-best.net/',
+  name: '株式会社エージェントベスト',
+  inLanguage: 'ja',
+  publisher: { '@id': 'https://www.agent-best.net/#organization' },
+};
 ---
 
 <Layout>
@@ -714,4 +750,7 @@ const company = [
     .footer-contact-link { font-size: 0.78rem; color: #AEB6C2; border-bottom: 1px solid transparent; transition: color .2s ease, border-color .2s ease; }
     .footer-contact-link:hover { color: #B7D9CF; border-bottom-color: #B7D9CF; }
   </style>
+
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(organizationSchema)} />
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(websiteSchema)} />
 </Layout>

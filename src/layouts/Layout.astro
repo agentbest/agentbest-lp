@@ -3,11 +3,20 @@ import '../styles/global.css';
 export interface Props {
   title?: string;
   description?: string;
+  /** true にするとそのページだけ検索結果から除外する（重複ページ用） */
+  noindex?: boolean;
 }
 const {
   title = '株式会社エージェントベスト｜20代・30代ハイクラスのための転職エージェント',
   description = 'IT・スタートアップ・M&A・コンサル領域に特化。20代・30代でキャリアを積み始めたハイクラス層へ、領域を絞った確かな転職提案を。10年先から逆算する、戦略的な一社をご提案します。',
+  noindex = false,
 } = Astro.props;
+
+// canonical URL。sitemap-0.xml の出力（末尾スラッシュあり）と表記を揃える
+const canonicalPath = Astro.url.pathname.endsWith('/')
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const canonicalURL = new URL(canonicalPath, Astro.site);
 ---
 <!DOCTYPE html>
 <html lang="ja">
@@ -16,10 +25,15 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="ja_JP" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:site_name" content="株式会社エージェントベスト" />
+    <meta name="twitter:card" content="summary_large_image" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
