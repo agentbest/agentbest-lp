@@ -116,7 +116,7 @@ sources:
 
 なお、この領域は平均勤続年数が比較的長く、上場ファームの開示では7.2年という数値が示されています。案件の期間が長いことに加え、経験が組織に蓄積される構造があると考えられます。市場に出てくる経験者が限られるぶん、需要は保たれやすい領域です。
 
-報酬の構造については[事業再生の年収相場](/media/industry-jigyo-saisei-nensyu)、選考の流れは[事業再生の選考フロー・面接対策](/media/industry-jigyo-saisei-senkou-flow)で整理しています。
+報酬の構造については[事業再生の年収相場](/media/industry-jigyo-saisei-nensyu/)、選考の流れは[事業再生の選考フロー・面接対策](/media/industry-jigyo-saisei-senkou-flow/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

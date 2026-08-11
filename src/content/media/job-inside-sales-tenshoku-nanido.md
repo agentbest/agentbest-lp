@@ -153,12 +153,12 @@ sources:
 
 ## 隣接職種との関係
 
-- **次の工程へ** — [フィールドセールス（SaaS）の転職難易度](/media/job-field-sales-tenshoku-nanido)、[SaaS営業に求められるスキル](/media/saas-sales-skills)
-- **後の工程へ** — [カスタマーサクセスの転職市場動向](/media/customer-success-market-trend)
-- **前の工程へ** — [デジタルマーケターの転職市場動向](/media/digital-marketer-market-trend)
-- **同職種の一般的な情報** — [インサイドセールスの転職市場動向](/media/inside-sales-market-trend)、[インサイドセールスに未経験から挑戦するには](/media/inside-sales-from-scratch)
+- **次の工程へ** — [フィールドセールス（SaaS）の転職難易度](/media/job-field-sales-tenshoku-nanido/)、[SaaS営業に求められるスキル](/media/saas-sales-skills/)
+- **後の工程へ** — [カスタマーサクセスの転職市場動向](/media/customer-success-market-trend/)
+- **前の工程へ** — [デジタルマーケターの転職市場動向](/media/digital-marketer-market-trend/)
+- **同職種の一般的な情報** — [インサイドセールスの転職市場動向](/media/inside-sales-market-trend/)、[インサイドセールスに未経験から挑戦するには](/media/inside-sales-from-scratch/)
 
-キャリアの進み方と年収は、[インサイドセールスのキャリアパス](/media/job-inside-sales-career-path)、[インサイドセールスの年収相場](/media/job-inside-sales-nensyu)をご確認ください。
+キャリアの進み方と年収は、[インサイドセールスのキャリアパス](/media/job-inside-sales-career-path/)、[インサイドセールスの年収相場](/media/job-inside-sales-nensyu/)をご確認ください。
 
 ## まとめ
 

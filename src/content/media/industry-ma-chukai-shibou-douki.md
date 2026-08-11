@@ -92,10 +92,10 @@ M&Aキャピタルパートナーズの第20期（2025年9月期）では、提�
 
 ## 会社のタイプごとに、軸をずらす
 
-- **上場の大手仲介**では、体制の中で成果を出す姿勢が軸になります。[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation)、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation)、[ストライクの評判](/media/company-sutoraiku-reputation)をご覧ください
-- **中堅・専業の仲介**では、担当範囲の広さを求める理由が軸です。[オンデックの評判](/media/company-ondekku-reputation)、[M&Aベストパートナーズの評判](/media/company-mandabesutopaatonaazu-reputation)、[経営承継支援の評判](/media/company-keieishoukeishien-reputation)が参考になります
-- **プラットフォーム型**では、仕組みで成約を増やす発想が軸になります。[バトンズの評判](/media/company-batonz-reputation)、[fundbookの評判](/media/company-fundbook-reputation)をご覧ください
-- **士業系・コンサル併営**では、専門領域との掛け合わせが軸です。[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation)、[インテグループの評判](/media/company-integuruupu-reputation)が該当します
+- **上場の大手仲介**では、体制の中で成果を出す姿勢が軸になります。[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation/)、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation/)、[ストライクの評判](/media/company-sutoraiku-reputation/)をご覧ください
+- **中堅・専業の仲介**では、担当範囲の広さを求める理由が軸です。[オンデックの評判](/media/company-ondekku-reputation/)、[M&Aベストパートナーズの評判](/media/company-mandabesutopaatonaazu-reputation/)、[経営承継支援の評判](/media/company-keieishoukeishien-reputation/)が参考になります
+- **プラットフォーム型**では、仕組みで成約を増やす発想が軸になります。[バトンズの評判](/media/company-batonz-reputation/)、[fundbookの評判](/media/company-fundbook-reputation/)をご覧ください
+- **士業系・コンサル併営**では、専門領域との掛け合わせが軸です。[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/)、[インテグループの評判](/media/company-integuruupu-reputation/)が該当します
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>
@@ -128,7 +128,7 @@ M&Aキャピタルパートナーズの第20期（2025年9月期）では、提�
 
 法人営業の経験がある方は、扱った商材ではなく相手の役職と検討期間で語り直します。個人向け営業からの応募でも、経営者に近い顧客層を扱っていたなら接続できます。
 
-士業や金融機関の出身であれば、専門知識は前提として置き、そのうえで「なぜ助言する側から間に立つ側に移るのか」を書く必要があります。ここを書かないと、専門性を活かしたいという説明だけが残り、仲介を選んだ理由が抜けてしまいます。難易度の全体像は[転職難易度](/media/industry-ma-chukai-tenshoku-nanido)を、入社後の進み方は[キャリアパス](/media/industry-ma-chukai-career-path)をご覧ください。
+士業や金融機関の出身であれば、専門知識は前提として置き、そのうえで「なぜ助言する側から間に立つ側に移るのか」を書く必要があります。ここを書かないと、専門性を活かしたいという説明だけが残り、仲介を選んだ理由が抜けてしまいます。難易度の全体像は[転職難易度](/media/industry-ma-chukai-tenshoku-nanido/)を、入社後の進み方は[キャリアパス](/media/industry-ma-chukai-career-path/)をご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

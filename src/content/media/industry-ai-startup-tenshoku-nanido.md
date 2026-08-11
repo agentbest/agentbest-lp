@@ -128,7 +128,7 @@ AIエンジニアの2.25は、募集側が人材を探している状態を示�
 
 30代後半以降では、業界知見と、チームを動かした経験の両方が求められる傾向があります。職業情報提供サイト job tag のAIエンジニア区分の平均年齢は42.2歳ですが、これは大手企業を含む母集団の数値であり、スタートアップの年齢構成とは異なります。
 
-報酬の構造については[AI・機械学習スタートアップの年収相場](/media/industry-ai-startup-nensyu)、キャリアの進み方については[AI・機械学習スタートアップのキャリアパス](/media/industry-ai-startup-career-path)で整理しています。
+報酬の構造については[AI・機械学習スタートアップの年収相場](/media/industry-ai-startup-nensyu/)、キャリアの進み方については[AI・機械学習スタートアップのキャリアパス](/media/industry-ai-startup-career-path/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

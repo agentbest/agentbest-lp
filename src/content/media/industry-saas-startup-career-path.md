@@ -134,7 +134,7 @@ job tagのプログラマーの区分は有効求人倍率0.94、就業者数389
 
 自社製品であるため、受託と違って「顧客が決めた要件」がありません。何を作るかを自分たちで決めます。この判断に関われるかが、キャリアの分かれ目になります。
 
-**関連する領域** — [SaaS業界のキャリア](/media/saas-industry-career)、[SaaS業界の動向](/media/saas-industry-trend)もあわせてご覧ください。
+**関連する領域** — [SaaS業界のキャリア](/media/saas-industry-career/)、[SaaS業界の動向](/media/saas-industry-trend/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

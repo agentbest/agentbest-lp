@@ -173,7 +173,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-eitoreddo-reputation">選択肢を聞いてみる</a>
 </aside>
 
-同じくパッケージ製品を扱う会社との比較には、[オービックの評判](/media/company-oobikku-reputation)、[SmartHRの評判](/media/company-smarthr-reputation)、[SHIFTの評判](/media/company-shift-reputation)、[DTSの評判](/media/company-dts-reputation)もご覧ください。
+同じくパッケージ製品を扱う会社との比較には、[オービックの評判](/media/company-oobikku-reputation/)、[SmartHRの評判](/media/company-smarthr-reputation/)、[SHIFTの評判](/media/company-shift-reputation/)、[DTSの評判](/media/company-dts-reputation/)もご覧ください。
 
 ## まとめ
 

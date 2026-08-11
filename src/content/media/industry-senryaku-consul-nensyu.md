@@ -105,14 +105,14 @@ sources:
 
 報酬の水準と設計は、ファームの類型によって傾向が分かれます。非上場のファームは平均年収の公式な開示がないため、業界一般の構造から読むほかありません。各社の詳細は個別の記事にまとめています。
 
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation) … 有価証券報告書で平均年間給与を確認できる数少ない例。業績連動部分の変動も開示されています
-- [エル・ティー・エスの評判](/media/company-lts-reputation) … 上場企業。平均年齢34.8歳という若い構成での平均値です
-- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation) … 非上場。年収の開示はありませんが、厚労省データベースに働き方の数値があります
-- [コーポレイトディレクションの評判](/media/company-corporate-directions-reputation) … 非上場・少人数。等級表より個別の合意で決まる比重が高くなります
-- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation) … 年俸制。大手グループの制度基盤を使える構成です
-- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation) … 外資系戦略ファームの報酬設計
-- [PwC Strategy&の評判](/media/company-pwc-strategyand-reputation) … 総合系グループ内の戦略部門という位置づけ
-- [Ridgelinezの評判](/media/company-ridgelinez-reputation) … 非上場。大手グループの制度と、ファーム型の報酬・評価の組み合わせです
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/) … 有価証券報告書で平均年間給与を確認できる数少ない例。業績連動部分の変動も開示されています
+- [エル・ティー・エスの評判](/media/company-lts-reputation/) … 上場企業。平均年齢34.8歳という若い構成での平均値です
+- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation/) … 非上場。年収の開示はありませんが、厚労省データベースに働き方の数値があります
+- [コーポレイトディレクションの評判](/media/company-corporate-directions-reputation/) … 非上場・少人数。等級表より個別の合意で決まる比重が高くなります
+- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation/) … 年俸制。大手グループの制度基盤を使える構成です
+- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation/) … 外資系戦略ファームの報酬設計
+- [PwC Strategy&の評判](/media/company-pwc-strategyand-reputation/) … 総合系グループ内の戦略部門という位置づけ
+- [Ridgelinezの評判](/media/company-ridgelinez-reputation/) … 非上場。大手グループの制度と、ファーム型の報酬・評価の組み合わせです
 
 ## 未経験入社時の年収をどう見積もるか
 

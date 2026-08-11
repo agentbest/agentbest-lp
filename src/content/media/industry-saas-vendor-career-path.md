@@ -136,7 +136,7 @@ SaaSでは、その前提がありません。**作るべきものを定義す�
 
 job tagの区分では、プログラマーが時給2,819円、ITコンサルタントが4,026円。**実装だけに留まると、単価は上がりにくくなります。** 何を作るかを決める側に回ることが、水準を変える経路です。
 
-**隣接領域** — [SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path)、[ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path)もあわせてご覧ください。
+**隣接領域** — [SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path/)、[ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

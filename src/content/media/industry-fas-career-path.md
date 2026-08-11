@@ -69,7 +69,7 @@ FASは等級で役割が定義される組織です。名称は法人により�
 
 **選択肢3：M&A仲介やFA専業に移る。**
 
-案件を作る側に近づく道です。中小企業庁のM&A支援機関登録制度では、M&A専門業者のFAが377件、仲介が803件と登録されています。案件獲得の比重が上がる点は事前に理解しておく必要があります。詳しくは[M&A仲介のキャリアパス](/media/industry-ma-chukai-career-path)をご覧ください。
+案件を作る側に近づく道です。中小企業庁のM&A支援機関登録制度では、M&A専門業者のFAが377件、仲介が803件と登録されています。案件獲得の比重が上がる点は事前に理解しておく必要があります。詳しくは[M&A仲介のキャリアパス](/media/industry-ma-chukai-career-path/)をご覧ください。
 
 **選択肢4：独立・小規模事務所を構える。**
 
@@ -100,7 +100,7 @@ FASでは会計士資格が必須とはかぎりませんが、キャリアの�
 | 証券会社系 | 大型案件・資本市場へ | 部門の枠 |
 | 事業会社のM&A部門 | 統合まで見届ける | 案件数の頻度 |
 
-各法人の状況は[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation)、[KPMG FASの評判](/media/company-kpmg-fas-reputation)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation)、[GCAの評判](/media/company-gca-reputation)、[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation)をご覧ください。
+各法人の状況は[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation/)、[KPMG FASの評判](/media/company-kpmg-fas-reputation/)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation/)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation/)、[GCAの評判](/media/company-gca-reputation/)、[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation/)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/)をご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>
@@ -130,7 +130,7 @@ FASでは会計士資格が必須とはかぎりませんが、キャリアの�
 
 30代後半になると、等級が上がるか、外に出るかの判断が近づきます。等級が上がる道では、案件の獲得や部門の運営に関わる比重が増え、分析の実務からは離れていきます。
 
-外に出る場合、この年代では事業会社のM&A部門や経営企画が有力な選択肢になります。買い手側は、デューデリジェンスの実務を理解している人を継続的に必要としているためです。年収の構造は[年収相場](/media/industry-fas-nensyu)、入口の難易度は[転職難易度](/media/industry-fas-tenshoku-nanido)で扱っています。
+外に出る場合、この年代では事業会社のM&A部門や経営企画が有力な選択肢になります。買い手側は、デューデリジェンスの実務を理解している人を継続的に必要としているためです。年収の構造は[年収相場](/media/industry-fas-nensyu/)、入口の難易度は[転職難易度](/media/industry-fas-tenshoku-nanido/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -114,7 +114,7 @@ M&A側は平均1,134.6万円で有効求人倍率0.57。証券外務員は平均
 
 この対比は、報酬の構造の違いも示しています。証券営業は月次で数字が動きやすく、成果の確認が早い代わりに、1件あたりの報酬の伸びは緩やかです。仲介は成約すれば大きく報われる代わりに、そこまでの期間が長くなります。
 
-どちらが有利かではなく、**手応えの周期が違う**と捉えるのが実務的です。業界全体の水準は[M&A業界の年収](/media/ma-industry-salary)、[M&Aアドバイザーの年収](/media/ma-advisor-salary)、隣接する[FASアナリストの年収相場](/media/job-fas-analyst-nensyu)もあわせてご覧ください。
+どちらが有利かではなく、**手応えの周期が違う**と捉えるのが実務的です。業界全体の水準は[M&A業界の年収](/media/ma-industry-salary/)、[M&Aアドバイザーの年収](/media/ma-advisor-salary/)、隣接する[FASアナリストの年収相場](/media/job-fas-analyst-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

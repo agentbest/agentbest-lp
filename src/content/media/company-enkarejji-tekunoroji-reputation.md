@@ -166,7 +166,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-enkarejji-tekunoroji-reputation">年収の実態を聞いてみる</a>
 </aside>
 
-同業の比較材料としては、[オービックの評判](/media/company-oobikku-reputation)、[SHIFTの評判](/media/company-shift-reputation)、[DTSの評判](/media/company-dts-reputation)、[CIJの評判](/media/company-cij-reputation)、[TDCソフトの評判](/media/company-tdcsofuto-reputation)、[BIPROGYの評判](/media/company-biprogy-reputation)もご覧ください。
+同業の比較材料としては、[オービックの評判](/media/company-oobikku-reputation/)、[SHIFTの評判](/media/company-shift-reputation/)、[DTSの評判](/media/company-dts-reputation/)、[CIJの評判](/media/company-cij-reputation/)、[TDCソフトの評判](/media/company-tdcsofuto-reputation/)、[BIPROGYの評判](/media/company-biprogy-reputation/)もご覧ください。
 
 ## まとめ
 

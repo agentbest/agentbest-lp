@@ -100,17 +100,17 @@ job tag では、ITコンサルタントについて顧客のIT戦略に関し�
 
 社外の立場から、他社のシステム構成を設計・助言する方向です。
 
-この道では、説明力の比重が上がります。技術的に正しいだけでなく、意思決定者が判断できる形にまとめる必要があります。[ITコンサルタントのキャリアパス](/media/it-consultant-career-path)、[ソリューションアーキテクトのキャリアパス](/media/solution-architect-career-path)が該当します。
+この道では、説明力の比重が上がります。技術的に正しいだけでなく、意思決定者が判断できる形にまとめる必要があります。[ITコンサルタントのキャリアパス](/media/it-consultant-career-path/)、[ソリューションアーキテクトのキャリアパス](/media/solution-architect-career-path/)が該当します。
 
 なお、有効求人倍率0.89が示すとおり、この方向の募集は多くありません。移るなら、技術の深さに加えて説明の実績を用意しておく必要があります。
 
 ## 組織側・製品側に進む道
 
-**組織側へ** — 技術者を束ね、開発組織の方針を決める立場です。[エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path)、[テックリードのキャリアパス](/media/tech-lead-career-path)が近い領域です。
+**組織側へ** — 技術者を束ね、開発組織の方針を決める立場です。[エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path/)、[テックリードのキャリアパス](/media/tech-lead-career-path/)が近い領域です。
 
-**製品側へ** — 何を作るかを決める立場に移ります。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)をご覧ください。
+**製品側へ** — 何を作るかを決める立場に移ります。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)をご覧ください。
 
-**全社の推進側へ** — 技術だけでなく、業務の変革まで扱う方向です。[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path)、[社内SEのキャリアパス](/media/job-shanai-se-career-path)が隣接します。
+**全社の推進側へ** — 技術だけでなく、業務の変革まで扱う方向です。[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path/)、[社内SEのキャリアパス](/media/job-shanai-se-career-path/)が隣接します。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -121,13 +121,13 @@ job tag では、ITコンサルタントについて顧客のIT戦略に関し�
 
 ## 隣接職種との行き来
 
-- **提案側へ** — [ソリューションアーキテクトのキャリアパス](/media/solution-architect-career-path)、[プリセールスのキャリアパス](/media/job-pre-sales-career-path)
-- **支援側へ** — [ITコンサルタントのキャリアパス](/media/it-consultant-career-path)
-- **組織側へ** — [エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path)、[テックリードに求められるスキル](/media/tech-lead-skills)
-- **社内側へ** — [社内SEのキャリアパス](/media/job-shanai-se-career-path)、[インフラエンジニアのキャリアパス](/media/infra-engineer-career-path)
-- **同職種の一般的な情報** — [ITアーキテクトのキャリアパス](/media/it-architect-career-path)、[ITアーキテクトに求められるスキル](/media/it-architect-skills)
+- **提案側へ** — [ソリューションアーキテクトのキャリアパス](/media/solution-architect-career-path/)、[プリセールスのキャリアパス](/media/job-pre-sales-career-path/)
+- **支援側へ** — [ITコンサルタントのキャリアパス](/media/it-consultant-career-path/)
+- **組織側へ** — [エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path/)、[テックリードに求められるスキル](/media/tech-lead-skills/)
+- **社内側へ** — [社内SEのキャリアパス](/media/job-shanai-se-career-path/)、[インフラエンジニアのキャリアパス](/media/infra-engineer-career-path/)
+- **同職種の一般的な情報** — [ITアーキテクトのキャリアパス](/media/it-architect-career-path/)、[ITアーキテクトに求められるスキル](/media/it-architect-skills/)
 
-年収と選考は、[ITアーキテクトの年収相場](/media/job-it-architect-nensyu)、[ITアーキテクトの選考フロー・面接対策](/media/job-it-architect-senkou-flow)をご確認ください。
+年収と選考は、[ITアーキテクトの年収相場](/media/job-it-architect-nensyu/)、[ITアーキテクトの選考フロー・面接対策](/media/job-it-architect-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

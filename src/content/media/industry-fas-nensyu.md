@@ -77,7 +77,7 @@ FASの年収を検討するとき、転職メディアに並ぶ「アナリス�
 
 同じM&Aを扱う仕事でも、報酬の形が異なります。M&Aキャピタルパートナーズの第20期（2025年9月期）有価証券報告書では、提出会社の従業員296名（M&Aコンサルタント部門231名、管理部門及び非コンサルタント部門65名）に対し、平均年齢32.4歳、平均勤続年数3.30年、平均年間給与22,658千円と開示されています。
 
-仲介側は成約に連動する報酬の比重が大きく、当たった年と外れた年の差が大きくなります。FASは案件のフィーが工数に紐づくため、個人の収入の振れ幅は相対的に小さくなります。期待値の高さだけで比べると、この違いが抜けます。詳しくは[M&A仲介の年収相場](/media/industry-ma-chukai-nensyu)をご覧ください。
+仲介側は成約に連動する報酬の比重が大きく、当たった年と外れた年の差が大きくなります。FASは案件のフィーが工数に紐づくため、個人の収入の振れ幅は相対的に小さくなります。期待値の高さだけで比べると、この違いが抜けます。詳しくは[M&A仲介の年収相場](/media/industry-ma-chukai-nensyu/)をご覧ください。
 
 ## 法人のタイプで、報酬設計が変わる
 
@@ -89,7 +89,7 @@ FASの年収を検討するとき、転職メディアに並ぶ「アナリス�
 | 証券会社系 | 賞与の比重が高い | 賞与の決定要素 |
 | 事業会社のM&A部門 | 社内の給与テーブルに乗る | 職種手当の有無 |
 
-各法人の状況は[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation)、[KPMG FASの評判](/media/company-kpmg-fas-reputation)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation)、[GCAの評判](/media/company-gca-reputation)、[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation)をご覧ください。
+各法人の状況は[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation/)、[KPMG FASの評判](/media/company-kpmg-fas-reputation/)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation/)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation/)、[GCAの評判](/media/company-gca-reputation/)、[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation/)をご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>
@@ -126,7 +126,7 @@ FASの求人票には、等級に対応した年収レンジが示されるこ�
 
 銀行、事業会社の経理・財務、証券会社などから移る場合、入社時の等級は前職の年収ではなく実務の対応範囲で決まります。前職より下がる提示になることもあります。
 
-判断材料は初年度の金額ではなく、次の等級に上がるまでの標準的な期間です。前掲のとおり平均継続勤務年数は2〜3年台であり、この間に等級が動くかどうかで数年後の水準が変わります。難易度の全体像は[転職難易度](/media/industry-fas-tenshoku-nanido)、選考の進み方は[選考フロー・面接対策](/media/industry-fas-senkou-flow)で扱っています。
+判断材料は初年度の金額ではなく、次の等級に上がるまでの標準的な期間です。前掲のとおり平均継続勤務年数は2〜3年台であり、この間に等級が動くかどうかで数年後の水準が変わります。難易度の全体像は[転職難易度](/media/industry-fas-tenshoku-nanido/)、選考の進み方は[選考フロー・面接対策](/media/industry-fas-senkou-flow/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -145,13 +145,13 @@ job tag に掲載されているプロジェクトマネージャ（IT）の月�
 
 ## 隣接職種との比較
 
-- [プロジェクトマネージャー（PM）の年収](/media/project-manager-salary)、[プロジェクトマネージャーで年収1000万円を目指すには](/media/project-manager-salary-1000)
-- [エンジニアリングマネージャーの年収](/media/engineering-manager-salary) — 組織側の水準
-- [テックリードの年収](/media/tech-lead-salary) — 技術側の水準
-- [プロダクトマネージャー（PdM）の年収](/media/product-manager-salary) — 製品側の水準
-- [PMOの年収](/media/pmo-salary)、[開発ディレクターの年収](/media/dev-director-salary) — 進行管理側の水準
+- [プロジェクトマネージャー（PM）の年収](/media/project-manager-salary/)、[プロジェクトマネージャーで年収1000万円を目指すには](/media/project-manager-salary-1000/)
+- [エンジニアリングマネージャーの年収](/media/engineering-manager-salary/) — 組織側の水準
+- [テックリードの年収](/media/tech-lead-salary/) — 技術側の水準
+- [プロダクトマネージャー（PdM）の年収](/media/product-manager-salary/) — 製品側の水準
+- [PMOの年収](/media/pmo-salary/)、[開発ディレクターの年収](/media/dev-director-salary/) — 進行管理側の水準
 
-キャリアの進み方と選考は、[スクラムマスターのキャリアパス](/media/job-scrum-master-career-path)、[スクラムマスターの選考フロー・面接対策](/media/job-scrum-master-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[スクラムマスターのキャリアパス](/media/job-scrum-master-career-path/)、[スクラムマスターの選考フロー・面接対策](/media/job-scrum-master-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

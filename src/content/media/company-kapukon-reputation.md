@@ -167,7 +167,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-kapukon-reputation">年収の実態を聞いてみる</a>
 </aside>
 
-デジタル領域の比較材料としては、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation)、[グリーホールディングスの評判](/media/company-gurii-reputation)、[メルカリの評判](/media/company-merukari-reputation)、[LINEヤフーの評判](/media/company-lineyafuu-reputation)もご覧ください。
+デジタル領域の比較材料としては、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation/)、[グリーホールディングスの評判](/media/company-gurii-reputation/)、[メルカリの評判](/media/company-merukari-reputation/)、[LINEヤフーの評判](/media/company-lineyafuu-reputation/)もご覧ください。
 
 ## まとめ
 

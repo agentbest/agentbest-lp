@@ -123,7 +123,7 @@ sources:
 
 複数社から提示を受けている場合は、金額だけでなく、配属事業と等級要件をそろえて比較します。この職種は関与する意思決定の粒度で報酬が動くため、初年度の金額が低いほうが数年後に上回るという逆転が起こり得ます。
 
-転職の難しさについては[データコンサルタントの転職難易度](/media/job-data-consultant-tenshoku-nanido)、キャリアの進み方については[データコンサルタントのキャリアパス](/media/job-data-consultant-career-path)で整理しています。
+転職の難しさについては[データコンサルタントの転職難易度](/media/job-data-consultant-tenshoku-nanido/)、キャリアの進み方については[データコンサルタントのキャリアパス](/media/job-data-consultant-career-path/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

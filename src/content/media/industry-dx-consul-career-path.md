@@ -76,7 +76,7 @@ AI導入の効果として「業務が効率化したり迅速化した」を挙
 
 DX支援で身に付くのは、**業務・技術・組織を同時に見る力**です。分業されている会社では得にくい経験のため、出口は広くなります。
 
-- **事業会社のDX推進部門** — 支援側で見た型を、1社に長く適用できます。[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path)もあわせてご覧ください
+- **事業会社のDX推進部門** — 支援側で見た型を、1社に長く適用できます。[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path/)もあわせてご覧ください
 - **CDO・情報システム部門の責任者** — 構想と投資判断まで担う立場です
 - **プロダクトマネージャー** — 顧客価値の設計に軸足を移す進路です
 - **データ部門の責任者** — 基盤の整備と活用の企画を担います
@@ -130,13 +130,13 @@ DX支援で身に付くのは、**業務・技術・組織を同時に見る力*
 
 在籍中に経験できる案件の性格は、会社によって異なります。企業別の記事もあわせてご覧ください。
 
-- [Ridgelinezの評判](/media/company-ridgelinez-reputation) — 構想から実装まで一貫して関わる形
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation) — 事業と技術の接続に軸を置く
-- [ベイカレントの評判](/media/company-beikarento-reputation) — 業種と領域を横断する体制
-- [エル・ティー・エスの評判](/media/company-lts-reputation) — 業務プロセスの設計を起点にする
-- [日立コンサルティングの評判](/media/company-hitachikonsaruteingu-reputation) — グループの技術基盤を活かす支援
-- [NTTデータの評判](/media/company-nttdeeta-reputation) — 大規模案件での構想と実装
-- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation) — 製造・流通の業務知見を軸にする
+- [Ridgelinezの評判](/media/company-ridgelinez-reputation/) — 構想から実装まで一貫して関わる形
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/) — 事業と技術の接続に軸を置く
+- [ベイカレントの評判](/media/company-beikarento-reputation/) — 業種と領域を横断する体制
+- [エル・ティー・エスの評判](/media/company-lts-reputation/) — 業務プロセスの設計を起点にする
+- [日立コンサルティングの評判](/media/company-hitachikonsaruteingu-reputation/) — グループの技術基盤を活かす支援
+- [NTTデータの評判](/media/company-nttdeeta-reputation/) — 大規模案件での構想と実装
+- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation/) — 製造・流通の業務知見を軸にする
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

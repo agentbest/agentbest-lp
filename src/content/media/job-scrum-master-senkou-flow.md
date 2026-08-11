@@ -152,9 +152,9 @@ IPA（情報処理推進機構）が公表している「情報システム・�
 
 **スタートアップ** — 専任の枠がないことが多く、開発や管理との兼任が前提になります。範囲の広さに耐えられるかが見られます。
 
-隣接職種の選考も参考になります。[プロジェクトマネージャー（PM）の面接対策](/media/project-manager-interview)、[エンジニアリングマネージャーの面接対策](/media/engineering-manager-interview)、[テックリードの面接対策](/media/tech-lead-interview)、[開発ディレクターの面接対策](/media/dev-director-interview)をご覧ください。
+隣接職種の選考も参考になります。[プロジェクトマネージャー（PM）の面接対策](/media/project-manager-interview/)、[エンジニアリングマネージャーの面接対策](/media/engineering-manager-interview/)、[テックリードの面接対策](/media/tech-lead-interview/)、[開発ディレクターの面接対策](/media/dev-director-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[スクラムマスターの志望動機の書き方](/media/job-scrum-master-shibou-douki)、[スクラムマスターの年収相場](/media/job-scrum-master-nensyu)、[スクラムマスターの転職難易度](/media/job-scrum-master-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[スクラムマスターの志望動機の書き方](/media/job-scrum-master-shibou-douki/)、[スクラムマスターの年収相場](/media/job-scrum-master-nensyu/)、[スクラムマスターの転職難易度](/media/job-scrum-master-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

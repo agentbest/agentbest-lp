@@ -1,0 +1,18 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/NEWS", "destination": "/media/", "permanent": true },
+    { "source": "/NEWS/:path*", "destination": "/media/", "permanent": true },
+    { "source": "/news", "destination": "/media/", "permanent": true },
+    { "source": "/news/:path*", "destination": "/media/", "permanent": true },
+    { "source": "/startupenshokukenkyujyo", "destination": "/media/", "permanent": true },
+    { "source": "/startupenshokukenkyujyo/:path*", "destination": "/media/", "permanent": true },
+    { "source": "/staruptenshokukenkyujyo", "destination": "/media/", "permanent": true },
+    { "source": "/staruptenshokukenkyujyo/:path*", "destination": "/media/", "permanent": true },
+    { "source": "/service", "destination": "/", "permanent": true },
+    { "source": "/service-1", "destination": "/", "permanent": true },
+    { "source": "/company", "destination": "/", "permanent": true },
+    { "source": "/choukiintern-1", "destination": "https://infra.agent-best.net/", "permanent": true },
+    { "source": "/choukiintern-1/:path*", "destination": "https://infra.agent-best.net/", "permanent": true }
+  ]
+}

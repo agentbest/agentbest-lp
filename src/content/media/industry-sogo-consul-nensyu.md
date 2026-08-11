@@ -187,7 +187,7 @@ Big4はグループであり、複数の法人で構成されています。年�
 
 6つ目は、この業界に固有の確認事項です。独立性の観点から、個人の株式保有に制限がかかる会社があります。入社前に確認しておく価値があります。
 
-近い領域の水準は[戦略コンサルティングファームの年収相場](/media/industry-senryaku-consul-nensyu)、[ITコンサルタントの年収相場](/media/job-it-consultant-nensyu)、[業務改革コンサルタントの年収相場](/media/job-gyomu-consultant-nensyu)もあわせてご覧ください。
+近い領域の水準は[戦略コンサルティングファームの年収相場](/media/industry-senryaku-consul-nensyu/)、[ITコンサルタントの年収相場](/media/job-it-consultant-nensyu/)、[業務改革コンサルタントの年収相場](/media/job-gyomu-consultant-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

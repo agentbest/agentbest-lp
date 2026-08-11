@@ -102,15 +102,15 @@ job tag の説明では、運用・管理（IT）はシステムがトラブル�
 
 対象になるのは、システム間の連携、データの整備、セキュリティの方針、投資の計画などです。この領域では、技術の知識に加えて、経営層への説明が求められます。
 
-近い領域として、[ITアーキテクトのキャリアパス](/media/it-architect-career-path)、[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path)があります。DX推進の役割は、社内SEの延長線上に置かれることが多くなります。
+近い領域として、[ITアーキテクトのキャリアパス](/media/it-architect-career-path/)、[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path/)があります。DX推進の役割は、社内SEの延長線上に置かれることが多くなります。
 
 ## 事業側・外部に出る道
 
-**事業側へ** — 業務そのものを設計する立場に移ります。社内SEは業務とシステムの両方を知っているため、この移行は自然です。[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)をご覧ください。
+**事業側へ** — 業務そのものを設計する立場に移ります。社内SEは業務とシステムの両方を知っているため、この移行は自然です。[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)をご覧ください。
 
-**支援する側へ** — 社外の立場から、他社の情報システムを支援します。[ITコンサルタントのキャリアパス](/media/it-consultant-career-path)、[DXコンサルタントのキャリアパス](/media/dx-consultant-career-path)が該当します。
+**支援する側へ** — 社外の立場から、他社の情報システムを支援します。[ITコンサルタントのキャリアパス](/media/it-consultant-career-path/)、[DXコンサルタントのキャリアパス](/media/dx-consultant-career-path/)が該当します。
 
-**技術を深める道** — 特定領域の専門家として進みます。[インフラエンジニアのキャリアパス](/media/infra-engineer-career-path)、[セキュリティエンジニアのキャリアパス](/media/security-engineer-career-path)が近い領域です。
+**技術を深める道** — 特定領域の専門家として進みます。[インフラエンジニアのキャリアパス](/media/infra-engineer-career-path/)、[セキュリティエンジニアのキャリアパス](/media/security-engineer-career-path/)が近い領域です。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -121,13 +121,13 @@ job tag の説明では、運用・管理（IT）はシステムがトラブル�
 
 ## 隣接職種との行き来
 
-- **推進側へ** — [DX推進担当のキャリアパス](/media/job-dx-suishin-career-path)、[ITアーキテクトに求められるスキル](/media/it-architect-skills)
-- **技術を深める** — [インフラエンジニアのキャリアパス](/media/infra-engineer-career-path)、[セキュリティエンジニアに求められるスキル](/media/security-engineer-skills)
-- **事業側へ** — [事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)
-- **支援する側へ** — [ITコンサルタントのキャリアパス](/media/it-consultant-career-path)
-- **同職種の一般的な情報** — [社内SEのキャリアパス](/media/corporate-it-career-path)、[社内SEに求められるスキル](/media/corporate-it-skills)
+- **推進側へ** — [DX推進担当のキャリアパス](/media/job-dx-suishin-career-path/)、[ITアーキテクトに求められるスキル](/media/it-architect-skills/)
+- **技術を深める** — [インフラエンジニアのキャリアパス](/media/infra-engineer-career-path/)、[セキュリティエンジニアに求められるスキル](/media/security-engineer-skills/)
+- **事業側へ** — [事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)
+- **支援する側へ** — [ITコンサルタントのキャリアパス](/media/it-consultant-career-path/)
+- **同職種の一般的な情報** — [社内SEのキャリアパス](/media/corporate-it-career-path/)、[社内SEに求められるスキル](/media/corporate-it-skills/)
 
-年収と選考は、[社内SEの年収相場](/media/job-shanai-se-nensyu)、[社内SEの選考フロー・面接対策](/media/job-shanai-se-senkou-flow)をご確認ください。
+年収と選考は、[社内SEの年収相場](/media/job-shanai-se-nensyu/)、[社内SEの選考フロー・面接対策](/media/job-shanai-se-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -126,13 +126,13 @@ sources:
 
 支援対象と収益モデルが違えば、見られる点も変わります。企業別の記事もあわせてご覧ください。
 
-- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation) — 業種別の会員制モデル。提案から受注までの一連を担う
-- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation) — 経営指導と人材育成を組み合わせる形
-- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation) — 事業承継・再生の相談を起点にする領域
-- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation) — 成長企業向けの支援を掲げる中堅ファーム
-- [識学の評判](/media/company-shikigaku-reputation) — 組織運営の理論をパッケージで提供する形
-- [ミツキコンサルティングの評判](/media/company-mitsukikonsaruteingu-reputation) — 中小企業のM&A・承継に近い領域
-- [インソースの評判](/media/company-insoosu-reputation) — 研修・人材育成の側から経営課題に入る形
+- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation/) — 業種別の会員制モデル。提案から受注までの一連を担う
+- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation/) — 経営指導と人材育成を組み合わせる形
+- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/) — 事業承継・再生の相談を起点にする領域
+- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation/) — 成長企業向けの支援を掲げる中堅ファーム
+- [識学の評判](/media/company-shikigaku-reputation/) — 組織運営の理論をパッケージで提供する形
+- [ミツキコンサルティングの評判](/media/company-mitsukikonsaruteingu-reputation/) — 中小企業のM&A・承継に近い領域
+- [インソースの評判](/media/company-insoosu-reputation/) — 研修・人材育成の側から経営課題に入る形
 
 ## 未経験・異業種から入るときの準備
 

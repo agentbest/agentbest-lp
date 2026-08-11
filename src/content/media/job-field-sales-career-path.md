@@ -81,7 +81,7 @@ SaaSのフィールドセールスは、数年経つと進む方向が分かれ�
 
 3つ目は、組織側に回る場合にも効いてきます。個人の勘に頼った売り方は、そのままでは引き継げません。
 
-大型案件を扱う方向は、[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path)、[エンタープライズセールスに求められるスキル](/media/enterprise-sales-skills)が近い領域です。
+大型案件を扱う方向は、[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path/)、[エンタープライズセールスに求められるスキル](/media/enterprise-sales-skills/)が近い領域です。
 
 ## 組織を持つ道
 
@@ -101,13 +101,13 @@ SaaSのフィールドセールスは、数年経つと進む方向が分かれ�
 
 営業から離れる、あるいは営業に近い別の役割に移る道もあります。
 
-**カスタマーサクセスへ** — 売った後の定着と拡張を担います。継続率が指標になるため、短期の受注とは異なる視点が要ります。[カスタマーサクセスのキャリアパス](/media/customer-success-career-path)をご覧ください。
+**カスタマーサクセスへ** — 売った後の定着と拡張を担います。継続率が指標になるため、短期の受注とは異なる視点が要ります。[カスタマーサクセスのキャリアパス](/media/customer-success-career-path/)をご覧ください。
 
-**セールスエンジニア／プリセールスへ** — 技術的な提案の比重を高める方向です。プロダクト理解が深い方に向きます。[セールスエンジニア／プリセールスのキャリアパス](/media/presales-career-path)が参考になります。
+**セールスエンジニア／プリセールスへ** — 技術的な提案の比重を高める方向です。プロダクト理解が深い方に向きます。[セールスエンジニア／プリセールスのキャリアパス](/media/presales-career-path/)が参考になります。
 
-**パートナーセールス／アライアンスへ** — 直接販売ではなく、販売代理店や協業先を通じて売る形に移ります。[パートナーセールス／アライアンスのキャリアパス](/media/partner-sales-career-path)が該当します。
+**パートナーセールス／アライアンスへ** — 直接販売ではなく、販売代理店や協業先を通じて売る形に移ります。[パートナーセールス／アライアンスのキャリアパス](/media/partner-sales-career-path/)が該当します。
 
-**事業側へ** — 顧客の声を製品や事業戦略に反映する立場です。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)、[事業開発（BizDev）のキャリアパス](/media/bizdev-career-path)への移行例があります。
+**事業側へ** — 顧客の声を製品や事業戦略に反映する立場です。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)、[事業開発（BizDev）のキャリアパス](/media/bizdev-career-path/)への移行例があります。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -130,12 +130,12 @@ job tag に掲載されているIT分野のコンサルティング営業の数�
 
 この職種は、周辺の役割との距離が近い点が特徴です。
 
-- **前工程へ** — [インサイドセールスのキャリアパス](/media/inside-sales-career-path)。商談を作る側の視点が身につきます
-- **同職種の一般的な情報** — [SaaS営業（フィールドセールス）のキャリアパス](/media/saas-sales-career-path)、[SaaS営業に求められるスキル](/media/saas-sales-skills)
-- **管理側へ** — [マーケティングマネージャーのキャリアパス](/media/marketing-manager-career-path)。需要を作る側に回る道です
-- **経営側へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)。営業組織の責任者から経営に加わる経路があります
+- **前工程へ** — [インサイドセールスのキャリアパス](/media/inside-sales-career-path/)。商談を作る側の視点が身につきます
+- **同職種の一般的な情報** — [SaaS営業（フィールドセールス）のキャリアパス](/media/saas-sales-career-path/)、[SaaS営業に求められるスキル](/media/saas-sales-skills/)
+- **管理側へ** — [マーケティングマネージャーのキャリアパス](/media/marketing-manager-career-path/)。需要を作る側に回る道です
+- **経営側へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)。営業組織の責任者から経営に加わる経路があります
 
-年収と選考については、[フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow)で整理しています。
+年収と選考については、[フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu/)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow/)で整理しています。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

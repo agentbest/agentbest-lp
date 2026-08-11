@@ -167,7 +167,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-iisoru-reputation">選択肢を聞いてみる</a>
 </aside>
 
-技術志向のメーカー・IT企業との比較には、[デンソーの評判](/media/company-densoo-reputation)、[村田製作所の評判](/media/company-murataseisakusho-reputation)、[HORIBAの評判](/media/company-horiba-reputation)、[京セラの評判](/media/company-kyousera-reputation)、[ニコンの評判](/media/company-nikon-reputation)もご覧ください。
+技術志向のメーカー・IT企業との比較には、[デンソーの評判](/media/company-densoo-reputation/)、[村田製作所の評判](/media/company-murataseisakusho-reputation/)、[HORIBAの評判](/media/company-horiba-reputation/)、[京セラの評判](/media/company-kyousera-reputation/)、[ニコンの評判](/media/company-nikon-reputation/)もご覧ください。
 
 ## まとめ
 

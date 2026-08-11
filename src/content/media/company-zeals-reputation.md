@@ -79,7 +79,7 @@ gBizINFOの従業員数は、**事業所の被保険者数などをもとにし�
 
 **転職の観点**
 
-**この領域では、法令の理解が実装の質に直結します。** 詳しくは[AIスタートアップのキャリアパス](/media/industry-ai-startup-career-path)で、規制と技術の関係を整理しています。
+**この領域では、法令の理解が実装の質に直結します。** 詳しくは[AIスタートアップのキャリアパス](/media/industry-ai-startup-career-path/)で、規制と技術の関係を整理しています。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -206,7 +206,7 @@ gBizINFOには知的財産の件数が記録されています。**商標18件�
 
 6つ目は、対話型のサービスでは**導入して終わりではなく、継続的な改善が収益に結びつく**ためです。
 
-近い規模の会社は[b→dashの評判・年収・選考対策](/media/company-b-dash-reputation)、年収の水準は[SaaSスタートアップの年収相場](/media/industry-saas-startup-nensyu)もあわせてご覧ください。
+近い規模の会社は[b→dashの評判・年収・選考対策](/media/company-b-dash-reputation/)、年収の水準は[SaaSスタートアップの年収相場](/media/industry-saas-startup-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -121,13 +121,13 @@ job tagの区分では、平均年齢は39.4歳です。中途採用の中心は
 
 投資対象と体制が違えば、求められる経験も変わります。企業別の記事もあわせてご覧ください。
 
-- [カーライル・ジャパンの評判](/media/company-kaarairu-japan-reputation) — 大型案件とグローバルな体制
-- [KKRジャパンの評判](/media/company-kkrjapan-reputation) — カーブアウト案件の中心
-- [ベインキャピタル・ジャパンの評判](/media/company-beinkyapitaru-japan-reputation) — 経営に深く入る型
-- [インテグラルの評判](/media/company-integuraru-reputation) — 投資先に人を送り込む体制
-- [日本産業パートナーズの評判](/media/company-nihonsangyoupaatonaazu-reputation) — 大企業からの切り出し
-- [J-STARの評判](/media/company-j-star-reputation) — 中堅・中小企業のバイアウト
-- [クラリスキャピタルの評判](/media/company-kurarisukyapitaru-reputation) — 承継案件を起点にする形
+- [カーライル・ジャパンの評判](/media/company-kaarairu-japan-reputation/) — 大型案件とグローバルな体制
+- [KKRジャパンの評判](/media/company-kkrjapan-reputation/) — カーブアウト案件の中心
+- [ベインキャピタル・ジャパンの評判](/media/company-beinkyapitaru-japan-reputation/) — 経営に深く入る型
+- [インテグラルの評判](/media/company-integuraru-reputation/) — 投資先に人を送り込む体制
+- [日本産業パートナーズの評判](/media/company-nihonsangyoupaatonaazu-reputation/) — 大企業からの切り出し
+- [J-STARの評判](/media/company-j-star-reputation/) — 中堅・中小企業のバイアウト
+- [クラリスキャピタルの評判](/media/company-kurarisukyapitaru-reputation/) — 承継案件を起点にする形
 
 ## 入社後に立ち上がるための、3つの準備
 

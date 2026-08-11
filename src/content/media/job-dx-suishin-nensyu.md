@@ -87,7 +87,7 @@ DX推進担当の年収を調べるとき、参考になるのが厚生労働省
 
 事業会社では、この職種が独立した等級を持たないことがあります。その場合、情報システム部門の等級か、企画部門の等級に当てはめられます。どちらになるかで水準が変わるため、確認しておく価値があります。
 
-支援側については[DXコンサルタントの年収](/media/dx-consultant-salary)、[ITコンサルタントの年収](/media/it-consultant-salary)が参考になります。
+支援側については[DXコンサルタントの年収](/media/dx-consultant-salary/)、[ITコンサルタントの年収](/media/it-consultant-salary/)が参考になります。
 
 <aside class="cta-inline">
   <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
@@ -150,14 +150,14 @@ DX推進担当の年収を調べるとき、参考になるのが厚生労働省
 
 ## 隣接職種との比較
 
-- [DXコンサルタントの年収](/media/dx-consultant-salary)、[DXコンサルタントで年収1000万円を目指すには](/media/dx-consultant-salary-1000)
-- [社内SEの年収](/media/corporate-it-salary) — 守る側の水準
-- [ITコンサルタントの年収](/media/it-consultant-salary)
-- [事業企画の年収相場](/media/job-jigyo-kikaku-nensyu) — 事業側の水準
-- [経営企画の年収相場](/media/job-keiei-kikaku-nensyu) — 全社を扱う側の水準
-- [データサイエンティストの年収相場](/media/job-data-scientist-nensyu) — 専門領域側の水準
+- [DXコンサルタントの年収](/media/dx-consultant-salary/)、[DXコンサルタントで年収1000万円を目指すには](/media/dx-consultant-salary-1000/)
+- [社内SEの年収](/media/corporate-it-salary/) — 守る側の水準
+- [ITコンサルタントの年収](/media/it-consultant-salary/)
+- [事業企画の年収相場](/media/job-jigyo-kikaku-nensyu/) — 事業側の水準
+- [経営企画の年収相場](/media/job-keiei-kikaku-nensyu/) — 全社を扱う側の水準
+- [データサイエンティストの年収相場](/media/job-data-scientist-nensyu/) — 専門領域側の水準
 
-キャリアの進み方と選考は、[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path)、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path/)、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

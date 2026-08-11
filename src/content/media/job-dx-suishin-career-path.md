@@ -83,7 +83,7 @@ ver.2.0での主な変更点も公開されています。**データマネジ�
 
 3つ目を語れる方は多くありません。DXの取り組みは、始めることより畳むことのほうが難しくなります。
 
-行き先としては[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)、[事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path)が近い領域です。
+行き先としては[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)、[事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path/)が近い領域です。
 
 ## 全社の仕組みを作る道
 
@@ -93,19 +93,19 @@ ver.2.0での主な変更点も公開されています。**データマネジ�
 
 この道では、経営層への説明が業務の一部になります。DXの投資は効果が見えるまで時間がかかるため、途中経過をどう説明するかが問われます。
 
-[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)、[ITアーキテクトのキャリアパス](/media/it-architect-career-path)が隣接する領域です。
+[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)、[ITアーキテクトのキャリアパス](/media/it-architect-career-path/)が隣接する領域です。
 
 ## 専門領域に寄る道
 
 6類型のいずれかに軸足を移し、専門性で進む方向です。
 
-**データ側へ** — [データサイエンティストのキャリアパス](/media/job-data-scientist-career-path)、[データエンジニアのキャリアパス](/media/data-engineer-career-path)。ver.2.0でAIガバナンスのスキルが追加された領域でもあります。
+**データ側へ** — [データサイエンティストのキャリアパス](/media/job-data-scientist-career-path/)、[データエンジニアのキャリアパス](/media/data-engineer-career-path/)。ver.2.0でAIガバナンスのスキルが追加された領域でもあります。
 
-**セキュリティ側へ** — [セキュリティコンサルタントのキャリアパス](/media/security-consultant-career-path)。
+**セキュリティ側へ** — [セキュリティコンサルタントのキャリアパス](/media/security-consultant-career-path/)。
 
-**支援する側へ** — 社外の立場からDXを支援する方向です。[DXコンサルタントのキャリアパス](/media/dx-consultant-career-path)、[ITコンサルタントのキャリアパス](/media/it-consultant-career-path)が該当します。
+**支援する側へ** — 社外の立場からDXを支援する方向です。[DXコンサルタントのキャリアパス](/media/dx-consultant-career-path/)、[ITコンサルタントのキャリアパス](/media/it-consultant-career-path/)が該当します。
 
-**製品側へ** — 社内向けではなく、外部に提供する製品を作る方向です。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)をご覧ください。
+**製品側へ** — 社内向けではなく、外部に提供する製品を作る方向です。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)をご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -133,18 +133,18 @@ ver.2.0での主な変更点も公開されています。**データマネジ�
 
 同じ job tag で、プロジェクトマネージャ（IT）の有効求人倍率は2.1（令和6年度）とされています。年収、平均年齢、労働時間、就業者数はDXプロデューサーとまったく同じ数値であり、賃金統計上は同じ区分に属していると考えられます。それでも求人倍率は2倍以上の開きがあります。
 
-**「DX人材が不足している」という言われ方と、この数字は一致しません。** 詳しくは[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido)で整理しています。
+**「DX人材が不足している」という言われ方と、この数字は一致しません。** 詳しくは[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido/)で整理しています。
 
 なお、就業するにあたって特定の学歴や資格は不要とされていますが、実績としては大卒95.2%、修士課程卒42.9%と示されています。
 
 ## 隣接職種との行き来
 
-- **支援する側へ** — [DXコンサルタントのキャリアパス](/media/dx-consultant-career-path)、[ITコンサルタントに求められるスキル](/media/it-consultant-skills)
-- **事業側へ** — [事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)
-- **データ側へ** — [データサイエンティストのキャリアパス](/media/job-data-scientist-career-path)、[データエンジニアに求められるスキル](/media/data-engineer-skills)
-- **社内システム側へ** — [社内SEのキャリアパス](/media/corporate-it-career-path)、[ITアーキテクトのキャリアパス](/media/it-architect-career-path)
+- **支援する側へ** — [DXコンサルタントのキャリアパス](/media/dx-consultant-career-path/)、[ITコンサルタントに求められるスキル](/media/it-consultant-skills/)
+- **事業側へ** — [事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)
+- **データ側へ** — [データサイエンティストのキャリアパス](/media/job-data-scientist-career-path/)、[データエンジニアに求められるスキル](/media/data-engineer-skills/)
+- **社内システム側へ** — [社内SEのキャリアパス](/media/corporate-it-career-path/)、[ITアーキテクトのキャリアパス](/media/it-architect-career-path/)
 
-年収と選考は、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu)、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow)をご確認ください。
+年収と選考は、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu/)、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

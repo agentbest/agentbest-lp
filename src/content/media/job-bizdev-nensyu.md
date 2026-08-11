@@ -90,7 +90,7 @@ sources:
 | 成長期 | 市場水準に近づく | 提携の数を増やす局面。募集が最も多い |
 | 上場企業・大手 | 等級で安定 | 個別の交渉幅は小さい |
 
-創業初期の会社で株式報酬が提示される場合、現金部分だけで比較すると条件を見誤ります。数量、行使価額、行使できる時期、退職時の取扱いを確認したうえで評価する必要があります。[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu)で、株式報酬の読み方を整理しています。
+創業初期の会社で株式報酬が提示される場合、現金部分だけで比較すると条件を見誤ります。数量、行使価額、行使できる時期、退職時の取扱いを確認したうえで評価する必要があります。[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/)で、株式報酬の読み方を整理しています。
 
 ## 年収が伸びる要因
 
@@ -143,14 +143,14 @@ sources:
 
 ## 隣接職種との比較
 
-- [事業開発（BizDev）の年収](/media/bizdev-salary)、[事業開発で年収1000万円を目指すには](/media/bizdev-salary-1000)
-- [事業企画の年収相場](/media/job-jigyo-kikaku-nensyu) — 社内側の水準
-- [エンタープライズセールスの年収](/media/enterprise-sales-salary) — 大型案件の営業側
-- [パートナーセールス／アライアンスの年収](/media/partner-sales-salary) — 間接販売側
-- [経営企画の年収相場](/media/job-keiei-kikaku-nensyu) — 全社を扱う側
-- [M&Aアドバイザーの年収](/media/ma-advisor-salary) — 資本提携まで扱う側
+- [事業開発（BizDev）の年収](/media/bizdev-salary/)、[事業開発で年収1000万円を目指すには](/media/bizdev-salary-1000/)
+- [事業企画の年収相場](/media/job-jigyo-kikaku-nensyu/) — 社内側の水準
+- [エンタープライズセールスの年収](/media/enterprise-sales-salary/) — 大型案件の営業側
+- [パートナーセールス／アライアンスの年収](/media/partner-sales-salary/) — 間接販売側
+- [経営企画の年収相場](/media/job-keiei-kikaku-nensyu/) — 全社を扱う側
+- [M&Aアドバイザーの年収](/media/ma-advisor-salary/) — 資本提携まで扱う側
 
-キャリアの進み方と選考は、[事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path)、[事業開発（BizDev）の選考フロー・面接対策](/media/job-bizdev-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path/)、[事業開発（BizDev）の選考フロー・面接対策](/media/job-bizdev-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -76,19 +76,19 @@ job tag に掲載されている必要なスキルは、**傾聴力5.5、読解�
 
 最も多い出口の一つです。助言する立場から、自分の資金で投資判断を下す立場に移ります。
 
-**PEファンドへ** — 財務モデルと契約の実務が直接活きます。補うべきは、買った後にどう価値を上げるかという視点です。[PEファンド投資担当のキャリアパス](/media/job-pe-investment-career-path)をご覧ください。
+**PEファンドへ** — 財務モデルと契約の実務が直接活きます。補うべきは、買った後にどう価値を上げるかという視点です。[PEファンド投資担当のキャリアパス](/media/job-pe-investment-career-path/)をご覧ください。
 
-**ベンチャーキャピタルへ** — 未上場の初期段階を扱います。数字がない状態での判断が中心になり、財務分析の技術がそのままでは使えません。[ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path)が参考になります。
+**ベンチャーキャピタルへ** — 未上場の初期段階を扱います。数字がない状態での判断が中心になり、財務分析の技術がそのままでは使えません。[ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path/)が参考になります。
 
 **運用の側へ** — 上場企業の株式や債券を扱う運用の仕事です。分析の技術が直接活きます。
 
 ## 事業側に移る道
 
-**経営企画・財務へ** — 資金調達やM&Aの経験が、事業会社の中で活きます。数字を作る側から、事業を動かす側に移ります。[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)をご覧ください。
+**経営企画・財務へ** — 資金調達やM&Aの経験が、事業会社の中で活きます。数字を作る側から、事業を動かす側に移ります。[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)をご覧ください。
 
-**事業開発へ** — 提携や買収を通じて事業を広げる役割です。[事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path)が該当します。
+**事業開発へ** — 提携や買収を通じて事業を広げる役割です。[事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path/)が該当します。
 
-**スタートアップの経営幹部へ** — 資金調達の実務を知っている人材として、財務責任者などで迎えられる例があります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)で、その先の実態を整理しています。
+**スタートアップの経営幹部へ** — 資金調達の実務を知っている人材として、財務責任者などで迎えられる例があります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)で、その先の実態を整理しています。
 
 ## 投資銀行に残る道
 
@@ -130,12 +130,12 @@ job tag に掲載されている証券アナリストの数値は、次のとお
 
 ## 隣接職種との行き来
 
-- **投資側へ** — [PEファンド投資担当のキャリアパス](/media/job-pe-investment-career-path)、[ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path)
-- **助言側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path)
-- **事業側へ** — [経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)、[事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path)
-- **経営側へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)
+- **投資側へ** — [PEファンド投資担当のキャリアパス](/media/job-pe-investment-career-path/)、[ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path/)
+- **助言側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path/)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path/)
+- **事業側へ** — [経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)、[事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path/)
+- **経営側へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)
 
-年収と選考は、[投資銀行アナリストの年収相場](/media/job-ibd-analyst-nensyu)、[投資銀行アナリストの選考フロー・面接対策](/media/job-ibd-analyst-senkou-flow)をご確認ください。
+年収と選考は、[投資銀行アナリストの年収相場](/media/job-ibd-analyst-nensyu/)、[投資銀行アナリストの選考フロー・面接対策](/media/job-ibd-analyst-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

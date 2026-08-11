@@ -141,13 +141,13 @@ job tagの区分では月162時間と示されていますが、これは区分�
 
 上場している証券会社であれば、有価証券報告書の平均年間給与が第一の手がかりになります。企業別の記事もあわせてご覧ください。
 
-- [ゴールドマン・サックス証券の評判](/media/company-goorudoman-sakkusushouken-reputation)
-- [JPモルガン証券の評判](/media/company-jpmoruganshouken-reputation)
-- [UBS証券の評判](/media/company-ubsshouken-reputation)
-- [ドイツ証券の評判](/media/company-doitsushouken-reputation)
-- [シティグループ証券の評判](/media/company-shiteiguruupushouken-reputation)
-- [みずほ証券の評判](/media/company-mizuhoshouken-reputation)
-- [SMBC日興証券の評判](/media/company-smbcnikkoushouken-reputation)
+- [ゴールドマン・サックス証券の評判](/media/company-goorudoman-sakkusushouken-reputation/)
+- [JPモルガン証券の評判](/media/company-jpmoruganshouken-reputation/)
+- [UBS証券の評判](/media/company-ubsshouken-reputation/)
+- [ドイツ証券の評判](/media/company-doitsushouken-reputation/)
+- [シティグループ証券の評判](/media/company-shiteiguruupushouken-reputation/)
+- [みずほ証券の評判](/media/company-mizuhoshouken-reputation/)
+- [SMBC日興証券の評判](/media/company-smbcnikkoushouken-reputation/)
 
 注意点があります。**平均年間給与は全社員の平均であり、部門と職種の構成に左右されます。** リテール部門を持つ会社では、IBDの水準はこの数字から離れます。数字を見たうえで、面接で部門別・タイトル別のレンジを確認するのが現実的です。
 

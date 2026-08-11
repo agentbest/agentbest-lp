@@ -123,7 +123,7 @@ sources:
 
 これらは入社後に変更を求めにくい条件です。選考の終盤やオファー面談は、本来この擦り合わせのための場でもあります。
 
-選考の流れは[人事コンサルタントの選考フロー・面接対策](/media/job-jinji-consultant-senkou-flow)、報酬の構造は[人事コンサルタントの年収相場](/media/job-jinji-consultant-nensyu)で整理しています。
+選考の流れは[人事コンサルタントの選考フロー・面接対策](/media/job-jinji-consultant-senkou-flow/)、報酬の構造は[人事コンサルタントの年収相場](/media/job-jinji-consultant-nensyu/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

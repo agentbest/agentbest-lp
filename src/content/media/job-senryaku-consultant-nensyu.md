@@ -122,13 +122,13 @@ sources:
 
 同じ戦略コンサルタントでも、所属する組織のタイプによって報酬設計が変わります。
 
-**戦略特化型ファーム** — 少人数で経営層向けのテーマを扱います。等級ごとのレンジが高めに設定される一方、昇進の要求水準も高くなる傾向があります。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation)を参照してください。
+**戦略特化型ファーム** — 少人数で経営層向けのテーマを扱います。等級ごとのレンジが高めに設定される一方、昇進の要求水準も高くなる傾向があります。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation/)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation/)を参照してください。
 
-**総合系ファームの戦略部門** — 立案から実行支援まで担う体制です。等級の段階が細かく、昇進のペースが読みやすい傾向があります。[アクセンチュアの評判](/media/company-accenture-japan-reputation)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation)、[EY Japanの評判](/media/company-ey-japan-reputation)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation)が該当します。
+**総合系ファームの戦略部門** — 立案から実行支援まで担う体制です。等級の段階が細かく、昇進のペースが読みやすい傾向があります。[アクセンチュアの評判](/media/company-accenture-japan-reputation/)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation/)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation/)、[EY Japanの評判](/media/company-ey-japan-reputation/)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation/)が該当します。
 
-**独立系・新興ファーム** — 組織規模が小さいぶん、案件を持てるようになったときの報酬の伸び方が大きくなる場合があります。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation)、[Ridgelinezの評判](/media/company-ridgelinez-reputation)をご覧ください。
+**独立系・新興ファーム** — 組織規模が小さいぶん、案件を持てるようになったときの報酬の伸び方が大きくなる場合があります。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation/)、[Ridgelinezの評判](/media/company-ridgelinez-reputation/)をご覧ください。
 
-選考の進み方や志望動機の組み立て方については、[戦略コンサルタントの選考フロー・面接対策](/media/job-senryaku-consultant-senkou-flow)、[戦略コンサルタントの志望動機の書き方](/media/job-senryaku-consultant-shibou-douki)、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow)もあわせてご確認ください。
+選考の進み方や志望動機の組み立て方については、[戦略コンサルタントの選考フロー・面接対策](/media/job-senryaku-consultant-senkou-flow/)、[戦略コンサルタントの志望動機の書き方](/media/job-senryaku-consultant-shibou-douki/)、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow/)もあわせてご確認ください。
 
 ## 事業会社から移る場合の年収の見立て
 

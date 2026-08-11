@@ -100,7 +100,7 @@ sources:
 
 **3つ目はM&Aの領域**
 
-中小企業庁の中小M&Aガイドライン（第3版）が、仲介者・FAの行動を定めています。詳しくは[M&A仲介営業のキャリアパス](/media/job-ma-chukai-eigyo-career-path)、[M&Aアドバイザーのキャリアパス](/media/job-ma-advisor-career-path)で整理しています。
+中小企業庁の中小M&Aガイドライン（第3版）が、仲介者・FAの行動を定めています。詳しくは[M&A仲介営業のキャリアパス](/media/job-ma-chukai-eigyo-career-path/)、[M&Aアドバイザーのキャリアパス](/media/job-ma-advisor-career-path/)で整理しています。
 
 **キャリアの分かれ目**
 

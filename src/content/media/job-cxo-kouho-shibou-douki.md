@@ -152,17 +152,17 @@ sources:
 
 ## この職種を採用している企業タイプ
 
-**プロダクト中心のスタートアップ** — 技術側の志望動機の書き方は[CTO・VPoE候補の志望動機](/media/cto-vpoe-motivation)、[CTO・VPoE候補の面接対策](/media/cto-vpoe-interview)が参考になります。
+**プロダクト中心のスタートアップ** — 技術側の志望動機の書き方は[CTO・VPoE候補の志望動機](/media/cto-vpoe-motivation/)、[CTO・VPoE候補の面接対策](/media/cto-vpoe-interview/)が参考になります。
 
-**事業会社出身者を求める会社** — [経営企画の志望動機](/media/corporate-planning-motivation)、[経営企画の面接対策](/media/corporate-planning-interview)をご覧ください。
+**事業会社出身者を求める会社** — [経営企画の志望動機](/media/corporate-planning-motivation/)、[経営企画の面接対策](/media/corporate-planning-interview/)をご覧ください。
 
-**事業開発から幹部を採る会社** — [事業開発（BizDev）の志望動機](/media/bizdev-motivation)、[事業企画の志望動機](/media/business-planning-motivation)が近い領域です。
+**事業開発から幹部を採る会社** — [事業開発（BizDev）の志望動機](/media/bizdev-motivation/)、[事業企画の志望動機](/media/business-planning-motivation/)が近い領域です。
 
-**コンサル出身者を採る会社** — [ポストコンサル（事業会社転身）の志望動機](/media/post-consultant-motivation)で、転身時の説明の組み立て方を整理しています。
+**コンサル出身者を採る会社** — [ポストコンサル（事業会社転身）の志望動機](/media/post-consultant-motivation/)で、転身時の説明の組み立て方を整理しています。
 
-**管理部門の責任者を探している会社** — [財務・経理の志望動機](/media/finance-motivation)、[人事（HRBP）の志望動機](/media/hrbp-motivation)が該当します。
+**管理部門の責任者を探している会社** — [財務・経理の志望動機](/media/finance-motivation/)、[人事（HRBP）の志望動機](/media/hrbp-motivation/)が該当します。
 
-選考の全体像と条件面については、[CxO候補・経営幹部の選考フロー・面接対策](/media/job-cxo-kouho-senkou-flow)、[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu)もあわせてご確認ください。
+選考の全体像と条件面については、[CxO候補・経営幹部の選考フロー・面接対策](/media/job-cxo-kouho-senkou-flow/)、[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/)もあわせてご確認ください。
 
 ## まとめ
 

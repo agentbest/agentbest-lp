@@ -171,9 +171,9 @@ sources:
 
 2つ目と3つ目が、この職種の選考で重視されます。計画どおりに進んだ話だけを用意していると、ここで詰まります。
 
-**参考になる書き方** — [事業企画の志望動機](/media/business-planning-motivation)、[事業企画の職務経歴書](/media/business-planning-resume)、[経営企画の志望動機](/media/corporate-planning-motivation)、[事業開発（BizDev）の志望動機](/media/bizdev-motivation)をご覧ください。
+**参考になる書き方** — [事業企画の志望動機](/media/business-planning-motivation/)、[事業企画の職務経歴書](/media/business-planning-resume/)、[経営企画の志望動機](/media/corporate-planning-motivation/)、[事業開発（BizDev）の志望動機](/media/bizdev-motivation/)をご覧ください。
 
-選考の流れと条件面は、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow)、[事業企画の年収相場](/media/job-jigyo-kikaku-nensyu)をご確認ください。
+選考の流れと条件面は、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow/)、[事業企画の年収相場](/media/job-jigyo-kikaku-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

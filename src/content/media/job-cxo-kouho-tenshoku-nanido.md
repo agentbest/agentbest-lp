@@ -118,17 +118,17 @@ CxO候補・経営幹部の転職が難しいと言われるとき、多くの�
 
 ## この職種を採用している企業タイプ
 
-**プロダクト中心のスタートアップ** — 技術側の幹部と事業側の幹部を分けて採用します。技術側の市場動向は[CTO・VPoE候補の市場動向](/media/cto-vpoe-market-trend)、[CTO・VPoE候補の転職での失敗](/media/cto-vpoe-failure)が参考になります。
+**プロダクト中心のスタートアップ** — 技術側の幹部と事業側の幹部を分けて採用します。技術側の市場動向は[CTO・VPoE候補の市場動向](/media/cto-vpoe-market-trend/)、[CTO・VPoE候補の転職での失敗](/media/cto-vpoe-failure/)が参考になります。
 
-**事業会社出身者を求める会社** — 管理体制の整備を担う幹部を探しています。[経営企画の転職市場動向](/media/corporate-planning-market-trend)、[経営企画に求められるスキル](/media/corporate-planning-skills)をご覧ください。
+**事業会社出身者を求める会社** — 管理体制の整備を担う幹部を探しています。[経営企画の転職市場動向](/media/corporate-planning-market-trend/)、[経営企画に求められるスキル](/media/corporate-planning-skills/)をご覧ください。
 
-**コンサル出身者を採る会社** — 実行まで担える人材を求めています。[ポストコンサル（事業会社転身）のキャリアパス](/media/post-consultant-career-path)、[ポストコンサルの転職での失敗](/media/post-consultant-failure)で経路の注意点を整理しています。
+**コンサル出身者を採る会社** — 実行まで担える人材を求めています。[ポストコンサル（事業会社転身）のキャリアパス](/media/post-consultant-career-path/)、[ポストコンサルの転職での失敗](/media/post-consultant-failure/)で経路の注意点を整理しています。
 
-**事業開発の延長で幹部を採る会社** — [事業開発（BizDev）の市場動向](/media/bizdev-market-trend)、[事業企画のキャリアパス](/media/business-planning-career-path)が近い領域です。
+**事業開発の延長で幹部を採る会社** — [事業開発（BizDev）の市場動向](/media/bizdev-market-trend/)、[事業企画のキャリアパス](/media/business-planning-career-path/)が近い領域です。
 
-**管理部門の責任者から広げる経路** — [財務・経理のキャリアパス](/media/finance-career-path)、[人事（HRBP）に求められるスキル](/media/hrbp-skills)が該当します。
+**管理部門の責任者から広げる経路** — [財務・経理のキャリアパス](/media/finance-career-path/)、[人事（HRBP）に求められるスキル](/media/hrbp-skills/)が該当します。
 
-選考の進み方と報酬については、[CxO候補・経営幹部の選考フロー・面接対策](/media/job-cxo-kouho-senkou-flow)、[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu)もあわせてご確認ください。
+選考の進み方と報酬については、[CxO候補・経営幹部の選考フロー・面接対策](/media/job-cxo-kouho-senkou-flow/)、[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/)もあわせてご確認ください。
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>

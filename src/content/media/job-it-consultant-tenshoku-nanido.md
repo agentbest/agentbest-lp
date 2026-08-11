@@ -79,7 +79,7 @@ ITコンサルタントの転職難易度は、他のコンサルティング職
 
 **事業会社のDX推進から**
 
-当事者としての推進経験が評価されます。補うのは、案件の頻度です。詳しくは[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido)もご覧ください。
+当事者としての推進経験が評価されます。補うのは、案件の頻度です。詳しくは[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido/)もご覧ください。
 
 ## 「上流に行きたい」が通らない理由
 
@@ -129,7 +129,7 @@ SIerから転職する方のほとんどが同じことを言います。区別�
 
 6つ目は入社後のずれを防ぎます。同じITコンサルタントでも、上流の企画とパッケージの導入支援では仕事の中身が違います。
 
-隣接する職種の難易度は[ITアーキテクトの転職難易度](/media/job-it-architect-tenshoku-nanido)、[プロジェクトマネージャーの転職難易度](/media/job-project-manager-tenshoku-nanido)もあわせてご覧ください。
+隣接する職種の難易度は[ITアーキテクトの転職難易度](/media/job-it-architect-tenshoku-nanido/)、[プロジェクトマネージャーの転職難易度](/media/job-project-manager-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

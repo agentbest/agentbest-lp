@@ -163,7 +163,7 @@ gBizINFOには職種別や拠点別の内訳はありません。**事業概要�
 
 **技術職として入る場合**
 
-特許48件という記録があります。**開発が内製されているか、外注が中心かで、担う役割が変わります。** 詳しくは[SIerのキャリアパス](/media/industry-sier-career-path)で、内製と外注による働き方の違いを整理しています。
+特許48件という記録があります。**開発が内製されているか、外注が中心かで、担う役割が変わります。** 詳しくは[SIerのキャリアパス](/media/industry-sier-career-path/)で、内製と外注による働き方の違いを整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -187,7 +187,7 @@ gBizINFOには職種別や拠点別の内訳はありません。**事業概要�
 
 5つ目は、模擬試験や入試の日程に事業が連動するためです。**繁忙の時期が読めると、年間の働き方が見積もれます。**
 
-近い規模の会社の読み方は[アイエックス・ナレッジの評判・年収・選考対策](/media/company-aiekkusu-narejji-reputation)、[あいおいニッセイ同和損害保険の評判・年収・選考対策](/media/company-aioinisseidouwasongaihoken-reputation)もあわせてご覧ください。
+近い規模の会社の読み方は[アイエックス・ナレッジの評判・年収・選考対策](/media/company-aiekkusu-narejji-reputation/)、[あいおいニッセイ同和損害保険の評判・年収・選考対策](/media/company-aioinisseidouwasongaihoken-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

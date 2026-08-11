@@ -106,10 +106,10 @@ sources:
 
 事業会社と一口に言っても、受け入れ側の立場によって響く軸が変わります。
 
-- **自社サービス専業**では、数字への責任と改善の速度が軸になります。[メルカリの評判](/media/company-merukari-reputation)、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation)、[LINEヤフーの評判](/media/company-lineyafuu-reputation)が参考になります
-- **非IT事業会社の内製部門**では、本業への理解が軸です。[クレディセゾンの評判](/media/company-kuredisezon-reputation)、[イオンの評判](/media/company-ion-reputation)、[ファミリーマートの評判](/media/company-famiriimaato-reputation)をご覧ください
-- **IT・デジタル子会社**では、親会社との関係の理解が軸になります。[JR東日本情報システムの評判](/media/company-jrhigashinihonjouhoushisutemu-reputation)、[三菱UFJインフォメーションテクノロジーの評判](/media/company-mitsubishiufjinfomeeshontekunorojii-reputation)が該当します
-- **SaaS・スタートアップ**では、フェーズへの適応が軸です。[アンドパッドの評判](/media/company-andopaddo-reputation)、[キャディの評判](/media/company-kyadi-reputation)を比較材料にできます
+- **自社サービス専業**では、数字への責任と改善の速度が軸になります。[メルカリの評判](/media/company-merukari-reputation/)、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation/)、[LINEヤフーの評判](/media/company-lineyafuu-reputation/)が参考になります
+- **非IT事業会社の内製部門**では、本業への理解が軸です。[クレディセゾンの評判](/media/company-kuredisezon-reputation/)、[イオンの評判](/media/company-ion-reputation/)、[ファミリーマートの評判](/media/company-famiriimaato-reputation/)をご覧ください
+- **IT・デジタル子会社**では、親会社との関係の理解が軸になります。[JR東日本情報システムの評判](/media/company-jrhigashinihonjouhoushisutemu-reputation/)、[三菱UFJインフォメーションテクノロジーの評判](/media/company-mitsubishiufjinfomeeshontekunorojii-reputation/)が該当します
+- **SaaS・スタートアップ**では、フェーズへの適応が軸です。[アンドパッドの評判](/media/company-andopaddo-reputation/)、[キャディの評判](/media/company-kyadi-reputation/)を比較材料にできます
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>
@@ -132,7 +132,7 @@ sources:
 
 事業部門で業務を回してきた方、営業やカスタマーサポートの出身者が、プロダクト側に移る例は珍しくありません。この場合の志望動機は、開発経験のなさを補う方向ではなく、業務の当事者だったことを軸に据えます。
 
-現場で使いにくかった仕組みを挙げ、その原因が要件の決め方にあったと考える理由を書く。この構成であれば、開発経験の不足は前提として共有されたうえで、決める側に必要な視点を持っていることが伝わります。難易度の全体像は[転職難易度](/media/industry-jigyo-gaisha-pdm-tenshoku-nanido)で、入社後の進み方は[キャリアパス](/media/industry-jigyo-gaisha-pdm-career-path)で扱っています。
+現場で使いにくかった仕組みを挙げ、その原因が要件の決め方にあったと考える理由を書く。この構成であれば、開発経験の不足は前提として共有されたうえで、決める側に必要な視点を持っていることが伝わります。難易度の全体像は[転職難易度](/media/industry-jigyo-gaisha-pdm-tenshoku-nanido/)で、入社後の進み方は[キャリアパス](/media/industry-jigyo-gaisha-pdm-career-path/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

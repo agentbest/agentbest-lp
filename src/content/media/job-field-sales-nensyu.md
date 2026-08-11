@@ -114,13 +114,13 @@ sources:
 
 ## 隣接職種との比較
 
-- [SaaS営業（フィールドセールス）の年収](/media/saas-sales-salary)、[SaaS営業で年収1000万円を目指すには](/media/saas-sales-salary-1000)
-- [エンタープライズセールスの年収](/media/enterprise-sales-salary) — 大型案件側の水準
-- [インサイドセールスの年収](/media/inside-sales-salary) — 前工程の水準
-- [カスタマーサクセスの年収](/media/customer-success-salary) — 後工程の水準
-- [セールスエンジニア／プリセールスの年収](/media/presales-salary)、[パートナーセールス／アライアンスの年収](/media/partner-sales-salary)
+- [SaaS営業（フィールドセールス）の年収](/media/saas-sales-salary/)、[SaaS営業で年収1000万円を目指すには](/media/saas-sales-salary-1000/)
+- [エンタープライズセールスの年収](/media/enterprise-sales-salary/) — 大型案件側の水準
+- [インサイドセールスの年収](/media/inside-sales-salary/) — 前工程の水準
+- [カスタマーサクセスの年収](/media/customer-success-salary/) — 後工程の水準
+- [セールスエンジニア／プリセールスの年収](/media/presales-salary/)、[パートナーセールス／アライアンスの年収](/media/partner-sales-salary/)
 
-キャリアの進み方と選考は、[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path/)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

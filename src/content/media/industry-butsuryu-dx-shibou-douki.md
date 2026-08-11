@@ -185,7 +185,7 @@ sources:
 
 **倉庫自動化のメーカー・インテグレーター** — 設備と制御の領域です。物理的な制約への理解を示します。
 
-近い領域の書き方は[物流テック業界のガイド](/media/logitech-industry-guide)、[建設・不動産DXの志望動機の書き方](/media/industry-kensetsu-dx-shibou-douki)もあわせてご覧ください。
+近い領域の書き方は[物流テック業界のガイド](/media/logitech-industry-guide/)、[建設・不動産DXの志望動機の書き方](/media/industry-kensetsu-dx-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

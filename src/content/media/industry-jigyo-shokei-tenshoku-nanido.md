@@ -140,7 +140,7 @@ sources:
 
 **M&A仲介・FAから**
 
-第三者承継の実務が接続します。中小M&Aガイドラインの枠組みも共通します。補うのは、親族内承継の制度です。詳しくは[M&A仲介営業の転職難易度](/media/job-ma-chukai-eigyo-tenshoku-nanido)、[M&Aアドバイザーの転職難易度](/media/job-ma-advisor-tenshoku-nanido)もご覧ください。
+第三者承継の実務が接続します。中小M&Aガイドラインの枠組みも共通します。補うのは、親族内承継の制度です。詳しくは[M&A仲介営業の転職難易度](/media/job-ma-chukai-eigyo-tenshoku-nanido/)、[M&Aアドバイザーの転職難易度](/media/job-ma-advisor-tenshoku-nanido/)もご覧ください。
 
 **保険営業から**
 

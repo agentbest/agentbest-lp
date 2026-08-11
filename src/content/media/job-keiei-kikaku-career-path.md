@@ -88,7 +88,7 @@ sources:
 - 社外の相手と定期的に向き合うことに抵抗がない
 - 制度やルールの変化を追いかけることを苦にしない
 
-制度面の変化は実務に直結します。詳しくは[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow)で触れています。
+制度面の変化は実務に直結します。詳しくは[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow/)で触れています。
 
 ## 投資・M&A側に寄る道
 
@@ -96,7 +96,7 @@ sources:
 
 出資、買収、事業譲渡、資本業務提携などを担当します。求められるのは、財務モデルを扱う力と、相手方との交渉に耐える精度です。
 
-この道は、経営企画のなかでも専門性が高い領域になります。経験を積むと、投資ファンドやM&Aアドバイザリーへの転身も視野に入ります。[M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path)が近い領域です。
+この道は、経営企画のなかでも専門性が高い領域になります。経験を積むと、投資ファンドやM&Aアドバイザリーへの転身も視野に入ります。[M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path/)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path/)が近い領域です。
 
 ## 経営層に近づく道
 
@@ -104,7 +104,7 @@ sources:
 
 この道に進む場合、企画の経験だけでは足りません。人を採用し、評価する経験と、事業の損益を自分の名前で背負った経験が求められます。経営企画は全社を俯瞰する立場ですが、特定の事業の責任者を経験していないと、判断の実感が伴わないと見られることがあります。
 
-途中で事業側に出て、数字を持つ経験を積んでから戻る経路もあります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)で、その先の実態を整理しています。
+途中で事業側に出て、数字を持つ経験を積んでから戻る経路もあります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)で、その先の実態を整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -130,13 +130,13 @@ sources:
 
 ## 隣接職種との行き来
 
-- **事業側へ** — [事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)、[事業開発（BizDev）のキャリアパス](/media/bizdev-career-path)
-- **数字を扱う側へ** — [財務・経理のキャリアパス](/media/finance-career-path)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path)
-- **外部から支援する側へ** — [戦略コンサルタントのキャリアパス](/media/strategy-consultant-career-path)
-- **経営層へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)
-- **同職種の一般的な情報** — [経営企画のキャリアパス](/media/corporate-planning-career-path)、[経営企画に求められるスキル](/media/corporate-planning-skills)
+- **事業側へ** — [事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)、[事業開発（BizDev）のキャリアパス](/media/bizdev-career-path/)
+- **数字を扱う側へ** — [財務・経理のキャリアパス](/media/finance-career-path/)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path/)
+- **外部から支援する側へ** — [戦略コンサルタントのキャリアパス](/media/strategy-consultant-career-path/)
+- **経営層へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)
+- **同職種の一般的な情報** — [経営企画のキャリアパス](/media/corporate-planning-career-path/)、[経営企画に求められるスキル](/media/corporate-planning-skills/)
 
-年収と選考は、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow)をご確認ください。
+年収と選考は、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu/)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

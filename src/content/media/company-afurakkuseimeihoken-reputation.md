@@ -171,7 +171,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-afurakkuseimeihoken-reputation">年収の実態を聞いてみる</a>
 </aside>
 
-金融・保険領域の比較材料としては、[クレディセゾンの評判](/media/company-kuredisezon-reputation)、[JCBの評判](/media/company-jcb-reputation)、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation)、[明治安田システム・テクノロジーの評判](/media/company-meijiyasudashisutemu-tekunorojii-reputation)もご覧ください。
+金融・保険領域の比較材料としては、[クレディセゾンの評判](/media/company-kuredisezon-reputation/)、[JCBの評判](/media/company-jcb-reputation/)、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation/)、[明治安田システム・テクノロジーの評判](/media/company-meijiyasudashisutemu-tekunorojii-reputation/)もご覧ください。
 
 ## まとめ
 

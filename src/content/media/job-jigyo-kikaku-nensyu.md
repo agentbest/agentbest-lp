@@ -142,14 +142,14 @@ job tag に掲載されている数値を、近い職種と並べます。
 
 ## 隣接職種との比較
 
-- [事業企画の年収](/media/business-planning-salary)、[事業企画で年収1000万円を目指すには](/media/business-planning-salary-1000)
-- [経営企画の年収](/media/corporate-planning-salary) — 会社全体を扱う側の水準
-- [事業開発（BizDev）の年収](/media/bizdev-salary) — 事業を作る側の水準
-- [プロダクトマネージャー（PdM）の年収](/media/product-manager-salary) — 製品側の水準
-- [財務・経理の年収](/media/finance-salary) — 数字を扱う側の水準
-- [CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu) — 経営層の報酬構造
+- [事業企画の年収](/media/business-planning-salary/)、[事業企画で年収1000万円を目指すには](/media/business-planning-salary-1000/)
+- [経営企画の年収](/media/corporate-planning-salary/) — 会社全体を扱う側の水準
+- [事業開発（BizDev）の年収](/media/bizdev-salary/) — 事業を作る側の水準
+- [プロダクトマネージャー（PdM）の年収](/media/product-manager-salary/) — 製品側の水準
+- [財務・経理の年収](/media/finance-salary/) — 数字を扱う側の水準
+- [CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/) — 経営層の報酬構造
 
-キャリアの進み方と選考は、[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

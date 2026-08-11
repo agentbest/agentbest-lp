@@ -78,7 +78,7 @@ gBizINFOの従業員数は、**事業所の被保険者数**をもとにした�
 
 **転職の観点**
 
-前職でデータの取り扱いに関する規程づくりや、権限設計に関わった経験は、**この領域では直接の材料**になります。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path)で整理しています。
+前職でデータの取り扱いに関する規程づくりや、権限設計に関わった経験は、**この領域では直接の材料**になります。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path/)で整理しています。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -201,7 +201,7 @@ SaaSでは、**開発と同じかそれ以上に導入後の支援に人を割�
 
 6つ目は、データ基盤が**入れて終わりではない**ためです。導入後の支援に関わるかどうかで、身につく経験が変わります。
 
-近い規模の会社は[Zealsの評判・年収・選考対策](/media/company-zeals-reputation)、転職の難易度は[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido)もあわせてご覧ください。
+近い規模の会社は[Zealsの評判・年収・選考対策](/media/company-zeals-reputation/)、転職の難易度は[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

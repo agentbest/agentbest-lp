@@ -68,7 +68,7 @@ sources:
 
 **第三者承継の場合は別**
 
-M&Aとして成立すれば、成功報酬が発生します。この場合、[M&A仲介営業の年収相場](/media/job-ma-chukai-eigyo-nensyu)や[M&Aアドバイザーの年収相場](/media/job-ma-advisor-nensyu)の構造に近づきます。
+M&Aとして成立すれば、成功報酬が発生します。この場合、[M&A仲介営業の年収相場](/media/job-ma-chukai-eigyo-nensyu/)や[M&Aアドバイザーの年収相場](/media/job-ma-advisor-nensyu/)の構造に近づきます。
 
 **判断の要点**
 

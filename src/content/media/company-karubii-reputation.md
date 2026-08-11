@@ -174,7 +174,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-karubii-reputation">選択肢を聞いてみる</a>
 </aside>
 
-消費財メーカーとの比較には、[味の素の評判](/media/company-ajinomoto-reputation)、[花王の評判](/media/company-kaou-reputation)、[小林製薬の評判](/media/company-kobayashiseiyaku-reputation)もご覧ください。小売との接点という観点では、[イオンの評判](/media/company-ion-reputation)、[ファミリーマートの評判](/media/company-famiriimaato-reputation)が参考になります。
+消費財メーカーとの比較には、[味の素の評判](/media/company-ajinomoto-reputation/)、[花王の評判](/media/company-kaou-reputation/)、[小林製薬の評判](/media/company-kobayashiseiyaku-reputation/)もご覧ください。小売との接点という観点では、[イオンの評判](/media/company-ion-reputation/)、[ファミリーマートの評判](/media/company-famiriimaato-reputation/)が参考になります。
 
 ## まとめ
 

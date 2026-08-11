@@ -121,7 +121,7 @@ sources:
 
 **平均年間給与の伸び**
 
-6,088,649円、対前事業年度増減率5.8%。**前年から上昇しています。** 年収の構造は[SIerの年収相場](/media/industry-sier-nensyu)で整理しています。
+6,088,649円、対前事業年度増減率5.8%。**前年から上昇しています。** 年収の構造は[SIerの年収相場](/media/industry-sier-nensyu/)で整理しています。
 
 ## 男女の賃金差異89.3%という水準
 
@@ -211,7 +211,7 @@ sources:
 
 5つ目は、労働組合が結成されていない会社では重みを増します。
 
-近い規模の会社は[さくらケーシーエスの評判・年収・選考対策](/media/company-sakurakeeshiiesu-reputation)、キャリアの筋道は[SIerのキャリアパス](/media/industry-sier-career-path)もあわせてご覧ください。
+近い規模の会社は[さくらケーシーエスの評判・年収・選考対策](/media/company-sakurakeeshiiesu-reputation/)、キャリアの筋道は[SIerのキャリアパス](/media/industry-sier-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

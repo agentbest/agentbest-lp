@@ -180,7 +180,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-orientarurando-reputation">選択肢を聞いてみる</a>
 </aside>
 
-大規模な組織運営という観点では、[イオンの評判](/media/company-ion-reputation)、[ファーストリテイリングの評判](/media/company-faasutoriteiringu-reputation)、[ファミリーマートの評判](/media/company-famiriimaato-reputation)も比較材料になります。
+大規模な組織運営という観点では、[イオンの評判](/media/company-ion-reputation/)、[ファーストリテイリングの評判](/media/company-faasutoriteiringu-reputation/)、[ファミリーマートの評判](/media/company-famiriimaato-reputation/)も比較材料になります。
 
 ## まとめ
 

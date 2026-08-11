@@ -52,9 +52,9 @@ sources:
 
 **提携・アライアンス型** — 他社と組んで販路や機能を広げます。交渉と契約の比重が高く、法務との連携が日常的に発生します。
 
-**新規事業型** — 社内で新しい事業を立ち上げます。市場調査から始まり、実質的に事業企画に近い動きになります。[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)が参考になります。
+**新規事業型** — 社内で新しい事業を立ち上げます。市場調査から始まり、実質的に事業企画に近い動きになります。[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)が参考になります。
 
-**営業拡張型** — 既存の営業では届かない相手を開拓します。代理店の開拓や、大手企業との取引開始などが該当します。[パートナーセールス／アライアンスのキャリアパス](/media/partner-sales-career-path)と重なる領域です。
+**営業拡張型** — 既存の営業では届かない相手を開拓します。代理店の開拓や、大手企業との取引開始などが該当します。[パートナーセールス／アライアンスのキャリアパス](/media/partner-sales-career-path/)と重なる領域です。
 
 見分ける手がかりは、募集要項に出てくる言葉です。「アライアンス」「協業」「契約」が並べば提携型、「市場調査」「新規事業」「PoC」が並べば新規事業型、「代理店」「チャネル」が並べば営業拡張型の可能性が高くなります。
 
@@ -89,7 +89,7 @@ sources:
 
 3つ目を持っている方は多くありません。契約して終わりにせず、数字を見て再交渉した経験は、次の選考で強い材料になります。
 
-この方向を深めると、資本業務提携やM&Aの検討にも関わるようになります。[M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path)が隣接領域です。
+この方向を深めると、資本業務提携やM&Aの検討にも関わるようになります。[M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path/)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path/)が隣接領域です。
 
 ## 事業そのものを持つ道
 
@@ -97,7 +97,7 @@ sources:
 
 この道では、交渉力ではなく損益への責任が問われます。提携を作るところまでは得意でも、日々の運営を続けることは別の仕事です。売上、コスト、人員に責任を持ち、想定と違ったときに修正する動きが求められます。
 
-行き先としては、事業部門の責任者、新規事業の責任者、そして経営層があります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)で、その先の実態を整理しています。
+行き先としては、事業部門の責任者、新規事業の責任者、そして経営層があります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)で、その先の実態を整理しています。
 
 ## 海外・グローバルに広げる道
 
@@ -126,13 +126,13 @@ sources:
 
 ## 隣接職種との行き来
 
-- **社内側へ** — [事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)
-- **販路側へ** — [パートナーセールス／アライアンスのキャリアパス](/media/partner-sales-career-path)、[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path)
-- **製品側へ** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)
-- **投資側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path)
-- **同職種の一般的な情報** — [事業開発（BizDev）のキャリアパス](/media/bizdev-career-path)、[事業開発に求められるスキル](/media/bizdev-skills)
+- **社内側へ** — [事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)
+- **販路側へ** — [パートナーセールス／アライアンスのキャリアパス](/media/partner-sales-career-path/)、[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path/)
+- **製品側へ** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)
+- **投資側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path/)
+- **同職種の一般的な情報** — [事業開発（BizDev）のキャリアパス](/media/bizdev-career-path/)、[事業開発に求められるスキル](/media/bizdev-skills/)
 
-年収と選考は、[事業開発（BizDev）の年収相場](/media/job-bizdev-nensyu)、[事業開発（BizDev）の選考フロー・面接対策](/media/job-bizdev-senkou-flow)をご確認ください。
+年収と選考は、[事業開発（BizDev）の年収相場](/media/job-bizdev-nensyu/)、[事業開発（BizDev）の選考フロー・面接対策](/media/job-bizdev-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

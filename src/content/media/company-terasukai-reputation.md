@@ -90,7 +90,7 @@ sources:
 
 BeeXの有価証券報告書には、2019年3月に同社からAWS事業を吸収分割により事業承継し統合した経緯も記載されています。もともと関係の深い会社です。
 
-詳細は[BeeXの評判](/media/company-beex-reputation)で整理しています。
+詳細は[BeeXの評判](/media/company-beex-reputation/)で整理しています。
 
 この構造は、応募を検討する立場から見て2つの意味を持ちます。
 

@@ -175,9 +175,9 @@ sources:
 
 2つ目では、対応の速さより、原因を特定して再発を防いだかが見られます。同じ障害を繰り返している状態は、運用の質が低いと判断されます。
 
-**参考になる書き方** — [社内SEの志望動機](/media/corporate-it-motivation)、[社内SEの職務経歴書](/media/corporate-it-resume)、[インフラエンジニアの志望動機](/media/infra-engineer-motivation)、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki)をご覧ください。
+**参考になる書き方** — [社内SEの志望動機](/media/corporate-it-motivation/)、[社内SEの職務経歴書](/media/corporate-it-resume/)、[インフラエンジニアの志望動機](/media/infra-engineer-motivation/)、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki/)をご覧ください。
 
-選考の流れと条件面は、[社内SEの選考フロー・面接対策](/media/job-shanai-se-senkou-flow)、[社内SEの年収相場](/media/job-shanai-se-nensyu)をご確認ください。
+選考の流れと条件面は、[社内SEの選考フロー・面接対策](/media/job-shanai-se-senkou-flow/)、[社内SEの年収相場](/media/job-shanai-se-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

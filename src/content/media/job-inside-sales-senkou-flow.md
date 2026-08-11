@@ -130,9 +130,9 @@ sources:
 
 **組織が大きい会社** — 手順が定義されています。基準に沿って動けるか、記録を正確に残せるかが見られます。選考の段階数は多くなりがちです。
 
-隣接職種の選考も参考になります。[インサイドセールスの面接対策](/media/inside-sales-interview)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow)、[SaaS営業の面接対策](/media/saas-sales-interview)、[カスタマーサクセスの面接対策](/media/customer-success-interview)をご覧ください。
+隣接職種の選考も参考になります。[インサイドセールスの面接対策](/media/inside-sales-interview/)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow/)、[SaaS営業の面接対策](/media/saas-sales-interview/)、[カスタマーサクセスの面接対策](/media/customer-success-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[インサイドセールスの志望動機の書き方](/media/job-inside-sales-shibou-douki)、[インサイドセールスの年収相場](/media/job-inside-sales-nensyu)、[インサイドセールスの転職難易度](/media/job-inside-sales-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[インサイドセールスの志望動機の書き方](/media/job-inside-sales-shibou-douki/)、[インサイドセールスの年収相場](/media/job-inside-sales-nensyu/)、[インサイドセールスの転職難易度](/media/job-inside-sales-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

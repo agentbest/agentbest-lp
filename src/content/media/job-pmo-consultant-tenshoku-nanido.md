@@ -124,7 +124,7 @@ PMOコンサルタントは、コンサルティング職の中では比較的�
 
 30代後半以降では、管理の設計経験と業界知見の両方が求められる傾向があります。この年代で専任経験がない場合、事業会社の社内PMOから入る経路のほうが現実的な場合があります。
 
-キャリアの進み方については[PMOコンサルタントのキャリアパス](/media/job-pmo-consultant-career-path)、報酬の構造については[PMOコンサルタントの年収相場](/media/job-pmo-consultant-nensyu)で整理しています。
+キャリアの進み方については[PMOコンサルタントのキャリアパス](/media/job-pmo-consultant-career-path/)、報酬の構造については[PMOコンサルタントの年収相場](/media/job-pmo-consultant-nensyu/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -162,9 +162,9 @@ DX推進担当の志望動機で最も多いのが、「デジタル技術で会
 
 3つ目は必ずと言ってよいほど聞かれます。追いかけていない場合、正直に答えたうえで、次はどう確認するかを述べるほうが誠実に映ります。
 
-**参考になる書き方** — [DXコンサルタントの志望動機](/media/dx-consultant-motivation)、[社内SEの職務経歴書](/media/corporate-it-resume)、[ITコンサルタントの志望動機](/media/it-consultant-motivation)、[事業企画の志望動機の書き方](/media/job-jigyo-kikaku-shibou-douki)をご覧ください。
+**参考になる書き方** — [DXコンサルタントの志望動機](/media/dx-consultant-motivation/)、[社内SEの職務経歴書](/media/corporate-it-resume/)、[ITコンサルタントの志望動機](/media/it-consultant-motivation/)、[事業企画の志望動機の書き方](/media/job-jigyo-kikaku-shibou-douki/)をご覧ください。
 
-選考の流れと条件面は、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu)をご確認ください。
+選考の流れと条件面は、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow/)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

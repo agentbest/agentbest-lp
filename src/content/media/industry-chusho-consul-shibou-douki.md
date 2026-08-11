@@ -136,12 +136,12 @@ sources:
 
 応募先によって、志望動機で強調する点が変わります。企業別の記事もあわせてご覧ください。
 
-- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation) — 業種特化の知見と、提案から受注までの一貫性
-- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation) — 中長期の伴走と、経営者の育成
-- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation) — 承継・再生という局面の重さ
-- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation) — 成長フェーズの企業に対する支援
-- [セルムの評判](/media/company-serumu-reputation) — 人と組織の側から経営に入る形
-- [識学の評判](/media/company-shikigaku-reputation) — 理論をパッケージとして提供する形
+- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation/) — 業種特化の知見と、提案から受注までの一貫性
+- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation/) — 中長期の伴走と、経営者の育成
+- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/) — 承継・再生という局面の重さ
+- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation/) — 成長フェーズの企業に対する支援
+- [セルムの評判](/media/company-serumu-reputation/) — 人と組織の側から経営に入る形
+- [識学の評判](/media/company-shikigaku-reputation/) — 理論をパッケージとして提供する形
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

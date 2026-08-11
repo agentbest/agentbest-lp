@@ -141,13 +141,13 @@ PEファンドでは、担当者が投資先に常勤で入る場面がありま
 
 PEファンドの多くは非上場であり、有価証券報告書による平均年間給与の確認ができません。**公開情報が限られる領域**です。企業別の記事もあわせてご覧ください。
 
-- [カーライル・ジャパンの評判](/media/company-kaarairu-japan-reputation)
-- [KKRジャパンの評判](/media/company-kkrjapan-reputation)
-- [ベインキャピタル・ジャパンの評判](/media/company-beinkyapitaru-japan-reputation)
-- [インテグラルの評判](/media/company-integuraru-reputation)
-- [日本産業パートナーズの評判](/media/company-nihonsangyoupaatonaazu-reputation)
-- [J-STARの評判](/media/company-j-star-reputation)
-- [クラリスキャピタルの評判](/media/company-kurarisukyapitaru-reputation)
+- [カーライル・ジャパンの評判](/media/company-kaarairu-japan-reputation/)
+- [KKRジャパンの評判](/media/company-kkrjapan-reputation/)
+- [ベインキャピタル・ジャパンの評判](/media/company-beinkyapitaru-japan-reputation/)
+- [インテグラルの評判](/media/company-integuraru-reputation/)
+- [日本産業パートナーズの評判](/media/company-nihonsangyoupaatonaazu-reputation/)
+- [J-STARの評判](/media/company-j-star-reputation/)
+- [クラリスキャピタルの評判](/media/company-kurarisukyapitaru-reputation/)
 
 上場している運用会社の場合は、有価証券報告書の平均年間給与が手がかりになります。ただし全社員の平均であり、投資担当の水準とは離れます。**面接で役割別のレンジを確認するのが現実的です。**
 

@@ -96,7 +96,7 @@ SaaSを提供する会社では、営業の工程が分かれていることが�
 - 提案内容の設計。価格や導入範囲の交渉
 - 受注後の定着まで見据えた設計
 
-[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow)で、移った先の実態を整理しています。
+[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path/)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow/)で、移った先の実態を整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -113,7 +113,7 @@ SaaSを提供する会社では、営業の工程が分かれていることが�
 
 この道に進む場合、自分の売り方を言語化した経験が土台になります。感覚で成果を出してきた方は、まず自分の判断基準を分解する作業から始めることになります。
 
-近い領域として、需要を作る側に回る道もあります。[デジタルマーケターのキャリアパス](/media/digital-marketer-career-path)、[マーケティングマネージャーのキャリアパス](/media/marketing-manager-career-path)が参考になります。
+近い領域として、需要を作る側に回る道もあります。[デジタルマーケターのキャリアパス](/media/digital-marketer-career-path/)、[マーケティングマネージャーのキャリアパス](/media/marketing-manager-career-path/)が参考になります。
 
 ## 公的な職業区分がないことの意味
 
@@ -127,12 +127,12 @@ SaaSを提供する会社では、営業の工程が分かれていることが�
 
 ## 隣接職種との行き来
 
-- **次の工程へ** — [SaaS営業（フィールドセールス）のキャリアパス](/media/saas-sales-career-path)、[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path)
-- **後の工程へ** — [カスタマーサクセスのキャリアパス](/media/customer-success-career-path)
-- **前の工程へ** — [デジタルマーケターに求められるスキル](/media/digital-marketer-skills)
-- **同職種の一般的な情報** — [インサイドセールスのキャリアパス](/media/inside-sales-career-path)、[インサイドセールスに求められるスキル](/media/inside-sales-skills)
+- **次の工程へ** — [SaaS営業（フィールドセールス）のキャリアパス](/media/saas-sales-career-path/)、[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path/)
+- **後の工程へ** — [カスタマーサクセスのキャリアパス](/media/customer-success-career-path/)
+- **前の工程へ** — [デジタルマーケターに求められるスキル](/media/digital-marketer-skills/)
+- **同職種の一般的な情報** — [インサイドセールスのキャリアパス](/media/inside-sales-career-path/)、[インサイドセールスに求められるスキル](/media/inside-sales-skills/)
 
-年収と選考は、[インサイドセールスの年収相場](/media/job-inside-sales-nensyu)、[インサイドセールスの選考フロー・面接対策](/media/job-inside-sales-senkou-flow)をご確認ください。
+年収と選考は、[インサイドセールスの年収相場](/media/job-inside-sales-nensyu/)、[インサイドセールスの選考フロー・面接対策](/media/job-inside-sales-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

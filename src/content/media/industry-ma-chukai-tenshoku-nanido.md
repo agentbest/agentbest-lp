@@ -79,9 +79,9 @@ M&A仲介の中途採用は、金融・不動産・人材・保険など、法�
 
 **3. 対象企業の規模帯を合わせる。** 前職で扱った顧客規模と、応募先が扱う譲渡企業の規模が近いほど、経験の接続が説明しやすくなります。
 
-**4. 仲介とFAの違いに答えを持つ。** どちらを選ぶかは適性の問題であり、優劣ではありません。仲介を選ぶ理由を自分の言葉で言えると、志望度の高さとして受け取られます。FA側の実情は[FASの転職難易度](/media/industry-fas-tenshoku-nanido)で扱っています。
+**4. 仲介とFAの違いに答えを持つ。** どちらを選ぶかは適性の問題であり、優劣ではありません。仲介を選ぶ理由を自分の言葉で言えると、志望度の高さとして受け取られます。FA側の実情は[FASの転職難易度](/media/industry-fas-tenshoku-nanido/)で扱っています。
 
-**5. 固定給の水準を判断軸に入れる。** 立ち上がりに時間がかかる以上、その期間を支える条件が続けやすさを決めます。年収の構造は[年収相場](/media/industry-ma-chukai-nensyu)をご覧ください。
+**5. 固定給の水準を判断軸に入れる。** 立ち上がりに時間がかかる以上、その期間を支える条件が続けやすさを決めます。年収の構造は[年収相場](/media/industry-ma-chukai-nensyu/)をご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -100,10 +100,10 @@ M&A仲介の中途採用は、金融・不動産・人材・保険など、法�
 
 ## 会社のタイプで、入りやすさが変わる
 
-- **上場の大手仲介**は、応募が集まるため選考は相対的に厳しくなります。[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation)、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation)、[ストライクの評判](/media/company-sutoraiku-reputation)をご覧ください
-- **中堅・専業の仲介**は、即戦力性が重く見られます。[オンデックの評判](/media/company-ondekku-reputation)、[M&Aベストパートナーズの評判](/media/company-mandabesutopaatonaazu-reputation)、[経営承継支援の評判](/media/company-keieishoukeishien-reputation)が参考になります
-- **プラットフォーム型**は、営業以外の職種の枠もあります。[バトンズの評判](/media/company-batonz-reputation)、[fundbookの評判](/media/company-fundbook-reputation)をご覧ください
-- **士業系・コンサル併営**は、専門資格があると入りやすくなります。[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation)、[インテグループの評判](/media/company-integuruupu-reputation)が該当します
+- **上場の大手仲介**は、応募が集まるため選考は相対的に厳しくなります。[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation/)、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation/)、[ストライクの評判](/media/company-sutoraiku-reputation/)をご覧ください
+- **中堅・専業の仲介**は、即戦力性が重く見られます。[オンデックの評判](/media/company-ondekku-reputation/)、[M&Aベストパートナーズの評判](/media/company-mandabesutopaatonaazu-reputation/)、[経営承継支援の評判](/media/company-keieishoukeishien-reputation/)が参考になります
+- **プラットフォーム型**は、営業以外の職種の枠もあります。[バトンズの評判](/media/company-batonz-reputation/)、[fundbookの評判](/media/company-fundbook-reputation/)をご覧ください
+- **士業系・コンサル併営**は、専門資格があると入りやすくなります。[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/)、[インテグループの評判](/media/company-integuruupu-reputation/)が該当します
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>

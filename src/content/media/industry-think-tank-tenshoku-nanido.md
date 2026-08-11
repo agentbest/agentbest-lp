@@ -163,7 +163,7 @@ sources:
 
 5つ目は、入社後のずれを防ぎます。同じ「シンクタンク」でも、収益の柱が違えば働き方が変わります。
 
-近い領域は[シンクタンクに未経験から](/media/thinktank-from-scratch)、[シンクタンクのキャリアガイド](/media/thinktank-career-guide)もあわせてご覧ください。
+近い領域は[シンクタンクに未経験から](/media/thinktank-from-scratch/)、[シンクタンクのキャリアガイド](/media/thinktank-career-guide/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

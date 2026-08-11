@@ -127,7 +127,7 @@ sources:
 
 30代後半以降では、業界知見と課題設定の経験の両方が求められる傾向があります。前掲の統計で職種の平均年齢が43.9歳であることを踏まえると、この年代は市場の中心層にあたります。経験者として要件が上がる一方、母集団が小さいため機会自体は存在します。
 
-報酬の構造については[データコンサルタントの年収相場](/media/job-data-consultant-nensyu)、選考の流れは[データコンサルタントの選考フロー・面接対策](/media/job-data-consultant-senkou-flow)で整理しています。
+報酬の構造については[データコンサルタントの年収相場](/media/job-data-consultant-nensyu/)、選考の流れは[データコンサルタントの選考フロー・面接対策](/media/job-data-consultant-senkou-flow/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

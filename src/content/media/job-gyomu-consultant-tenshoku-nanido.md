@@ -71,7 +71,7 @@ sources:
 
 **SIer・ITコンサルティングから**
 
-システムの選択肢と要件定義が接続します。補うのは、業務の細部です。詳しくは[ITコンサルタントの転職難易度](/media/job-it-consultant-tenshoku-nanido)もご覧ください。
+システムの選択肢と要件定義が接続します。補うのは、業務の細部です。詳しくは[ITコンサルタントの転職難易度](/media/job-it-consultant-tenshoku-nanido/)もご覧ください。
 
 **経営コンサルティングから**
 
@@ -145,7 +145,7 @@ sources:
 
 1つ目は、いま在籍している会社でもできます。1か月分の作業時間を記録するだけで、応募時に語れる材料になります。
 
-隣接する職種は[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido)、[経営企画の転職難易度](/media/job-keiei-kikaku-tenshoku-nanido)もあわせてご覧ください。
+隣接する職種は[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido/)、[経営企画の転職難易度](/media/job-keiei-kikaku-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

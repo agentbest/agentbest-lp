@@ -161,9 +161,9 @@ sources:
 
 5つ目も聞かれます。短期で結果を求める方は続かないと判断されるため、時間軸への理解を示す必要があります。
 
-**参考になる書き方** — [M&Aアドバイザーの志望動機](/media/ma-advisor-motivation)、[会計・財務コンサルタントの志望動機](/media/fas-consultant-motivation)、[事業開発（BizDev）の志望動機の書き方](/media/job-bizdev-shibou-douki)をご覧ください。
+**参考になる書き方** — [M&Aアドバイザーの志望動機](/media/ma-advisor-motivation/)、[会計・財務コンサルタントの志望動機](/media/fas-consultant-motivation/)、[事業開発（BizDev）の志望動機の書き方](/media/job-bizdev-shibou-douki/)をご覧ください。
 
-選考の流れと条件面は、[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow)、[ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu)をご確認ください。
+選考の流れと条件面は、[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow/)、[ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

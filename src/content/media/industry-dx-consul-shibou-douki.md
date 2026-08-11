@@ -137,13 +137,13 @@ AI導入の効果として「業務が効率化したり迅速化した」は91.
 
 応募先の起点によって、強調すべき経験が変わります。企業別の記事もあわせてご覧ください。
 
-- [Ridgelinezの評判](/media/company-ridgelinez-reputation) — 構想と実装の一貫性を重視する立ち位置
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation) — 事業と技術をつなぐ役割
-- [エル・ティー・エスの評判](/media/company-lts-reputation) — 業務プロセスの設計から入る形
-- [日立コンサルティングの評判](/media/company-hitachikonsaruteingu-reputation) — 技術基盤を背景にした支援
-- [SCSKの評判](/media/company-scsk-reputation) — 既存システムの運用まで含む支援
-- [NTTデータの評判](/media/company-nttdeeta-reputation) — 大規模案件での構想と実装
-- [テラスカイの評判](/media/company-terasukai-reputation) — 製品を軸にした導入と定着
+- [Ridgelinezの評判](/media/company-ridgelinez-reputation/) — 構想と実装の一貫性を重視する立ち位置
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/) — 事業と技術をつなぐ役割
+- [エル・ティー・エスの評判](/media/company-lts-reputation/) — 業務プロセスの設計から入る形
+- [日立コンサルティングの評判](/media/company-hitachikonsaruteingu-reputation/) — 技術基盤を背景にした支援
+- [SCSKの評判](/media/company-scsk-reputation/) — 既存システムの運用まで含む支援
+- [NTTデータの評判](/media/company-nttdeeta-reputation/) — 大規模案件での構想と実装
+- [テラスカイの評判](/media/company-terasukai-reputation/) — 製品を軸にした導入と定着
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -146,7 +146,7 @@ job tagの区分では労働時間が月162時間とされていますが、こ�
 
 区分の時間当たり賃金は5,497円。これはITコンサルタントの区分（4,026円）を上回ります。ただし、これも区分全体の数字です。
 
-近い領域の水準は[Big4の年収相場](/media/industry-sogo-consul-nensyu)、[業務改革コンサルタントの年収相場](/media/job-gyomu-consultant-nensyu)もあわせてご覧ください。
+近い領域の水準は[Big4の年収相場](/media/industry-sogo-consul-nensyu/)、[業務改革コンサルタントの年収相場](/media/job-gyomu-consultant-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

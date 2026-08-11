@@ -154,9 +154,9 @@ job tag では、この職業に必要なスキルとして傾聴力5.4、他者
 
 **スタートアップ** — 専任のPjMを置かないことも多く、開発や事業側と兼任になります。範囲の広さに耐えられるかが見られます。
 
-隣接職種の選考も参考になります。[プロジェクトマネージャー（PM）の面接対策](/media/project-manager-interview)、[PMOの面接対策](/media/pmo-interview)、[スクラムマスターの選考フロー・面接対策](/media/job-scrum-master-senkou-flow)、[ITアーキテクトの選考フロー・面接対策](/media/job-it-architect-senkou-flow)をご覧ください。
+隣接職種の選考も参考になります。[プロジェクトマネージャー（PM）の面接対策](/media/project-manager-interview/)、[PMOの面接対策](/media/pmo-interview/)、[スクラムマスターの選考フロー・面接対策](/media/job-scrum-master-senkou-flow/)、[ITアーキテクトの選考フロー・面接対策](/media/job-it-architect-senkou-flow/)をご覧ください。
 
-志望動機の作り方と条件面は、[プロジェクトマネージャー（PjM）の志望動機の書き方](/media/job-project-manager-shibou-douki)、[プロジェクトマネージャー（PjM）の年収相場](/media/job-project-manager-nensyu)、[プロジェクトマネージャー（PjM）の転職難易度](/media/job-project-manager-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[プロジェクトマネージャー（PjM）の志望動機の書き方](/media/job-project-manager-shibou-douki/)、[プロジェクトマネージャー（PjM）の年収相場](/media/job-project-manager-nensyu/)、[プロジェクトマネージャー（PjM）の転職難易度](/media/job-project-manager-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

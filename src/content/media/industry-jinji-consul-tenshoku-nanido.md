@@ -120,7 +120,7 @@ job tagの学歴分布を並べます。
 
 **業務改革コンサルティングから**
 
-業務量の実測と改善の設計が接続します。補うのは、人に関する法令です。詳しくは[業務改革コンサルタントの転職難易度](/media/job-gyomu-consultant-tenshoku-nanido)もご覧ください。
+業務量の実測と改善の設計が接続します。補うのは、人に関する法令です。詳しくは[業務改革コンサルタントの転職難易度](/media/job-gyomu-consultant-tenshoku-nanido/)もご覧ください。
 
 ## 法改正が、採用を動かしている
 
@@ -168,7 +168,7 @@ job tagの学歴分布を並べます。
 
 1つ目は、在職中でもできます。自社の育児支援の制度が、法令のどの条文に基づくかを確認するだけで、面接での話し方が変わります。
 
-近い領域は[Big4の転職難易度](/media/industry-sogo-consul-tenshoku-nanido)もあわせてご覧ください。
+近い領域は[Big4の転職難易度](/media/industry-sogo-consul-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

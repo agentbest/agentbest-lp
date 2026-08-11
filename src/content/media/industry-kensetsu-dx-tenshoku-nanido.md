@@ -141,7 +141,7 @@ sources:
 5. **定着した／しなかった事例を1つずつ用意する** — 分析まで含めて
 6. **応募先が扱う領域を確認する** — 施工か、設計か、不動産の取引か、管理か
 
-6つ目は、思っているより重要です。同じ「建設・不動産DX」でも、施工現場の管理と不動産の情報流通では、業務も相手もまったく違います。近い領域は[不動産テック業界のガイド](/media/proptech-industry-guide)、[不動産テック業界の企業](/media/proptech-industry-company)、[物流DXの転職難易度](/media/industry-butsuryu-dx-tenshoku-nanido)もあわせてご覧ください。
+6つ目は、思っているより重要です。同じ「建設・不動産DX」でも、施工現場の管理と不動産の情報流通では、業務も相手もまったく違います。近い領域は[不動産テック業界のガイド](/media/proptech-industry-guide/)、[不動産テック業界の企業](/media/proptech-industry-company/)、[物流DXの転職難易度](/media/industry-butsuryu-dx-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

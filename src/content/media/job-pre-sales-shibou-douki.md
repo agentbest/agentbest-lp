@@ -177,9 +177,9 @@ sources:
 
 2つ目は、この職種の選考で重視されます。断った経験がないと答えると、実現性を守る役割を果たしていなかったと判断されることがあります。
 
-**参考になる書き方** — [セールスエンジニア／プリセールスの志望動機](/media/presales-motivation)、[プリセールスの職務経歴書](/media/presales-resume)、[ソリューションアーキテクトの志望動機](/media/solution-architect-motivation)、[ITコンサルタントの志望動機](/media/it-consultant-motivation)をご覧ください。
+**参考になる書き方** — [セールスエンジニア／プリセールスの志望動機](/media/presales-motivation/)、[プリセールスの職務経歴書](/media/presales-resume/)、[ソリューションアーキテクトの志望動機](/media/solution-architect-motivation/)、[ITコンサルタントの志望動機](/media/it-consultant-motivation/)をご覧ください。
 
-選考の流れと条件面は、[プリセールスの選考フロー・面接対策](/media/job-pre-sales-senkou-flow)、[プリセールスの年収相場](/media/job-pre-sales-nensyu)をご確認ください。
+選考の流れと条件面は、[プリセールスの選考フロー・面接対策](/media/job-pre-sales-senkou-flow/)、[プリセールスの年収相場](/media/job-pre-sales-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

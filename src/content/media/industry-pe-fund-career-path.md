@@ -139,13 +139,13 @@ job tagの「ファンドマネージャー」の区分では、平均年齢は3
 
 在籍中に経験できることは、ファンドの型によって大きく異なります。企業別の記事もあわせてご覧ください。
 
-- [カーライル・ジャパンの評判](/media/company-kaarairu-japan-reputation) — 大型案件とグローバルな体制
-- [KKRジャパンの評判](/media/company-kkrjapan-reputation) — カーブアウト案件の経験
-- [ベインキャピタル・ジャパンの評判](/media/company-beinkyapitaru-japan-reputation) — 経営に深く入る型
-- [インテグラルの評判](/media/company-integuraru-reputation) — 投資先に人を送り込む体制
-- [日本産業パートナーズの評判](/media/company-nihonsangyoupaatonaazu-reputation) — 大企業からの切り出し
-- [J-STARの評判](/media/company-j-star-reputation) — 中堅・中小企業のバイアウト
-- [クラリスキャピタルの評判](/media/company-kurarisukyapitaru-reputation) — 承継を起点にした投資
+- [カーライル・ジャパンの評判](/media/company-kaarairu-japan-reputation/) — 大型案件とグローバルな体制
+- [KKRジャパンの評判](/media/company-kkrjapan-reputation/) — カーブアウト案件の経験
+- [ベインキャピタル・ジャパンの評判](/media/company-beinkyapitaru-japan-reputation/) — 経営に深く入る型
+- [インテグラルの評判](/media/company-integuraru-reputation/) — 投資先に人を送り込む体制
+- [日本産業パートナーズの評判](/media/company-nihonsangyoupaatonaazu-reputation/) — 大企業からの切り出し
+- [J-STARの評判](/media/company-j-star-reputation/) — 中堅・中小企業のバイアウト
+- [クラリスキャピタルの評判](/media/company-kurarisukyapitaru-reputation/) — 承継を起点にした投資
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

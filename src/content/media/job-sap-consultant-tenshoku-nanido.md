@@ -63,7 +63,7 @@ SAPの経験がなくても、その業務に対応するモジュールなら�
 
 **どちらも薄い場合**
 
-育成を前提とする会社に絞り、なぜSAPかを整理することが出発点になります。母集団のなかで差をつけるには、狙うモジュールを決め、その業務を学んでおくことが有効です。詳しくは[未経験からERPコンサルタントへ](/media/erp-consultant-from-scratch)も参考になります。
+育成を前提とする会社に絞り、なぜSAPかを整理することが出発点になります。母集団のなかで差をつけるには、狙うモジュールを決め、その業務を学んでおくことが有効です。詳しくは[未経験からERPコンサルタントへ](/media/erp-consultant-from-scratch/)も参考になります。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -134,7 +134,7 @@ SAP領域は、人材紹介や専門の転職支援を通じた採用が多く�
 - **SIer** — 大規模な導入・移行プロジェクトを担う
 - **事業会社の社内SE・IT部門** — 自社のSAPを企画・運用する
 
-市場の動向は[ERPコンサルタントの市場動向](/media/erp-consultant-market-trend)、[ITコンサルタントの市場動向](/media/it-consultant-market-trend)で整理しています。
+市場の動向は[ERPコンサルタントの市場動向](/media/erp-consultant-market-trend/)、[ITコンサルタントの市場動向](/media/it-consultant-market-trend/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

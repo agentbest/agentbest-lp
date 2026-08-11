@@ -128,13 +128,13 @@ sources:
 
 ## 隣接職種との比較
 
-- [カスタマーサクセスの年収](/media/customer-success-salary)、[カスタマーサクセスで年収600万円を目指すには](/media/customer-success-salary-600)
-- [フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu)、[SaaS営業の年収](/media/saas-sales-salary) — 営業側の水準
-- [インサイドセールスの年収相場](/media/job-inside-sales-nensyu) — 前工程の水準
-- [セールスエンジニア／プリセールスの年収](/media/presales-salary) — 技術支援側の水準
-- [社内SEの年収](/media/corporate-it-salary) — サポート寄りの水準
+- [カスタマーサクセスの年収](/media/customer-success-salary/)、[カスタマーサクセスで年収600万円を目指すには](/media/customer-success-salary-600/)
+- [フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu/)、[SaaS営業の年収](/media/saas-sales-salary/) — 営業側の水準
+- [インサイドセールスの年収相場](/media/job-inside-sales-nensyu/) — 前工程の水準
+- [セールスエンジニア／プリセールスの年収](/media/presales-salary/) — 技術支援側の水準
+- [社内SEの年収](/media/corporate-it-salary/) — サポート寄りの水準
 
-キャリアの進み方と選考は、[カスタマーサクセスのキャリアパス](/media/job-customer-success-career-path)、[カスタマーサクセスの選考フロー・面接対策](/media/job-customer-success-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[カスタマーサクセスのキャリアパス](/media/job-customer-success-career-path/)、[カスタマーサクセスの選考フロー・面接対策](/media/job-customer-success-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -91,15 +91,15 @@ sources:
 
 この移行は自然に見えますが、実際には切り替えが要ります。指示しない働き方に慣れた方が、決めて指示する立場に移ると、判断の速度で苦労することがあります。
 
-行き先は[プロジェクトマネージャー（PM）のキャリアパス](/media/project-manager-career-path)、[エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path)が参考になります。
+行き先は[プロジェクトマネージャー（PM）のキャリアパス](/media/project-manager-career-path/)、[エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path/)が参考になります。
 
 ## 製品側・技術側に移る道
 
-**製品側へ** — 何を作るかを決める立場です。進め方の支援から、内容の判断に軸足が移ります。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)をご覧ください。
+**製品側へ** — 何を作るかを決める立場です。進め方の支援から、内容の判断に軸足が移ります。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)をご覧ください。
 
-**技術側へ** — 開発に戻る、あるいは技術的な意思決定を担う方向です。兼任型で開発を続けていた方は、この選択肢が残ります。[テックリードのキャリアパス](/media/tech-lead-career-path)が近い領域です。
+**技術側へ** — 開発に戻る、あるいは技術的な意思決定を担う方向です。兼任型で開発を続けていた方は、この選択肢が残ります。[テックリードのキャリアパス](/media/tech-lead-career-path/)が近い領域です。
 
-**開発の進行管理へ** — [開発ディレクターのキャリアパス](/media/dev-director-career-path)、[PMOのキャリアパス](/media/pmo-career-path)も隣接します。
+**開発の進行管理へ** — [開発ディレクターのキャリアパス](/media/dev-director-career-path/)、[PMOのキャリアパス](/media/pmo-career-path/)も隣接します。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -124,12 +124,12 @@ sources:
 
 ## 隣接職種との行き来
 
-- **管理側** — [プロジェクトマネージャー（PM）のキャリアパス](/media/project-manager-career-path)、[エンジニアリングマネージャーに求められるスキル](/media/engineering-manager-skills)
-- **製品側** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)
-- **技術側** — [テックリードのキャリアパス](/media/tech-lead-career-path)
-- **進行管理** — [PMOのキャリアパス](/media/pmo-career-path)、[開発ディレクターのキャリアパス](/media/dev-director-career-path)
+- **管理側** — [プロジェクトマネージャー（PM）のキャリアパス](/media/project-manager-career-path/)、[エンジニアリングマネージャーに求められるスキル](/media/engineering-manager-skills/)
+- **製品側** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)
+- **技術側** — [テックリードのキャリアパス](/media/tech-lead-career-path/)
+- **進行管理** — [PMOのキャリアパス](/media/pmo-career-path/)、[開発ディレクターのキャリアパス](/media/dev-director-career-path/)
 
-年収と選考は、[スクラムマスターの年収相場](/media/job-scrum-master-nensyu)、[スクラムマスターの選考フロー・面接対策](/media/job-scrum-master-senkou-flow)をご確認ください。
+年収と選考は、[スクラムマスターの年収相場](/media/job-scrum-master-nensyu/)、[スクラムマスターの選考フロー・面接対策](/media/job-scrum-master-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

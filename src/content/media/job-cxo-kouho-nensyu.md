@@ -134,17 +134,17 @@ CxO候補・経営幹部のオファーは、現金の年収だけで比較で�
 
 ## この職種を採用している企業タイプ
 
-**プロダクト中心のスタートアップ** — 技術側の報酬水準は[CTO・VPoE候補の年収](/media/cto-vpoe-salary)、[CTO・VPoE候補が年収1000万円を目指すには](/media/cto-vpoe-salary-1000)が参考になります。
+**プロダクト中心のスタートアップ** — 技術側の報酬水準は[CTO・VPoE候補の年収](/media/cto-vpoe-salary/)、[CTO・VPoE候補が年収1000万円を目指すには](/media/cto-vpoe-salary-1000/)が参考になります。
 
-**事業会社出身者を求める会社** — [経営企画の年収](/media/corporate-planning-salary)、[経営企画のキャリアパス](/media/corporate-planning-career-path)をご覧ください。
+**事業会社出身者を求める会社** — [経営企画の年収](/media/corporate-planning-salary/)、[経営企画のキャリアパス](/media/corporate-planning-career-path/)をご覧ください。
 
-**管理部門の責任者を探している会社** — [財務・経理の年収](/media/finance-salary)、[人事（HRBP）の年収](/media/hrbp-salary)が近い水準感の参考になります。
+**管理部門の責任者を探している会社** — [財務・経理の年収](/media/finance-salary/)、[人事（HRBP）の年収](/media/hrbp-salary/)が近い水準感の参考になります。
 
-**事業開発の延長で幹部を採る会社** — [事業開発（BizDev）の年収](/media/bizdev-salary)、[事業企画の年収](/media/business-planning-salary)が該当します。
+**事業開発の延長で幹部を採る会社** — [事業開発（BizDev）の年収](/media/bizdev-salary/)、[事業企画の年収](/media/business-planning-salary/)が該当します。
 
-**コンサル出身者を採る会社** — [ポストコンサル（事業会社転身）の年収](/media/post-consultant-salary)で、転身時の報酬の変化を整理しています。
+**コンサル出身者を採る会社** — [ポストコンサル（事業会社転身）の年収](/media/post-consultant-salary/)で、転身時の報酬の変化を整理しています。
 
-このポジションの選考と進み方については、[CxO候補・経営幹部の選考フロー・面接対策](/media/job-cxo-kouho-senkou-flow)、[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)もあわせてご確認ください。
+このポジションの選考と進み方については、[CxO候補・経営幹部の選考フロー・面接対策](/media/job-cxo-kouho-senkou-flow/)、[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)もあわせてご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

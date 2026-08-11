@@ -136,7 +136,7 @@ job tagのプログラマーの区分は、平均年収578.5万円、時給2,819
 
 特定領域で指名される状態になれば、話が変わります。基盤、セキュリティ、性能、特定のパッケージ。**代替が効かない領域**を持つことが条件になります。
 
-**関連する領域** — [ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path)、[メーカーIT・製造業DXのキャリアパス](/media/industry-maker-it-career-path)もあわせてご覧ください。
+**関連する領域** — [ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path/)、[メーカーIT・製造業DXのキャリアパス](/media/industry-maker-it-career-path/)もあわせてご覧ください。
 
 ## 常駐と、3年という区切り
 

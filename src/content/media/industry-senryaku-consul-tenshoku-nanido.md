@@ -104,15 +104,15 @@ sources:
 
 難易度は一律ではなく、ファームの類型によって「何が難しいか」が変わります。各社の詳細は個別の記事にまとめています。
 
-- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation) … 競争倍率が公表されている数少ない例。通年でキャリア採用を受け付けています
-- [コーポレイトディレクションの評判](/media/company-corporate-directions-reputation) … Managing Directorごとに選考基準が異なる設計。相手を選ぶ準備が要ります
-- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation) … 選考プロセスが公開されており、配属予定部門との個別面談が中心です
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation) … 拡大局面が続く上場企業。事業構成を読み込んでいるかが差になります
-- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation) … 外資系戦略ファーム。思考の質が正面から問われます
-- [PwCコンサルティングの評判](/media/company-pwc-consulting-reputation) … 総合系。ポジションが細分化されており、接続点を見つけやすい面があります
-- [アビームコンサルティングの評判](/media/company-abeam-consulting-reputation) … 日本発の総合系。国内企業での実務経験が活きやすい構造です
-- [エル・ティー・エスの評判](/media/company-lts-reputation) … 現場に入り込む仕事が出自。実行局面の経験が接続します
-- [Ridgelinezの評判](/media/company-ridgelinez-reputation) … 母体企業の基盤を持つファーム。IT・業務側の経験が評価されやすい傾向があります
+- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation/) … 競争倍率が公表されている数少ない例。通年でキャリア採用を受け付けています
+- [コーポレイトディレクションの評判](/media/company-corporate-directions-reputation/) … Managing Directorごとに選考基準が異なる設計。相手を選ぶ準備が要ります
+- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation/) … 選考プロセスが公開されており、配属予定部門との個別面談が中心です
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/) … 拡大局面が続く上場企業。事業構成を読み込んでいるかが差になります
+- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation/) … 外資系戦略ファーム。思考の質が正面から問われます
+- [PwCコンサルティングの評判](/media/company-pwc-consulting-reputation/) … 総合系。ポジションが細分化されており、接続点を見つけやすい面があります
+- [アビームコンサルティングの評判](/media/company-abeam-consulting-reputation/) … 日本発の総合系。国内企業での実務経験が活きやすい構造です
+- [エル・ティー・エスの評判](/media/company-lts-reputation/) … 現場に入り込む仕事が出自。実行局面の経験が接続します
+- [Ridgelinezの評判](/media/company-ridgelinez-reputation/) … 母体企業の基盤を持つファーム。IT・業務側の経験が評価されやすい傾向があります
 
 ## 難易度を下げるために打てる手
 

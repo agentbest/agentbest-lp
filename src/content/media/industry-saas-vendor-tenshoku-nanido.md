@@ -134,7 +134,7 @@ SaaSでの実務経験がない場合でも、接続する経路はあります�
 
 30代後半以降では、チームを動かした経験や、事業の数値に責任を持った経験が求められる傾向があります。職種によっては管理職としての募集が中心になります。
 
-報酬の構造については[SaaSベンダーの年収相場](/media/industry-saas-vendor-nensyu)、選考の流れは[SaaSベンダーの選考フロー・面接対策](/media/industry-saas-vendor-senkou-flow)で整理しています。
+報酬の構造については[SaaSベンダーの年収相場](/media/industry-saas-vendor-nensyu/)、選考の流れは[SaaSベンダーの選考フロー・面接対策](/media/industry-saas-vendor-senkou-flow/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

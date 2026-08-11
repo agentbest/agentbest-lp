@@ -118,7 +118,7 @@ sources:
 
 支援後の関与範囲。提案までで案件が終わるのか、実行と定着まで伴走するのか。後者を経験できると、事業会社へ移る際の説得力が変わります。
 
-選考の流れは[業界特化型コンサルティングの選考フロー・面接対策](/media/industry-gyokai-tokka-consul-senkou-flow)、報酬の構造は[業界特化型コンサルティングの年収相場](/media/industry-gyokai-tokka-consul-nensyu)で整理しています。
+選考の流れは[業界特化型コンサルティングの選考フロー・面接対策](/media/industry-gyokai-tokka-consul-senkou-flow/)、報酬の構造は[業界特化型コンサルティングの年収相場](/media/industry-gyokai-tokka-consul-nensyu/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

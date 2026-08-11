@@ -132,11 +132,11 @@ SaaSのフィールドセールスの選考では、ロールプレイングや�
 
 **成長期のSaaS企業** — 最も募集が多い層です。既存の型を回せるか、改善提案ができるかが見られます。ロールプレイングが組み込まれることが多くなります。
 
-**上場後・大手のSaaS企業** — 選考の段階数が多く、プロセスの遵守や大型案件の経験が見られます。[エンタープライズセールスの面接対策](/media/enterprise-sales-interview)が参考になります。
+**上場後・大手のSaaS企業** — 選考の段階数が多く、プロセスの遵守や大型案件の経験が見られます。[エンタープライズセールスの面接対策](/media/enterprise-sales-interview/)が参考になります。
 
-隣接職種の選考も参考になります。[SaaS営業（フィールドセールス）の面接対策](/media/saas-sales-interview)、[インサイドセールスの面接対策](/media/inside-sales-interview)、[カスタマーサクセスの面接対策](/media/customer-success-interview)、[セールスエンジニア／プリセールスの面接対策](/media/presales-interview)をご覧ください。
+隣接職種の選考も参考になります。[SaaS営業（フィールドセールス）の面接対策](/media/saas-sales-interview/)、[インサイドセールスの面接対策](/media/inside-sales-interview/)、[カスタマーサクセスの面接対策](/media/customer-success-interview/)、[セールスエンジニア／プリセールスの面接対策](/media/presales-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[フィールドセールス（SaaS）の志望動機の書き方](/media/job-field-sales-shibou-douki)、[フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu)、[フィールドセールス（SaaS）の転職難易度](/media/job-field-sales-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[フィールドセールス（SaaS）の志望動機の書き方](/media/job-field-sales-shibou-douki/)、[フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu/)、[フィールドセールス（SaaS）の転職難易度](/media/job-field-sales-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

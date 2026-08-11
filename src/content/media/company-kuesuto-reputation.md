@@ -85,7 +85,7 @@ sources:
 
 **対前年増減率2.7%**
 
-平均年間給与は前年から2.7%上昇しています。詳しくは[クレオの評判・年収・選考対策](/media/company-kureo-reputation)、[キーウェアソリューションズの評判・年収・選考対策](/media/company-kiiueasoryuushonzu-reputation)もご覧ください。
+平均年間給与は前年から2.7%上昇しています。詳しくは[クレオの評判・年収・選考対策](/media/company-kureo-reputation/)、[キーウェアソリューションズの評判・年収・選考対策](/media/company-kiiueasoryuushonzu-reputation/)もご覧ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -135,7 +135,7 @@ sources:
 
 **この差が示すもの**
 
-SIerの年収は、**契約上の位置と、担う工程**で決まります。要件を決める立場か、決まった仕様を実装する立場か。詳しくは[SIerの年収相場](/media/industry-sier-nensyu)で構造を整理しています。
+SIerの年収は、**契約上の位置と、担う工程**で決まります。要件を決める立場か、決まった仕様を実装する立場か。詳しくは[SIerの年収相場](/media/industry-sier-nensyu/)で構造を整理しています。
 
 **求人倍率**
 

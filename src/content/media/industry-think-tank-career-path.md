@@ -157,7 +157,7 @@ sources:
 
 経営コンサルタントの区分は平均年収1,134.6万円、時給5,497円。エコノミストの802万円、4,002円を上回ります。**収益を作る側のほうが、単価は高くなります。**
 
-**関連する領域** — [シンクタンクのキャリアパス](/media/thinktank-career-path)、[シンクタンク業界の市場動向](/media/thinktank-market-trend)もあわせてご覧ください。
+**関連する領域** — [シンクタンクのキャリアパス](/media/thinktank-career-path/)、[シンクタンク業界の市場動向](/media/thinktank-market-trend/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

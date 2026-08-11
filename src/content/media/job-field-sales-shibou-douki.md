@@ -156,9 +156,9 @@ SaaSのフィールドセールスの志望動機で目にするのが、「無�
 
 5つ目は、分業されている組織で働けるかを確認する質問です。単独で完結する営業経験しかない場合、連携をどう設計するつもりかを述べられると印象が変わります。
 
-**参考になる隣接職種の書き方** — [SaaS営業（フィールドセールス）の志望動機](/media/saas-sales-motivation)、[SaaS営業の職務経歴書](/media/saas-sales-resume)、[エンタープライズセールスの志望動機](/media/enterprise-sales-motivation)、[インサイドセールスの志望動機](/media/inside-sales-motivation)、[カスタマーサクセスの志望動機](/media/customer-success-motivation)をご覧ください。
+**参考になる隣接職種の書き方** — [SaaS営業（フィールドセールス）の志望動機](/media/saas-sales-motivation/)、[SaaS営業の職務経歴書](/media/saas-sales-resume/)、[エンタープライズセールスの志望動機](/media/enterprise-sales-motivation/)、[インサイドセールスの志望動機](/media/inside-sales-motivation/)、[カスタマーサクセスの志望動機](/media/customer-success-motivation/)をご覧ください。
 
-選考の流れと条件面は、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow)、[フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu)をご確認ください。
+選考の流れと条件面は、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow/)、[フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

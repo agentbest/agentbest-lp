@@ -81,7 +81,7 @@ job tag に掲載されている就業者数は3,737,860人（令和2年国勢�
 
 **経理・財務から**
 
-数字の扱いに強く、予実管理型と相性が良くなります。事業側の意思決定に関与した経験を示せると接続します。[財務・経理のキャリアパス](/media/finance-career-path)が参考になります。
+数字の扱いに強く、予実管理型と相性が良くなります。事業側の意思決定に関与した経験を示せると接続します。[財務・経理のキャリアパス](/media/finance-career-path/)が参考になります。
 
 **コンサルティングから**
 
@@ -89,7 +89,7 @@ job tag に掲載されている就業者数は3,737,860人（令和2年国勢�
 
 **エンジニア・プロダクト側から**
 
-製品の理解が深く、新規事業型と相性が良くなります。損益の感覚があるかを確認されることが多くなります。[プロダクトマネージャー（PdM）に求められるスキル](/media/product-manager-skills)をご覧ください。
+製品の理解が深く、新規事業型と相性が良くなります。損益の感覚があるかを確認されることが多くなります。[プロダクトマネージャー（PdM）に求められるスキル](/media/product-manager-skills/)をご覧ください。
 
 **同じ会社での異動を狙う**
 
@@ -136,13 +136,13 @@ job tag に掲載されている就業者数は3,737,860人（令和2年国勢�
 
 ## 隣接職種との関係
 
-- **経営に近い側** — [経営企画の転職市場動向](/media/corporate-planning-market-trend)、[経営企画に求められるスキル](/media/corporate-planning-skills)
-- **事業を作る側** — [事業開発（BizDev）の転職市場動向](/media/bizdev-market-trend)、[事業開発の転職での失敗](/media/bizdev-failure)
-- **製品側** — [プロダクトマネージャー（PdM）の転職市場動向](/media/product-manager-market-trend)
-- **経営層** — [CxO候補・経営幹部の転職難易度](/media/job-cxo-kouho-tenshoku-nanido)
-- **同職種の一般的な情報** — [事業企画の転職市場動向](/media/business-planning-market-trend)、[事業企画に未経験から挑戦するには](/media/business-planning-from-scratch)
+- **経営に近い側** — [経営企画の転職市場動向](/media/corporate-planning-market-trend/)、[経営企画に求められるスキル](/media/corporate-planning-skills/)
+- **事業を作る側** — [事業開発（BizDev）の転職市場動向](/media/bizdev-market-trend/)、[事業開発の転職での失敗](/media/bizdev-failure/)
+- **製品側** — [プロダクトマネージャー（PdM）の転職市場動向](/media/product-manager-market-trend/)
+- **経営層** — [CxO候補・経営幹部の転職難易度](/media/job-cxo-kouho-tenshoku-nanido/)
+- **同職種の一般的な情報** — [事業企画の転職市場動向](/media/business-planning-market-trend/)、[事業企画に未経験から挑戦するには](/media/business-planning-from-scratch/)
 
-キャリアの進み方と年収は、[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path)、[事業企画の年収相場](/media/job-jigyo-kikaku-nensyu)をご確認ください。
+キャリアの進み方と年収は、[事業企画のキャリアパス](/media/job-jigyo-kikaku-career-path/)、[事業企画の年収相場](/media/job-jigyo-kikaku-nensyu/)をご確認ください。
 
 ## まとめ
 

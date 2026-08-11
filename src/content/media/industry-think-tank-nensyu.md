@@ -149,7 +149,7 @@ job tagの区分では、エコノミストが月 **159時間**、経営コン�
 
 年間平均で見れば、他のコンサルティング職より稼働は軽くなります。ただし、繁忙期の実態は別に確認する必要があります。
 
-近い領域の水準は[シンクタンクの年収](/media/thinktank-salary)、[シンクタンクの企業規模](/media/thinktank-company-size)もあわせてご覧ください。
+近い領域の水準は[シンクタンクの年収](/media/thinktank-salary/)、[シンクタンクの企業規模](/media/thinktank-company-size/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

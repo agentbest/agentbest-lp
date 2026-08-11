@@ -116,7 +116,7 @@ sources:
 
 第三に、カジュアル面談などの機会があれば、配属予定のチームが直近1年で何に時間を使ったかを聞きます。ここで得た情報は公開情報にはないため、志望動機の具体性が一段上がります。
 
-業界全体の構造は[フィンテック業界への転職ガイド](/media/fintech-industry-guide)、主要プレイヤーの類型は[フィンテック業界の主要企業](/media/fintech-industry-company)でも整理しています。
+業界全体の構造は[フィンテック業界への転職ガイド](/media/fintech-industry-guide/)、主要プレイヤーの類型は[フィンテック業界の主要企業](/media/fintech-industry-company/)でも整理しています。
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>

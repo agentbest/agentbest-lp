@@ -137,7 +137,7 @@ sources:
 
 3つ目は、面接で確かめられることが多い部分です。Scope1と2は自社データで算定できる一方、Scope3は他社の排出であり推計に頼ることになります。この違いを説明できると、実務の解像度があると受け取られます。
 
-隣接領域は[事業再生コンサルタントの転職難易度](/media/job-saisei-consultant-tenshoku-nanido)、[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido)、[経営企画の転職難易度](/media/job-keiei-kikaku-tenshoku-nanido)もあわせてご覧ください。
+隣接領域は[事業再生コンサルタントの転職難易度](/media/job-saisei-consultant-tenshoku-nanido/)、[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido/)、[経営企画の転職難易度](/media/job-keiei-kikaku-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

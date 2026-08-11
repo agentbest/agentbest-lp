@@ -105,7 +105,7 @@ M&A仲介の選考対策を考えるとき、最初に押さえるべきなの�
 | 士業系・コンサル併営 | 本業の顧客基盤から派生 | 専門知識と業界人脈 |
 | プラットフォーム型 | 掲載と成約支援が中心 | 仕組みで動かす発想 |
 
-主要企業の状況は[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation)、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation)、[ストライクの評判](/media/company-sutoraiku-reputation)、[オンデックの評判](/media/company-ondekku-reputation)、[fundbookの評判](/media/company-fundbook-reputation)、[M&Aベストパートナーズの評判](/media/company-mandabesutopaatonaazu-reputation)、[バトンズの評判](/media/company-batonz-reputation)、[経営承継支援の評判](/media/company-keieishoukeishien-reputation)をご覧ください。
+主要企業の状況は[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation/)、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation/)、[ストライクの評判](/media/company-sutoraiku-reputation/)、[オンデックの評判](/media/company-ondekku-reputation/)、[fundbookの評判](/media/company-fundbook-reputation/)、[M&Aベストパートナーズの評判](/media/company-mandabesutopaatonaazu-reputation/)、[バトンズの評判](/media/company-batonz-reputation/)、[経営承継支援の評判](/media/company-keieishoukeishien-reputation/)をご覧ください。
 
 ## 見送りにつながりやすい受け答え
 
@@ -137,7 +137,7 @@ M&A仲介の選考対策を考えるとき、最初に押さえるべきなの�
 
 金融機関、不動産、人材、保険など、法人営業の経験から移る方が多い領域です。翻訳の要点は、扱ってきた商材ではなく意思決定の重さに置くことです。
 
-決裁者と直接話した経験、検討が数か月にわたった案件、社内の反対を越えて進めた提案。これらは商材が違っても評価されます。逆に、短期で完結する取引の実績を量で示すと、案件の時間軸が合わないと判断されることがあります。職種としての詳細は[M&A仲介営業の選考フロー](/media/job-ma-chukai-eigyo-senkou-flow)を、FA側との違いは[FASの選考フロー](/media/industry-fas-senkou-flow)をご覧ください。
+決裁者と直接話した経験、検討が数か月にわたった案件、社内の反対を越えて進めた提案。これらは商材が違っても評価されます。逆に、短期で完結する取引の実績を量で示すと、案件の時間軸が合わないと判断されることがあります。職種としての詳細は[M&A仲介営業の選考フロー](/media/job-ma-chukai-eigyo-senkou-flow/)を、FA側との違いは[FASの選考フロー](/media/industry-fas-senkou-flow/)をご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -156,7 +156,7 @@ M&A仲介の選考は、会社の位置を理解したうえで臨むと的が�
 
 **Q. 未経験でも選考に進めますか。**
 
-A. 未経験からの採用は広く行われています。ただし会社によって育成体制の厚みが違うため、入社1年目の社員がどう立ち上がっているかを選考中に確認しておくことをおすすめします。詳しくは[転職難易度](/media/industry-ma-chukai-tenshoku-nanido)で扱っています。
+A. 未経験からの採用は広く行われています。ただし会社によって育成体制の厚みが違うため、入社1年目の社員がどう立ち上がっているかを選考中に確認しておくことをおすすめします。詳しくは[転職難易度](/media/industry-ma-chukai-tenshoku-nanido/)で扱っています。
 
 **Q. 資格は選考で有利になりますか。**
 

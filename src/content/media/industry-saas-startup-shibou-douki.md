@@ -193,7 +193,7 @@ job tagのコンサルティング営業（IT）の区分では、**他者との
 
 制度の要件や税務上の取扱いは改正されることがあり、個別の判断は事情により変わりますので、国税庁の公表資料や税理士等の専門家にご確認ください。
 
-近い領域の書き方は[SaaS業界のガイド](/media/saas-industry-guide)、[メガベンチャーの志望動機の書き方](/media/industry-mega-venture-shibou-douki)もあわせてご覧ください。
+近い領域の書き方は[SaaS業界のガイド](/media/saas-industry-guide/)、[メガベンチャーの志望動機の書き方](/media/industry-mega-venture-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

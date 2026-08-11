@@ -147,14 +147,14 @@ job tag に掲載されている月間労働時間は173時間とされていま
 
 ## 近い職種の水準
 
-- [プロジェクトマネージャー（PM）の年収](/media/project-manager-salary)、[プロジェクトマネージャーで年収1000万円を目指すには](/media/project-manager-salary-1000)
-- [PMOの年収](/media/pmo-salary) — 統括・支援側の水準
-- [エンジニアリングマネージャーの年収](/media/engineering-manager-salary) — 組織側の水準
-- [ITアーキテクトの年収相場](/media/job-it-architect-nensyu) — 設計側の水準
-- [スクラムマスターの年収相場](/media/job-scrum-master-nensyu) — 支援側の水準
-- [プロダクトマネージャー（PdM）の年収](/media/product-manager-salary) — 製品側の水準
+- [プロジェクトマネージャー（PM）の年収](/media/project-manager-salary/)、[プロジェクトマネージャーで年収1000万円を目指すには](/media/project-manager-salary-1000/)
+- [PMOの年収](/media/pmo-salary/) — 統括・支援側の水準
+- [エンジニアリングマネージャーの年収](/media/engineering-manager-salary/) — 組織側の水準
+- [ITアーキテクトの年収相場](/media/job-it-architect-nensyu/) — 設計側の水準
+- [スクラムマスターの年収相場](/media/job-scrum-master-nensyu/) — 支援側の水準
+- [プロダクトマネージャー（PdM）の年収](/media/product-manager-salary/) — 製品側の水準
 
-キャリアの進み方と選考は、[プロジェクトマネージャー（PjM）のキャリアパス](/media/job-project-manager-career-path)、[プロジェクトマネージャー（PjM）の選考フロー・面接対策](/media/job-project-manager-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[プロジェクトマネージャー（PjM）のキャリアパス](/media/job-project-manager-career-path/)、[プロジェクトマネージャー（PjM）の選考フロー・面接対策](/media/job-project-manager-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

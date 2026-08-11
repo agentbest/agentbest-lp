@@ -103,7 +103,7 @@ job tag では、この領域について **中途採用がほとんど** であ
 
 3つ目は、この職種特有の重さです。人の処遇に関わる判断を、外部の立場で下すことになります。
 
-**この経験は外に通じます** — 投資先の経営を担った経験は、事業会社の経営幹部への道につながります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)をご覧ください。
+**この経験は外に通じます** — 投資先の経営を担った経験は、事業会社の経営幹部への道につながります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)をご覧ください。
 
 ## ファンドの運営側・外に出る道
 
@@ -113,7 +113,7 @@ job tag では、この領域について **中途採用がほとんど** であ
 
 **独立してファンドを立ち上げる** — 実績と、資金を集められる関係が前提です。
 
-**M&Aの助言側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path)が隣接します。
+**M&Aの助言側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path/)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path/)が隣接します。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -145,12 +145,12 @@ job tag に掲載されているこの領域の数値は、次のとおりです
 
 ## 隣接職種との行き来
 
-- **助言側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path)
-- **初期段階の投資へ** — [ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path)
-- **経営側へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)
-- **支援側へ** — [戦略コンサルタントのキャリアパス](/media/strategy-consultant-career-path)
+- **助言側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path/)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path/)
+- **初期段階の投資へ** — [ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path/)
+- **経営側へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)
+- **支援側へ** — [戦略コンサルタントのキャリアパス](/media/strategy-consultant-career-path/)
 
-年収と選考は、[PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu)、[PEファンド投資担当の選考フロー・面接対策](/media/job-pe-investment-senkou-flow)をご確認ください。
+年収と選考は、[PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu/)、[PEファンド投資担当の選考フロー・面接対策](/media/job-pe-investment-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

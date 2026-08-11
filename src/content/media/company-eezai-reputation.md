@@ -179,7 +179,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-eezai-reputation">年収の実態を聞いてみる</a>
 </aside>
 
-同じく研究開発型のメーカーとの比較には、[小林製薬の評判](/media/company-kobayashiseiyaku-reputation)、[味の素の評判](/media/company-ajinomoto-reputation)、[花王の評判](/media/company-kaou-reputation)、[コニカミノルタの評判](/media/company-konikaminoruta-reputation)、[HORIBAの評判](/media/company-horiba-reputation)、[ニコンの評判](/media/company-nikon-reputation)もご覧ください。
+同じく研究開発型のメーカーとの比較には、[小林製薬の評判](/media/company-kobayashiseiyaku-reputation/)、[味の素の評判](/media/company-ajinomoto-reputation/)、[花王の評判](/media/company-kaou-reputation/)、[コニカミノルタの評判](/media/company-konikaminoruta-reputation/)、[HORIBAの評判](/media/company-horiba-reputation/)、[ニコンの評判](/media/company-nikon-reputation/)もご覧ください。
 
 ## まとめ
 

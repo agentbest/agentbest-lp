@@ -94,7 +94,7 @@ sources:
 
 **4. 社内異動を選択肢に入れる。** 現職に開発組織がある場合、外部から入るより社内で移るほうが通りやすいことがあります。「DX動向2025」では、日本企業の人材確保の方法として「社内人材の育成」「既存人材の活用」の回答率が米独より高いと報告されています。企業側が社内調達を優先する傾向が、数字にも表れています。
 
-**5. 隣接領域から迂回する。** ITコンサルタントやPMO、DX推進部門を経由して事業会社に移る経路もあります。[ITコンサルタントの転職難易度](/media/job-it-consultant-tenshoku-nanido)、[PMOコンサルタントの転職難易度](/media/job-pmo-consultant-tenshoku-nanido)、[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido)が参考になります。
+**5. 隣接領域から迂回する。** ITコンサルタントやPMO、DX推進部門を経由して事業会社に移る経路もあります。[ITコンサルタントの転職難易度](/media/job-it-consultant-tenshoku-nanido/)、[PMOコンサルタントの転職難易度](/media/job-pmo-consultant-tenshoku-nanido/)、[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido/)が参考になります。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>
@@ -103,10 +103,10 @@ sources:
 
 ## 受け入れ側の類型で、難しさの質が変わる
 
-- **自社サービス専業**は、プロダクト経験の有無が直接問われます。競争は激しい一方、基準は比較的はっきりしています。[メルカリの評判](/media/company-merukari-reputation)、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation)、[グリーホールディングスの評判](/media/company-gurii-reputation)をご覧ください
-- **非IT事業会社の内製部門**は、業界知識が重く見られます。[イオンの評判](/media/company-ion-reputation)、[花王の評判](/media/company-kaou-reputation)、[クレディセゾンの評判](/media/company-kuredisezon-reputation)が参考になります
-- **IT・デジタル子会社**は、親会社との関係の理解が要ります。[JR東日本情報システムの評判](/media/company-jrhigashinihonjouhoushisutemu-reputation)、[三菱UFJインフォメーションテクノロジーの評判](/media/company-mitsubishiufjinfomeeshontekunorojii-reputation)をご覧ください
-- **SaaS・スタートアップ**は、フェーズへの適応が問われます。[アンドパッドの評判](/media/company-andopaddo-reputation)、[estieの評判](/media/company-estie-reputation)、[Visionalの評判](/media/company-visional-reputation)が比較材料になります
+- **自社サービス専業**は、プロダクト経験の有無が直接問われます。競争は激しい一方、基準は比較的はっきりしています。[メルカリの評判](/media/company-merukari-reputation/)、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation/)、[グリーホールディングスの評判](/media/company-gurii-reputation/)をご覧ください
+- **非IT事業会社の内製部門**は、業界知識が重く見られます。[イオンの評判](/media/company-ion-reputation/)、[花王の評判](/media/company-kaou-reputation/)、[クレディセゾンの評判](/media/company-kuredisezon-reputation/)が参考になります
+- **IT・デジタル子会社**は、親会社との関係の理解が要ります。[JR東日本情報システムの評判](/media/company-jrhigashinihonjouhoushisutemu-reputation/)、[三菱UFJインフォメーションテクノロジーの評判](/media/company-mitsubishiufjinfomeeshontekunorojii-reputation/)をご覧ください
+- **SaaS・スタートアップ**は、フェーズへの適応が問われます。[アンドパッドの評判](/media/company-andopaddo-reputation/)、[estieの評判](/media/company-estie-reputation/)、[Visionalの評判](/media/company-visional-reputation/)が比較材料になります
 
 ## 年代による違い
 
@@ -114,7 +114,7 @@ sources:
 
 30代前半は、担当プロダクトでの実績が問われます。この年代では、規模の大小より、自分の判断で動かした範囲の明確さが評価を分けます。
 
-30代後半以降は、組織を作った経験や、複数チームをまたぐ調整の実績が求められる傾向があります。個人としての実行力に加えて、人を採り育てた経験があるかどうかが論点になります。年収の構造は[年収相場](/media/industry-jigyo-gaisha-pdm-nensyu)で扱っています。
+30代後半以降は、組織を作った経験や、複数チームをまたぐ調整の実績が求められる傾向があります。個人としての実行力に加えて、人を採り育てた経験があるかどうかが論点になります。年収の構造は[年収相場](/media/industry-jigyo-gaisha-pdm-nensyu/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

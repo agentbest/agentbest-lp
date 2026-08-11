@@ -154,7 +154,7 @@ sources:
 
 **事業会社の社内改革部門** — 社内を動かす調整力が中心です。ケース面接より、経験の掘り下げが多くなります。
 
-近い職種の選考は[ITコンサルタントの選考フロー・面接対策](/media/job-it-consultant-senkou-flow)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow)もあわせてご覧ください。
+近い職種の選考は[ITコンサルタントの選考フロー・面接対策](/media/job-it-consultant-senkou-flow/)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -176,7 +176,7 @@ sources:
 
 6つ目も確認する価値があります。効果測定まで契約に含まれている会社では、実行可能性を重視した提案になります。含まれていない会社では、提案書の完成度が評価軸になりがちです。
 
-3つ目と4つ目は年収に直結します。詳しくは[業務改革コンサルタントの年収相場](/media/job-gyomu-consultant-nensyu)で整理しています。
+3つ目と4つ目は年収に直結します。詳しくは[業務改革コンサルタントの年収相場](/media/job-gyomu-consultant-nensyu/)で整理しています。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

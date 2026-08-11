@@ -96,7 +96,7 @@ sources:
 
 この道では、投資の目利きより、事業を動かす力が問われます。事業会社での経験を持つ方が、この領域で評価されることがあります。
 
-**この経験は外にも通じます** — 支援先の経営に深く関わった経験は、事業会社の経営幹部への道につながります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)をご覧ください。
+**この経験は外にも通じます** — 支援先の経営に深く関わった経験は、事業会社の経営幹部への道につながります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)をご覧ください。
 
 ## ファンド側・外に出る道
 
@@ -106,7 +106,7 @@ sources:
 
 **独立して自分のファンドを作る** — 実績と、資金を集められる関係が前提になります。年数がかかる道です。
 
-**M&Aや財務の領域へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path)が隣接します。
+**M&Aや財務の領域へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path/)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path/)が隣接します。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -133,16 +133,16 @@ job tag に掲載されているファンドマネージャーの数値は、次
 
 **年収1,134.6万円は、ここまで見てきた職種のなかで最も高い水準です。** 一方、就業者数82,920人という規模は小さく、有効求人倍率0.57は1を下回ります。
 
-高い水準の一方で、入口が狭い。この構造が、この職種の転職難易度を規定しています。詳しくは[ベンチャーキャピタリストの転職難易度](/media/job-vc-capitalist-tenshoku-nanido)で整理しています。
+高い水準の一方で、入口が狭い。この構造が、この職種の転職難易度を規定しています。詳しくは[ベンチャーキャピタリストの転職難易度](/media/job-vc-capitalist-tenshoku-nanido/)で整理しています。
 
 ## 隣接職種との行き来
 
-- **M&A・財務側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path)
-- **経営側へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)
-- **事業側へ** — [事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)
-- **支援する側へ** — [戦略コンサルタントのキャリアパス](/media/strategy-consultant-career-path)
+- **M&A・財務側へ** — [M&Aアドバイザーのキャリアパス](/media/ma-advisor-career-path/)、[会計・財務コンサルタントのキャリアパス](/media/fas-consultant-career-path/)
+- **経営側へ** — [CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)
+- **事業側へ** — [事業開発（BizDev）のキャリアパス](/media/job-bizdev-career-path/)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)
+- **支援する側へ** — [戦略コンサルタントのキャリアパス](/media/strategy-consultant-career-path/)
 
-年収と選考は、[ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu)、[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow)をご確認ください。
+年収と選考は、[ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu/)、[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

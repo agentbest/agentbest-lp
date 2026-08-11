@@ -129,9 +129,9 @@ sources:
 
 **大手事業会社** — 社内異動が中心のため募集自体が限られます。応募できる場合、組織のなかで合意形成を進められるかが重視されます。選考の段階数は多くなりがちです。
 
-隣接職種の選考も参考になります。[事業企画の面接対策](/media/business-planning-interview)、[経営企画の面接対策](/media/corporate-planning-interview)、[事業開発（BizDev）の面接対策](/media/bizdev-interview)、[プロダクトマネージャー（PdM）の面接対策](/media/product-manager-interview)をご覧ください。
+隣接職種の選考も参考になります。[事業企画の面接対策](/media/business-planning-interview/)、[経営企画の面接対策](/media/corporate-planning-interview/)、[事業開発（BizDev）の面接対策](/media/bizdev-interview/)、[プロダクトマネージャー（PdM）の面接対策](/media/product-manager-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[事業企画の志望動機の書き方](/media/job-jigyo-kikaku-shibou-douki)、[事業企画の年収相場](/media/job-jigyo-kikaku-nensyu)、[事業企画の転職難易度](/media/job-jigyo-kikaku-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[事業企画の志望動機の書き方](/media/job-jigyo-kikaku-shibou-douki/)、[事業企画の年収相場](/media/job-jigyo-kikaku-nensyu/)、[事業企画の転職難易度](/media/job-jigyo-kikaku-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -135,14 +135,14 @@ ITアーキテクトの報酬を考えるとき、近い2つの職業区分を�
 
 ## 隣接職種との比較
 
-- [ITアーキテクトの年収](/media/it-architect-salary)、[ITアーキテクトで年収1000万円を目指すには](/media/it-architect-salary-1000)
-- [ソリューションアーキテクトの年収](/media/solution-architect-salary) — 提案寄りの水準
-- [ITコンサルタントの年収](/media/it-consultant-salary) — 支援側の水準
-- [テックリードの年収](/media/tech-lead-salary)、[エンジニアリングマネージャーの年収](/media/engineering-manager-salary)
-- [インフラエンジニアの年収](/media/infra-engineer-salary) — 基盤側の水準
-- [社内SEの年収相場](/media/job-shanai-se-nensyu) — 事業会社側の水準
+- [ITアーキテクトの年収](/media/it-architect-salary/)、[ITアーキテクトで年収1000万円を目指すには](/media/it-architect-salary-1000/)
+- [ソリューションアーキテクトの年収](/media/solution-architect-salary/) — 提案寄りの水準
+- [ITコンサルタントの年収](/media/it-consultant-salary/) — 支援側の水準
+- [テックリードの年収](/media/tech-lead-salary/)、[エンジニアリングマネージャーの年収](/media/engineering-manager-salary/)
+- [インフラエンジニアの年収](/media/infra-engineer-salary/) — 基盤側の水準
+- [社内SEの年収相場](/media/job-shanai-se-nensyu/) — 事業会社側の水準
 
-キャリアの進み方と選考は、[ITアーキテクトのキャリアパス](/media/job-it-architect-career-path)、[ITアーキテクトの選考フロー・面接対策](/media/job-it-architect-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[ITアーキテクトのキャリアパス](/media/job-it-architect-career-path/)、[ITアーキテクトの選考フロー・面接対策](/media/job-it-architect-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

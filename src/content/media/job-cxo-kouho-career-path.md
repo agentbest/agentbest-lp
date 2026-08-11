@@ -128,15 +128,15 @@ CxO候補、経営幹部候補という求人は、スタートアップの採�
 
 CxO候補・経営幹部のポジションは、業種というより会社の段階と資本構成で性格が変わります。
 
-**プロダクトを持つスタートアップ** — 事業サイドの幹部と技術サイドの幹部が別々に採用されます。技術側の役割については[CTO・VPoE候補のキャリアパス](/media/cto-vpoe-career-path)、[CTO・VPoE候補に求められるスキル](/media/cto-vpoe-skills)が参考になります。プロダクト責任者の役割は[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)で整理しています。
+**プロダクトを持つスタートアップ** — 事業サイドの幹部と技術サイドの幹部が別々に採用されます。技術側の役割については[CTO・VPoE候補のキャリアパス](/media/cto-vpoe-career-path/)、[CTO・VPoE候補に求められるスキル](/media/cto-vpoe-skills/)が参考になります。プロダクト責任者の役割は[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)で整理しています。
 
-**事業会社から独立した会社、カーブアウト先** — 親会社の管理体系を引き継いでいることが多く、経営企画の実務に近い動きが求められます。[経営企画のキャリアパス](/media/corporate-planning-career-path)、[経営企画に求められるスキル](/media/corporate-planning-skills)をご覧ください。
+**事業会社から独立した会社、カーブアウト先** — 親会社の管理体系を引き継いでいることが多く、経営企画の実務に近い動きが求められます。[経営企画のキャリアパス](/media/corporate-planning-career-path/)、[経営企画に求められるスキル](/media/corporate-planning-skills/)をご覧ください。
 
-**事業開発から幹部に上がる経路** — 事業を作る側から経営に加わる進み方です。[事業開発（BizDev）のキャリアパス](/media/bizdev-career-path)、[事業企画のキャリアパス](/media/business-planning-career-path)が近い領域です。
+**事業開発から幹部に上がる経路** — 事業を作る側から経営に加わる進み方です。[事業開発（BizDev）のキャリアパス](/media/bizdev-career-path/)、[事業企画のキャリアパス](/media/business-planning-career-path/)が近い領域です。
 
-**コンサルティングファームから移るケース** — 提言する側から実行して数字を持つ側に移ります。[ポストコンサル（事業会社転身）のキャリアパス](/media/post-consultant-career-path)で、この経路の注意点を整理しています。
+**コンサルティングファームから移るケース** — 提言する側から実行して数字を持つ側に移ります。[ポストコンサル（事業会社転身）のキャリアパス](/media/post-consultant-career-path/)で、この経路の注意点を整理しています。
 
-**管理部門の責任者として入るケース** — 財務、人事の責任者から経営幹部に広がる進み方です。[財務・経理のキャリアパス](/media/finance-career-path)、[人事（HRBP）のキャリアパス](/media/hrbp-career-path)が該当します。
+**管理部門の責任者として入るケース** — 財務、人事の責任者から経営幹部に広がる進み方です。[財務・経理のキャリアパス](/media/finance-career-path/)、[人事（HRBP）のキャリアパス](/media/hrbp-career-path/)が該当します。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

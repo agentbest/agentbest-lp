@@ -144,13 +144,13 @@ job tagの中小企業診断士の区分では、平均年齢は39.4歳です。
 
 同じ「中小企業向け」でも、求められる経験が違います。企業別の記事もあわせてご覧ください。
 
-- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation) — 業種特化の知見が問われる領域
-- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation) — 中長期の伴走が前提
-- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation) — 承継・再生では財務の比重が高い
-- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation) — 成長企業向けで、営業支援の色が濃い
-- [ミツキコンサルティングの評判](/media/company-mitsukikonsaruteingu-reputation) — M&A・承継に近い領域
-- [セルムの評判](/media/company-serumu-reputation) — 人材育成の側から入る形
-- [ヴァンテージマネジメントの評判](/media/company-vanteejimanejimento-reputation) — 小規模で専門性の高い支援
+- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation/) — 業種特化の知見が問われる領域
+- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation/) — 中長期の伴走が前提
+- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/) — 承継・再生では財務の比重が高い
+- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation/) — 成長企業向けで、営業支援の色が濃い
+- [ミツキコンサルティングの評判](/media/company-mitsukikonsaruteingu-reputation/) — M&A・承継に近い領域
+- [セルムの評判](/media/company-serumu-reputation/) — 人材育成の側から入る形
+- [ヴァンテージマネジメントの評判](/media/company-vanteejimanejimento-reputation/) — 小規模で専門性の高い支援
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

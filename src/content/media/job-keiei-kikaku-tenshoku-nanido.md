@@ -75,11 +75,11 @@ sources:
 
 **経理・財務から**
 
-最も多い経路です。数字の作られ方を知っている点が強みになります。補う必要があるのは、確定した数字ではなく、これから作る計画を扱う視点です。予算編成に関与した経験があれば、それを軸にします。[財務・経理のキャリアパス](/media/finance-career-path)が参考になります。
+最も多い経路です。数字の作られ方を知っている点が強みになります。補う必要があるのは、確定した数字ではなく、これから作る計画を扱う視点です。予算編成に関与した経験があれば、それを軸にします。[財務・経理のキャリアパス](/media/finance-career-path/)が参考になります。
 
 **コンサルティングから**
 
-分析と資料作成の力は評価されます。一方で、提言で終わらず、社内の当事者として実行まで担えるかを問われます。クライアントの組織を動かした場面を用意しておくと接続します。[戦略コンサルタントのキャリアパス](/media/strategy-consultant-career-path)、[ポストコンサル（事業会社転身）のキャリアパス](/media/post-consultant-career-path)をご覧ください。
+分析と資料作成の力は評価されます。一方で、提言で終わらず、社内の当事者として実行まで担えるかを問われます。クライアントの組織を動かした場面を用意しておくと接続します。[戦略コンサルタントのキャリアパス](/media/strategy-consultant-career-path/)、[ポストコンサル（事業会社転身）のキャリアパス](/media/post-consultant-career-path/)をご覧ください。
 
 **事業側から**
 
@@ -135,13 +135,13 @@ sources:
 
 ## 隣接職種との関係
 
-- **事業側** — [事業企画の転職難易度](/media/job-jigyo-kikaku-tenshoku-nanido)、[事業開発（BizDev）の転職市場動向](/media/bizdev-market-trend)
-- **数字を扱う側** — [財務・経理の転職市場動向](/media/finance-market-trend)、[会計・財務コンサルタントの転職市場動向](/media/fas-consultant-market-trend)
-- **外部から支援する側** — [戦略コンサルタントの転職市場動向](/media/strategy-consultant-market-trend)
-- **経営層** — [CxO候補・経営幹部の転職難易度](/media/job-cxo-kouho-tenshoku-nanido)
-- **同職種の一般的な情報** — [経営企画の転職市場動向](/media/corporate-planning-market-trend)、[経営企画に未経験から挑戦するには](/media/corporate-planning-from-scratch)
+- **事業側** — [事業企画の転職難易度](/media/job-jigyo-kikaku-tenshoku-nanido/)、[事業開発（BizDev）の転職市場動向](/media/bizdev-market-trend/)
+- **数字を扱う側** — [財務・経理の転職市場動向](/media/finance-market-trend/)、[会計・財務コンサルタントの転職市場動向](/media/fas-consultant-market-trend/)
+- **外部から支援する側** — [戦略コンサルタントの転職市場動向](/media/strategy-consultant-market-trend/)
+- **経営層** — [CxO候補・経営幹部の転職難易度](/media/job-cxo-kouho-tenshoku-nanido/)
+- **同職種の一般的な情報** — [経営企画の転職市場動向](/media/corporate-planning-market-trend/)、[経営企画に未経験から挑戦するには](/media/corporate-planning-from-scratch/)
 
-キャリアの進み方と年収は、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu)をご確認ください。
+キャリアの進み方と年収は、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu/)をご確認ください。
 
 ## まとめ
 

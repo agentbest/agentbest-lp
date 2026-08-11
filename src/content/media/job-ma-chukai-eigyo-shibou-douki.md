@@ -151,7 +151,7 @@ M&A仲介営業の志望動機で最も多いのが、「後継者に悩む経�
 
 **調べ方** — 公表されている成約事例から、業種と規模の傾向が読み取れます。ただし、特定の案件について詳しく論評するのは避けたほうが無難です。傾向を読み取ったという水準に留めます。
 
-隣接職種の書き方は[M&Aアドバイザーの志望動機](/media/ma-advisor-motivation)、[FASアナリストの志望動機の書き方](/media/job-fas-analyst-shibou-douki)、[M&Aアドバイザーの職務経歴書](/media/ma-advisor-resume)もあわせてご覧ください。
+隣接職種の書き方は[M&Aアドバイザーの志望動機](/media/ma-advisor-motivation/)、[FASアナリストの志望動機の書き方](/media/job-fas-analyst-shibou-douki/)、[M&Aアドバイザーの職務経歴書](/media/ma-advisor-resume/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

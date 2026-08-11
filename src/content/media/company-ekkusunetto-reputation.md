@@ -177,7 +177,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-ekkusunetto-reputation">年収の実態を聞いてみる</a>
 </aside>
 
-金融系システムの比較材料としては、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation)、[明治安田システム・テクノロジーの評判](/media/company-meijiyasudashisutemu-tekunorojii-reputation)、[三菱UFJインフォメーションテクノロジーの評判](/media/company-mitsubishiufjinfomeeshontekunorojii-reputation)、[JCBの評判](/media/company-jcb-reputation)もご覧ください。
+金融系システムの比較材料としては、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation/)、[明治安田システム・テクノロジーの評判](/media/company-meijiyasudashisutemu-tekunorojii-reputation/)、[三菱UFJインフォメーションテクノロジーの評判](/media/company-mitsubishiufjinfomeeshontekunorojii-reputation/)、[JCBの評判](/media/company-jcb-reputation/)もご覧ください。
 
 ## まとめ
 

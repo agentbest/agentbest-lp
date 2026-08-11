@@ -79,14 +79,14 @@ const description = 'IT・SaaS・コンサル領域の転職・キャリア情�
     <h2>職種から探す</h2>
     <ul class="cat-grid">
       {jobGroups.map((g) => (
-        <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
+        <li><a href={`/media/hub/${g.hub}/`}>{g.name}<span class="count">{g.count}記事</span></a></li>
       ))}
     </ul>
 
     <h2>業界から探す</h2>
     <ul class="cat-grid">
       {industryGroups.map((g) => (
-        <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
+        <li><a href={`/media/hub/${g.hub}/`}>{g.name}<span class="count">{g.count}記事</span></a></li>
       ))}
     </ul>
 
@@ -96,7 +96,7 @@ const description = 'IT・SaaS・コンサル領域の転職・キャリア情�
         <p class="hub-note">企業ごとの評判・年収・選考対策の記事を、領域ごとにまとめています。</p>
         <ul class="cat-grid">
           {domainGroups.map((g) => (
-            <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
+            <li><a href={`/media/hub/${g.hub}/`}>{g.name}<span class="count">{g.count}記事</span></a></li>
           ))}
         </ul>
       </>
@@ -107,7 +107,7 @@ const description = 'IT・SaaS・コンサル領域の転職・キャリア情�
         <h2>企業から探す</h2>
         <ul class="cat-grid">
           {companyGroups.map((g) => (
-            <li><a href={`/media/hub/${g.hub}`}>{g.name}<span class="count">{g.count}記事</span></a></li>
+            <li><a href={`/media/hub/${g.hub}/`}>{g.name}<span class="count">{g.count}記事</span></a></li>
           ))}
         </ul>
       </>

@@ -43,7 +43,7 @@ sources:
 | 全社（共通） | 58名 |
 | 合計 | 690名 |
 
-M&A仲介の実務を担う中核子会社は株式会社M&A総合研究所です。事業会社としての詳細は[M&A総合研究所の評判](/media/company-mandasougoukenkyuusho-reputation)で整理しています。
+M&A仲介の実務を担う中核子会社は株式会社M&A総合研究所です。事業会社としての詳細は[M&A総合研究所の評判](/media/company-mandasougoukenkyuusho-reputation/)で整理しています。
 
 ### 「M&A総研」から「クオンツ総研」へ
 

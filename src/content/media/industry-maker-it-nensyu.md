@@ -148,7 +148,7 @@ ITコンサルタントの4,026円を下回りますが、プログラマーの2
 
 **判断のしかた** — 名目の年収、時給、勤務地の生活費、転居の有無。この4つを揃えて比べると、実質が見えます。
 
-近い領域の水準は[ITコンサルティングファームの年収相場](/media/industry-it-consul-nensyu)、[建設・不動産DXの年収相場](/media/industry-kensetsu-dx-nensyu)もあわせてご覧ください。
+近い領域の水準は[ITコンサルティングファームの年収相場](/media/industry-it-consul-nensyu/)、[建設・不動産DXの年収相場](/media/industry-kensetsu-dx-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

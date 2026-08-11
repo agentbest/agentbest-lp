@@ -75,7 +75,7 @@ sources:
 
 3つ目を追いかけている方は多くありません。提案して終わりにせず、稼働後の状態を確認していた経験は、次の選考で強い材料になります。
 
-行き先としては、[ソリューションアーキテクトのキャリアパス](/media/solution-architect-career-path)、[ITアーキテクトのキャリアパス](/media/it-architect-career-path)が近い領域です。
+行き先としては、[ソリューションアーキテクトのキャリアパス](/media/solution-architect-career-path/)、[ITアーキテクトのキャリアパス](/media/it-architect-career-path/)が近い領域です。
 
 ## 営業側に軸足を置く道
 
@@ -85,15 +85,15 @@ sources:
 
 技術が分かる営業は市場で評価されますが、切り替えには慣れが要ります。技術的な正確さを優先してきた方が、あえて詳細を省いて意思決定を促す場面に戸惑うことがあります。
 
-行き先は[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path)、[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path)が該当します。
+行き先は[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path/)、[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path/)が該当します。
 
 ## 製品側・導入後に移る道
 
-**製品側へ** — 顧客の要望を製品仕様に反映する立場です。プリセールスは失注の理由を最も多く知る職種であり、その情報は製品開発に直結します。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)をご覧ください。
+**製品側へ** — 顧客の要望を製品仕様に反映する立場です。プリセールスは失注の理由を最も多く知る職種であり、その情報は製品開発に直結します。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)をご覧ください。
 
-**導入後の支援へ** — 売った後の定着を担う方向です。提案時の想定と実際の運用のずれを、自分で引き取る形になります。[カスタマーサクセスのキャリアパス](/media/job-customer-success-career-path)が近い領域です。
+**導入後の支援へ** — 売った後の定着を担う方向です。提案時の想定と実際の運用のずれを、自分で引き取る形になります。[カスタマーサクセスのキャリアパス](/media/job-customer-success-career-path/)が近い領域です。
 
-**支援・コンサルティングへ** — 特定製品を離れ、顧客の課題に対して技術的な解決策を設計する立場です。[ITコンサルタントのキャリアパス](/media/it-consultant-career-path)が参考になります。
+**支援・コンサルティングへ** — 特定製品を離れ、顧客の課題に対して技術的な解決策を設計する立場です。[ITコンサルタントのキャリアパス](/media/it-consultant-career-path/)が参考になります。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -125,13 +125,13 @@ sources:
 
 ## 隣接職種との行き来
 
-- **技術を深める** — [ソリューションアーキテクトに求められるスキル](/media/solution-architect-skills)、[ITアーキテクトのキャリアパス](/media/it-architect-career-path)
-- **営業側へ** — [エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path)、[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path)
-- **製品側へ** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)
-- **導入後へ** — [カスタマーサクセスのキャリアパス](/media/job-customer-success-career-path)
-- **同職種の一般的な情報** — [セールスエンジニア／プリセールスのキャリアパス](/media/presales-career-path)、[プリセールスに求められるスキル](/media/presales-skills)
+- **技術を深める** — [ソリューションアーキテクトに求められるスキル](/media/solution-architect-skills/)、[ITアーキテクトのキャリアパス](/media/it-architect-career-path/)
+- **営業側へ** — [エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path/)、[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path/)
+- **製品側へ** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)
+- **導入後へ** — [カスタマーサクセスのキャリアパス](/media/job-customer-success-career-path/)
+- **同職種の一般的な情報** — [セールスエンジニア／プリセールスのキャリアパス](/media/presales-career-path/)、[プリセールスに求められるスキル](/media/presales-skills/)
 
-年収と選考は、[プリセールスの年収相場](/media/job-pre-sales-nensyu)、[プリセールスの選考フロー・面接対策](/media/job-pre-sales-senkou-flow)をご確認ください。
+年収と選考は、[プリセールスの年収相場](/media/job-pre-sales-nensyu/)、[プリセールスの選考フロー・面接対策](/media/job-pre-sales-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

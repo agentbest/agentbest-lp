@@ -155,9 +155,9 @@ sources:
 
 5つ目は、次工程への希望を書いた場合に必ずと言ってよいほど聞かれます。ここで「まずは経験を積むため」と答えると、腰かけの印象が強まります。この工程で身につくものを具体的に述べ、それが将来にどうつながるかを説明できると、答えとして成立します。
 
-**参考になる書き方** — [インサイドセールスの志望動機](/media/inside-sales-motivation)、[インサイドセールスの職務経歴書](/media/inside-sales-resume)、[SaaS営業（フィールドセールス）の志望動機](/media/saas-sales-motivation)、[カスタマーサクセスの志望動機](/media/customer-success-motivation)をご覧ください。
+**参考になる書き方** — [インサイドセールスの志望動機](/media/inside-sales-motivation/)、[インサイドセールスの職務経歴書](/media/inside-sales-resume/)、[SaaS営業（フィールドセールス）の志望動機](/media/saas-sales-motivation/)、[カスタマーサクセスの志望動機](/media/customer-success-motivation/)をご覧ください。
 
-選考の流れと条件面は、[インサイドセールスの選考フロー・面接対策](/media/job-inside-sales-senkou-flow)、[インサイドセールスの年収相場](/media/job-inside-sales-nensyu)をご確認ください。
+選考の流れと条件面は、[インサイドセールスの選考フロー・面接対策](/media/job-inside-sales-senkou-flow/)、[インサイドセールスの年収相場](/media/job-inside-sales-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

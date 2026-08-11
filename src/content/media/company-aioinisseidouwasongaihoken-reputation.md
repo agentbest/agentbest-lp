@@ -200,7 +200,7 @@ sources:
 
 4つ目については、提出会社の従業員はすべて国内損害保険事業に属すると注記されています。
 
-年収の構造は[金融ITの年収相場](/media/industry-kinyu-it-nensyu)、キャリアの筋道は[金融ITのキャリアパス](/media/industry-kinyu-it-career-path)もあわせてご覧ください。
+年収の構造は[金融ITの年収相場](/media/industry-kinyu-it-nensyu/)、キャリアの筋道は[金融ITのキャリアパス](/media/industry-kinyu-it-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

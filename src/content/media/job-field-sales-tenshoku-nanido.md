@@ -67,11 +67,11 @@ SaaSのフィールドセールスは、営業職のなかでは応募しやす�
 
 **インサイドセールスから**
 
-同じ会社の中での異動、または他社への転職の両方があります。商談を作る工程を理解している点が強みです。受注までの合意形成を担った経験は改めて積む形になります。[インサイドセールスのキャリアパス](/media/inside-sales-career-path)が参考になります。
+同じ会社の中での異動、または他社への転職の両方があります。商談を作る工程を理解している点が強みです。受注までの合意形成を担った経験は改めて積む形になります。[インサイドセールスのキャリアパス](/media/inside-sales-career-path/)が参考になります。
 
 **カスタマーサクセスから**
 
-導入後の理解が深く、提案の説得力につながります。新規の獲得経験が薄い場合、そこをどう補うかが論点になります。[カスタマーサクセスのキャリアパス](/media/customer-success-career-path)をご覧ください。
+導入後の理解が深く、提案の説得力につながります。新規の獲得経験が薄い場合、そこをどう補うかが論点になります。[カスタマーサクセスのキャリアパス](/media/customer-success-career-path/)をご覧ください。
 
 **まったくの未経験から**
 
@@ -132,13 +132,13 @@ job tag では、この職業に就くために特定の資格が求められる
 
 ## 隣接職種からの移り方
 
-- **前工程から** — [インサイドセールスに求められるスキル](/media/inside-sales-skills)、[インサイドセールスの転職市場動向](/media/inside-sales-market-trend)
-- **大型案件側から** — [エンタープライズセールスの転職市場動向](/media/enterprise-sales-market-trend)、[エンタープライズセールスに求められるスキル](/media/enterprise-sales-skills)
-- **技術寄りから** — [セールスエンジニア／プリセールスのキャリアパス](/media/presales-career-path)
-- **間接販売から** — [パートナーセールス／アライアンスの転職市場動向](/media/partner-sales-market-trend)
-- **同職種の一般的な情報** — [SaaS営業（フィールドセールス）の転職市場動向](/media/saas-sales-market-trend)、[SaaS営業に未経験から挑戦するには](/media/saas-sales-from-scratch)
+- **前工程から** — [インサイドセールスに求められるスキル](/media/inside-sales-skills/)、[インサイドセールスの転職市場動向](/media/inside-sales-market-trend/)
+- **大型案件側から** — [エンタープライズセールスの転職市場動向](/media/enterprise-sales-market-trend/)、[エンタープライズセールスに求められるスキル](/media/enterprise-sales-skills/)
+- **技術寄りから** — [セールスエンジニア／プリセールスのキャリアパス](/media/presales-career-path/)
+- **間接販売から** — [パートナーセールス／アライアンスの転職市場動向](/media/partner-sales-market-trend/)
+- **同職種の一般的な情報** — [SaaS営業（フィールドセールス）の転職市場動向](/media/saas-sales-market-trend/)、[SaaS営業に未経験から挑戦するには](/media/saas-sales-from-scratch/)
 
-年収と選考は、[フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow)をご確認ください。
+年収と選考は、[フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu/)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow/)をご確認ください。
 
 ## まとめ
 

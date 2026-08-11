@@ -147,13 +147,13 @@ DX推進担当の選考では、情報システム部門や経営企画部門だ
 
 **既に推進部門がある会社** — 既存の取り組みとの整合が問われます。過去の施策を否定しない姿勢が求められます。
 
-**支援・コンサルティング側** — 顧客に対する説明力と、短期間で業界を理解する力が見られます。[DXコンサルタントの面接対策](/media/dx-consultant-interview)が参考になります。
+**支援・コンサルティング側** — 顧客に対する説明力と、短期間で業界を理解する力が見られます。[DXコンサルタントの面接対策](/media/dx-consultant-interview/)が参考になります。
 
 **スタートアップ** — この職種が独立していないことが多く、情報システムや事業企画と兼任になります。範囲の広さに耐えられるかが見られます。
 
-隣接職種の選考も参考になります。[社内SEの面接対策](/media/corporate-it-interview)、[ITコンサルタントの面接対策](/media/it-consultant-interview)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow)をご覧ください。
+隣接職種の選考も参考になります。[社内SEの面接対策](/media/corporate-it-interview/)、[ITコンサルタントの面接対策](/media/it-consultant-interview/)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow/)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow/)をご覧ください。
 
-志望動機の作り方と条件面は、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu)、[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki/)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu/)、[DX推進担当の転職難易度](/media/job-dx-suishin-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

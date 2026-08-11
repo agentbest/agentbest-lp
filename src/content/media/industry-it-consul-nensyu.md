@@ -129,7 +129,7 @@ ITコンサルティングファームの年収を考えるとき、まず押さ
 
 **判断の要点** — 応募先の給与テーブルが、コンサルタント職として独立しているか、全社の体系に組み込まれているか。ここが年収を最も左右します。
 
-近い水準は[Big4の年収相場](/media/industry-sogo-consul-nensyu)、[ITコンサルタントの年収相場](/media/job-it-consultant-nensyu)もあわせてご覧ください。
+近い水準は[Big4の年収相場](/media/industry-sogo-consul-nensyu/)、[ITコンサルタントの年収相場](/media/job-it-consultant-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

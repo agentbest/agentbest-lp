@@ -61,7 +61,7 @@ sources:
 
 **財務・事業の実務が薄い場合**
 
-厳しい状況で数字を扱った経験や、コスト構造に踏み込んだ経験があるかが分かれ目になります。これらを土台に、なぜ再生かを語れれば、道が閉じるわけではありません。ただし、母集団の質が高いため、準備の量が結果を左右します。詳しくは[未経験からFASへ](/media/fas-consultant-from-scratch)も参考になります。
+厳しい状況で数字を扱った経験や、コスト構造に踏み込んだ経験があるかが分かれ目になります。これらを土台に、なぜ再生かを語れれば、道が閉じるわけではありません。ただし、母集団の質が高いため、準備の量が結果を左右します。詳しくは[未経験からFASへ](/media/fas-consultant-from-scratch/)も参考になります。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -96,7 +96,7 @@ sources:
 
 **2. なぜ再生かを明確にする**
 
-母集団の質が高いぶん、志望動機の解像度で差がつきます。FASやM&Aではなく、危機・立て直しの局面をなぜ選ぶかを言語化します。[事業再生コンサルタントの志望動機](/media/job-saisei-consultant-shibou-douki)で組み立て方を整理しています。
+母集団の質が高いぶん、志望動機の解像度で差がつきます。FASやM&Aではなく、危機・立て直しの局面をなぜ選ぶかを言語化します。[事業再生コンサルタントの志望動機](/media/job-saisei-consultant-shibou-douki/)で組み立て方を整理しています。
 
 **3. 応募経路を選ぶ**
 
@@ -110,11 +110,11 @@ sources:
 ## 事業再生を担うプレイヤーのタイプ
 
 - **独立系の事業再生・経営コンサルファーム** — 財務と事業の両面を、当事者に近い距離で支える
-- **大手グループのFAS・リストラクチャリング部門** — [KPMG FASの評判](/media/company-kpmg-fas-reputation)
+- **大手グループのFAS・リストラクチャリング部門** — [KPMG FASの評判](/media/company-kpmg-fas-reputation/)
 - **再生ファンド・投資会社** — 出資して経営に関与する
 - **公的な支援機関** — 中小企業活性化協議会など
 
-市場の動向は[FASコンサルタントの市場動向](/media/fas-consultant-market-trend)、[M&A業界の動向](/media/ma-industry-trend)で整理しています。FASの難易度と比べたい場合は[FASアナリストの転職難易度](/media/job-fas-analyst-tenshoku-nanido)も参考になります。
+市場の動向は[FASコンサルタントの市場動向](/media/fas-consultant-market-trend/)、[M&A業界の動向](/media/ma-industry-trend/)で整理しています。FASの難易度と比べたい場合は[FASアナリストの転職難易度](/media/job-fas-analyst-tenshoku-nanido/)も参考になります。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

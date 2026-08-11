@@ -143,9 +143,9 @@ PEファンドの選考では、財務モデルの作成が課されることが
 
 **事業会社系のファンド** — 親会社の事業との関連が重視されます。社内での合意形成の力も問われます。
 
-隣接職種の選考も参考になります。[M&Aアドバイザーの面接対策](/media/ma-advisor-interview)、[会計・財務コンサルタントの面接対策](/media/fas-consultant-interview)、[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow)、[戦略コンサルタントの面接対策](/media/strategy-consultant-interview)をご覧ください。
+隣接職種の選考も参考になります。[M&Aアドバイザーの面接対策](/media/ma-advisor-interview/)、[会計・財務コンサルタントの面接対策](/media/fas-consultant-interview/)、[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow/)、[戦略コンサルタントの面接対策](/media/strategy-consultant-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[PEファンド投資担当の志望動機の書き方](/media/job-pe-investment-shibou-douki)、[PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu)、[PEファンド投資担当の転職難易度](/media/job-pe-investment-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[PEファンド投資担当の志望動機の書き方](/media/job-pe-investment-shibou-douki/)、[PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu/)、[PEファンド投資担当の転職難易度](/media/job-pe-investment-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

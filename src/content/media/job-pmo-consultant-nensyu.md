@@ -123,7 +123,7 @@ PMOコンサルタントの年収は、転職メディアでは幅の広いレ�
 
 複数社から提示を受けている場合は、金額だけでなく、想定アサイン先の規模と等級の要件をそろえて比較します。この職種は担当規模で報酬が動くため、初年度の金額が低いほうが数年後に上回るという逆転が起こり得ます。
 
-キャリアの進み方については[PMOコンサルタントのキャリアパス](/media/job-pmo-consultant-career-path)、転職の難しさについては[PMOコンサルタントの転職難易度](/media/job-pmo-consultant-tenshoku-nanido)で整理しています。
+キャリアの進み方については[PMOコンサルタントのキャリアパス](/media/job-pmo-consultant-career-path/)、転職の難しさについては[PMOコンサルタントの転職難易度](/media/job-pmo-consultant-tenshoku-nanido/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

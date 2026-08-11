@@ -119,7 +119,7 @@ SaaSスタートアップの年収は、現金部分だけで判断できませ�
 
 早い段階ほど、株式の上振れが大きく、現金は低い。遅い段階ほど、現金は安定し、株式の上振れは小さい。**どちらのリスクを取るか**という選択です。
 
-近い領域の水準は[SaaS業界の年収](/media/saas-industry-salary)、[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu)もあわせてご覧ください。
+近い領域の水準は[SaaS業界の年収](/media/saas-industry-salary/)、[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

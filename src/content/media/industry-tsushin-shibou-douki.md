@@ -206,9 +206,9 @@ IT系および技術系に接続します。接続の要点は、止められな
 
 **法人向けソリューション部門** — 通信を含む法人提案です。他業界の法人営業の経験を軸にします。
 
-**確認しておくこと** — 雇用契約の相手方が本体か代理店かで、書くべき内容が変わります。詳しくは[通信キャリアの年収相場](/media/industry-tsushin-nensyu)で整理しています。
+**確認しておくこと** — 雇用契約の相手方が本体か代理店かで、書くべき内容が変わります。詳しくは[通信キャリアの年収相場](/media/industry-tsushin-nensyu/)で整理しています。
 
-近い領域の書き方は[ITコンサルティングファームの志望動機の書き方](/media/industry-it-consul-shibou-douki)、[フィールドセールスの志望動機の書き方](/media/job-field-sales-shibou-douki)もあわせてご覧ください。
+近い領域の書き方は[ITコンサルティングファームの志望動機の書き方](/media/industry-it-consul-shibou-douki/)、[フィールドセールスの志望動機の書き方](/media/job-field-sales-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

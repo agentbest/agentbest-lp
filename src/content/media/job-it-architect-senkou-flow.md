@@ -151,9 +151,9 @@ IPA（情報処理推進機構）が公表している「情報システム・�
 
 **スタートアップ** — 少人数のため、設計だけでなく実装も担うことが前提になります。手を動かせるかが確認されます。
 
-隣接職種の選考も参考になります。[ITアーキテクトの面接対策](/media/it-architect-interview)、[ソリューションアーキテクトの面接対策](/media/solution-architect-interview)、[テックリードの面接対策](/media/tech-lead-interview)、[プリセールスの選考フロー・面接対策](/media/job-pre-sales-senkou-flow)をご覧ください。
+隣接職種の選考も参考になります。[ITアーキテクトの面接対策](/media/it-architect-interview/)、[ソリューションアーキテクトの面接対策](/media/solution-architect-interview/)、[テックリードの面接対策](/media/tech-lead-interview/)、[プリセールスの選考フロー・面接対策](/media/job-pre-sales-senkou-flow/)をご覧ください。
 
-志望動機の作り方と条件面は、[ITアーキテクトの志望動機の書き方](/media/job-it-architect-shibou-douki)、[ITアーキテクトの年収相場](/media/job-it-architect-nensyu)、[ITアーキテクトの転職難易度](/media/job-it-architect-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[ITアーキテクトの志望動機の書き方](/media/job-it-architect-shibou-douki/)、[ITアーキテクトの年収相場](/media/job-it-architect-nensyu/)、[ITアーキテクトの転職難易度](/media/job-it-architect-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

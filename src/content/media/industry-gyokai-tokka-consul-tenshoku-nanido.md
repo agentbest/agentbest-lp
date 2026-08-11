@@ -130,7 +130,7 @@ sources:
 
 30代後半以降では、経営者と対話できることに加えて、案件を取ってこられるかが見られる場面が増えます。この領域では受注に関与する設計が珍しくないためです。専任のコンサルティング経験がない場合でも、法人営業の実績があれば接続します。
 
-報酬の構造については[業界特化型コンサルティングの年収相場](/media/industry-gyokai-tokka-consul-nensyu)、選考の流れは[業界特化型コンサルティングの選考フロー・面接対策](/media/industry-gyokai-tokka-consul-senkou-flow)で整理しています。
+報酬の構造については[業界特化型コンサルティングの年収相場](/media/industry-gyokai-tokka-consul-nensyu/)、選考の流れは[業界特化型コンサルティングの選考フロー・面接対策](/media/industry-gyokai-tokka-consul-senkou-flow/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -151,13 +151,13 @@ job tag に掲載されている月間労働時間は162時間とされていま
 
 ## 近い職種との比較
 
-- [M&Aアドバイザーの年収](/media/ma-advisor-salary)、[M&Aアドバイザーで年収1000万円を目指すには](/media/ma-advisor-salary-1000)
-- [ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu) — 初期段階の投資側
-- [会計・財務コンサルタントの年収](/media/fas-consultant-salary)
-- [戦略コンサルタントの年収](/media/strategy-consultant-salary)
-- [CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu) — 経営側の報酬構造
+- [M&Aアドバイザーの年収](/media/ma-advisor-salary/)、[M&Aアドバイザーで年収1000万円を目指すには](/media/ma-advisor-salary-1000/)
+- [ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu/) — 初期段階の投資側
+- [会計・財務コンサルタントの年収](/media/fas-consultant-salary/)
+- [戦略コンサルタントの年収](/media/strategy-consultant-salary/)
+- [CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/) — 経営側の報酬構造
 
-キャリアの進み方と選考は、[PEファンド投資担当のキャリアパス](/media/job-pe-investment-career-path)、[PEファンド投資担当の選考フロー・面接対策](/media/job-pe-investment-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[PEファンド投資担当のキャリアパス](/media/job-pe-investment-career-path/)、[PEファンド投資担当の選考フロー・面接対策](/media/job-pe-investment-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

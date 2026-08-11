@@ -124,9 +124,9 @@ job tag では、ヘルプデスク（IT）に必要なスキルとして傾聴�
 
 **成熟期・大手** — 分業が進み、担当範囲が明確です。プロセスの遵守と、大口顧客の扱いが見られます。選考の段階数は多くなりがちです。
 
-隣接職種の選考も参考になります。[カスタマーサクセスの面接対策](/media/customer-success-interview)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow)、[インサイドセールスの選考フロー・面接対策](/media/job-inside-sales-senkou-flow)、[セールスエンジニア／プリセールスの面接対策](/media/presales-interview)をご覧ください。
+隣接職種の選考も参考になります。[カスタマーサクセスの面接対策](/media/customer-success-interview/)、[フィールドセールス（SaaS）の選考フロー・面接対策](/media/job-field-sales-senkou-flow/)、[インサイドセールスの選考フロー・面接対策](/media/job-inside-sales-senkou-flow/)、[セールスエンジニア／プリセールスの面接対策](/media/presales-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[カスタマーサクセスの志望動機の書き方](/media/job-customer-success-shibou-douki)、[カスタマーサクセスの年収相場](/media/job-customer-success-nensyu)、[カスタマーサクセスの転職難易度](/media/job-customer-success-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[カスタマーサクセスの志望動機の書き方](/media/job-customer-success-shibou-douki/)、[カスタマーサクセスの年収相場](/media/job-customer-success-nensyu/)、[カスタマーサクセスの転職難易度](/media/job-customer-success-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -87,7 +87,7 @@ sources:
 
 同報告書は連結の従業員数が12名減少したとし、理由を業容の縮小や業務効率化に伴う退職者としています。**勤続年数の短さは、この動きと切り離して読めません。**
 
-同規模の会社は[キャピタル・アセット・プランニングの評判・年収・選考対策](/media/company-kyapitaru-asetto-puranningu-reputation)もご覧ください。
+同規模の会社は[キャピタル・アセット・プランニングの評判・年収・選考対策](/media/company-kyapitaru-asetto-puranningu-reputation/)もご覧ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -172,7 +172,7 @@ sources:
 
 **小規模企業に固有の論点**
 
-役割の分担が緩やかであるぶん、**担う範囲が広がります。** 一方、制度の整備は大手ほど進んでいないことがあります。詳しくは[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido)で、規模による違いを整理しています。
+役割の分担が緩やかであるぶん、**担う範囲が広がります。** 一方、制度の整備は大手ほど進んでいないことがあります。詳しくは[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido/)で、規模による違いを整理しています。
 
 **求人倍率**
 

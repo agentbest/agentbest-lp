@@ -147,9 +147,9 @@ sources:
 5. **畳んだ経験を整理する** — あれば強い材料になります
 6. **雇用契約の相手方を確認する** — 持株会社か、事業会社か
 
-6つ目は、選考の後半で確認する事項ですが、早めに意識しておく価値があります。持株会社構造の会社では、所属する法人によって条件が異なることがあります。詳しくは[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu)で整理しています。
+6つ目は、選考の後半で確認する事項ですが、早めに意識しておく価値があります。持株会社構造の会社では、所属する法人によって条件が異なることがあります。詳しくは[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu/)で整理しています。
 
-隣接する職種の難易度は[事業開発の転職難易度](/media/job-bizdev-tenshoku-nanido)、[プロダクトマネージャーの転職難易度](/media/job-product-manager-tenshoku-nanido)もあわせてご覧ください。
+隣接する職種の難易度は[事業開発の転職難易度](/media/job-bizdev-tenshoku-nanido/)、[プロダクトマネージャーの転職難易度](/media/job-product-manager-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

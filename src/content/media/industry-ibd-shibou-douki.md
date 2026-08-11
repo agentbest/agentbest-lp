@@ -142,14 +142,14 @@ IBDはカバレッジ（業種担当）の体制を取る会社が多くあり�
 
 応募先の案件の取り方によって、強調すべき経験が変わります。企業別の記事もあわせてご覧ください。
 
-- [ゴールドマン・サックス証券の評判](/media/company-goorudoman-sakkusushouken-reputation) — 大型・クロスボーダーの中心
-- [JPモルガン証券の評判](/media/company-jpmoruganshouken-reputation) — 資本市場と助言の両面
-- [UBS証券の評判](/media/company-ubsshouken-reputation) — 顧客基盤と法人取引の接続
-- [ジェフリーズ証券の評判](/media/company-jiefuriizushouken-reputation) — 助言を軸にした体制
-- [ラザード・フレールの評判](/media/company-razaado-fureeru-reputation) — 独立系の助言に特化
-- [ロスチャイルド＆カンパニーの評判](/media/company-rosuchairudoandkanpanii-reputation) — 中立性を前面に置く形
-- [シティグループ証券の評判](/media/company-shiteiguruupushouken-reputation) — グローバル網を使った案件
-- [みずほ証券の評判](/media/company-mizuhoshouken-reputation) — 銀行基盤からの組成
+- [ゴールドマン・サックス証券の評判](/media/company-goorudoman-sakkusushouken-reputation/) — 大型・クロスボーダーの中心
+- [JPモルガン証券の評判](/media/company-jpmoruganshouken-reputation/) — 資本市場と助言の両面
+- [UBS証券の評判](/media/company-ubsshouken-reputation/) — 顧客基盤と法人取引の接続
+- [ジェフリーズ証券の評判](/media/company-jiefuriizushouken-reputation/) — 助言を軸にした体制
+- [ラザード・フレールの評判](/media/company-razaado-fureeru-reputation/) — 独立系の助言に特化
+- [ロスチャイルド＆カンパニーの評判](/media/company-rosuchairudoandkanpanii-reputation/) — 中立性を前面に置く形
+- [シティグループ証券の評判](/media/company-shiteiguruupushouken-reputation/) — グローバル網を使った案件
+- [みずほ証券の評判](/media/company-mizuhoshouken-reputation/) — 銀行基盤からの組成
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

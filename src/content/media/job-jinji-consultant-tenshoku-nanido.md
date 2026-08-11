@@ -132,7 +132,7 @@ sources:
 
 30代後半以降では、制度設計に加えて、経営層との合意形成の経験が求められる傾向があります。経営コンサルタント区分の平均年齢が39.4歳であることからも、この年代が市場の中心といえます。専任経験がない場合は、事業会社の人事企画ポジションを経由する経路のほうが現実的な場合があります。
 
-報酬の構造については[人事コンサルタントの年収相場](/media/job-jinji-consultant-nensyu)、選考の流れは[人事コンサルタントの選考フロー・面接対策](/media/job-jinji-consultant-senkou-flow)で整理しています。
+報酬の構造については[人事コンサルタントの年収相場](/media/job-jinji-consultant-nensyu/)、選考の流れは[人事コンサルタントの選考フロー・面接対策](/media/job-jinji-consultant-senkou-flow/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

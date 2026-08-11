@@ -87,7 +87,7 @@ sources:
 
 この道で問われるのは、数字を扱う力に加えて、数字が出ない領域での判断です。データが足りない状態で方向を決める場面が増えます。分析の厳密さを重視してきた方ほど、この切り替えに時間がかかります。
 
-行き先としては、プロダクト側の意思決定に関わる役割や、事業企画、経営に近い役割があります。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)、[事業企画のキャリアパス](/media/business-planning-career-path)が近い領域です。
+行き先としては、プロダクト側の意思決定に関わる役割や、事業企画、経営に近い役割があります。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)、[事業企画のキャリアパス](/media/business-planning-career-path/)が近い領域です。
 
 ## 実装側・基盤側に寄る道
 
@@ -95,7 +95,7 @@ sources:
 
 分析の成果を本番環境で継続的に機能させるには、パイプラインの設計、監視、再学習の仕組みが要ります。この領域に強い方は、事業会社でもスタートアップでも需要があります。
 
-近い職種としては、[機械学習エンジニアのキャリアパス](/media/ml-engineer-career-path)、[MLOpsエンジニアのキャリアパス](/media/mlops-engineer-career-path)、[データエンジニアのキャリアパス](/media/data-engineer-career-path)があります。求められるスキルの重なりが大きいため、行き来しやすい領域です。
+近い職種としては、[機械学習エンジニアのキャリアパス](/media/ml-engineer-career-path/)、[MLOpsエンジニアのキャリアパス](/media/mlops-engineer-career-path/)、[データエンジニアのキャリアパス](/media/data-engineer-career-path/)があります。求められるスキルの重なりが大きいため、行き来しやすい領域です。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -120,17 +120,17 @@ job tag に掲載されている数値では、この職業の平均年齢は43.
 
 この職種の特徴は、隣接する職種との距離が近く、行き来しやすいことです。
 
-**分析寄りへ** — [データアナリストのキャリアパス](/media/data-analyst-career-path)。事業指標の設計と可視化が中心になります。
+**分析寄りへ** — [データアナリストのキャリアパス](/media/data-analyst-career-path/)。事業指標の設計と可視化が中心になります。
 
-**支援・提案側へ** — [データ・アナリティクスコンサルタントのキャリアパス](/media/data-consultant-career-path)。社外の課題に対して分析を設計する立場です。
+**支援・提案側へ** — [データ・アナリティクスコンサルタントのキャリアパス](/media/data-consultant-career-path/)。社外の課題に対して分析を設計する立場です。
 
-**実装寄りへ** — [機械学習エンジニアに求められるスキル](/media/ml-engineer-skills)、[AIエンジニアのキャリアパス](/media/ai-engineer-career-path)が参考になります。
+**実装寄りへ** — [機械学習エンジニアに求められるスキル](/media/ml-engineer-skills/)、[AIエンジニアのキャリアパス](/media/ai-engineer-career-path/)が参考になります。
 
-**基盤寄りへ** — [データエンジニアに求められるスキル](/media/data-engineer-skills)。
+**基盤寄りへ** — [データエンジニアに求められるスキル](/media/data-engineer-skills/)。
 
-**同職種の一般的な情報** — [データサイエンティストのキャリアパス](/media/data-scientist-career-path)、[データサイエンティストに求められるスキル](/media/data-scientist-skills)もあわせてご覧ください。
+**同職種の一般的な情報** — [データサイエンティストのキャリアパス](/media/data-scientist-career-path/)、[データサイエンティストに求められるスキル](/media/data-scientist-skills/)もあわせてご覧ください。
 
-年収と選考については、[データサイエンティストの年収相場](/media/job-data-scientist-nensyu)、[データサイエンティストの選考フロー・面接対策](/media/job-data-scientist-senkou-flow)で整理しています。
+年収と選考については、[データサイエンティストの年収相場](/media/job-data-scientist-nensyu/)、[データサイエンティストの選考フロー・面接対策](/media/job-data-scientist-senkou-flow/)で整理しています。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

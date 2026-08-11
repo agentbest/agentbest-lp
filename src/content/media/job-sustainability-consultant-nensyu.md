@@ -128,7 +128,7 @@ SSBJ基準の適用は、**時価総額3兆円以上の企業が2027年3月期�
 
 job tagの区分では労働時間が月162時間とされていますが、これは区分全体の数字です。コンサルティングの実務では、開示の期日前に稼働が集中します。事業会社側は年間を通じて平準化されやすくなります。時間あたりで換算すると、印象が変わることがあります。
 
-近い職種の水準は[事業再生コンサルタントの年収相場](/media/job-saisei-consultant-nensyu)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu)もあわせてご覧ください。
+近い職種の水準は[事業再生コンサルタントの年収相場](/media/job-saisei-consultant-nensyu/)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu/)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

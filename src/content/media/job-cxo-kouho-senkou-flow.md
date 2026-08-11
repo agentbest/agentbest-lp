@@ -160,17 +160,17 @@ sources:
 
 ## この職種を採用している企業タイプ
 
-**プロダクト中心のスタートアップ** — 技術側の選考は[CTO・VPoE候補の面接対策](/media/cto-vpoe-interview)、[CTO・VPoE候補に求められるスキル](/media/cto-vpoe-skills)が参考になります。
+**プロダクト中心のスタートアップ** — 技術側の選考は[CTO・VPoE候補の面接対策](/media/cto-vpoe-interview/)、[CTO・VPoE候補に求められるスキル](/media/cto-vpoe-skills/)が参考になります。
 
-**事業会社出身者を求める会社** — [経営企画の面接対策](/media/corporate-planning-interview)、[経営企画の職務経歴書](/media/corporate-planning-resume)をご覧ください。
+**事業会社出身者を求める会社** — [経営企画の面接対策](/media/corporate-planning-interview/)、[経営企画の職務経歴書](/media/corporate-planning-resume/)をご覧ください。
 
-**事業開発から幹部を採る会社** — [事業開発（BizDev）の面接対策](/media/bizdev-interview)、[事業企画の面接対策](/media/business-planning-interview)が近い領域です。
+**事業開発から幹部を採る会社** — [事業開発（BizDev）の面接対策](/media/bizdev-interview/)、[事業企画の面接対策](/media/business-planning-interview/)が近い領域です。
 
-**コンサル出身者を採る会社** — [ポストコンサル（事業会社転身）の面接対策](/media/post-consultant-interview)で、転身時に問われる点を整理しています。
+**コンサル出身者を採る会社** — [ポストコンサル（事業会社転身）の面接対策](/media/post-consultant-interview/)で、転身時に問われる点を整理しています。
 
-**管理部門の責任者を探している会社** — [財務・経理の面接対策](/media/finance-interview)、[人事（HRBP）の面接対策](/media/hrbp-interview)が該当します。
+**管理部門の責任者を探している会社** — [財務・経理の面接対策](/media/finance-interview/)、[人事（HRBP）の面接対策](/media/hrbp-interview/)が該当します。
 
-志望動機の作り方と条件面については、[CxO候補・経営幹部の志望動機の書き方](/media/job-cxo-kouho-shibou-douki)、[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu)、[CxO候補・経営幹部の転職難易度](/media/job-cxo-kouho-tenshoku-nanido)もあわせてご確認ください。
+志望動機の作り方と条件面については、[CxO候補・経営幹部の志望動機の書き方](/media/job-cxo-kouho-shibou-douki/)、[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/)、[CxO候補・経営幹部の転職難易度](/media/job-cxo-kouho-tenshoku-nanido/)もあわせてご確認ください。
 
 ## まとめ
 

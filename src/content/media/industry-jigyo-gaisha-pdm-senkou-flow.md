@@ -102,7 +102,7 @@ IPAの発表によれば、ver.2.0では新事業開発・既存事業の高度�
 | SaaS・スタートアップ | 組織の形が固まっていない | 職域を越えて動けるか |
 | 外資テック日本法人 | 本社の方針が前提になる | 意思決定の位置の見極め |
 
-自社サービス専業の例としては[メルカリの評判](/media/company-merukari-reputation)、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation)、[カカクコムの評判](/media/company-kakakukomu-reputation)、[LINEヤフーの評判](/media/company-lineyafuu-reputation)が参考になります。非IT事業会社の内製部門については[クレディセゾンの評判](/media/company-kuredisezon-reputation)、[ファーストリテイリングの評判](/media/company-faasutoriteiringu-reputation)、[イオンの評判](/media/company-ion-reputation)を、IT・デジタル子会社については[JR東日本情報システムの評判](/media/company-jrhigashinihonjouhoushisutemu-reputation)、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation)をご覧ください。SaaS側の比較には[アンドパッドの評判](/media/company-andopaddo-reputation)、[カミナシの評判](/media/company-kaminashi-reputation)が挙げられます。
+自社サービス専業の例としては[メルカリの評判](/media/company-merukari-reputation/)、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation/)、[カカクコムの評判](/media/company-kakakukomu-reputation/)、[LINEヤフーの評判](/media/company-lineyafuu-reputation/)が参考になります。非IT事業会社の内製部門については[クレディセゾンの評判](/media/company-kuredisezon-reputation/)、[ファーストリテイリングの評判](/media/company-faasutoriteiringu-reputation/)、[イオンの評判](/media/company-ion-reputation/)を、IT・デジタル子会社については[JR東日本情報システムの評判](/media/company-jrhigashinihonjouhoushisutemu-reputation/)、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation/)をご覧ください。SaaS側の比較には[アンドパッドの評判](/media/company-andopaddo-reputation/)、[カミナシの評判](/media/company-kaminashi-reputation/)が挙げられます。
 
 ## 見送りにつながりやすい受け答え
 
@@ -112,7 +112,7 @@ IPAの発表によれば、ver.2.0では新事業開発・既存事業の高度�
 - 内製化への意欲を語る一方で、外部委託を続ける判断があり得ることに触れない
 - 志望動機が「事業会社に行きたい」で止まり、その会社のプロダクトの現在地に触れていない
 
-最後の点は[志望動機の書き方](/media/industry-jigyo-gaisha-pdm-shibou-douki)で詳しく扱っています。
+最後の点は[志望動機の書き方](/media/industry-jigyo-gaisha-pdm-shibou-douki/)で詳しく扱っています。
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>
@@ -125,7 +125,7 @@ IPAの発表によれば、ver.2.0では新事業開発・既存事業の高度�
 
 職務経歴書では、要件定義の上流に関わった案件を選び、顧客の要望をそのまま実装しなかった場面を書きます。要望を削った理由、代わりに提案したもの、その結果どうなったか。この3点が揃っていれば、決める側の経験として読まれます。
 
-なお、隣接する職種との比較は[ITコンサルタントの選考フロー](/media/job-it-consultant-senkou-flow)、[PMOコンサルタントの選考フロー](/media/job-pmo-consultant-senkou-flow)も参考になります。
+なお、隣接する職種との比較は[ITコンサルタントの選考フロー](/media/job-it-consultant-senkou-flow/)、[PMOコンサルタントの選考フロー](/media/job-pmo-consultant-senkou-flow/)も参考になります。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -144,7 +144,7 @@ IPAの発表によれば、ver.2.0では新事業開発・既存事業の高度�
 
 **Q. プロダクトマネージャー経験がなくても応募できますか。**
 
-A. 応募自体は可能です。ただし前述のとおり、募集の枠が分析・調整寄りか、成果責任を伴う枠かで求められるものが変わります。未経験から入る場合は、業務知識を持つ側から要件を決めた経験を軸にするのが現実的です。詳しくは[転職難易度](/media/industry-jigyo-gaisha-pdm-tenshoku-nanido)で扱っています。
+A. 応募自体は可能です。ただし前述のとおり、募集の枠が分析・調整寄りか、成果責任を伴う枠かで求められるものが変わります。未経験から入る場合は、業務知識を持つ側から要件を決めた経験を軸にするのが現実的です。詳しくは[転職難易度](/media/industry-jigyo-gaisha-pdm-tenshoku-nanido/)で扱っています。
 
 **Q. 選考で技術的な質問はどの程度出ますか。**
 

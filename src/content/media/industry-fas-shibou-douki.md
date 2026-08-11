@@ -90,10 +90,10 @@ FASの裁量は、期限と責任とセットです。裁量に触れるなら�
 
 ## 法人のタイプごとに、軸をずらす
 
-- **Big4系FAS**では、領域の選択と組織で働く姿勢が軸になります。[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation)、[KPMG FASの評判](/media/company-kpmg-fas-reputation)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation)をご覧ください
-- **独立系アドバイザリー**では、一貫して担当したい理由が軸です。[GCAの評判](/media/company-gca-reputation)が参考になります
-- **再生・事業支援系**では、現場に入る覚悟が軸になります。[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation)をご覧ください
-- **仲介との併願**を検討している場合は、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation)、[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation)と比較すると違いが見えます
+- **Big4系FAS**では、領域の選択と組織で働く姿勢が軸になります。[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation/)、[KPMG FASの評判](/media/company-kpmg-fas-reputation/)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation/)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation/)をご覧ください
+- **独立系アドバイザリー**では、一貫して担当したい理由が軸です。[GCAの評判](/media/company-gca-reputation/)が参考になります
+- **再生・事業支援系**では、現場に入る覚悟が軸になります。[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation/)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/)をご覧ください
+- **仲介との併願**を検討している場合は、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation/)、[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation/)と比較すると違いが見えます
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>
@@ -127,7 +127,7 @@ FASの裁量は、期限と責任とセットです。裁量に触れるなら�
 
 銀行の融資審査、事業会社の経理・財務・経営企画、証券会社の引受業務からの応募が現実的な経路です。この場合、志望動機の第1層で「なぜ社内から社外の助言側に移るのか」に答える必要があります。
 
-社内では自社の1件を深く見ますが、FASでは複数の会社を短期間で見ます。この違いを理解したうえで移りたいと書けていると、実務のイメージがある応募者として読まれます。難易度は[転職難易度](/media/industry-fas-tenshoku-nanido)、入社後の進み方は[キャリアパス](/media/industry-fas-career-path)で扱っています。
+社内では自社の1件を深く見ますが、FASでは複数の会社を短期間で見ます。この違いを理解したうえで移りたいと書けていると、実務のイメージがある応募者として読まれます。難易度は[転職難易度](/media/industry-fas-tenshoku-nanido/)、入社後の進み方は[キャリアパス](/media/industry-fas-career-path/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

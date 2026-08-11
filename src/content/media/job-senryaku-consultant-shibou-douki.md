@@ -130,13 +130,13 @@ sources:
 
 同じ「戦略コンサルタント」でも、組織のタイプによって求められる動機の方向が変わります。併願する場合は、タイプごとに書き分けが必要です。
 
-**戦略特化型ファーム** — 経営層向けの戦略テーマが中心です。論点を立てる力そのものへの関心を、動機の軸に置くと自然です。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation)が参考になります。
+**戦略特化型ファーム** — 経営層向けの戦略テーマが中心です。論点を立てる力そのものへの関心を、動機の軸に置くと自然です。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation/)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation/)が参考になります。
 
-**総合系ファームの戦略部門** — 立案から実行支援まで担う体制です。実装フェーズまで見届けたいという動機と相性がよくなります。[アクセンチュアの評判](/media/company-accenture-japan-reputation)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation)、[EY Japanの評判](/media/company-ey-japan-reputation)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation)をご覧ください。
+**総合系ファームの戦略部門** — 立案から実行支援まで担う体制です。実装フェーズまで見届けたいという動機と相性がよくなります。[アクセンチュアの評判](/media/company-accenture-japan-reputation/)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation/)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation/)、[EY Japanの評判](/media/company-ey-japan-reputation/)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation/)をご覧ください。
 
-**独立系・新興ファーム** — 特定領域や地域に強みを持ちます。裁量の広さや事業への近さを動機に据えると噛み合います。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation)、[Ridgelinezの評判](/media/company-ridgelinez-reputation)が該当します。
+**独立系・新興ファーム** — 特定領域や地域に強みを持ちます。裁量の広さや事業への近さを動機に据えると噛み合います。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation/)、[Ridgelinezの評判](/media/company-ridgelinez-reputation/)が該当します。
 
-選考の進み方そのものについては、[戦略コンサルタントの選考フロー・面接対策](/media/job-senryaku-consultant-senkou-flow)、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow)を参照してください。
+選考の進み方そのものについては、[戦略コンサルタントの選考フロー・面接対策](/media/job-senryaku-consultant-senkou-flow/)、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow/)を参照してください。
 
 ## 未経験・異業種から書く場合
 

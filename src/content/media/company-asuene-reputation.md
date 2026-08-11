@@ -75,7 +75,7 @@ sources:
 
 **事業会社**では、ダイキン工業、村田製作所、JERA、NIPPON EXPRESSホールディングス、日揮、ソニー、KDDI、リコー、大和ハウスグループなど。
 
-**ベンチャーキャピタル**では、Incubate Fund、環境エネルギー投資、セールスフォース・ベンチャーズ、GMO VenturePartners、[グローバル・ブレイン](/media/company-guroobaru-burein-reputation)、[STRIVE](/media/company-strive-reputation)、[SBIインベストメント](/media/company-sbiinbesutomento-reputation)など。
+**ベンチャーキャピタル**では、Incubate Fund、環境エネルギー投資、セールスフォース・ベンチャーズ、GMO VenturePartners、[グローバル・ブレイン](/media/company-guroobaru-burein-reputation/)、[STRIVE](/media/company-strive-reputation/)、[SBIインベストメント](/media/company-sbiinbesutomento-reputation/)など。
 
 さらに**脱炭素化支援機構**の名もあります。
 

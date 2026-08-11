@@ -130,14 +130,14 @@ sources:
 
 ## 隣接職種との比較
 
-- [社内SEの年収](/media/corporate-it-salary)、[社内SEで年収600万円を目指すには](/media/corporate-it-salary-600)
-- [インフラエンジニアの年収](/media/infra-engineer-salary) — 基盤側の水準
-- [ITアーキテクトの年収](/media/it-architect-salary) — 設計側の水準
-- [セキュリティエンジニアの年収](/media/security-engineer-salary)
-- [DX推進担当の年収相場](/media/job-dx-suishin-nensyu) — 変える側の水準
-- [ITコンサルタントの年収](/media/it-consultant-salary) — 支援側の水準
+- [社内SEの年収](/media/corporate-it-salary/)、[社内SEで年収600万円を目指すには](/media/corporate-it-salary-600/)
+- [インフラエンジニアの年収](/media/infra-engineer-salary/) — 基盤側の水準
+- [ITアーキテクトの年収](/media/it-architect-salary/) — 設計側の水準
+- [セキュリティエンジニアの年収](/media/security-engineer-salary/)
+- [DX推進担当の年収相場](/media/job-dx-suishin-nensyu/) — 変える側の水準
+- [ITコンサルタントの年収](/media/it-consultant-salary/) — 支援側の水準
 
-キャリアの進み方と選考は、[社内SEのキャリアパス](/media/job-shanai-se-career-path)、[社内SEの選考フロー・面接対策](/media/job-shanai-se-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[社内SEのキャリアパス](/media/job-shanai-se-career-path/)、[社内SEの選考フロー・面接対策](/media/job-shanai-se-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

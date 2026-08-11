@@ -119,7 +119,7 @@ sources:
 
 **SIer・ITコンサルティングから**
 
-システムの選択肢と要件定義を書きます。接続の要点は、システムを使わない解き方も持っていることです。詳しくは[ITコンサルタントの志望動機の書き方](/media/job-it-consultant-shibou-douki)もご覧ください。
+システムの選択肢と要件定義を書きます。接続の要点は、システムを使わない解き方も持っていることです。詳しくは[ITコンサルタントの志望動機の書き方](/media/job-it-consultant-shibou-douki/)もご覧ください。
 
 **経営コンサルティングから**
 
@@ -191,7 +191,7 @@ sources:
 
 **事業会社の社内改革部門** — 当事者です。社内を動かした経験を前に出します。
 
-近い職種の書き方は[経営企画の志望動機の書き方](/media/job-keiei-kikaku-shibou-douki)、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki)もあわせてご覧ください。
+近い職種の書き方は[経営企画の志望動機の書き方](/media/job-keiei-kikaku-shibou-douki/)、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

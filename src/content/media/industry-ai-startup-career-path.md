@@ -135,7 +135,7 @@ PKSHA Technologyでは、連結の従業員数が前連結会計年度末に比�
 
 同じ領域の別フェーズの会社へ移る道も現実的です。プロダクト型で標準化された運用を経験した人が、より早い段階の会社で立ち上げを担うケースが見られます。
 
-なお、この領域の職種別の情報は、[AIエンジニアのキャリアパス](/media/ai-engineer-career-path)や[生成AI・AI業界でのキャリアの築き方](/media/ai-industry-career)でも整理しています。データ職の観点では[データサイエンティストのキャリアパス](/media/data-scientist-career-path)も参考になります。
+なお、この領域の職種別の情報は、[AIエンジニアのキャリアパス](/media/ai-engineer-career-path/)や[生成AI・AI業界でのキャリアの築き方](/media/ai-industry-career/)でも整理しています。データ職の観点では[データサイエンティストのキャリアパス](/media/data-scientist-career-path/)も参考になります。
 
 ## 未経験・異業種から入るとき
 

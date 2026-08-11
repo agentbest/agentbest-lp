@@ -83,15 +83,15 @@ sources:
 
 この道に進む場合、自分の対応を言語化した経験が土台になります。感覚で顧客と向き合ってきた方は、まず自分の判断基準を分解する作業から始めることになります。
 
-近い領域として、製品側で解決する方向もあります。同じ問い合わせが繰り返される場合、製品を変えるほうが早いことがあるためです。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)が参考になります。
+近い領域として、製品側で解決する方向もあります。同じ問い合わせが繰り返される場合、製品を変えるほうが早いことがあるためです。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)が参考になります。
 
 ## 営業側・プロダクト側に移る道
 
-**営業側へ** — 拡張型の経験がある場合、追加契約を担ってきた実績がそのまま接続します。新規獲得の経験は改めて積む形になります。[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path)、[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path)をご覧ください。
+**営業側へ** — 拡張型の経験がある場合、追加契約を担ってきた実績がそのまま接続します。新規獲得の経験は改めて積む形になります。[フィールドセールス（SaaS）のキャリアパス](/media/job-field-sales-career-path/)、[エンタープライズセールスのキャリアパス](/media/enterprise-sales-career-path/)をご覧ください。
 
 **プロダクト側へ** — 顧客の声を製品仕様に反映する立場です。要望をそのまま伝えるのではなく、優先順位を判断した経験があるかが問われます。
 
-**技術寄りの支援へ** — 導入時の設定や連携を担う方向です。[セールスエンジニア／プリセールスのキャリアパス](/media/presales-career-path)が近い領域です。
+**技術寄りの支援へ** — 導入時の設定や連携を担う方向です。[セールスエンジニア／プリセールスのキャリアパス](/media/presales-career-path/)が近い領域です。
 
 **サポート組織の責任者へ** — 問い合わせ対応の体制を含めて統括する立場です。
 
@@ -138,12 +138,12 @@ sources:
 
 ## 隣接職種との行き来
 
-- **営業側へ** — [SaaS営業（フィールドセールス）のキャリアパス](/media/saas-sales-career-path)、[インサイドセールスのキャリアパス](/media/job-inside-sales-career-path)
-- **技術支援へ** — [セールスエンジニア／プリセールスに求められるスキル](/media/presales-skills)
-- **製品側へ** — [プロダクトマネージャー（PdM）に求められるスキル](/media/product-manager-skills)
-- **同職種の一般的な情報** — [カスタマーサクセスのキャリアパス](/media/customer-success-career-path)、[カスタマーサクセスに求められるスキル](/media/customer-success-skills)
+- **営業側へ** — [SaaS営業（フィールドセールス）のキャリアパス](/media/saas-sales-career-path/)、[インサイドセールスのキャリアパス](/media/job-inside-sales-career-path/)
+- **技術支援へ** — [セールスエンジニア／プリセールスに求められるスキル](/media/presales-skills/)
+- **製品側へ** — [プロダクトマネージャー（PdM）に求められるスキル](/media/product-manager-skills/)
+- **同職種の一般的な情報** — [カスタマーサクセスのキャリアパス](/media/customer-success-career-path/)、[カスタマーサクセスに求められるスキル](/media/customer-success-skills/)
 
-年収と選考は、[カスタマーサクセスの年収相場](/media/job-customer-success-nensyu)、[カスタマーサクセスの選考フロー・面接対策](/media/job-customer-success-senkou-flow)をご確認ください。
+年収と選考は、[カスタマーサクセスの年収相場](/media/job-customer-success-nensyu/)、[カスタマーサクセスの選考フロー・面接対策](/media/job-customer-success-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -150,12 +150,12 @@ sources:
 
 ## 隣接職種との関係
 
-- **サポート側から** — [カスタマーサクセスに未経験から挑戦するには](/media/customer-success-from-scratch)、[社内SEのキャリアパス](/media/corporate-it-career-path)
-- **営業側から** — [フィールドセールス（SaaS）の転職難易度](/media/job-field-sales-tenshoku-nanido)、[インサイドセールスのキャリアパス](/media/job-inside-sales-career-path)
-- **技術支援へ** — [セールスエンジニア／プリセールスの転職市場動向](/media/presales-market-trend)
-- **同職種の一般的な情報** — [カスタマーサクセスの転職市場動向](/media/customer-success-market-trend)、[カスタマーサクセスに求められるスキル](/media/customer-success-skills)
+- **サポート側から** — [カスタマーサクセスに未経験から挑戦するには](/media/customer-success-from-scratch/)、[社内SEのキャリアパス](/media/corporate-it-career-path/)
+- **営業側から** — [フィールドセールス（SaaS）の転職難易度](/media/job-field-sales-tenshoku-nanido/)、[インサイドセールスのキャリアパス](/media/job-inside-sales-career-path/)
+- **技術支援へ** — [セールスエンジニア／プリセールスの転職市場動向](/media/presales-market-trend/)
+- **同職種の一般的な情報** — [カスタマーサクセスの転職市場動向](/media/customer-success-market-trend/)、[カスタマーサクセスに求められるスキル](/media/customer-success-skills/)
 
-キャリアの進み方と年収は、[カスタマーサクセスのキャリアパス](/media/job-customer-success-career-path)、[カスタマーサクセスの年収相場](/media/job-customer-success-nensyu)をご確認ください。
+キャリアの進み方と年収は、[カスタマーサクセスのキャリアパス](/media/job-customer-success-career-path/)、[カスタマーサクセスの年収相場](/media/job-customer-success-nensyu/)をご確認ください。
 
 ## まとめ
 

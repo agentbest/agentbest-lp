@@ -136,12 +136,12 @@ CMAは取得までに時間がかかります。応募を遅らせるより、�
 
 ## 併願で難易度を分散させる
 
-- **PEファンド投資担当** — 投資対象が成熟企業になります。[PEファンド投資担当の転職難易度](/media/job-pe-investment-tenshoku-nanido)をご覧ください
-- **M&Aアドバイザー** — 助言する立場です。[M&Aアドバイザーの転職難易度](/media/job-ma-advisor-tenshoku-nanido)で扱っています
-- **投資銀行アナリスト** — 若年層の採用枠があります。[投資銀行アナリストの転職難易度](/media/job-ibd-analyst-tenshoku-nanido)をご覧ください
-- **事業再生コンサルタント** — 企業を立て直す側からの視点が得られます。[事業再生コンサルタントの転職難易度](/media/job-saisei-consultant-tenshoku-nanido)で扱っています
+- **PEファンド投資担当** — 投資対象が成熟企業になります。[PEファンド投資担当の転職難易度](/media/job-pe-investment-tenshoku-nanido/)をご覧ください
+- **M&Aアドバイザー** — 助言する立場です。[M&Aアドバイザーの転職難易度](/media/job-ma-advisor-tenshoku-nanido/)で扱っています
+- **投資銀行アナリスト** — 若年層の採用枠があります。[投資銀行アナリストの転職難易度](/media/job-ibd-analyst-tenshoku-nanido/)をご覧ください
+- **事業再生コンサルタント** — 企業を立て直す側からの視点が得られます。[事業再生コンサルタントの転職難易度](/media/job-saisei-consultant-tenshoku-nanido/)で扱っています
 
-各ファンドの実像は[ジェネシア・ベンチャーズの評判](/media/company-jieneshia-benchaazu-reputation)、[グローバル・ブレインの評判](/media/company-guroobaru-burein-reputation)、[サイバーエージェント・キャピタルの評判](/media/company-saibaaeejiento-kyapitaru-reputation)などをご覧ください。
+各ファンドの実像は[ジェネシア・ベンチャーズの評判](/media/company-jieneshia-benchaazu-reputation/)、[グローバル・ブレインの評判](/media/company-guroobaru-burein-reputation/)、[サイバーエージェント・キャピタルの評判](/media/company-saibaaeejiento-kyapitaru-reputation/)などをご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

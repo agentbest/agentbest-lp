@@ -133,13 +133,13 @@ IPA（情報処理推進機構）が2026年7月16日に公表した調査（国�
 
 支援の起点が違えば、見られる点も変わります。企業別の記事もあわせてご覧ください。
 
-- [Ridgelinezの評判](/media/company-ridgelinez-reputation) — 構想から実装までを一貫して担う形
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation) — 事業と技術の間をつなぐ立ち位置
-- [エル・ティー・エスの評判](/media/company-lts-reputation) — 業務プロセスの側から入る支援
-- [ベイカレントの評判](/media/company-beikarento-reputation) — 領域を限定しない体制での支援
-- [日立コンサルティングの評判](/media/company-hitachikonsaruteingu-reputation) — グループの技術基盤を背景にした支援
-- [BIPROGYの評判](/media/company-biprogy-reputation) — 既存システムの刷新を含む支援
-- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation) — 製造・流通の業務知見を軸にした支援
+- [Ridgelinezの評判](/media/company-ridgelinez-reputation/) — 構想から実装までを一貫して担う形
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/) — 事業と技術の間をつなぐ立ち位置
+- [エル・ティー・エスの評判](/media/company-lts-reputation/) — 業務プロセスの側から入る支援
+- [ベイカレントの評判](/media/company-beikarento-reputation/) — 領域を限定しない体制での支援
+- [日立コンサルティングの評判](/media/company-hitachikonsaruteingu-reputation/) — グループの技術基盤を背景にした支援
+- [BIPROGYの評判](/media/company-biprogy-reputation/) — 既存システムの刷新を含む支援
+- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation/) — 製造・流通の業務知見を軸にした支援
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>

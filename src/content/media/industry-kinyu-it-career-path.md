@@ -131,7 +131,7 @@ sources:
 
 銀行等窓口事務の区分で **正確性4.5** が上位にあることは、この領域全体の性質を示しています。速さより正確さが優先される場面が多くなります。
 
-**隣接領域** — [ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path)、[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path)もあわせてご覧ください。
+**隣接領域** — [ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path/)、[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path/)もあわせてご覧ください。
 
 ## 会社の型で、扱える範囲が変わる
 

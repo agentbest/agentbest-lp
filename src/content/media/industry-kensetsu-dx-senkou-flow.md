@@ -140,7 +140,7 @@ sources:
 
 **不動産会社のDX部門** — 所有者や入居者への対応が見られます。顧客接点の経験が効きます。
 
-近い領域の選考は[不動産テック業界の企業](/media/proptech-industry-company)、[物流DXの選考フロー・面接対策](/media/industry-butsuryu-dx-senkou-flow)もあわせてご覧ください。
+近い領域の選考は[不動産テック業界の企業](/media/proptech-industry-company/)、[物流DXの選考フロー・面接対策](/media/industry-butsuryu-dx-senkou-flow/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -160,7 +160,7 @@ sources:
 
 2つ目が、入社後の満足度を最も左右します。納品までで離れる会社と、定着まで見る会社があります。前者では、使われているかどうかが分からないまま次の案件に移ります。
 
-4つ目は、年収に直結します。詳しくは[建設・不動産DXの年収相場](/media/industry-kensetsu-dx-nensyu)で整理しています。
+4つ目は、年収に直結します。詳しくは[建設・不動産DXの年収相場](/media/industry-kensetsu-dx-nensyu/)で整理しています。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

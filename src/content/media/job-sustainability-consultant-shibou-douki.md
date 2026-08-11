@@ -177,7 +177,7 @@ Scope1と2は、自社の燃料使用量と電力使用量から算定できま�
 
 **事業会社のサステナビリティ部門** — 社内を動かす立場です。部門横断の調整経験を前に出します。
 
-近い職種の書き方は[事業再生コンサルタントの志望動機の書き方](/media/job-saisei-consultant-shibou-douki)、[経営企画の志望動機の書き方](/media/job-keiei-kikaku-shibou-douki)、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki)もあわせてご覧ください。
+近い職種の書き方は[事業再生コンサルタントの志望動機の書き方](/media/job-saisei-consultant-shibou-douki/)、[経営企画の志望動機の書き方](/media/job-keiei-kikaku-shibou-douki/)、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

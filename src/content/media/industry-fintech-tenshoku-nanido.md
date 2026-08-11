@@ -123,7 +123,7 @@ sources:
 
 そのうえで、書類の段階で接続点を明示します。読み手に推測させると通過率が下がります。
 
-業界の全体像は[フィンテック業界への転職ガイド](/media/fintech-industry-guide)、選考の流れは[フィンテック業界の主要企業](/media/fintech-industry-company)とあわせて確認すると、応募先の絞り込みがしやすくなります。
+業界の全体像は[フィンテック業界への転職ガイド](/media/fintech-industry-guide/)、選考の流れは[フィンテック業界の主要企業](/media/fintech-industry-company/)とあわせて確認すると、応募先の絞り込みがしやすくなります。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

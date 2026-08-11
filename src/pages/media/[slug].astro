@@ -26,7 +26,7 @@ const related = (post.data.related ?? [])
   <Header />
   <article class="media-article">
     <p class="breadcrumb">
-      <a href="/media">キャリアメディア</a> / {post.data.theme}
+      <a href="/media/">キャリアメディア</a> / {post.data.theme}
     </p>
     {post.data.image && <img class="eyecatch" src={post.data.image} alt="" width="1200" height="630" />}
     <h1>{post.data.title}</h1>
@@ -61,7 +61,7 @@ const related = (post.data.related ?? [])
         <strong>関連記事</strong>
         <ul>
           {related.map((r) => (
-            <li><a href={`/media/${r.slug}`}>{r.data.title}</a></li>
+            <li><a href={`/media/${r.slug}/`}>{r.data.title}</a></li>
           ))}
         </ul>
       </div>

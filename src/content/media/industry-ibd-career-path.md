@@ -130,14 +130,14 @@ job tagの証券アナリストの区分では、平均年齢は39.4歳、月の
 
 在籍中に経験できる案件の性格は、会社によって大きく異なります。企業別の記事もあわせてご覧ください。
 
-- [ゴールドマン・サックス証券の評判](/media/company-goorudoman-sakkusushouken-reputation) — 大型・クロスボーダーの経験を積む
-- [JPモルガン証券の評判](/media/company-jpmoruganshouken-reputation) — 資本市場と助言の両面を見る
-- [UBS証券の評判](/media/company-ubsshouken-reputation) — 顧客基盤との接続を学ぶ
-- [ジェフリーズ証券の評判](/media/company-jiefuriizushouken-reputation) — 助言に軸足を置く体制
-- [ラザード・フレールの評判](/media/company-razaado-fureeru-reputation) — 独立系での働き方
-- [ロスチャイルド＆カンパニーの評判](/media/company-rosuchairudoandkanpanii-reputation) — 中立性を前提にした助言
-- [みずほ証券の評判](/media/company-mizuhoshouken-reputation) — 銀行基盤からの案件組成
-- [SMBC日興証券の評判](/media/company-smbcnikkoushouken-reputation) — 国内カバレッジの厚み
+- [ゴールドマン・サックス証券の評判](/media/company-goorudoman-sakkusushouken-reputation/) — 大型・クロスボーダーの経験を積む
+- [JPモルガン証券の評判](/media/company-jpmoruganshouken-reputation/) — 資本市場と助言の両面を見る
+- [UBS証券の評判](/media/company-ubsshouken-reputation/) — 顧客基盤との接続を学ぶ
+- [ジェフリーズ証券の評判](/media/company-jiefuriizushouken-reputation/) — 助言に軸足を置く体制
+- [ラザード・フレールの評判](/media/company-razaado-fureeru-reputation/) — 独立系での働き方
+- [ロスチャイルド＆カンパニーの評判](/media/company-rosuchairudoandkanpanii-reputation/) — 中立性を前提にした助言
+- [みずほ証券の評判](/media/company-mizuhoshouken-reputation/) — 銀行基盤からの案件組成
+- [SMBC日興証券の評判](/media/company-smbcnikkoushouken-reputation/) — 国内カバレッジの厚み
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

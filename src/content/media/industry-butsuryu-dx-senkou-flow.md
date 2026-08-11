@@ -138,7 +138,7 @@ sources:
 
 **倉庫自動化のメーカー・インテグレーター** — 設備と制御の知識が中心です。機械系の質問が増えます。
 
-近い領域の選考は[物流テック業界の企業](/media/logitech-industry-company)、[建設・不動産DXの選考フロー・面接対策](/media/industry-kensetsu-dx-senkou-flow)もあわせてご覧ください。
+近い領域の選考は[物流テック業界の企業](/media/logitech-industry-company/)、[建設・不動産DXの選考フロー・面接対策](/media/industry-kensetsu-dx-senkou-flow/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -160,7 +160,7 @@ sources:
 
 4つ目は、積める経験を左右します。荷主と交渉した経験は、この業界で最も希少な材料になります。
 
-5つ目と6つ目は年収に直結します。詳しくは[物流DXの年収相場](/media/industry-butsuryu-dx-nensyu)で整理しています。
+5つ目と6つ目は年収に直結します。詳しくは[物流DXの年収相場](/media/industry-butsuryu-dx-nensyu/)で整理しています。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

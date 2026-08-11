@@ -174,7 +174,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-iisapootorinku-reputation">年収の実態を聞いてみる</a>
 </aside>
 
-流通・小売領域の比較材料としては、[イオンの評判](/media/company-ion-reputation)、[ファミリーマートの評判](/media/company-famiriimaato-reputation)、[味の素の評判](/media/company-ajinomoto-reputation)もご覧ください。
+流通・小売領域の比較材料としては、[イオンの評判](/media/company-ion-reputation/)、[ファミリーマートの評判](/media/company-famiriimaato-reputation/)、[味の素の評判](/media/company-ajinomoto-reputation/)もご覧ください。
 
 ## まとめ
 

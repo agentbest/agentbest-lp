@@ -99,7 +99,7 @@ M&Aキャピタルパートナーズは従業員296名のうち、**M&Aコンサ
 | 士業系・コンサル併営 | 本業の給与体系に乗る | M&A案件の評価方法 |
 | プラットフォーム型 | 掲載・成約手数料に連動 | 個人への配分の有無 |
 
-各社の状況は[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation)、[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation)、[ストライクの評判](/media/company-sutoraiku-reputation)、[オンデックの評判](/media/company-ondekku-reputation)、[fundbookの評判](/media/company-fundbook-reputation)、[バトンズの評判](/media/company-batonz-reputation)、[M&Aベストパートナーズの評判](/media/company-mandabesutopaatonaazu-reputation)をご覧ください。
+各社の状況は[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation/)、[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation/)、[ストライクの評判](/media/company-sutoraiku-reputation/)、[オンデックの評判](/media/company-ondekku-reputation/)、[fundbookの評判](/media/company-fundbook-reputation/)、[バトンズの評判](/media/company-batonz-reputation/)、[M&Aベストパートナーズの評判](/media/company-mandabesutopaatonaazu-reputation/)をご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>
@@ -134,7 +134,7 @@ M&A仲介の求人票には、「500万円〜2,000万円」のように幅の広
 
 未経験入社の初年度は、固定給が中心になります。前職より下がる提示になることもあります。判断材料は初年度の金額ではなく、成約に至るまでの期間と、その間の支給がどうなるかです。
 
-前掲のとおり平均勤続年数は2.5〜4.6年です。最初の成約までに時間がかかる商売である以上、その期間を支える固定給の水準が、実際には最も重要な条件になります。難易度は[転職難易度](/media/industry-ma-chukai-tenshoku-nanido)、選考の進み方は[選考フロー・面接対策](/media/industry-ma-chukai-senkou-flow)で扱っています。
+前掲のとおり平均勤続年数は2.5〜4.6年です。最初の成約までに時間がかかる商売である以上、その期間を支える固定給の水準が、実際には最も重要な条件になります。難易度は[転職難易度](/media/industry-ma-chukai-tenshoku-nanido/)、選考の進み方は[選考フロー・面接対策](/media/industry-ma-chukai-senkou-flow/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

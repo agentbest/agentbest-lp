@@ -91,13 +91,13 @@ job tag に掲載されているこの職業の必要スキルは、傾聴力5.4
 
 ## 組織側・支援側に移る道
 
-**組織側へ** — 複数のプロジェクトを統括し、標準や体制を整える立場です。[PMOのキャリアパス](/media/pmo-career-path)、[エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path)が近い領域です。
+**組織側へ** — 複数のプロジェクトを統括し、標準や体制を整える立場です。[PMOのキャリアパス](/media/pmo-career-path/)、[エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path/)が近い領域です。
 
-**製品側へ** — 何を作るかを決める立場に移ります。作り方の管理から、作るものの判断へ。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)をご覧ください。
+**製品側へ** — 何を作るかを決める立場に移ります。作り方の管理から、作るものの判断へ。[プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)をご覧ください。
 
-**支援側へ** — 指示ではなく支援でチームを機能させる方向です。[スクラムマスターのキャリアパス](/media/job-scrum-master-career-path)が該当します。ただし、決めて負う立場から支援する立場への切り替えは、想像より難しくなります。
+**支援側へ** — 指示ではなく支援でチームを機能させる方向です。[スクラムマスターのキャリアパス](/media/job-scrum-master-career-path/)が該当します。ただし、決めて負う立場から支援する立場への切り替えは、想像より難しくなります。
 
-**技術側へ** — 設計に軸足を戻す道です。[ITアーキテクトのキャリアパス](/media/job-it-architect-career-path)が参考になります。
+**技術側へ** — 設計に軸足を戻す道です。[ITアーキテクトのキャリアパス](/media/job-it-architect-career-path/)が参考になります。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -125,13 +125,13 @@ job tag では、この職業に就くために特定の学歴や資格は不要
 
 ## 隣接職種との行き来
 
-- **支援側へ** — [スクラムマスターのキャリアパス](/media/job-scrum-master-career-path)
-- **統括側へ** — [PMOのキャリアパス](/media/pmo-career-path)、[エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path)
-- **製品側へ** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)
-- **技術側へ** — [ITアーキテクトのキャリアパス](/media/job-it-architect-career-path)、[テックリードのキャリアパス](/media/tech-lead-career-path)
-- **同職種の一般的な情報** — [プロジェクトマネージャー（PM）のキャリアパス](/media/project-manager-career-path)、[プロジェクトマネージャーに求められるスキル](/media/project-manager-skills)
+- **支援側へ** — [スクラムマスターのキャリアパス](/media/job-scrum-master-career-path/)
+- **統括側へ** — [PMOのキャリアパス](/media/pmo-career-path/)、[エンジニアリングマネージャーのキャリアパス](/media/engineering-manager-career-path/)
+- **製品側へ** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)
+- **技術側へ** — [ITアーキテクトのキャリアパス](/media/job-it-architect-career-path/)、[テックリードのキャリアパス](/media/tech-lead-career-path/)
+- **同職種の一般的な情報** — [プロジェクトマネージャー（PM）のキャリアパス](/media/project-manager-career-path/)、[プロジェクトマネージャーに求められるスキル](/media/project-manager-skills/)
 
-年収と選考は、[プロジェクトマネージャー（PjM）の年収相場](/media/job-project-manager-nensyu)、[プロジェクトマネージャー（PjM）の選考フロー・面接対策](/media/job-project-manager-senkou-flow)をご確認ください。
+年収と選考は、[プロジェクトマネージャー（PjM）の年収相場](/media/job-project-manager-nensyu/)、[プロジェクトマネージャー（PjM）の選考フロー・面接対策](/media/job-project-manager-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

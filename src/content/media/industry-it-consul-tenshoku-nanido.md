@@ -106,7 +106,7 @@ ITコンサルティングファームへの転職を考えるとき、最も多
 
 **総合系ファームのIT部門から**
 
-方法論と大規模案件の経験が接続します。補うのは、独立性の制約がない環境での提案です。[Big4の転職難易度](/media/industry-sogo-consul-tenshoku-nanido)もあわせてご覧ください。
+方法論と大規模案件の経験が接続します。補うのは、独立性の制約がない環境での提案です。[Big4の転職難易度](/media/industry-sogo-consul-tenshoku-nanido/)もあわせてご覧ください。
 
 **プログラマー・開発者から**
 
@@ -160,7 +160,7 @@ SIerから転職する方のほとんどが同じことを言います。区別�
 
 6つ目は入社後のずれを防ぎます。同じITコンサルティングファームでも、準委任中心のファームと、請負まで自社で受けるファームでは仕事の中身が違います。
 
-職種としての難易度は[ITコンサルタントの転職難易度](/media/job-it-consultant-tenshoku-nanido)もあわせてご覧ください。
+職種としての難易度は[ITコンサルタントの転職難易度](/media/job-it-consultant-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

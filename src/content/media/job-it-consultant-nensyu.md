@@ -163,7 +163,7 @@ job tagの区分では平均年齢が **38.3歳** とされています。経営
 
 6つ目も確認する価値があります。客先常駐の案件では、通勤と生活の制約が生じます。手当の有無も会社によって違います。
 
-近い職種の水準は[ITアーキテクトの年収相場](/media/job-it-architect-nensyu)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu)、[プロジェクトマネージャーの年収相場](/media/job-project-manager-nensyu)もあわせてご覧ください。
+近い職種の水準は[ITアーキテクトの年収相場](/media/job-it-architect-nensyu/)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu/)、[プロジェクトマネージャーの年収相場](/media/job-project-manager-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -99,7 +99,7 @@ LP（有限責任組合員）から出資を募り、ファンドを組成しま
 
 **PEファンドへ移る**
 
-投資対象が成熟企業になります。評価の手法も支援の内容も変わりますが、投資プロセスの経験は接続します。[PEファンド投資担当のキャリアパス](/media/job-pe-investment-career-path)をご覧ください。
+投資対象が成熟企業になります。評価の手法も支援の内容も変わりますが、投資プロセスの経験は接続します。[PEファンド投資担当のキャリアパス](/media/job-pe-investment-career-path/)をご覧ください。
 
 **起業する**
 
@@ -149,7 +149,7 @@ LPとの接点を意識的に作ります。年金基金、事業会社、金融
 | 大学系・地域系 | 技術や地域との関係が資産になる |
 | 海外VCの日本拠点 | 本体の基準で評価される。グローバルな異動もある |
 
-各ファンドの実像は[グロービス・キャピタル・パートナーズの評判](/media/company-guroobisu-kyapitaru-paatonaazu-reputation)、[インキュベイトファンドの評判](/media/company-inkyubeitofando-reputation)、[みずほキャピタルの評判](/media/company-mizuhokyapitaru-reputation)、[SBIインベストメントの評判](/media/company-sbiinbesutomento-reputation)などをご覧ください。職種としての整理は[ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path)で扱っています。
+各ファンドの実像は[グロービス・キャピタル・パートナーズの評判](/media/company-guroobisu-kyapitaru-paatonaazu-reputation/)、[インキュベイトファンドの評判](/media/company-inkyubeitofando-reputation/)、[みずほキャピタルの評判](/media/company-mizuhokyapitaru-reputation/)、[SBIインベストメントの評判](/media/company-sbiinbesutomento-reputation/)などをご覧ください。職種としての整理は[ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

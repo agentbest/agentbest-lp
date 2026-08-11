@@ -117,7 +117,7 @@ SIerでの実務経験がない場合でも、接続する経路はあります�
 
 30代後半以降では、マネジメントの経験が問われる場面が増えます。プロジェクトマネージャ（IT）区分の平均年収が889万円と、システムエンジニア（受託開発）の578.5万円を上回ることからも、管理の範囲が評価に直結する構造が読み取れます。
 
-報酬の構造については[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu)、選考の流れは[ユーザー系SIerの選考フロー・面接対策](/media/industry-user-kei-sier-senkou-flow)で整理しています。
+報酬の構造については[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu/)、選考の流れは[ユーザー系SIerの選考フロー・面接対策](/media/industry-user-kei-sier-senkou-flow/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

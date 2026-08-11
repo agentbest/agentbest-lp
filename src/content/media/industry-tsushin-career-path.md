@@ -160,7 +160,7 @@ job tagの「電気通信技術者」の区分では、学歴の分布に幅が�
 
 止められない設備を扱います。障害時の対応、計画的な更改、容量の設計。**失敗が社会に波及する**領域です。
 
-**関連する領域** — [ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path)、[フィールドセールスのキャリアパス](/media/job-field-sales-career-path)もあわせてご覧ください。
+**関連する領域** — [ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path/)、[フィールドセールスのキャリアパス](/media/job-field-sales-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

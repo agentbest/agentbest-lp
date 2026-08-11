@@ -114,14 +114,14 @@ sources:
 
 各社の詳細は個別記事で扱っています。
 
-- [マッキンゼー・アンド・カンパニーの評判](/media/company-mckinsey-reputation)
-- [ボストン コンサルティング グループの評判](/media/company-boston-consulting-group-reputation)
-- [ベイン・アンド・カンパニーの評判](/media/company-bain-and-company-reputation)
-- [A.T. カーニーの評判](/media/company-at-kearney-reputation)
-- [ローランド・ベルガーの評判](/media/company-roland-berger-reputation)
-- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation)
-- [ドリームインキュベータの評判](/media/company-dream-incubator-reputation)
-- [経営共創基盤（IGPI）の評判](/media/company-igpi-reputation)
+- [マッキンゼー・アンド・カンパニーの評判](/media/company-mckinsey-reputation/)
+- [ボストン コンサルティング グループの評判](/media/company-boston-consulting-group-reputation/)
+- [ベイン・アンド・カンパニーの評判](/media/company-bain-and-company-reputation/)
+- [A.T. カーニーの評判](/media/company-at-kearney-reputation/)
+- [ローランド・ベルガーの評判](/media/company-roland-berger-reputation/)
+- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation/)
+- [ドリームインキュベータの評判](/media/company-dream-incubator-reputation/)
+- [経営共創基盤（IGPI）の評判](/media/company-igpi-reputation/)
 
 なお、平均年収や従業員数といった数値は、上場企業であれば有価証券報告書、非上場の外資系ファームであれば公式採用サイトの記載が唯一の確認手段です。転職メディアの推定値は出典が辿れないものが多く、鵜呑みにする対象ではありません。
 

@@ -174,9 +174,9 @@ job tag では、この職業に特定の資格は必須ではないとされて
 
 2つ目と3つ目は、この職種の選考で重視されます。気づくのが遅れた案件があれば、それも含めて話すほうが誠実に映ります。
 
-**参考になる書き方** — [プロジェクトマネージャー（PM）の志望動機](/media/project-manager-motivation)、[プロジェクトマネージャーの職務経歴書](/media/project-manager-resume)、[PMOの志望動機](/media/pmo-motivation)、[スクラムマスターの志望動機の書き方](/media/job-scrum-master-shibou-douki)をご覧ください。
+**参考になる書き方** — [プロジェクトマネージャー（PM）の志望動機](/media/project-manager-motivation/)、[プロジェクトマネージャーの職務経歴書](/media/project-manager-resume/)、[PMOの志望動機](/media/pmo-motivation/)、[スクラムマスターの志望動機の書き方](/media/job-scrum-master-shibou-douki/)をご覧ください。
 
-選考の流れと条件面は、[プロジェクトマネージャー（PjM）の選考フロー・面接対策](/media/job-project-manager-senkou-flow)、[プロジェクトマネージャー（PjM）の年収相場](/media/job-project-manager-nensyu)をご確認ください。
+選考の流れと条件面は、[プロジェクトマネージャー（PjM）の選考フロー・面接対策](/media/job-project-manager-senkou-flow/)、[プロジェクトマネージャー（PjM）の年収相場](/media/job-project-manager-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

@@ -173,13 +173,13 @@ job tag に掲載されている時間当たり賃金は5,497円です。これ�
 
 ## 近い職種との比較
 
-- [M&Aアドバイザーの年収](/media/ma-advisor-salary)、[M&Aアドバイザーで年収1000万円を目指すには](/media/ma-advisor-salary-1000)
-- [PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu) — 投資側の報酬構造
-- [ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu)
-- [会計・財務コンサルタントの年収](/media/fas-consultant-salary)
-- [戦略コンサルタントの年収](/media/strategy-consultant-salary)
+- [M&Aアドバイザーの年収](/media/ma-advisor-salary/)、[M&Aアドバイザーで年収1000万円を目指すには](/media/ma-advisor-salary-1000/)
+- [PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu/) — 投資側の報酬構造
+- [ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu/)
+- [会計・財務コンサルタントの年収](/media/fas-consultant-salary/)
+- [戦略コンサルタントの年収](/media/strategy-consultant-salary/)
 
-キャリアの進み方と選考は、[投資銀行アナリストのキャリアパス](/media/job-ibd-analyst-career-path)、[投資銀行アナリストの選考フロー・面接対策](/media/job-ibd-analyst-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[投資銀行アナリストのキャリアパス](/media/job-ibd-analyst-career-path/)、[投資銀行アナリストの選考フロー・面接対策](/media/job-ibd-analyst-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -153,9 +153,9 @@ FAと仲介の違いは、立ち位置にあります。
 
 **FAS（会計系）** — バリュエーションやDDとの連続性があります。会計の専門性を前に出します。
 
-**中小企業向けのFA** — 事業承継案件も扱います。経営者との対話の経験が効きます。[M&A仲介営業の志望動機の書き方](/media/job-ma-chukai-eigyo-shibou-douki)も比較材料になります。
+**中小企業向けのFA** — 事業承継案件も扱います。経営者との対話の経験が効きます。[M&A仲介営業の志望動機の書き方](/media/job-ma-chukai-eigyo-shibou-douki/)も比較材料になります。
 
-書き方の型は[M&Aアドバイザーの志望動機](/media/ma-advisor-motivation)、[M&Aアドバイザーの職務経歴書](/media/ma-advisor-resume)、[FASアナリストの志望動機の書き方](/media/job-fas-analyst-shibou-douki)もあわせてご覧ください。
+書き方の型は[M&Aアドバイザーの志望動機](/media/ma-advisor-motivation/)、[M&Aアドバイザーの職務経歴書](/media/ma-advisor-resume/)、[FASアナリストの志望動機の書き方](/media/job-fas-analyst-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

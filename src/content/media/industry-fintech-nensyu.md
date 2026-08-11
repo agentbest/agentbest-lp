@@ -121,7 +121,7 @@ GMOペイメントゲートウェイは平均勤続年数6.3年、平均年齢37
 
 昇給の頻度と等級の運用も確認したい点です。等級ごとのレンジ幅と、次の等級に上がる要件が明文化されているかどうかで、数年後の見通しが変わります。
 
-業界全体の年収の考え方は[フィンテック業界の年収相場](/media/fintech-industry-salary)でも整理しています。職種側から見た水準は[AIエンジニアの年収](/media/ai-engineer-salary)なども参考になります。
+業界全体の年収の考え方は[フィンテック業界の年収相場](/media/fintech-industry-salary/)でも整理しています。職種側から見た水準は[AIエンジニアの年収](/media/ai-engineer-salary/)なども参考になります。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

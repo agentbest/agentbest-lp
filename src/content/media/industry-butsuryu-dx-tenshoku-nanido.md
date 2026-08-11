@@ -143,7 +143,7 @@ sources:
 
 4つ目は、この領域の性格を理解しているかを示す材料になります。物流が現場の課題から経営の議題に移ったという構造を、一文で語れると差がつきます。
 
-近い領域は[物流テック業界のガイド](/media/logitech-industry-guide)、[物流テック業界の企業](/media/logitech-industry-company)、[建設・不動産DXの転職難易度](/media/industry-kensetsu-dx-tenshoku-nanido)もあわせてご覧ください。
+近い領域は[物流テック業界のガイド](/media/logitech-industry-guide/)、[物流テック業界の企業](/media/logitech-industry-company/)、[建設・不動産DXの転職難易度](/media/industry-kensetsu-dx-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

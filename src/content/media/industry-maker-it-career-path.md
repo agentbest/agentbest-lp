@@ -133,7 +133,7 @@ job tagの「生産・品質管理技術者」の区分では、**クオリテ�
 
 技術の選択に加えて、契約と管理の設計です。誰がアクセスできるか、どこに保存するか、どう記録を残すか。
 
-**隣接領域** — [ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path)、[建設・不動産DXのキャリアパス](/media/industry-kensetsu-dx-career-path)もあわせてご覧ください。
+**隣接領域** — [ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path/)、[建設・不動産DXのキャリアパス](/media/industry-kensetsu-dx-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

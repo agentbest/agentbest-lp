@@ -197,7 +197,7 @@ job tagの「システムエンジニア（組込み、IoT）」の区分は、�
 
 6つ目は、多様性の指標が省略されているためです。**数値がない以上、面接で聞くのが唯一の確認手段**になります。
 
-近い規模の会社は[noteの評判・年収・選考対策](/media/company-note-reputation)、年収の構造は[SaaSスタートアップの年収相場](/media/industry-saas-startup-nensyu)もあわせてご覧ください。
+近い規模の会社は[noteの評判・年収・選考対策](/media/company-note-reputation/)、年収の構造は[SaaSスタートアップの年収相場](/media/industry-saas-startup-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

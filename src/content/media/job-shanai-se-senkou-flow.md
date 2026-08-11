@@ -148,9 +148,9 @@ sources:
 
 **刷新プロジェクトのための募集** — 要件定義とベンダー折衝の経験が中心に見られます。期限のあるプロジェクトを完遂した実績が効きます。
 
-隣接職種の選考も参考になります。[社内SEの面接対策](/media/corporate-it-interview)、[インフラエンジニアの面接対策](/media/infra-engineer-interview)、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow)、[ITコンサルタントの面接対策](/media/it-consultant-interview)をご覧ください。
+隣接職種の選考も参考になります。[社内SEの面接対策](/media/corporate-it-interview/)、[インフラエンジニアの面接対策](/media/infra-engineer-interview/)、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow/)、[ITコンサルタントの面接対策](/media/it-consultant-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[社内SEの志望動機の書き方](/media/job-shanai-se-shibou-douki)、[社内SEの年収相場](/media/job-shanai-se-nensyu)、[社内SEの転職難易度](/media/job-shanai-se-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[社内SEの志望動機の書き方](/media/job-shanai-se-shibou-douki/)、[社内SEの年収相場](/media/job-shanai-se-nensyu/)、[社内SEの転職難易度](/media/job-shanai-se-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

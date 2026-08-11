@@ -132,12 +132,12 @@ VCの労働時間は、案件の状況に左右されます。デューデリジ
 
 ## 隣接する領域と並べて見る
 
-- **PEファンド投資担当** — 投資対象が成熟企業で、報酬の確定時期が異なります。[PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu)をご覧ください
-- **M&Aアドバイザー** — 成功報酬が案件ごとに確定します。[M&Aアドバイザーの年収相場](/media/job-ma-advisor-nensyu)で扱っています
-- **投資銀行アナリスト** — 賞与の比重が高い構造です。[投資銀行アナリストの年収相場](/media/job-ibd-analyst-nensyu)をご覧ください
-- **M&A仲介営業** — 成約連動の比重が最も大きい領域です。[M&A仲介営業の年収相場](/media/job-ma-chukai-eigyo-nensyu)で扱っています
+- **PEファンド投資担当** — 投資対象が成熟企業で、報酬の確定時期が異なります。[PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu/)をご覧ください
+- **M&Aアドバイザー** — 成功報酬が案件ごとに確定します。[M&Aアドバイザーの年収相場](/media/job-ma-advisor-nensyu/)で扱っています
+- **投資銀行アナリスト** — 賞与の比重が高い構造です。[投資銀行アナリストの年収相場](/media/job-ibd-analyst-nensyu/)をご覧ください
+- **M&A仲介営業** — 成約連動の比重が最も大きい領域です。[M&A仲介営業の年収相場](/media/job-ma-chukai-eigyo-nensyu/)で扱っています
 
-職種としての年収は[ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu)、各ファンドの実像は[グロービス・キャピタル・パートナーズの評判](/media/company-guroobisu-kyapitaru-paatonaazu-reputation)や[みずほキャピタルの評判](/media/company-mizuhokyapitaru-reputation)をご覧ください。
+職種としての年収は[ベンチャーキャピタリストの年収相場](/media/job-vc-capitalist-nensyu/)、各ファンドの実像は[グロービス・キャピタル・パートナーズの評判](/media/company-guroobisu-kyapitaru-paatonaazu-reputation/)や[みずほキャピタルの評判](/media/company-mizuhokyapitaru-reputation/)をご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -174,7 +174,7 @@ job tagの「ITコンサルタント」の区分で示されている必要な�
 
 **事業会社の社内コンサル・DX部門** — 当事者として決める立場です。社内を動かした経験を書きます。
 
-近い職種の書き方は[ITアーキテクトの志望動機の書き方](/media/job-it-architect-shibou-douki)、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki)、[プロジェクトマネージャーの志望動機の書き方](/media/job-project-manager-shibou-douki)もあわせてご覧ください。
+近い職種の書き方は[ITアーキテクトの志望動機の書き方](/media/job-it-architect-shibou-douki/)、[DX推進担当の志望動機の書き方](/media/job-dx-suishin-shibou-douki/)、[プロジェクトマネージャーの志望動機の書き方](/media/job-project-manager-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

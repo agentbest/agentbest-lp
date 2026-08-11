@@ -103,7 +103,7 @@ sources:
 
 技術更新の機会。長く稼働するシステムを扱う以上、新しい技術に触れる機会は意識的に作る必要があります。研修制度や社内公募の有無を確認しておくと、数年後の選択肢が変わります。
 
-選考の流れは[ユーザー系SIerの選考フロー・面接対策](/media/industry-user-kei-sier-senkou-flow)、報酬の構造は[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu)で整理しています。
+選考の流れは[ユーザー系SIerの選考フロー・面接対策](/media/industry-user-kei-sier-senkou-flow/)、報酬の構造は[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

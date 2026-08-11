@@ -75,7 +75,7 @@ const description = `${name}の転職・キャリアに関する記事一覧で�
 <Layout title={title} description={description}>
   <Header />
   <section class="hub">
-    <p class="breadcrumb"><a href="/media">キャリアメディア</a> / {category === '職種' ? '職種別' : category === '企業' ? '企業別' : category === '領域' ? '領域別' : '業界別'}</p>
+    <p class="breadcrumb"><a href="/media/">キャリアメディア</a> / {category === '職種' ? '職種別' : category === '企業' ? '企業別' : category === '領域' ? '領域別' : '業界別'}</p>
     <h1>{name}の転職情報</h1>
     <p class="hub-lead">
       {name}に関する転職・キャリア記事の一覧です。検討フェーズに応じてご活用ください。
@@ -85,7 +85,7 @@ const description = `${name}の転職・キャリアに関する記事一覧で�
     <ul class="hub-list">
       {sorted.map((p) => (
         <li>
-          <a href={`/media/${p.slug}`}>{p.data.title}</a>
+          <a href={`/media/${p.slug}/`}>{p.data.title}</a>
           <span class="theme-tag">{p.data.theme}</span>
         </li>
       ))}

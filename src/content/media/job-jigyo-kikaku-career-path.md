@@ -61,7 +61,7 @@ job tag では、この職業に必要なスキルとして文章力が最上位
 
 **既存事業改善型** は数字が動きやすい代わりに、他部署の協力なしには成立しません。折衝の比重が高くなります。
 
-**予実管理型** は経営企画に近く、精度と期日の管理が中心になります。[経営企画のキャリアパス](/media/corporate-planning-career-path)が参考になります。
+**予実管理型** は経営企画に近く、精度と期日の管理が中心になります。[経営企画のキャリアパス](/media/corporate-planning-career-path/)が参考になります。
 
 **提携型** は社外との交渉が入るため、契約の理解が必要になります。
 
@@ -104,7 +104,7 @@ job tag では、この職業に必要なスキルとして文章力が最上位
 
 この道では、数字を整える力と、制度として定着させる力が問われます。1回きりの改善ではなく、担当者が変わっても回る状態を作れるかどうかです。
 
-近い領域として、[経営企画に求められるスキル](/media/corporate-planning-skills)、[財務・経理のキャリアパス](/media/finance-career-path)が参考になります。
+近い領域として、[経営企画に求められるスキル](/media/corporate-planning-skills/)、[財務・経理のキャリアパス](/media/finance-career-path/)が参考になります。
 
 ## 事業責任者・経営側に進む道
 
@@ -112,7 +112,7 @@ job tag では、この職業に必要なスキルとして文章力が最上位
 
 この道に進む場合、企画の経験だけでは足りません。人を採用し、評価し、時に手放す経験が求められます。組織に関する意思決定は、事業企画の職務範囲に入っていないことが多いため、意識して機会を取りにいく必要があります。
 
-行き先としては、事業部門の責任者、新規事業の責任者、そして経営幹部があります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path)で、その先の実態を整理しています。
+行き先としては、事業部門の責任者、新規事業の責任者、そして経営幹部があります。[CxO候補・経営幹部のキャリアパス](/media/job-cxo-kouho-career-path/)で、その先の実態を整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -131,17 +131,17 @@ job tag では、この職業に必要なスキルとして文章力が最上位
 
 この2つを合わせると、構造が見えてきます。**企画の仕事に就いている人は多いが、外部から募集される機会は少ない。** つまり、社内で異動して就くことが多いポジションだということです。
 
-転職でこの職種を目指す場合、この構造を前提に考える必要があります。詳しくは[事業企画の転職難易度](/media/job-jigyo-kikaku-tenshoku-nanido)で整理しています。
+転職でこの職種を目指す場合、この構造を前提に考える必要があります。詳しくは[事業企画の転職難易度](/media/job-jigyo-kikaku-tenshoku-nanido/)で整理しています。
 
 ## 隣接職種との行き来
 
-- **経営に近い側へ** — [経営企画のキャリアパス](/media/corporate-planning-career-path)、[経営企画の転職市場動向](/media/corporate-planning-market-trend)
-- **事業を作る側へ** — [事業開発（BizDev）のキャリアパス](/media/bizdev-career-path)、[事業開発に求められるスキル](/media/bizdev-skills)
-- **製品側へ** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path)
-- **数字を扱う側へ** — [財務・経理のキャリアパス](/media/finance-career-path)、[データアナリストのキャリアパス](/media/data-analyst-career-path)
-- **同職種の一般的な情報** — [事業企画のキャリアパス](/media/business-planning-career-path)、[事業企画に求められるスキル](/media/business-planning-skills)
+- **経営に近い側へ** — [経営企画のキャリアパス](/media/corporate-planning-career-path/)、[経営企画の転職市場動向](/media/corporate-planning-market-trend/)
+- **事業を作る側へ** — [事業開発（BizDev）のキャリアパス](/media/bizdev-career-path/)、[事業開発に求められるスキル](/media/bizdev-skills/)
+- **製品側へ** — [プロダクトマネージャー（PdM）のキャリアパス](/media/product-manager-career-path/)
+- **数字を扱う側へ** — [財務・経理のキャリアパス](/media/finance-career-path/)、[データアナリストのキャリアパス](/media/data-analyst-career-path/)
+- **同職種の一般的な情報** — [事業企画のキャリアパス](/media/business-planning-career-path/)、[事業企画に求められるスキル](/media/business-planning-skills/)
 
-年収と選考は、[事業企画の年収相場](/media/job-jigyo-kikaku-nensyu)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow)をご確認ください。
+年収と選考は、[事業企画の年収相場](/media/job-jigyo-kikaku-nensyu/)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

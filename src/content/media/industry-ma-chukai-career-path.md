@@ -76,7 +76,7 @@ M&A仲介のキャリアを設計するとき、最初に置いておくべき�
 
 **選択肢1：FAや投資銀行に移る。**
 
-間に立つ立場から、一方の側に立つ立場に移る道です。財務の精査や企業価値評価の比重が上がるため、実務の型が変わります。詳しくは[FASのキャリアパス](/media/industry-fas-career-path)をご覧ください。
+間に立つ立場から、一方の側に立つ立場に移る道です。財務の精査や企業価値評価の比重が上がるため、実務の型が変わります。詳しくは[FASのキャリアパス](/media/industry-fas-career-path/)をご覧ください。
 
 **選択肢2：事業会社や投資側に移る。**
 
@@ -96,7 +96,7 @@ M&A仲介のキャリアを設計するとき、最初に置いておくべき�
 | 士業系・コンサル併営 | 専門領域と掛け合わせる | M&A案件の量 |
 | プラットフォーム型 | 仕組み側の職種へ移る | 個別案件の経験が薄い |
 
-各社の状況は[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation)、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation)、[ストライクの評判](/media/company-sutoraiku-reputation)、[オンデックの評判](/media/company-ondekku-reputation)、[fundbookの評判](/media/company-fundbook-reputation)、[バトンズの評判](/media/company-batonz-reputation)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation)、[インテグループの評判](/media/company-integuruupu-reputation)をご覧ください。
+各社の状況は[日本M&Aセンターの評判](/media/company-nipponmandasentaa-reputation/)、[M&Aキャピタルパートナーズの評判](/media/company-mandakyapitarupaatonaazu-reputation/)、[ストライクの評判](/media/company-sutoraiku-reputation/)、[オンデックの評判](/media/company-ondekku-reputation/)、[fundbookの評判](/media/company-fundbook-reputation/)、[バトンズの評判](/media/company-batonz-reputation/)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/)、[インテグループの評判](/media/company-integuruupu-reputation/)をご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>
@@ -132,7 +132,7 @@ M&A仲介では資格が必須とされることは多くありません。た�
 
 未経験入社の場合、最初の1年は活動の型を作る期間になります。2年目から3年目にかけて成約の経験を積み、そこから分岐が始まるという流れが一般的です。
 
-前掲の平均勤続年数を踏まえると、多くの人がこの分岐の前後で次の判断をしていることになります。入社時点で5年後の姿を決める必要はありませんが、3年目に判断が来ることは想定しておくとよいでしょう。年収の構造は[年収相場](/media/industry-ma-chukai-nensyu)、入口の難易度は[転職難易度](/media/industry-ma-chukai-tenshoku-nanido)で扱っています。
+前掲の平均勤続年数を踏まえると、多くの人がこの分岐の前後で次の判断をしていることになります。入社時点で5年後の姿を決める必要はありませんが、3年目に判断が来ることは想定しておくとよいでしょう。年収の構造は[年収相場](/media/industry-ma-chukai-nensyu/)、入口の難易度は[転職難易度](/media/industry-ma-chukai-tenshoku-nanido/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

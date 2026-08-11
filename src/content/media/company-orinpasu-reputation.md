@@ -186,7 +186,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-orinpasu-reputation">年収の実態を聞いてみる</a>
 </aside>
 
-同じく研究開発型メーカーとの比較には、[ニコンの評判](/media/company-nikon-reputation)、[コニカミノルタの評判](/media/company-konikaminoruta-reputation)、[HORIBAの評判](/media/company-horiba-reputation)、[京セラの評判](/media/company-kyousera-reputation)、[村田製作所の評判](/media/company-murataseisakusho-reputation)、[小林製薬の評判](/media/company-kobayashiseiyaku-reputation)もご覧ください。
+同じく研究開発型メーカーとの比較には、[ニコンの評判](/media/company-nikon-reputation/)、[コニカミノルタの評判](/media/company-konikaminoruta-reputation/)、[HORIBAの評判](/media/company-horiba-reputation/)、[京セラの評判](/media/company-kyousera-reputation/)、[村田製作所の評判](/media/company-murataseisakusho-reputation/)、[小林製薬の評判](/media/company-kobayashiseiyaku-reputation/)もご覧ください。
 
 ## まとめ
 

@@ -163,9 +163,9 @@ job tag では、証券アナリストに必要なスキルとして **傾聴力
 
 3つ目は、この職種の現実を理解しているかを確かめる質問です。間に合わせますという答えだけでは足りません。何を削り、誰に相談し、どう報告するかまで話せると、実務を分かっていると伝わります。
 
-**参考になる書き方** — [M&Aアドバイザーの志望動機](/media/ma-advisor-motivation)、[会計・財務コンサルタントの職務経歴書](/media/fas-consultant-resume)、[PEファンド投資担当の志望動機の書き方](/media/job-pe-investment-shibou-douki)をご覧ください。
+**参考になる書き方** — [M&Aアドバイザーの志望動機](/media/ma-advisor-motivation/)、[会計・財務コンサルタントの職務経歴書](/media/fas-consultant-resume/)、[PEファンド投資担当の志望動機の書き方](/media/job-pe-investment-shibou-douki/)をご覧ください。
 
-選考の流れと条件面は、[投資銀行アナリストの選考フロー・面接対策](/media/job-ibd-analyst-senkou-flow)、[投資銀行アナリストの年収相場](/media/job-ibd-analyst-nensyu)をご確認ください。
+選考の流れと条件面は、[投資銀行アナリストの選考フロー・面接対策](/media/job-ibd-analyst-senkou-flow/)、[投資銀行アナリストの年収相場](/media/job-ibd-analyst-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -158,13 +158,13 @@ sources:
 
 ## 近い職種の水準
 
-- [M&Aアドバイザーの年収](/media/ma-advisor-salary)、[M&Aアドバイザーで年収1000万円を目指すには](/media/ma-advisor-salary-1000)
-- [会計・財務コンサルタントの年収](/media/fas-consultant-salary)
-- [戦略コンサルタントの年収](/media/strategy-consultant-salary)
-- [CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu) — 株式報酬の読み方
-- [事業開発（BizDev）の年収相場](/media/job-bizdev-nensyu)
+- [M&Aアドバイザーの年収](/media/ma-advisor-salary/)、[M&Aアドバイザーで年収1000万円を目指すには](/media/ma-advisor-salary-1000/)
+- [会計・財務コンサルタントの年収](/media/fas-consultant-salary/)
+- [戦略コンサルタントの年収](/media/strategy-consultant-salary/)
+- [CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/) — 株式報酬の読み方
+- [事業開発（BizDev）の年収相場](/media/job-bizdev-nensyu/)
 
-キャリアの進み方と選考は、[ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path)、[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[ベンチャーキャピタリストのキャリアパス](/media/job-vc-capitalist-career-path/)、[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

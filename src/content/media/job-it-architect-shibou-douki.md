@@ -170,9 +170,9 @@ ITアーキテクトの志望動機で最も多いのが、「上流工程から
 
 2つ目は、この職種の面接で必ずと言ってよいほど問われます。「すべての要件を満たしました」という答えは、かえって不自然に映ります。
 
-**参考になる書き方** — [ITアーキテクトの志望動機](/media/it-architect-motivation)、[ITアーキテクトの職務経歴書](/media/it-architect-resume)、[ソリューションアーキテクトの志望動機](/media/solution-architect-motivation)、[テックリードの志望動機](/media/tech-lead-motivation)をご覧ください。
+**参考になる書き方** — [ITアーキテクトの志望動機](/media/it-architect-motivation/)、[ITアーキテクトの職務経歴書](/media/it-architect-resume/)、[ソリューションアーキテクトの志望動機](/media/solution-architect-motivation/)、[テックリードの志望動機](/media/tech-lead-motivation/)をご覧ください。
 
-選考の流れと条件面は、[ITアーキテクトの選考フロー・面接対策](/media/job-it-architect-senkou-flow)、[ITアーキテクトの年収相場](/media/job-it-architect-nensyu)をご確認ください。
+選考の流れと条件面は、[ITアーキテクトの選考フロー・面接対策](/media/job-it-architect-senkou-flow/)、[ITアーキテクトの年収相場](/media/job-it-architect-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

@@ -135,7 +135,7 @@ sources:
 
 中小企業の支援で身に付くのは、**経営の全体を一度に見る力**です。他の領域では分業されている財務・営業・組織を、まとめて扱います。この経験は次の場所で評価されます。
 
-- **事業会社の経営企画** — 数字と現場の両方を見た経験が接続します。[事業企画の記事](/media/job-jigyo-kikaku-career-path)もあわせてご覧ください
+- **事業会社の経営企画** — 数字と現場の両方を見た経験が接続します。[事業企画の記事](/media/job-jigyo-kikaku-career-path/)もあわせてご覧ください
 - **中堅企業の役員・幹部候補** — 支援先から誘われる形での移籍が起こります
 - **事業承継・M&Aのアドバイザリー** — 承継相談を扱ってきた場合、そのまま接続します
 - **公的支援機関・金融機関の専門職** — 公的業務の比重が高かった場合の進路です
@@ -156,12 +156,12 @@ sources:
 
 在籍中に何を経験できるかで、その後の選択肢が変わります。企業別の記事もあわせてご覧ください。
 
-- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation) — 業種特化の型を身に付ける
-- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation) — 長期の伴走を経験する
-- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation) — 承継・再生の局面に関わる
-- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation) — 成長企業の支援を経験する
-- [インソースの評判](/media/company-insoosu-reputation) — 教育・研修の設計を学ぶ
-- [識学の評判](/media/company-shikigaku-reputation) — 方法論をパッケージにする発想を知る
+- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation/) — 業種特化の型を身に付ける
+- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation/) — 長期の伴走を経験する
+- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/) — 承継・再生の局面に関わる
+- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation/) — 成長企業の支援を経験する
+- [インソースの評判](/media/company-insoosu-reputation/) — 教育・研修の設計を学ぶ
+- [識学の評判](/media/company-shikigaku-reputation/) — 方法論をパッケージにする発想を知る
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

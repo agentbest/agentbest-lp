@@ -125,7 +125,7 @@ sources:
 
 **第三者承継（M&A）**
 
-相手探し、企業価値、条件交渉が中心です。中小企業庁の中小M&Aガイドライン（第3版）が仲介者・FAの行動を定めています。詳しくは[M&A仲介営業の志望動機の書き方](/media/job-ma-chukai-eigyo-shibou-douki)、[M&Aアドバイザーの志望動機の書き方](/media/job-ma-advisor-shibou-douki)もご覧ください。
+相手探し、企業価値、条件交渉が中心です。中小企業庁の中小M&Aガイドライン（第3版）が仲介者・FAの行動を定めています。詳しくは[M&A仲介営業の志望動機の書き方](/media/job-ma-chukai-eigyo-shibou-douki/)、[M&Aアドバイザーの志望動機の書き方](/media/job-ma-advisor-shibou-douki/)もご覧ください。
 
 **書き方の要点**
 

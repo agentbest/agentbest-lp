@@ -89,7 +89,7 @@ sources:
 
 上場準備中の会社では、必要な経験を持つ人が市場に多くないため、条件面で相談しやすい傾向があります。一方、上場を達成した後に役割が変わることがあり、その先の見通しも確認しておく価値があります。
 
-株式報酬が加わる場合は、数量、行使価額、行使できる時期、退職時の取扱いを確認しないと比較ができません。詳しくは[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu)で、株式報酬の読み方を整理しています。
+株式報酬が加わる場合は、数量、行使価額、行使できる時期、退職時の取扱いを確認しないと比較ができません。詳しくは[CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/)で、株式報酬の読み方を整理しています。
 
 <aside class="cta-inline">
   <p>この業界に、自分の経験がどう活きるか整理してみませんか</p>
@@ -140,14 +140,14 @@ sources:
 
 ## 隣接職種との比較
 
-- [経営企画の年収](/media/corporate-planning-salary)、[経営企画で年収1000万円を目指すには](/media/corporate-planning-salary-1000)
-- [事業企画の年収相場](/media/job-jigyo-kikaku-nensyu) — 事業側の水準
-- [財務・経理の年収](/media/finance-salary) — 数字を扱う側の水準
-- [会計・財務コンサルタントの年収](/media/fas-consultant-salary) — 外部から支援する側の水準
-- [戦略コンサルタントの年収](/media/strategy-consultant-salary)
-- [CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu) — 経営層の報酬構造
+- [経営企画の年収](/media/corporate-planning-salary/)、[経営企画で年収1000万円を目指すには](/media/corporate-planning-salary-1000/)
+- [事業企画の年収相場](/media/job-jigyo-kikaku-nensyu/) — 事業側の水準
+- [財務・経理の年収](/media/finance-salary/) — 数字を扱う側の水準
+- [会計・財務コンサルタントの年収](/media/fas-consultant-salary/) — 外部から支援する側の水準
+- [戦略コンサルタントの年収](/media/strategy-consultant-salary/)
+- [CxO候補・経営幹部の年収相場](/media/job-cxo-kouho-nensyu/) — 経営層の報酬構造
 
-キャリアの進み方と選考は、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -145,14 +145,14 @@ job tag に掲載されている月間労働時間は、システムエンジニ
 
 ## 隣接職種との比較
 
-- [セールスエンジニア／プリセールスの年収](/media/presales-salary)、[プリセールスで年収1000万円を目指すには](/media/presales-salary-1000)
-- [ソリューションアーキテクトの年収](/media/solution-architect-salary) — 技術側の上限
-- [ITアーキテクトの年収](/media/it-architect-salary)
-- [エンタープライズセールスの年収](/media/enterprise-sales-salary) — 営業側の水準
-- [フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu)
-- [カスタマーサクセスの年収相場](/media/job-customer-success-nensyu) — 導入後の水準
+- [セールスエンジニア／プリセールスの年収](/media/presales-salary/)、[プリセールスで年収1000万円を目指すには](/media/presales-salary-1000/)
+- [ソリューションアーキテクトの年収](/media/solution-architect-salary/) — 技術側の上限
+- [ITアーキテクトの年収](/media/it-architect-salary/)
+- [エンタープライズセールスの年収](/media/enterprise-sales-salary/) — 営業側の水準
+- [フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu/)
+- [カスタマーサクセスの年収相場](/media/job-customer-success-nensyu/) — 導入後の水準
 
-キャリアの進み方と選考は、[プリセールスのキャリアパス](/media/job-pre-sales-career-path)、[プリセールスの選考フロー・面接対策](/media/job-pre-sales-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[プリセールスのキャリアパス](/media/job-pre-sales-career-path/)、[プリセールスの選考フロー・面接対策](/media/job-pre-sales-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

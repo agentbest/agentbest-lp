@@ -146,12 +146,12 @@ VCの投資は、多くが期待どおりにならない前提で組み立てら
 
 VCを検討する方は、隣接する領域も並行して受けることが多くなります。
 
-- **PEファンド** — 投資対象が成熟企業になります。[PEファンド投資担当の志望動機の書き方](/media/job-pe-investment-shibou-douki)をご覧ください
-- **M&Aアドバイザー** — 資本を出す側ではなく助言する側です。[M&Aアドバイザーの志望動機の書き方](/media/job-ma-advisor-shibou-douki)で扱っています
+- **PEファンド** — 投資対象が成熟企業になります。[PEファンド投資担当の志望動機の書き方](/media/job-pe-investment-shibou-douki/)をご覧ください
+- **M&Aアドバイザー** — 資本を出す側ではなく助言する側です。[M&Aアドバイザーの志望動機の書き方](/media/job-ma-advisor-shibou-douki/)で扱っています
 - **事業会社の経営企画・新規事業** — 当事者として事業を作ります
 - **スタートアップの事業開発** — 支援される側に回る選択肢です
 
-各ファンドの実像は[グロービス・キャピタル・パートナーズの評判](/media/company-guroobisu-kyapitaru-paatonaazu-reputation)、[ジェネシア・ベンチャーズの評判](/media/company-jieneshia-benchaazu-reputation)、[グローバル・ブレインの評判](/media/company-guroobaru-burein-reputation)などをご覧ください。
+各ファンドの実像は[グロービス・キャピタル・パートナーズの評判](/media/company-guroobisu-kyapitaru-paatonaazu-reputation/)、[ジェネシア・ベンチャーズの評判](/media/company-jieneshia-benchaazu-reputation/)、[グローバル・ブレインの評判](/media/company-guroobaru-burein-reputation/)などをご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -173,9 +173,9 @@ job tagの区分では、経理事務が月 **159時間**、ITコンサルタン
 
 3つ目と4つ目が、実務出身者にとって最も重要です。評価の仕組みができているかどうかが、数年後の差になります。
 
-6つ目は、単価に効く立ち位置に関わります。詳しくは[業務改革コンサルタントのキャリアパス](/media/job-gyomu-consultant-career-path)で整理しています。
+6つ目は、単価に効く立ち位置に関わります。詳しくは[業務改革コンサルタントのキャリアパス](/media/job-gyomu-consultant-career-path/)で整理しています。
 
-近い職種の水準は[ITコンサルタントの年収相場](/media/job-it-consultant-nensyu)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu)もあわせてご覧ください。
+近い職種の水準は[ITコンサルタントの年収相場](/media/job-it-consultant-nensyu/)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu/)、[DX推進担当の年収相場](/media/job-dx-suishin-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

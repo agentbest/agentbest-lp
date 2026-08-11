@@ -144,7 +144,7 @@ sources:
 
 **事業会社のサステナビリティ部門** — 社内を動かす立場です。部門横断の調整経験が中心に見られます。
 
-近い職種の選考は[事業再生コンサルタントの選考フロー・面接対策](/media/job-saisei-consultant-senkou-flow)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow)、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow)もあわせてご覧ください。
+近い職種の選考は[事業再生コンサルタントの選考フロー・面接対策](/media/job-saisei-consultant-senkou-flow/)、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow/)、[DX推進担当の選考フロー・面接対策](/media/job-dx-suishin-senkou-flow/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -164,7 +164,7 @@ sources:
 
 1つ目が、入社後の満足度を最も左右します。多くのファームでは開示支援に寄ります。制度対応に予算がつくためです。削減施策や事業変革に関わりたい場合、その比率が高いファームを選ぶ必要があります。
 
-4つ目と5つ目は、積める経験を左右します。保証は開示基準の適用開始の翌年から義務化されるため、対応の経験は今後さらに評価されます。詳しくは[サステナビリティコンサルタントのキャリアパス](/media/job-sustainability-consultant-career-path)で整理しています。
+4つ目と5つ目は、積める経験を左右します。保証は開示基準の適用開始の翌年から義務化されるため、対応の経験は今後さらに評価されます。詳しくは[サステナビリティコンサルタントのキャリアパス](/media/job-sustainability-consultant-career-path/)で整理しています。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

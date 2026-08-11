@@ -111,7 +111,7 @@ sources:
 
 公的枠組みとの関わり。中小企業活性化協議会が関与する案件を扱うかどうかで、業務の性質が変わります。
 
-選考の流れは[事業再生の選考フロー・面接対策](/media/industry-jigyo-saisei-senkou-flow)、報酬の構造は[事業再生の年収相場](/media/industry-jigyo-saisei-nensyu)で整理しています。
+選考の流れは[事業再生の選考フロー・面接対策](/media/industry-jigyo-saisei-senkou-flow/)、報酬の構造は[事業再生の年収相場](/media/industry-jigyo-saisei-nensyu/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

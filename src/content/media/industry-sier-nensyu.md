@@ -145,7 +145,7 @@ SES・派遣が中心の会社では、報酬の構造が違います。
 
 **現実的な順序** — 2つ目を満たしたうえで1つ目を狙います。決める経験がないまま元請けの会社に移っても、下流の役割に配属されることがあります。
 
-近い水準は[ITコンサルティングファームの年収相場](/media/industry-it-consul-nensyu)、[金融ITの年収相場](/media/industry-kinyu-it-nensyu)もあわせてご覧ください。
+近い水準は[ITコンサルティングファームの年収相場](/media/industry-it-consul-nensyu/)、[金融ITの年収相場](/media/industry-kinyu-it-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -152,12 +152,12 @@ sources:
 
 上場している会社であれば、有価証券報告書の平均年間給与が第一の手がかりになります。企業別の記事もあわせてご覧ください。
 
-- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation)
-- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation)
-- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation)
-- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation)
-- [インソースの評判](/media/company-insoosu-reputation)
-- [識学の評判](/media/company-shikigaku-reputation)
+- [船井総研ホールディングスの評判](/media/company-funaisoukenhoorudingusu-reputation/)
+- [タナベコンサルティンググループの評判](/media/company-tanabekonsaruteinguguruupu-reputation/)
+- [山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/)
+- [リブ・コンサルティングの評判](/media/company-ribu-konsaruteingu-reputation/)
+- [インソースの評判](/media/company-insoosu-reputation/)
+- [識学の評判](/media/company-shikigaku-reputation/)
 
 平均年間給与は全社員の平均であり、職種や等級の構成に左右されます。**同じ会社でも、支援職と管理部門では水準が異なります。** 数字を見たうえで、面接でポジション別のレンジを確認するのが現実的です。
 

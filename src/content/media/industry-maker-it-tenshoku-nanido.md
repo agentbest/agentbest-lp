@@ -146,7 +146,7 @@ job tagの「生産・品質管理技術者」の区分では、必要スキル�
 
 **他業界の現場DXから**
 
-決裁者と入力者が違うという構造は共通します。補うのは、製造業固有の情報管理です。詳しくは[建設・不動産DXの転職難易度](/media/industry-kensetsu-dx-tenshoku-nanido)もご覧ください。
+決裁者と入力者が違うという構造は共通します。補うのは、製造業固有の情報管理です。詳しくは[建設・不動産DXの転職難易度](/media/industry-kensetsu-dx-tenshoku-nanido/)もご覧ください。
 
 ## 通らない応募に共通していること
 
@@ -170,7 +170,7 @@ job tagの「生産・品質管理技術者」の区分では、必要スキル�
 
 6つ目は見落とされやすい部分です。**組立産業と装置産業では、DXの課題がまったく違います。** 前者は工程の連携、後者は連続運転の最適化が中心になります。
 
-近い領域は[ITコンサルティングファームの転職難易度](/media/industry-it-consul-tenshoku-nanido)もあわせてご覧ください。
+近い領域は[ITコンサルティングファームの転職難易度](/media/industry-it-consul-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

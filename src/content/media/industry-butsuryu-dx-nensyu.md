@@ -155,7 +155,7 @@ job tagのトラックドライバーの区分では、平均年齢が **51.5歳
 
 5つ目も確認する価値があります。倉庫や物流拠点は郊外に立地することが多く、移動の時間と費用が生活に影響します。
 
-近い領域の水準は[物流テック業界の年収](/media/logitech-industry-salary)、[建設・不動産DXの年収相場](/media/industry-kensetsu-dx-nensyu)もあわせてご覧ください。
+近い領域の水準は[物流テック業界の年収](/media/logitech-industry-salary/)、[建設・不動産DXの年収相場](/media/industry-kensetsu-dx-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

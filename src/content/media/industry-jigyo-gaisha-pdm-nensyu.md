@@ -115,7 +115,7 @@ IPAの「DX動向2025」では、DXを推進する人材の獲得・確保の課
 | SaaS・スタートアップ | 現金以外の報酬が入る | 株式報酬の条件 |
 | 外資テック日本法人 | 本社の等級に紐づく | 評価サイクル |
 
-上場企業であれば、有価証券報告書の「従業員の状況」に平均年間給与・平均年齢・平均勤続年数が記載されています。持株会社やIT子会社では提出会社の数値が実態と離れることがあるため、どの法人の数値かを確かめてから読む必要があります。企業ごとの状況は[LINEヤフーの評判](/media/company-lineyafuu-reputation)、[カカクコムの評判](/media/company-kakakukomu-reputation)、[楽天グループの評判](/media/company-rakutenguruupu-reputation)、[クレディセゾンの評判](/media/company-kuredisezon-reputation)、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation)、[明治安田システム・テクノロジーの評判](/media/company-meijiyasudashisutemu-tekunorojii-reputation)、[ラクスルの評判](/media/company-rakusuru-reputation)などをご覧ください。
+上場企業であれば、有価証券報告書の「従業員の状況」に平均年間給与・平均年齢・平均勤続年数が記載されています。持株会社やIT子会社では提出会社の数値が実態と離れることがあるため、どの法人の数値かを確かめてから読む必要があります。企業ごとの状況は[LINEヤフーの評判](/media/company-lineyafuu-reputation/)、[カカクコムの評判](/media/company-kakakukomu-reputation/)、[楽天グループの評判](/media/company-rakutenguruupu-reputation/)、[クレディセゾンの評判](/media/company-kuredisezon-reputation/)、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation/)、[明治安田システム・テクノロジーの評判](/media/company-meijiyasudashisutemu-tekunorojii-reputation/)、[ラクスルの評判](/media/company-rakusuru-reputation/)などをご覧ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -132,7 +132,7 @@ IPAの「DX動向2025」では、DXを推進する人材の獲得・確保の課
 
 事業部門やカスタマーサポートからプロダクト側に移る場合、初年度は現職と同水準か、やや下がる提示になることがあります。判断の材料は、初年度の金額よりも、2〜3年後にどの等級まで上がり得るかです。
 
-前掲のスキルレベル別データでは、レベル1〜2の下限が420.0万円、レベル3の上限が700.0万円です。この幅の中でどこに置かれ、どの条件で次の段に進むのか。ここを入社前に確認できると、目先の増減に振り回されずに済みます。難易度そのものについては[転職難易度](/media/industry-jigyo-gaisha-pdm-tenshoku-nanido)を、選考の進み方は[選考フロー・面接対策](/media/industry-jigyo-gaisha-pdm-senkou-flow)をご覧ください。
+前掲のスキルレベル別データでは、レベル1〜2の下限が420.0万円、レベル3の上限が700.0万円です。この幅の中でどこに置かれ、どの条件で次の段に進むのか。ここを入社前に確認できると、目先の増減に振り回されずに済みます。難易度そのものについては[転職難易度](/media/industry-jigyo-gaisha-pdm-tenshoku-nanido/)を、選考の進み方は[選考フロー・面接対策](/media/industry-jigyo-gaisha-pdm-senkou-flow/)をご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

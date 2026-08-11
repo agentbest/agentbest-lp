@@ -131,13 +131,13 @@ AI導入の効果として「業務が効率化したり迅速化した」は91.
 
 同じDX支援でも、求められる経験の組み合わせが違います。企業別の記事もあわせてご覧ください。
 
-- [Ridgelinezの評判](/media/company-ridgelinez-reputation) — 構想から実装までの一貫した関与
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation) — 事業と技術をつなぐ役割
-- [ベイカレントの評判](/media/company-beikarento-reputation) — 領域を限定しない体制
-- [エル・ティー・エスの評判](/media/company-lts-reputation) — 業務プロセス設計の比重が高い
-- [日立コンサルティングの評判](/media/company-hitachikonsaruteingu-reputation) — 技術基盤を背景にした支援
-- [BIPROGYの評判](/media/company-biprogy-reputation) — 既存システムの刷新を含む支援
-- [スリーシェイクの評判](/media/company-suriishieiku-reputation) — 技術寄りの支援
+- [Ridgelinezの評判](/media/company-ridgelinez-reputation/) — 構想から実装までの一貫した関与
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/) — 事業と技術をつなぐ役割
+- [ベイカレントの評判](/media/company-beikarento-reputation/) — 領域を限定しない体制
+- [エル・ティー・エスの評判](/media/company-lts-reputation/) — 業務プロセス設計の比重が高い
+- [日立コンサルティングの評判](/media/company-hitachikonsaruteingu-reputation/) — 技術基盤を背景にした支援
+- [BIPROGYの評判](/media/company-biprogy-reputation/) — 既存システムの刷新を含む支援
+- [スリーシェイクの評判](/media/company-suriishieiku-reputation/) — 技術寄りの支援
 
 ## 年齢と、入りやすさの関係
 

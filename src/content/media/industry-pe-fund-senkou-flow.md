@@ -133,13 +133,13 @@ PEファンドの投資チームは、数名から数十名という規模が一
 
 投資対象と体制が違えば、見られる点も変わります。企業別の記事もあわせてご覧ください。
 
-- [カーライル・ジャパンの評判](/media/company-kaarairu-japan-reputation) — 大型案件と、グローバルな体制
-- [KKRジャパンの評判](/media/company-kkrjapan-reputation) — 大型・カーブアウト案件の中心
-- [ベインキャピタル・ジャパンの評判](/media/company-beinkyapitaru-japan-reputation) — 経営に深く入る型
-- [インテグラルの評判](/media/company-integuraru-reputation) — 投資先に人を送り込む体制
-- [日本産業パートナーズの評判](/media/company-nihonsangyoupaatonaazu-reputation) — 大企業のカーブアウトに強み
-- [J-STARの評判](/media/company-j-star-reputation) — 中堅・中小企業のバイアウト
-- [クラリスキャピタルの評判](/media/company-kurarisukyapitaru-reputation) — 中小企業の承継を起点にする形
+- [カーライル・ジャパンの評判](/media/company-kaarairu-japan-reputation/) — 大型案件と、グローバルな体制
+- [KKRジャパンの評判](/media/company-kkrjapan-reputation/) — 大型・カーブアウト案件の中心
+- [ベインキャピタル・ジャパンの評判](/media/company-beinkyapitaru-japan-reputation/) — 経営に深く入る型
+- [インテグラルの評判](/media/company-integuraru-reputation/) — 投資先に人を送り込む体制
+- [日本産業パートナーズの評判](/media/company-nihonsangyoupaatonaazu-reputation/) — 大企業のカーブアウトに強み
+- [J-STARの評判](/media/company-j-star-reputation/) — 中堅・中小企業のバイアウト
+- [クラリスキャピタルの評判](/media/company-kurarisukyapitaru-reputation/) — 中小企業の承継を起点にする形
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>

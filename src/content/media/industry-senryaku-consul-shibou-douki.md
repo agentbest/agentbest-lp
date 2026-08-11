@@ -103,15 +103,15 @@ sources:
 
 同じ戦略コンサル志望でも、応募先の構造によって強調すべき点は変わります。各社の詳細は個別の記事にまとめていますので、志望動機を組み立てる前に確認しておくと精度が上がります。
 
-- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation) … 技術と経営の接点。技術をコアに持つ企業の戦略に関心があるなら接続点になります
-- [コーポレイトディレクションの評判](/media/company-corporate-directions-reputation) … 国内独立系で少数精鋭。なぜこの規模かを説明できるかが問われます
-- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation) … 外資系戦略ファーム。思考の型と実行への関与姿勢の両方が見られます
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation) … 上場企業で情報開示が多い。事業構成を読んだ形跡が差になります
-- [PwCコンサルティングの評判](/media/company-pwc-consulting-reputation) … 総合系。戦略から実行までの関与範囲をどう捉えるか
-- [アビームコンサルティングの評判](/media/company-abeam-consulting-reputation) … 日本発の総合系。国内企業の文脈への理解が効きます
-- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation) … 配属予定部門との面談が中心。領域単位で志望動機を作る必要があります
-- [Ridgelinezの評判](/media/company-ridgelinez-reputation) … 母体企業との距離感をどう捉えるかが論点になります
-- [エル・ティー・エスの評判](/media/company-lts-reputation) … 現場への定着支援が出自。実行局面への関与意思が問われます
+- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation/) … 技術と経営の接点。技術をコアに持つ企業の戦略に関心があるなら接続点になります
+- [コーポレイトディレクションの評判](/media/company-corporate-directions-reputation/) … 国内独立系で少数精鋭。なぜこの規模かを説明できるかが問われます
+- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation/) … 外資系戦略ファーム。思考の型と実行への関与姿勢の両方が見られます
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/) … 上場企業で情報開示が多い。事業構成を読んだ形跡が差になります
+- [PwCコンサルティングの評判](/media/company-pwc-consulting-reputation/) … 総合系。戦略から実行までの関与範囲をどう捉えるか
+- [アビームコンサルティングの評判](/media/company-abeam-consulting-reputation/) … 日本発の総合系。国内企業の文脈への理解が効きます
+- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation/) … 配属予定部門との面談が中心。領域単位で志望動機を作る必要があります
+- [Ridgelinezの評判](/media/company-ridgelinez-reputation/) … 母体企業との距離感をどう捉えるかが論点になります
+- [エル・ティー・エスの評判](/media/company-lts-reputation/) … 現場への定着支援が出自。実行局面への関与意思が問われます
 
 ## 未経験・異業種から志望動機を作る
 

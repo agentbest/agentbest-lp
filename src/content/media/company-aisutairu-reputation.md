@@ -172,7 +172,7 @@ sources:
 
 **求められる視点**
 
-化粧品という商材への理解と、プラットフォームの運営という技術。**どちらか一方では完結しにくい領域**です。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path)で、プラットフォーム型の事業の性質を整理しています。
+化粧品という商材への理解と、プラットフォームの運営という技術。**どちらか一方では完結しにくい領域**です。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path/)で、プラットフォーム型の事業の性質を整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -196,7 +196,7 @@ sources:
 
 6つ目は、この会社に固有の確認事項です。**メディア側で入社しても、店舗の運営に関わる場面があるか**は事前に確認する価値があります。
 
-近い規模の会社は[じげんの評判・年収・選考対策](/media/company-jigen-reputation)、年収の構造は[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu)もあわせてご覧ください。
+近い規模の会社は[じげんの評判・年収・選考対策](/media/company-jigen-reputation/)、年収の構造は[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

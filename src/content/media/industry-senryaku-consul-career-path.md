@@ -146,15 +146,15 @@ sources:
 
 キャリアパスの設計は会社ごとに異なります。各社の詳細は個別の記事にまとめています。
 
-- [コーポレイトディレクションの評判](/media/company-corporate-directions-reputation) … 徒弟制を明示し、「up or out」を採らないことを公表しています。Manager昇格までの期間に幅があります
-- [アビームコンサルティングの評判](/media/company-abeam-consulting-reputation) … 等級・研修・社内公募が制度として整備されています。社内での転換を考えるなら押さえておきたい会社です
-- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation) … 平均継続勤務年数が公表されている数少ない例です
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation) … 拡大局面が続く上場企業。従業員数の推移から採用の状況が読めます
-- [エル・ティー・エスの評判](/media/company-lts-reputation) … 実行局面に入り込む仕事が出自。事業会社側への接続を考える方に向きます
-- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation) … 外資系戦略ファーム。職位ごとの役割定義が明確な類型です
-- [PwCコンサルティングの評判](/media/company-pwc-consulting-reputation) … 総合系。ポジションが細分化されており、専門性を軸にした進み方がしやすい構造です
-- [Ridgelinezの評判](/media/company-ridgelinez-reputation) … 母体企業の基盤を持つファーム。技術と業務の両面を扱う設計です
-- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation) … 配属予定部門との個別面談が中心。入社時点の役割が明確になりやすい選考です
+- [コーポレイトディレクションの評判](/media/company-corporate-directions-reputation/) … 徒弟制を明示し、「up or out」を採らないことを公表しています。Manager昇格までの期間に幅があります
+- [アビームコンサルティングの評判](/media/company-abeam-consulting-reputation/) … 等級・研修・社内公募が制度として整備されています。社内での転換を考えるなら押さえておきたい会社です
+- [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation/) … 平均継続勤務年数が公表されている数少ない例です
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/) … 拡大局面が続く上場企業。従業員数の推移から採用の状況が読めます
+- [エル・ティー・エスの評判](/media/company-lts-reputation/) … 実行局面に入り込む仕事が出自。事業会社側への接続を考える方に向きます
+- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation/) … 外資系戦略ファーム。職位ごとの役割定義が明確な類型です
+- [PwCコンサルティングの評判](/media/company-pwc-consulting-reputation/) … 総合系。ポジションが細分化されており、専門性を軸にした進み方がしやすい構造です
+- [Ridgelinezの評判](/media/company-ridgelinez-reputation/) … 母体企業の基盤を持つファーム。技術と業務の両面を扱う設計です
+- [フォーティエンスコンサルティングの評判](/media/company-fortience-consulting-reputation/) … 配属予定部門との個別面談が中心。入社時点の役割が明確になりやすい選考です
 
 ## 未経験・異業種から入る場合のキャリア設計
 

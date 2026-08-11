@@ -113,7 +113,7 @@ sources:
 
 株式報酬が含まれる場合、その扱いも整理が要ります。付与時点の評価額と、実際に価値が確定する時期は異なります。年収の一部として単純に足し合わせると、手取りの見込みがずれます。
 
-業界全体の年収の考え方は[ヘルステック業界の年収相場](/media/healthtech-industry-salary)でも整理しています。
+業界全体の年収の考え方は[ヘルステック業界の年収相場](/media/healthtech-industry-salary/)でも整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

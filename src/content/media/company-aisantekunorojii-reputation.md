@@ -157,7 +157,7 @@ sources:
 
 **転職の観点**
 
-**どちらのセグメントに配属されるかで、身につく技術が変わります。** 測量の領域と自動運転の領域では、次のキャリアの選択肢も違います。詳しくは[メーカーIT部門のキャリアパス](/media/industry-maker-it-career-path)で、技術領域による違いを整理しています。
+**どちらのセグメントに配属されるかで、身につく技術が変わります。** 測量の領域と自動運転の領域では、次のキャリアの選択肢も違います。詳しくは[メーカーIT部門のキャリアパス](/media/industry-maker-it-career-path/)で、技術領域による違いを整理しています。
 
 ## 2期分の指標が示す変化
 
@@ -215,7 +215,7 @@ sources:
 
 5つ目は、有価証券報告書に **毎年支給継続を判断** と明記されているためです。
 
-近い規模の会社は[アイエックス・ナレッジの評判・年収・選考対策](/media/company-aiekkusu-narejji-reputation)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu)もあわせてご覧ください。
+近い規模の会社は[アイエックス・ナレッジの評判・年収・選考対策](/media/company-aiekkusu-narejji-reputation/)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

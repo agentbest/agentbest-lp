@@ -124,13 +124,13 @@ sources:
 
 ## 隣接職種との比較
 
-- [インサイドセールスの年収](/media/inside-sales-salary)、[インサイドセールスで年収600万円を目指すには](/media/inside-sales-salary-600)
-- [フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu)、[SaaS営業の年収](/media/saas-sales-salary) — 次工程の水準
-- [カスタマーサクセスの年収](/media/customer-success-salary) — 後工程の水準
-- [デジタルマーケターの年収](/media/digital-marketer-salary) — 前工程の水準
-- [エンタープライズセールスの年収](/media/enterprise-sales-salary) — 大型案件側の水準
+- [インサイドセールスの年収](/media/inside-sales-salary/)、[インサイドセールスで年収600万円を目指すには](/media/inside-sales-salary-600/)
+- [フィールドセールス（SaaS）の年収相場](/media/job-field-sales-nensyu/)、[SaaS営業の年収](/media/saas-sales-salary/) — 次工程の水準
+- [カスタマーサクセスの年収](/media/customer-success-salary/) — 後工程の水準
+- [デジタルマーケターの年収](/media/digital-marketer-salary/) — 前工程の水準
+- [エンタープライズセールスの年収](/media/enterprise-sales-salary/) — 大型案件側の水準
 
-キャリアの進み方と選考は、[インサイドセールスのキャリアパス](/media/job-inside-sales-career-path)、[インサイドセールスの選考フロー・面接対策](/media/job-inside-sales-senkou-flow)をご確認ください。
+キャリアの進み方と選考は、[インサイドセールスのキャリアパス](/media/job-inside-sales-career-path/)、[インサイドセールスの選考フロー・面接対策](/media/job-inside-sales-senkou-flow/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

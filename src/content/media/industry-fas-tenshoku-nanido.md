@@ -80,7 +80,7 @@ FASは財務デューデリジェンス、企業価値評価、FA業務、統合
 
 **3. 期限の中で結論を出した経験を用意する。** 情報が揃わないまま判断した場面と、そのとき何を切り捨てたかを整理します。
 
-**4. 仲介との違いに自分の言葉で答える。** 報酬や案件規模ではなく、一方の側に立つ仕事への適性で答えます。[M&A仲介の転職難易度](/media/industry-ma-chukai-tenshoku-nanido)と読み比べると違いが見えます。
+**4. 仲介との違いに自分の言葉で答える。** 報酬や案件規模ではなく、一方の側に立つ仕事への適性で答えます。[M&A仲介の転職難易度](/media/industry-ma-chukai-tenshoku-nanido/)と読み比べると違いが見えます。
 
 **5. 事業会社のM&A部門も選択肢に入れる。** 買い手側で経験を積んでからFASに移る経路もあります。順序を変えることで通りやすくなる場合があります。
 
@@ -101,9 +101,9 @@ FASは財務デューデリジェンス、企業価値評価、FA業務、統合
 
 ## 法人のタイプで、入りやすさが変わる
 
-- **Big4系FAS**は、応募が集まるため相対的に厳しくなります。[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation)、[KPMG FASの評判](/media/company-kpmg-fas-reputation)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation)をご覧ください
-- **独立系アドバイザリー**は、採用人数が限られる分だけ枠が狭くなります。[GCAの評判](/media/company-gca-reputation)が参考になります
-- **再生・事業支援系**は、事業側の経験が評価されます。[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation)をご覧ください
+- **Big4系FAS**は、応募が集まるため相対的に厳しくなります。[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation/)、[KPMG FASの評判](/media/company-kpmg-fas-reputation/)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation/)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation/)をご覧ください
+- **独立系アドバイザリー**は、採用人数が限られる分だけ枠が狭くなります。[GCAの評判](/media/company-gca-reputation/)が参考になります
+- **再生・事業支援系**は、事業側の経験が評価されます。[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation/)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/)をご覧ください
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>

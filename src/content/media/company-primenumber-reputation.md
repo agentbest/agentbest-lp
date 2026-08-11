@@ -93,7 +93,7 @@ gBizINFOの従業員数は、**事業所の被保険者数**をもとにした�
 
 **転職の観点**
 
-データ基盤の領域は、**求人が多い一方、求められる経験の幅も広い**構造です。詳しくは[AIスタートアップのキャリアパス](/media/industry-ai-startup-career-path)で整理しています。
+データ基盤の領域は、**求人が多い一方、求められる経験の幅も広い**構造です。詳しくは[AIスタートアップのキャリアパス](/media/industry-ai-startup-career-path/)で整理しています。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -190,7 +190,7 @@ gBizINFOの従業員数は118人。**この規模には固有の働き方があ�
 
 6つ目は、データ基盤という領域に関わります。**導入して終わりではなく、使い続けてもらう構造か**によって、事業の安定度が変わります。
 
-近い規模の会社は[hacomonoの評判・年収・選考対策](/media/company-hacomono-reputation)、転職の難易度は[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido)もあわせてご覧ください。
+近い規模の会社は[hacomonoの評判・年収・選考対策](/media/company-hacomono-reputation/)、転職の難易度は[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

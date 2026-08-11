@@ -85,7 +85,7 @@ sources:
 
 **給与は同規模で最も高い**
 
-平均年間給与7,276千円は、上の4社のなかで最高です。詳しくは[クエストの評判・年収・選考対策](/media/company-kuesuto-reputation)もご覧ください。
+平均年間給与7,276千円は、上の4社のなかで最高です。詳しくは[クエストの評判・年収・選考対策](/media/company-kuesuto-reputation/)もご覧ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -126,7 +126,7 @@ sources:
 
 **この領域の性質**
 
-金融機関向けのシステムは、**制度が仕様を規定する**部分があります。詳しくは[金融ITのキャリアパス](/media/industry-kinyu-it-career-path)で、資金決済法の類型が事業設計をどう規定するかを整理しています。
+金融機関向けのシステムは、**制度が仕様を規定する**部分があります。詳しくは[金融ITのキャリアパス](/media/industry-kinyu-it-career-path/)で、資金決済法の類型が事業設計をどう規定するかを整理しています。
 
 **求められるもの**
 
@@ -195,7 +195,7 @@ job tagの区分は調査区分全体の統計であり、特定の会社の実�
 
 6つ目は、男性育児休業取得率20.8%という数字を踏まえた確認です。
 
-年収の構造は[金融ITの年収相場](/media/industry-kinyu-it-nensyu)、SIerとしての位置づけは[SIerのキャリアパス](/media/industry-sier-career-path)もあわせてご覧ください。
+年収の構造は[金融ITの年収相場](/media/industry-kinyu-it-nensyu/)、SIerとしての位置づけは[SIerのキャリアパス](/media/industry-sier-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

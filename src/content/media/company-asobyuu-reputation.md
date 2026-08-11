@@ -159,7 +159,7 @@ gBizINFOには、**官公庁からの調達（受注）と補助金の交付**�
 
 **転職の観点**
 
-前職で観光や宿泊、店舗運営に関わった経験は、**この領域では直接の材料**になります。IT側の経験だけが評価軸ではありません。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path)で整理しています。
+前職で観光や宿泊、店舗運営に関わった経験は、**この領域では直接の材料**になります。IT側の経験だけが評価軸ではありません。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -217,7 +217,7 @@ job tagの職種区分は目安になりますが、**調査区分全体の統�
 
 6つ目は、非上場のスタートアップに固有の確認事項です。**有無だけでなく、行使の条件まで書面で確認する**のが確実です。
 
-近い規模の会社は[Zealsの評判・年収・選考対策](/media/company-zeals-reputation)、年収の水準は[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu)もあわせてご覧ください。
+近い規模の会社は[Zealsの評判・年収・選考対策](/media/company-zeals-reputation/)、年収の水準は[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

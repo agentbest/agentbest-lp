@@ -130,11 +130,11 @@ sources:
 
 **大手事業会社** — 既存の分析組織に加わる形が多く、手法の正確さと、関係部署との進め方が見られます。選考の段階数は多くなりがちです。
 
-**支援・受託の会社** — 説明力と、短期間で業界を理解する力が問われます。[データ・アナリティクスコンサルタントの面接対策](/media/data-consultant-interview)が参考になります。
+**支援・受託の会社** — 説明力と、短期間で業界を理解する力が問われます。[データ・アナリティクスコンサルタントの面接対策](/media/data-consultant-interview/)が参考になります。
 
-隣接職種の選考も参考になります。[機械学習エンジニアの面接対策](/media/ml-engineer-interview)、[データアナリストの面接対策](/media/data-analyst-interview)、[データエンジニアの面接対策](/media/data-engineer-interview)、[MLOpsエンジニアに求められるスキル](/media/mlops-engineer-skills)をご覧ください。同職種の一般的な情報は[データサイエンティストの面接対策](/media/data-scientist-interview)にあります。
+隣接職種の選考も参考になります。[機械学習エンジニアの面接対策](/media/ml-engineer-interview/)、[データアナリストの面接対策](/media/data-analyst-interview/)、[データエンジニアの面接対策](/media/data-engineer-interview/)、[MLOpsエンジニアに求められるスキル](/media/mlops-engineer-skills/)をご覧ください。同職種の一般的な情報は[データサイエンティストの面接対策](/media/data-scientist-interview/)にあります。
 
-志望動機の作り方と条件面は、[データサイエンティストの志望動機の書き方](/media/job-data-scientist-shibou-douki)、[データサイエンティストの年収相場](/media/job-data-scientist-nensyu)、[データサイエンティストの転職難易度](/media/job-data-scientist-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[データサイエンティストの志望動機の書き方](/media/job-data-scientist-shibou-douki/)、[データサイエンティストの年収相場](/media/job-data-scientist-nensyu/)、[データサイエンティストの転職難易度](/media/job-data-scientist-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

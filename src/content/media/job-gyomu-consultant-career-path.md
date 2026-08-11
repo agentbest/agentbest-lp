@@ -143,7 +143,7 @@ IT側に寄ると、システムの導入と運用設計が中心になります
 
 **IT側との境界**
 
-システムの選定や要件定義に踏み込むと、[ITコンサルタントのキャリアパス](/media/job-it-consultant-career-path)と重なります。両方を持つ人は多くなく、価値があります。
+システムの選定や要件定義に踏み込むと、[ITコンサルタントのキャリアパス](/media/job-it-consultant-career-path/)と重なります。両方を持つ人は多くなく、価値があります。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -164,7 +164,7 @@ IT側に寄ると、システムの導入と運用設計が中心になります
 
 4つ目は年収の観点では合理的です。ただし経営コンサルタントの区分は有効求人倍率0.57で席が限られます。業務の細部まで降りられる点を武器にできると、道が開けます。
 
-近い職種は[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)もあわせてご覧ください。
+近い職種は[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path/)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

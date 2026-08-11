@@ -157,7 +157,7 @@ sources:
 
 **製造業向けのコンサルティング** — ケース面接に近い形式が入ります。論点整理の力が中心です。
 
-近い領域の選考は[ITコンサルティングファームの選考フロー・面接対策](/media/industry-it-consul-senkou-flow)、[建設・不動産DXの選考フロー・面接対策](/media/industry-kensetsu-dx-senkou-flow)もあわせてご覧ください。
+近い領域の選考は[ITコンサルティングファームの選考フロー・面接対策](/media/industry-it-consul-senkou-flow/)、[建設・不動産DXの選考フロー・面接対策](/media/industry-kensetsu-dx-senkou-flow/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -175,7 +175,7 @@ sources:
 5. **扱う製品と工法（組立か、装置産業か、素材か）**
 6. **データの外部利用について、社内の方針があるか**
 
-1つ目が、生活への影響を最も左右します。工場は地方に立地することが多く、名目の年収が同じでも実質は変わります。詳しくは[メーカーIT・製造業DXの年収相場](/media/industry-maker-it-nensyu)で整理しています。
+1つ目が、生活への影響を最も左右します。工場は地方に立地することが多く、名目の年収が同じでも実質は変わります。詳しくは[メーカーIT・製造業DXの年収相場](/media/industry-maker-it-nensyu/)で整理しています。
 
 4つ目は、製造業では特に重要です。新卒からの年次を基準にした等級運用が残っていることがあります。
 

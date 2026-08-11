@@ -164,7 +164,7 @@ SaaSの収益は継続で成り立つため、この職種の重要性は高く�
 
 6つ目は、条件面談の場で慌てないための準備です。制度の要件や税務上の取扱いは改正されることがあり、個別の判断は事情により変わりますので、国税庁の公表資料や税理士等の専門家にご確認ください。
 
-近い領域は[SaaS業界のガイド](/media/saas-industry-guide)、[SaaS業界の企業](/media/saas-industry-company)もあわせてご覧ください。
+近い領域は[SaaS業界のガイド](/media/saas-industry-guide/)、[SaaS業界の企業](/media/saas-industry-company/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

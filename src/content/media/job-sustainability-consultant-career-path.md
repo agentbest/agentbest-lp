@@ -162,7 +162,7 @@ Scope3は、他社の排出です。調達先、輸送、製品の使用、廃�
 
 1つ目が最も多い進路です。開示が有価証券報告書に入ったことで、事業会社側の体制整備が進みます。支援の経験がそのまま活きます。
 
-近い領域は[事業再生コンサルタントのキャリアパス](/media/job-saisei-consultant-career-path)、[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)もあわせてご覧ください。
+近い領域は[事業再生コンサルタントのキャリアパス](/media/job-saisei-consultant-career-path/)、[DX推進担当のキャリアパス](/media/job-dx-suishin-career-path/)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)もあわせてご覧ください。
 
 ## 公開統計が示す、この職種の輪郭
 
@@ -174,7 +174,7 @@ Scope3は、他社の排出です。調達先、輸送、製品の使用、廃�
 
 必要なスキルは **交渉4.8**、意思決定と問題解決3.8、目標と戦略策定3.8。
 
-**注意点** — この区分は経営コンサルティング全体を束ねた広い括りです。サステナビリティ領域だけの数字ではありません。詳しくは[サステナビリティコンサルタントの年収相場](/media/job-sustainability-consultant-nensyu)で分解しています。
+**注意点** — この区分は経営コンサルティング全体を束ねた広い括りです。サステナビリティ領域だけの数字ではありません。詳しくは[サステナビリティコンサルタントの年収相場](/media/job-sustainability-consultant-nensyu/)で分解しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -119,7 +119,7 @@ Big4は人数が多く、社内の手続も整備されています。独立性�
 
 **SIer・ITベンダーから**
 
-IT領域への接続が明確です。job tagの「ITコンサルタント」の区分は就業者数656,770人、有効求人倍率0.89。市場が広く、Big4のIT領域は主要な受け皿のひとつです。補うのは、上流の要件を決めた経験です。詳しくは[ITコンサルタントの転職難易度](/media/job-it-consultant-tenshoku-nanido)もご覧ください。
+IT領域への接続が明確です。job tagの「ITコンサルタント」の区分は就業者数656,770人、有効求人倍率0.89。市場が広く、Big4のIT領域は主要な受け皿のひとつです。補うのは、上流の要件を決めた経験です。詳しくは[ITコンサルタントの転職難易度](/media/job-it-consultant-tenshoku-nanido/)もご覧ください。
 
 **監査法人・会計事務所から**
 
@@ -159,7 +159,7 @@ IT領域への接続が明確です。job tagの「ITコンサルタント」の
 
 3つ目と5つ目は、ほとんどの応募者が準備していません。ここを押さえるだけで、面接での会話が変わります。
 
-近い領域は[戦略コンサルティングファームの転職難易度](/media/industry-senryaku-consul-tenshoku-nanido)もあわせてご覧ください。
+近い領域は[戦略コンサルティングファームの転職難易度](/media/industry-senryaku-consul-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

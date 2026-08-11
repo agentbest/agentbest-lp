@@ -183,7 +183,7 @@ sources:
 
 同じメガベンチャーでも、この5つでは求められる経験が違います。会社名ではなく事業の性質で書き分けると、噛み合います。
 
-関連する職種の書き方は[事業開発の志望動機の書き方](/media/job-bizdev-shibou-douki)、[プロダクトマネージャーの志望動機の書き方](/media/job-product-manager-shibou-douki)もあわせてご覧ください。
+関連する職種の書き方は[事業開発の志望動機の書き方](/media/job-bizdev-shibou-douki/)、[プロダクトマネージャーの志望動機の書き方](/media/job-product-manager-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

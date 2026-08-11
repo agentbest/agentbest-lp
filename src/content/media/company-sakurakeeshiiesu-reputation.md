@@ -87,7 +87,7 @@ sources:
 
 **年齢を踏まえて読む**
 
-ただし平均年齢44.8歳も最も高くなっています。**年齢を揃えずに給与だけを比べると、実態を取り違えます。** 詳しくは[SIerのキャリアパス](/media/industry-sier-career-path)で整理しています。
+ただし平均年齢44.8歳も最も高くなっています。**年齢を揃えずに給与だけを比べると、実態を取り違えます。** 詳しくは[SIerのキャリアパス](/media/industry-sier-career-path/)で整理しています。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -188,7 +188,7 @@ sources:
 
 6つ目は、提出会社がユニオンショップ制であることに関わります。
 
-近い規模の会社は[アイエックス・ナレッジの評判・年収・選考対策](/media/company-aiekkusu-narejji-reputation)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido)もあわせてご覧ください。
+近い規模の会社は[アイエックス・ナレッジの評判・年収・選考対策](/media/company-aiekkusu-narejji-reputation/)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

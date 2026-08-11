@@ -156,7 +156,7 @@ sources:
 
 **面接での使い方**
 
-有価証券報告書にROE目標15%と書かれている以上、**その達成に向けて何をしているかは説明できるはず**です。答えの具体性から、経営指標が現場まで届いているかが見えます。詳しくは[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu)で、経営指標と処遇の関係を整理しています。
+有価証券報告書にROE目標15%と書かれている以上、**その達成に向けて何をしているかは説明できるはず**です。答えの具体性から、経営指標が現場まで届いているかが見えます。詳しくは[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu/)で、経営指標と処遇の関係を整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -182,7 +182,7 @@ sources:
 
 6つ目は、技術部門が全社共通に含まれているためです。**エンジニアとして入る場合、担当範囲の決まり方を確認する価値があります。**
 
-近い規模の会社は[アイティメディアの評判・年収・選考対策](/media/company-aiteimedia-reputation)、転職の難易度は[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido)もあわせてご覧ください。
+近い規模の会社は[アイティメディアの評判・年収・選考対策](/media/company-aiteimedia-reputation/)、転職の難易度は[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

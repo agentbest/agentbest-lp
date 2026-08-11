@@ -126,7 +126,7 @@ sources:
 
 事業の入れ替わりが速いため、担当していたプロダクトがなくなることがあります。特定のプロダクトに紐づいた専門性ではなく、持ち運べる技術を積む意識が要ります。
 
-**関連する職種の進み方** — [プロダクトマネージャーのキャリアパス](/media/job-product-manager-career-path)、[事業開発のキャリアパス](/media/job-bizdev-career-path)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path)もあわせてご覧ください。
+**関連する職種の進み方** — [プロダクトマネージャーのキャリアパス](/media/job-product-manager-career-path/)、[事業開発のキャリアパス](/media/job-bizdev-career-path/)、[経営企画のキャリアパス](/media/job-keiei-kikaku-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

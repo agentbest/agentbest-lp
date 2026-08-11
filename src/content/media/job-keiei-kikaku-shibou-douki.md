@@ -160,9 +160,9 @@ sources:
 
 2つ目がこの職種の選考で重視されます。差し戻した経験がない場合、集計の担当だったと判断されることがあります。押し切れなかった経験でも構いません。その後どうなったかまで話せると、材料になります。
 
-**参考になる書き方** — [経営企画の志望動機](/media/corporate-planning-motivation)、[経営企画の職務経歴書](/media/corporate-planning-resume)、[事業企画の志望動機の書き方](/media/job-jigyo-kikaku-shibou-douki)、[財務・経理の志望動機](/media/finance-motivation)をご覧ください。
+**参考になる書き方** — [経営企画の志望動機](/media/corporate-planning-motivation/)、[経営企画の職務経歴書](/media/corporate-planning-resume/)、[事業企画の志望動機の書き方](/media/job-jigyo-kikaku-shibou-douki/)、[財務・経理の志望動機](/media/finance-motivation/)をご覧ください。
 
-選考の流れと条件面は、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu)をご確認ください。
+選考の流れと条件面は、[経営企画の選考フロー・面接対策](/media/job-keiei-kikaku-senkou-flow/)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

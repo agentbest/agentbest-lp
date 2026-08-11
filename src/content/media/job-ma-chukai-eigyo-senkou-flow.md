@@ -144,7 +144,7 @@ M&A仲介営業の選考には、他の営業職と違う特徴があります�
 
 **事業承継特化のブティック** — 少人数のため、代表との面談が中心になります。その領域への関心と知見が問われます。
 
-隣接領域の選考は[FASアナリストの選考フロー・面接対策](/media/job-fas-analyst-senkou-flow)、[M&Aアドバイザーの面接対策](/media/ma-advisor-interview)もあわせてご覧ください。
+隣接領域の選考は[FASアナリストの選考フロー・面接対策](/media/job-fas-analyst-senkou-flow/)、[M&Aアドバイザーの面接対策](/media/ma-advisor-interview/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

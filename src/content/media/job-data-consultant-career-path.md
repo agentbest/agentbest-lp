@@ -129,7 +129,7 @@ sources:
 
 これらは入社後に変更を求めにくい条件です。選考の終盤やオファー面談は、本来この擦り合わせのための場でもあります。聞きにくいと感じる方が多いのですが、確認しておくと数年後の納得感が変わります。
 
-選考の流れは[データコンサルタントの選考フロー・面接対策](/media/job-data-consultant-senkou-flow)、報酬の構造は[データコンサルタントの年収相場](/media/job-data-consultant-nensyu)で整理しています。
+選考の流れは[データコンサルタントの選考フロー・面接対策](/media/job-data-consultant-senkou-flow/)、報酬の構造は[データコンサルタントの年収相場](/media/job-data-consultant-nensyu/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

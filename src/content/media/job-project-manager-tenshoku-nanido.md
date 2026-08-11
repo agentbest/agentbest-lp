@@ -86,7 +86,7 @@ sources:
 
 **PMOから**
 
-進捗の集約や標準化の経験があります。決めて負う立場への切り替えが問われます。[PMOのキャリアパス](/media/pmo-career-path)が参考になります。
+進捗の集約や標準化の経験があります。決めて負う立場への切り替えが問われます。[PMOのキャリアパス](/media/pmo-career-path/)が参考になります。
 
 **業務側から**
 
@@ -94,11 +94,11 @@ sources:
 
 **スクラムマスターから**
 
-チームの状態を扱う経験があります。指示せずに進めるやり方から、決めて負うやり方への切り替えが要ります。[スクラムマスターのキャリアパス](/media/job-scrum-master-career-path)をご覧ください。
+チームの状態を扱う経験があります。指示せずに進めるやり方から、決めて負うやり方への切り替えが要ります。[スクラムマスターのキャリアパス](/media/job-scrum-master-career-path/)をご覧ください。
 
 **社内SEから**
 
-既存システムと業務部門の両方を知っています。[社内SEのキャリアパス](/media/job-shanai-se-career-path)が該当します。
+既存システムと業務部門の両方を知っています。[社内SEのキャリアパス](/media/job-shanai-se-career-path/)が該当します。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -178,7 +178,7 @@ IT系および技術系に接続します。補うのは、通信設備の特性
 
 2つ目と3つ目は、他の応募者がほとんど準備していません。ここを押さえるだけで、面接での会話が変わります。
 
-近い領域は[ITコンサルティングファームの転職難易度](/media/industry-it-consul-tenshoku-nanido)、[フィールドセールスの転職難易度](/media/job-field-sales-tenshoku-nanido)もあわせてご覧ください。
+近い領域は[ITコンサルティングファームの転職難易度](/media/industry-it-consul-tenshoku-nanido/)、[フィールドセールスの転職難易度](/media/job-field-sales-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

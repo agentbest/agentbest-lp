@@ -78,7 +78,7 @@ DSS-P分冊版に記載された責務を、担当する対象の広さで並べ
 
 ## この先に開く3つの方向
 
-**方向1：領域を深める。** 特定の事業ドメインに詳しいプロダクト担当として立つ道です。金融、物流、製造、小売など、業務そのものの複雑さが参入障壁になる領域では、この深さが希少性になります。[物流DXのキャリアパス](/media/industry-butsuryu-dx-career-path)、[建設・不動産DXのキャリアパス](/media/industry-kensetsu-dx-career-path)も近い構造を扱っています。
+**方向1：領域を深める。** 特定の事業ドメインに詳しいプロダクト担当として立つ道です。金融、物流、製造、小売など、業務そのものの複雑さが参入障壁になる領域では、この深さが希少性になります。[物流DXのキャリアパス](/media/industry-butsuryu-dx-career-path/)、[建設・不動産DXのキャリアパス](/media/industry-kensetsu-dx-career-path/)も近い構造を扱っています。
 
 **方向2：複数プロダクトを束ねる。** 個別の判断から離れ、投資配分と優先順位を決める側に移ります。デジタルスキル標準のビジネスアーキテクトの責務に近い領域です。経営の投資判断を支援する立場になるため、事業計画の言葉を使えることが条件になります。
 
@@ -94,7 +94,7 @@ DSS-P分冊版に記載された責務を、担当する対象の広さで並べ
 | SaaS・スタートアップ | 経営側への接近 | 会社のフェーズに左右される |
 | 外資テック日本法人 | 専門性の証明 | 製品戦略が本社にある |
 
-具体例としては[メルカリの評判](/media/company-merukari-reputation)、[LINEヤフーの評判](/media/company-lineyafuu-reputation)、[カカクコムの評判](/media/company-kakakukomu-reputation)、[ラクスルの評判](/media/company-rakusuru-reputation)、[ファーストリテイリングの評判](/media/company-faasutoriteiringu-reputation)、[クレディセゾンの評判](/media/company-kuredisezon-reputation)、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation)、[カミナシの評判](/media/company-kaminashi-reputation)が参考になります。
+具体例としては[メルカリの評判](/media/company-merukari-reputation/)、[LINEヤフーの評判](/media/company-lineyafuu-reputation/)、[カカクコムの評判](/media/company-kakakukomu-reputation/)、[ラクスルの評判](/media/company-rakusuru-reputation/)、[ファーストリテイリングの評判](/media/company-faasutoriteiringu-reputation/)、[クレディセゾンの評判](/media/company-kuredisezon-reputation/)、[第一生命情報システムの評判](/media/company-daiichiseimeijouhoushisutemu-reputation/)、[カミナシの評判](/media/company-kaminashi-reputation/)が参考になります。
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>
@@ -118,7 +118,7 @@ DSS-P分冊版に記載された責務を、担当する対象の広さで並べ
 
 事業会社のプロダクト開発から外に出る場合、主な行き先は3つです。別の事業会社の同職種、コンサルティングファームのIT・DX領域、そしてSaaS企業のプロダクト職です。
 
-コンサル側に移る場合は、実行より提案の比重が上がります。[ITコンサルタントのキャリアパス](/media/job-it-consultant-career-path)、[PMOコンサルタントのキャリアパス](/media/job-pmo-consultant-career-path)をご覧ください。職種としての全体像は[プロダクトマネージャーのキャリアパス](/media/job-product-manager-career-path)で扱っています。
+コンサル側に移る場合は、実行より提案の比重が上がります。[ITコンサルタントのキャリアパス](/media/job-it-consultant-career-path/)、[PMOコンサルタントのキャリアパス](/media/job-pmo-consultant-career-path/)をご覧ください。職種としての全体像は[プロダクトマネージャーのキャリアパス](/media/job-product-manager-career-path/)で扱っています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

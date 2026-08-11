@@ -129,9 +129,9 @@ job tag では、IR広報担当に必要なスキルとして文章力と傾聴�
 
 **創業初期のスタートアップ** — 管理部門全般を担うことが多く、範囲の広さに耐えられるかが見られます。何もない状態から作った経験が評価されます。
 
-隣接職種の選考も参考になります。[経営企画の面接対策](/media/corporate-planning-interview)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow)、[財務・経理の面接対策](/media/finance-interview)、[会計・財務コンサルタントの面接対策](/media/fas-consultant-interview)をご覧ください。
+隣接職種の選考も参考になります。[経営企画の面接対策](/media/corporate-planning-interview/)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow/)、[財務・経理の面接対策](/media/finance-interview/)、[会計・財務コンサルタントの面接対策](/media/fas-consultant-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[経営企画の志望動機の書き方](/media/job-keiei-kikaku-shibou-douki)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu)、[経営企画の転職難易度](/media/job-keiei-kikaku-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[経営企画の志望動機の書き方](/media/job-keiei-kikaku-shibou-douki/)、[経営企画の年収相場](/media/job-keiei-kikaku-nensyu/)、[経営企画の転職難易度](/media/job-keiei-kikaku-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

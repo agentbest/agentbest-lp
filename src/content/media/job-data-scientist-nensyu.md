@@ -134,13 +134,13 @@ sources:
 
 近い職種の水準感も、判断材料になります。
 
-- [機械学習エンジニアの年収](/media/ml-engineer-salary)、[AIエンジニアの年収](/media/ai-engineer-salary) — 実装寄りの水準
-- [データアナリストの年収](/media/data-analyst-salary) — 分析寄りの水準
-- [データエンジニアの年収](/media/data-engineer-salary)、[MLOpsエンジニアの年収](/media/mlops-engineer-salary) — 基盤寄りの水準
-- [データ・アナリティクスコンサルタントの年収](/media/data-consultant-salary) — 支援側の水準
-- [データサイエンティストの年収](/media/data-scientist-salary) — 同職種の一般的な情報
+- [機械学習エンジニアの年収](/media/ml-engineer-salary/)、[AIエンジニアの年収](/media/ai-engineer-salary/) — 実装寄りの水準
+- [データアナリストの年収](/media/data-analyst-salary/) — 分析寄りの水準
+- [データエンジニアの年収](/media/data-engineer-salary/)、[MLOpsエンジニアの年収](/media/mlops-engineer-salary/) — 基盤寄りの水準
+- [データ・アナリティクスコンサルタントの年収](/media/data-consultant-salary/) — 支援側の水準
+- [データサイエンティストの年収](/media/data-scientist-salary/) — 同職種の一般的な情報
 
-キャリアの進み方と選考については、[データサイエンティストのキャリアパス](/media/job-data-scientist-career-path)、[データサイエンティストの転職難易度](/media/job-data-scientist-tenshoku-nanido)もあわせてご確認ください。
+キャリアの進み方と選考については、[データサイエンティストのキャリアパス](/media/job-data-scientist-career-path/)、[データサイエンティストの転職難易度](/media/job-data-scientist-tenshoku-nanido/)もあわせてご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

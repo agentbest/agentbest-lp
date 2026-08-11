@@ -143,9 +143,9 @@ sources:
 
 **事業会社の新規事業部門** — 既存事業との調整が発生します。社内の利害をどう調整するかが見られます。
 
-隣接職種の選考も参考になります。[事業開発（BizDev）の面接対策](/media/bizdev-interview)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow)、[パートナーセールス／アライアンスの面接対策](/media/partner-sales-interview)、[エンタープライズセールスの面接対策](/media/enterprise-sales-interview)をご覧ください。
+隣接職種の選考も参考になります。[事業開発（BizDev）の面接対策](/media/bizdev-interview/)、[事業企画の選考フロー・面接対策](/media/job-jigyo-kikaku-senkou-flow/)、[パートナーセールス／アライアンスの面接対策](/media/partner-sales-interview/)、[エンタープライズセールスの面接対策](/media/enterprise-sales-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[事業開発（BizDev）の志望動機の書き方](/media/job-bizdev-shibou-douki)、[事業開発（BizDev）の年収相場](/media/job-bizdev-nensyu)、[事業開発（BizDev）の転職難易度](/media/job-bizdev-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[事業開発（BizDev）の志望動機の書き方](/media/job-bizdev-shibou-douki/)、[事業開発（BizDev）の年収相場](/media/job-bizdev-nensyu/)、[事業開発（BizDev）の転職難易度](/media/job-bizdev-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

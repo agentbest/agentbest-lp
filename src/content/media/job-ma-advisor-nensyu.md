@@ -96,7 +96,7 @@ M&A側は平均1,134.6万円で有効求人倍率0.57。証券外務員は平均
 
 もう一点、報酬が確定するまでの時間が違います。証券営業は月次で数字が動きます。FAは案件の完了まで成果が確定せず、その間の収入は職位の水準に支えられます。
 
-**判断の軸** — 収入の絶対額ではなく、確定までの時間に耐えられるかで選ぶと、入社後のずれが小さくなります。業界全体の水準は[M&A業界の年収](/media/ma-industry-salary)、[M&Aアドバイザーの年収](/media/ma-advisor-salary)、[FASアナリストの年収相場](/media/job-fas-analyst-nensyu)、[M&A仲介営業の年収相場](/media/job-ma-chukai-eigyo-nensyu)もあわせてご覧ください。
+**判断の軸** — 収入の絶対額ではなく、確定までの時間に耐えられるかで選ぶと、入社後のずれが小さくなります。業界全体の水準は[M&A業界の年収](/media/ma-industry-salary/)、[M&Aアドバイザーの年収](/media/ma-advisor-salary/)、[FASアナリストの年収相場](/media/job-fas-analyst-nensyu/)、[M&A仲介営業の年収相場](/media/job-ma-chukai-eigyo-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

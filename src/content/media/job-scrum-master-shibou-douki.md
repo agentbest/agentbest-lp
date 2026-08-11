@@ -156,9 +156,9 @@ sources:
 
 1つ目は、この職種の選考で重視されます。今のやり方を否定から入る方は、入社後に反発を招くと判断されます。そうなっている理由を推測できるかが問われています。
 
-**参考になる書き方** — [プロジェクトマネージャー（PM）の志望動機](/media/project-manager-motivation)、[エンジニアリングマネージャーの志望動機](/media/engineering-manager-motivation)、[テックリードの職務経歴書](/media/tech-lead-resume)、[開発ディレクターの志望動機](/media/dev-director-motivation)をご覧ください。
+**参考になる書き方** — [プロジェクトマネージャー（PM）の志望動機](/media/project-manager-motivation/)、[エンジニアリングマネージャーの志望動機](/media/engineering-manager-motivation/)、[テックリードの職務経歴書](/media/tech-lead-resume/)、[開発ディレクターの志望動機](/media/dev-director-motivation/)をご覧ください。
 
-選考の流れと条件面は、[スクラムマスターの選考フロー・面接対策](/media/job-scrum-master-senkou-flow)、[スクラムマスターの年収相場](/media/job-scrum-master-nensyu)をご確認ください。
+選考の流れと条件面は、[スクラムマスターの選考フロー・面接対策](/media/job-scrum-master-senkou-flow/)、[スクラムマスターの年収相場](/media/job-scrum-master-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

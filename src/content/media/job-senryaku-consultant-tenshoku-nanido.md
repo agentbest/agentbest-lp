@@ -125,13 +125,13 @@ sources:
 
 同じ戦略コンサルタントでも、組織のタイプによって難しさの中身が変わります。
 
-**戦略特化型ファーム** — 採用人数が限られ、ケース面接の比重が高くなります。思考の運転そのものが評価の中心です。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation)を参照してください。
+**戦略特化型ファーム** — 採用人数が限られ、ケース面接の比重が高くなります。思考の運転そのものが評価の中心です。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation/)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation/)を参照してください。
 
-**総合系ファームの戦略部門** — 採用規模が大きく、入り口としては相対的に間口が広い傾向があります。一方、実行支援まで担うため、実装フェーズへの理解も問われます。[アクセンチュアの評判](/media/company-accenture-japan-reputation)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation)、[EY Japanの評判](/media/company-ey-japan-reputation)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation)が該当します。
+**総合系ファームの戦略部門** — 採用規模が大きく、入り口としては相対的に間口が広い傾向があります。一方、実行支援まで担うため、実装フェーズへの理解も問われます。[アクセンチュアの評判](/media/company-accenture-japan-reputation/)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation/)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation/)、[EY Japanの評判](/media/company-ey-japan-reputation/)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation/)が該当します。
 
-**独立系・新興ファーム** — 組織規模が小さいぶん、カルチャーとの相性や、少人数で立ち上げられるかが重く見られる傾向があります。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation)、[Ridgelinezの評判](/media/company-ridgelinez-reputation)をご覧ください。
+**独立系・新興ファーム** — 組織規模が小さいぶん、カルチャーとの相性や、少人数で立ち上げられるかが重く見られる傾向があります。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation/)、[Ridgelinezの評判](/media/company-ridgelinez-reputation/)をご覧ください。
 
-選考の詳細や報酬構造については、[戦略コンサルタントの選考フロー・面接対策](/media/job-senryaku-consultant-senkou-flow)、[戦略コンサルタントの年収相場](/media/job-senryaku-consultant-nensyu)、[戦略コンサルタントの志望動機の書き方](/media/job-senryaku-consultant-shibou-douki)、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow)もあわせてご確認ください。
+選考の詳細や報酬構造については、[戦略コンサルタントの選考フロー・面接対策](/media/job-senryaku-consultant-senkou-flow/)、[戦略コンサルタントの年収相場](/media/job-senryaku-consultant-nensyu/)、[戦略コンサルタントの志望動機の書き方](/media/job-senryaku-consultant-shibou-douki/)、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow/)もあわせてご確認ください。
 
 ## 未経験から入る場合の現実的な設計
 

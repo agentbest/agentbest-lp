@@ -183,7 +183,7 @@ sources:
   <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=inline&utm_campaign=company-enujieihoorudingusu-reputation">年収の実態を聞いてみる</a>
 </aside>
 
-デジタルコンテンツ領域の比較材料としては、[カプコンの評判](/media/company-kapukon-reputation)、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation)、[グリーホールディングスの評判](/media/company-gurii-reputation)もご覧ください。
+デジタルコンテンツ領域の比較材料としては、[カプコンの評判](/media/company-kapukon-reputation/)、[ディー・エヌ・エーの評判](/media/company-dii-enu-ee-reputation/)、[グリーホールディングスの評判](/media/company-gurii-reputation/)もご覧ください。
 
 ## まとめ
 

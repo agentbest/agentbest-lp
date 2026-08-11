@@ -145,11 +145,11 @@ sources:
 
 **大手事業会社** — 既存の分析組織に加わる形が多く、手法の正確さと組織内での進め方が見られます。関係部署を巻き込んだ経験が効きます。
 
-**支援・受託の会社** — 短期間で業界を理解し、社外に説明する力が問われます。[データ・アナリティクスコンサルタントの志望動機](/media/data-consultant-motivation)が参考になります。
+**支援・受託の会社** — 短期間で業界を理解し、社外に説明する力が問われます。[データ・アナリティクスコンサルタントの志望動機](/media/data-consultant-motivation/)が参考になります。
 
-隣接職種の書き方も参考になります。[機械学習エンジニアの志望動機](/media/ml-engineer-motivation)、[データアナリストの志望動機](/media/data-analyst-motivation)、[データエンジニアの志望動機](/media/data-engineer-motivation)、[AIエンジニアの職務経歴書](/media/ai-engineer-resume)をご覧ください。同職種の一般的な情報は[データサイエンティストの志望動機](/media/data-scientist-motivation)、[データサイエンティストの職務経歴書](/media/data-scientist-resume)にあります。
+隣接職種の書き方も参考になります。[機械学習エンジニアの志望動機](/media/ml-engineer-motivation/)、[データアナリストの志望動機](/media/data-analyst-motivation/)、[データエンジニアの志望動機](/media/data-engineer-motivation/)、[AIエンジニアの職務経歴書](/media/ai-engineer-resume/)をご覧ください。同職種の一般的な情報は[データサイエンティストの志望動機](/media/data-scientist-motivation/)、[データサイエンティストの職務経歴書](/media/data-scientist-resume/)にあります。
 
-選考の流れと条件面は、[データサイエンティストの選考フロー・面接対策](/media/job-data-scientist-senkou-flow)、[データサイエンティストの年収相場](/media/job-data-scientist-nensyu)をご確認ください。
+選考の流れと条件面は、[データサイエンティストの選考フロー・面接対策](/media/job-data-scientist-senkou-flow/)、[データサイエンティストの年収相場](/media/job-data-scientist-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

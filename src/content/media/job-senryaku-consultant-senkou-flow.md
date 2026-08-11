@@ -154,13 +154,13 @@ sources:
 
 一口に戦略コンサルタントといっても、所属する組織のタイプによって、選考で見られる比重も入社後の仕事も変わります。
 
-**戦略特化型ファーム** — 経営層向けの戦略テーマを中心に扱います。ケース面接の比重が高く、選考の難易度も高い傾向があります。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation)などが該当します。
+**戦略特化型ファーム** — 経営層向けの戦略テーマを中心に扱います。ケース面接の比重が高く、選考の難易度も高い傾向があります。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation/)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation/)などが該当します。
 
-**総合系ファームの戦略部門** — 戦略の立案から実行支援まで一気通貫で担う体制です。戦略テーマだけでなく、実装フェーズの理解も問われます。[アクセンチュアの評判](/media/company-accenture-japan-reputation)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation)、[EY Japanの評判](/media/company-ey-japan-reputation)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation)を参考にしてください。
+**総合系ファームの戦略部門** — 戦略の立案から実行支援まで一気通貫で担う体制です。戦略テーマだけでなく、実装フェーズの理解も問われます。[アクセンチュアの評判](/media/company-accenture-japan-reputation/)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation/)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation/)、[EY Japanの評判](/media/company-ey-japan-reputation/)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation/)を参考にしてください。
 
-**独立系・新興ファーム** — 特定領域や特定地域に強みを持つファームです。組織規模が小さいぶん、早期から裁量を持ちやすい一方、育成体制はファームごとに差があります。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation)、[Ridgelinezの評判](/media/company-ridgelinez-reputation)などが挙げられます。
+**独立系・新興ファーム** — 特定領域や特定地域に強みを持つファームです。組織規模が小さいぶん、早期から裁量を持ちやすい一方、育成体制はファームごとに差があります。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation/)、[Ridgelinezの評判](/media/company-ridgelinez-reputation/)などが挙げられます。
 
-ファーム全体の選考傾向については、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow)もあわせてご覧ください。
+ファーム全体の選考傾向については、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow/)もあわせてご覧ください。
 
 ## 未経験・異業種から入る場合の考え方
 

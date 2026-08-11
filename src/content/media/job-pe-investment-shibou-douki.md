@@ -165,9 +165,9 @@ job tag では、この領域の必要スキルとして傾聴力4.8、交渉力
 
 最後の質問が、この職種の核心です。改善の構想を語った後に聞かれます。実行する人が誰かを想定していないと、机上の話だと判断されます。
 
-**参考になる書き方** — [M&Aアドバイザーの志望動機](/media/ma-advisor-motivation)、[会計・財務コンサルタントの志望動機](/media/fas-consultant-motivation)、[ベンチャーキャピタリストの志望動機の書き方](/media/job-vc-capitalist-shibou-douki)をご覧ください。
+**参考になる書き方** — [M&Aアドバイザーの志望動機](/media/ma-advisor-motivation/)、[会計・財務コンサルタントの志望動機](/media/fas-consultant-motivation/)、[ベンチャーキャピタリストの志望動機の書き方](/media/job-vc-capitalist-shibou-douki/)をご覧ください。
 
-選考の流れと条件面は、[PEファンド投資担当の選考フロー・面接対策](/media/job-pe-investment-senkou-flow)、[PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu)をご確認ください。
+選考の流れと条件面は、[PEファンド投資担当の選考フロー・面接対策](/media/job-pe-investment-senkou-flow/)、[PEファンド投資担当の年収相場](/media/job-pe-investment-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

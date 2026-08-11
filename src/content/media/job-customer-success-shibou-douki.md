@@ -157,9 +157,9 @@ sources:
 
 3つ目は、この職種の選考で重視されます。要望をすべて受け入れると答えると、社内で機能しないと見られます。断ったうえで関係を保った経験があれば、それを話せると強くなります。
 
-**参考になる書き方** — [カスタマーサクセスの志望動機](/media/customer-success-motivation)、[カスタマーサクセスの職務経歴書](/media/customer-success-resume)、[SaaS営業（フィールドセールス）の志望動機](/media/saas-sales-motivation)、[セールスエンジニア／プリセールスの志望動機](/media/presales-motivation)をご覧ください。
+**参考になる書き方** — [カスタマーサクセスの志望動機](/media/customer-success-motivation/)、[カスタマーサクセスの職務経歴書](/media/customer-success-resume/)、[SaaS営業（フィールドセールス）の志望動機](/media/saas-sales-motivation/)、[セールスエンジニア／プリセールスの志望動機](/media/presales-motivation/)をご覧ください。
 
-選考の流れと条件面は、[カスタマーサクセスの選考フロー・面接対策](/media/job-customer-success-senkou-flow)、[カスタマーサクセスの年収相場](/media/job-customer-success-nensyu)をご確認ください。
+選考の流れと条件面は、[カスタマーサクセスの選考フロー・面接対策](/media/job-customer-success-senkou-flow/)、[カスタマーサクセスの年収相場](/media/job-customer-success-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

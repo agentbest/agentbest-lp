@@ -146,7 +146,7 @@ noteについて、第14期（2025年11月期）の有価証券報告書から�
 
 **求人倍率という視点**
 
-job tagのプログラマーの区分は有効求人倍率0.94。**1を下回り、統計上は募集より求職者が多い状態**です。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path)で整理しています。
+job tagのプログラマーの区分は有効求人倍率0.94。**1を下回り、統計上は募集より求職者が多い状態**です。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

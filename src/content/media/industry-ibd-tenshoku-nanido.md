@@ -113,13 +113,13 @@ job tagの区分では、平均年齢は39.4歳です。ただしこれは在職
 
 同じIBDでも、求められる経験の組み合わせが違います。企業別の記事もあわせてご覧ください。
 
-- [ゴールドマン・サックス証券の評判](/media/company-goorudoman-sakkusushouken-reputation) — 大型・クロスボーダー案件が中心
-- [JPモルガン証券の評判](/media/company-jpmoruganshouken-reputation) — 資本市場と助言の両面
-- [ジェフリーズ証券の評判](/media/company-jiefuriizushouken-reputation) — 助言を軸にした体制
-- [BNPパリバ証券の評判](/media/company-bnpparibashouken-reputation) — デットとエクイティの両輪
-- [ラザード・フレールの評判](/media/company-razaado-fureeru-reputation) — 独立系の助言に特化
-- [みずほ証券の評判](/media/company-mizuhoshouken-reputation) — 銀行基盤からの案件組成
-- [SMBC日興証券の評判](/media/company-smbcnikkoushouken-reputation) — 国内カバレッジの厚み
+- [ゴールドマン・サックス証券の評判](/media/company-goorudoman-sakkusushouken-reputation/) — 大型・クロスボーダー案件が中心
+- [JPモルガン証券の評判](/media/company-jpmoruganshouken-reputation/) — 資本市場と助言の両面
+- [ジェフリーズ証券の評判](/media/company-jiefuriizushouken-reputation/) — 助言を軸にした体制
+- [BNPパリバ証券の評判](/media/company-bnpparibashouken-reputation/) — デットとエクイティの両輪
+- [ラザード・フレールの評判](/media/company-razaado-fureeru-reputation/) — 独立系の助言に特化
+- [みずほ証券の評判](/media/company-mizuhoshouken-reputation/) — 銀行基盤からの案件組成
+- [SMBC日興証券の評判](/media/company-smbcnikkoushouken-reputation/) — 国内カバレッジの厚み
 
 ## 入社後の最初の1年で問われること
 

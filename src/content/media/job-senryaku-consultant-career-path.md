@@ -132,13 +132,13 @@ sources:
 
 所属する組織のタイプによって、キャリアの進み方にも違いが出ます。
 
-**戦略特化型ファーム** — 経営層向けのテーマが中心で、卒業後は投資ファンドや事業会社の経営層に進む方が多い傾向があります。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation)をご覧ください。
+**戦略特化型ファーム** — 経営層向けのテーマが中心で、卒業後は投資ファンドや事業会社の経営層に進む方が多い傾向があります。[A.T. カーニーの評判](/media/company-a-t-kearney-reputation/)、[PwC Strategy&の評判](/media/company-pwc-strategyand-reputation/)をご覧ください。
 
-**総合系ファームの戦略部門** — 立案から実行支援まで担うため、事業会社での実行役として評価されやすい面があります。[アクセンチュアの評判](/media/company-accenture-japan-reputation)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation)、[EY Japanの評判](/media/company-ey-japan-reputation)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation)が該当します。
+**総合系ファームの戦略部門** — 立案から実行支援まで担うため、事業会社での実行役として評価されやすい面があります。[アクセンチュアの評判](/media/company-accenture-japan-reputation/)、[PwCコンサルティングの評判](/media/company-pwc-consulting-reputation/)、[KPMGコンサルティングの評判](/media/company-kpmg-consulting-reputation/)、[EY Japanの評判](/media/company-ey-japan-reputation/)、[アビームコンサルティングの評判](/media/company-abeam-consulting-reputation/)が該当します。
 
-**独立系・新興ファーム** — 早期から裁量を持ちやすく、事業側への接続やスタートアップへの転出が近い傾向があります。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation)、[Ridgelinezの評判](/media/company-ridgelinez-reputation)を参照してください。
+**独立系・新興ファーム** — 早期から裁量を持ちやすく、事業側への接続やスタートアップへの転出が近い傾向があります。[YCP Holdings（グローバル）の評判](/media/company-ycp-holdings-global-reputation/)、[Ridgelinezの評判](/media/company-ridgelinez-reputation/)を参照してください。
 
-選考や報酬については、[戦略コンサルタントの選考フロー・面接対策](/media/job-senryaku-consultant-senkou-flow)、[戦略コンサルタントの年収相場](/media/job-senryaku-consultant-nensyu)、[戦略コンサルタントの転職難易度](/media/job-senryaku-consultant-tenshoku-nanido)、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow)もあわせてご確認ください。
+選考や報酬については、[戦略コンサルタントの選考フロー・面接対策](/media/job-senryaku-consultant-senkou-flow/)、[戦略コンサルタントの年収相場](/media/job-senryaku-consultant-nensyu/)、[戦略コンサルタントの転職難易度](/media/job-senryaku-consultant-tenshoku-nanido/)、[戦略コンサルティングファームの選考フロー・面接対策](/media/industry-senryaku-consul-senkou-flow/)もあわせてご確認ください。
 
 ## 未経験から入る場合のキャリア設計
 

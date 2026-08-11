@@ -95,7 +95,7 @@ FAS各社の多くは非上場のため、有価証券報告書がありませ�
 | 証券会社系 | 大型案件と資本市場に接続 | 資本市場の理解 |
 | 事業会社のM&A部門 | 買い手の側で継続的に関与 | 事業理解と統合の視点 |
 
-各社の状況は[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation)、[KPMG FASの評判](/media/company-kpmg-fas-reputation)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation)、[GCAの評判](/media/company-gca-reputation)、[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation)をご覧ください。
+各社の状況は[デロイト トーマツ ファイナンシャルアドバイザリーの評判](/media/company-deroito-toomatsu-fainansharuadobaizarii-reputation/)、[KPMG FASの評判](/media/company-kpmg-fas-reputation/)、[PwCアドバイザリーの評判](/media/company-pwcadobaizarii-reputation/)、[EYストラテジー・アンド・コンサルティングの評判](/media/company-eysutoratejii-ando-konsaruteingu-reputation/)、[GCAの評判](/media/company-gca-reputation/)、[フロンティア・マネジメントの評判](/media/company-furonteia-manejimento-reputation/)、[山田コンサルティンググループの評判](/media/company-yamadakonsaruteinguguruupu-reputation/)をご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>
@@ -116,7 +116,7 @@ FAS各社の多くは非上場のため、有価証券報告書がありませ�
 
 会計事務所や監査法人以外からの応募も広く行われています。銀行の融資審査、事業会社の経理・財務・経営企画、証券会社の引受業務などが接続しやすい経路です。
 
-翻訳の要点は、数字を作った経験ではなく、数字で判断した経験に置くことです。融資の可否を判断した、投資の稟議を通した、事業から撤退する判断に関わった。こうした経験は、資格の有無にかかわらず評価されます。仲介側との比較は[M&A仲介の選考フロー](/media/industry-ma-chukai-senkou-flow)を、職種としての詳細は[FASアナリストの選考フロー](/media/job-fas-analyst-senkou-flow)をご覧ください。
+翻訳の要点は、数字を作った経験ではなく、数字で判断した経験に置くことです。融資の可否を判断した、投資の稟議を通した、事業から撤退する判断に関わった。こうした経験は、資格の有無にかかわらず評価されます。仲介側との比較は[M&A仲介の選考フロー](/media/industry-ma-chukai-senkou-flow/)を、職種としての詳細は[FASアナリストの選考フロー](/media/job-fas-analyst-senkou-flow/)をご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

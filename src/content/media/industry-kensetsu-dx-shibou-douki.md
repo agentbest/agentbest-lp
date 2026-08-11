@@ -177,7 +177,7 @@ sources:
 
 **不動産会社のDX部門** — 所有者や入居者が相手です。顧客対応の経験が効きます。
 
-近い領域の書き方は[不動産テック業界のガイド](/media/proptech-industry-guide)、[物流DXの志望動機の書き方](/media/industry-butsuryu-dx-shibou-douki)もあわせてご覧ください。
+近い領域の書き方は[不動産テック業界のガイド](/media/proptech-industry-guide/)、[物流DXの志望動機の書き方](/media/industry-butsuryu-dx-shibou-douki/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

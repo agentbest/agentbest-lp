@@ -122,7 +122,7 @@ sources:
 
 複数社から提示を受けている場合は、金額だけでなく、担当予定の制度領域と対象組織の規模をそろえて比較します。この職種は担当領域で報酬が動くため、初年度の金額が低いほうが数年後に上回るという逆転が起こり得ます。
 
-転職の難しさについては[人事コンサルタントの転職難易度](/media/job-jinji-consultant-tenshoku-nanido)、キャリアの進み方については[人事コンサルタントのキャリアパス](/media/job-jinji-consultant-career-path)で整理しています。
+転職の難しさについては[人事コンサルタントの転職難易度](/media/job-jinji-consultant-tenshoku-nanido/)、キャリアの進み方については[人事コンサルタントのキャリアパス](/media/job-jinji-consultant-career-path/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

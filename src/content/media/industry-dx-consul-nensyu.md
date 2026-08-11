@@ -90,13 +90,13 @@ ITコンサルタント区分の月173時間は、経営コンサルタント区
 
 支援会社のうち上場している企業であれば、有価証券報告書で平均年間給与を確認できます。企業別の記事もあわせてご覧ください。
 
-- [ベイカレントの評判](/media/company-beikarento-reputation)
-- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation)
-- [エル・ティー・エスの評判](/media/company-lts-reputation)
-- [BIPROGYの評判](/media/company-biprogy-reputation)
-- [SCSKの評判](/media/company-scsk-reputation)
-- [NTTデータグループの評判](/media/company-nttdeetaguruupu-reputation)
-- [テラスカイの評判](/media/company-terasukai-reputation)
+- [ベイカレントの評判](/media/company-beikarento-reputation/)
+- [シグマクシス・ホールディングスの評判](/media/company-sigmaxyz-holdings-reputation/)
+- [エル・ティー・エスの評判](/media/company-lts-reputation/)
+- [BIPROGYの評判](/media/company-biprogy-reputation/)
+- [SCSKの評判](/media/company-scsk-reputation/)
+- [NTTデータグループの評判](/media/company-nttdeetaguruupu-reputation/)
+- [テラスカイの評判](/media/company-terasukai-reputation/)
 
 注意点があります。**平均年間給与は全社員の平均であり、職種と等級の構成に左右されます。** 支援職と管理部門、開発職が同居している会社では、コンサルティング職の水準はこの数字から離れます。数字を見たうえで、面接でポジション別のレンジを確認するのが現実的です。
 

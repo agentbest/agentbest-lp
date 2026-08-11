@@ -151,9 +151,9 @@ IPA（情報処理推進機構）が公開している「非機能要求グレ�
 
 **製品ベンダー** — 製品の深い理解と、他社製品との比較説明が求められます。
 
-隣接職種の選考も参考になります。[セールスエンジニア／プリセールスの面接対策](/media/presales-interview)、[ソリューションアーキテクトの面接対策](/media/solution-architect-interview)、[エンタープライズセールスの面接対策](/media/enterprise-sales-interview)、[ITコンサルタントの面接対策](/media/it-consultant-interview)をご覧ください。
+隣接職種の選考も参考になります。[セールスエンジニア／プリセールスの面接対策](/media/presales-interview/)、[ソリューションアーキテクトの面接対策](/media/solution-architect-interview/)、[エンタープライズセールスの面接対策](/media/enterprise-sales-interview/)、[ITコンサルタントの面接対策](/media/it-consultant-interview/)をご覧ください。
 
-志望動機の作り方と条件面は、[プリセールスの志望動機の書き方](/media/job-pre-sales-shibou-douki)、[プリセールスの年収相場](/media/job-pre-sales-nensyu)、[プリセールスの転職難易度](/media/job-pre-sales-tenshoku-nanido)をご確認ください。
+志望動機の作り方と条件面は、[プリセールスの志望動機の書き方](/media/job-pre-sales-shibou-douki/)、[プリセールスの年収相場](/media/job-pre-sales-nensyu/)、[プリセールスの転職難易度](/media/job-pre-sales-tenshoku-nanido/)をご確認ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

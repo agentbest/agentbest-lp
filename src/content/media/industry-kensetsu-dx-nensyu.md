@@ -148,7 +148,7 @@ job tagの建築施工管理技術者の区分では、入職前訓練は「1か
 
 5つ目も確認する価値があります。導入支援の職種では、現場に張り付く期間が発生します。交通費と手当の扱いが会社によって違います。
 
-近い領域の水準は[不動産テック業界の年収](/media/proptech-industry-salary)、[物流DXの年収相場](/media/industry-butsuryu-dx-nensyu)もあわせてご覧ください。
+近い領域の水準は[不動産テック業界の年収](/media/proptech-industry-salary/)、[物流DXの年収相場](/media/industry-butsuryu-dx-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

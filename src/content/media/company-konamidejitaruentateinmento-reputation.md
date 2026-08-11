@@ -162,7 +162,7 @@ sources:
 
 6つ目は、ゲーム開発では担当工程によって積める経験が大きく変わるためです。企画、開発、運営のどこを担うかで、次のキャリアの選択肢が変わります。job tagのゲームクリエーターの区分で「クオリティを判断する3.9」が上位に入っていることも、この点と関わります。**作る工程と、判断する工程は別物**です。
 
-近い規模のメーカーの読み方は[コマツの評判・年収・選考対策](/media/company-komatsu-reputation)、メガベンチャーとの比較は[メガベンチャーのキャリアパス](/media/industry-mega-venture-career-path)もあわせてご覧ください。
+近い規模のメーカーの読み方は[コマツの評判・年収・選考対策](/media/company-komatsu-reputation/)、メガベンチャーとの比較は[メガベンチャーのキャリアパス](/media/industry-mega-venture-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

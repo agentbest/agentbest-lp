@@ -163,9 +163,9 @@ sources:
 
 4つ目は、条件の意味を理解しているかを確かめる質問です。すべての条件を通したという答えは、かえって不自然に映ります。何かを譲った経験と、その判断の理由を用意しておきます。
 
-**参考になる書き方** — [事業開発（BizDev）の志望動機](/media/bizdev-motivation)、[事業開発の職務経歴書](/media/bizdev-resume)、[事業企画の志望動機の書き方](/media/job-jigyo-kikaku-shibou-douki)、[パートナーセールス／アライアンスの志望動機](/media/partner-sales-motivation)をご覧ください。
+**参考になる書き方** — [事業開発（BizDev）の志望動機](/media/bizdev-motivation/)、[事業開発の職務経歴書](/media/bizdev-resume/)、[事業企画の志望動機の書き方](/media/job-jigyo-kikaku-shibou-douki/)、[パートナーセールス／アライアンスの志望動機](/media/partner-sales-motivation/)をご覧ください。
 
-選考の流れと条件面は、[事業開発（BizDev）の選考フロー・面接対策](/media/job-bizdev-senkou-flow)、[事業開発（BizDev）の年収相場](/media/job-bizdev-nensyu)をご確認ください。
+選考の流れと条件面は、[事業開発（BizDev）の選考フロー・面接対策](/media/job-bizdev-senkou-flow/)、[事業開発（BizDev）の年収相場](/media/job-bizdev-nensyu/)をご確認ください。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>

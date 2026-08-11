@@ -136,16 +136,16 @@ job tagの「ファンドマネージャー」の区分では、日本証券ア�
 
 企業別の記事もご覧ください。各社の事業モデルと人員構成が確認できます。
 
-- [グロービス・キャピタル・パートナーズの評判](/media/company-guroobisu-kyapitaru-paatonaazu-reputation)
-- [ジェネシア・ベンチャーズの評判](/media/company-jieneshia-benchaazu-reputation)
-- [グローバル・ブレインの評判](/media/company-guroobaru-burein-reputation)
-- [サイバーエージェント・キャピタルの評判](/media/company-saibaaeejiento-kyapitaru-reputation)
-- [East Venturesの評判](/media/company-east-ventures-reputation)
-- [インキュベイトファンドの評判](/media/company-inkyubeitofando-reputation)
-- [みずほキャピタルの評判](/media/company-mizuhokyapitaru-reputation)
-- [SBIインベストメントの評判](/media/company-sbiinbesutomento-reputation)
+- [グロービス・キャピタル・パートナーズの評判](/media/company-guroobisu-kyapitaru-paatonaazu-reputation/)
+- [ジェネシア・ベンチャーズの評判](/media/company-jieneshia-benchaazu-reputation/)
+- [グローバル・ブレインの評判](/media/company-guroobaru-burein-reputation/)
+- [サイバーエージェント・キャピタルの評判](/media/company-saibaaeejiento-kyapitaru-reputation/)
+- [East Venturesの評判](/media/company-east-ventures-reputation/)
+- [インキュベイトファンドの評判](/media/company-inkyubeitofando-reputation/)
+- [みずほキャピタルの評判](/media/company-mizuhokyapitaru-reputation/)
+- [SBIインベストメントの評判](/media/company-sbiinbesutomento-reputation/)
 
-職種としての選考対策は[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow)でも扱っています。
+職種としての選考対策は[ベンチャーキャピタリストの選考フロー・面接対策](/media/job-vc-capitalist-senkou-flow/)でも扱っています。
 
 <aside class="cta-inline">
   <p>職務経歴書の見せ方を相談してみませんか</p>

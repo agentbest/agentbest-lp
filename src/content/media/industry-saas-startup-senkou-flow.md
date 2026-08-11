@@ -173,7 +173,7 @@ SaaSの収益は継続で成り立ちます。獲得の話だけでは足りま�
 
 **上場前後** — 管理の仕組みが整い、選考も体系化されます。大手企業に近い進め方になります。
 
-近い領域の選考は[SaaS業界の企業](/media/saas-industry-company)、[メガベンチャーの選考フロー・面接対策](/media/industry-mega-venture-senkou-flow)もあわせてご覧ください。
+近い領域の選考は[SaaS業界の企業](/media/saas-industry-company/)、[メガベンチャーの選考フロー・面接対策](/media/industry-mega-venture-senkou-flow/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -193,7 +193,7 @@ SaaSの収益は継続で成り立ちます。獲得の話だけでは足りま�
 
 1つ目が、入社後の役割を左右します。人数が少ない職種では、幅広く担うことになります。
 
-4つ目は、この業界の利点が使えるかを確認する質問です。有効求人倍率4.02のセールスから入り、社内で移るという経路があります。詳しくは[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido)で整理しています。
+4つ目は、この業界の利点が使えるかを確認する質問です。有効求人倍率4.02のセールスから入り、社内で移るという経路があります。詳しくは[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido/)で整理しています。
 
 5つ目は、事業の透明性を測る質問にもなります。数字が共有される会社では、自分の仕事の意味が見えやすくなります。
 

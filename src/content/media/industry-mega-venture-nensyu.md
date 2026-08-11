@@ -91,7 +91,7 @@ sources:
 
 **プロダクトマネージャー・事業開発**
 
-事業の成果に紐づく設計が入りやすくなります。詳しくは[プロダクトマネージャーの年収相場](/media/job-product-manager-nensyu)、[事業開発の年収相場](/media/job-bizdev-nensyu)もご覧ください。
+事業の成果に紐づく設計が入りやすくなります。詳しくは[プロダクトマネージャーの年収相場](/media/job-product-manager-nensyu/)、[事業開発の年収相場](/media/job-bizdev-nensyu/)もご覧ください。
 
 **営業・カスタマーサクセス**
 
