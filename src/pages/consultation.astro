@@ -1,0 +1,296 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+
+/* ---------------------------------------------------------------
+   Airtable「キャリア相談」フォーム
+   ---------------------------------------------------------------
+   テーブル: 求人応募（サイト） / ベース: 人材紹介事業
+   Airtable 側でフォームを複製・調整したら、FORM_SHARE_ID の shr… を
+   差し替えるだけでこのページに反映されます。
+   （相談用フォームでは 履歴書・職務経歴書 を「任意」にしてください）
+--------------------------------------------------------------- */
+const AIRTABLE_BASE_ID = 'appYkc36EvioYoL1A';
+const FORM_SHARE_ID = 'shr0K5l9MSiNMgUe6';
+
+const formParams = new URLSearchParams({
+  prefill_応募求人: 'キャリア相談（求人未定）',
+  hide_応募求人: 'true',
+  hide_企業名: 'true',
+  hide_求人レコードID: 'true',
+});
+const FORM_EMBED_URL = `https://airtable.com/embed/${AIRTABLE_BASE_ID}/${FORM_SHARE_ID}?${formParams}`;
+
+const CALENDLY_URL = 'https://calendly.com/r_matsuoka';
+
+const stages = [
+  {
+    title: '転職するか、まだ決めていない',
+    body: '「動くべきか」を決めるところからご一緒します。結論として現職に残る、という判断も歓迎です。',
+  },
+  {
+    title: '興味はあるが、求人を見ていない',
+    body: 'ご経歴と志向をうかがったうえで、市場の相場観と具体的な選択肢をお渡しします。',
+  },
+  {
+    title: '自分の市場価値を知りたいだけ',
+    body: '同じ経歴の方がどの水準で決まっているか、実際の決定事例ベースでお伝えします。',
+  },
+];
+
+const steps = [
+  { no: '01', title: 'フォーム送信', body: '所要3分ほど。履歴書がお手元になくても送信いただけます。' },
+  { no: '02', title: '担当より連絡', body: '原則2営業日以内に、ご記入のメールまたはお電話でご連絡します。' },
+  { no: '03', title: '面談（30〜60分）', body: 'オンラインで。現職中の方が大半です。夜間・土日も調整可能です。' },
+];
+---
+
+<Layout
+  title="キャリア相談｜株式会社エージェントベスト"
+  description="求人が決まっていない段階でのご相談を受け付けています。転職するか迷っている、市場価値を知りたい、情報収集から始めたい——20代・30代のハイクラス層向けに、領域のプロがキャリアの選択肢を整理します。"
+>
+  <Header />
+
+  <main>
+    <!-- ============ HERO ============ -->
+    <section class="lead-sec">
+      <div class="wrap lead-grid">
+        <div>
+          <span class="eyebrow">Career Consultation</span>
+          <h1 class="lead-title">まだ何も<br />決まっていなくて、いい。</h1>
+          <p class="lead-body">
+            応募したい求人が決まっている必要はありません。<br />
+            「転職するかどうか」から迷っている段階のご相談を、いちばん歓迎しています。<br />
+            扱う領域を絞っているぶん、一般論ではなく、あなたの経歴に対する具体的な話ができます。
+          </p>
+          <a href="#form" class="btn lead-cta">
+            相談フォームへ <span class="arrow" aria-hidden="true">↓</span>
+          </a>
+        </div>
+        <aside class="lead-note">
+          <p class="lead-note-title">ご相談は無料です</p>
+          <p>
+            費用はいただきません。無理に求人をお勧めすることも、
+            ご本人の同意なく経歴を企業へ共有することもありません。
+          </p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ こんな段階でも ============ -->
+    <section class="section stages spine">
+      <div class="wrap">
+        <header class="sec-head">
+          <span class="eyebrow">Who</span>
+          <h2>こんな段階のご相談を、よくいただきます</h2>
+        </header>
+        <ul class="stage-list">
+          {stages.map((s) => (
+            <li class="stage-card">
+              <h3>{s.title}</h3>
+              <p>{s.body}</p>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============ 流れ ============ -->
+    <section class="section flow">
+      <div class="wrap">
+        <header class="sec-head">
+          <span class="eyebrow">Flow</span>
+          <h2>ご相談の流れ</h2>
+        </header>
+        <ol class="step-list">
+          {steps.map((s) => (
+            <li class="step">
+              <span class="step-no">{s.no}</span>
+              <h3>{s.title}</h3>
+              <p>{s.body}</p>
+            </li>
+          ))}
+        </ol>
+      </div>
+    </section>
+
+    <!-- ============ フォーム ============ -->
+    <section id="form" class="form-sec">
+      <div class="wrap">
+        <header class="sec-head form-head">
+          <span class="eyebrow">Contact</span>
+          <h2>相談フォーム</h2>
+          <p class="form-lead">
+            分かる範囲でご記入ください。空欄のままでも、面談のなかで一緒に整理していきます。
+          </p>
+        </header>
+
+        <div class="form-frame">
+          <!--
+            高さは Airtable フォームの実測値に合わせています（内側スクロールを出さないため）。
+            フォームの項目を増減したら、この高さも合わせて調整してください。
+          -->
+          <iframe
+            class="airtable-embed"
+            src={FORM_EMBED_URL}
+            title="キャリア相談フォーム"
+            width="100%"
+            loading="lazy"
+            frameborder="0"
+          ></iframe>
+        </div>
+
+        <p class="form-foot">
+          フォームが表示されない場合は
+          <a href={FORM_EMBED_URL.replace('/embed/', '/')} target="_blank" rel="noopener">こちらから直接ご記入</a>
+          いただけます。
+        </p>
+
+        <div class="alt-cta">
+          <p class="alt-cta-title">先に話してしまいたい方へ</p>
+          <p class="alt-cta-body">
+            フォームの記入より、まず話したい——という場合は、日程を直接お選びいただけます。
+          </p>
+          <a href={CALENDLY_URL} target="_blank" rel="noopener" class="btn btn--ghost">
+            面談の日程を調整する <span class="arrow" aria-hidden="true">→</span>
+          </a>
+        </div>
+
+        <p class="alt-note">
+          応募したい求人がすでにお決まりの方は、<a href="https://jobs.agent-best.net/" target="_blank" rel="noopener">求人検索</a>から各求人ページの応募フォームをご利用ください。<br />
+          採用・サービスに関する企業の方は<a href="/contact">お問い合わせフォーム</a>から承ります。
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div class="footer-brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="footer-name">AGENT&nbsp;BEST</span>
+        <p class="footer-tag">ミドル・ハイクラスのための転職エージェント</p>
+      </div>
+      <p class="footer-meta">
+        株式会社エージェントベスト　許可番号 13-ユ-316964<br />
+        東京都港区六本木4-8-7　嶋田ビル5階
+      </p>
+    </div>
+    <div class="wrap footer-base">
+      <small>© {new Date().getFullYear()} Agent Best Inc.</small>
+    </div>
+  </footer>
+
+  <style>
+    /* ---------- HERO ---------- */
+    .lead-sec { padding-block: clamp(56px, 9vw, 110px); }
+    .lead-grid { display: grid; gap: clamp(32px, 5vw, 64px); align-items: start; }
+    @media (min-width: 900px) { .lead-grid { grid-template-columns: 1.35fr 0.65fr; } }
+
+    .lead-title {
+      font-size: clamp(1.9rem, 4.6vw, 2.85rem);
+      margin-top: 1.1rem;
+      letter-spacing: 0.01em;
+      line-height: 1.5;
+    }
+    .lead-body { color: var(--slate); margin-top: 1.8rem; line-height: 2.15; }
+    .lead-cta { margin-top: 2.4rem; }
+    .lead-cta .arrow { transition: transform .25s ease; }
+    .lead-cta:hover .arrow { transform: translateY(3px); }
+
+    .lead-note {
+      background: var(--paper-deep);
+      border: 1px solid var(--hairline);
+      border-radius: 3px;
+      padding: clamp(22px, 3vw, 30px);
+    }
+    .lead-note-title {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 1.02rem;
+      margin-bottom: 0.7rem;
+    }
+    .lead-note p { font-size: 0.86rem; color: var(--slate); line-height: 2; }
+
+    /* ---------- 共通 見出し ---------- */
+    .sec-head { margin-bottom: clamp(28px, 4vw, 46px); }
+    .sec-head h2 { font-size: clamp(1.4rem, 2.8vw, 2rem); margin-top: 0.9rem; }
+
+    /* ---------- こんな段階でも ---------- */
+    .stages { background: var(--paper-deep); }
+    .stages .sec-head, .stages .stage-list { padding-left: clamp(20px, 3vw, 40px); }
+    .stage-list { list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(20px, 3vw, 30px); }
+    @media (min-width: 820px) { .stage-list { grid-template-columns: repeat(3, 1fr); } }
+    .stage-card {
+      background: var(--paper);
+      border: 1px solid var(--hairline);
+      border-radius: 3px;
+      padding: clamp(22px, 3vw, 30px);
+    }
+    .stage-card h3 { font-size: 1rem; line-height: 1.7; }
+    .stage-card p { margin-top: 0.9rem; font-size: 0.86rem; color: var(--slate); line-height: 2; }
+
+    /* ---------- 流れ ---------- */
+    .step-list { list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(24px, 3.4vw, 40px); }
+    @media (min-width: 820px) { .step-list { grid-template-columns: repeat(3, 1fr); } }
+    .step { border-top: 1px solid var(--hairline); padding-top: 1.4rem; }
+    .step-no {
+      font-family: var(--font-display);
+      font-size: 0.86rem;
+      letter-spacing: 0.18em;
+      color: var(--teal);
+      font-weight: 700;
+    }
+    .step h3 { font-size: 1rem; margin-top: 0.6rem; }
+    .step p { margin-top: 0.8rem; font-size: 0.86rem; color: var(--slate); line-height: 2; }
+
+    /* ---------- フォーム ---------- */
+    .form-sec { padding-block: clamp(64px, 9vw, 120px); background: var(--paper-deep); }
+    .form-head { max-width: 34em; }
+    .form-lead { margin-top: 1.2rem; color: var(--slate); font-size: 0.92rem; line-height: 2; }
+
+    .form-frame {
+      background: var(--paper);
+      border: 1px solid var(--hairline);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .airtable-embed { display: block; width: 100%; height: 2780px; border: 0; background: #fff; }
+    @media (max-width: 900px) { .airtable-embed { height: 3000px; } }
+    @media (max-width: 560px) { .airtable-embed { height: 3400px; } }
+
+    .form-foot { margin-top: 1.2rem; font-size: 0.8rem; color: var(--slate-mute); }
+    .form-foot a { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
+
+    .alt-cta {
+      margin-top: clamp(40px, 6vw, 70px);
+      border-top: 1px solid var(--hairline);
+      padding-top: clamp(28px, 4vw, 42px);
+    }
+    .alt-cta-title { font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; }
+    .alt-cta-body { margin-top: 0.7rem; color: var(--slate); font-size: 0.9rem; line-height: 2; }
+    .alt-cta .btn { margin-top: 1.4rem; }
+
+    .alt-note {
+      margin-top: clamp(28px, 4vw, 42px);
+      font-size: 0.8rem;
+      color: var(--slate-mute);
+      line-height: 2.1;
+    }
+    .alt-note a { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
+
+    /* ---------- FOOTER（index / contact と同一） ---------- */
+    .site-footer { background: var(--ink); color: var(--paper); padding-top: clamp(48px, 7vw, 80px); border-top: 1px solid var(--hairline-on-dark); }
+    .footer-inner { display: grid; gap: clamp(28px, 5vw, 48px); padding-bottom: clamp(40px, 6vw, 64px); }
+    @media (min-width: 720px) { .footer-inner { grid-template-columns: 1fr 1fr; align-items: end; } }
+    .footer-brand { display: flex; flex-direction: column; gap: 0.4rem; }
+    .footer-brand .brand-mark { width: 14px; height: 14px; border: 1.5px solid #B7D9CF; position: relative; }
+    .footer-brand .brand-mark::after { content: ""; position: absolute; inset: 3px; background: #B7D9CF; }
+    .footer-name { font-family: var(--font-display); font-weight: 700; letter-spacing: 0.16em; font-size: 1.1rem; margin-top: 0.4rem; }
+    .footer-tag { color: #AEB6C2; font-size: 0.84rem; }
+    .footer-meta { color: #AEB6C2; font-size: 0.82rem; line-height: 1.9; }
+    @media (min-width: 720px) { .footer-meta { text-align: right; } }
+    .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; }
+    .footer-base small { color: var(--slate-mute); letter-spacing: 0.06em; }
+  </style>
+</Layout>

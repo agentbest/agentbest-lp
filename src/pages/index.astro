@@ -93,7 +93,7 @@ const company = [
             あなたの市場価値を最も引き上げる選択肢だけをお渡しします。
           </p>
           <div class="hero-actions">
-            <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn">
+            <a href="/consultation" class="btn">
               転職相談をはじめる <span class="arrow" aria-hidden="true">→</span>
             </a>
             <a href="#domains" class="btn btn--ghost">専門領域を見る</a>
@@ -305,11 +305,14 @@ const company = [
           キャリアの選択肢を、領域のプロと一緒に整理しましょう。
         </p>
         <div class="cta-actions">
-          <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="btn btn--on-dark">
-            相談の日程を調整する <span class="arrow" aria-hidden="true">→</span>
+          <a href="/consultation" class="btn btn--on-dark">
+            相談フォームへ <span class="arrow" aria-hidden="true">→</span>
+          </a>
+          <a href="https://calendly.com/r_matsuoka" target="_blank" rel="noopener" class="cta-alt-link">
+            先に日程を決めたい方はこちら
           </a>
         </div>
-        <p class="cta-note">オンラインで30分ほど。現職中でも、情報収集の段階でもお気軽に。</p>
+        <p class="cta-note">オンラインで30分ほど。応募したい求人が決まっていなくても構いません。</p>
         <p class="cta-sub">採用・サービスに関する企業の方は <a href="/contact">お問い合わせフォーム</a> から。</p>
       </div>
     </section>
@@ -646,7 +649,22 @@ const company = [
     .cta-inner { text-align: center; }
     .cta-title { font-size: clamp(2rem, 5vw, 3.3rem); margin-top: 1.2rem; letter-spacing: 0.05em; }
     .cta-body { color: #C7CCD4; margin-top: 1.7rem; max-width: 38em; margin-inline: auto; line-height: 2; }
-    .cta-actions { margin-top: 2.8rem; }
+    .cta-actions {
+      margin-top: 2.8rem;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: clamp(16px, 2.4vw, 30px);
+    }
+    .cta-alt-link {
+      font-size: 0.82rem;
+      color: #C7CCD4;
+      border-bottom: 1px solid rgba(255,255,255,0.28);
+      padding-bottom: 2px;
+      transition: color .2s ease, border-color .2s ease;
+    }
+    .cta-alt-link:hover { color: #B7D9CF; border-bottom-color: #B7D9CF; }
     .cta-note { margin-top: 1.8rem; font-size: 0.74rem; color: var(--slate-mute); }
 
     /* ---------- COMPANY ---------- */
