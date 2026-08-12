@@ -9,7 +9,7 @@ tags: ["アカツキ", "ゲーム", "持株会社", "エンタメ", "評判"]
 pubDate: 2026-08-11
 slug: "company-akatsuki-reputation"
 image: "/images/media/company-akatsuki-reputation.png"
-related: ["bizdev-work-style", "industry-maker-it-tenshoku-nanido", "job-data-scientist-tenshoku-nanido", "job-data-scientist-career-path"]
+related: ["bizdev-work-style", "industry-maker-it-tenshoku-nanido", "job-data-scientist-tenshoku-nanido", "company-ubie-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アカツキ 有価証券報告書 第16期（2026年3月期・2026年6月26日提出）"

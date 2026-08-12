@@ -9,7 +9,7 @@ tags: ["テラスカイ", "Salesforce", "クラウド", "東証プライム", "B
 pubDate: 2026-08-20
 slug: "company-terasukai-reputation"
 image: "/images/media/company-terasukai-reputation.png"
-related: ["it-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-arthur-d-little-reputation"]
+related: ["it-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-insoosu-reputation"]
 reviewedAt: 2026-08-20
 sources:
   - name: "有価証券報告書 第20期（2026年2月期）"

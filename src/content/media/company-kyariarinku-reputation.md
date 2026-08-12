@@ -9,7 +9,7 @@ tags: ["キャリアリンク", "BPO", "人材派遣", "自治体", "アウト�
 pubDate: 2026-08-12
 slug: "company-kyariarinku-reputation"
 image: "/images/media/company-kyariarinku-reputation.png"
-related: ["saas-industry-trend", "industry-kinyu-it-senkou-flow", "job-shanai-se-senkou-flow", "job-product-manager-shibou-douki"]
+related: ["saas-industry-trend", "industry-kinyu-it-senkou-flow", "job-shanai-se-senkou-flow", "job-field-sales-shibou-douki"]
 reviewedAt: 2026-08-12
 sources:
   - name: "キャリアリンク株式会社 有価証券報告書 第30期（2025年4月1日-2026年3月31日）"

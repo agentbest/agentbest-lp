@@ -9,7 +9,7 @@ tags: ["CARTA HOLDINGS", "デジタルマーケティング", "電通グルー�
 pubDate: 2026-09-13
 slug: "company-carta-holdings-reputation"
 image: "/images/media/company-carta-holdings-reputation.png"
-related: ["customer-success-english", "industry-mega-venture-senkou-flow", "job-it-architect-senkou-flow", "job-project-manager-senkou-flow"]
+related: ["customer-success-english", "industry-mega-venture-senkou-flow", "job-it-architect-senkou-flow", "industry-mega-venture-nensyu"]
 reviewedAt: 2026-09-13
 sources:
   - name: "株式会社CARTA HOLDINGS 有価証券報告書 第26期（2024年12月期）"

@@ -9,7 +9,7 @@ tags: ["キャリアデザインセンター", "type", "女の転職type", "人�
 pubDate: 2026-08-12
 slug: "company-kyariadezainsentaa-reputation"
 image: "/images/media/company-kyariadezainsentaa-reputation.png"
-related: ["industry-saas-vendor-senkou-flow", "industry-kinyu-it-career-path", "job-shanai-se-career-path", "company-asuene-reputation"]
+related: ["industry-saas-vendor-senkou-flow", "industry-kinyu-it-career-path", "job-shanai-se-career-path", "company-sakana-ai-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社キャリアデザインセンター 有価証券報告書 第34期（2024年10月1日-2025年9月30日）"

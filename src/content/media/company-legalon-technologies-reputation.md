@@ -9,7 +9,7 @@ tags: ["LegalOn Technologies", "リーガルテック", "SaaS", "スタートア
 pubDate: 2026-08-09
 slug: "company-legalon-technologies-reputation"
 image: "/images/media/company-legalon-technologies-reputation.png"
-related: ["bizdev-salary-1000", "industry-tsushin-career-path", "job-pe-investment-career-path", "industry-maker-it-career-path"]
+related: ["bizdev-salary-1000", "industry-tsushin-career-path", "job-pe-investment-career-path", "company-aperuza-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "株式会社LegalOn Technologies 会社案内"

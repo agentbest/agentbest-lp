@@ -9,7 +9,7 @@ tags: ["Asobica", "coorum", "ゼロパーティーデータ", "カスタマー�
 pubDate: 2026-09-12
 slug: "company-asobica-reputation"
 image: "/images/media/company-asobica-reputation.png"
-related: ["product-manager-salary-600", "industry-mega-venture-career-path", "job-pre-sales-career-path", "job-jigyo-kikaku-shibou-douki"]
+related: ["product-manager-salary-600", "industry-mega-venture-career-path", "job-pre-sales-career-path", "company-10x-reputation"]
 reviewedAt: 2026-09-12
 sources:
   - name: "株式会社Asobica「Asobica、総額27.2億円の資金調達を実施」（2022年7月29日）"

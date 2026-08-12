@@ -9,7 +9,7 @@ tags: ["経営企画", "転職難易度", "有効求人倍率", "上場準備", 
 pubDate: 2026-08-10
 slug: "job-keiei-kikaku-tenshoku-nanido"
 image: "/images/media/job-keiei-kikaku-tenshoku-nanido.png"
-related: ["bizdev-from-scratch", "job-keiei-kikaku-career-path", "job-keiei-kikaku-nensyu", "industry-maker-it-shibou-douki"]
+related: ["bizdev-from-scratch", "job-keiei-kikaku-shibou-douki", "job-keiei-kikaku-career-path", "industry-maker-it-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／IR広報担当"

@@ -9,7 +9,7 @@ tags: ["CBcloud", "PickGo", "物流", "配送プラットフォーム", "SmaRyu"
 pubDate: 2026-09-13
 slug: "company-cbcloud-reputation"
 image: "/images/media/company-cbcloud-reputation.png"
-related: ["saas-sales-certification", "industry-kinyu-it-career-path", "job-project-manager-career-path", "job-pe-investment-shibou-douki"]
+related: ["saas-sales-certification", "industry-kinyu-it-career-path", "job-project-manager-career-path", "company-aperuza-reputation"]
 reviewedAt: 2026-09-13
 sources:
   - name: "CBcloud株式会社「沖縄県内企業等14社・ファンドが、CBcloudへ出資参画」（2026年4月23日）"

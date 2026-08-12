@@ -9,7 +9,7 @@ tags: ["ベンチャーキャピタル", "VC", "選考フロー", "面接対策"
 pubDate: 2026-08-11
 slug: "job-vc-capitalist-senkou-flow"
 image: "/images/media/job-vc-capitalist-senkou-flow.png"
-related: ["bizdev-career-guide", "job-vc-capitalist-tenshoku-nanido", "job-vc-capitalist-career-path", "industry-kinyu-it-shibou-douki"]
+related: ["bizdev-career-guide", "job-vc-capitalist-career-path", "job-vc-capitalist-nensyu", "industry-kinyu-it-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "厚生労働省 職業情報提供サイト（job tag）／ファンドマネージャー"

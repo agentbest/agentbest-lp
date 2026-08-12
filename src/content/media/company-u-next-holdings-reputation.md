@@ -9,7 +9,7 @@ tags: ["U-NEXT HOLDINGS", "動画配信", "持株会社", "有価証券報告書
 pubDate: 2026-08-11
 slug: "company-u-next-holdings-reputation"
 image: "/images/media/company-u-next-holdings-reputation.png"
-related: ["bizdev-salary-600", "industry-tsushin-shibou-douki", "job-inside-sales-shibou-douki", "job-jigyo-kikaku-nensyu"]
+related: ["bizdev-salary-600", "industry-tsushin-shibou-douki", "job-inside-sales-shibou-douki", "job-scrum-master-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社U-NEXT HOLDINGS 有価証券報告書 第18期（2025年8月期）"

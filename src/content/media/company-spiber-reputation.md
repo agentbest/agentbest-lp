@@ -9,7 +9,7 @@ tags: ["Spiber", "バイオ素材", "ディープテック", "スタートアッ
 pubDate: 2026-08-10
 slug: "company-spiber-reputation"
 image: "/images/media/company-spiber-reputation.png"
-related: ["saas-sales-how-to-use-agent", "industry-mega-venture-shibou-douki", "job-project-manager-shibou-douki", "job-customer-success-career-path"]
+related: ["saas-sales-how-to-use-agent", "industry-mega-venture-shibou-douki", "job-project-manager-shibou-douki", "job-cxo-kouho-shibou-douki"]
 reviewedAt: 2026-08-10
 sources:
   - name: "Spiber株式会社 Company（企業情報）"

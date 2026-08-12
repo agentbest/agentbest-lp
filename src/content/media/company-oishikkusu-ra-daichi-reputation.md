@@ -9,7 +9,7 @@ tags: ["オイシックス・ラ・大地", "サブスクリプション", "食�
 pubDate: 2026-08-11
 slug: "company-oishikkusu-ra-daichi-reputation"
 image: "/images/media/company-oishikkusu-ra-daichi-reputation.png"
-related: ["product-manager-future", "industry-kinyu-it-senkou-flow", "job-bizdev-senkou-flow", "company-kyadi-reputation"]
+related: ["product-manager-future", "industry-kinyu-it-senkou-flow", "job-bizdev-senkou-flow", "job-jigyo-kikaku-senkou-flow"]
 reviewedAt: 2026-08-11
 sources:
   - name: "オイシックス・ラ・大地株式会社 有価証券報告書 第29期（2026年3月期・2026年6月24日提出）"

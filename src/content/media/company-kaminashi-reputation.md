@@ -9,7 +9,7 @@ tags: ["カミナシ", "現場DX", "ノンデスクワーカー", "SaaS", "評�
 pubDate: 2026-08-11
 slug: "company-kaminashi-reputation"
 image: "/images/media/company-kaminashi-reputation.png"
-related: ["bizdev-resume", "industry-tsushin-senkou-flow", "job-data-scientist-senkou-flow", "company-asuene-reputation"]
+related: ["bizdev-resume", "industry-tsushin-senkou-flow", "job-data-scientist-senkou-flow", "job-keiei-kikaku-career-path"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社カミナシ 会社概要"

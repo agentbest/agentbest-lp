@@ -9,7 +9,7 @@ tags: ["大和総研", "シンクタンク", "証券系", "企業研究", "転�
 pubDate: 2026-08-12
 slug: "company-yamatosouken-reputation"
 image: "/images/media/company-yamatosouken-reputation.png"
-related: ["strategy-consultant-career-guide", "industry-gyokai-tokka-consul-career-path", "job-pmo-consultant-career-path", "company-kpmg-japan-reputation"]
+related: ["strategy-consultant-career-guide", "industry-gyokai-tokka-consul-career-path", "job-pmo-consultant-career-path", "company-deroito-toomatsu-guruupu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社大和総研（法人番号 1010601022176）"

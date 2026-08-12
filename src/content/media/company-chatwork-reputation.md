@@ -9,7 +9,7 @@ tags: ["Chatwork", "kubell", "BPaaS", "ビジネスチャット", "中小企業D
 pubDate: 2026-09-13
 slug: "company-chatwork-reputation"
 image: "/images/media/company-chatwork-reputation.png"
-related: ["customer-success-failure", "industry-tsushin-career-path", "job-field-sales-career-path", "company-upsider-reputation"]
+related: ["customer-success-failure", "industry-tsushin-career-path", "job-field-sales-career-path", "company-utguruupu-reputation"]
 reviewedAt: 2026-09-13
 sources:
   - name: "株式会社kubell 有価証券報告書 第22期（2025年12月期）"

@@ -9,7 +9,7 @@ tags: ["アイリス", "nodoca", "AI医療機器", "薬事承認", "評判"]
 pubDate: 2026-08-11
 slug: "company-airisu-reputation"
 image: "/images/media/company-airisu-reputation.png"
-related: ["saas-sales-salary-600", "industry-kinyu-it-nensyu", "job-shanai-se-nensyu", "job-cxo-kouho-shibou-douki"]
+related: ["saas-sales-salary-600", "industry-kinyu-it-nensyu", "job-shanai-se-nensyu", "job-dx-suishin-nensyu"]
 reviewedAt: 2026-08-11
 sources:
   - name: "アイリス株式会社 私たちについて"

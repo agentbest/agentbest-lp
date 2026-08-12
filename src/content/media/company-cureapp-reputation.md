@@ -9,7 +9,7 @@ tags: ["CureApp", "治療用アプリ", "プログラム医療機器", "DTx", "�
 pubDate: 2026-09-13
 slug: "company-cureapp-reputation"
 image: "/images/media/company-cureapp-reputation.png"
-related: ["bizdev-company-size", "industry-kinyu-it-career-path", "job-bizdev-career-path", "job-scrum-master-shibou-douki"]
+related: ["bizdev-company-size", "industry-kinyu-it-career-path", "job-bizdev-career-path", "company-dii-enu-ee-reputation"]
 reviewedAt: 2026-09-13
 sources:
   - name: "株式会社CureApp 会社概要"

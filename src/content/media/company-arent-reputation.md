@@ -9,7 +9,7 @@ tags: ["Arent", "建設DX", "PlantStream", "BIM", "共創開発"]
 pubDate: 2026-09-12
 slug: "company-arent-reputation"
 image: "/images/media/company-arent-reputation.png"
-related: ["product-manager-work-style", "industry-maker-it-nensyu", "job-pe-investment-nensyu", "company-10x-reputation"]
+related: ["product-manager-work-style", "industry-maker-it-nensyu", "job-pe-investment-nensyu", "company-lifull-reputation"]
 reviewedAt: 2026-09-12
 sources:
   - name: "株式会社Arent 有価証券報告書 第13期（2025年6月期）"

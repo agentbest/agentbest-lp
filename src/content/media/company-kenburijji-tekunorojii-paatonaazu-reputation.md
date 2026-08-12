@@ -9,7 +9,7 @@ tags: ["ケンブリッジ・テクノロジー・パートナーズ", "ITコン
 pubDate: 2026-08-12
 slug: "company-kenburijji-tekunorojii-paatonaazu-reputation"
 image: "/images/media/company-kenburijji-tekunorojii-paatonaazu-reputation.png"
-related: ["it-consultant-interview", "industry-senryaku-consul-nensyu", "job-sap-consultant-nensyu", "company-pwc-strategyand-reputation"]
+related: ["it-consultant-interview", "industry-senryaku-consul-nensyu", "job-sap-consultant-nensyu", "job-sap-consultant-senkou-flow"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／ケンブリッジ・テクノロジー・パートナーズ株式会社（法人番号 5010601032675）"

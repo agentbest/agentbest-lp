@@ -9,7 +9,7 @@ tags: ["マーサージャパン", "人事コンサルティング", "組織人�
 pubDate: 2026-08-12
 slug: "company-maasaajapan-reputation"
 image: "/images/media/company-maasaajapan-reputation.png"
-related: ["it-consultant-salary-600", "industry-gyokai-tokka-consul-senkou-flow", "job-pmo-consultant-senkou-flow", "industry-gyokai-tokka-consul-tenshoku-nanido"]
+related: ["it-consultant-salary-600", "industry-gyokai-tokka-consul-senkou-flow", "job-pmo-consultant-senkou-flow", "company-terasukai-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／マーサージャパン株式会社（法人番号 5011101026184）"

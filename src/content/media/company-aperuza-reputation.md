@@ -9,7 +9,7 @@ tags: ["アペルザ", "製造業DX", "SaaS", "BtoBプラットフォーム", "�
 pubDate: 2026-08-11
 slug: "company-aperuza-reputation"
 image: "/images/media/company-aperuza-reputation.png"
-related: ["bizdev-interview", "industry-maker-it-shibou-douki", "job-customer-success-shibou-douki", "company-esu-emu-esu-reputation"]
+related: ["bizdev-interview", "industry-maker-it-shibou-douki", "job-customer-success-shibou-douki", "company-en-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アペルザ 会社概要"

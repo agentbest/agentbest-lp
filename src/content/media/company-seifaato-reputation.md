@@ -9,7 +9,7 @@ tags: ["セイファート", "美容業界", "業界特化コンサル", "企業
 pubDate: 2026-08-12
 slug: "company-seifaato-reputation"
 image: "/images/media/company-seifaato-reputation.png"
-related: ["thinktank-future", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-deroito-toomatsu-guruupu-reputation"]
+related: ["thinktank-future", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-guroobaruinfomeeshon-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社セイファート（法人番号 6011001043048）"

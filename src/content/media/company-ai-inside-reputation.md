@@ -9,7 +9,7 @@ tags: ["AI inside", "DX Suite", "AI-OCR", "リカーリング", "AnyData"]
 pubDate: 2026-09-12
 slug: "company-ai-inside-reputation"
 image: "/images/media/company-ai-inside-reputation.png"
-related: ["industry-saas-startup-nensyu", "industry-mega-venture-nensyu", "job-it-architect-nensyu", "industry-kinyu-it-shibou-douki"]
+related: ["industry-saas-startup-nensyu", "industry-mega-venture-nensyu", "job-it-architect-nensyu", "industry-kinyu-it-tenshoku-nanido"]
 reviewedAt: 2026-09-12
 sources:
   - name: "AI inside株式会社 有価証券報告書 第11期（2026年3月期）"

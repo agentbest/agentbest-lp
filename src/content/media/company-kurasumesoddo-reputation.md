@@ -9,7 +9,7 @@ tags: ["クラスメソッド", "AWS", "クラウド", "企業研究", "転職"]
 pubDate: 2026-08-12
 slug: "company-kurasumesoddo-reputation"
 image: "/images/media/company-kurasumesoddo-reputation.png"
-related: ["dx-consultant-salary-600", "industry-gyokai-tokka-consul-senkou-flow", "job-pmo-consultant-senkou-flow", "company-hitachikonsaruteingu-reputation"]
+related: ["dx-consultant-salary-600", "industry-gyokai-tokka-consul-senkou-flow", "job-pmo-consultant-senkou-flow", "company-abeam-consulting-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／クラスメソッド株式会社（法人番号 5011101037603）"

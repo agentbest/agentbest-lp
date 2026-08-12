@@ -9,7 +9,7 @@ tags: ["アルトナー", "技術者派遣", "設計開発", "労働組合", "�
 pubDate: 2026-08-11
 slug: "company-arutonaa-reputation"
 image: "/images/media/company-arutonaa-reputation.png"
-related: ["bizdev-salary-600", "industry-maker-it-senkou-flow", "job-data-scientist-senkou-flow", "job-cxo-kouho-shibou-douki"]
+related: ["bizdev-salary-600", "industry-maker-it-senkou-flow", "job-data-scientist-senkou-flow", "company-tbm-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アルトナー 有価証券報告書 第64期（2026年1月期・2026年4月22日提出）"

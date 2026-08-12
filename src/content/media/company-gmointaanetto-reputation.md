@@ -9,7 +9,7 @@ tags: ["GMOインターネット", "GMOインターネットグループ", "決�
 pubDate: 2026-09-14
 slug: "company-gmointaanetto-reputation"
 image: "/images/media/company-gmointaanetto-reputation.png"
-related: ["bizdev-certification", "industry-mega-venture-career-path", "job-dx-suishin-career-path", "job-keiei-kikaku-career-path"]
+related: ["bizdev-certification", "industry-mega-venture-career-path", "job-dx-suishin-career-path", "company-vanteejimanejimento-reputation"]
 reviewedAt: 2026-09-14
 sources:
   - name: "GMOインターネットグループ株式会社 有価証券報告書 第35期（2025年12月期）"

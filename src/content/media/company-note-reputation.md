@@ -9,7 +9,7 @@ tags: ["note", "メディアプラットフォーム", "スタートアップ", 
 pubDate: 2026-08-11
 slug: "company-note-reputation"
 image: "/images/media/company-note-reputation.png"
-related: ["product-manager-market-trend", "industry-maker-it-nensyu", "job-jigyo-kikaku-nensyu", "job-bizdev-tenshoku-nanido"]
+related: ["product-manager-market-trend", "industry-maker-it-nensyu", "job-jigyo-kikaku-nensyu", "job-project-manager-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "note株式会社 有価証券報告書 第14期（2025年11月期）"

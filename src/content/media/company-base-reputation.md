@@ -9,7 +9,7 @@ tags: ["BASE", "ネットショップ", "PAY.JP", "EC", "流通総額"]
 pubDate: 2026-09-13
 slug: "company-base-reputation"
 image: "/images/media/company-base-reputation.png"
-related: ["customer-success-resume", "industry-tsushin-tenshoku-nanido", "job-data-scientist-tenshoku-nanido", "company-uezaanyuuzu-reputation"]
+related: ["customer-success-resume", "industry-tsushin-tenshoku-nanido", "job-data-scientist-tenshoku-nanido", "job-jigyo-kikaku-nensyu"]
 reviewedAt: 2026-09-13
 sources:
   - name: "BASE株式会社 有価証券報告書 第13期（2025年12月期）"

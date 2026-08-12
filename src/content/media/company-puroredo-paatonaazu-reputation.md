@@ -9,7 +9,7 @@ tags: ["プロレド・パートナーズ", "コンサルティング", "成果�
 pubDate: 2026-08-21
 slug: "company-puroredo-paatonaazu-reputation"
 image: "/images/media/company-puroredo-paatonaazu-reputation.png"
-related: ["thinktank-in-20s", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "company-makuromiru-reputation"]
+related: ["thinktank-in-20s", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "job-senryaku-consultant-career-path"]
 reviewedAt: 2026-08-21
 sources:
   - name: "有価証券報告書 第18期（2025年10月期）"

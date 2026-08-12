@@ -9,7 +9,7 @@ tags: ["サステナブル・ラボ", "ESG", "サステナビリティ", "企業
 pubDate: 2026-08-12
 slug: "company-sasutenaburu-rabo-reputation"
 image: "/images/media/company-sasutenaburu-rabo-reputation.png"
-related: ["it-consultant-certification", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-rinkuandomochibeeshon-reputation"]
+related: ["it-consultant-certification", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-arthur-d-little-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／サステナブル・ラボ株式会社（法人番号 7010401143076）"

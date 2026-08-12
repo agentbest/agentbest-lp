@@ -9,7 +9,7 @@ tags: ["サーバーワークス", "AWS", "クラウド", "東証グロース", 
 pubDate: 2026-08-19
 slug: "company-saabaawaakusu-reputation"
 image: "/images/media/company-saabaawaakusu-reputation.png"
-related: ["big4-consultant-skills", "industry-senryaku-consul-shibou-douki", "job-sustainability-consultant-shibou-douki", "company-puroredo-paatonaazu-reputation"]
+related: ["big4-consultant-skills", "industry-senryaku-consul-shibou-douki", "job-sustainability-consultant-shibou-douki", "company-sigmaxyz-holdings-reputation"]
 reviewedAt: 2026-08-19
 sources:
   - name: "有価証券報告書 第27期（2026年2月期）"

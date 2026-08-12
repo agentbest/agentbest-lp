@@ -9,7 +9,7 @@ tags: ["コーチ・エィ", "コーチング", "組織開発", "企業研究", 
 pubDate: 2026-08-12
 slug: "company-koochi-ei-reputation"
 image: "/images/media/company-koochi-ei-reputation.png"
-related: ["business-consultant-interview", "industry-senryaku-consul-nensyu", "job-sustainability-consultant-nensyu", "company-ribu-konsaruteingu-reputation"]
+related: ["business-consultant-interview", "industry-senryaku-consul-nensyu", "job-sustainability-consultant-nensyu", "company-shikigaku-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社コーチ・エィ 有価証券報告書 第25期（2025年12月期）"

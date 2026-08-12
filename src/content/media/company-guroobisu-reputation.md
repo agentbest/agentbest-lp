@@ -9,7 +9,7 @@ tags: ["グロービス", "ビジネススクール", "人材育成", "企業研
 pubDate: 2026-08-12
 slug: "company-guroobisu-reputation"
 image: "/images/media/company-guroobisu-reputation.png"
-related: ["strategy-consultant-in-20s", "industry-senryaku-consul-tenshoku-nanido", "job-sustainability-consultant-tenshoku-nanido", "company-nomurasougoukenkyuusho-reputation"]
+related: ["strategy-consultant-in-20s", "industry-senryaku-consul-tenshoku-nanido", "job-sustainability-consultant-tenshoku-nanido", "company-nttdeetaguroobarusoryuushonzu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社グロービス（法人番号 1010001015334）"

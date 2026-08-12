@@ -9,7 +9,7 @@ tags: ["BCG", "ボストンコンサルティンググループ", "MBB", "戦略
 pubDate: 2026-08-03
 slug: "company-bosuton-konsaruteingu-guruupu-reputation"
 image: "/images/media/company-bosuton-konsaruteingu-guruupu-reputation.png"
-related: ["industry-sogo-consul-nensyu", "industry-senryaku-consul-nensyu", "job-sustainability-consultant-nensyu", "company-kpmg-japan-reputation"]
+related: ["industry-sogo-consul-nensyu", "industry-senryaku-consul-nensyu", "job-sustainability-consultant-nensyu", "job-sustainability-consultant-senkou-flow"]
 reviewedAt: 2026-08-03
 sources:
   - name: "BCG 採用情報・応募（日本）"

@@ -9,7 +9,7 @@ tags: ["Findy", "ファインディ", "エンジニア転職", "Findy Team+", "�
 pubDate: 2026-09-14
 slug: "company-findy-reputation"
 image: "/images/media/company-findy-reputation.png"
-related: ["product-manager-work-style", "industry-maker-it-nensyu", "job-pe-investment-nensyu", "company-10x-reputation"]
+related: ["product-manager-work-style", "industry-maker-it-nensyu", "job-pe-investment-nensyu", "company-lifull-reputation"]
 reviewedAt: 2026-09-14
 sources:
   - name: "ファインディ株式会社 企業情報"

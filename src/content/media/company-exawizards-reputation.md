@@ -9,7 +9,7 @@ tags: ["ExaWizards", "エクサウィザーズ", "AI", "exaBase", "eNPS"]
 pubDate: 2026-09-14
 slug: "company-exawizards-reputation"
 image: "/images/media/company-exawizards-reputation.png"
-related: ["product-manager-motivation", "industry-tsushin-shibou-douki", "job-product-manager-shibou-douki", "company-uinguaaku1st-reputation"]
+related: ["product-manager-motivation", "industry-tsushin-shibou-douki", "job-product-manager-shibou-douki", "company-noharaguruupu-reputation"]
 reviewedAt: 2026-09-14
 sources:
   - name: "株式会社エクサウィザーズ 有価証券報告書 第11期（2026年3月期）"

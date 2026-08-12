@@ -9,7 +9,7 @@ tags: ["SmartNews", "メディア", "ニュースアプリ", "スタートアッ
 pubDate: 2026-08-10
 slug: "company-smartnews-reputation"
 image: "/images/media/company-smartnews-reputation.png"
-related: ["product-manager-market-trend", "industry-kinyu-it-tenshoku-nanido", "job-pre-sales-tenshoku-nanido", "company-oputeimu-reputation"]
+related: ["product-manager-market-trend", "industry-kinyu-it-tenshoku-nanido", "job-pre-sales-tenshoku-nanido", "company-aiteimedia-reputation"]
 reviewedAt: 2026-08-10
 sources:
   - name: "スマートニュース株式会社 会社概要"

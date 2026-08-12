@@ -9,7 +9,7 @@ tags: ["あずさ監査法人", "KPMG", "Big4", "監査法人", "公認会計士
 pubDate: 2026-08-03
 slug: "company-azusakansahoujin-reputation"
 image: "/images/media/company-azusakansahoujin-reputation.png"
-related: ["dx-consultant-career-guide", "industry-senryaku-consul-career-path", "job-sustainability-consultant-career-path", "company-makuromiru-reputation"]
+related: ["dx-consultant-career-guide", "industry-senryaku-consul-career-path", "job-sustainability-consultant-career-path", "company-serumu-reputation"]
 reviewedAt: 2026-08-03
 sources:
   - name: "有限責任 あずさ監査法人 業務及び財産の状況に関する説明書類 第41期（2024年7月1日〜2025年6月30日、公衆縦覧開始日2025年9月8日）"

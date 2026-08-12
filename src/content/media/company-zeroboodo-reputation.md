@@ -9,7 +9,7 @@ tags: ["ゼロボード", "GX", "CO2算定", "企業研究", "転職"]
 pubDate: 2026-08-12
 slug: "company-zeroboodo-reputation"
 image: "/images/media/company-zeroboodo-reputation.png"
-related: ["job-it-consultant-senkou-flow", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-kpmg-japan-reputation"]
+related: ["job-it-consultant-senkou-flow", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-kurasumesoddo-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社ゼロボード（法人番号 3010401162352）"

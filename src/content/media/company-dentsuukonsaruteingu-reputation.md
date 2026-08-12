@@ -9,7 +9,7 @@ tags: ["電通コンサルティング", "戦略コンサルティング", "電�
 pubDate: 2026-08-12
 slug: "company-dentsuukonsaruteingu-reputation"
 image: "/images/media/company-dentsuukonsaruteingu-reputation.png"
-related: ["business-consultant-certification", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-serumu-reputation"]
+related: ["business-consultant-certification", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-reiyaazu-konsaruteingu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社電通コンサルティング 公式サイト／会社概要"

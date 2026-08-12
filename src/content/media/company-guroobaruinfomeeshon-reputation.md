@@ -9,7 +9,7 @@ tags: ["グローバルインフォメーション", "市場調査", "リサー�
 pubDate: 2026-08-12
 slug: "company-guroobaruinfomeeshon-reputation"
 image: "/images/media/company-guroobaruinfomeeshon-reputation.png"
-related: ["thinktank-english", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "company-abeam-consulting-reputation"]
+related: ["thinktank-english", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "company-fortience-consulting-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社グローバルインフォメーション 有価証券報告書 第31期（2025年12月期）"

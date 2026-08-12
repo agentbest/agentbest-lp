@@ -9,7 +9,7 @@ tags: ["Wantedly", "ビジネスSNS", "HRテック", "有価証券報告書", "�
 pubDate: 2026-08-11
 slug: "company-wantedly-reputation"
 image: "/images/media/company-wantedly-reputation.png"
-related: ["customer-success-in-30s", "industry-kinyu-it-career-path", "job-ibd-analyst-career-path", "job-field-sales-nensyu"]
+related: ["customer-success-in-30s", "industry-kinyu-it-career-path", "job-ibd-analyst-career-path", "company-voicy-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "ウォンテッドリー株式会社 有価証券報告書 第15期（2025年8月期）"

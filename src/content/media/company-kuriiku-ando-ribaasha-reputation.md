@@ -9,7 +9,7 @@ tags: ["クリーク・アンド・リバー社", "クリエイター", "エー�
 pubDate: 2026-08-12
 slug: "company-kuriiku-ando-ribaasha-reputation"
 image: "/images/media/company-kuriiku-ando-ribaasha-reputation.png"
-related: ["product-manager-future", "industry-tsushin-career-path", "job-customer-success-career-path", "job-scrum-master-senkou-flow"]
+related: ["product-manager-future", "industry-tsushin-career-path", "job-customer-success-career-path", "company-ga-technologies-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社クリーク・アンド・リバー社 有価証券報告書 第36期（2025年3月1日-2026年2月28日）"

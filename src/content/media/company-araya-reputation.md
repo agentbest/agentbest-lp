@@ -9,7 +9,7 @@ tags: ["アラヤ", "AI", "ディープラーニング", "エッジAI", "評判"
 pubDate: 2026-08-11
 slug: "company-araya-reputation"
 image: "/images/media/company-araya-reputation.png"
-related: ["product-manager-future", "industry-mega-venture-tenshoku-nanido", "job-it-architect-tenshoku-nanido", "company-aimobairu-reputation"]
+related: ["product-manager-future", "industry-mega-venture-tenshoku-nanido", "job-it-architect-tenshoku-nanido", "company-kaminashi-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アラヤ 会社概要"

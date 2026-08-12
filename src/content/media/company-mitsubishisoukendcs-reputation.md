@@ -9,7 +9,7 @@ tags: ["三菱総研DCS", "SIer", "シンクタンク系", "企業研究", "転�
 pubDate: 2026-08-12
 slug: "company-mitsubishisoukendcs-reputation"
 image: "/images/media/company-mitsubishisoukendcs-reputation.png"
-related: ["dx-consultant-future", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-deroito-toomatsu-benchaasapooto-reputation"]
+related: ["dx-consultant-future", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-manejimentosoryuushonzu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／三菱総研DCS株式会社（法人番号 1010701016549）"

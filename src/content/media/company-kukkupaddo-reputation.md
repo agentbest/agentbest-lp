@@ -9,7 +9,7 @@ tags: ["クックパッド", "レシピサービス", "クックパッドマー�
 pubDate: 2026-08-12
 slug: "company-kukkupaddo-reputation"
 image: "/images/media/company-kukkupaddo-reputation.png"
-related: ["industry-saas-vendor-senkou-flow", "industry-kinyu-it-shibou-douki", "job-keiei-kikaku-shibou-douki", "company-rakutenguruupu-reputation"]
+related: ["industry-saas-vendor-senkou-flow", "industry-kinyu-it-shibou-douki", "job-keiei-kikaku-shibou-douki", "company-luup-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "クックパッド株式会社 有価証券報告書 第29期（2025年1月1日-2025年12月31日）"

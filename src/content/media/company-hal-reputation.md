@@ -9,7 +9,7 @@ tags: ["HAL", "システム開発", "SIer", "エンジニア", "非上場"]
 pubDate: 2026-08-15
 slug: "company-hal-reputation"
 image: "/images/media/company-hal-reputation.png"
-related: ["customer-success-failure", "industry-tsushin-senkou-flow", "job-customer-success-senkou-flow", "job-shanai-se-nensyu"]
+related: ["customer-success-failure", "industry-tsushin-senkou-flow", "job-customer-success-senkou-flow", "company-saibaaeejiento-reputation"]
 reviewedAt: 2026-08-15
 sources:
   - name: "株式会社HAL 企業情報"

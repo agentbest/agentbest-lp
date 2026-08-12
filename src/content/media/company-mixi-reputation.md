@@ -9,7 +9,7 @@ tags: ["MIXI", "mixi", "メガベンチャー", "東証プライム", "スポー
 pubDate: 2026-08-12
 slug: "company-mixi-reputation"
 image: "/images/media/company-mixi-reputation.png"
-related: ["product-manager-motivation", "industry-maker-it-senkou-flow", "job-jigyo-kikaku-senkou-flow", "job-customer-success-career-path"]
+related: ["product-manager-motivation", "industry-maker-it-senkou-flow", "job-jigyo-kikaku-senkou-flow", "job-project-manager-tenshoku-nanido"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社MIXI 会社概要"

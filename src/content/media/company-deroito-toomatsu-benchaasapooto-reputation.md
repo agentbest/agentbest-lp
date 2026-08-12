@@ -9,7 +9,7 @@ tags: ["デロイト トーマツ ベンチャーサポート", "ベンチャー
 pubDate: 2026-08-12
 slug: "company-deroito-toomatsu-benchaasapooto-reputation"
 image: "/images/media/company-deroito-toomatsu-benchaasapooto-reputation.png"
-related: ["dx-consultant-future", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-ribu-konsaruteingu-reputation"]
+related: ["dx-consultant-future", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "company-arthur-d-little-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／デロイトトーマツベンチャーサポート株式会社（法人番号 3010001085516）"

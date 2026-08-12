@@ -9,7 +9,7 @@ tags: ["Appier Group", "AI", "マーケティング", "ARR", "純粋持株会社
 pubDate: 2026-09-12
 slug: "company-appier-group-reputation"
 image: "/images/media/company-appier-group-reputation.png"
-related: ["customer-success-in-20s", "industry-mega-venture-nensyu", "job-it-architect-nensyu", "company-chatwork-reputation"]
+related: ["customer-success-in-20s", "industry-mega-venture-nensyu", "job-it-architect-nensyu", "job-scrum-master-senkou-flow"]
 reviewedAt: 2026-09-12
 sources:
   - name: "Appier Group株式会社 有価証券報告書 第8期（2025年12月期）"

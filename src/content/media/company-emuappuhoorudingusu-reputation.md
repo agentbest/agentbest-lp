@@ -9,7 +9,7 @@ tags: ["エムアップホールディングス", "Fanplus", "ファンクラブ
 pubDate: 2026-08-11
 slug: "company-emuappuhoorudingusu-reputation"
 image: "/images/media/company-emuappuhoorudingusu-reputation.png"
-related: ["customer-success-skills", "industry-tsushin-senkou-flow", "job-scrum-master-senkou-flow", "job-customer-success-senkou-flow"]
+related: ["customer-success-skills", "industry-tsushin-senkou-flow", "job-scrum-master-senkou-flow", "company-dippu-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エムアップホールディングス 有価証券報告書 第22期（2026年3月期）"

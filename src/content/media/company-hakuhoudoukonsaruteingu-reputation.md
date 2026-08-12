@@ -9,7 +9,7 @@ tags: ["博報堂コンサルティング", "ブランド戦略", "マーケテ�
 pubDate: 2026-08-12
 slug: "company-hakuhoudoukonsaruteingu-reputation"
 image: "/images/media/company-hakuhoudoukonsaruteingu-reputation.png"
-related: ["big4-consultant-career-path", "industry-senryaku-consul-nensyu", "job-sustainability-consultant-nensyu", "company-deroito-toomatsu-benchaasapooto-reputation"]
+related: ["big4-consultant-career-path", "industry-senryaku-consul-nensyu", "job-sustainability-consultant-nensyu", "company-dentsuukonsaruteingu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社博報堂コンサルティング（法人番号 2010401062099）"

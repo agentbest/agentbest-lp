@@ -9,7 +9,7 @@ tags: ["オークネット", "B2Bオークション", "中古車流通", "プラ
 pubDate: 2026-08-11
 slug: "company-ookunetto-reputation"
 image: "/images/media/company-ookunetto-reputation.png"
-related: ["product-manager-salary-1000", "industry-maker-it-shibou-douki", "job-product-manager-shibou-douki", "company-rakusuru-reputation"]
+related: ["product-manager-salary-1000", "industry-maker-it-shibou-douki", "job-product-manager-shibou-douki", "company-appier-group-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社オークネット 有価証券報告書 第18期（2025年12月期・2026年3月23日提出）"

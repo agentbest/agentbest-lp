@@ -9,7 +9,7 @@ tags: ["GENOVA", "Medical DOC", "NOMOCa", "医療DX", "クリニック"]
 pubDate: 2026-09-14
 slug: "company-genova-reputation"
 image: "/images/media/company-genova-reputation.png"
-related: ["saas-sales-company-size", "industry-maker-it-shibou-douki", "job-product-manager-shibou-douki", "company-uiruguruupu-reputation"]
+related: ["saas-sales-company-size", "industry-maker-it-shibou-douki", "job-product-manager-shibou-douki", "job-customer-success-shibou-douki"]
 reviewedAt: 2026-09-14
 sources:
   - name: "株式会社GENOVA 有価証券報告書 第21期（2026年3月期）"

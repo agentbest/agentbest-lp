@@ -9,7 +9,7 @@ tags: ["アスエネ", "GX", "脱炭素", "CO2算定", "評判"]
 pubDate: 2026-08-12
 slug: "company-asuene-reputation"
 image: "/images/media/company-asuene-reputation.png"
-related: ["saas-sales-english", "industry-maker-it-tenshoku-nanido", "job-product-manager-tenshoku-nanido", "job-bizdev-nensyu"]
+related: ["saas-sales-english", "industry-maker-it-tenshoku-nanido", "job-product-manager-tenshoku-nanido", "job-customer-success-tenshoku-nanido"]
 reviewedAt: 2026-08-12
 sources:
   - name: "アスエネ株式会社 会社概要"

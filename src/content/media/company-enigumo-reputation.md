@@ -9,7 +9,7 @@ tags: ["エニグモ", "BUYMA", "マーケットプレイス", "パーソナル�
 pubDate: 2026-08-11
 slug: "company-enigumo-reputation"
 image: "/images/media/company-enigumo-reputation.png"
-related: ["bizdev-future", "industry-kinyu-it-tenshoku-nanido", "job-bizdev-tenshoku-nanido", "company-emuteiiai-reputation"]
+related: ["bizdev-future", "industry-kinyu-it-tenshoku-nanido", "job-bizdev-tenshoku-nanido", "company-eatori-reputation"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社エニグモ 有価証券報告書 第22期（2026年1月期）"

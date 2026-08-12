@@ -9,7 +9,7 @@ tags: ["インテージ", "インテージホールディングス", "マーケ�
 pubDate: 2026-08-19
 slug: "company-inteeji-reputation"
 image: "/images/media/company-inteeji-reputation.png"
-related: ["dx-consultant-future", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-shikigaku-reputation"]
+related: ["dx-consultant-future", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-mitsubishisougoukenkyuusho-reputation"]
 reviewedAt: 2026-08-19
 sources:
   - name: "有価証券報告書 第53期（2025年6月期）"

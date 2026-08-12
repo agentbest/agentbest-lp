@@ -9,7 +9,7 @@ tags: ["ウイングアーク1st", "SVF", "invoiceAgent", "Dr.Sum", "帳票"]
 pubDate: 2026-08-11
 slug: "company-uinguaaku1st-reputation"
 image: "/images/media/company-uinguaaku1st-reputation.png"
-related: ["customer-success-salary-1000", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "industry-mega-venture-senkou-flow"]
+related: ["customer-success-salary-1000", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "job-shanai-se-tenshoku-nanido"]
 reviewedAt: 2026-08-11
 sources:
   - name: "ウイングアーク１ｓｔ株式会社 有価証券報告書 第10期（2026年2月期）"

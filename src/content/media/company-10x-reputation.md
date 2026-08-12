@@ -9,7 +9,7 @@ tags: ["10X", "Stailer", "小売DX", "ネットスーパー", "働き方指針"]
 pubDate: 2026-09-11
 slug: "company-10x-reputation"
 image: "/images/media/company-10x-reputation.png"
-related: ["customer-success-from-scratch", "industry-maker-it-career-path", "job-customer-success-career-path", "industry-maker-it-tenshoku-nanido"]
+related: ["customer-success-from-scratch", "industry-maker-it-career-path", "job-customer-success-career-path", "company-dejitarugareeji-reputation"]
 reviewedAt: 2026-09-11
 sources:
   - name: "株式会社10X 会社概要"

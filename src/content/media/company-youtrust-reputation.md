@@ -9,7 +9,7 @@ tags: ["YOUTRUST", "ビジネスSNS", "HRテック", "非上場", "転職"]
 pubDate: 2026-08-11
 slug: "company-youtrust-reputation"
 image: "/images/media/company-youtrust-reputation.png"
-related: ["saas-sales-interview", "industry-tsushin-career-path", "job-vc-capitalist-career-path", "job-shanai-se-nensyu"]
+related: ["saas-sales-interview", "industry-tsushin-career-path", "job-vc-capitalist-career-path", "job-field-sales-shibou-douki"]
 reviewedAt: 2026-08-11
 sources:
   - name: "株式会社YOUTRUST 公式サイト"

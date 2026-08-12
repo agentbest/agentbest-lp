@@ -9,7 +9,7 @@ tags: ["帝国データバンク", "信用調査", "リサーチ", "企業研究
 pubDate: 2026-08-12
 slug: "company-teikokudeetabanku-reputation"
 image: "/images/media/company-teikokudeetabanku-reputation.png"
-related: ["strategy-consultant-career-path", "industry-senryaku-consul-nensyu", "job-sustainability-consultant-nensyu", "job-pmo-consultant-senkou-flow"]
+related: ["strategy-consultant-career-path", "industry-senryaku-consul-nensyu", "job-sustainability-consultant-nensyu", "company-hitachikonsaruteingu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社帝国データバンク（法人番号 7010401018377）"

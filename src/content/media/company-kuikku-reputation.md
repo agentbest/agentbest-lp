@@ -9,7 +9,7 @@ tags: ["クイック", "看護roo!", "日本の人事部", "人材紹介", "求�
 pubDate: 2026-08-12
 slug: "company-kuikku-reputation"
 image: "/images/media/company-kuikku-reputation.png"
-related: ["bizdev-english", "industry-maker-it-shibou-douki", "job-vc-capitalist-shibou-douki", "industry-maker-it-nensyu"]
+related: ["bizdev-english", "industry-maker-it-shibou-douki", "job-vc-capitalist-shibou-douki", "job-field-sales-shibou-douki"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社クイック 有価証券報告書 第46期（2025年4月1日-2026年3月31日）"

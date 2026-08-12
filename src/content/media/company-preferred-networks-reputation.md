@@ -9,7 +9,7 @@ tags: ["Preferred Networks", "AI", "生成AI", "半導体", "非上場"]
 pubDate: 2026-08-09
 slug: "company-preferred-networks-reputation"
 image: "/images/media/company-preferred-networks-reputation.png"
-related: ["customer-success-market-trend", "industry-maker-it-career-path", "job-product-manager-career-path", "job-dx-suishin-nensyu"]
+related: ["customer-success-market-trend", "industry-maker-it-career-path", "job-product-manager-career-path", "company-oputeimu-reputation"]
 reviewedAt: 2026-08-09
 sources:
   - name: "株式会社Preferred Networks 会社概要"

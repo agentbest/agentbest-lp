@@ -9,7 +9,7 @@ tags: ["GA technologies", "RENOSY", "ITANDI", "不動産DX", "ネット売上収
 pubDate: 2026-09-14
 slug: "company-ga-technologies-reputation"
 image: "/images/media/company-ga-technologies-reputation.png"
-related: ["customer-success-salary-1000", "industry-tsushin-senkou-flow", "job-pe-investment-senkou-flow", "company-rogurasu-reputation"]
+related: ["customer-success-salary-1000", "industry-tsushin-senkou-flow", "job-pe-investment-senkou-flow", "company-aisutairu-reputation"]
 reviewedAt: 2026-09-14
 sources:
   - name: "株式会社GA technologies 有価証券報告書 第13期（2025年10月期）"

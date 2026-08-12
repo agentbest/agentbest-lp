@@ -9,7 +9,7 @@ tags: ["ストライクグループ", "ストライク", "M&A仲介", "東証プ
 pubDate: 2026-08-20
 slug: "company-sutoraikuguruupu-reputation"
 image: "/images/media/company-sutoraikuguruupu-reputation.png"
-related: ["it-consultant-work-style", "industry-gyokai-tokka-consul-tenshoku-nanido", "job-pmo-consultant-tenshoku-nanido", "company-dentsuukonsaruteingu-reputation"]
+related: ["it-consultant-work-style", "industry-gyokai-tokka-consul-tenshoku-nanido", "job-pmo-consultant-tenshoku-nanido", "company-doriimuinkyubeeta-reputation"]
 reviewedAt: 2026-08-20
 sources:
   - name: "有価証券報告書 第29期（2025年9月期）"

@@ -9,7 +9,7 @@ tags: ["東京商工リサーチ", "信用調査", "リサーチ", "企業研究
 pubDate: 2026-08-12
 slug: "company-toukyoushoukourisaachi-reputation"
 image: "/images/media/company-toukyoushoukourisaachi-reputation.png"
-related: ["industry-it-consul-nensyu", "industry-senryaku-consul-nensyu", "job-sap-consultant-nensyu", "company-kenburijji-tekunorojii-paatonaazu-reputation"]
+related: ["industry-it-consul-nensyu", "industry-senryaku-consul-nensyu", "job-sap-consultant-nensyu", "company-kuontsusoukenhoorudingusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社東京商工リサーチ（法人番号 5010001134287）"

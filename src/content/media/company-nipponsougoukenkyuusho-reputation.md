@@ -9,7 +9,7 @@ tags: ["日本総合研究所", "シンクタンク", "SMBC", "企業研究", "�
 pubDate: 2026-08-12
 slug: "company-nipponsougoukenkyuusho-reputation"
 image: "/images/media/company-nipponsougoukenkyuusho-reputation.png"
-related: ["it-consultant-future", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-rinkuandomochibeeshon-reputation"]
+related: ["it-consultant-future", "industry-gyokai-tokka-consul-senkou-flow", "job-senryaku-consultant-senkou-flow", "company-saabaawaakusu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／株式会社日本総合研究所（法人番号 4010701026082）"
