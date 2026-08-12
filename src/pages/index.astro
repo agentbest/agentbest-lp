@@ -734,7 +734,7 @@ const websiteSchema = {
     .footer-links { grid-column: 1 / -1; }
     .footer-links-title { font-size: 0.84rem; font-weight: 700; letter-spacing: 0.04em; margin: 0 0 0.6rem; }
     .footer-links-title a { color: var(--paper); }
-    .footer-links-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.4rem 2rem; max-width: 480px; }
+    .footer-links-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(180px, 100%), 1fr)); gap: 0.4rem 2rem; max-width: 480px; }
     .footer-links-cols ul { list-style: none; margin: 0; padding: 0; }
     .footer-links-cols li { padding: 0.24rem 0; }
     .footer-links-cols a { font-size: 0.8rem; color: color-mix(in srgb, var(--paper) 72%, transparent); transition: color .2s ease; }

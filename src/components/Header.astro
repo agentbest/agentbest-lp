@@ -52,6 +52,40 @@ const specialSites = {
         ご相談はこちら
         <span class="arrow" aria-hidden="true">→</span>
       </a>
+      <button
+        type="button"
+        class="nav-toggle"
+        id="navToggle"
+        aria-label="メニューを開く"
+        aria-expanded="false"
+        aria-controls="mobileNav"
+      >
+        <span class="bars" aria-hidden="true"><i></i><i></i><i></i></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="mobile-nav" id="mobileNav">
+    <div class="wrap mobile-nav-inner">
+      <nav class="mnav" aria-label="モバイルメニュー">
+        {nav.map((item) => <a class="mnav-link" href={item.href}>{item.label}</a>)}
+      </nav>
+      <p class="mnav-heading">特設サイト</p>
+      {Object.entries(specialSites).map(([group, items]) => (
+        <details class="mgroup">
+          <summary>{group}<span class="mgroup-caret" aria-hidden="true">▾</span></summary>
+          <div class="mgroup-body">
+            {items.map((it) => <a class="mgroup-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>)}
+          </div>
+        </details>
+      ))}
+      <div class="mobile-cta">
+        <a href="/consultation/" class="btn mobile-cta-main">
+          ご相談はこちら
+          <span class="arrow" aria-hidden="true">→</span>
+        </a>
+        <a href="/contact/" class="mobile-cta-sub">採用ご担当者さまはこちら</a>
+      </div>
     </div>
   </div>
 </header>
@@ -211,9 +245,143 @@ const specialSites = {
     padding: 0.6em 1.2em;
     font-size: 0.82rem;
   }
+
+  /* --- ハンバーガーボタン（モバイルのみ） --- */
+  .nav-toggle {
+    display: none;
+    width: 42px;
+    height: 42px;
+    margin-right: -8px;
+    padding: 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+    color: var(--ink);
+  }
+  .nav-toggle .bars {
+    display: block;
+    position: relative;
+    width: 22px;
+    height: 14px;
+    margin-inline: auto;
+  }
+  .nav-toggle .bars i {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 1.5px;
+    background: currentColor;
+    border-radius: 2px;
+    transition: transform .25s ease, opacity .2s ease;
+  }
+  .nav-toggle .bars i:nth-child(1) { top: 0; }
+  .nav-toggle .bars i:nth-child(2) { top: 50%; transform: translateY(-50%); }
+  .nav-toggle .bars i:nth-child(3) { bottom: 0; }
+  .site-header.is-open .bars i:nth-child(1) { transform: translateY(6.25px) rotate(45deg); }
+  .site-header.is-open .bars i:nth-child(2) { opacity: 0; }
+  .site-header.is-open .bars i:nth-child(3) { transform: translateY(-6.25px) rotate(-45deg); }
+
+  /* --- モバイルメニュー本体 --- */
+  .mobile-nav { display: none; }
+
   @media (max-width: 880px) {
     .nav { display: none; }
+    .nav-toggle { display: block; }
+
+    .mobile-nav {
+      display: block;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      max-height: calc(100dvh - 64px);
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      background: var(--paper);
+      border-bottom: 1px solid var(--hairline);
+      box-shadow: 0 24px 40px -24px rgba(20, 30, 40, 0.28);
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(-10px);
+      transition: opacity .22s ease, transform .22s ease, visibility .22s;
+    }
+    .site-header.is-open .mobile-nav {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+    .mobile-nav-inner {
+      padding-block: 8px 28px;
+    }
+
+    .mnav { display: block; }
+    .mnav-link {
+      display: block;
+      padding: 15px 2px;
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--ink);
+      border-bottom: 1px solid var(--hairline);
+    }
+
+    .mnav-heading {
+      margin: 24px 0 6px;
+      padding: 0 2px;
+      font-size: 0.66rem;
+      font-weight: 700;
+      letter-spacing: 0.16em;
+      color: var(--slate-mute);
+    }
+    .mgroup { border-bottom: 1px solid var(--hairline); }
+    .mgroup summary {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 14px 2px;
+      font-size: 0.94rem;
+      font-weight: 500;
+      color: var(--ink);
+      cursor: pointer;
+      list-style: none;
+    }
+    .mgroup summary::-webkit-details-marker { display: none; }
+    .mgroup-caret {
+      font-size: 0.8em;
+      color: var(--slate-mute);
+      transition: transform .2s ease;
+    }
+    .mgroup[open] .mgroup-caret { transform: rotate(180deg); }
+    .mgroup-body { padding: 0 0 10px; }
+    .mgroup-link {
+      display: block;
+      padding: 11px 14px;
+      font-size: 0.88rem;
+      color: var(--slate);
+      border-radius: 8px;
+      background: color-mix(in srgb, var(--paper-deep) 70%, transparent);
+      margin-bottom: 6px;
+    }
+
+    .mobile-cta {
+      margin-top: 26px;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 14px;
+      text-align: center;
+    }
+    .mobile-cta-main { justify-content: center; }
+    .mobile-cta-sub {
+      font-size: 0.82rem;
+      color: var(--slate);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
+    .header-inner { height: 64px; }
   }
+
   @media (max-width: 600px) {
     .header-sub-link { display: none; }
   }
@@ -221,4 +389,56 @@ const specialSites = {
     .header-cta .arrow { display: none; }
     .header-cta { padding: 0.6em 1em; }
   }
+  @media (max-width: 400px) {
+    .brand { font-size: 0.86rem; letter-spacing: 0.12em; }
+    .header-cta { font-size: 0.78rem; padding: 0.6em 0.9em; }
+    .header-actions { gap: 10px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .mobile-nav, .nav-toggle .bars i { transition: none; }
+  }
 </style>
+
+<style is:global>
+  body.nav-open { overflow: hidden; }
+</style>
+
+<script>
+  const header = document.querySelector('.site-header');
+  const toggle = document.getElementById('navToggle');
+  const panel = document.getElementById('mobileNav');
+
+  if (header && toggle && panel) {
+    const setOpen = (open) => {
+      header.classList.toggle('is-open', open);
+      document.body.classList.toggle('nav-open', open);
+      toggle.setAttribute('aria-expanded', String(open));
+      toggle.setAttribute('aria-label', open ? 'メニューを閉じる' : 'メニューを開く');
+    };
+
+    toggle.addEventListener('click', () => {
+      setOpen(!header.classList.contains('is-open'));
+    });
+
+    // リンクを踏んだら閉じる（同一ページ内アンカー対策）
+    panel.addEventListener('click', (e) => {
+      if (e.target instanceof Element && e.target.closest('a')) setOpen(false);
+    });
+
+    // メニュー外タップで閉じる
+    document.addEventListener('click', (e) => {
+      if (!header.classList.contains('is-open')) return;
+      if (e.target instanceof Node && !header.contains(e.target)) setOpen(false);
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') setOpen(false);
+    });
+
+    // PC幅に戻したら状態をリセット
+    const mq = window.matchMedia('(min-width: 881px)');
+    mq.addEventListener('change', (e) => {
+      if (e.matches) setOpen(false);
+    });
+  }
+</script>
