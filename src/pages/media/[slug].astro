@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import AuthorBlock from '../../components/AuthorBlock.astro';
 import Header from '../../components/Header.astro';
+import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
 
 export async function getStaticPaths() {
   const posts = await getCollection('media');
@@ -14,26 +15,71 @@ export async function getStaticPaths() {
 }
 
 const { post, all } = Astro.props;
-const { Content } = await post.render();
+const { Content, headings } = await post.render();
 const SITE = 'https://www.agent-best.net';
 const articleURL = `${SITE}/media/${post.slug}/`;
+
+const hub = post.data.hub ?? '';
+const hubName = hubLabel(hub);
+const hubUrl = hub ? `/media/hub/${hub}/` : '/media/';
+const catLabel = CATEGORY_LABEL[post.data.category] ?? post.data.category;
+const catAnchor = post.data.category === '職種' ? 'job' : post.data.category === '業界' ? 'industry' : 'company';
+const isCompany = post.data.category === '企業';
+
+// 目次。H2だけを拾う（H3まで出すと企業記事は20項目を超えて逆に読みにくい）。
+// 見出しのidはAstroがmarkdownから自動採番したものをそのまま使う。
+const toc = headings.filter((h) => h.depth === 2);
+
 const related = (post.data.related ?? [])
   .map((s) => all.find((p) => p.slug === s))
   .filter(Boolean);
+
+// 同じハブの他の記事。related は4本前後しか無く、記事から一覧へ戻る導線が弱かったので補う。
+//
+// 単純に先頭から6件を取ると、306本ある pm ハブの記事が全部おなじ6社にリンクしてしまう。
+// 並び順のなかで「自分の次の6件」を巡回して取り、内部リンクがハブ全体に散るようにしている。
+const hubMates = all
+  .filter((p) => p.data.hub === hub)
+  .sort((a, b) =>
+    isCompany
+      ? companySortKey(a.slug).localeCompare(companySortKey(b.slug))
+      : a.data.theme.localeCompare(b.data.theme, 'ja') || a.data.title.localeCompare(b.data.title, 'ja'));
+
+const relatedSlugs = new Set([post.slug, ...related.map((r) => r.slug)]);
+const myIndex = Math.max(0, hubMates.findIndex((p) => p.slug === post.slug));
+const sameHub = [];
+for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
+  const p = hubMates[(myIndex + i) % hubMates.length];
+  if (!relatedSlugs.has(p.slug)) sameHub.push(p);
+}
 ---
 
 <Layout title={post.data.title} description={post.data.description}>
   <Header />
   <article class="media-article">
-    <p class="breadcrumb">
-      <a href="/media/">キャリアメディア</a> / {post.data.theme}
-    </p>
+    <nav class="breadcrumb" aria-label="パンくず">
+      <a href="/media/">キャリアメディア</a>
+      <span aria-hidden="true">/</span>
+      <a href={`/media/#${catAnchor}`}>{catLabel}</a>
+      {hub && <><span aria-hidden="true">/</span><a href={hubUrl}>{hubName}</a></>}
+    </nav>
     {post.data.image && <img class="eyecatch" src={post.data.image} alt="" width="1200" height="630" />}
     <h1>{post.data.title}</h1>
     <p class="meta">
-      {post.data.category}：{post.data.jobType ?? post.data.industry ?? post.data.companyName}
-      ｜更新日 {post.data.pubDate.toLocaleDateString('ja-JP')}
+      <a class="meta-hub" href={hubUrl}>{isCompany ? post.data.companyName : hubName}</a>
+      <span class="meta-theme">{post.data.theme}</span>
+      <span class="meta-date">更新日 {post.data.pubDate.toLocaleDateString('ja-JP')}</span>
     </p>
+
+    {toc.length >= 3 && (
+      <nav class="toc" aria-label="目次">
+        <p class="toc-title">目次</p>
+        <ol>
+          {toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
+        </ol>
+      </nav>
+    )}
+
     <Content />
 
     {(post.data.sources ?? []).length > 0 && (
@@ -57,14 +103,40 @@ const related = (post.data.related ?? [])
     )}
 
     {related.length > 0 && (
-      <div class="related">
-        <strong>関連記事</strong>
-        <ul>
+      <section class="related">
+        <h2 class="block-title">関連記事</h2>
+        <ul class="art-list">
           {related.map((r) => (
-            <li><a href={`/media/${r.slug}/`}>{r.data.title}</a></li>
+            <li>
+              <a href={`/media/${r.slug}/`}>
+                <span class="art-title">{r.data.title}</span>
+                <span class="art-desc">{r.data.description}</span>
+              </a>
+            </li>
           ))}
         </ul>
-      </div>
+      </section>
+    )}
+
+    {sameHub.length > 0 && (
+      <section class="same-hub">
+        <h2 class="block-title">
+          {isCompany ? `${hubName}の他の企業` : `${hubName}の他の記事`}
+        </h2>
+        <ul class="art-list compact">
+          {sameHub.map((r) => (
+            <li>
+              <a href={`/media/${r.slug}/`}>
+                <span class="art-title">{isCompany ? r.data.companyName : r.data.title}</span>
+                <span class="art-theme">{r.data.theme}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p class="more">
+          <a href={hubUrl}>{isCompany ? `${hubName}の企業一覧を見る` : `${hubName}の記事一覧を見る`} →</a>
+        </p>
+      </section>
     )}
 
     <AuthorBlock />
@@ -87,16 +159,47 @@ const related = (post.data.related ?? [])
     color: #24292f;
     font-size: 16px;
   }
-  .media-article .breadcrumb { font-size: .85rem; color: #6b7684; margin-bottom: 12px; }
+  .media-article .breadcrumb {
+    font-size: .85rem; color: #6b7684; margin-bottom: 12px;
+    display: flex; flex-wrap: wrap; gap: .4em; align-items: baseline;
+  }
   .media-article .breadcrumb a { color: #6b7684; }
+  .media-article .breadcrumb a:hover { color: #1c1c2e; }
   .media-article .eyecatch { width: 100%; height: auto; border-radius: 12px; margin-bottom: 24px; }
   .media-article h1 { font-size: 1.65rem; line-height: 1.5; margin: 8px 0 8px; }
-  .media-article .meta { font-size: .85rem; color: #6b7684; margin-bottom: 32px; }
+  .media-article .meta {
+    font-size: .85rem; color: #6b7684; margin-bottom: 28px;
+    display: flex; flex-wrap: wrap; align-items: center; gap: .5em;
+  }
+  .media-article .meta-hub {
+    font-weight: 700; color: #1c1c2e; text-decoration: none;
+    background: #f0f2f5; border-radius: 4px; padding: 2px 9px;
+  }
+  .media-article .meta-hub:hover { background: #e4e8ed; }
+  .media-article .meta-theme { background: #f6f8fa; border-radius: 4px; padding: 2px 9px; }
+
+  /* 目次。H2が3つ以上ある記事だけ出す */
+  .media-article .toc {
+    margin: 0 0 2.4em; padding: 1.1rem 1.4rem 1.2rem;
+    border: 1px solid #e3e7eb; border-radius: 10px; background: #fbfcfd;
+  }
+  .media-article .toc-title {
+    margin: 0 0 .5em; font-size: .82rem; font-weight: 700;
+    letter-spacing: .08em; color: #1c1c2e;
+  }
+  .media-article .toc ol { margin: 0; padding-left: 1.4em; }
+  .media-article .toc li { margin: .3em 0; font-size: .92rem; }
+  .media-article .toc a { color: #384049; text-decoration: none; }
+  .media-article .toc a:hover { color: #1c1c2e; text-decoration: underline; }
+
   .media-article h2 {
     font-size: 1.3rem; margin: 2.5em 0 1em;
     padding: .4em .8em; border-left: 5px solid #1c1c2e;
     background: #f6f8fa; border-radius: 4px;
+    /* 追従ヘッダーに見出しが隠れないよう、目次から飛んだときの余白を確保する */
+    scroll-margin-top: 88px;
   }
+  .media-article h3 { scroll-margin-top: 88px; }
   .media-article h3 { font-size: 1.1rem; margin: 2em 0 .8em; color: #1c1c2e; }
   .media-article p { margin: 1.1em 0; }
   .media-article table {
@@ -109,11 +212,28 @@ const related = (post.data.related ?? [])
   .media-article li { margin: .4em 0; }
   .media-article hr { border: none; border-top: 1px solid #e6e9ec; margin: 2.5em 0; }
   .media-article strong { color: #1c1c2e; }
-  .media-article .related {
-    margin-top: 3rem; padding: 1.2rem 1.4rem;
-    background: #f6f8fa; border-radius: 10px; font-size: .95rem;
+  /* 関連記事・同じハブの記事。一覧ページと同じ「タイトル＋説明文」の見せ方に揃えている */
+  .media-article .related, .media-article .same-hub { margin-top: 2.8rem; }
+  .media-article .block-title {
+    font-size: 1.05rem; margin: 0 0 .2em;
+    padding: .35em .8em; border-left: 5px solid #1c1c2e;
+    background: #f6f8fa; border-radius: 4px;
   }
-  .media-article .related ul { margin: .6em 0 0; }
+  .media-article .art-list { list-style: none; padding: 0; margin: 0; }
+  .media-article .art-list li { margin: 0; border-bottom: 1px solid #eceff2; }
+  .media-article .art-list a { display: block; padding: .8em .2em; text-decoration: none; color: inherit; }
+  .media-article .art-list a:hover { background: #fafbfc; }
+  .media-article .art-title { display: block; font-weight: 700; color: #1c1c2e; line-height: 1.6; font-size: .97rem; }
+  .media-article .art-list a:hover .art-title { text-decoration: underline; }
+  .media-article .art-desc {
+    margin-top: .2em; font-size: .86rem; color: #57606a; line-height: 1.75;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .media-article .art-list.compact a { display: flex; justify-content: space-between; align-items: baseline; gap: .8em; }
+  .media-article .art-theme { flex-shrink: 0; font-size: .74rem; color: #6b7684; background: #f0f2f5; border-radius: 4px; padding: 2px 8px; }
+  .media-article .more { margin: 1em 0 0; font-size: .9rem; }
+  .media-article .more a { font-weight: 700; color: #1c1c2e; text-decoration: none; }
+  .media-article .more a:hover { text-decoration: underline; }
   /* 出典（frontmatter の sources / reviewedAt から自動描画） */
   .media-article .sources {
     margin-top: 2.6rem; padding: 1.1rem 1.4rem;
@@ -240,9 +360,11 @@ const related = (post.data.related ?? [])
 <script type="application/ld+json" is:inline set:html={JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
+  // 画面のパンくずと同じ階層にする（ハブページを1段挟む）
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://www.agent-best.net/' },
-    { '@type': 'ListItem', position: 2, name: 'キャリアメディア', item: 'https://www.agent-best.net/media/' },
-    { '@type': 'ListItem', position: 3, name: post.data.title, item: articleURL },
+    { '@type': 'ListItem', position: 1, name: 'ホーム', item: `${SITE}/` },
+    { '@type': 'ListItem', position: 2, name: 'キャリアメディア', item: `${SITE}/media/` },
+    ...(hub ? [{ '@type': 'ListItem', position: 3, name: hubName, item: `${SITE}${hubUrl}` }] : []),
+    { '@type': 'ListItem', position: hub ? 4 : 3, name: post.data.title, item: articleURL },
   ],
 })} />
