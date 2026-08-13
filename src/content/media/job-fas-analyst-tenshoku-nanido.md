@@ -3,7 +3,7 @@ title: "FASアナリストの転職難易度｜転職で押さえるべきポイ
 description: "FASアナリストへの転職の難易度を、母集団・要求水準・タイミングの3つに分けて整理しました。未経験からの可否や、難易度を下げる打ち手も解説します。"
 category: "職種"
 jobType: "FASアナリスト"
-hub: "ma"
+hub: "fas-consultant"
 theme: "転職難易度"
 tags: ["FAS", "アナリスト", "転職難易度", "未経験", "M&A"]
 pubDate: 2026-08-10

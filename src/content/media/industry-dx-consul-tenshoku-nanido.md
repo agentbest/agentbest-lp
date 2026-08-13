@@ -3,7 +3,7 @@ title: "DXコンサルティングの転職難易度｜転職で押さえるべ�
 description: "人材不足85.5%なのに選考が甘くない理由を整理しました。有効求人倍率0.89という数字の読み方と、難易度を下げる打ち手を具体的に解説します。"
 category: "業界"
 industry: "DXコンサルティング"
-hub: "dx-consultant"
+hub: "dx-consulting-industry"
 theme: "転職難易度"
 tags: ["DXコンサル", "転職難易度", "有効求人倍率", "人材不足", "未経験"]
 pubDate: 2026-08-11

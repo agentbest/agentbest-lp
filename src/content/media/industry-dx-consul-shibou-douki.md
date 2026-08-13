@@ -3,7 +3,7 @@ title: "DXコンサルティングの志望動機の書き方｜転職で押さ�
 description: "「DXを推進したい」では通りません。成果が効率化に偏る構造と、企業規模で導入率が5倍近く違う事実を起点に、志望動機の分解方法を整理しました。"
 category: "業界"
 industry: "DXコンサルティング"
-hub: "dx-consultant"
+hub: "dx-consulting-industry"
 theme: "志望動機の書き方"
 tags: ["DXコンサル", "志望動機", "職務経歴書", "AI導入", "変革推進"]
 pubDate: 2026-08-11

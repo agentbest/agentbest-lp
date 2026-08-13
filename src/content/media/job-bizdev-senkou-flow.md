@@ -3,7 +3,7 @@ title: "事業開発（BizDev）の選考フロー・面接対策｜転職で押
 description: "事業開発の選考の流れと、提携構想の課題で見られる観点を整理しました。2026年1月に施行された取適法など、取引条件の論点も解説します。"
 category: "職種"
 jobType: "事業開発（BizDev）"
-hub: "startup"
+hub: "bizdev"
 theme: "選考フロー・面接対策"
 tags: ["事業開発", "BizDev", "選考フロー", "面接対策", "取適法"]
 pubDate: 2026-08-10

@@ -3,7 +3,7 @@ title: "プロジェクトマネージャー（PjM）の転職難易度｜転職
 description: "有効求人倍率2.1と募集は多い一方、完遂した実績の示し方で差がつきます。経路ごとの打ち手と、見積もりの根拠を語る準備を整理しました。"
 category: "職種"
 jobType: "プロジェクトマネージャー（PjM）"
-hub: "startup"
+hub: "project-manager"
 theme: "転職難易度"
 tags: ["プロジェクトマネージャー", "PjM", "転職難易度", "PMP", "スタートアップ"]
 pubDate: 2026-08-10

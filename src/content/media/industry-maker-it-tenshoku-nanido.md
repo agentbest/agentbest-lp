@@ -3,7 +3,7 @@ title: "メーカーIT・製造業DXの転職難易度｜転職で押さえる�
 description: "求人倍率4.15と0.89で難易度が逆転する構造を整理しました。営業秘密の扱いがなぜ問われるか、出身別に補うべき点も解説します。"
 category: "業界"
 industry: "メーカーIT・製造業DX"
-hub: "startup"
+hub: "manufacturing-it-industry"
 theme: "転職難易度"
 tags: ["製造業DX", "メーカーIT", "転職難易度", "営業秘密", "生産管理"]
 pubDate: 2026-08-11

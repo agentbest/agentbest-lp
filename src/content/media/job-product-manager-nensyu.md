@@ -3,7 +3,7 @@ title: "プロダクトマネージャー（PdM）の年収相場｜転職で押
 description: "PdMには独立した公的統計が無いという前提から、PjMの889万円・Web系SEの578.5万円という隣接区分の数字をどう読むかを整理しました。年収を決める要素も解説します。"
 category: "職種"
 jobType: "プロダクトマネージャー（PdM）"
-hub: "startup"
+hub: "product-manager"
 theme: "年収相場"
 tags: ["プロダクトマネージャー", "PdM", "年収相場", "賃金構造基本統計調査", "プロダクトマネジメント"]
 pubDate: 2026-08-11

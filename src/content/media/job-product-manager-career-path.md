@@ -3,7 +3,7 @@ title: "プロダクトマネージャー（PdM）のキャリアパス｜転職
 description: "PdMの入社後の進み方と、領域を深める・複数プロダクトを統括する・事業側へ出るという分岐を整理しました。PjMとの違いや、この職種の輪郭も解説します。"
 category: "職種"
 jobType: "プロダクトマネージャー（PdM）"
-hub: "startup"
+hub: "product-manager"
 theme: "キャリアパス"
 tags: ["プロダクトマネージャー", "PdM", "キャリアパス", "CPO", "プロダクトマネジメント"]
 pubDate: 2026-08-11

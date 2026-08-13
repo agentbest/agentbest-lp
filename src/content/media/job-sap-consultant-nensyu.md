@@ -3,7 +3,7 @@ title: "SAPコンサルタントの年収相場｜転職で押さえるべきポ
 description: "SAPに独立した統計が無いという前提から、ITコンサル区分889万円・Web系SE 578.5万円という公的統計をどう読むかを整理しました。年収を決める要素も解説します。"
 category: "職種"
 jobType: "SAPコンサルタント"
-hub: "consul"
+hub: "sap-consultant"
 theme: "年収相場"
 tags: ["SAP", "ERP", "年収相場", "賃金構造基本統計調査", "SAPコンサルタント"]
 pubDate: 2026-08-11

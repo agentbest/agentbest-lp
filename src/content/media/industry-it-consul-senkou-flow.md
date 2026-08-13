@@ -3,7 +3,7 @@ title: "ITコンサルティングファームの選考フロー・面接対策�
 description: "要件定義の課題が出る選考の流れを整理しました。契約の型について問われる点と、確認しておきたい稼働率などの条件も解説します。"
 category: "業界"
 industry: "ITコンサルティングファーム"
-hub: "it-consultant"
+hub: "it-consulting-industry"
 theme: "選考フロー・面接対策"
 tags: ["ITコンサル", "選考フロー", "面接対策", "要件定義", "稼働率"]
 pubDate: 2026-08-11

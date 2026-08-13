@@ -3,7 +3,7 @@ title: "総合コンサルティングファーム（Big4）の年収相場｜�
 description: "領域によって水準が変わる構造を整理しました。公認会計士810.8万円と経営コンサル1,134.6万円の差の読み方、職位体系の見方も解説します。"
 category: "業界"
 industry: "総合コンサルティングファーム（Big4）"
-hub: "big4-consultant"
+hub: "big4-industry"
 theme: "年収相場"
 tags: ["Big4", "総合コンサル", "年収相場", "職位", "時給換算"]
 pubDate: 2026-08-11

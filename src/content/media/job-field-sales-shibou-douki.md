@@ -3,7 +3,7 @@ title: "フィールドセールス（SaaS）の志望動機の書き方｜転�
 description: "SaaSのフィールドセールスの志望動機を3つの要素に分解して組み立てる方法を整理しました。数字の書き方と、弱い志望動機の直し方も解説します。"
 category: "職種"
 jobType: "フィールドセールス（SaaS）"
-hub: "startup"
+hub: "saas-sales"
 theme: "志望動機の書き方"
 tags: ["フィールドセールス", "SaaS営業", "志望動機", "職務経歴書", "転職書類"]
 pubDate: 2026-08-10

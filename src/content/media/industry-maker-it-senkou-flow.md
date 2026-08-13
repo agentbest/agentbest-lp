@@ -3,7 +3,7 @@ title: "メーカーIT・製造業DXの選考フロー・面接対策｜転職�
 description: "工場見学が組み込まれる選考の流れを整理しました。営業秘密の扱いについて問われる点と、確認すべき条件も解説します。"
 category: "業界"
 industry: "メーカーIT・製造業DX"
-hub: "startup"
+hub: "manufacturing-it-industry"
 theme: "選考フロー・面接対策"
 tags: ["製造業DX", "メーカーIT", "選考フロー", "面接対策", "工場見学"]
 pubDate: 2026-08-11

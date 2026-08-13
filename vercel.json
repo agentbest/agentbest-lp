@@ -13,6 +13,11 @@
     { "source": "/service-1/", "destination": "/", "permanent": true },
     { "source": "/company/", "destination": "/", "permanent": true },
     { "source": "/choukiintern-1/", "destination": "https://infra.agent-best.net/", "permanent": true },
-    { "source": "/choukiintern-1/:path+/", "destination": "https://infra.agent-best.net/", "permanent": true }
+    { "source": "/choukiintern-1/:path+/", "destination": "https://infra.agent-best.net/", "permanent": true },
+
+    { "source": "/media/hub/product-manager-career-guide/", "destination": "/media/hub/product-manager/", "permanent": true },
+    { "source": "/media/hub/saas-sales-salary/", "destination": "/media/hub/saas-sales/", "permanent": true },
+
+    { "source": "/media/company-abanto-reputation/", "destination": "/media/company-abantoguruupu-reputation/", "permanent": true }
   ]
 }

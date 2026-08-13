@@ -3,7 +3,7 @@ title: "SIer（システムインテグレーター）のキャリアパス｜�
 description: "請負と派遣で、法律上の立場が変わります。派遣可能期間3年という制限が常駐の働き方をどう規定するかと、入社後の分岐を整理しました。"
 category: "業界"
 industry: "SIer（システムインテグレーター）"
-hub: "it-consultant"
+hub: "sier-industry"
 theme: "キャリアパス"
 tags: ["SIer", "キャリアパス", "労働者派遣法", "請負", "多重下請け"]
 pubDate: 2026-08-11

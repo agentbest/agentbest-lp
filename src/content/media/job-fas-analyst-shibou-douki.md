@@ -3,7 +3,7 @@ title: "FASアナリストの志望動機の書き方｜転職で押さえるべ
 description: "FASアナリストの志望動機を「なぜM&Aか・なぜFASか・なぜこの会社か」に分解し、説得力を生む材料と、弱い志望動機の直し方を整理しました。例文の骨子も解説します。"
 category: "職種"
 jobType: "FASアナリスト"
-hub: "ma"
+hub: "fas-consultant"
 theme: "志望動機の書き方"
 tags: ["FAS", "アナリスト", "志望動機", "面接対策", "M&A"]
 pubDate: 2026-08-10

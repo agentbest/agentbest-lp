@@ -1,6 +1,7 @@
 ---
 const nav = [
   { label: '求人を探す', href: 'https://jobs.agent-best.net/' },
+  { label: 'メディア', href: '/media/' },
   { label: '専門領域', href: '/#domains' },
   { label: '対象となる方', href: '/#audience' },
   { label: '選ばれる理由', href: '/#strengths' },
@@ -128,14 +129,17 @@ const specialSites = {
   .nav {
     display: flex;
     align-items: center;
-    gap: clamp(16px, 2.4vw, 34px);
-    font-size: 0.86rem;
+    /* メディアを足して項目が7つになったぶん、字間と文字サイズを詰めて1行に収めている */
+    gap: clamp(10px, 1.3vw, 18px);
+    font-size: 0.8rem;
     font-weight: 500;
     color: var(--slate);
   }
   .nav > a {
     position: relative;
     padding-block: 4px;
+    /* 幅が足りないときに「求人を／探す」と語中で折り返してしまうのを防ぐ */
+    white-space: nowrap;
     transition: color .2s ease;
   }
   .nav > a::after {
@@ -152,6 +156,7 @@ const specialSites = {
   /* 特化サイト ドロップダウン */
   .nav-dd { position: relative; }
   .nav-dd-trigger {
+    white-space: nowrap;
     font: inherit;
     color: var(--slate);
     background: none;
@@ -231,6 +236,9 @@ const specialSites = {
     align-items: center;
     gap: clamp(12px, 1.6vw, 22px);
   }
+  /* flexの縮小でボタンが1文字幅まで潰れ、文字が縦積みになっていた */
+  .header-cta { white-space: nowrap; flex-shrink: 0; }
+  .header-sub-link { white-space: nowrap; }
   .header-sub-link {
     font-size: 0.74rem;
     color: var(--slate-mute);
@@ -284,7 +292,7 @@ const specialSites = {
   /* --- モバイルメニュー本体 --- */
   .mobile-nav { display: none; }
 
-  @media (max-width: 880px) {
+  @media (max-width: 1240px) {
     .nav { display: none; }
     .nav-toggle { display: block; }
 

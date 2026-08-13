@@ -3,7 +3,7 @@ title: "事業開発（BizDev）の志望動機の書き方｜転職で押さえ
 description: "事業開発の志望動機を3つの要素に分解して組み立てる方法を整理しました。成約に至らなかった案件の書き方と、弱い志望動機の直し方も解説します。"
 category: "職種"
 jobType: "事業開発（BizDev）"
-hub: "startup"
+hub: "bizdev"
 theme: "志望動機の書き方"
 tags: ["事業開発", "BizDev", "志望動機", "職務経歴書", "転職書類"]
 pubDate: 2026-08-10

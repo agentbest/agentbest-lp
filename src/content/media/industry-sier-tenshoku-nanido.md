@@ -3,7 +3,7 @@ title: "SIer（システムインテグレーター）の転職難易度｜転�
 description: "契約の位置で難易度が変わる構造を整理しました。派遣可能期間3年の意味と、下請けから元請けへ移るために必要な材料も解説します。"
 category: "業界"
 industry: "SIer（システムインテグレーター）"
-hub: "it-consultant"
+hub: "sier-industry"
 theme: "転職難易度"
 tags: ["SIer", "転職難易度", "労働者派遣法", "元請け", "多重下請け"]
 pubDate: 2026-08-11

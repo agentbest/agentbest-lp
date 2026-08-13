@@ -3,7 +3,7 @@ title: "メーカーIT・製造業DXのキャリアパス｜転職で押さえ�
 description: "工場のデータを外に出せるかを決めるのは、営業秘密の管理です。不正競争防止法の定義から読む仕事の境界と、入社後の分岐を整理しました。"
 category: "業界"
 industry: "メーカーIT・製造業DX"
-hub: "startup"
+hub: "manufacturing-it-industry"
 theme: "キャリアパス"
 tags: ["製造業DX", "メーカーIT", "キャリアパス", "営業秘密", "生産管理"]
 pubDate: 2026-08-11

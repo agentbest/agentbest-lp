@@ -3,7 +3,7 @@ title: "DXコンサルティングのキャリアパス｜転職で押さえる�
 description: "支援側で積む経験と、その後の選択肢を整理しました。効率化中心の案件から抜けられるかどうかが、5年後の分岐になる理由も解説します。"
 category: "業界"
 industry: "DXコンサルティング"
-hub: "dx-consultant"
+hub: "dx-consulting-industry"
 theme: "キャリアパス"
 tags: ["DXコンサル", "キャリアパス", "CDO", "事業会社", "AI活用"]
 pubDate: 2026-08-11

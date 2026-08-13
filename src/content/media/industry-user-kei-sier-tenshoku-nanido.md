@@ -3,7 +3,7 @@ title: "ユーザー系SIerの転職難易度｜転職で押さえるべきポ�
 description: "ユーザー系SIerの転職難易度を一次情報から整理。求人倍率2.57が示す需給、定着重視の採用姿勢、未経験・異業種から入る経路と打ち手を解説します。"
 category: "業界"
 industry: "ユーザー系SIer"
-hub: "pm"
+hub: "sier-industry"
 theme: "転職難易度"
 tags: ["ユーザー系SIer", "転職難易度", "未経験", "SIer", "有効求人倍率"]
 pubDate: 2026-08-11

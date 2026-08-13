@@ -3,7 +3,7 @@ title: "事業開発（BizDev）のキャリアパス｜転職で押さえるべ
 description: "事業開発の入社後の進み方と、提携の専門性を深める道・事業を持つ道・海外に広げる道の分岐を整理しました。統計上の位置づけも解説します。"
 category: "職種"
 jobType: "事業開発（BizDev）"
-hub: "startup"
+hub: "bizdev"
 theme: "キャリアパス"
 tags: ["事業開発", "BizDev", "キャリアパス", "アライアンス", "スタートアップ"]
 pubDate: 2026-08-10

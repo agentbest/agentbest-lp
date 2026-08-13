@@ -3,7 +3,7 @@ title: "ITコンサルティングファームの転職難易度｜転職で押�
 description: "SIerからの転職で何が問われるかを整理しました。準委任の経験がなぜ効くのか、有効求人倍率0.89と0.94が示す構造も解説します。"
 category: "業界"
 industry: "ITコンサルティングファーム"
-hub: "it-consultant"
+hub: "it-consulting-industry"
 theme: "転職難易度"
 tags: ["ITコンサル", "転職難易度", "SIerから転職", "準委任", "要件定義"]
 pubDate: 2026-08-11

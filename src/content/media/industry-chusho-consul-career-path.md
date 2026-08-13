@@ -3,7 +3,7 @@ title: "中小企業向けコンサルティングのキャリアパス｜転職
 description: "在籍中の進み方と、独立という分岐を数字で整理しました。独立58.9%、独立意向を持つ人が非独立層の約6割という構造から、選択の順序を解説します。"
 category: "業界"
 industry: "中小企業向けコンサルティング"
-hub: "business-consultant"
+hub: "smb-consulting-industry"
 theme: "キャリアパス"
 tags: ["中小企業向けコンサル", "キャリアパス", "独立", "顧問契約", "事業承継"]
 pubDate: 2026-08-11

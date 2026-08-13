@@ -3,7 +3,7 @@ title: "事業承継支援の年収相場｜転職で押さえるべきポイン
 description: "案件が数年に及ぶ領域で、報酬がどう設計されるかを整理しました。会社の型による違いと、資格の効き方も解説します。"
 category: "業界"
 industry: "事業承継支援"
-hub: "ma"
+hub: "succession-industry"
 theme: "年収相場"
 tags: ["事業承継", "年収相場", "経営承継円滑化法", "税理士", "M&A"]
 pubDate: 2026-08-11

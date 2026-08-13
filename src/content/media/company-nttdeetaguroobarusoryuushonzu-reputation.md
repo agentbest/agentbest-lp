@@ -9,7 +9,7 @@ tags: ["NTTデータ グローバルソリューションズ", "SAP", "ERP", "IT
 pubDate: 2026-08-12
 slug: "company-nttdeetaguroobarusoryuushonzu-reputation"
 image: "/images/media/company-nttdeetaguroobarusoryuushonzu-reputation.png"
-related: ["dx-consultant-career-path", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "company-abanto-reputation"]
+related: ["dx-consultant-career-path", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "company-abantoguruupu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "株式会社NTTデータ グローバルソリューションズ 会社概要"

@@ -3,7 +3,7 @@ title: "プロジェクトマネージャー（PjM）の選考フロー・面接
 description: "PjMの選考で問われるケースの観点を整理しました。見積もりの根拠をどう語るか、条件面で確認すべき権限の範囲も解説します。"
 category: "職種"
 jobType: "プロジェクトマネージャー（PjM）"
-hub: "startup"
+hub: "project-manager"
 theme: "選考フロー・面接対策"
 tags: ["プロジェクトマネージャー", "PjM", "選考フロー", "面接対策", "見積もり"]
 pubDate: 2026-08-10

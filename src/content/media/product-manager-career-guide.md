@@ -7,7 +7,7 @@ theme: "転職ガイド"
 tags: ["PdM", "プロダクトマネージャー", "転職"]
 pubDate: 2026-07-03
 slug: "product-manager-career-guide"
-hub: "product-manager-career-guide"
+hub: "product-manager"
 image: "/images/media/product-manager-career-guide.png"
 ---
 

@@ -3,7 +3,7 @@ title: "SAPコンサルタントの志望動機の書き方｜転職で押さえ
 description: "SAPコンサルタントの志望動機を「なぜSAPか・なぜこの会社か」に分解し、説得力を生む材料と弱い志望動機の直し方を整理しました。例文の骨子も解説します。"
 category: "職種"
 jobType: "SAPコンサルタント"
-hub: "consul"
+hub: "sap-consultant"
 theme: "志望動機の書き方"
 tags: ["SAP", "ERP", "志望動機", "面接対策", "SAPコンサルタント"]
 pubDate: 2026-08-11

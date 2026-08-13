@@ -3,7 +3,7 @@ title: "SIer（システムインテグレーター）の選考フロー・面�
 description: "契約上の位置が確かめられる選考の流れを整理しました。技術面接で見られる観点と、確認すべき条件も解説します。"
 category: "業界"
 industry: "SIer（システムインテグレーター）"
-hub: "it-consultant"
+hub: "sier-industry"
 theme: "選考フロー・面接対策"
 tags: ["SIer", "選考フロー", "面接対策", "請負", "客先常駐"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "ITコンサルティングファームの年収相場｜転職で押さ�
 description: "889万円と578.5万円の差がどこから来るのかを整理しました。準委任と請負で収益構造が変わる仕組みと、単価の上げ方も解説します。"
 category: "業界"
 industry: "ITコンサルティングファーム"
-hub: "it-consultant"
+hub: "it-consulting-industry"
 theme: "年収相場"
 tags: ["ITコンサル", "年収相場", "準委任", "請負", "時給換算"]
 pubDate: 2026-08-11

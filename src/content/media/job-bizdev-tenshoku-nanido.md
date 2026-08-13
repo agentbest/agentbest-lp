@@ -3,7 +3,7 @@ title: "事業開発（BizDev）の転職難易度｜転職で押さえるべき
 description: "事業開発は定義が会社ごとに違い、経歴が噛み合わないことが難しさの中心です。3つのタイプの見分け方と、成約が少ない職種での実績の示し方を整理しました。"
 category: "職種"
 jobType: "事業開発（BizDev）"
-hub: "startup"
+hub: "bizdev"
 theme: "転職難易度"
 tags: ["事業開発", "BizDev", "転職難易度", "アライアンス", "スタートアップ"]
 pubDate: 2026-08-10

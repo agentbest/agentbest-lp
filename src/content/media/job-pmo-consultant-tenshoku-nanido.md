@@ -3,7 +3,7 @@ title: "PMOコンサルタントの転職難易度｜転職で押さえるべき
 description: "PMOコンサルタントの転職難易度を一次情報から整理。官公庁統計が示す需給、IPA試験の通過率が示す母集団、未経験から入る経路と難易度を下げる打ち手を解説します。"
 category: "職種"
 jobType: "PMOコンサルタント"
-hub: "consul"
+hub: "pmo-consultant"
 theme: "転職難易度"
 tags: ["PMO", "転職難易度", "未経験", "プロジェクトマネジメント", "PMOコンサルタント"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "中小企業向けコンサルティングの年収相場｜転職で押
 description: "公的統計の1,134.6万円と求人賃金28.3万円の差を、どう読むかを整理しました。年間売上の分布、日当、顧問料まで一次情報で確認できる範囲を解説します。"
 category: "業界"
 industry: "中小企業向けコンサルティング"
-hub: "business-consultant"
+hub: "smb-consulting-industry"
 theme: "年収相場"
 tags: ["中小企業向けコンサル", "年収相場", "日当", "顧問料", "賃金構造基本統計調査"]
 pubDate: 2026-08-11

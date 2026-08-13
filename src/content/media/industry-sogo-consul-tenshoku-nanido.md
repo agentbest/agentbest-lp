@@ -3,7 +3,7 @@ title: "総合コンサルティングファーム（Big4）の転職難易度�
 description: "採用規模が大きい一方で何が難しいのかを整理しました。独立性の制約が採用に及ぼす影響と、出身別に補うべき点も解説します。"
 category: "業界"
 industry: "総合コンサルティングファーム（Big4）"
-hub: "big4-consultant"
+hub: "big4-industry"
 theme: "転職難易度"
 tags: ["Big4", "総合コンサル", "転職難易度", "独立性", "未経験転職"]
 pubDate: 2026-08-11

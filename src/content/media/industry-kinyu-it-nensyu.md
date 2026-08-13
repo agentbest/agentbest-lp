@@ -3,7 +3,7 @@ title: "金融ITの年収相場｜転職で押さえるべきポイント"
 description: "求人賃金18.4万円と35.4万円という入口の差を整理しました。金融機関の給与テーブルに乗る構造と、水準を上げる経路も解説します。"
 category: "業界"
 industry: "金融IT"
-hub: "startup"
+hub: "fintech-industry"
 theme: "年収相場"
 tags: ["金融IT", "フィンテック", "年収相場", "資金移動業", "時給換算"]
 pubDate: 2026-08-11

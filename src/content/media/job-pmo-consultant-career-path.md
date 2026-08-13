@@ -3,7 +3,7 @@ title: "PMOコンサルタントのキャリアパス｜転職で押さえるべ
 description: "PMOコンサルタントの入社後の進み方と、PMOを深める・PMへ移る・IT企画や事業側へ出るという分岐を整理しました。PMとの違いや、この職種の輪郭も解説します。"
 category: "職種"
 jobType: "PMOコンサルタント"
-hub: "consul"
+hub: "pmo-consultant"
 theme: "キャリアパス"
 tags: ["PMO", "プロジェクトマネジメント", "キャリアパス", "ITコンサルタント", "PMOコンサルタント"]
 pubDate: 2026-08-11

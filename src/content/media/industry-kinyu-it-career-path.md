@@ -3,7 +3,7 @@ title: "金融ITのキャリアパス｜転職で押さえるべきポイント"
 description: "資金移動業の3類型が事業設計を規定する構造を整理しました。100万円と5万円という境界線が、扱える仕事をどう分けるかも解説します。"
 category: "業界"
 industry: "金融IT"
-hub: "startup"
+hub: "fintech-industry"
 theme: "キャリアパス"
 tags: ["金融IT", "フィンテック", "キャリアパス", "資金移動業", "資金決済法"]
 pubDate: 2026-08-11

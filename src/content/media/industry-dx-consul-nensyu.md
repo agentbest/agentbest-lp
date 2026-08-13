@@ -3,7 +3,7 @@ title: "DXコンサルティングの年収相場｜転職で押さえるべき�
 description: "平均年収889万円と求人賃金35.4万円の関係を整理しました。経営コンサル区分と比べると平均は低く入口は高い、その逆転の理由まで解説します。"
 category: "業界"
 industry: "DXコンサルティング"
-hub: "dx-consultant"
+hub: "dx-consulting-industry"
 theme: "年収相場"
 tags: ["DXコンサル", "年収相場", "等級", "賃金構造基本統計調査", "ITコンサルタント"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "DXコンサルティングの選考フロー・面接対策｜転職で�
 description: "AI導入の効果が業務効率化に偏る構造を、選考でどう問われるかを整理しました。ケース課題の組み立て方と、落ちる人の共通点も解説します。"
 category: "業界"
 industry: "DXコンサルティング"
-hub: "dx-consultant"
+hub: "dx-consulting-industry"
 theme: "選考フロー・面接対策"
 tags: ["DXコンサル", "選考フロー", "面接対策", "AI活用", "IPA"]
 pubDate: 2026-08-11

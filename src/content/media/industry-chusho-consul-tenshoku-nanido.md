@@ -3,7 +3,7 @@ title: "中小企業向けコンサルティングの転職難易度｜転職で
 description: "有効求人倍率0.57という数字の意味と、難易度を上げている3つの要因を整理しました。副業容認79.1%という変化を使った、入り方の順序も解説します。"
 category: "業界"
 industry: "中小企業向けコンサルティング"
-hub: "business-consultant"
+hub: "smb-consulting-industry"
 theme: "転職難易度"
 tags: ["中小企業向けコンサル", "転職難易度", "有効求人倍率", "実務従事", "副業"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "ユーザー系SIerの選考フロー・面接対策｜転職で押さ�
 description: "ユーザー系SIerの選考の流れと各段階の観点を整理。親会社との関係を踏まえた志望理由の示し方、開示資料から読む組織の性格、落ちる人の共通点を解説します。"
 category: "業界"
 industry: "ユーザー系SIer"
-hub: "pm"
+hub: "sier-industry"
 theme: "選考フロー・面接対策"
 tags: ["ユーザー系SIer", "選考フロー", "面接対策", "SIer", "転職"]
 pubDate: 2026-08-11

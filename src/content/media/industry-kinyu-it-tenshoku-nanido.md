@@ -3,7 +3,7 @@ title: "金融ITの転職難易度｜転職で押さえるべきポイント"
 description: "IT経験がそのままでは通らない理由を整理しました。資金決済法の類型を理解しているかが問われる場面と、出身別に補うべき点も解説します。"
 category: "業界"
 industry: "金融IT"
-hub: "startup"
+hub: "fintech-industry"
 theme: "転職難易度"
 tags: ["金融IT", "フィンテック", "転職難易度", "資金移動業", "資金決済法"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "メーカーIT・製造業DXの年収相場｜転職で押さえるべ�
 description: "生産・品質管理703.9万円とITコンサル889万円の差を整理しました。メーカーの給与テーブルに乗る構造と、水準を上げる経路も解説します。"
 category: "業界"
 industry: "メーカーIT・製造業DX"
-hub: "startup"
+hub: "manufacturing-it-industry"
 theme: "年収相場"
 tags: ["製造業DX", "メーカーIT", "年収相場", "時給換算", "生産管理"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "SIer（システムインテグレーター）の年収相場｜転職�
 description: "578.5万円と889万円の差がどこから来るのかを整理しました。契約上の位置が単価を規定する構造と、水準を上げる経路も解説します。"
 category: "業界"
 industry: "SIer（システムインテグレーター）"
-hub: "it-consultant"
+hub: "sier-industry"
 theme: "年収相場"
 tags: ["SIer", "年収相場", "多重下請け", "時給換算", "労働者派遣法"]
 pubDate: 2026-08-11

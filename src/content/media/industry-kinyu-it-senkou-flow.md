@@ -3,7 +3,7 @@ title: "金融ITの選考フロー・面接対策｜転職で押さえるべき�
 description: "制度の理解が試される選考の流れを整理しました。障害対応の質問で見られる観点と、雇用契約の相手方など確認すべき条件も解説します。"
 category: "業界"
 industry: "金融IT"
-hub: "startup"
+hub: "fintech-industry"
 theme: "選考フロー・面接対策"
 tags: ["金融IT", "フィンテック", "選考フロー", "面接対策", "資金決済法"]
 pubDate: 2026-08-11

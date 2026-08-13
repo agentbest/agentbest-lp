@@ -3,7 +3,7 @@ title: "ITコンサルティングファームのキャリアパス｜転職で�
 description: "準委任と請負という契約の違いが、この業界のキャリアを規定しています。民法の条文から読む仕事の境界と、入社後の分岐を整理しました。"
 category: "業界"
 industry: "ITコンサルティングファーム"
-hub: "it-consultant"
+hub: "it-consulting-industry"
 theme: "キャリアパス"
 tags: ["ITコンサル", "キャリアパス", "準委任", "請負", "要件定義"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "SAPコンサルタントの転職難易度｜転職で押さえるべき
 description: "SAPコンサルタントへの転職の難易度を、モジュール経験・上流と下流・未経験の扱いの3つに分けて整理しました。未経験からの経路や難易度を下げる打ち手も解説します。"
 category: "職種"
 jobType: "SAPコンサルタント"
-hub: "consul"
+hub: "sap-consultant"
 theme: "転職難易度"
 tags: ["SAP", "ERP", "転職難易度", "未経験", "SAPコンサルタント"]
 pubDate: 2026-08-11

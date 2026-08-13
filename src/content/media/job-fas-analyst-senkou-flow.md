@@ -3,7 +3,7 @@ title: "FASアナリストの選考フロー・面接対策｜転職で押さえ
 description: "FASアナリストの一般的な選考ステップと、各段階で見られる観点、頻出質問の答え方、落ちる人の共通点を整理しました。未経験からの入り方も解説します。"
 category: "職種"
 jobType: "FASアナリスト"
-hub: "ma"
+hub: "fas-consultant"
 theme: "選考フロー・面接対策"
 tags: ["FAS", "アナリスト", "選考フロー", "面接対策", "M&A"]
 pubDate: 2026-08-10

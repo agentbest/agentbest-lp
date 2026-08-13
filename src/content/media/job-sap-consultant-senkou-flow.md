@@ -3,7 +3,7 @@ title: "SAPコンサルタントの選考フロー・面接対策｜転職で押
 description: "SAPコンサルタントの一般的な選考ステップと、各段階で見られる観点、頻出質問の答え方、落ちる人の傾向を整理しました。モジュールや上流・下流の見せ方も解説します。"
 category: "職種"
 jobType: "SAPコンサルタント"
-hub: "consul"
+hub: "sap-consultant"
 theme: "選考フロー・面接対策"
 tags: ["SAP", "ERP", "選考フロー", "面接対策", "SAPコンサルタント"]
 pubDate: 2026-08-11

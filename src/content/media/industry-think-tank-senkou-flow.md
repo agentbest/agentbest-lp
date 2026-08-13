@@ -3,7 +3,7 @@ title: "シンクタンクの選考フロー・面接対策｜転職で押さえ
 description: "執筆課題が出る選考の流れを整理しました。一次資料の扱いが試される場面と、受託の構造について問われる点も解説します。"
 category: "業界"
 industry: "シンクタンク"
-hub: "thinktank"
+hub: "thinktank-industry"
 theme: "選考フロー・面接対策"
 tags: ["シンクタンク", "選考フロー", "面接対策", "執筆課題", "一次資料"]
 pubDate: 2026-08-11

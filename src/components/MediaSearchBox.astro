@@ -1,0 +1,30 @@
+---
+// src/components/MediaSearchBox.astro … メディア内検索の入口。
+// 検索そのものは /media/search/ 側でやる（記事インデックスを読み込むのはあのページだけにしたい）
+const { placeholder = '企業名・職種・業界で検索（例：アクセンチュア、SRE、SaaS）' } = Astro.props;
+---
+
+<form class="media-search" action="/media/search/" method="get" role="search">
+  <label class="sr-only" for="media-q">記事を検索</label>
+  <input id="media-q" type="search" name="q" placeholder={placeholder} autocomplete="off" />
+  <button type="submit">検索</button>
+</form>
+
+<style>
+  .media-search { display: flex; gap: 8px; margin: 1.4em 0 0; }
+  .media-search input {
+    flex: 1; min-width: 0; padding: .7em 1em; font-size: .95rem;
+    border: 1px solid #d8dde3; border-radius: 8px; background: #fff; color: #24292f;
+  }
+  .media-search input:focus { outline: 2px solid #1c1c2e; outline-offset: -1px; border-color: #1c1c2e; }
+  .media-search button {
+    padding: .7em 1.6em; font-size: .95rem; font-weight: 700; cursor: pointer;
+    border: none; border-radius: 8px; background: #1c1c2e; color: #fff;
+  }
+  .media-search button:hover { background: #33334d; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+  @media (max-width: 480px) {
+    .media-search input { font-size: .88rem; }
+    .media-search button { padding: .7em 1.1em; }
+  }
+</style>

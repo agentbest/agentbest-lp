@@ -3,7 +3,7 @@ title: "プロジェクトマネージャー（PjM）の年収相場｜転職で
 description: "求人賃金39万円はIT職のなかでも高い水準です。年収889万円との差の読み方と、報酬を決める要素を整理しました。"
 category: "職種"
 jobType: "プロジェクトマネージャー（PjM）"
-hub: "startup"
+hub: "project-manager"
 theme: "年収相場"
 tags: ["プロジェクトマネージャー", "PjM", "年収相場", "賃金構造基本統計調査", "スタートアップ"]
 pubDate: 2026-08-10

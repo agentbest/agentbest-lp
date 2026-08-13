@@ -3,7 +3,7 @@ title: "DX推進担当のキャリアパス｜転職で押さえるべきポイ�
 description: "DX推進担当の入社後の進み方と分岐を、国が定めるDX推進スキル標準の6類型に沿って整理しました。統計に表れる意外な数字も解説します。"
 category: "職種"
 jobType: "DX推進担当"
-hub: "startup"
+hub: "dx-consultant"
 theme: "キャリアパス"
 tags: ["DX推進", "デジタルスキル標準", "キャリアパス", "スタートアップ", "DX人材"]
 pubDate: 2026-08-10

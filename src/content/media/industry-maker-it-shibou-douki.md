@@ -3,7 +3,7 @@ title: "メーカーIT・製造業DXの志望動機の書き方｜転職で押�
 description: "「ものづくりを支えたい」から抜ける書き方を整理しました。線を引いた経験の示し方と、工場の指標で語る方法も解説します。"
 category: "業界"
 industry: "メーカーIT・製造業DX"
-hub: "startup"
+hub: "manufacturing-it-industry"
 theme: "志望動機の書き方"
 tags: ["製造業DX", "メーカーIT", "志望動機", "職務経歴書", "営業秘密"]
 pubDate: 2026-08-11

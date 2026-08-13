@@ -3,7 +3,7 @@ title: "SAPコンサルタントのキャリアパス｜転職で押さえるべ
 description: "SAPコンサルタントの入社後の進み方と、モジュールを深める・上流へ進む・事業側や独立へ出るという分岐を整理しました。実装と上流の違いや、この職種の輪郭も解説します。"
 category: "職種"
 jobType: "SAPコンサルタント"
-hub: "consul"
+hub: "sap-consultant"
 theme: "キャリアパス"
 tags: ["SAP", "ERP", "キャリアパス", "ITコンサルタント", "SAPコンサルタント"]
 pubDate: 2026-08-11

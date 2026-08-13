@@ -3,7 +3,7 @@ title: "ユーザー系SIerのキャリアパス｜転職で押さえるべき�
 description: "ユーザー系SIerの入社後の進み方と分岐を一次情報から整理。勤続12.6年の組織で何が起きるか、外販への広がり、この領域を出るときの選択肢を解説します。"
 category: "業界"
 industry: "ユーザー系SIer"
-hub: "pm"
+hub: "sier-industry"
 theme: "キャリアパス"
 tags: ["ユーザー系SIer", "キャリアパス", "SIer", "有価証券報告書", "転職"]
 pubDate: 2026-08-11

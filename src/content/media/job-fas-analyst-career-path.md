@@ -3,7 +3,7 @@ title: "FASアナリストのキャリアパス｜転職で押さえるべきポ
 description: "FASアナリストの入社後の進み方と、スペシャリスト・FA・事業会社/投資側への分岐を整理しました。公開統計から見えるこの職種の輪郭も解説します。"
 category: "職種"
 jobType: "FASアナリスト"
-hub: "ma"
+hub: "fas-consultant"
 theme: "キャリアパス"
 tags: ["FAS", "アナリスト", "キャリアパス", "バリュエーション", "M&A"]
 pubDate: 2026-08-10

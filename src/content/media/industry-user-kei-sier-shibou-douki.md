@@ -3,7 +3,7 @@ title: "ユーザー系SIerの志望動機の書き方｜転職で押さえる�
 description: "ユーザー系SIerの志望動機を、事業構造と開示資料から組み立てる方法を解説。「安定しているから」で終わらせない分解の仕方と、弱い型の直し方を整理します。"
 category: "業界"
 industry: "ユーザー系SIer"
-hub: "pm"
+hub: "sier-industry"
 theme: "志望動機の書き方"
 tags: ["ユーザー系SIer", "志望動機", "SIer", "転職", "職務経歴書"]
 pubDate: 2026-08-11

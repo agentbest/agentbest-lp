@@ -3,7 +3,7 @@ title: "サステナビリティコンサルタントの転職難易度｜転職
 description: "「関心がある」では届かない理由を整理しました。大学院卒が3分の1を占める区分の実態と、制度の適用が広がる局面で採用側が見ている点も解説します。"
 category: "職種"
 jobType: "サステナビリティコンサルタント"
-hub: "consul"
+hub: "sustainability-consultant"
 theme: "転職難易度"
 tags: ["サステナビリティ", "コンサルタント", "転職難易度", "GHG排出量", "SSBJ基準"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "投資銀行（IBD）のキャリアパス｜転職で押さえるべき
 description: "アナリストからMDまでの標準的な進み方と、3〜5年目に来る分岐を整理しました。PEファンド・事業会社・独立系への出口も、構造から解説します。"
 category: "業界"
 industry: "投資銀行（IBD）"
-hub: "ma"
+hub: "ibd-industry"
 theme: "キャリアパス"
 tags: ["投資銀行", "IBD", "キャリアパス", "PEファンド", "出口"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "SIer（システムインテグレーター）の志望動機の書き�
 description: "「上流工程に携わりたい」から抜ける書き方を整理しました。契約上の位置を明示する方法と、決めた場面の示し方も解説します。"
 category: "業界"
 industry: "SIer（システムインテグレーター）"
-hub: "it-consultant"
+hub: "sier-industry"
 theme: "志望動機の書き方"
 tags: ["SIer", "志望動機", "職務経歴書", "請負", "労働者派遣法"]
 pubDate: 2026-08-11

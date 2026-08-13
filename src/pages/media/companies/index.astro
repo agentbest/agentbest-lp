@@ -1,0 +1,117 @@
+---
+// src/pages/media/companies/index.astro … 企業名の50音インデックス
+// 「社名は決まっているが記事に辿り着けない」を解消するためのページ。
+// 読みは社名の漢字からは取れないので、slug（company-{ローマ字}-reputation）を並び順と行の判定に使う。
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import MediaSearchBox from '../../../components/MediaSearchBox.astro';
+import { KANA_ROWS, COMPANY_HUBS, companyRow, companySortKey } from '../../../lib/mediaTaxonomy';
+
+const posts = await getCollection('media');
+const companies = posts
+  .filter((p) => p.data.category === '企業')
+  .sort((a, b) => companySortKey(a.slug).localeCompare(companySortKey(b.slug)));
+
+const HUB_SHORT: Record<string, string> = {
+  consul: 'コンサル', ma: 'M&A・投資', pm: '事業会社', startup: 'スタートアップ',
+};
+
+const byRow = new Map(KANA_ROWS.map((r) => [r, [] as typeof companies]));
+for (const p of companies) {
+  const r = companyRow(p.data.companyName ?? '', p.slug);
+  (byRow.get(r) ?? byRow.get('わ行'))!.push(p);
+}
+const rows = KANA_ROWS.map((r) => ({ row: r, items: byRow.get(r)! })).filter((r) => r.items.length > 0);
+
+const title = `企業名から探す｜掲載企業${companies.length}社の評判・年収・選考対策`;
+const description = `評判・年収・働き方・選考対策の記事を掲載している${companies.length}社を50音順で一覧にしています。コンサル・M&A・事業会社・スタートアップまで、数字は有価証券報告書などの一次情報をもとにしています。`;
+---
+
+<Layout title={title} description={description}>
+  <Header />
+  <section class="hub">
+    <nav class="breadcrumb" aria-label="パンくず">
+      <a href="/media/">キャリアメディア</a><span>/</span><span>企業名から探す</span>
+    </nav>
+
+    <h1>企業名から探す</h1>
+    <p class="hub-lead">
+      評判・年収・働き方・選考対策の記事を掲載している<strong>{companies.length}社</strong>を50音順に並べています。
+      数字は有価証券報告書などの一次情報をもとにしています。
+    </p>
+
+    <MediaSearchBox placeholder="企業名で検索（例：アクセンチュア、NTTデータ、メルカリ）" />
+
+    <nav class="jump" aria-label="50音">
+      {rows.map((r) => <a href={`#${encodeURIComponent(r.row)}`}>{r.row}</a>)}
+    </nav>
+
+    <p class="hub-note">
+      領域ごとの一覧は{COMPANY_HUBS.map((c, i) => (
+        <>{i > 0 ? '／' : ''}<a href={`/media/hub/${c.hub}/`}>{c.name}</a></>
+      ))}からもご覧いただけます。
+    </p>
+
+    {rows.map((r) => (
+      <div class="kana-block">
+        <h2 id={r.row}>{r.row}<span class="cnt">{r.items.length}社</span></h2>
+        <ul class="co-grid">
+          {r.items.map((p) => (
+            <li>
+              <a href={`/media/${p.slug}/`}>
+                <span class="co-name">{p.data.companyName}</span>
+                <span class="co-hub">{HUB_SHORT[p.data.hub ?? ''] ?? ''}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p class="to-top"><a href="#top">↑ 先頭へ</a></p>
+      </div>
+    ))}
+
+    <aside class="cta">
+      <h2>気になる企業の選考対策を相談する</h2>
+      <p>掲載企業への転職をお考えなら、選考の進め方や年収交渉まで含めてご相談いただけます。</p>
+      <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=companies" target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
+    </aside>
+  </section>
+</Layout>
+
+<style>
+  .hub { max-width: 940px; margin: 0 auto; padding: 32px 20px 64px; line-height: 1.9; color: #24292f; }
+  .breadcrumb { font-size: .85rem; color: #6b7684; display: flex; gap: .4em; }
+  .breadcrumb a { color: #6b7684; }
+  .hub h1 { font-size: 1.6rem; margin: .4em 0; }
+  .hub-lead { color: #454e59; }
+  .hub-note { font-size: .88rem; color: #6b7480; margin-top: 1.2em; }
+
+  .jump { display: flex; flex-wrap: wrap; gap: 6px; margin: 1.4em 0 0; }
+  .jump a { font-size: .85rem; font-weight: 700; padding: .3em .9em; border: 1px solid #d8dde3;
+    border-radius: 999px; color: #384049; text-decoration: none; background: #fff; }
+  .jump a:hover { border-color: #1c1c2e; background: #fafbfc; }
+
+  .kana-block { margin-top: 2.2em; }
+  .kana-block h2 { font-size: 1.1rem; margin: 0 0 .6em; padding: .3em .8em; scroll-margin-top: 76px;
+    border-left: 5px solid #1c1c2e; background: #f6f8fa; border-radius: 4px;
+    display: flex; justify-content: space-between; align-items: baseline; }
+  .cnt { font-size: .76rem; color: #6b7684; font-weight: 400; }
+
+  .co-grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 6px; }
+  .co-grid a { display: flex; justify-content: space-between; align-items: center; gap: .6em;
+    padding: .55em .8em; border: 1px solid #e2e6ea; border-radius: 6px; background: #fff;
+    text-decoration: none; color: #1c1c2e; font-size: .9rem; }
+  .co-grid a:hover { border-color: #1c1c2e; background: #fafbfc; text-decoration: underline; }
+  .co-name { font-weight: 600; }
+  .co-hub { flex-shrink: 0; font-size: .7rem; color: #6b7684; background: #f0f2f5; border-radius: 4px; padding: 1px 7px; }
+
+  .to-top { margin: .8em 0 0; text-align: right; font-size: .8rem; }
+  .to-top a { color: #6b7684; text-decoration: none; }
+
+  .cta { margin-top: 3rem; padding: 2rem 1.5rem; border-radius: 12px; background: #1c1c2e; color: #fff; text-align: center; }
+  .cta h2 { background: none; border: none; color: #fff; padding: 0; margin: 0 0 .6em; display: block; }
+  .cta p { color: #d5d9e0; }
+  .cta-button { display: inline-block; margin-top: 1rem; padding: .8rem 2.4rem; background: #fff; color: #1c1c2e; border-radius: 8px; text-decoration: none; font-weight: 700; }
+
+  @media (max-width: 600px) { .co-grid { grid-template-columns: 1fr 1fr; } .co-grid a { font-size: .82rem; padding: .5em .6em; } }
+</style>

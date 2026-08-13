@@ -3,7 +3,7 @@ title: "事業開発（BizDev）の年収相場｜転職で押さえるべきポ
 description: "統計上の独立した区分がない職種で、提示額がどう決まるかを整理しました。成果が遅れて出る構造と、報酬交渉で使える材料の作り方も解説します。"
 category: "職種"
 jobType: "事業開発（BizDev）"
-hub: "startup"
+hub: "bizdev"
 theme: "年収相場"
 tags: ["事業開発", "BizDev", "年収相場", "報酬交渉", "スタートアップ"]
 pubDate: 2026-08-10

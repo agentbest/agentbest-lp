@@ -3,7 +3,7 @@ title: "金融ITの志望動機の書き方｜転職で押さえるべきポイ�
 description: "「金融をテクノロジーで変えたい」から抜ける書き方を整理しました。制度を前提に設計した経験の示し方と、正確性を語る方法も解説します。"
 category: "業界"
 industry: "金融IT"
-hub: "startup"
+hub: "fintech-industry"
 theme: "志望動機の書き方"
 tags: ["金融IT", "フィンテック", "志望動機", "職務経歴書", "資金決済法"]
 pubDate: 2026-08-11

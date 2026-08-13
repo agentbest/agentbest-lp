@@ -3,7 +3,7 @@ title: "中小企業向けコンサルティングの志望動機の書き方｜
 description: "「経営者に近い」だけでは通りません。公的業務と民間業務で報酬構造が3倍近く違う事実を起点に、志望動機の分解方法と弱い型の直し方を整理しました。"
 category: "業界"
 industry: "中小企業向けコンサルティング"
-hub: "business-consultant"
+hub: "smb-consulting-industry"
 theme: "志望動機の書き方"
 tags: ["中小企業向けコンサル", "志望動機", "職務経歴書", "公的支援", "顧問契約"]
 pubDate: 2026-08-11

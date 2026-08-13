@@ -3,7 +3,7 @@ title: "人事・組織コンサルティングの選考フロー・面接対策
 description: "制度設計の課題が出る選考の流れを整理しました。法令を原典で読んでいるかが試される場面と、確認すべき条件も解説します。"
 category: "業界"
 industry: "人事・組織コンサルティング"
-hub: "hr-consultant"
+hub: "hr-consulting-industry"
 theme: "選考フロー・面接対策"
 tags: ["人事コンサル", "組織コンサル", "選考フロー", "面接対策", "制度設計"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "ITコンサルティングファームの志望動機の書き方｜転�
 description: "「上流工程に携わりたい」から抜ける書き方を整理しました。契約の型を踏まえた志望理由の作り方と、要件を削った経験の示し方も解説します。"
 category: "業界"
 industry: "ITコンサルティングファーム"
-hub: "it-consultant"
+hub: "it-consulting-industry"
 theme: "志望動機の書き方"
 tags: ["ITコンサル", "志望動機", "職務経歴書", "準委任", "要件定義"]
 pubDate: 2026-08-11

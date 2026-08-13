@@ -3,7 +3,7 @@ title: "サステナビリティコンサルタントの選考フロー・面接
 description: "ケース面接と制度の質問が入る選考の流れを整理しました。Scope3や保証について問われる点と、確認しておきたい条件も解説します。"
 category: "職種"
 jobType: "サステナビリティコンサルタント"
-hub: "consul"
+hub: "sustainability-consultant"
 theme: "選考フロー・面接対策"
 tags: ["サステナビリティ", "コンサルタント", "選考フロー", "面接対策", "ケース面接"]
 pubDate: 2026-08-11

@@ -3,7 +3,7 @@ title: "ユーザー系SIerの年収相場｜転職で押さえるべきポイ�
 description: "ユーザー系SIerの年収を一次情報から整理。上場企業が開示する平均年間給与935.7万円と統計との差、勤続12.6年が示す構造、処遇改定の実額を解説します。"
 category: "業界"
 industry: "ユーザー系SIer"
-hub: "pm"
+hub: "sier-industry"
 theme: "年収相場"
 tags: ["ユーザー系SIer", "年収", "有価証券報告書", "SIer", "転職"]
 pubDate: 2026-08-11

@@ -7,7 +7,7 @@ theme: "年収相場"
 tags: ["SaaS営業", "年収", "フィールドセールス"]
 pubDate: 2026-07-03
 slug: "saas-sales-salary"
-hub: "saas-sales-salary"
+hub: "saas-sales"
 image: "/images/media/saas-sales-salary.png"
 related: ["saas-sales-career-guide", "saas-sales-interview", "inside-sales-salary", "enterprise-sales-salary", "customer-success-salary"]
 ---

@@ -3,7 +3,7 @@ title: "中小企業向けコンサルティングの選考フロー・面接対
 description: "案件の入口が紹介経由という構造から、選考で何を見られるかを整理しました。伴走支援力が業界課題の1位に挙がる背景と、落ちる人の型も解説します。"
 category: "業界"
 industry: "中小企業向けコンサルティング"
-hub: "business-consultant"
+hub: "smb-consulting-industry"
 theme: "選考フロー・面接対策"
 tags: ["中小企業向けコンサル", "選考フロー", "面接対策", "中小企業診断士", "伴走支援"]
 pubDate: 2026-08-11

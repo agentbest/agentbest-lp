@@ -9,7 +9,7 @@ tags: ["コーン・フェリー・ジャパン", "組織人事", "エグゼク�
 pubDate: 2026-08-12
 slug: "company-koonferii-japan-reputation"
 image: "/images/media/company-koonferii-japan-reputation.png"
-related: ["big4-consultant-salary-1000", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "company-abanto-reputation"]
+related: ["big4-consultant-salary-1000", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "company-abantoguruupu-reputation"]
 reviewedAt: 2026-08-12
 sources:
   - name: "gBizINFO（経済産業省）／コーン・フェリー・ジャパン株式会社（法人番号 1010001139513）"
