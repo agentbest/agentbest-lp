@@ -6,9 +6,13 @@ import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import MediaSearchBox from '../../components/MediaSearchBox.astro';
 import { getMediaGroups } from '../../lib/mediaTaxonomy';
+import { getTagGroups } from '../../lib/mediaTags';
 
 const posts = await getCollection('media');
 const { jobGroups, industryGroups, companyHubs } = getMediaGroups(posts);
+// タグはハブと直交する横断の分類。定義は src/lib/mediaTags.ts
+const { groups: tagGroups } = getTagGroups(posts);
+const tagTotal = tagGroups.reduce((n, g) => n + g.tags.length, 0);
 
 const total = posts.length;
 const companyTotal = companyHubs.reduce((n, c) => n + c.count, 0);
@@ -36,11 +40,34 @@ const description =
     <MediaSearchBox />
 
     <nav class="jump" aria-label="カテゴリ">
+      <a href="#tag">タグから探す</a>
       <a href="#job">職種から探す</a>
       <a href="#industry">業界から探す</a>
       <a href="#company">企業から探す</a>
       <a href="#latest">新着記事</a>
     </nav>
+
+    <!-- ===== タグ ===== -->
+    <h2 id="tag">タグから探す</h2>
+    <p class="hub-note">
+      職種・業界・企業をまたいで、テーマから探せます。「面接対策」「年収1000万円」「東証プライム上場」のように、
+      いま知りたいことがはっきりしている場合はこちらが早いです（{tagTotal}タグ）。
+    </p>
+    {tagGroups.map((g) => (
+      <div class="group">
+        <h3>{g.name}<span class="group-count">{g.tags.length}タグ</span></h3>
+        <p class="tag-note">{g.note}</p>
+        <ul class="tag-cloud">
+          {g.tags.map((t) => (
+            <li>
+              <a href={`/media/tag/${t.slug}/`} title={t.note}>
+                {t.label}<span class="count">{t.count}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
 
     <!-- ===== 職種 ===== -->
     <h2 id="job">職種から探す</h2>
@@ -126,6 +153,16 @@ const description =
   .jump { display: flex; flex-wrap: wrap; gap: 8px; margin: 1.4em 0 0; }
   .jump a { font-size: .85rem; padding: .35em 1em; border: 1px solid #d8dde3; border-radius: 999px; color: #384049; text-decoration: none; background: #fff; }
   .jump a:hover { border-color: #1c1c2e; }
+
+  .tag-note { margin: -.2em 0 .6em; color: #6b7480; font-size: .85rem; }
+  .tag-cloud { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 7px; }
+  .tag-cloud a {
+    display: inline-flex; align-items: baseline; gap: .45em;
+    padding: .38em .95em; border: 1px solid #d8dde3; border-radius: 999px;
+    background: #fff; color: #24292f; text-decoration: none; font-size: .88rem; font-weight: 600;
+  }
+  .tag-cloud a:hover { border-color: #1c1c2e; background: #1c1c2e; color: #fff; }
+  .tag-cloud a:hover .count { color: #b9bfc9; }
 
   .cat-grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 8px; }
   .cat-grid li a {

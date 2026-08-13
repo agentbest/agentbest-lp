@@ -5,16 +5,19 @@ import Layout from '../../layouts/Layout.astro';
 import AuthorBlock from '../../components/AuthorBlock.astro';
 import Header from '../../components/Header.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
+import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
 
 export async function getStaticPaths() {
   const posts = await getCollection('media');
+  // ページを持っているタグの集合。これで絞らないと記事から404へリンクしてしまう
+  const { live } = getTagGroups(posts);
   return posts.map((post) => ({
     params: { slug: post.slug },
-    props: { post, all: posts },
+    props: { post, all: posts, liveTags: live },
   }));
 }
 
-const { post, all } = Astro.props;
+const { post, all, liveTags } = Astro.props;
 const { Content, headings } = await post.render();
 const SITE = 'https://www.agent-best.net';
 const articleURL = `${SITE}/media/${post.slug}/`;
@@ -52,6 +55,9 @@ const hubMates = all
     isCompany
       ? companySortKey(a.slug).localeCompare(companySortKey(b.slug))
       : a.data.theme.localeCompare(b.data.theme, 'ja') || a.data.title.localeCompare(b.data.title, 'ja'));
+
+// 記事に付くタグ（一覧ページを持っているものだけ）。カテゴリ横断の回遊導線になる
+const tags = liveTagsOf(post, liveTags);
 
 const relatedSlugs = new Set([post.slug, ...related.map((r) => r.slug)]);
 const myIndex = Math.max(0, hubMates.findIndex((p) => p.slug === post.slug));
@@ -108,6 +114,17 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
           </p>
         )}
       </div>
+    )}
+
+    {tags.length > 0 && (
+      <section class="tags">
+        <h2 class="block-title">この記事のタグ</h2>
+        <ul class="tag-cloud">
+          {tags.map((t) => (
+            <li><a href={`/media/tag/${t.slug}/`}>{t.label}</a></li>
+          ))}
+        </ul>
+      </section>
     )}
 
     {related.length > 0 && (
@@ -221,7 +238,15 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
   .media-article hr { border: none; border-top: 1px solid #e6e9ec; margin: 2.5em 0; }
   .media-article strong { color: #1c1c2e; }
   /* 関連記事・同じハブの記事。一覧ページと同じ「タイトル＋説明文」の見せ方に揃えている */
-  .media-article .related, .media-article .same-hub { margin-top: 2.8rem; }
+  .media-article .related, .media-article .same-hub, .media-article .tags { margin-top: 2.8rem; }
+  /* タグ。ハブ（縦）と違ってカテゴリ横断で飛べる導線なので、丸いチップで見た目を分けている */
+  .media-article .tag-cloud { list-style: none; padding: 0; margin: .9em 0 0; display: flex; flex-wrap: wrap; gap: 7px; }
+  .media-article .tag-cloud li { margin: 0; }
+  .media-article .tag-cloud a {
+    display: inline-block; padding: .34em .95em; border: 1px solid #d8dde3; border-radius: 999px;
+    background: #fff; color: #24292f; text-decoration: none; font-size: .85rem; font-weight: 600;
+  }
+  .media-article .tag-cloud a:hover { border-color: #1c1c2e; background: #1c1c2e; color: #fff; }
   .media-article .block-title {
     font-size: 1.05rem; margin: 0 0 .2em;
     padding: .35em .8em; border-left: 5px solid #1c1c2e;

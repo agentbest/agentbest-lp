@@ -50,9 +50,13 @@ const description = 'エージェントベストのキャリアメディア内�
     if (!loading) {
       loading = fetch('/media/search.json')
         .then((r) => { if (!r.ok) throw new Error(String(r.status)); return r.json(); })
-        // インデックスは容量を削るため [slug, title, desc, カテゴリ番号, ハブ番号, 企業名] の配列で来る
+        // インデックスは容量を削るため
+        // [slug, title, desc, カテゴリ番号, ハブ番号, 企業名, タグ番号の配列] の配列で来る
         .then((raw) => {
-          index = raw.i.map((a) => ({ s: a[0], t: a[1], d: a[2], c: raw.c[a[3]], h: raw.h[a[4]], n: a[5] }));
+          index = raw.i.map((a) => ({
+            s: a[0], t: a[1], d: a[2], c: raw.c[a[3]], h: raw.h[a[4]], n: a[5],
+            g: (a[6] || []).map((i) => raw.g[i]).join(' '),
+          }));
           return index;
         });
     }
@@ -72,6 +76,8 @@ const description = 'エージェントベストのキャリアメディア内�
     const name = norm(item.n);
     const title = norm(item.t);
     const hub = norm(item.h);
+    // タグ名。「外資系」「年収1000万円」のようにタイトルにも説明文にも出ない語を拾う
+    const tags = norm(item.g);
     const body = norm(item.d) + item.s;
     let total = 0;
     for (const t of terms) {
@@ -79,6 +85,7 @@ const description = 'エージェントベストのキャリアメディア内�
       else if (name && name.includes(t)) total += 60;
       else if (title.includes(t)) total += 30;
       else if (hub.includes(t)) total += 20;
+      else if (tags.includes(t)) total += 14;
       else if (body.includes(t)) total += 8;
       else return -1; // 全語を含むものだけ出す
     }
