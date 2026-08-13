@@ -26,6 +26,14 @@ const catLabel = CATEGORY_LABEL[post.data.category] ?? post.data.category;
 const catAnchor = post.data.category === '職種' ? 'job' : post.data.category === '業界' ? 'industry' : 'company';
 const isCompany = post.data.category === '企業';
 
+// pubDate / reviewedAt には先付けのものが217本ある（最大 2026-09-26）。
+// 「更新日 2026/9/26」と未来の日付が出てしまうので、表示と構造化データはビルド日で頭打ちにする。
+// frontmatter 側は書き換えていないので、その日付になれば自動的に本来の日付が出る。
+const NOW = new Date();
+const capped = (d) => (d && d > NOW ? NOW : d);
+const shownDate = capped(post.data.pubDate);
+const modifiedDate = capped(post.data.reviewedAt ?? post.data.pubDate);
+
 // 目次。H2だけを拾う（H3まで出すと企業記事は20項目を超えて逆に読みにくい）。
 // 見出しのidはAstroがmarkdownから自動採番したものをそのまま使う。
 const toc = headings.filter((h) => h.depth === 2);
@@ -68,7 +76,7 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
     <p class="meta">
       <a class="meta-hub" href={hubUrl}>{isCompany ? post.data.companyName : hubName}</a>
       <span class="meta-theme">{post.data.theme}</span>
-      <span class="meta-date">更新日 {post.data.pubDate.toLocaleDateString('ja-JP')}</span>
+      <span class="meta-date">更新日 {shownDate.toLocaleDateString('ja-JP')}</span>
     </p>
 
     {toc.length >= 3 && (
@@ -96,7 +104,7 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
         </ul>
         {post.data.reviewedAt && (
           <p class="reviewed">
-            本記事は {post.data.reviewedAt.toLocaleDateString('ja-JP')} 時点の公開情報にもとづいて作成しています。
+            本記事は {capped(post.data.reviewedAt).toLocaleDateString('ja-JP')} 時点の公開情報にもとづいて作成しています。
           </p>
         )}
       </div>
@@ -334,8 +342,8 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
   url: articleURL,
   headline: post.data.title,
   description: post.data.description,
-  datePublished: post.data.pubDate,
-  dateModified: post.data.reviewedAt ?? post.data.pubDate,
+  datePublished: shownDate,
+  dateModified: modifiedDate,
   inLanguage: 'ja',
   ...(post.data.image ? { image: new URL(post.data.image, SITE).href } : {}),
   author: {
