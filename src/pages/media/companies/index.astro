@@ -6,6 +6,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import Header from '../../../components/Header.astro';
 import MediaSearchBox from '../../../components/MediaSearchBox.astro';
+import ShareButtons from '../../../components/ShareButtons.astro';
 import { KANA_ROWS, COMPANY_HUBS, companyRow, companySortKey } from '../../../lib/mediaTaxonomy';
 
 const posts = await getCollection('media');
@@ -69,6 +70,8 @@ const description = `評判・年収・働き方・選考対策の記事を掲�
         <p class="to-top"><a href="#top">↑ 先頭へ</a></p>
       </div>
     ))}
+
+    <ShareButtons title={title} label="このページをシェア" />
 
     <aside class="cta">
       <h2>気になる企業の選考対策を相談する</h2>

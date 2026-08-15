@@ -9,11 +9,17 @@
  * url は絶対URLを渡すこと（相対だとシェア先で解決できない）。
  */
 export interface Props {
-  url: string;
+  /** 省略すると、そのページのcanonical（末尾スラッシュあり）を使う */
+  url?: string;
   title: string;
   label?: string;
 }
-const { url, title, label = 'この記事をシェア' } = Astro.props;
+const { url: urlProp, title, label = 'この記事をシェア' } = Astro.props;
+
+const canonicalPath = Astro.url.pathname.endsWith('/')
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const url = urlProp ?? new URL(canonicalPath, Astro.site).href;
 
 const u = encodeURIComponent(url);
 const t = encodeURIComponent(title);

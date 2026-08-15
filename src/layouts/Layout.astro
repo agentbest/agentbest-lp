@@ -5,11 +5,14 @@ export interface Props {
   description?: string;
   /** true にするとそのページだけ検索結果から除外する（重複ページ用） */
   noindex?: boolean;
+  /** SNSでシェアされたときのカード画像。記事はアイキャッチ（1200x630）をそのまま渡す */
+  image?: string;
 }
 const {
   title = '株式会社エージェントベスト｜20代・30代ハイクラスのための転職エージェント',
   description = 'IT・スタートアップ・M&A・コンサル領域に特化。20代・30代でキャリアを積み始めたハイクラス層へ、領域を絞った確かな転職提案を。10年先から逆算する、戦略的な一社をご提案します。',
   noindex = false,
+  image,
 } = Astro.props;
 
 // canonical URL。sitemap-0.xml の出力（末尾スラッシュあり）と表記を揃える
@@ -17,6 +20,9 @@ const canonicalPath = Astro.url.pathname.endsWith('/')
   ? Astro.url.pathname
   : `${Astro.url.pathname}/`;
 const canonicalURL = new URL(canonicalPath, Astro.site);
+
+// og:image は絶対URLでないと各社のクローラが拾えない
+const ogImage = image ? new URL(image, Astro.site).href : undefined;
 ---
 <!DOCTYPE html>
 <html lang="ja">
@@ -33,7 +39,15 @@ const canonicalURL = new URL(canonicalPath, Astro.site);
     <meta property="og:locale" content="ja_JP" />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:site_name" content="株式会社エージェントベスト" />
-    <meta name="twitter:card" content="summary_large_image" />
+    {ogImage && (
+      <>
+        <meta property="og:image" content={ogImage} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:image" content={ogImage} />
+      </>
+    )}
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

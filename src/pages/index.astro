@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 
 const domains = [
   { en: 'IT', jp: 'ソフトウェア・インフラ・SI' },
@@ -384,6 +385,12 @@ const websiteSchema = {
         </a>
       </div>
     </section>
+    <div class="wrap">
+      <ShareButtons
+        title="株式会社エージェントベスト｜20代・30代ハイクラスのための転職エージェント"
+        label="このページをシェア"
+      />
+    </div>
   </main>
 
   <!-- ============ FOOTER ============ -->

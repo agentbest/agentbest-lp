@@ -7,6 +7,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../../../layouts/Layout.astro';
 import Header from '../../../../components/Header.astro';
 import MediaSearchBox from '../../../../components/MediaSearchBox.astro';
+import ShareButtons from '../../../../components/ShareButtons.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, KANA_ROWS, companyRow, companySortKey } from '../../../../lib/mediaTaxonomy';
 
 export async function getStaticPaths({ paginate }) {
@@ -135,6 +136,8 @@ const description = isCompany
         {nextUrl ? <a href={nextUrl} rel="next">次へ →</a> : <span class="disabled">次へ →</span>}
       </nav>
     )}
+
+    <ShareButtons title={title} label="このページをシェア" />
 
     <aside class="cta">
       <h2>{name}のキャリアを相談する</h2>

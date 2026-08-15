@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 
 // 構造化データ（E-E-A-T / Person）
 const personSchema = {
@@ -130,6 +131,9 @@ const personSchema = {
         </div>
       </div>
     </section>
+    <div class="wrap">
+      <ShareButtons title="松岡 良次｜株式会社エージェントベスト 代表" label="このページをシェア" />
+    </div>
   </main>
 
   <footer class="site-footer">

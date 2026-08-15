@@ -11,6 +11,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../../../layouts/Layout.astro';
 import Header from '../../../../components/Header.astro';
 import MediaSearchBox from '../../../../components/MediaSearchBox.astro';
+import ShareButtons from '../../../../components/ShareButtons.astro';
 import { hubLabel, CATEGORY_LABEL } from '../../../../lib/mediaTaxonomy';
 import { getTagGroups, tagSlugsOf, TAG_BY_SLUG } from '../../../../lib/mediaTags';
 
@@ -111,6 +112,8 @@ const description =
     )}
 
     <p class="more"><a href="/media/#tag">ほかのタグから探す →</a></p>
+
+    <ShareButtons title={title} label="このページをシェア" />
 
     <aside class="cta">
       <h2>キャリアの選択肢を、プロと整理しませんか</h2>

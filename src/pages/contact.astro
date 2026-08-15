@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 
 // Googleフォーム送信設定（formResponse エンドポイントに送信）
 const FORM_ACTION =
@@ -89,6 +90,9 @@ const ENTRY = {
         </div>
       </div>
     </section>
+    <div class="wrap">
+      <ShareButtons title="お問い合わせ｜株式会社エージェントベスト" label="このページをシェア" />
+    </div>
   </main>
 
   <footer class="site-footer">

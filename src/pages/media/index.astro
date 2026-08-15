@@ -5,6 +5,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import MediaSearchBox from '../../components/MediaSearchBox.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
 import { getMediaGroups } from '../../lib/mediaTaxonomy';
 import { getTagGroups } from '../../lib/mediaTags';
 
@@ -131,6 +132,8 @@ const description =
         </li>
       ))}
     </ul>
+
+    <ShareButtons title={title} label="このページをシェア" />
 
     <aside class="cta">
       <h2>キャリアの選択肢を、プロと整理しませんか</h2>
