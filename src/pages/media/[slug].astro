@@ -3,6 +3,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import AuthorBlock from '../../components/AuthorBlock.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
 import Header from '../../components/Header.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
 import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
@@ -58,6 +59,9 @@ const hubMates = all
 
 // 記事に付くタグ（一覧ページを持っているものだけ）。カテゴリ横断の回遊導線になる
 const tags = liveTagsOf(post, liveTags);
+
+/* シェア先に渡すURL。相対だと共有先で解決できないので絶対URLにする */
+const shareUrl = new URL(`/media/${post.slug}/`, Astro.site).href;
 
 const relatedSlugs = new Set([post.slug, ...related.map((r) => r.slug)]);
 const myIndex = Math.max(0, hubMates.findIndex((p) => p.slug === post.slug));
@@ -115,6 +119,8 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
         )}
       </div>
     )}
+
+    <ShareButtons url={shareUrl} title={post.data.title} />
 
     {tags.length > 0 && (
       <section class="tags">
