@@ -122,11 +122,14 @@ const description =
       {latest.map((p) => (
         <li>
           <a href={`/media/${p.slug}/`}>
-            <span class="art-title">{p.data.title}</span>
-            <span class="art-desc">{p.data.description}</span>
-            <span class="art-meta">
-              <span class="tag">{p.data.category}</span>
-              <span class="theme">{p.data.theme}</span>
+            <img class="art-image" src={p.data.image ?? `/images/media/${p.slug}.png`} alt="" loading="lazy" decoding="async" width="1200" height="630" />
+            <span class="art-body">
+              <span class="art-title">{p.data.title}</span>
+              <span class="art-desc">{p.data.description}</span>
+              <span class="art-meta">
+                <span class="tag">{p.data.category}</span>
+                <span class="theme">{p.data.theme}</span>
+              </span>
             </span>
           </a>
         </li>
@@ -185,7 +188,9 @@ const description =
 
   .art-list { list-style: none; padding: 0; }
   .art-list li { border-bottom: 1px solid #eceff2; }
-  .art-list a { display: block; padding: .9em .2em; text-decoration: none; color: inherit; }
+  .art-list a { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 1em; align-items: center; padding: 1em .2em; text-decoration: none; color: inherit; }
+  .art-image { display: block; width: 100%; aspect-ratio: 1200 / 630; object-fit: cover; border-radius: 9px; background: #f0f2f5; }
+  .art-body { min-width: 0; }
   .art-list a:hover { background: #fafbfc; }
   .art-title { display: block; font-weight: 700; color: #1c1c2e; line-height: 1.6; }
   .art-list a:hover .art-title { text-decoration: underline; }
@@ -205,5 +210,7 @@ const description =
     .cat-grid { grid-template-columns: 1fr 1fr; }
     .cat-grid.wide { grid-template-columns: 1fr; }
     .cat-grid li a { font-size: .85rem; padding: .6em .7em; }
+    .art-list a { grid-template-columns: 116px minmax(0, 1fr); gap: .75em; }
+    .art-desc { -webkit-line-clamp: 1; }
   }
 </style>

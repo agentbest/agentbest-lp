@@ -119,10 +119,13 @@ const description = 'エージェントベストのキャリアメディア内�
     statusEl.textContent = `「${q}」の検索結果：${hits.length}件`;
     list.innerHTML = hits.slice(0, LIMIT).map(([, it]) => `
       <li><a href="/media/${it.s}/">
-        <span class="art-title">${esc(it.n || it.t)}</span>
-        ${it.n ? `<span class="art-sub">${esc(it.t)}</span>` : ''}
-        <span class="art-desc">${esc(it.d)}</span>
-        <span class="art-meta"><span class="tag">${esc(it.c)}</span><span class="theme">${esc(it.h)}</span></span>
+        <img class="art-image" src="/images/media/${encodeURIComponent(it.s)}.png" alt="" loading="lazy" decoding="async" width="1200" height="630">
+        <span class="art-body">
+          <span class="art-title">${esc(it.n || it.t)}</span>
+          ${it.n ? `<span class="art-sub">${esc(it.t)}</span>` : ''}
+          <span class="art-desc">${esc(it.d)}</span>
+          <span class="art-meta"><span class="tag">${esc(it.c)}</span><span class="theme">${esc(it.h)}</span></span>
+        </span>
       </a></li>`).join('');
     if (hits.length > LIMIT) {
       moreEl.hidden = false;
@@ -179,7 +182,9 @@ const description = 'エージェントベストのキャリアメディア内�
      ここだけ :global() にしないとスタイルが当たらず、素のテキストで並んでしまう。 */
   .art-list { list-style: none; padding: 0; }
   #results :global(li) { border-bottom: 1px solid #eceff2; }
-  #results :global(a) { display: block; padding: .85em .2em; text-decoration: none; color: inherit; }
+  #results :global(a) { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 1em; align-items: center; padding: 1em .2em; text-decoration: none; color: inherit; }
+  #results :global(.art-image) { display: block; width: 100%; aspect-ratio: 1200 / 630; object-fit: cover; border-radius: 9px; background: #f0f2f5; }
+  #results :global(.art-body) { min-width: 0; }
   #results :global(a:hover) { background: #fafbfc; }
   #results :global(.art-title) { display: block; font-weight: 700; color: #1c1c2e; line-height: 1.6; }
   #results :global(a:hover .art-title) { text-decoration: underline; }
@@ -191,4 +196,9 @@ const description = 'エージェントベストのキャリアメディア内�
   #results :global(.tag) { background: #1c1c2e; color: #fff; }
   #results :global(.theme) { background: #f0f2f5; color: #6b7684; }
   .more { font-size: .85rem; color: #6b7480; margin-top: 1em; }
+
+  @media (max-width: 600px) {
+    #results :global(a) { grid-template-columns: 116px minmax(0, 1fr); gap: .75em; }
+    #results :global(.art-desc) { -webkit-line-clamp: 1; }
+  }
 </style>
