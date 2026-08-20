@@ -6,11 +6,11 @@ companyName: "アステリア"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["アステリア", "ASTERIA Warp", "データ連携", "ノーコード", "ジョブ型"]
-pubDate: 2026-08-31
+pubDate: 2026-08-11
 slug: "company-asuteria-reputation"
 image: "/images/media/company-asuteria-reputation.png"
 related: ["pmo-motivation", "industry-jigyo-gaisha-pdm-career-path", "company-aibiishii-reputation", "company-aiekkusu-narejji-reputation"]
-reviewedAt: 2026-08-31
+reviewedAt: 2026-08-11
 sources:
   - name: "アステリア株式会社 有価証券報告書 第28期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YGH9.pdf"

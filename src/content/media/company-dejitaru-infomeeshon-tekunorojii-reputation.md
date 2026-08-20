@@ -6,11 +6,11 @@ companyName: "デジタル・インフォメーション・テクノロジー"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["デジタル・インフォメーション・テクノロジー", "DIT", "WebARGUS", "xoBlos", "ニアショア開発"]
-pubDate: 2026-09-06
+pubDate: 2026-08-11
 slug: "company-dejitaru-infomeeshon-tekunorojii-reputation"
 image: "/images/media/company-dejitaru-infomeeshon-tekunorojii-reputation.png"
 related: ["dev-director-career-guide", "industry-user-kei-sier-nensyu", "company-zozo-reputation", "industry-jigyo-gaisha-pdm-career-path"]
-reviewedAt: 2026-09-06
+reviewedAt: 2026-08-11
 sources:
   - name: "デジタル・インフォメーション・テクノロジー株式会社 有価証券報告書 第24期（2025年6月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WQQ5.pdf"

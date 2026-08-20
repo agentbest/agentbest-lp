@@ -6,11 +6,11 @@ companyName: "福井コンピュータホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["福井コンピュータホールディングス", "BIM", "測量土木", "ARR", "建設DX"]
-pubDate: 2026-09-11
+pubDate: 2026-08-12
 slug: "company-fukuikonpyuutahoorudingusu-reputation"
 image: "/images/media/company-fukuikonpyuutahoorudingusu-reputation.png"
 related: ["pmo-how-to-use-agent", "industry-user-kei-sier-shibou-douki", "company-mitsuisumitomoshintakuginkou-reputation", "company-mizuhofinansharuguruupu-reputation"]
-reviewedAt: 2026-09-11
+reviewedAt: 2026-08-12
 sources:
   - name: "福井コンピュータホールディングス株式会社 有価証券報告書 第47期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YHZN.pdf"

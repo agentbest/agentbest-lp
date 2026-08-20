@@ -6,11 +6,11 @@ companyName: "FCE"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["FCE", "ロボパット", "RPA", "Smart Boarding", "人材育成"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-fce-reputation"
 image: "/images/media/company-fce-reputation.png"
 related: ["it-consultant-in-30s", "industry-gyokai-tokka-consul-career-path", "job-senryaku-consultant-career-path", "job-pmo-consultant-senkou-flow"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社FCE 有価証券報告書 第9期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XDAL.pdf"

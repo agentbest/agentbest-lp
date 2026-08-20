@@ -6,11 +6,11 @@ companyName: "ファンコミュニケーションズ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ファンコミュニケーションズ", "A8.net", "アフィリエイト", "インフルエンサーマーケティング", "デジタルマーケティング"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-fankomyunikeeshonzu-reputation"
 image: "/images/media/company-fankomyunikeeshonzu-reputation.png"
 related: ["customer-success-from-scratch", "industry-maker-it-career-path", "job-product-manager-career-path", "industry-mega-venture-tenshoku-nanido"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社ファンコミュニケーションズ 有価証券報告書 第27期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XRYY.pdf"

@@ -6,11 +6,11 @@ companyName: "LayerX"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["LayerX", "バクラク", "AIエージェント", "ARR", "コンパウンドスタートアップ"]
-pubDate: 2026-09-17
+pubDate: 2026-08-12
 slug: "company-layerx-reputation"
 image: "/images/media/company-layerx-reputation.png"
 related: ["bizdev-failure", "industry-maker-it-tenshoku-nanido", "job-vc-capitalist-tenshoku-nanido", "job-field-sales-tenshoku-nanido"]
-reviewedAt: 2026-09-17
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社LayerX 会社概要"
     url: "https://layerx.co.jp/about/company/"

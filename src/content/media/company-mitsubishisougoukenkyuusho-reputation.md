@@ -6,11 +6,11 @@ companyName: "三菱総合研究所"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["三菱総合研究所", "シンクタンク", "コンサルティング", "東証プライム", "三菱総研DCS"]
-pubDate: 2026-08-22
+pubDate: 2026-08-11
 slug: "company-mitsubishisougoukenkyuusho-reputation"
 image: "/images/media/company-mitsubishisougoukenkyuusho-reputation.png"
 related: ["business-consultant-salary-1000", "industry-gyokai-tokka-consul-nensyu", "job-pmo-consultant-nensyu", "company-deroito-toomatsu-konsaruteingu-reputation"]
-reviewedAt: 2026-08-22
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第56期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100X9BV.pdf"

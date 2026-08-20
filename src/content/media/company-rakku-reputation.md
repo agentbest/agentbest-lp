@@ -6,11 +6,11 @@ companyName: "ラック"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["ラック", "情報セキュリティ", "KDDI", "システムインテグレーション", "上場廃止"]
-pubDate: 2026-08-21
+pubDate: 2026-08-11
 slug: "company-rakku-reputation"
 image: "/images/media/company-rakku-reputation.png"
 related: ["big4-consultant-salary", "industry-gyokai-tokka-consul-career-path", "job-senryaku-consultant-career-path", "industry-gyokai-tokka-consul-nensyu"]
-reviewedAt: 2026-08-21
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第17期（2024年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100TN10.pdf"

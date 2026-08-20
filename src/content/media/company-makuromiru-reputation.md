@@ -6,11 +6,11 @@ companyName: "マクロミル"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["マクロミル", "マーケティングリサーチ", "非公開化", "CVCキャピタル", "上場廃止"]
-pubDate: 2026-08-21
+pubDate: 2026-08-11
 slug: "company-makuromiru-reputation"
 image: "/images/media/company-makuromiru-reputation.png"
 related: ["industry-it-consul-shibou-douki", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "company-lts-reputation"]
-reviewedAt: 2026-08-21
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第11期（2024年6月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100UFKM.pdf"

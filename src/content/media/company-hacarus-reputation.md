@@ -6,11 +6,11 @@ companyName: "HACARUS"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["HACARUS", "スパースモデリング", "AI外観検査", "京都", "エッジAI"]
-pubDate: 2026-09-15
+pubDate: 2026-08-12
 slug: "company-hacarus-reputation"
 image: "/images/media/company-hacarus-reputation.png"
 related: ["saas-sales-motivation", "industry-mega-venture-nensyu", "job-shanai-se-nensyu", "company-atorae-reputation"]
-reviewedAt: 2026-09-15
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社HACARUS 会社概要"
     url: "https://hacarus.com/ja/company/"

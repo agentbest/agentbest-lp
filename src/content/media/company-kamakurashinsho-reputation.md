@@ -6,11 +6,11 @@ companyName: "鎌倉新書"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["鎌倉新書", "終活", "いい葬儀", "官民協働", "高齢社会"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-kamakurashinsho-reputation"
 image: "/images/media/company-kamakurashinsho-reputation.png"
 related: ["customer-success-company-size", "industry-tsushin-senkou-flow", "job-jigyo-kikaku-senkou-flow", "company-gmointaanetto-reputation"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社鎌倉新書 有価証券報告書 第42期（2026年1月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y0J1.pdf"

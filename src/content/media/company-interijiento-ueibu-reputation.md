@@ -6,11 +6,11 @@ companyName: "インテリジェント ウェイブ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["インテリジェント ウェイブ", "決済", "クレジットカード", "不正検知", "大日本印刷"]
-pubDate: 2026-09-01
+pubDate: 2026-08-11
 slug: "company-interijiento-ueibu-reputation"
 image: "/images/media/company-interijiento-ueibu-reputation.png"
 related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-nensyu", "company-iisoru-reputation", "company-infomeeshon-diberopumento-reputation"]
-reviewedAt: 2026-09-01
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社インテリジェント ウェイブ 有価証券報告書 第42期（2025年6月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WP1M.pdf"

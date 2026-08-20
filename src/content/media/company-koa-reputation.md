@@ -6,11 +6,11 @@ companyName: "コア"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["コア", "組込みシステム", "GNSS", "カンパニー制", "自主独立系"]
-pubDate: 2026-09-02
+pubDate: 2026-08-11
 slug: "company-koa-reputation"
 image: "/images/media/company-koa-reputation.png"
 related: ["business-planning-certification", "industry-jigyo-gaisha-pdm-shibou-douki", "company-heroz-reputation", "company-hikuratesu-reputation"]
-reviewedAt: 2026-09-02
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社コア 有価証券報告書 第57期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YE3S.pdf"

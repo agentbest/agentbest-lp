@@ -6,11 +6,11 @@ companyName: "DIMENSION"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["DIMENSION", "ベンチャーキャピタル", "ドリームインキュベータ", "MBO", "麻布台ヒルズ"]
-pubDate: 2026-08-23
+pubDate: 2026-08-11
 slug: "company-dimension-reputation"
 image: "/images/media/company-dimension-reputation.png"
 related: ["finance-english", "industry-fas-tenshoku-nanido", "job-ma-chukai-eigyo-tenshoku-nanido", "company-mandaroiyaruadobaizarii-reputation"]
-reviewedAt: 2026-08-23
+reviewedAt: 2026-08-11
 sources:
   - name: "DIMENSION株式会社 公式サイト（会社概要）"
     url: "https://www.dimensionfund.co.jp/about/"

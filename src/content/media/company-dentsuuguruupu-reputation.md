@@ -6,11 +6,11 @@ companyName: "電通グループ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["電通グループ", "広告", "のれん減損", "調整後営業利益", "IFRS"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-dentsuuguruupu-reputation"
 image: "/images/media/company-dentsuuguruupu-reputation.png"
 related: ["saas-sales-from-scratch", "industry-kinyu-it-nensyu", "job-cxo-kouho-nensyu", "company-bizasuku-reputation"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社電通グループ 有価証券報告書 第177期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XS0O.pdf"

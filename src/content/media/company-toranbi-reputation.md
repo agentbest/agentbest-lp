@@ -6,11 +6,11 @@ companyName: "トランビ"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["トランビ", "TRANBI", "M&Aプラットフォーム", "事業承継", "サブスクリプション"]
-pubDate: 2026-08-26
+pubDate: 2026-08-11
 slug: "company-toranbi-reputation"
 image: "/images/media/company-toranbi-reputation.png"
 related: ["ma-industry-trend", "industry-pe-fund-tenshoku-nanido", "job-saisei-consultant-tenshoku-nanido", "company-yunizon-kyapitaru-reputation"]
-reviewedAt: 2026-08-26
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社トランビ 運営会社情報"
     url: "https://www.tranbi.com/corporate/"

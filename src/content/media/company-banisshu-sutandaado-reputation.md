@@ -6,11 +6,11 @@ companyName: "バニッシュ・スタンダード"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["バニッシュ・スタンダード", "STAFF START", "スタッフDX", "小売DX", "STAFF OF THE YEAR"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-banisshu-sutandaado-reputation"
 image: "/images/media/company-banisshu-sutandaado-reputation.png"
 related: ["bizdev-how-to-use-agent", "industry-mega-venture-tenshoku-nanido", "job-it-architect-tenshoku-nanido", "company-luup-reputation"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社バニッシュ・スタンダード 企業情報"
     url: "https://www.v-standard.com/about/"

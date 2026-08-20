@@ -6,11 +6,11 @@ companyName: "Photosynth"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Photosynth", "Akerun", "スマートロック", "空間DX", "IoT"]
-pubDate: 2026-09-19
+pubDate: 2026-08-12
 slug: "company-photosynth-reputation"
 image: "/images/media/company-photosynth-reputation.png"
 related: ["saas-sales-work-style", "industry-maker-it-shibou-douki", "job-customer-success-shibou-douki", "company-spiber-reputation"]
-reviewedAt: 2026-09-19
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Photosynth 有価証券報告書 第12期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XV3D.pdf"

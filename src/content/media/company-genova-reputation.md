@@ -6,11 +6,11 @@ companyName: "GENOVA"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["GENOVA", "Medical DOC", "NOMOCa", "医療DX", "クリニック"]
-pubDate: 2026-09-14
+pubDate: 2026-08-12
 slug: "company-genova-reputation"
 image: "/images/media/company-genova-reputation.png"
 related: ["saas-sales-company-size", "industry-maker-it-shibou-douki", "job-product-manager-shibou-douki", "job-customer-success-shibou-douki"]
-reviewedAt: 2026-09-14
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社GENOVA 有価証券報告書 第21期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YFQH.pdf"

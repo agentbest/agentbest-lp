@@ -6,11 +6,11 @@ companyName: "プロシップ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["プロシップ", "固定資産管理", "パッケージ", "新リース会計基準", "SaaS"]
-pubDate: 2026-09-09
+pubDate: 2026-08-12
 slug: "company-puroshippu-reputation"
 image: "/images/media/company-puroshippu-reputation.png"
 related: ["product-manager-motivation", "industry-user-kei-sier-senkou-flow", "company-sukairaakuhoorudingusu-reputation", "company-sun-asterisk-reputation"]
-reviewedAt: 2026-09-09
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社プロシップ 有価証券報告書 第57期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YD0F.pdf"

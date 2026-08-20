@@ -6,11 +6,11 @@ companyName: "ファインデックス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ファインデックス", "医療システム", "電子カルテ", "DocuMaker", "SaaS"]
-pubDate: 2026-09-08
+pubDate: 2026-08-12
 slug: "company-faindekkusu-reputation"
 image: "/images/media/company-faindekkusu-reputation.png"
 related: ["corporate-planning-market-trend", "industry-user-kei-sier-nensyu", "company-aisantekunorojii-reputation", "company-aishin-reputation"]
-reviewedAt: 2026-09-08
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ファインデックス 有価証券報告書 第41期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XTNK.pdf"

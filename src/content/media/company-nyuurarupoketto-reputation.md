@@ -6,11 +6,11 @@ companyName: "ニューラルグループ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ニューラルグループ", "ニューラルポケット", "エッジAI", "NEURAL.LLM", "KizunaNavi"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-nyuurarupoketto-reputation"
 image: "/images/media/company-nyuurarupoketto-reputation.png"
 related: ["bizdev-certification", "industry-maker-it-tenshoku-nanido", "job-field-sales-tenshoku-nanido", "company-purasuarufa-konsaruteingu-reputation"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "ニューラルグループ株式会社 有価証券報告書 第8期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XV3Y.pdf"

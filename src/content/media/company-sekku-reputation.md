@@ -6,11 +6,11 @@ companyName: "セック"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["セック", "リアルタイム技術", "宇宙先端システム", "ロボット", "社会基盤システム"]
-pubDate: 2026-09-04
+pubDate: 2026-08-11
 slug: "company-sekku-reputation"
 image: "/images/media/company-sekku-reputation.png"
 related: ["project-manager-salary-1000", "industry-user-kei-sier-career-path", "company-afurakkuseimeihoken-reputation", "company-agc-reputation"]
-reviewedAt: 2026-09-04
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社セック 有価証券報告書 第56期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YIG2.pdf"

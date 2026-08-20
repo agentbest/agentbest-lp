@@ -6,11 +6,11 @@ companyName: "ベース"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ベース", "受託開発", "金融系システム", "オフショア", "無錫"]
-pubDate: 2026-09-09
+pubDate: 2026-08-12
 slug: "company-beesu-reputation"
 image: "/images/media/company-beesu-reputation.png"
 related: ["project-manager-career-path", "industry-jigyo-gaisha-pdm-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "industry-jigyo-gaisha-pdm-shibou-douki"]
-reviewedAt: 2026-09-09
+reviewedAt: 2026-08-12
 sources:
   - name: "ベース株式会社 有価証券報告書 第29期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUKI.pdf"

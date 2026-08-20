@@ -6,11 +6,11 @@ companyName: "PR TIMES"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["PR TIMES", "プレスリリース", "広報", "SaaS", "ベクトル"]
-pubDate: 2026-09-19
+pubDate: 2026-08-12
 slug: "company-pr-times-reputation"
 image: "/images/media/company-pr-times-reputation.png"
 related: ["product-manager-work-style", "industry-maker-it-career-path", "job-product-manager-career-path", "company-meitekkuguruupuhoorudingusu-reputation"]
-reviewedAt: 2026-09-19
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社PR TIMES 有価証券報告書 第21期（2026年2月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y6DH.pdf"

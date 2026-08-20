@@ -6,11 +6,11 @@ companyName: "都築電気"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["都築電気", "ネットワーク", "受注残高", "労働組合", "Transformation 2026"]
-pubDate: 2026-09-11
+pubDate: 2026-08-12
 slug: "company-tsuzukidenki-reputation"
 image: "/images/media/company-tsuzukidenki-reputation.png"
 related: ["dev-director-salary-600", "industry-jigyo-gaisha-pdm-career-path", "company-mitsubishiufjshintakuginkou-reputation", "company-mitsuijouhou-reputation"]
-reviewedAt: 2026-09-11
+reviewedAt: 2026-08-12
 sources:
   - name: "都築電気株式会社 有価証券報告書 第86期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YE5P.pdf"

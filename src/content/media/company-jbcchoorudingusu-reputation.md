@@ -6,11 +6,11 @@ companyName: "JBCCホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["JBCCホールディングス", "JBCC", "システムインテグレーション", "IBM", "持株会社"]
-pubDate: 2026-08-28
+pubDate: 2026-08-11
 slug: "company-jbcchoorudingusu-reputation"
 image: "/images/media/company-jbcchoorudingusu-reputation.png"
 related: ["project-manager-failure", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-shiseidoujapan-reputation", "company-shisukoshisutemuzu-reputation"]
-reviewedAt: 2026-08-28
+reviewedAt: 2026-08-11
 sources:
   - name: "ＪＢＣＣホールディングス株式会社 有価証券報告書 第62期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YE6B.pdf"

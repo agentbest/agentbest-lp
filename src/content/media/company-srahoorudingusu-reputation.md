@@ -6,11 +6,11 @@ companyName: "SRAホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["SRAホールディングス", "SRA", "オープンソース", "システムインテグレーション", "持株会社"]
-pubDate: 2026-08-29
+pubDate: 2026-08-11
 slug: "company-srahoorudingusu-reputation"
 image: "/images/media/company-srahoorudingusu-reputation.png"
 related: ["corporate-planning-how-to-use-agent", "industry-user-kei-sier-shibou-douki", "company-niizuueru-reputation", "company-nikon-reputation"]
-reviewedAt: 2026-08-29
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ＳＲＡホールディングス 有価証券報告書 第36期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YHQM.pdf"

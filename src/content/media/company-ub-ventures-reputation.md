@@ -6,11 +6,11 @@ companyName: "UB Ventures"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["UB Ventures", "ファーストライト・キャピタル", "ユーザベース", "ベンチャーキャピタル", "SaaS"]
-pubDate: 2026-08-25
+pubDate: 2026-08-11
 slug: "company-ub-ventures-reputation"
 image: "/images/media/company-ub-ventures-reputation.png"
 related: ["ma-advisor-career-guide", "industry-jigyo-saisei-career-path", "job-fas-analyst-career-path", "industry-pe-fund-career-path"]
-reviewedAt: 2026-08-25
+reviewedAt: 2026-08-11
 sources:
   - name: "ファーストライト・キャピタル（旧UB Ventures）公式サイト"
     url: "https://firstlight-cap.com/"

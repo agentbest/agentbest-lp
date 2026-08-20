@@ -6,11 +6,11 @@ companyName: "ビジョナル"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ビジョナル", "ビズリーチ", "BizReach", "HRMOS", "HR Tech"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-bijonaru-reputation"
 image: "/images/media/company-bijonaru-reputation.png"
 related: ["bizdev-salary-1000", "industry-maker-it-nensyu", "job-data-scientist-nensyu", "job-it-architect-shibou-douki"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "ビジョナル株式会社 有価証券報告書 第6期（2025年7月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WW0V.pdf"

@@ -6,11 +6,11 @@ companyName: "TDCソフト"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["TDCソフト", "システムインテグレータ", "アジャイル", "SAFe", "CMMI"]
-pubDate: 2026-08-29
+pubDate: 2026-08-11
 slug: "company-tdcsofuto-reputation"
 image: "/images/media/company-tdcsofuto-reputation.png"
 related: ["pmo-work-style", "industry-user-kei-sier-career-path", "company-konikaminoruta-reputation", "company-konpyuutaamaneejimento-reputation"]
-reviewedAt: 2026-08-29
+reviewedAt: 2026-08-11
 sources:
   - name: "ＴＤＣソフト株式会社 有価証券報告書 第73期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YH3J.pdf"

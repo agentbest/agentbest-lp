@@ -6,11 +6,11 @@ companyName: "ヒト・コミュニケーションズ・ホールディングス
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ヒト・コミュニケーションズ", "営業支援", "アウトソーシング", "ホールセール", "空港グランドハンドリング"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-hito-komyunikeeshonzu-hoorudingusu-reputation"
 image: "/images/media/company-hito-komyunikeeshonzu-hoorudingusu-reputation.png"
 related: ["saas-sales-failure", "industry-maker-it-nensyu", "job-scrum-master-nensyu", "company-sutokkumaaku-reputation"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社ヒト・コミュニケーションズ・ホールディングス 有価証券報告書 第7期（2025年8月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100X6V1.pdf"

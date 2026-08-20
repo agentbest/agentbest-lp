@@ -6,11 +6,11 @@ companyName: "オープングループ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["オープングループ", "BizRobo!", "RPA", "オートメーション", "持株会社"]
-pubDate: 2026-09-02
+pubDate: 2026-08-11
 slug: "company-oopunguruupu-reputation"
 image: "/images/media/company-oopunguruupu-reputation.png"
 related: ["product-manager-resume", "industry-user-kei-sier-nensyu", "company-nttdeetaguruupu-reputation", "company-nttdeetasentangijutsu-reputation"]
-reviewedAt: 2026-09-02
+reviewedAt: 2026-08-11
 sources:
   - name: "オープングループ株式会社 有価証券報告書 第27期（2026年2月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y69Y.pdf"

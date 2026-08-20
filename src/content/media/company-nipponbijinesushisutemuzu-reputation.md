@@ -6,11 +6,11 @@ companyName: "日本ビジネスシステムズ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["日本ビジネスシステムズ", "JBS", "クラウドインテグレーター", "マイクロソフト", "Azure"]
-pubDate: 2026-09-10
+pubDate: 2026-08-12
 slug: "company-nipponbijinesushisutemuzu-reputation"
 image: "/images/media/company-nipponbijinesushisutemuzu-reputation.png"
 related: ["pmo-certification", "industry-jigyo-gaisha-pdm-shibou-douki", "company-bijinesubureinootashouwa-reputation", "company-bijinesuenjiniaringu-reputation"]
-reviewedAt: 2026-09-10
+reviewedAt: 2026-08-12
 sources:
   - name: "日本ビジネスシステムズ株式会社 有価証券報告書 第35期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XB8X.pdf"

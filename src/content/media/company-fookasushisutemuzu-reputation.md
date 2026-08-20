@@ -6,11 +6,11 @@ companyName: "フォーカスシステムズ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["フォーカスシステムズ", "公共システム", "NTTデータ", "一次請け", "情報セキュリティ"]
-pubDate: 2026-09-09
+pubDate: 2026-08-12
 slug: "company-fookasushisutemuzu-reputation"
 image: "/images/media/company-fookasushisutemuzu-reputation.png"
 related: ["business-planning-work-style", "industry-user-kei-sier-nensyu", "company-panasonikku-konekuto-reputation", "company-pandgjapan-reputation"]
-reviewedAt: 2026-09-09
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社フォーカスシステムズ 有価証券報告書 第50期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YFP2.pdf"

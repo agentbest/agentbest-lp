@@ -6,11 +6,11 @@ companyName: "Idein"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Idein", "Actcast", "エッジAI", "Raspberry Pi", "資本業務提携"]
-pubDate: 2026-09-16
+pubDate: 2026-08-12
 slug: "company-idein-reputation"
 image: "/images/media/company-idein-reputation.png"
 related: ["product-manager-certification", "industry-maker-it-tenshoku-nanido", "job-inside-sales-tenshoku-nanido", "company-jigen-reputation"]
-reviewedAt: 2026-09-16
+reviewedAt: 2026-08-12
 sources:
   - name: "Idein株式会社 会社情報"
     url: "https://www.idein.jp/ja/company"

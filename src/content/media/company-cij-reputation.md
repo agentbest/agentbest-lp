@@ -6,11 +6,11 @@ companyName: "CIJ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["CIJ", "日本コンピュータ研究所", "システム開発", "横浜", "CIJネクスト"]
-pubDate: 2026-08-28
+pubDate: 2026-08-11
 slug: "company-cij-reputation"
 image: "/images/media/company-cij-reputation.png"
 related: ["project-manager-salary-600", "industry-user-kei-sier-shibou-douki", "company-gmopuraimu-sutoratejii-reputation", "company-goorudoman-sakkusushouken-reputation"]
-reviewedAt: 2026-08-28
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ＣＩＪ 有価証券報告書 第50期（2025年6月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WOO0.pdf"

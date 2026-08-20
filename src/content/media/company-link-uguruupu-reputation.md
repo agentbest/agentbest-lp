@@ -6,11 +6,11 @@ companyName: "Link-Uグループ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Link-Uグループ", "マンガ", "Webtoon", "リカーリング", "サーバー"]
-pubDate: 2026-09-17
+pubDate: 2026-08-12
 slug: "company-link-uguruupu-reputation"
 image: "/images/media/company-link-uguruupu-reputation.png"
 related: ["saas-sales-how-to-use-agent", "industry-tsushin-senkou-flow", "job-customer-success-senkou-flow", "company-suriishieiku-reputation"]
-reviewedAt: 2026-09-17
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Link-Uグループ 有価証券報告書 第12期（2025年7月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WXDJ.pdf"

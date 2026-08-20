@@ -6,11 +6,11 @@ companyName: "テクマトリックス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["テクマトリックス", "情報基盤", "医療システム", "NOBORI", "サイバーセキュリティ"]
-pubDate: 2026-09-05
+pubDate: 2026-08-11
 slug: "company-tekumatorikkusu-reputation"
 image: "/images/media/company-tekumatorikkusu-reputation.png"
 related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-nipponkoka-koora-reputation", "company-nipponmaikurosofuto-reputation"]
-reviewedAt: 2026-09-05
+reviewedAt: 2026-08-11
 sources:
   - name: "テクマトリックス株式会社 有価証券報告書 第42期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YL8T.pdf"

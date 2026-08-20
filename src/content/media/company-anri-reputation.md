@@ -6,11 +6,11 @@ companyName: "ANRI"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["ANRI", "ベンチャーキャピタル", "シード投資", "ディープテック", "六本木ヒルズ"]
-pubDate: 2026-08-23
+pubDate: 2026-08-11
 slug: "company-anri-reputation"
 image: "/images/media/company-anri-reputation.png"
 related: ["post-consultant-resume", "industry-fas-tenshoku-nanido", "job-ma-chukai-eigyo-tenshoku-nanido", "job-saisei-consultant-tenshoku-nanido"]
-reviewedAt: 2026-08-23
+reviewedAt: 2026-08-11
 sources:
   - name: "科学技術振興機構（JST）ディープテック・スタートアップ国際展開プログラム 事業化推進機関 ANRI株式会社"
     url: "https://www.jst.go.jp/program/startupkikin/files/deeptech/pr_anri.pdf"

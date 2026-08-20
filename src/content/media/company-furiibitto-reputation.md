@@ -6,11 +6,11 @@ companyName: "フリービット"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["フリービット", "ギガプライズ", "トーンモバイル", "MVNE", "SiLK VISION 2027"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-furiibitto-reputation"
 image: "/images/media/company-furiibitto-reputation.png"
 related: ["product-manager-market-trend", "industry-tsushin-senkou-flow", "job-product-manager-senkou-flow", "company-u-next-holdings-reputation"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "フリービット株式会社 有価証券報告書 第25期（2025年4月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WE4B.pdf"

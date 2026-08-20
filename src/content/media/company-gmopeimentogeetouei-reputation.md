@@ -6,11 +6,11 @@ companyName: "GMOペイメントゲートウェイ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["GMOペイメントゲートウェイ", "決済代行", "金融関連事業", "GMO後払い", "IFRS"]
-pubDate: 2026-09-15
+pubDate: 2026-08-12
 slug: "company-gmopeimentogeetouei-reputation"
 image: "/images/media/company-gmopeimentogeetouei-reputation.png"
 related: ["saas-sales-interview", "industry-mega-venture-nensyu", "job-ibd-analyst-nensyu", "job-scrum-master-nensyu"]
-reviewedAt: 2026-09-15
+reviewedAt: 2026-08-12
 sources:
   - name: "GMOペイメントゲートウェイ株式会社 有価証券報告書 第32期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100X9RU.pdf"

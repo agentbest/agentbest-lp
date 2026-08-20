@@ -6,11 +6,11 @@ companyName: "Spiral Capital"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["Spiral Capital", "スパイラルキャピタル", "ベンチャーキャピタル", "CVC", "麻布台ヒルズ"]
-pubDate: 2026-08-24
+pubDate: 2026-08-11
 slug: "company-spiral-capital-reputation"
 image: "/images/media/company-spiral-capital-reputation.png"
 related: ["ma-industry-salary", "industry-jigyo-shokei-shibou-douki", "job-saisei-consultant-shibou-douki", "company-aozoraginkouguruupu-reputation"]
-reviewedAt: 2026-08-24
+reviewedAt: 2026-08-11
 sources:
   - name: "Spiral Capital 公式サイト（ABOUT／TEAM）"
     url: "https://spiral-cap.com/about/"

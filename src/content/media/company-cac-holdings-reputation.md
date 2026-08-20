@@ -6,11 +6,11 @@ companyName: "CAC Holdings"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["CAC Holdings", "シーエーシー", "システムインテグレーション", "インド", "持株会社"]
-pubDate: 2026-08-27
+pubDate: 2026-08-11
 slug: "company-cac-holdings-reputation"
 image: "/images/media/company-cac-holdings-reputation.png"
 related: ["dev-director-in-30s", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-aukabukomushouken-reputation", "company-azujiento-reputation"]
-reviewedAt: 2026-08-27
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ＣＡＣ Ｈｏｌｄｉｎｇｓ 有価証券報告書 第60期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XSXA.pdf"

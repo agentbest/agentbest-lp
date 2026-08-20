@@ -6,11 +6,11 @@ companyName: "ゼンリン"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ゼンリン", "住宅地図", "位置情報", "北九州", "ZGP2030"]
-pubDate: 2026-09-04
+pubDate: 2026-08-11
 slug: "company-zenrin-reputation"
 image: "/images/media/company-zenrin-reputation.png"
 related: ["project-manager-market-trend", "industry-jigyo-gaisha-pdm-career-path", "company-kapukon-reputation", "company-karubii-reputation"]
-reviewedAt: 2026-09-04
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ゼンリン 有価証券報告書 第66期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YD65.pdf"

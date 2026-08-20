@@ -6,11 +6,11 @@ companyName: "Hacobu"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Hacobu", "MOVO", "物流DX", "MOVO Berth", "Data-Driven Logistics"]
-pubDate: 2026-09-15
+pubDate: 2026-08-12
 slug: "company-hacobu-reputation"
 image: "/images/media/company-hacobu-reputation.png"
 related: ["product-manager-resume", "industry-mega-venture-tenshoku-nanido", "job-keiei-kikaku-tenshoku-nanido", "industry-tsushin-career-path"]
-reviewedAt: 2026-09-15
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Hacobu 会社概要"
     url: "https://hacobu.jp/company/"

@@ -6,11 +6,11 @@ companyName: "ネオジャパン"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ネオジャパン", "desknet's NEO", "グループウェア", "クラウド", "横浜"]
-pubDate: 2026-09-07
+pubDate: 2026-08-12
 slug: "company-neojapan-reputation"
 image: "/images/media/company-neojapan-reputation.png"
 related: ["dev-director-salary", "industry-jigyo-gaisha-pdm-senkou-flow", "industry-jigyo-gaisha-pdm-shibou-douki", "industry-jigyo-gaisha-pdm-tenshoku-nanido"]
-reviewedAt: 2026-09-07
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ネオジャパン 有価証券報告書 第34期（2026年1月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y0W0.pdf"

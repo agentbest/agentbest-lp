@@ -6,11 +6,11 @@ companyName: "クロスキャット"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["クロスキャット", "BI", "システムソリューション", "賃上げ", "港南"]
-pubDate: 2026-09-02
+pubDate: 2026-08-11
 slug: "company-kurosukyatto-reputation"
 image: "/images/media/company-kurosukyatto-reputation.png"
 related: ["product-manager-failure", "industry-user-kei-sier-senkou-flow", "company-nipponshisutemugijutsu-reputation", "company-nissanjidousha-reputation"]
-reviewedAt: 2026-09-02
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社クロスキャット 有価証券報告書 第53期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YJU2.pdf"

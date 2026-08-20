@@ -6,11 +6,11 @@ companyName: "デジタルハーツホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["デジタルハーツホールディングス", "デバッグ", "AGEST", "品質保証", "ゲームテスト"]
-pubDate: 2026-09-06
+pubDate: 2026-08-11
 slug: "company-dejitaruhaatsuhoorudingusu-reputation"
 image: "/images/media/company-dejitaruhaatsuhoorudingusu-reputation.png"
 related: ["business-planning-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-jbcchoorudingusu-reputation", "company-jcb-reputation"]
-reviewedAt: 2026-09-06
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社デジタルハーツホールディングス 有価証券報告書 第13期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YH90.pdf"

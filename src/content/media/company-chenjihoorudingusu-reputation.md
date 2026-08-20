@@ -6,11 +6,11 @@ companyName: "チェンジホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["チェンジホールディングス", "トラストバンク", "ふるさとチョイス", "パブリテック", "持株会社"]
-pubDate: 2026-09-05
+pubDate: 2026-08-11
 slug: "company-chenjihoorudingusu-reputation"
 image: "/images/media/company-chenjihoorudingusu-reputation.png"
 related: ["product-manager-in-30s", "industry-user-kei-sier-senkou-flow", "company-mizuhoginkou-reputation", "company-mizuhoshouken-reputation"]
-reviewedAt: 2026-09-05
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社チェンジホールディングス 有価証券報告書 第24期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YJC3.pdf"

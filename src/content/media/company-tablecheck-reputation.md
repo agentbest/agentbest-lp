@@ -6,11 +6,11 @@ companyName: "TableCheck"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["TableCheck", "飲食店予約", "レストランテック", "SaaS", "グローバル"]
-pubDate: 2026-09-24
+pubDate: 2026-08-12
 slug: "company-tablecheck-reputation"
 image: "/images/media/company-tablecheck-reputation.png"
 related: ["bizdev-certification", "industry-tsushin-shibou-douki", "job-customer-success-shibou-douki", "company-sutadisuto-reputation"]
-reviewedAt: 2026-09-24
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社TableCheck 会社概要"
     url: "https://www.tablecheck.com/ja/company/"

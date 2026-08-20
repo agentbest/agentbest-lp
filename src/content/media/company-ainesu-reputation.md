@@ -6,11 +6,11 @@ companyName: "アイネス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["アイネス", "自治体システム", "標準化", "公共分野", "三菱総合研究所"]
-pubDate: 2026-08-30
+pubDate: 2026-08-11
 slug: "company-ainesu-reputation"
 image: "/images/media/company-ainesu-reputation.png"
 related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-shibou-douki", "company-isu-jidousha-reputation", "company-itooyookadou-reputation"]
-reviewedAt: 2026-08-30
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アイネス 有価証券報告書 第64期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YF4O.pdf"

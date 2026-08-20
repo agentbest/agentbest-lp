@@ -6,11 +6,11 @@ companyName: "PKSHA Technology"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["PKSHA Technology", "AI", "アルゴリズム", "AI SaaS", "IFRS"]
-pubDate: 2026-09-19
+pubDate: 2026-08-12
 slug: "company-pksha-technology-reputation"
 image: "/images/media/company-pksha-technology-reputation.png"
 related: ["saas-sales-english", "industry-mega-venture-senkou-flow", "job-cxo-kouho-senkou-flow", "company-uinguaaku1st-reputation"]
-reviewedAt: 2026-09-19
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社PKSHA Technology 有価証券報告書 第13期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XC4P.pdf"

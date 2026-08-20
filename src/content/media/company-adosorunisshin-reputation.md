@@ -6,11 +6,11 @@ companyName: "アドソル日進"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["アドソル日進", "社会インフラ", "電力", "組込み", "先進インダストリー"]
-pubDate: 2026-08-31
+pubDate: 2026-08-11
 slug: "company-adosorunisshin-reputation"
 image: "/images/media/company-adosorunisshin-reputation.png"
 related: ["corporate-planning-from-scratch", "industry-user-kei-sier-senkou-flow", "company-dejitaruaatsu-reputation", "company-dejitaruhaatsuhoorudingusu-reputation"]
-reviewedAt: 2026-08-31
+reviewedAt: 2026-08-11
 sources:
   - name: "アドソル日進株式会社 有価証券報告書 第51期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YFRS.pdf"

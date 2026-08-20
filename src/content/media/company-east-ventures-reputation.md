@@ -6,11 +6,11 @@ companyName: "East Ventures"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["East Ventures", "イーストベンチャーズ", "ベンチャーキャピタル", "東南アジア", "シード投資"]
-pubDate: 2026-08-24
+pubDate: 2026-08-11
 slug: "company-east-ventures-reputation"
 image: "/images/media/company-east-ventures-reputation.png"
 related: ["post-consultant-work-style", "industry-jigyo-saisei-tenshoku-nanido", "job-ma-chukai-eigyo-tenshoku-nanido", "company-spiral-capital-reputation"]
-reviewedAt: 2026-08-24
+reviewedAt: 2026-08-11
 sources:
   - name: "East Ventures 公式サイト（Team）"
     url: "https://east.vc/team/"

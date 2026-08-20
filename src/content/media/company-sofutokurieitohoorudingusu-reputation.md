@@ -6,11 +6,11 @@ companyName: "ソフトクリエイトホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ソフトクリエイトホールディングス", "ecbeing", "ECサイト構築", "持株会社", "エイトレッド"]
-pubDate: 2026-09-05
+pubDate: 2026-08-11
 slug: "company-sofutokurieitohoorudingusu-reputation"
 image: "/images/media/company-sofutokurieitohoorudingusu-reputation.png"
 related: ["pmo-career-guide", "industry-jigyo-gaisha-pdm-career-path", "company-mitsubishidenki-reputation", "company-mitsubishidenkisofutouea-reputation"]
-reviewedAt: 2026-09-05
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ソフトクリエイトホールディングス 有価証券報告書 第59期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YF8C.pdf"

@@ -6,11 +6,11 @@ companyName: "電算システムホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["電算システムホールディングス", "収納代行", "Google Cloud", "純粋持株会社", "岐阜"]
-pubDate: 2026-09-11
+pubDate: 2026-08-12
 slug: "company-densanshisutemuhoorudingusu-reputation"
 image: "/images/media/company-densanshisutemuhoorudingusu-reputation.png"
 related: ["corporate-planning-failure", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-sebunandai-hoorudingusu-reputation", "company-seerusufoosu-japan-reputation"]
-reviewedAt: 2026-09-11
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社電算システムホールディングス 有価証券報告書 第5期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XSJW.pdf"

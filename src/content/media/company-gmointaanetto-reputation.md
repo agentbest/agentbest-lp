@@ -6,11 +6,11 @@ companyName: "GMOインターネット"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["GMOインターネット", "GMOインターネットグループ", "決済", "レンタルサーバー", "IFRS"]
-pubDate: 2026-09-14
+pubDate: 2026-08-12
 slug: "company-gmointaanetto-reputation"
 image: "/images/media/company-gmointaanetto-reputation.png"
 related: ["bizdev-certification", "industry-mega-venture-career-path", "job-dx-suishin-career-path", "company-vanteejimanejimento-reputation"]
-reviewedAt: 2026-09-14
+reviewedAt: 2026-08-12
 sources:
   - name: "GMOインターネットグループ株式会社 有価証券報告書 第35期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XSG3.pdf"

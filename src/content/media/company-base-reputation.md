@@ -6,11 +6,11 @@ companyName: "BASE"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["BASE", "ネットショップ", "PAY.JP", "EC", "流通総額"]
-pubDate: 2026-09-13
+pubDate: 2026-08-12
 slug: "company-base-reputation"
 image: "/images/media/company-base-reputation.png"
 related: ["customer-success-resume", "industry-tsushin-tenshoku-nanido", "job-data-scientist-tenshoku-nanido", "job-jigyo-kikaku-nensyu"]
-reviewedAt: 2026-09-13
+reviewedAt: 2026-08-12
 sources:
   - name: "BASE株式会社 有価証券報告書 第13期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XSMS.pdf"

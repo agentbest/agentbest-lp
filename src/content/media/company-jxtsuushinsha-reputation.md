@@ -6,11 +6,11 @@ companyName: "JX通信社"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["JX通信社", "FASTALERT", "NewsDigest", "報道", "リスク情報"]
-pubDate: 2026-09-16
+pubDate: 2026-08-12
 slug: "company-jxtsuushinsha-reputation"
 image: "/images/media/company-jxtsuushinsha-reputation.png"
 related: ["industry-saas-startup-nensyu", "industry-maker-it-tenshoku-nanido", "job-pe-investment-tenshoku-nanido", "job-customer-success-shibou-douki"]
-reviewedAt: 2026-09-16
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社JX通信社 会社情報"
     url: "https://jxpress.net/about/"

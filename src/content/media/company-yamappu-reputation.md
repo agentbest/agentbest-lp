@@ -6,11 +6,11 @@ companyName: "ヤマップ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ヤマップ", "YAMAP", "登山アプリ", "福岡", "アウトドア"]
-pubDate: 2026-09-25
+pubDate: 2026-08-12
 slug: "company-yamappu-reputation"
 image: "/images/media/company-yamappu-reputation.png"
 related: ["bizdev-salary-1000", "industry-mega-venture-shibou-douki", "job-cxo-kouho-shibou-douki", "company-primenumber-reputation"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ヤマップ 企業様向けサービスガイド（2025年5月現在）"
     url: "https://image.yamap.co.jp/196d3d85c446.pdf"

@@ -6,11 +6,11 @@ companyName: "ビーウィズ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ビーウィズ", "コンタクトセンター", "BPO", "Omnia LINK", "パソナグループ"]
-pubDate: 2026-09-08
+pubDate: 2026-08-12
 slug: "company-biiuizu-reputation"
 image: "/images/media/company-biiuizu-reputation.png"
 related: ["project-manager-career-guide", "industry-user-kei-sier-senkou-flow", "company-runesasuerekutoronikusu-reputation", "company-ryouhinkeikaku-reputation"]
-reviewedAt: 2026-09-08
+reviewedAt: 2026-08-12
 sources:
   - name: "ビーウィズ株式会社 有価証券報告書 第26期（2025年5月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WLY3.pdf"

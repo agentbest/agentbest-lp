@@ -6,11 +6,11 @@ companyName: "Kudan"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Kudan", "SLAM", "空間知覚", "フィジカルAI", "ディープテック"]
-pubDate: 2026-09-16
+pubDate: 2026-08-12
 slug: "company-kudan-reputation"
 image: "/images/media/company-kudan-reputation.png"
 related: ["product-manager-market-trend", "industry-tsushin-tenshoku-nanido", "job-jigyo-kikaku-tenshoku-nanido", "company-kuriiku-ando-ribaasha-reputation"]
-reviewedAt: 2026-09-16
+reviewedAt: 2026-08-12
 sources:
   - name: "Kudan株式会社 有価証券報告書 第12期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YIKS.pdf"

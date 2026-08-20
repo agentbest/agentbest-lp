@@ -6,11 +6,11 @@ companyName: "トランヴィア"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["トランヴィア", "東邦システムサイエンス", "ランドコンピュータ", "経営統合", "持株会社"]
-pubDate: 2026-09-06
+pubDate: 2026-08-11
 slug: "company-toranvia-reputation"
 image: "/images/media/company-toranvia-reputation.png"
 related: ["pmo-work-style", "industry-user-kei-sier-nensyu", "company-aishin-reputation", "company-aisutoomu-reputation"]
-reviewedAt: 2026-09-06
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社トランヴィア 新規上場申請のための有価証券報告書（Ⅰの部）（2026年3月2日提出）"
     url: "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000oge8-att/04Toranvia-1s.pdf"

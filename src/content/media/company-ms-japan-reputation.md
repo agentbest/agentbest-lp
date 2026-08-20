@@ -6,11 +6,11 @@ companyName: "MS-Japan"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["MS-Japan", "人材紹介", "管理部門", "士業", "Manegy"]
-pubDate: 2026-09-18
+pubDate: 2026-08-12
 slug: "company-ms-japan-reputation"
 image: "/images/media/company-ms-japan-reputation.png"
 related: ["industry-saas-startup-senkou-flow", "industry-tsushin-tenshoku-nanido", "job-inside-sales-tenshoku-nanido", "company-jxtsuushinsha-reputation"]
-reviewedAt: 2026-09-18
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社MS-Japan 有価証券報告書 第36期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YEG1.pdf"

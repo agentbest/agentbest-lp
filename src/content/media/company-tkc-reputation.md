@@ -6,11 +6,11 @@ companyName: "TKC"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["TKC", "会計事務所", "地方公共団体", "宇都宮", "情報処理サービス"]
-pubDate: 2026-08-29
+pubDate: 2026-08-11
 slug: "company-tkc-reputation"
 image: "/images/media/company-tkc-reputation.png"
 related: ["business-planning-in-20s", "industry-jigyo-gaisha-pdm-career-path", "company-ic-reputation", "company-idhoorudingusu-reputation"]
-reviewedAt: 2026-08-29
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ＴＫＣ 有価証券報告書 第59期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100X9LY.pdf"

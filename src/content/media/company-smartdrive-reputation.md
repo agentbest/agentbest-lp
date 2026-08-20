@@ -6,11 +6,11 @@ companyName: "SmartDrive"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["SmartDrive", "スマートドライブ", "モビリティデータ", "テレマティクス", "SaaS"]
-pubDate: 2026-09-22
+pubDate: 2026-08-12
 slug: "company-smartdrive-reputation"
 image: "/images/media/company-smartdrive-reputation.png"
 related: ["product-manager-market-trend", "industry-tsushin-senkou-flow", "job-product-manager-senkou-flow", "job-cxo-kouho-tenshoku-nanido"]
-reviewedAt: 2026-09-22
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社スマートドライブ 有価証券報告書 第12期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XC5Q.pdf"

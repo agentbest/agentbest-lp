@@ -6,11 +6,11 @@ companyName: "KPMGあずさサステナビリティ"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["KPMGあずさサステナビリティ", "サステナビリティ保証", "非財務情報", "SSBJ", "KPMG"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-kpmgazusasasutenabiritei-reputation"
 image: "/images/media/company-kpmgazusasasutenabiritei-reputation.png"
 related: ["industry-sier-tenshoku-nanido", "industry-senryaku-consul-tenshoku-nanido", "job-sustainability-consultant-tenshoku-nanido", "company-accenture-japan-reputation"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "KPMGあずさサステナビリティ株式会社（KPMGジャパン）"
     url: "https://kpmg.com/jp/ja/about/sus.html"

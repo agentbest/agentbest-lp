@@ -6,11 +6,11 @@ companyName: "Appier Group"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Appier Group", "AI", "マーケティング", "ARR", "純粋持株会社"]
-pubDate: 2026-09-12
+pubDate: 2026-08-12
 slug: "company-appier-group-reputation"
 image: "/images/media/company-appier-group-reputation.png"
 related: ["customer-success-in-20s", "industry-mega-venture-nensyu", "job-it-architect-nensyu", "job-scrum-master-senkou-flow"]
-reviewedAt: 2026-09-12
+reviewedAt: 2026-08-12
 sources:
   - name: "Appier Group株式会社 有価証券報告書 第8期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XTNG.pdf"

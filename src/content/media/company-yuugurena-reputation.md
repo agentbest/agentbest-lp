@@ -6,11 +6,11 @@ companyName: "ユーグレナ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ユーグレナ", "ヘルスケア", "バイオ燃料", "SAF", "微細藻類"]
-pubDate: 2026-09-25
+pubDate: 2026-08-12
 slug: "company-yuugurena-reputation"
 image: "/images/media/company-yuugurena-reputation.png"
 related: ["product-manager-motivation", "industry-maker-it-career-path", "job-product-manager-career-path", "company-infomaato-reputation"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ユーグレナ 有価証券報告書 第21期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XSL3.pdf"

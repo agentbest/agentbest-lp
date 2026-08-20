@@ -6,11 +6,11 @@ companyName: "JSOL"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["JSOL", "ITコンサルティング", "NTTデータ", "日本総合研究所", "システム構築"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-jsol-reputation"
 image: "/images/media/company-jsol-reputation.png"
 related: ["industry-it-consul-shibou-douki", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "job-senryaku-consultant-tenshoku-nanido"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社JSOL 会社概要"
     url: "https://www.jsol.co.jp/company/outline.html"

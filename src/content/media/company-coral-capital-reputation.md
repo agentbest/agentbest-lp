@@ -6,11 +6,11 @@ companyName: "Coral Capital"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["Coral Capital", "ベンチャーキャピタル", "シード投資", "虎ノ門ヒルズ", "エコシステム"]
-pubDate: 2026-08-23
+pubDate: 2026-08-11
 slug: "company-coral-capital-reputation"
 image: "/images/media/company-coral-capital-reputation.png"
 related: ["finance-from-scratch", "industry-jigyo-shokei-nensyu", "job-saisei-consultant-nensyu", "company-batonz-reputation"]
-reviewedAt: 2026-08-23
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社Coral Capital 公式サイト（About／Team）"
     url: "https://coralcap.co/about/"

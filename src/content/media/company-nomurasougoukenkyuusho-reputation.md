@@ -6,11 +6,11 @@ companyName: "野村総合研究所"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["野村総合研究所", "NRI", "シンクタンク", "ITソリューション", "東証プライム"]
-pubDate: 2026-08-22
+pubDate: 2026-08-11
 slug: "company-nomurasougoukenkyuusho-reputation"
 image: "/images/media/company-nomurasougoukenkyuusho-reputation.png"
 related: ["it-consultant-failure", "industry-gyokai-tokka-consul-career-path", "job-senryaku-consultant-career-path", "company-rinkuandomochibeeshon-reputation"]
-reviewedAt: 2026-08-22
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第61期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YBM8.pdf"

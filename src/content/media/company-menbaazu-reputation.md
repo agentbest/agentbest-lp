@@ -6,11 +6,11 @@ companyName: "メンバーズ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["メンバーズ", "DX伴走支援", "デジタルクリエイター", "UIUX", "脱炭素DX"]
-pubDate: 2026-09-25
+pubDate: 2026-08-12
 slug: "company-menbaazu-reputation"
 image: "/images/media/company-menbaazu-reputation.png"
 related: ["bizdev-in-20s", "industry-tsushin-tenshoku-nanido", "job-customer-success-tenshoku-nanido", "job-cxo-kouho-career-path"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社メンバーズ 有価証券報告書 第31期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YDZP.pdf"

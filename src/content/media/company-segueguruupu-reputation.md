@@ -6,11 +6,11 @@ companyName: "セグエグループ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["セグエグループ", "ネットワークセキュリティ", "RevoWorks", "持株会社", "ガバメントソリューションサービス"]
-pubDate: 2026-09-04
+pubDate: 2026-08-11
 slug: "company-segueguruupu-reputation"
 image: "/images/media/company-segueguruupu-reputation.png"
 related: ["pmo-in-20s", "industry-jigyo-gaisha-pdm-senkou-flow", "company-ncsanda-reputation", "company-nec-reputation"]
-reviewedAt: 2026-09-04
+reviewedAt: 2026-08-11
 sources:
   - name: "セグエグループ株式会社 有価証券報告書 第12期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XTVB.pdf"

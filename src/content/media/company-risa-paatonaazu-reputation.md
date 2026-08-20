@@ -6,11 +6,11 @@ companyName: "リサ・パートナーズ"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["リサ・パートナーズ", "NECキャピタルソリューション", "事業再生", "投融資", "債権回収"]
-pubDate: 2026-08-27
+pubDate: 2026-08-11
 slug: "company-risa-paatonaazu-reputation"
 image: "/images/media/company-risa-paatonaazu-reputation.png"
 related: ["fas-consultant-salary", "industry-ma-chukai-career-path", "job-fas-analyst-career-path", "company-adobantejjipaatonaazu-reputation"]
-reviewedAt: 2026-08-27
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社リサ・パートナーズ 会社概要"
     url: "https://www.risa-p.com/corporate-profile/"

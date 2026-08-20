@@ -6,11 +6,11 @@ companyName: "ブロードリーフ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ブロードリーフ", "モビリティ産業", "クラウド移行", ".cシリーズ", "自動車整備"]
-pubDate: 2026-09-09
+pubDate: 2026-08-12
 slug: "company-buroodoriifu-reputation"
 image: "/images/media/company-buroodoriifu-reputation.png"
 related: ["dev-director-career-guide", "industry-jigyo-gaisha-pdm-shibou-douki", "company-kuresuko-reputation", "company-kurosukyatto-reputation"]
-reviewedAt: 2026-09-09
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ブロードリーフ 有価証券報告書 第17期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XS43.pdf"

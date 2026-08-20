@@ -6,11 +6,11 @@ companyName: "Asobica"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Asobica", "coorum", "ゼロパーティーデータ", "カスタマーサクセス", "SaaS"]
-pubDate: 2026-09-12
+pubDate: 2026-08-12
 slug: "company-asobica-reputation"
 image: "/images/media/company-asobica-reputation.png"
 related: ["product-manager-salary-600", "industry-mega-venture-career-path", "job-pre-sales-career-path", "company-10x-reputation"]
-reviewedAt: 2026-09-12
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Asobica「Asobica、総額27.2億円の資金調達を実施」（2022年7月29日）"
     url: "https://prtimes.jp/main/html/rd/p/000000054.000030943.html"

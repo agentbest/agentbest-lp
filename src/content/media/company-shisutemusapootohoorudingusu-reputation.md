@@ -6,11 +6,11 @@ companyName: "システムサポートホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["システムサポート", "クラウドインテグレーション", "AWS", "金沢", "持株会社"]
-pubDate: 2026-09-03
+pubDate: 2026-08-11
 slug: "company-shisutemusapootohoorudingusu-reputation"
 image: "/images/media/company-shisutemusapootohoorudingusu-reputation.png"
 related: ["dev-director-from-scratch", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-enkarejji-tekunoroji-reputation", "company-enu-tei-tei-deeta-intoramaato-reputation"]
-reviewedAt: 2026-09-03
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社システムサポートホールディングス 有価証券報告書 第46期（2025年6月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WPID.pdf"

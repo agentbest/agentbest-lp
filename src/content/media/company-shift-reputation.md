@@ -6,11 +6,11 @@ companyName: "SHIFT"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["SHIFT", "ソフトウェアテスト", "品質保証", "QA", "M&A"]
-pubDate: 2026-08-29
+pubDate: 2026-08-11
 slug: "company-shift-reputation"
 image: "/images/media/company-shift-reputation.png"
 related: ["project-manager-interview", "industry-jigyo-gaisha-pdm-career-path", "company-adeko-reputation", "company-adkhoorudingusu-reputation"]
-reviewedAt: 2026-08-29
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社SHIFT 有価証券報告書 第20期（2025年8月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100X63F.pdf"

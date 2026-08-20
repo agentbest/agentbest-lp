@@ -6,11 +6,11 @@ companyName: "Nature"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Nature", "Nature Remo", "スマートリモコン", "エネルギーマネジメント", "IoT"]
-pubDate: 2026-09-18
+pubDate: 2026-08-12
 slug: "company-nature-reputation"
 image: "/images/media/company-nature-reputation.png"
 related: ["saas-sales-work-style", "industry-kinyu-it-shibou-douki", "job-shanai-se-shibou-douki", "job-dx-suishin-shibou-douki"]
-reviewedAt: 2026-09-18
+reviewedAt: 2026-08-12
 sources:
   - name: "Nature株式会社 会社概要"
     url: "https://nature.global/about/"

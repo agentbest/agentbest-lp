@@ -6,11 +6,11 @@ companyName: "STORES"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["STORES", "ネットショップ", "キャッシュレス決済", "hey", "スモールビジネス"]
-pubDate: 2026-09-22
+pubDate: 2026-08-12
 slug: "company-stores-reputation"
 image: "/images/media/company-stores-reputation.png"
 related: ["bizdev-salary-1000", "industry-kinyu-it-career-path", "job-cxo-kouho-career-path", "company-kakehashi-reputation"]
-reviewedAt: 2026-09-22
+reviewedAt: 2026-08-12
 sources:
   - name: "STORES 株式会社 会社情報"
     url: "https://www.st.inc/company"

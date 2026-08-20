@@ -6,11 +6,11 @@ companyName: "パソナグループ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["パソナグループ", "BPO", "人材派遣", "人材紹介", "地方創生"]
-pubDate: 2026-09-07
+pubDate: 2026-08-12
 slug: "company-pasonaguruupu-reputation"
 image: "/images/media/company-pasonaguruupu-reputation.png"
 related: ["dev-director-salary", "industry-user-kei-sier-senkou-flow", "company-toransu-kosumosu-reputation", "company-toranvia-reputation"]
-reviewedAt: 2026-09-07
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社パソナグループ 有価証券報告書 第18期（2025年5月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WJZQ.pdf"

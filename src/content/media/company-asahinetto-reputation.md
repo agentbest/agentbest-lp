@@ -6,11 +6,11 @@ companyName: "朝日ネット"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["朝日ネット", "ASAHIネット", "ISP", "v6コネクト", "manaba"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-asahinetto-reputation"
 image: "/images/media/company-asahinetto-reputation.png"
 related: ["industry-saas-startup-tenshoku-nanido", "industry-kinyu-it-career-path", "job-keiei-kikaku-career-path", "company-smartdrive-reputation"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社朝日ネット 有価証券報告書 第36期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YEHW.pdf"

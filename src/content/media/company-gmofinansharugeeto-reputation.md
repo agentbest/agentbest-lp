@@ -6,11 +6,11 @@ companyName: "GMOフィナンシャルゲート"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["GMOフィナンシャルゲート", "対面決済", "キャッシュレス", "stera", "GMV"]
-pubDate: 2026-09-15
+pubDate: 2026-08-12
 slug: "company-gmofinansharugeeto-reputation"
 image: "/images/media/company-gmofinansharugeeto-reputation.png"
 related: ["product-manager-market-trend", "industry-mega-venture-tenshoku-nanido", "job-bizdev-tenshoku-nanido", "company-taimii-reputation"]
-reviewedAt: 2026-09-15
+reviewedAt: 2026-08-12
 sources:
   - name: "GMOフィナンシャルゲート株式会社 有価証券報告書 第27期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100X9ZE.pdf"

@@ -6,11 +6,11 @@ companyName: "オロ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["オロ", "ZAC", "クラウドERP", "デジタルマーケティング", "ベトナム"]
-pubDate: 2026-09-01
+pubDate: 2026-08-11
 slug: "company-oro-reputation"
 image: "/images/media/company-oro-reputation.png"
 related: ["corporate-planning-company-size", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-itooyookadou-reputation", "company-itouchuutekunosoryuushonzu-reputation"]
-reviewedAt: 2026-09-01
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社オロ 有価証券報告書 第28期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XR9Z.pdf"

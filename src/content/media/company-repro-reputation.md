@@ -6,11 +6,11 @@ companyName: "Repro"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Repro", "マーケティングオートメーション", "Repro Booster", "SaaS", "CE"]
-pubDate: 2026-09-19
+pubDate: 2026-08-12
 slug: "company-repro-reputation"
 image: "/images/media/company-repro-reputation.png"
 related: ["saas-sales-how-to-use-agent", "industry-kinyu-it-career-path", "job-project-manager-career-path", "company-miginanameue-reputation"]
-reviewedAt: 2026-09-19
+reviewedAt: 2026-08-12
 sources:
   - name: "Repro株式会社 会社概要"
     url: "https://company.repro.io/company/"

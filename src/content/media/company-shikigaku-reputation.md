@@ -6,11 +6,11 @@ companyName: "識学"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["識学", "組織コンサルティング", "東証グロース", "福島ファイヤーボンズ", "ファンド事業"]
-pubDate: 2026-08-22
+pubDate: 2026-08-11
 slug: "company-shikigaku-reputation"
 image: "/images/media/company-shikigaku-reputation.png"
 related: ["it-consultant-how-to-use-agent", "industry-senryaku-consul-shibou-douki", "job-sap-consultant-shibou-douki", "company-ey-japan-reputation"]
-reviewedAt: 2026-08-22
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第11期（2026年2月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y1AF.pdf"

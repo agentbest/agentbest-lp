@@ -6,11 +6,11 @@ companyName: "アバントグループ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["アバントグループ", "DivaSystem", "連結会計", "ジール", "持株会社"]
-pubDate: 2026-08-31
+pubDate: 2026-08-11
 slug: "company-abantoguruupu-reputation"
 image: "/images/media/company-abantoguruupu-reputation.png"
 related: ["dev-director-certification", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-sonpojapanshisutemuzu-reputation", "company-soritonshisutemuzu-reputation"]
-reviewedAt: 2026-08-31
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社アバントグループ 有価証券報告書 第29期（2025年6月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WPOP.pdf"

@@ -6,11 +6,11 @@ companyName: "ソリトンシステムズ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ソリトンシステムズ", "ITセキュリティ", "NetAttest EPS", "映像伝送", "自社製品"]
-pubDate: 2026-09-05
+pubDate: 2026-08-11
 slug: "company-soritonshisutemuzu-reputation"
 image: "/images/media/company-soritonshisutemuzu-reputation.png"
 related: ["dev-director-career-path", "industry-user-kei-sier-shibou-douki", "company-sbihoorudingusu-reputation", "company-scat-reputation"]
-reviewedAt: 2026-09-05
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ソリトンシステムズ 有価証券報告書 第48期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XRPJ.pdf"

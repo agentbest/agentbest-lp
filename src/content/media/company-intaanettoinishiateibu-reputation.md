@@ -6,11 +6,11 @@ companyName: "インターネットイニシアティブ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["IIJ", "インターネットイニシアティブ", "ISP", "MVNO", "ネットワークサービス"]
-pubDate: 2026-08-31
+pubDate: 2026-08-11
 slug: "company-intaanettoinishiateibu-reputation"
 image: "/images/media/company-intaanettoinishiateibu-reputation.png"
 related: ["corporate-planning-career-path", "industry-user-kei-sier-career-path", "company-sofutokurieitohoorudingusu-reputation", "company-soniiguruupu-reputation"]
-reviewedAt: 2026-08-31
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社インターネットイニシアティブ 有価証券報告書 第34期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YHYH.pdf"

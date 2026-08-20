@@ -6,11 +6,11 @@ companyName: "MS&Consulting"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["MS&Consulting", "ミステリーショッピングリサーチ", "覆面調査", "サービス業", "IFRS"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-msandconsulting-reputation"
 image: "/images/media/company-msandconsulting-reputation.png"
 related: ["it-consultant-motivation", "industry-gyokai-tokka-consul-shibou-douki", "job-senryaku-consultant-shibou-douki", "company-koochi-ei-reputation"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社MS&Consulting 有価証券報告書 第14期（2026年2月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y6L3.pdf"

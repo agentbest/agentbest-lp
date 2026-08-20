@@ -6,11 +6,11 @@ companyName: "ニーズウェル"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ニーズウェル", "業務系システム開発", "IT基盤", "長崎開発センター", "独立系"]
-pubDate: 2026-09-07
+pubDate: 2026-08-12
 slug: "company-niizuueru-reputation"
 image: "/images/media/company-niizuueru-reputation.png"
 related: ["project-manager-career-path", "industry-user-kei-sier-nensyu", "company-mitsubishiufjfinansharu-guruupu-reputation", "company-mitsubishiufjginkou-reputation"]
-reviewedAt: 2026-09-07
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ニーズウェル 有価証券報告書 第39期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XAHG.pdf"

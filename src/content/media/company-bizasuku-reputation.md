@@ -6,11 +6,11 @@ companyName: "ビザスク"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ビザスク", "知見プラットフォーム", "エキスパート", "Coleman", "調整後EBITDA"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-bizasuku-reputation"
 image: "/images/media/company-bizasuku-reputation.png"
 related: ["customer-success-salary-1000", "industry-maker-it-nensyu", "job-inside-sales-nensyu", "job-pre-sales-shibou-douki"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社ビザスク 有価証券報告書 第14期（2026年2月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y7OP.pdf"

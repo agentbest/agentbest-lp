@@ -6,11 +6,11 @@ companyName: "Findy"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Findy", "ファインディ", "エンジニア転職", "Findy Team+", "開発生産性"]
-pubDate: 2026-09-14
+pubDate: 2026-08-12
 slug: "company-findy-reputation"
 image: "/images/media/company-findy-reputation.png"
 related: ["product-manager-work-style", "industry-maker-it-nensyu", "job-pe-investment-nensyu", "company-lifull-reputation"]
-reviewedAt: 2026-09-14
+reviewedAt: 2026-08-12
 sources:
   - name: "ファインディ株式会社 企業情報"
     url: "https://findy.co.jp/company/"

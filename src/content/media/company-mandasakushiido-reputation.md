@@ -6,11 +6,11 @@ companyName: "M&Aサクシード"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["M&Aサクシード", "ビジョナル", "ビズリーチ", "M&Aプラットフォーム", "Incubation"]
-pubDate: 2026-08-24
+pubDate: 2026-08-11
 slug: "company-mandasakushiido-reputation"
 image: "/images/media/company-mandasakushiido-reputation.png"
 related: ["ma-advisor-market-trend", "industry-pe-fund-senkou-flow", "job-saisei-consultant-senkou-flow", "company-kuredi-agurikorushouken-reputation"]
-reviewedAt: 2026-08-24
+reviewedAt: 2026-08-11
 sources:
   - name: "ビジョナル株式会社 有価証券報告書 第6期（2025年7月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WW0V.pdf"

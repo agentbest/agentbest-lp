@@ -6,11 +6,11 @@ companyName: "WiL"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["WiL", "World Innovation Lab", "ベンチャーキャピタル", "シリコンバレー", "伊佐山元"]
-pubDate: 2026-08-25
+pubDate: 2026-08-11
 slug: "company-wil-reputation"
 image: "/images/media/company-wil-reputation.png"
 related: ["post-consultant-failure", "industry-fas-career-path", "job-fas-analyst-career-path", "company-jiefuriizushouken-reputation"]
-reviewedAt: 2026-08-25
+reviewedAt: 2026-08-11
 sources:
   - name: "パナソニック ホールディングス「米国ベンチャー投資ファンド『WiL Ventures III, L.P.』への出資について」（2022年3月4日）"
     url: "https://news.panasonic.com/jp/press/jn220304-1"

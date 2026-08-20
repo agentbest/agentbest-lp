@@ -6,11 +6,11 @@ companyName: "ミロク情報サービス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ミロク情報サービス", "会計事務所", "ERP", "サブスクリプション", "人的資本"]
-pubDate: 2026-09-10
+pubDate: 2026-08-12
 slug: "company-mirokujouhousaabisu-reputation"
 image: "/images/media/company-mirokujouhousaabisu-reputation.png"
 related: ["product-manager-salary", "industry-jigyo-gaisha-pdm-nensyu", "company-ulsguruupu-reputation", "company-uubun-bai-toyota-reputation"]
-reviewedAt: 2026-09-10
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ミロク情報サービス 有価証券報告書 第49期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YKDZ.pdf"

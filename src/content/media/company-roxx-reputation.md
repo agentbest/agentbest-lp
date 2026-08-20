@@ -6,11 +6,11 @@ companyName: "ROXX"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ROXX", "Zキャリア", "ノンデスクワーカー", "HR Tech", "GMV"]
-pubDate: 2026-09-19
+pubDate: 2026-08-12
 slug: "company-roxx-reputation"
 image: "/images/media/company-roxx-reputation.png"
 related: ["saas-sales-resume", "industry-mega-venture-shibou-douki", "job-project-manager-shibou-douki", "company-aperuza-reputation"]
-reviewedAt: 2026-09-19
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ROXX 有価証券報告書 第12期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XCWL.pdf"

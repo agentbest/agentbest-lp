@@ -6,11 +6,11 @@ companyName: "三菱UFJキャピタル"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["三菱UFJキャピタル", "MUFG", "ベンチャーキャピタル", "銀行系VC", "ライフサイエンス"]
-pubDate: 2026-08-27
+pubDate: 2026-08-11
 slug: "company-mitsubishiufjkyapitaru-reputation"
 image: "/images/media/company-mitsubishiufjkyapitaru-reputation.png"
 related: ["fas-consultant-motivation", "industry-pe-fund-shibou-douki", "job-ma-advisor-shibou-douki", "industry-ma-chukai-shibou-douki"]
-reviewedAt: 2026-08-27
+reviewedAt: 2026-08-11
 sources:
   - name: "三菱UFJキャピタル株式会社 会社概要"
     url: "https://www.mucap.co.jp/corporateinfo/overview/"

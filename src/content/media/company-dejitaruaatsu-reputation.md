@@ -6,11 +6,11 @@ companyName: "デジタルアーツ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["デジタルアーツ", "i-FILTER", "フィルタリング", "GIGAスクール", "情報セキュリティ"]
-pubDate: 2026-09-06
+pubDate: 2026-08-11
 slug: "company-dejitaruaatsu-reputation"
 image: "/images/media/company-dejitaruaatsu-reputation.png"
 related: ["business-planning-resume", "industry-user-kei-sier-nensyu", "company-scat-reputation", "company-screenhoorudingusu-reputation"]
-reviewedAt: 2026-09-06
+reviewedAt: 2026-08-11
 sources:
   - name: "デジタルアーツ株式会社 有価証券報告書 第31期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YKKS.pdf"

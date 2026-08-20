@@ -6,11 +6,11 @@ companyName: "LIFULL"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["LIFULL", "LIFULL HOME'S", "不動産情報", "構造改革", "IFRS"]
-pubDate: 2026-09-17
+pubDate: 2026-08-12
 slug: "company-lifull-reputation"
 image: "/images/media/company-lifull-reputation.png"
 related: ["saas-sales-interview", "industry-tsushin-nensyu", "job-scrum-master-nensyu", "job-data-scientist-nensyu"]
-reviewedAt: 2026-09-17
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社LIFULL 有価証券報告書 第31期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100X8TY.pdf"

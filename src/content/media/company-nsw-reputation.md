@@ -6,11 +6,11 @@ companyName: "NSW"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["NSW", "日本システムウエア", "組込みソフトウェア", "山梨ITセンター", "システムインテグレーション"]
-pubDate: 2026-08-28
+pubDate: 2026-08-11
 slug: "company-nsw-reputation"
 image: "/images/media/company-nsw-reputation.png"
 related: ["corporate-planning-interview", "industry-jigyo-gaisha-pdm-senkou-flow", "company-jrhigashinihonjouhoushisutemu-reputation", "company-jrnishinihon-reputation"]
-reviewedAt: 2026-08-28
+reviewedAt: 2026-08-11
 sources:
   - name: "ＮＳＷ株式会社 有価証券報告書 第60期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YJ3Q.pdf"

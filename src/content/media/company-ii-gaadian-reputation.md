@@ -6,11 +6,11 @@ companyName: "イー・ガーディアン"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["イー・ガーディアン", "投稿監視", "カスタマーサポート", "広告審査", "チェンジホールディングス"]
-pubDate: 2026-09-01
+pubDate: 2026-08-11
 slug: "company-ii-gaadian-reputation"
 image: "/images/media/company-ii-gaadian-reputation.png"
 related: ["dev-director-salary-1000", "industry-jigyo-gaisha-pdm-senkou-flow", "company-jrhigashinihon-reputation", "company-jrhigashinihonjouhoushisutemu-reputation"]
-reviewedAt: 2026-09-01
+reviewedAt: 2026-08-11
 sources:
   - name: "イー・ガーディアン株式会社 有価証券報告書 第28期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100X9H5.pdf"

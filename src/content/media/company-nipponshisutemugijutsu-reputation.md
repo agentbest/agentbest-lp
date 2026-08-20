@@ -6,11 +6,11 @@ companyName: "日本システム技術"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["日本システム技術", "GAKUEN", "医療ビッグデータ", "受注残高", "JAST"]
-pubDate: 2026-09-10
+pubDate: 2026-08-12
 slug: "company-nipponshisutemugijutsu-reputation"
 image: "/images/media/company-nipponshisutemugijutsu-reputation.png"
 related: ["project-manager-company-size", "industry-user-kei-sier-nensyu", "company-asuteria-reputation", "company-asutorazeneka-reputation"]
-reviewedAt: 2026-09-10
+reviewedAt: 2026-08-12
 sources:
   - name: "日本システム技術株式会社 有価証券報告書 第54期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YI5H.pdf"

@@ -6,11 +6,11 @@ companyName: "ボードルア"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ボードルア", "ITインフラ", "ネットワーク", "未経験採用", "M&A"]
-pubDate: 2026-09-10
+pubDate: 2026-08-12
 slug: "company-boodorua-reputation"
 image: "/images/media/company-boodorua-reputation.png"
 related: ["pmo-in-30s", "industry-user-kei-sier-senkou-flow", "company-agc-reputation", "company-ags-reputation"]
-reviewedAt: 2026-09-10
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社ボードルア 有価証券報告書 第19期（2026年2月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y6J0.pdf"

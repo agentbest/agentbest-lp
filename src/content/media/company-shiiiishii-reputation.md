@@ -6,11 +6,11 @@ companyName: "シーイーシー"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["シーイーシー", "座間", "データセンター", "スマートファクトリー", "セキュリティ"]
-pubDate: 2026-09-03
+pubDate: 2026-08-11
 slug: "company-shiiiishii-reputation"
 image: "/images/media/company-shiiiishii-reputation.png"
 related: ["dev-director-career-path", "industry-user-kei-sier-nensyu", "company-pasonaguruupu-reputation", "company-paypay-reputation"]
-reviewedAt: 2026-09-03
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社シーイーシー 有価証券報告書 第58期（2026年1月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XZVZ.pdf"

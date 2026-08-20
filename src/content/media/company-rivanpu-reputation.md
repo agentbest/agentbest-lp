@@ -6,11 +6,11 @@ companyName: "リヴァンプ"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["リヴァンプ", "フューチャー", "経営支援", "事業再生", "CxO支援"]
-pubDate: 2026-08-27
+pubDate: 2026-08-11
 slug: "company-rivanpu-reputation"
 image: "/images/media/company-rivanpu-reputation.png"
 related: ["fas-consultant-career-path", "industry-ma-chukai-nensyu", "job-fas-analyst-nensyu", "industry-ma-chukai-senkou-flow"]
-reviewedAt: 2026-08-27
+reviewedAt: 2026-08-11
 sources:
   - name: "フューチャー株式会社 有価証券報告書 第37期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XTFP.pdf"

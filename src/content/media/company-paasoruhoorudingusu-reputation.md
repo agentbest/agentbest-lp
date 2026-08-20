@@ -6,11 +6,11 @@ companyName: "パーソルホールディングス"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["パーソルホールディングス", "人材派遣", "BPO", "テンプスタッフ", "doda"]
-pubDate: 2026-09-07
+pubDate: 2026-08-12
 slug: "company-paasoruhoorudingusu-reputation"
 image: "/images/media/company-paasoruhoorudingusu-reputation.png"
 related: ["project-manager-in-20s", "industry-user-kei-sier-career-path", "industry-jigyo-gaisha-pdm-senkou-flow", "industry-jigyo-gaisha-pdm-shibou-douki"]
-reviewedAt: 2026-09-07
+reviewedAt: 2026-08-12
 sources:
   - name: "パーソルホールディングス株式会社 有価証券報告書 第18期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YGCS.pdf"

@@ -6,11 +6,11 @@ companyName: "Kyash"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Kyash", "フィンテック", "決済", "送金", "ウォレット"]
-pubDate: 2026-09-17
+pubDate: 2026-08-12
 slug: "company-kyash-reputation"
 image: "/images/media/company-kyash-reputation.png"
 related: ["saas-sales-career-guide", "industry-mega-venture-senkou-flow", "job-pre-sales-senkou-flow", "company-maneefowaado-reputation"]
-reviewedAt: 2026-09-17
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Kyash 会社概要"
     url: "https://www.kyash.co/company"

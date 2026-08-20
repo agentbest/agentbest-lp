@@ -6,11 +6,11 @@ companyName: "CureApp"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["CureApp", "治療用アプリ", "プログラム医療機器", "DTx", "薬事承認"]
-pubDate: 2026-09-13
+pubDate: 2026-08-12
 slug: "company-cureapp-reputation"
 image: "/images/media/company-cureapp-reputation.png"
 related: ["bizdev-company-size", "industry-kinyu-it-career-path", "job-bizdev-career-path", "company-dii-enu-ee-reputation"]
-reviewedAt: 2026-09-13
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社CureApp 会社概要"
     url: "https://cureapp.co.jp/overview.html"

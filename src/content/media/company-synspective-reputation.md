@@ -6,11 +6,11 @@ companyName: "Synspective"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Synspective", "SAR衛星", "StriX", "宇宙", "衛星データ"]
-pubDate: 2026-09-22
+pubDate: 2026-08-12
 slug: "company-synspective-reputation"
 image: "/images/media/company-synspective-reputation.png"
 related: ["saas-sales-work-style", "industry-kinyu-it-nensyu", "job-cxo-kouho-nensyu", "company-freee-reputation"]
-reviewedAt: 2026-09-22
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Synspective 有価証券報告書 第8期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUO9.pdf"

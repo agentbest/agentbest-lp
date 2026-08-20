@@ -6,11 +6,11 @@ companyName: "ACCESS"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ACCESS", "NetFront", "IP Infusion", "IoT", "組み込みソフトウェア"]
-pubDate: 2026-08-27
+pubDate: 2026-08-11
 slug: "company-access-reputation"
 image: "/images/media/company-access-reputation.png"
 related: ["pmo-salary", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-hikuratesu-reputation", "company-hitachiseisakusho-reputation"]
-reviewedAt: 2026-08-27
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社ＡＣＣＥＳＳ 有価証券報告書 第42期（2026年1月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y070.pdf"

@@ -6,11 +6,11 @@ companyName: "ピー・シー・エー"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ピー・シー・エー", "PCA", "会計ソフト", "クラウドシフト", "PCA Arch"]
-pubDate: 2026-09-08
+pubDate: 2026-08-12
 slug: "company-pii-shii-ee-reputation"
 image: "/images/media/company-pii-shii-ee-reputation.png"
 related: ["business-planning-salary-1000", "industry-jigyo-gaisha-pdm-nensyu", "company-nomurashouken-reputation", "company-nsd-reputation"]
-reviewedAt: 2026-09-08
+reviewedAt: 2026-08-12
 sources:
   - name: "ピー・シー・エー株式会社 有価証券報告書 第46期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YGVP.pdf"

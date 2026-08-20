@@ -6,11 +6,11 @@ companyName: "弁護士ドットコム"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["弁護士ドットコム", "クラウドサイン", "リーガルテック", "電子契約", "プロフェッショナル・テック"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-bengoshidottokomu-reputation"
 image: "/images/media/company-bengoshidottokomu-reputation.png"
 related: ["saas-industry-trend", "industry-mega-venture-shibou-douki", "job-cxo-kouho-shibou-douki", "job-scrum-master-tenshoku-nanido"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "弁護士ドットコム株式会社 有価証券報告書 第21期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YFWI.pdf"

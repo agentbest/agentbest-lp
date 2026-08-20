@@ -6,11 +6,11 @@ companyName: "GMOグローバルサイン・ホールディングス"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["GMOグローバルサイン・ホールディングス", "電子印鑑GMOサイン", "電子認証", "IDaaS", "クラウド"]
-pubDate: 2026-09-15
+pubDate: 2026-08-12
 slug: "company-gmoguroobarusain-hoorudingusu-reputation"
 image: "/images/media/company-gmoguroobarusain-hoorudingusu-reputation.png"
 related: ["customer-success-future", "industry-maker-it-tenshoku-nanido", "job-customer-success-tenshoku-nanido", "job-product-manager-nensyu"]
-reviewedAt: 2026-09-15
+reviewedAt: 2026-08-12
 sources:
   - name: "GMOグローバルサイン・ホールディングス株式会社 有価証券報告書 第33期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XREJ.pdf"

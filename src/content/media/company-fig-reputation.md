@@ -6,11 +6,11 @@ companyName: "FIG"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["FIG", "モバイルクリエイト", "REALIZE", "IoT", "持株会社"]
-pubDate: 2026-08-28
+pubDate: 2026-08-11
 slug: "company-fig-reputation"
 image: "/images/media/company-fig-reputation.png"
 related: ["project-manager-salary-600", "industry-user-kei-sier-shibou-douki", "company-gmopuraimu-sutoratejii-reputation", "company-goorudoman-sakkusushouken-reputation"]
-reviewedAt: 2026-08-28
+reviewedAt: 2026-08-11
 sources:
   - name: "ＦＩＧ株式会社 有価証券報告書 第8期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUAL.pdf"

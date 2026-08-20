@@ -6,11 +6,11 @@ companyName: "グロービス・キャピタル・パートナーズ"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["グロービス・キャピタル・パートナーズ", "GCP", "ベンチャーキャピタル", "グロービス", "Value-up"]
-pubDate: 2026-08-26
+pubDate: 2026-08-11
 slug: "company-guroobisu-kyapitaru-paatonaazu-reputation"
 image: "/images/media/company-guroobisu-kyapitaru-paatonaazu-reputation.png"
 related: ["post-consultant-interview", "industry-ma-chukai-nensyu", "job-ma-chukai-eigyo-nensyu", "industry-jigyo-shokei-nensyu"]
-reviewedAt: 2026-08-26
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社グロービス「グロービス・キャピタル・パートナーズ30周年」（2026年7月1日）"
     url: "https://globis.co.jp/news/venture-capital/13188-2026-07-01/"

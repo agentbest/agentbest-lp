@@ -6,11 +6,11 @@ companyName: "Sun Asterisk"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["Sun Asterisk", "デジタルクリエイティブスタジオ", "ベトナム", "オフショア開発", "新規事業開発"]
-pubDate: 2026-08-29
+pubDate: 2026-08-11
 slug: "company-sun-asterisk-reputation"
 image: "/images/media/company-sun-asterisk-reputation.png"
 related: ["project-manager-market-trend", "industry-user-kei-sier-career-path", "company-ihi-reputation", "company-ii-gaadian-reputation"]
-reviewedAt: 2026-08-29
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社Sun Asterisk 有価証券報告書 第13期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XTX9.pdf"

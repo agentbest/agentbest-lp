@@ -6,11 +6,11 @@ companyName: "イーエムシステムズ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["イーエムシステムズ", "EMシステムズ", "調剤システム", "電子カルテ", "大阪"]
-pubDate: 2026-09-01
+pubDate: 2026-08-11
 slug: "company-iiemushisutemuzu-reputation"
 image: "/images/media/company-iiemushisutemuzu-reputation.png"
 related: ["corporate-planning-resume", "industry-jigyo-gaisha-pdm-shibou-douki", "industry-jigyo-gaisha-pdm-nensyu", "industry-jigyo-gaisha-pdm-senkou-flow"]
-reviewedAt: 2026-09-01
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社イーエムシステムズ 有価証券報告書 第43期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUIK.pdf"

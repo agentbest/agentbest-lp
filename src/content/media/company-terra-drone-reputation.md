@@ -6,11 +6,11 @@ companyName: "Terra Drone"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Terra Drone", "ドローン", "UTM", "Unifly", "インフラ点検"]
-pubDate: 2026-09-24
+pubDate: 2026-08-12
 slug: "company-terra-drone-reputation"
 image: "/images/media/company-terra-drone-reputation.png"
 related: ["bizdev-certification", "industry-mega-venture-nensyu", "job-cxo-kouho-nensyu", "job-jigyo-kikaku-shibou-douki"]
-reviewedAt: 2026-09-24
+reviewedAt: 2026-08-12
 sources:
   - name: "Terra Drone株式会社 有価証券報告書 第10期（2026年1月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XY8O.pdf"

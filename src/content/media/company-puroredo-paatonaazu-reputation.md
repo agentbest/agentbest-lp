@@ -6,11 +6,11 @@ companyName: "プロレド・パートナーズ"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["プロレド・パートナーズ", "コンサルティング", "成果報酬型", "東証プライム", "ファンド"]
-pubDate: 2026-08-21
+pubDate: 2026-08-11
 slug: "company-puroredo-paatonaazu-reputation"
 image: "/images/media/company-puroredo-paatonaazu-reputation.png"
 related: ["thinktank-in-20s", "industry-senryaku-consul-tenshoku-nanido", "job-sap-consultant-tenshoku-nanido", "job-senryaku-consultant-career-path"]
-reviewedAt: 2026-08-21
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第18期（2025年10月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XHNU.pdf"

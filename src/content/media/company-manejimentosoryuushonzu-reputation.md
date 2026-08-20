@@ -6,11 +6,11 @@ companyName: "マネジメントソリューションズ"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["マネジメントソリューションズ", "MSOL", "PMO", "プロジェクトマネジメント", "東証プライム"]
-pubDate: 2026-08-21
+pubDate: 2026-08-11
 slug: "company-manejimentosoryuushonzu-reputation"
 image: "/images/media/company-manejimentosoryuushonzu-reputation.png"
 related: ["consulting-industry-guide", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-nipponsougoukenkyuusho-reputation"]
-reviewedAt: 2026-08-21
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第21期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XT2O.pdf"

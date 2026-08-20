@@ -6,11 +6,11 @@ companyName: "システナ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["システナ", "次世代モビリティ", "ITアウトソーシング", "Canbus.", "ProVision"]
-pubDate: 2026-09-03
+pubDate: 2026-08-11
 slug: "company-shisutena-reputation"
 image: "/images/media/company-shisutena-reputation.png"
 related: ["pmo-market-trend", "industry-user-kei-sier-shibou-douki", "company-kiyuupii-reputation", "company-koa-reputation"]
-reviewedAt: 2026-09-03
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社システナ 有価証券報告書 第44期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YFPF.pdf"

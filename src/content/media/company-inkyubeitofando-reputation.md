@@ -6,11 +6,11 @@ companyName: "インキュベイトファンド"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["インキュベイトファンド", "ベンチャーキャピタル", "シード投資", "ディープテック", "独立系VC"]
-pubDate: 2026-08-25
+pubDate: 2026-08-11
 slug: "company-inkyubeitofando-reputation"
 image: "/images/media/company-inkyubeitofando-reputation.png"
 related: ["post-consultant-in-20s", "industry-jigyo-shokei-tenshoku-nanido", "job-saisei-consultant-tenshoku-nanido", "company-ronguriichiguruupu-reputation"]
-reviewedAt: 2026-08-25
+reviewedAt: 2026-08-11
 sources:
   - name: "科学技術振興機構（JST）ディープテック・スタートアップ国際展開プログラム インキュベイトファンドご紹介資料（2024年版）"
     url: "https://www.jst.go.jp/program/startupkikin/files/deeptech/pr_incubatefund.pdf"

@@ -6,11 +6,11 @@ companyName: "サイバーエージェント・キャピタル"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["サイバーエージェント・キャピタル", "サイバーエージェント", "ベンチャーキャピタル", "CVC", "投資育成事業"]
-pubDate: 2026-08-26
+pubDate: 2026-08-11
 slug: "company-saibaaeejiento-kyapitaru-reputation"
 image: "/images/media/company-saibaaeejiento-kyapitaru-reputation.png"
 related: ["fas-consultant-work-style", "industry-pe-fund-tenshoku-nanido", "job-saisei-consultant-tenshoku-nanido", "company-spiral-capital-reputation"]
-reviewedAt: 2026-08-26
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社サイバーエージェント 有価証券報告書 第28期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XCU9.pdf"

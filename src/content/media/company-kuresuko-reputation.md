@@ -6,11 +6,11 @@ companyName: "クレスコ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["クレスコ", "ITサービス", "デジタルソリューション", "組込みシステム", "M&A"]
-pubDate: 2026-09-02
+pubDate: 2026-08-11
 slug: "company-kuresuko-reputation"
 image: "/images/media/company-kuresuko-reputation.png"
 related: ["project-manager-career-path", "industry-user-kei-sier-senkou-flow", "company-bijinesubureinootashouwa-reputation", "company-bijinesuenjiniaringu-reputation"]
-reviewedAt: 2026-09-02
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社クレスコ 有価証券報告書 第38期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YDHC.pdf"

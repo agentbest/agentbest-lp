@@ -6,11 +6,11 @@ companyName: "ビジョン"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ビジョン", "グローバルWiFi", "NINJA WiFi", "インバウンド", "情報通信サービス"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-bijon-reputation"
 image: "/images/media/company-bijon-reputation.png"
 related: ["product-manager-interview", "industry-tsushin-shibou-douki", "job-jigyo-kikaku-shibou-douki", "job-ibd-analyst-senkou-flow"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社ビジョン 有価証券報告書 第25期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XV85.pdf"

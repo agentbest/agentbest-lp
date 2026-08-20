@@ -6,11 +6,11 @@ companyName: "バリューコマース"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["バリューコマース", "アフィリエイト", "StoreMatch", "DYNATECH", "成果報酬型広告"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-baryuukomaasu-reputation"
 image: "/images/media/company-baryuukomaasu-reputation.png"
 related: ["bizdev-salary-600", "industry-maker-it-career-path", "job-inside-sales-career-path", "company-voicy-reputation"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "バリューコマース株式会社 有価証券報告書 第30期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XU5J.pdf"

@@ -6,11 +6,11 @@ companyName: "Sansan"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Sansan", "BillOne", "Eight", "SaaS", "営業DX"]
-pubDate: 2026-09-22
+pubDate: 2026-08-12
 slug: "company-sansan-reputation"
 image: "/images/media/company-sansan-reputation.png"
 related: ["saas-sales-future", "industry-mega-venture-senkou-flow", "job-project-manager-senkou-flow", "company-exawizards-reputation"]
-reviewedAt: 2026-09-22
+reviewedAt: 2026-08-12
 sources:
   - name: "Sansan株式会社 有価証券報告書 第18期（2025年5月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100WKZJ.pdf"

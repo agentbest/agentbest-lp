@@ -6,11 +6,11 @@ companyName: "トレンドマイクロ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["トレンドマイクロ", "セキュリティ", "Trend Vision One", "グローバル", "繰延収益"]
-pubDate: 2026-09-07
+pubDate: 2026-08-12
 slug: "company-torendomaikuro-reputation"
 image: "/images/media/company-torendomaikuro-reputation.png"
 related: ["corporate-planning-career-guide", "industry-jigyo-gaisha-pdm-nensyu", "company-cri-midoruuea-reputation", "company-daburusutandaado-reputation"]
-reviewedAt: 2026-09-07
+reviewedAt: 2026-08-12
 sources:
   - name: "トレンドマイクロ株式会社 有価証券報告書 第37期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XUHN.pdf"

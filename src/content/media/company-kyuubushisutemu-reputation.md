@@ -6,11 +6,11 @@ companyName: "キューブシステム"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["キューブシステム", "野村総合研究所", "システムソリューション", "大崎", "受託開発"]
-pubDate: 2026-09-02
+pubDate: 2026-08-11
 slug: "company-kyuubushisutemu-reputation"
 image: "/images/media/company-kyuubushisutemu-reputation.png"
 related: ["dev-director-resume", "industry-jigyo-gaisha-pdm-tenshoku-nanido", "company-omuron-reputation", "company-oobiishisutemu-reputation"]
-reviewedAt: 2026-09-02
+reviewedAt: 2026-08-11
 sources:
   - name: "株式会社キューブシステム 有価証券報告書 第54期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YCVG.pdf"

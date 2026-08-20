@@ -6,11 +6,11 @@ companyName: "Showcase Gig"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Showcase Gig", "O:der", "モバイルオーダー", "グローリー", "OMO"]
-pubDate: 2026-09-22
+pubDate: 2026-08-12
 slug: "company-showcase-gig-reputation"
 image: "/images/media/company-showcase-gig-reputation.png"
 related: ["bizdev-company-size", "industry-maker-it-career-path", "job-data-scientist-career-path", "company-gmofinansharugeeto-reputation"]
-reviewedAt: 2026-09-22
+reviewedAt: 2026-08-12
 sources:
   - name: "グローリー株式会社 有価証券報告書 第80期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YG4D.pdf"

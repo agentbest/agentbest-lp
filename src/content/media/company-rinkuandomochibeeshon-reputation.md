@@ -6,11 +6,11 @@ companyName: "リンクアンドモチベーション"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["リンクアンドモチベーション", "組織開発", "モチベーションクラウド", "東証プライム", "人事"]
-pubDate: 2026-08-21
+pubDate: 2026-08-11
 slug: "company-rinkuandomochibeeshon-reputation"
 image: "/images/media/company-rinkuandomochibeeshon-reputation.png"
 related: ["dx-consultant-salary-600", "industry-senryaku-consul-senkou-flow", "job-sap-consultant-senkou-flow", "job-sap-consultant-shibou-douki"]
-reviewedAt: 2026-08-21
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第26期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XSV5.pdf"

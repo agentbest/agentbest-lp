@@ -6,11 +6,11 @@ companyName: "STRIVE"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["STRIVE", "グリーベンチャーズ", "ベンチャーキャピタル", "アーリーステージ", "Talent Partner"]
-pubDate: 2026-08-24
+pubDate: 2026-08-11
 slug: "company-strive-reputation"
 image: "/images/media/company-strive-reputation.png"
 related: ["post-consultant-certification", "industry-ibd-senkou-flow", "job-saisei-consultant-senkou-flow", "job-ma-chukai-eigyo-senkou-flow"]
-reviewedAt: 2026-08-24
+reviewedAt: 2026-08-11
 sources:
   - name: "グリーベンチャーズ株式会社 プレスリリース「新ファンド『STRIVE』を設立、150億円を運用しアーリーステージのスタートアップを支援」（2019年5月14日）"
     url: "https://prtimes.jp/main/html/rd/p/000000001.000044457.html"

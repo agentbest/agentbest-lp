@@ -6,11 +6,11 @@ companyName: "SBIインベストメント"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["SBIインベストメント", "SBIホールディングス", "ベンチャーキャピタル", "PE投資事業", "コーポレートベンチャーキャピタル"]
-pubDate: 2026-08-24
+pubDate: 2026-08-11
 slug: "company-sbiinbesutomento-reputation"
 image: "/images/media/company-sbiinbesutomento-reputation.png"
 related: ["finance-interview", "industry-pe-fund-nensyu", "job-ma-advisor-nensyu", "company-rosuchairudoandkanpanii-reputation"]
-reviewedAt: 2026-08-24
+reviewedAt: 2026-08-11
 sources:
   - name: "SBIホールディングス株式会社 有価証券報告書 第28期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YK3R.pdf"

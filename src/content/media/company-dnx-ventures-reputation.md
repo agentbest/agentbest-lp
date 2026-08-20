@@ -6,11 +6,11 @@ companyName: "DNX Ventures"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["DNX Ventures", "ベンチャーキャピタル", "B2B", "SaaS", "Draper Nexus"]
-pubDate: 2026-08-23
+pubDate: 2026-08-11
 slug: "company-dnx-ventures-reputation"
 image: "/images/media/company-dnx-ventures-reputation.png"
 related: ["post-consultant-failure", "industry-ibd-career-path", "job-saisei-consultant-career-path", "industry-jigyo-shokei-career-path"]
-reviewedAt: 2026-08-23
+reviewedAt: 2026-08-11
 sources:
   - name: "DNX Ventures 公式サイト（日本ファンド／Team）"
     url: "https://www.dnx.vc/jp"

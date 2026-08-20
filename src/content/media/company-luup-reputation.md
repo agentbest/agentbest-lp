@@ -6,11 +6,11 @@ companyName: "Luup"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Luup", "LUUP", "電動キックボード", "マイクロモビリティ", "シェアリング"]
-pubDate: 2026-09-17
+pubDate: 2026-08-12
 slug: "company-luup-reputation"
 image: "/images/media/company-luup-reputation.png"
 related: ["saas-sales-company-size", "industry-kinyu-it-senkou-flow", "job-pre-sales-senkou-flow", "job-vc-capitalist-tenshoku-nanido"]
-reviewedAt: 2026-09-17
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Luup 会社概要"
     url: "https://luup.sc/company/"

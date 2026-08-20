@@ -6,11 +6,11 @@ companyName: "グローバル・ブレイン"
 hub: "ma"
 theme: "評判・年収・選考対策"
 tags: ["グローバル・ブレイン", "ベンチャーキャピタル", "CVC支援", "独立系VC", "渋谷アクシュ"]
-pubDate: 2026-08-26
+pubDate: 2026-08-11
 slug: "company-guroobaru-burein-reputation"
 image: "/images/media/company-guroobaru-burein-reputation.png"
 related: ["ma-advisor-in-30s", "industry-ma-chukai-career-path", "job-fas-analyst-career-path", "job-saisei-consultant-career-path"]
-reviewedAt: 2026-08-26
+reviewedAt: 2026-08-11
 sources:
   - name: "グローバル・ブレイン株式会社 公式サイト（会社概要）"
     url: "https://globalbrains.com/company"

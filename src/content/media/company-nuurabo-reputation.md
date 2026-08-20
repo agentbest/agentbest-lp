@@ -6,11 +6,11 @@ companyName: "ヌーラボ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["ヌーラボ", "Backlog", "Cacoo", "NulabPass", "プロジェクト管理"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-nuurabo-reputation"
 image: "/images/media/company-nuurabo-reputation.png"
 related: ["bizdev-salary", "industry-mega-venture-senkou-flow", "job-cxo-kouho-senkou-flow", "company-sutadisuto-reputation"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社ヌーラボ 有価証券報告書 第23期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YH55.pdf"

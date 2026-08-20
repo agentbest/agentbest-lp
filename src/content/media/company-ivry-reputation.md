@@ -6,11 +6,11 @@ companyName: "IVRy"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["IVRy", "アイブリー", "対話AI", "電話AI", "SaaS"]
-pubDate: 2026-09-16
+pubDate: 2026-08-12
 slug: "company-ivry-reputation"
 image: "/images/media/company-ivry-reputation.png"
 related: ["saas-sales-future", "industry-maker-it-nensyu", "job-product-manager-nensyu", "company-ai-inside-reputation"]
-reviewedAt: 2026-09-16
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社IVRy「IVRyがメガバンク3行より総額45億円のデットファイナンスを実施。累計資金調達額は151.1億円に」（2026年5月21日）"
     url: "https://ivry.jp/pr/cl-6bs5hqxib/"

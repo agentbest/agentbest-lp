@@ -6,11 +6,11 @@ companyName: "ビジネスエンジニアリング"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["ビジネスエンジニアリング", "mcframe", "ERP", "製造業", "SAP"]
-pubDate: 2026-09-08
+pubDate: 2026-08-12
 slug: "company-bijinesuenjiniaringu-reputation"
 image: "/images/media/company-bijinesuenjiniaringu-reputation.png"
 related: ["dev-director-certification", "industry-user-kei-sier-shibou-douki", "company-caica-digital-reputation", "company-cehoorudingusu-reputation"]
-reviewedAt: 2026-09-08
+reviewedAt: 2026-08-12
 sources:
   - name: "ビジネスエンジニアリング株式会社 有価証券報告書 第47期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YD7D.pdf"

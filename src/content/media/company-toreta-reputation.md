@@ -6,11 +6,11 @@ companyName: "トレタ"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["トレタ", "トレタ予約台帳", "トレタO/X", "飲食店DX", "LINEヤフー"]
-pubDate: 2026-09-26
+pubDate: 2026-08-13
 slug: "company-toreta-reputation"
 image: "/images/media/company-toreta-reputation.png"
 related: ["saas-sales-work-style", "industry-kinyu-it-shibou-douki", "job-shanai-se-shibou-douki", "company-genova-reputation"]
-reviewedAt: 2026-09-26
+reviewedAt: 2026-08-13
 sources:
   - name: "株式会社トレタ 会社概要"
     url: "https://corp.toreta.in/company/"

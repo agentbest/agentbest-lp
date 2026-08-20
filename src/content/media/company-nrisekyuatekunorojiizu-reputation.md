@@ -6,11 +6,11 @@ companyName: "NRIセキュアテクノロジーズ"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["NRIセキュア", "情報セキュリティ", "SOC", "野村総合研究所", "セキュリティコンサルティング"]
-pubDate: 2026-09-25
+pubDate: 2026-08-13
 slug: "company-nrisekyuatekunorojiizu-reputation"
 image: "/images/media/company-nrisekyuatekunorojiizu-reputation.png"
 related: ["industry-sogo-consul-senkou-flow", "industry-senryaku-consul-senkou-flow", "job-sustainability-consultant-senkou-flow", "company-yanokeizaikenkyuusho-reputation"]
-reviewedAt: 2026-09-25
+reviewedAt: 2026-08-13
 sources:
   - name: "NRIセキュアテクノロジーズ株式会社 会社概要"
     url: "https://www.nri-secure.co.jp/company/outline"

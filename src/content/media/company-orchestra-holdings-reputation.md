@@ -6,11 +6,11 @@ companyName: "Orchestra Holdings"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Orchestra Holdings", "デジタルマーケティング", "Sharing Innovations", "IFRS", "M&A"]
-pubDate: 2026-09-18
+pubDate: 2026-08-12
 slug: "company-orchestra-holdings-reputation"
 image: "/images/media/company-orchestra-holdings-reputation.png"
 related: ["bizdev-future", "industry-kinyu-it-career-path", "job-it-architect-career-path", "company-layerx-reputation"]
-reviewedAt: 2026-09-18
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Orchestra Holdings 有価証券報告書 第17期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XTR2.pdf"

@@ -6,11 +6,11 @@ companyName: "NISSOホールディングス"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["NISSOホールディングス", "日総工産", "製造派遣", "人材サービス", "持株会社"]
-pubDate: 2026-09-18
+pubDate: 2026-08-12
 slug: "company-nissohoorudingusu-reputation"
 image: "/images/media/company-nissohoorudingusu-reputation.png"
 related: ["bizdev-salary", "industry-maker-it-shibou-douki", "job-jigyo-kikaku-shibou-douki", "company-maneefowaado-reputation"]
-reviewedAt: 2026-09-18
+reviewedAt: 2026-08-12
 sources:
   - name: "NISSOホールディングス株式会社 有価証券報告書 第3期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YGQ8.pdf"

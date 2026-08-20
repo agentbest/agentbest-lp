@@ -6,11 +6,11 @@ companyName: "JMDC"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["JMDC", "ヘルスビッグデータ", "レセプト", "PHR", "遠隔医療"]
-pubDate: 2026-09-16
+pubDate: 2026-08-12
 slug: "company-jmdc-reputation"
 image: "/images/media/company-jmdc-reputation.png"
 related: ["customer-success-salary-600", "industry-kinyu-it-senkou-flow", "job-dx-suishin-senkou-flow", "job-jigyo-kikaku-tenshoku-nanido"]
-reviewedAt: 2026-09-16
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社JMDC 有価証券報告書 第13期（2026年3月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YJCA.pdf"

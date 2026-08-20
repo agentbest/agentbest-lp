@@ -6,11 +6,11 @@ companyName: "フィックスターズ"
 hub: "pm"
 theme: "評判・年収・選考対策"
 tags: ["フィックスターズ", "ソフトウェア高速化", "GPU", "自動運転", "量子コンピューティング"]
-pubDate: 2026-09-09
+pubDate: 2026-08-12
 slug: "company-fikkusutaazu-reputation"
 image: "/images/media/company-fikkusutaazu-reputation.png"
 related: ["dev-director-resume", "industry-user-kei-sier-senkou-flow", "company-mitsubishiufjginkou-reputation", "company-mitsubishiufjinfomeeshontekunorojii-reputation"]
-reviewedAt: 2026-09-09
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社フィックスターズ 有価証券報告書 第24期（2025年9月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XAQJ.pdf"

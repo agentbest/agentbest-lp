@@ -6,11 +6,11 @@ companyName: "Macbee Planet"
 hub: "startup"
 theme: "評判・年収・選考対策"
 tags: ["Macbee Planet", "LTVマーケティング", "成果報酬型", "インターネット広告", "IFRS"]
-pubDate: 2026-09-18
+pubDate: 2026-08-12
 slug: "company-macbee-planet-reputation"
 image: "/images/media/company-macbee-planet-reputation.png"
 related: ["saas-sales-from-scratch", "industry-kinyu-it-senkou-flow", "job-bizdev-senkou-flow", "company-emuteiiai-reputation"]
-reviewedAt: 2026-09-18
+reviewedAt: 2026-08-12
 sources:
   - name: "株式会社Macbee Planet 有価証券報告書 第11期（2026年4月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YSEQ.pdf"

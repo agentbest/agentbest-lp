@@ -6,11 +6,11 @@ companyName: "電通総研"
 hub: "consul"
 theme: "評判・年収・選考対策"
 tags: ["電通総研", "電通国際情報サービス", "ISID", "システムインテグレーション", "東証プライム"]
-pubDate: 2026-08-22
+pubDate: 2026-08-11
 slug: "company-dentsuusouken-reputation"
 image: "/images/media/company-dentsuusouken-reputation.png"
 related: ["industry-sogo-consul-career-path", "industry-senryaku-consul-career-path", "job-sap-consultant-career-path", "company-efuandoemu-reputation"]
-reviewedAt: 2026-08-22
+reviewedAt: 2026-08-11
 sources:
   - name: "有価証券報告書 第51期（2025年12月期）"
     url: "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100XRJK.pdf"
