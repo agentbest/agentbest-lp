@@ -197,7 +197,7 @@ TBSテレビは、**株式会社TBSホールディングスの傘下にある事
 
 3つ目は、対象が **㈱TBSテレビの従業員の一部** とされていることに関わります。**全員ではありません。**
 
-近い規模の会社の読み方は[SUBARUの評判・年収・選考対策](/media/company-subaru-2-reputation)、年収の構造は[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu)もあわせてご覧ください。
+近い規模の会社の読み方は[SUBARUの評判・年収・選考対策](/media/company-subaru-2-reputation/)、年収の構造は[メガベンチャーの年収相場](/media/industry-mega-venture-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

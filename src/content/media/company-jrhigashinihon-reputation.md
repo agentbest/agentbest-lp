@@ -212,7 +212,7 @@ JR東日本の有価証券報告書には、賃金制度の改定が具体的な
 
 5つ目は、**提出会社の98%が運輸事業**であることを踏まえた確認です。
 
-近い構造の会社は[JR東海の評判・年収・選考対策](/media/company-jrtoukai-reputation)、技術者としてのキャリアは[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path)もあわせてご覧ください。
+近い構造の会社は[JR東海の評判・年収・選考対策](/media/company-jrtoukai-reputation/)、技術者としてのキャリアは[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

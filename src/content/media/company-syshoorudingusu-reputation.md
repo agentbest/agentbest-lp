@@ -201,7 +201,7 @@ SYSホールディングスは**持株会社**です。2025年7月期の有価�
 
 4つ目は、中期経営計画にROE 17.3%などの計数目標が掲げられていることを踏まえた確認です。
 
-近い構造の会社は[SIGグループの評判・年収・選考対策](/media/company-sigguruupu-reputation)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido)もあわせてご覧ください。
+近い構造の会社は[SIGグループの評判・年収・選考対策](/media/company-sigguruupu-reputation/)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

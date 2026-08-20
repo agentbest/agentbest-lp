@@ -157,7 +157,7 @@ gBizINFOの従業員数は**事業所の被保険者数**をもとにした数�
 
 **確認したいこと**
 
-「担当する領域は、人事制度／組織／リスクのどれにあたりますか」。詳しくは[人事・組織コンサルティングのキャリアパス](/media/industry-jinji-consul-career-path)で整理しています。
+「担当する領域は、人事制度／組織／リスクのどれにあたりますか」。詳しくは[人事・組織コンサルティングのキャリアパス](/media/industry-jinji-consul-career-path/)で整理しています。
 
 ## 非上場・少人数・外資系という三重の条件
 
@@ -199,7 +199,7 @@ gBizINFOの従業員数は**事業所の被保険者数**をもとにした数�
 
 **転職の観点**
 
-**情報が少ない会社ほど、面接での質問が判断材料になります。** **準備して臨む価値が高くなります。** 年収の水準は[人事・組織コンサルティングの年収相場](/media/industry-jinji-consul-nensyu)もあわせてご覧ください。
+**情報が少ない会社ほど、面接での質問が判断材料になります。** **準備して臨む価値が高くなります。** 年収の水準は[人事・組織コンサルティングの年収相場](/media/industry-jinji-consul-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -225,7 +225,7 @@ gBizINFOの従業員数は**事業所の被保険者数**をもとにした数�
 
 6つ目は、**38人という規模では、誰と組むかが日々を左右する**ためです。
 
-近い構造の会社は[コーン・フェリー・ジャパンの評判・年収・選考対策](/media/company-koonferii-japan-reputation)、[マーサージャパンの評判・年収・選考対策](/media/company-maasaajapan-reputation)もあわせてご覧ください。
+近い構造の会社は[コーン・フェリー・ジャパンの評判・年収・選考対策](/media/company-koonferii-japan-reputation/)、[マーサージャパンの評判・年収・選考対策](/media/company-maasaajapan-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

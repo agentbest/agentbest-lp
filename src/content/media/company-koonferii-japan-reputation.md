@@ -147,7 +147,7 @@ gBizINFOの従業員数は**事業所の被保険者数**をもとにした数�
 
 **組織人事という領域**
 
-**この領域では、報酬制度の設計、組織の再編、人材の評価**などが仕事になります。詳しくは[人事・組織コンサルティングのキャリアパス](/media/industry-jinji-consul-career-path)で整理しています。
+**この領域では、報酬制度の設計、組織の再編、人材の評価**などが仕事になります。詳しくは[人事・組織コンサルティングのキャリアパス](/media/industry-jinji-consul-career-path/)で整理しています。
 
 ## 非上場という条件で、何を確認するか
 
@@ -189,7 +189,7 @@ gBizINFOの従業員数は**事業所の被保険者数**をもとにした数�
 
 **確認したいこと**
 
-「中途入社者は社内に何名いますか」「直近3年の採用は何名ですか」。年収の水準は[人事・組織コンサルティングの年収相場](/media/industry-jinji-consul-nensyu)もあわせてご覧ください。
+「中途入社者は社内に何名いますか」「直近3年の採用は何名ですか」。年収の水準は[人事・組織コンサルティングの年収相場](/media/industry-jinji-consul-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -215,7 +215,7 @@ gBizINFOの記録がすべて0件という会社を、私は2社続けて見ま�
 
 6つ目は、**166人という規模で53年の歴史**という構成を踏まえた確認です。
 
-近い構造の会社は[エーオンソリューションズジャパンの評判・年収・選考対策](/media/company-eeonsoryuushonzujapan-reputation)、[コーチ・エィの評判・年収・選考対策](/media/company-koochi-ei-reputation)もあわせてご覧ください。
+近い構造の会社は[エーオンソリューションズジャパンの評判・年収・選考対策](/media/company-eeonsoryuushonzujapan-reputation/)、[コーチ・エィの評判・年収・選考対策](/media/company-koochi-ei-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

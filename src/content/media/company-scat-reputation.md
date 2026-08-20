@@ -219,7 +219,7 @@ job tagの区分は調査区分全体の統計です。**特定の会社の実�
 
 6つ目は、労働組合が結成されていない会社では重みを増します。
 
-近い規模の会社は[SYSホールディングスの評判・年収・選考対策](/media/company-syshoorudingusu-reputation)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido)もあわせてご覧ください。
+近い規模の会社は[SYSホールディングスの評判・年収・選考対策](/media/company-syshoorudingusu-reputation/)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

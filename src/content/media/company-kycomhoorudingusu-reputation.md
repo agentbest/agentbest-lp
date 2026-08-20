@@ -231,7 +231,7 @@ KYCOMホールディングスは**純粋持株会社**です。2004年10月に�
 
 選考フローや面接内容は、職種や時期によって変わるとされています。**最新の募集要項は公式サイトで必ずご確認ください。**
 
-同じ規模帯の会社の見方は[SIerの年収相場](/media/industry-sier-nensyu)、ユーザー系との比較は[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu)もあわせてご覧ください。
+同じ規模帯の会社の見方は[SIerの年収相場](/media/industry-sier-nensyu/)、ユーザー系との比較は[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

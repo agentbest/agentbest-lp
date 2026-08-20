@@ -157,7 +157,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 **確認したいこと**
 
-「顧客先での勤務はありますか」「その頻度と期間を教えてください」。詳しくは[ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path)で整理しています。
+「顧客先での勤務はありますか」「その頻度と期間を教えてください」。詳しくは[ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path/)で整理しています。
 
 ## 非上場という条件で、何を確認するか
 
@@ -199,7 +199,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 **転職の観点**
 
-**情報が少ない会社ほど、面接での質問が判断材料になります。** 準備して臨む価値が高くなります。年収の水準は[ITコンサルティングファームの年収相場](/media/industry-it-consul-nensyu)もあわせてご覧ください。
+**情報が少ない会社ほど、面接での質問が判断材料になります。** 準備して臨む価値が高くなります。年収の水準は[ITコンサルティングファームの年収相場](/media/industry-it-consul-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -225,7 +225,7 @@ gBizINFOで設立年月日も業種も事業概要も空欄という会社は、
 
 5つ目は、**gBizINFOに設立年月日の記載がなく、公的データから歴史が読めない**ためです。
 
-近い規模の会社は[クラスメソッドの評判・年収・選考対策](/media/company-kurasumesoddo-reputation)、[セイファートの評判・年収・選考対策](/media/company-seifaato-reputation)もあわせてご覧ください。
+近い規模の会社は[クラスメソッドの評判・年収・選考対策](/media/company-kurasumesoddo-reputation/)、[セイファートの評判・年収・選考対策](/media/company-seifaato-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

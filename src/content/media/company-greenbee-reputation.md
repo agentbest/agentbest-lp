@@ -203,7 +203,7 @@ GreenBeeについて、第19期（2025年12月期）の有価証券報告書か�
 
 4つ目は、会社自身が優先課題の1番目に挙げている項目です。
 
-近い規模の会社は[GMOプライム・ストラテジーの評判・年収・選考対策](/media/company-gmopuraimu-sutoratejii-reputation)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido)もあわせてご覧ください。
+近い規模の会社は[GMOプライム・ストラテジーの評判・年収・選考対策](/media/company-gmopuraimu-sutoratejii-reputation/)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

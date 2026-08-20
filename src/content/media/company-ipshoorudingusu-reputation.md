@@ -197,7 +197,7 @@ IPSホールディングスについて、第29期（2025年6月期）の有価�
 
 6つ目は、平均入社年齢30.9歳（平均年齢38.6歳－平均勤続7.7年）という構成を踏まえた確認です。
 
-近い規模の会社は[Hiクラテスの評判・年収・選考対策](/media/company-hikuratesu-reputation)、年収の構造は[ITコンサルタントの年収相場](/media/industry-it-consul-nensyu)もあわせてご覧ください。
+近い規模の会社は[Hiクラテスの評判・年収・選考対策](/media/company-hikuratesu-reputation/)、年収の構造は[ITコンサルタントの年収相場](/media/industry-it-consul-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

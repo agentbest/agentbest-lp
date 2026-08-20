@@ -179,7 +179,7 @@ GMOインターネットグループの有価証券報告書によれば、同�
 
 6つ目は、KUSANAGI Stack事業の単一セグメントであるためです。**事業が1つということは、その事業の動向が全体に直結します。**
 
-近い規模の会社は[GreenBeeの評判・年収・選考対策](/media/company-greenbee-reputation)、キャリアの筋道は[SIerのキャリアパス](/media/industry-sier-career-path)もあわせてご覧ください。
+近い規模の会社は[GreenBeeの評判・年収・選考対策](/media/company-greenbee-reputation/)、キャリアの筋道は[SIerのキャリアパス](/media/industry-sier-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

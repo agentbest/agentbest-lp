@@ -250,7 +250,7 @@ gBizINFOの調達実績は、官公庁との取引の記録です。0件とい�
 
 選考フローや面接内容は、職種や時期によって変わるとされています。**最新の募集要項は公式サイトで必ずご確認ください。**
 
-職種別の観点は[プロジェクトマネージャーのキャリアパス](/media/job-project-manager-career-path)もあわせてご覧ください。
+職種別の観点は[プロジェクトマネージャーのキャリアパス](/media/job-project-manager-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

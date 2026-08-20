@@ -225,7 +225,7 @@ MITホールディングスについて、第16期（2024年12月1日から2025�
 
 選考フローや面接内容は、職種や時期によって変わるとされています。**最新の募集要項は公式サイトで必ずご確認ください。**
 
-独立系の位置づけは[SIerのキャリアパス](/media/industry-sier-career-path)、難易度の目安は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido)もあわせてご覧ください。
+独立系の位置づけは[SIerのキャリアパス](/media/industry-sier-career-path/)、難易度の目安は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

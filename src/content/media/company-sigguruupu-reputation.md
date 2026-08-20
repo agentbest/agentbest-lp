@@ -195,7 +195,7 @@ SIGグループは**持株会社**です。有価証券報告書には、提出�
 
 3つ目と5つ目は、有価証券報告書に方針が明記されていることを踏まえた確認です。
 
-近い構造の会社は[PCIホールディングスの評判・年収・選考対策](/media/company-pcihoorudingusu-reputation)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu)もあわせてご覧ください。
+近い構造の会社は[PCIホールディングスの評判・年収・選考対策](/media/company-pcihoorudingusu-reputation/)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

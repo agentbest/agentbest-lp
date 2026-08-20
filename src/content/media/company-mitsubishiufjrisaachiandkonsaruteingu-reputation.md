@@ -132,7 +132,7 @@ sources:
 
 **転職の観点**
 
-**官公庁向けの調査・研究を経験してきた方には、その経験が直接いきます。** 逆に民間のコンサルティングだけを経験してきた方には、進め方の違いが大きく感じられる可能性があります。詳しくは[シンクタンクのキャリアパス](/media/industry-think-tank-career-path)で整理しています。
+**官公庁向けの調査・研究を経験してきた方には、その経験が直接いきます。** 逆に民間のコンサルティングだけを経験してきた方には、進め方の違いが大きく感じられる可能性があります。詳しくは[シンクタンクのキャリアパス](/media/industry-think-tank-career-path/)で整理しています。
 
 ## 1,361人という規模と、3つの事業
 
@@ -197,7 +197,7 @@ gBizINFOの調達件数1,031件は、同時期に調べた9社のなかで突出
 
 5つ目は、**非上場のため平均年収が公的に確認できない**ためです。
 
-近い規模の会社は[日本総合研究所の評判・年収・選考対策](/media/company-nipponsougoukenkyuusho-reputation)、年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu)もあわせてご覧ください。
+近い規模の会社は[日本総合研究所の評判・年収・選考対策](/media/company-nipponsougoukenkyuusho-reputation/)、年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

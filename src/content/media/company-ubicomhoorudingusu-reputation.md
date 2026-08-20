@@ -201,7 +201,7 @@ PCIホールディングス、SYSホールディングスは、いずれも **�
 
 5つ目は、北京の子会社の指標が開示されていることに関わります。**海外の拠点と協働する体制があるかは、働き方に影響します。**
 
-近い構造の会社は[ULSグループの評判・年収・選考対策](/media/company-ulsguruupu-reputation)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu)もあわせてご覧ください。
+近い構造の会社は[ULSグループの評判・年収・選考対策](/media/company-ulsguruupu-reputation/)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

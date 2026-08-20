@@ -190,7 +190,7 @@ SUBARUの有価証券報告書は、**提出会社の従業員の状況を男女
 
 4つ目は、有価証券報告書に職能・役割等級が明記されていることに関わります。
 
-技術者としてのキャリアは[メーカーIT部門のキャリアパス](/media/industry-maker-it-career-path)、年収の構造は[メーカーIT部門の年収相場](/media/industry-maker-it-nensyu)もあわせてご覧ください。
+技術者としてのキャリアは[メーカーIT部門のキャリアパス](/media/industry-maker-it-career-path/)、年収の構造は[メーカーIT部門の年収相場](/media/industry-maker-it-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

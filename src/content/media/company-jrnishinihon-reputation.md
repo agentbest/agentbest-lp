@@ -221,7 +221,7 @@ JR西日本（西日本旅客鉄道株式会社）について、第39期（2026
 
 選考フローは職種や時期によって変わるとされています。公開情報だけで判断せず、**最新の募集要項を公式サイトで必ずご確認ください。**
 
-近い規模の事業会社の見方は[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu)、職種の観点は[プロジェクトマネージャーのキャリアパス](/media/job-project-manager-career-path)もあわせてご覧ください。
+近い規模の事業会社の見方は[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu/)、職種の観点は[プロジェクトマネージャーのキャリアパス](/media/job-project-manager-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

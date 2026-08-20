@@ -237,7 +237,7 @@ iStudy AI PlatformとAI Creatorの連携により、教材作成から対話型�
 
 選考フローや面接内容は、職種や時期によって変わるとされています。**最新の募集要項は公式サイトで必ずご確認ください。**
 
-同じ規模帯の会社の見方は[SIerの年収相場](/media/industry-sier-nensyu)、キャリアの広がりは[SIerのキャリアパス](/media/industry-sier-career-path)もあわせてご覧ください。
+同じ規模帯の会社の見方は[SIerの年収相場](/media/industry-sier-nensyu/)、キャリアの広がりは[SIerのキャリアパス](/media/industry-sier-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

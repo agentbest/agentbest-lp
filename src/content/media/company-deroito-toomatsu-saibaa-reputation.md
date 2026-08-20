@@ -187,7 +187,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 **確認したいこと**
 
-「提示額の内訳（基本給・賞与・手当）を教えてください」「等級構成と、昇格の基準を教えてください」。年収の水準は[総合コンサルティングファームの年収相場](/media/industry-sogo-consul-nensyu)もあわせてご覧ください。
+「提示額の内訳（基本給・賞与・手当）を教えてください」「等級構成と、昇格の基準を教えてください」。年収の水準は[総合コンサルティングファームの年収相場](/media/industry-sogo-consul-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -213,7 +213,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 6つ目は、監査に関する資格が評価される可能性があるためです。**保有していれば職務経歴書に明記する価値があります。**
 
-近い法人は[デロイト トーマツ ベンチャーサポートの評判・年収・選考対策](/media/company-deroito-toomatsu-benchaasapooto-reputation)、キャリアの筋道は[総合コンサルティングファームのキャリアパス](/media/industry-sogo-consul-career-path)もあわせてご覧ください。
+近い法人は[デロイト トーマツ ベンチャーサポートの評判・年収・選考対策](/media/company-deroito-toomatsu-benchaasapooto-reputation/)、キャリアの筋道は[総合コンサルティングファームのキャリアパス](/media/industry-sogo-consul-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

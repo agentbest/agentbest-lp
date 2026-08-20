@@ -106,7 +106,7 @@ sources:
 
 **転職の観点**
 
-**技術職として応募するなら、内製の比率が高い可能性**があります。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path)で整理しています。
+**技術職として応募するなら、内製の比率が高い可能性**があります。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path/)で整理しています。
 
 <aside class="cta-inline">
   <p>今の経験でどこまで狙えるのか、一度棚卸ししてみませんか</p>
@@ -201,7 +201,7 @@ gBizINFOには、**官公庁からの調達（受注）と補助金の交付**�
 
 **非上場のスタートアップに固有の確認**
 
-**ストックオプションは、有無だけでなく行使の条件まで書面で確認する**のが確実です。年収の水準は[SaaSスタートアップの年収相場](/media/industry-saas-startup-nensyu)もあわせてご覧ください。
+**ストックオプションは、有無だけでなく行使の条件まで書面で確認する**のが確実です。年収の水準は[SaaSスタートアップの年収相場](/media/industry-saas-startup-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -229,7 +229,7 @@ gBizINFOには、**官公庁からの調達（受注）と補助金の交付**�
 
 6つ目は、非上場のスタートアップに固有の確認事項です。
 
-近い領域の会社は[サステナブル・ラボの評判・年収・選考対策](/media/company-sasutenaburu-rabo-reputation)、[クラスメソッドの評判・年収・選考対策](/media/company-kurasumesoddo-reputation)もあわせてご覧ください。
+近い領域の会社は[サステナブル・ラボの評判・年収・選考対策](/media/company-sasutenaburu-rabo-reputation/)、[クラスメソッドの評判・年収・選考対策](/media/company-kurasumesoddo-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

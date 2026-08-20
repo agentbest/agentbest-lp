@@ -238,7 +238,7 @@ JR東日本39.8歳と比べて2.8歳若い構成です。**平均勤続16.3年�
 
 6つ目は、**東海旅客鉄道労働組合の組合員が18,485人で提出会社のほぼ全員**にあたるためです。
 
-近い構造の会社は[JR東日本の評判・年収・選考対策](/media/company-jrhigashinihon-reputation)、年収の構造は[メーカーIT部門の年収相場](/media/industry-maker-it-nensyu)もあわせてご覧ください。
+近い構造の会社は[JR東日本の評判・年収・選考対策](/media/company-jrhigashinihon-reputation/)、年収の構造は[メーカーIT部門の年収相場](/media/industry-maker-it-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

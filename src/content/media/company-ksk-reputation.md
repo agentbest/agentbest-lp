@@ -215,7 +215,7 @@ KSKについて、第52期（2026年3月期）の有価証券報告書から確�
 
 選考フローや面接内容は、職種や時期によって変わるとされています。**最新の募集要項は公式サイトで必ずご確認ください。**
 
-同じ規模帯の会社の見方は[SIerの年収相場](/media/industry-sier-nensyu)、難易度の目安は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido)もあわせてご覧ください。
+同じ規模帯の会社の見方は[SIerの年収相場](/media/industry-sier-nensyu/)、難易度の目安は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

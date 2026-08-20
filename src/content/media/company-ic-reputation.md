@@ -211,7 +211,7 @@ job tagの「プログラマー」の区分（578.5万円）を上回り、「IT
 
 5つ目は、売上高経常利益率8.0%という目標が掲げられていることを踏まえた確認です。
 
-近い規模の会社は[JFEシステムズの評判・年収・選考対策](/media/company-jfeshisutemuzu-reputation)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido)もあわせてご覧ください。
+近い規模の会社は[JFEシステムズの評判・年収・選考対策](/media/company-jfeshisutemuzu-reputation/)、転職の難易度は[SIerの転職難易度](/media/industry-sier-tenshoku-nanido/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

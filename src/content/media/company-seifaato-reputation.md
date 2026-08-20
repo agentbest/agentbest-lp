@@ -148,7 +148,7 @@ gBizINFOには、**東京都世田谷区に所在する同名の法人**（法�
 
 **業界特化という選択**
 
-**特定の業界に集中する会社では、その業界の景気が事業に直結します。** 一方、**深い知識が蓄積される**という利点があります。詳しくは[業界特化型コンサルティングのキャリアパス](/media/industry-gyokai-tokka-consul-career-path)で整理しています。
+**特定の業界に集中する会社では、その業界の景気が事業に直結します。** 一方、**深い知識が蓄積される**という利点があります。詳しくは[業界特化型コンサルティングのキャリアパス](/media/industry-gyokai-tokka-consul-career-path/)で整理しています。
 
 ## 非上場という条件で、何を確認するか
 
@@ -194,7 +194,7 @@ gBizINFOには、**東京都世田谷区に所在する同名の法人**（法�
 
 **確認したいこと**
 
-「業界知識の研修はありますか」「独り立ちまでの標準的な期間を教えてください」。年収の水準は[業界特化型コンサルティングの年収相場](/media/industry-gyokai-tokka-consul-nensyu)もあわせてご覧ください。
+「業界知識の研修はありますか」「独り立ちまでの標準的な期間を教えてください」。年収の水準は[業界特化型コンサルティングの年収相場](/media/industry-gyokai-tokka-consul-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -220,7 +220,7 @@ gBizINFOの業種が「T.分類不能の産業」となっている会社を、�
 
 6つ目は、**gBizINFOに設立年月日の記載がなく、公的データから歴史が読めない**ためです。
 
-近い規模の会社は[ケンブリッジ・テクノロジー・パートナーズの評判・年収・選考対策](/media/company-kenburijji-tekunorojii-paatonaazu-reputation)、[グロービスの評判・年収・選考対策](/media/company-guroobisu-reputation)もあわせてご覧ください。
+近い規模の会社は[ケンブリッジ・テクノロジー・パートナーズの評判・年収・選考対策](/media/company-kenburijji-tekunorojii-paatonaazu-reputation/)、[グロービスの評判・年収・選考対策](/media/company-guroobisu-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

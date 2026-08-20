@@ -139,7 +139,7 @@ gBizINFOに記載された**現在の法人としての設立日**です。
 
 **SIerとしての位置づけ**
 
-**金融グループのシステムを担う会社**は、ユーザー系SIerと呼ばれる型にあたります。詳しくは[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path)で整理しています。
+**金融グループのシステムを担う会社**は、ユーザー系SIerと呼ばれる型にあたります。詳しくは[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path/)で整理しています。
 
 ## 4,859人という規模で働くということ
 
@@ -203,7 +203,7 @@ gBizINFOに記載された**現在の法人としての設立日**です。
 
 5つ目は、**非上場のため平均年収が公的に確認できない**ためです。4,859人という規模でも外からは読めません。
 
-近い規模の会社は[三菱UFJリサーチ&コンサルティングの評判・年収・選考対策](/media/company-mitsubishiufjrisaachiandkonsaruteingu-reputation)、キャリアの筋道は[シンクタンクのキャリアパス](/media/industry-think-tank-career-path)もあわせてご覧ください。
+近い規模の会社は[三菱UFJリサーチ&コンサルティングの評判・年収・選考対策](/media/company-mitsubishiufjrisaachiandkonsaruteingu-reputation/)、キャリアの筋道は[シンクタンクのキャリアパス](/media/industry-think-tank-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -230,7 +230,7 @@ ITコンサルタントの区分は月173時間、プログラマーの区分は
 
 6つ目は、**ＡＧＳプロサービスが人材派遣業を担い、提出会社が子会社従業員を派遣で受け入れている**という注記を踏まえた確認です。
 
-ユーザー系SIerの働き方は[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path)もあわせてご覧ください。
+ユーザー系SIerの働き方は[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>この企業と比較検討すべき他社を整理してみませんか</p>

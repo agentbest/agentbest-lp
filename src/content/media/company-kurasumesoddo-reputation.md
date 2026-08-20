@@ -156,7 +156,7 @@ gBizINFOの従業員数は**事業所の被保険者数**をもとにした数�
 
 **562人という規模**
 
-**役割は一定程度分かれる**と考えられます。**制度も整っている**規模です。詳しくは[ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path)で整理しています。
+**役割は一定程度分かれる**と考えられます。**制度も整っている**規模です。詳しくは[ITコンサルティングファームのキャリアパス](/media/industry-it-consul-career-path/)で整理しています。
 
 ## 非上場という条件で、何を確認するか
 
@@ -198,7 +198,7 @@ gBizINFOの従業員数は**事業所の被保険者数**をもとにした数�
 
 **転職の観点**
 
-**歴史がある会社では、制度も進め方も定まっている**と考えられます。年収の水準は[ITコンサルティングファームの年収相場](/media/industry-it-consul-nensyu)もあわせてご覧ください。
+**歴史がある会社では、制度も進め方も定まっている**と考えられます。年収の水準は[ITコンサルティングファームの年収相場](/media/industry-it-consul-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -224,7 +224,7 @@ gBizINFOの従業員数は**事業所の被保険者数**をもとにした数�
 
 6つ目は、**非上場のため平均年収が公的に確認できない**ためです。
 
-近い規模の会社は[ケンブリッジ・テクノロジー・パートナーズの評判・年収・選考対策](/media/company-kenburijji-tekunorojii-paatonaazu-reputation)、[ゼロボードの評判・年収・選考対策](/media/company-zeroboodo-reputation)もあわせてご覧ください。
+近い規模の会社は[ケンブリッジ・テクノロジー・パートナーズの評判・年収・選考対策](/media/company-kenburijji-tekunorojii-paatonaazu-reputation/)、[ゼロボードの評判・年収・選考対策](/media/company-zeroboodo-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

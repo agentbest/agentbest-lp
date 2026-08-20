@@ -243,7 +243,7 @@ KADOKAWAについて、第12期（2026年3月期）の有価証券報告書か�
 
 選考フローや面接内容は、職種や時期によって変わるとされています。**最新の募集要項は公式サイトで必ずご確認ください。**
 
-職種の観点は[プロダクトマネージャーのキャリアパス](/media/job-product-manager-career-path)もあわせてご覧ください。
+職種の観点は[プロダクトマネージャーのキャリアパス](/media/job-product-manager-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -156,7 +156,7 @@ gBizINFOの事業概要には、**広告・宣伝、写真・製図、調査・�
 
 **転職の観点**
 
-**調査という仕事は、経験の蓄積が効きます。** 業界の知識、取材の技術、判断の勘所。**長く続けるほど価値が上がる構造**です。詳しくは[シンクタンクのキャリアパス](/media/industry-think-tank-career-path)で整理しています。
+**調査という仕事は、経験の蓄積が効きます。** 業界の知識、取材の技術、判断の勘所。**長く続けるほど価値が上がる構造**です。詳しくは[シンクタンクのキャリアパス](/media/industry-think-tank-career-path/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -222,7 +222,7 @@ gBizINFOの「調達」件数は、企業研究ではほとんど使われませ
 
 5つ目は、**非上場のため平均年収が公的に確認できない**ためです。
 
-近い事業の会社は[東京商工リサーチの評判・年収・選考対策](/media/company-toukyoushoukourisaachi-reputation)、年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu)もあわせてご覧ください。
+近い事業の会社は[東京商工リサーチの評判・年収・選考対策](/media/company-toukyoushoukourisaachi-reputation/)、年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

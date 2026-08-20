@@ -150,7 +150,7 @@ gBizINFOには、**行政への届出や認定**が記録されます。
 
 **転職の観点**
 
-**領域を深めたい方には、この集中は有利に働きます。** 詳しくは[人事・組織コンサルティングのキャリアパス](/media/industry-jinji-consul-career-path)で整理しています。
+**領域を深めたい方には、この集中は有利に働きます。** 詳しくは[人事・組織コンサルティングのキャリアパス](/media/industry-jinji-consul-career-path/)で整理しています。
 
 ## 赤坂という立地と、非上場という条件
 
@@ -192,7 +192,7 @@ gBizINFOには、**行政への届出や認定**が記録されます。
 
 **転職の観点**
 
-**入社時の格付けは、あとから取り返しにくい**部分です。**提示された等級の根拠を確認する価値があります。** 年収の水準は[人事・組織コンサルティングの年収相場](/media/industry-jinji-consul-nensyu)もあわせてご覧ください。
+**入社時の格付けは、あとから取り返しにくい**部分です。**提示された等級の根拠を確認する価値があります。** 年収の水準は[人事・組織コンサルティングの年収相場](/media/industry-jinji-consul-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -218,7 +218,7 @@ gBizINFOの「届出・認定」の欄は、企業研究でほとんど使われ
 
 6つ目は、gBizINFOの324人という数字を出発点にした確認です。**被保険者数には業務委託の方が含まれません。**
 
-近い規模の会社は[デロイト トーマツ サイバーの評判・年収・選考対策](/media/company-deroito-toomatsu-saibaa-reputation)、[博報堂コンサルティングの評判・年収・選考対策](/media/company-hakuhoudoukonsaruteingu-reputation)もあわせてご覧ください。
+近い規模の会社は[デロイト トーマツ サイバーの評判・年収・選考対策](/media/company-deroito-toomatsu-saibaa-reputation/)、[博報堂コンサルティングの評判・年収・選考対策](/media/company-hakuhoudoukonsaruteingu-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -197,7 +197,7 @@ SGホールディングスは**持株会社**です。有価証券報告書に�
 
 6つ目は、給与の決定要素に安全と品質が明記されている点に関わります。**成果だけで評価される会社とは、日々の優先順位が変わります。**
 
-物流領域のキャリアは[物流DXのキャリアパス](/media/industry-butsuryu-dx-career-path)、年収は[物流DXの年収相場](/media/industry-butsuryu-dx-nensyu)もあわせてご覧ください。
+物流領域のキャリアは[物流DXのキャリアパス](/media/industry-butsuryu-dx-career-path/)、年収は[物流DXの年収相場](/media/industry-butsuryu-dx-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

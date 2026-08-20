@@ -142,7 +142,7 @@ gBizINFOの事業概要には、**ITコンサルテーションからシステ�
 
 **転職の観点**
 
-**上流を志望するなら、その旨を明確に伝える必要があります。** 一貫して担う会社では、配属の幅が広いためです。詳しくは[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path)で整理しています。
+**上流を志望するなら、その旨を明確に伝える必要があります。** 一貫して担う会社では、配属の幅が広いためです。詳しくは[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path/)で整理しています。
 
 ## 2,503人という規模と、非上場という条件
 
@@ -180,7 +180,7 @@ gBizINFOの事業概要には、**ITコンサルテーションからシステ�
 
 **年収の構造**
 
-**SIerの年収は、契約上の位置と担う工程で決まる部分が大きくなります。** 詳しくは[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu)で整理しています。
+**SIerの年収は、契約上の位置と担う工程で決まる部分が大きくなります。** 詳しくは[ユーザー系SIerの年収相場](/media/industry-user-kei-sier-nensyu/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -206,7 +206,7 @@ gBizINFOの事業概要には、**ITコンサルテーションからシステ�
 
 4つ目と5つ目は、**非上場のため平均年収が公的に確認できない**ためです。
 
-近い構造の会社は[大和総研の評判・年収・選考対策](/media/company-yamatosouken-reputation)、[日本総合研究所の評判・年収・選考対策](/media/company-nipponsougoukenkyuusho-reputation)もあわせてご覧ください。
+近い構造の会社は[大和総研の評判・年収・選考対策](/media/company-yamatosouken-reputation/)、[日本総合研究所の評判・年収・選考対策](/media/company-nipponsougoukenkyuusho-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

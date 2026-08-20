@@ -188,7 +188,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 **非上場であることの意味**
 
-**平均年収も従業員数も、公的には確認できません。** 面接で聞くのが唯一の方法になります。年収の水準は[総合コンサルティングファームの年収相場](/media/industry-sogo-consul-nensyu)もあわせてご覧ください。
+**平均年収も従業員数も、公的には確認できません。** 面接で聞くのが唯一の方法になります。年収の水準は[総合コンサルティングファームの年収相場](/media/industry-sogo-consul-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -214,7 +214,7 @@ gBizINFOに従業員数の記載がない会社を見ると、情報が得られ
 
 6つ目は、**非上場のため平均年収が公的に確認できない**ためです。従業員数も記載がありません。
 
-近い法人は[デロイト トーマツ サイバーの評判・年収・選考対策](/media/company-deroito-toomatsu-saibaa-reputation)、キャリアの筋道は[総合コンサルティングファームのキャリアパス](/media/industry-sogo-consul-career-path)もあわせてご覧ください。
+近い法人は[デロイト トーマツ サイバーの評判・年収・選考対策](/media/company-deroito-toomatsu-saibaa-reputation/)、キャリアの筋道は[総合コンサルティングファームのキャリアパス](/media/industry-sogo-consul-career-path/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

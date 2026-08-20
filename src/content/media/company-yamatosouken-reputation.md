@@ -147,7 +147,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 **SIerとしての位置づけ**
 
-**金融グループのシステムを担う機能**は、ユーザー系SIerと呼ばれる型にあたります。詳しくは[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path)で整理しています。
+**金融グループのシステムを担う機能**は、ユーザー系SIerと呼ばれる型にあたります。詳しくは[ユーザー系SIerのキャリアパス](/media/industry-user-kei-sier-career-path/)で整理しています。
 
 ## 1,819人という規模で働くということ
 
@@ -185,7 +185,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 **転職の観点**
 
-**前職で分析レポートを書いた経験は、この領域では直接の材料**になります。年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu)もあわせてご覧ください。
+**前職で分析レポートを書いた経験は、この領域では直接の材料**になります。年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -211,7 +211,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 5つ目は、**非上場のため平均年収が公的に確認できない**ためです。
 
-近い構造の会社は[日本総合研究所の評判・年収・選考対策](/media/company-nipponsougoukenkyuusho-reputation)、[三菱総研DCSの評判・年収・選考対策](/media/company-mitsubishisoukendcs-reputation)もあわせてご覧ください。
+近い構造の会社は[日本総合研究所の評判・年収・選考対策](/media/company-nipponsougoukenkyuusho-reputation/)、[三菱総研DCSの評判・年収・選考対策](/media/company-mitsubishisoukendcs-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

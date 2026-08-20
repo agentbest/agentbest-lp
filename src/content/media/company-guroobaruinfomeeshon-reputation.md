@@ -187,7 +187,7 @@ sources:
 
 **海外との仕事**
 
-**海外調査出版会社が仕入先**であるため、**英語での取引が日常的**である可能性があります。詳しくは[シンクタンクのキャリアパス](/media/industry-think-tank-career-path)で、調査業の働き方を整理しています。
+**海外調査出版会社が仕入先**であるため、**英語での取引が日常的**である可能性があります。詳しくは[シンクタンクのキャリアパス](/media/industry-think-tank-career-path/)で、調査業の働き方を整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -213,7 +213,7 @@ sources:
 
 6つ目は、**従業員49人に対し臨時雇用者22人**という構成を踏まえた確認です。
 
-近い規模の会社は[コーチ・エィの評判・年収・選考対策](/media/company-koochi-ei-reputation)、年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu)もあわせてご覧ください。
+近い規模の会社は[コーチ・エィの評判・年収・選考対策](/media/company-koochi-ei-reputation/)、年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

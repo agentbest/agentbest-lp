@@ -173,7 +173,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 **転職の観点**
 
-**調査という仕事は、経験の蓄積が効きます。** 業界の知識、取材の技術、判断の勘所。詳しくは[シンクタンクのキャリアパス](/media/industry-think-tank-career-path)で整理しています。
+**調査という仕事は、経験の蓄積が効きます。** 業界の知識、取材の技術、判断の勘所。詳しくは[シンクタンクのキャリアパス](/media/industry-think-tank-career-path/)で整理しています。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -199,7 +199,7 @@ gBizINFOには、**官公庁からの調達（受注）実績**が記録され�
 
 6つ目は、調査という仕事が経験の蓄積で価値を上げる構造にあるためです。**立ち上がりの支援があるかは、入社後の1年を左右します。**
 
-近い事業の会社は[帝国データバンクの評判・年収・選考対策](/media/company-teikokudeetabanku-reputation)、年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu)もあわせてご覧ください。
+近い事業の会社は[帝国データバンクの評判・年収・選考対策](/media/company-teikokudeetabanku-reputation/)、年収の水準は[シンクタンクの年収相場](/media/industry-think-tank-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

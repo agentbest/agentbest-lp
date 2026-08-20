@@ -177,7 +177,7 @@ PCIホールディングスは**持株会社**です。有価証券報告書の�
 
 5つ目は、有価証券報告書に明記された制度です。**求人票には書かれないことが多い項目**なので、確認する価値があります。
 
-近い構造の会社は[SIGグループの評判・年収・選考対策](/media/company-sigguruupu-reputation)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu)もあわせてご覧ください。
+近い構造の会社は[SIGグループの評判・年収・選考対策](/media/company-sigguruupu-reputation/)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

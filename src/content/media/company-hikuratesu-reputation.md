@@ -190,7 +190,7 @@ SIerには、要件をまとめて外部に発注する働き方もあります�
 
 5つ目は、有価証券報告書に特約店契約が明記されていることに関わります。
 
-近い規模の会社は[ICの評判・年収・選考対策](/media/company-ic-reputation)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu)もあわせてご覧ください。
+近い規模の会社は[ICの評判・年収・選考対策](/media/company-ic-reputation/)、年収の構造は[SIerの年収相場](/media/industry-sier-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

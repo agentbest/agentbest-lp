@@ -229,7 +229,7 @@ IHIの有価証券報告書で最も目を引くのは、平均年間給与の�
 
 5つ目は、有価証券報告書に評価制度の見直しが明記されていることに関わります。
 
-技術者としてのキャリアは[メーカーIT部門のキャリアパス](/media/industry-maker-it-career-path)、年収の構造は[メーカーIT部門の年収相場](/media/industry-maker-it-nensyu)もあわせてご覧ください。
+技術者としてのキャリアは[メーカーIT部門のキャリアパス](/media/industry-maker-it-career-path/)、年収の構造は[メーカーIT部門の年収相場](/media/industry-maker-it-nensyu/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>

@@ -243,7 +243,7 @@ NCDについて、第61期（2026年3月期）の有価証券報告書から確�
 
 選考フローや面接内容は、職種や時期によって変わるとされています。**最新の募集要項は公式サイトで必ずご確認ください。**
 
-同じ規模帯の会社の見方は[SIerの年収相場](/media/industry-sier-nensyu)、キャリアの広がりは[SIerのキャリアパス](/media/industry-sier-career-path)もあわせてご覧ください。
+同じ規模帯の会社の見方は[SIerの年収相場](/media/industry-sier-nensyu/)、キャリアの広がりは[SIerのキャリアパス](/media/industry-sier-career-path/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>

@@ -161,7 +161,7 @@ gBizINFOには、**補助金の交付実績**が記録されます。
 
 **同じ環境領域でも、公的データの姿がまったく違う**
 
-**ゼロボードは情報通信業として知財に投資し、サステナブル・ラボは学術研究・専門技術サービス業として補助金を受けている。** 事業の組み立て方が異なります。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path)で、この領域の働き方を整理しています。
+**ゼロボードは情報通信業として知財に投資し、サステナブル・ラボは学術研究・専門技術サービス業として補助金を受けている。** 事業の組み立て方が異なります。詳しくは[SaaSスタートアップのキャリアパス](/media/industry-saas-startup-career-path/)で、この領域の働き方を整理しています。
 
 ## 情報が少ない会社に応募するとき
 
@@ -203,7 +203,7 @@ gBizINFOには、**補助金の交付実績**が記録されます。
 
 **転職の観点**
 
-**情報が少ないことは、応募を避ける理由にはなりません。** ただし、**聞くべきことを聞かずに入ると、想定とのずれが大きくなります。** 転職の難易度は[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido)もあわせてご覧ください。
+**情報が少ないことは、応募を避ける理由にはなりません。** ただし、**聞くべきことを聞かずに入ると、想定とのずれが大きくなります。** 転職の難易度は[SaaSスタートアップの転職難易度](/media/industry-saas-startup-tenshoku-nanido/)もあわせてご覧ください。
 
 <div class="ab-insight">
 <p class="ab-insight-label">エージェントベストの見解</p>
@@ -229,7 +229,7 @@ gBizINFOに「4人」と記載されている会社を見たとき、その数�
 
 6つ目は、非上場のスタートアップに固有の確認事項です。
 
-近い領域の会社は[ゼロボードの評判・年収・選考対策](/media/company-zeroboodo-reputation)、[グローバルインフォメーションの評判・年収・選考対策](/media/company-guroobaruinfomeeshon-reputation)もあわせてご覧ください。
+近い領域の会社は[ゼロボードの評判・年収・選考対策](/media/company-zeroboodo-reputation/)、[グローバルインフォメーションの評判・年収・選考対策](/media/company-guroobaruinfomeeshon-reputation/)もあわせてご覧ください。
 
 <aside class="cta-inline">
   <p>非公開求人を含めて、選択肢を確認してみませんか</p>
