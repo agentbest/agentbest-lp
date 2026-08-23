@@ -65,6 +65,12 @@ export async function extract(item) {
     netIncome: moneyIn(targetLay, /^当期純利益/) || moneyIn(targetRaw, /^当期純利益/),
   };
 
+  // 表の行がずれていると、桁は合っているのに項目が入れ替わることがある。
+  // 純資産が総資産を超えるのはあり得ないので、その場合は財務数値をまとめて捨てる。
+  if (fin.netAssets && fin.totalAssets && fin.netAssets.raw > fin.totalAssets.raw) {
+    for (const k of Object.keys(fin)) fin[k] = null;
+  }
+
   const flatShare = flat(shareLay);
   const undisclosed = /非開示|非公表|開示(を)?(差し)?控え|公表を控え/.test(flatShare);
   // 価額はラベル付きでしか採らない。近くの無関係な数字を価額として出すと誤報になる

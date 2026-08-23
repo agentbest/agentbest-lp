@@ -21,7 +21,11 @@ const argv = process.argv.slice(2);
 const opt = (k, d) => { const i = argv.indexOf(k); return i >= 0 ? argv[i + 1] : d; };
 const has = (k) => argv.includes(k);
 
-const ymd = (d) => `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, '0')}${String(d.getDate()).padStart(2, '0')}`;
+// TDnetは日本時間で日付が切り替わる。GitHub ActionsのランナーはUTCなので、
+// ローカル時刻で日付を作ると1日ずれる。実行環境によらずJSTで数える。
+const JST = (t = Date.now()) => new Date(t + 9 * 3600 * 1000);
+const ymd = (d) => `${d.getUTCFullYear()}${String(d.getUTCMonth() + 1).padStart(2, '0')}${String(d.getUTCDate()).padStart(2, '0')}`;
+const hm = (d) => `${String(d.getUTCHours()).padStart(2, '0')}${String(d.getUTCMinutes()).padStart(2, '0')}`;
 
 async function listDay(date) {
   const url = `https://webapi.yanoshin.jp/webapi/tdnet/list/${date}.json?limit=500`;
@@ -49,9 +53,7 @@ const main = async () => {
   else {
     const days = Number(opt('--days', 2));
     for (let i = 0; i < days; i++) {
-      const d = new Date();
-      d.setDate(d.getDate() - i);
-      dates.push(ymd(d));
+      dates.push(ymd(JST(Date.now() - i * 86400000)));
     }
   }
 
@@ -91,9 +93,12 @@ const main = async () => {
     }
   }
 
-  const stamp = dates[0];
+  // 同じ日に複数回流しても前の記録を潰さないよう、時刻まで入れる
+  const now = JST();
+  const stamp = `${ymd(now)}-${hm(now)}`;
   const report = {
     ranAt: new Date().toISOString(),
+    ranAtJst: `${ymd(now)} ${hm(now).slice(0, 2)}:${hm(now).slice(2)}`,
     dates,
     written: written.length,
     skipped: skipped.length,

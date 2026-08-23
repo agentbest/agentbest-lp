@@ -1,31 +1,35 @@
 // tools/ma-news/fields.mjs … 「(1)名称 (2)所在地 …」の会社概要テーブルから値を取る
 //
-// 適時開示の会社概要は2列の表で、PDFをテキストに落とすと
-//   ・ラベルと値が同じ行に並ぶ（素直なケース）
-//   ・ラベルだけ先に全部並び、そのあとに値が同じ順で並ぶ（崩れるケース）
-// の2通りになる。後者を「値が空」と読むと、名称に住所が入るような取り違えが起きる。
+// 適時開示の会社概要は2列の表で、PDFをテキストに落とすと崩れ方が3通りある。
+//   ・ラベルと値が同じ行に並ぶ（素直）
+//   ・ラベルだけ先に全部並び、そのあとに値が同じ順で並ぶ
+//   ・値のほうが先に来て、ラベルが1行下にずれる
+// 同じPDFでもWindows版とLinux版の pdftotext で崩れ方が逆になることがある（実例: 1276867）。
 //
-// ラベルの出現順と値の出現順は必ず一致するので、読み順にイベントを並べ、
-// 値が来たら「待っている一番古いラベル」に配る。これで両方のケースを1本で扱える。
-// それでも多行の値でズレることがあるため、最後に型チェック（住所っぽい／金額っぽい）で捨てる。
+// ラベルの出現順と値の出現順は必ず一致するので、両側に待ち行列を持って先着順に組む。
+// それでも多行の値でズレるため、最後に型チェック（住所っぽい／金額っぽい）で捨てる。
 
-const NUM = '[(（]\s*([0-9]{1,2})\s*[)）]';
+// 「(1)名称」の番号マーカーとラベル名。ラベルは次の空白かカッコまで。
+// ここは new RegExp の文字列にするとエスケープを1段間違えやすいのでリテラルで書く。
+const MARK_RE = /[(（]\s*([0-9]{1,2})\s*[)）]\s*([^\n(（]{0,20}?)(?=\s|$|[(（])/g;
 
 /** ページ番号や記号だけの行は値ではない */
-const isNoise = (s) => !s || /^[0-9\s.\-―－/]+$/.test(s) || s.length <= 1;
+const isNoise = (s) =>
+  !s || /^[0-9\s.\-―－/]+$/.test(s) || s.length <= 1 ||
+  // 見出しの断片。値の列に混ざると1つずつ後ろにずれて全項目が壊れる
+  /概要|お知らせ|に関する|下記のとおり|以下のとおり/.test(s);
 
 /**
- * @param {string} sec 概要セクションのテキスト（rawモードのPDFテキスト推奨）
+ * @param {string} sec 概要セクションのテキスト
  * @returns {Array<{n:number, label:string, value:string}>} 出現順
  */
 export function pairFields(sec) {
-  const markRe = new RegExp(NUM + '\s*([^\n(（]{0,20}?)(?=\s|$|[(（])', 'g');
   const events = [];
-  for (const line of sec.split(/\n/)) {
+  for (const line of String(sec).split(/\n/)) {
     let last = 0;
     let m;
-    markRe.lastIndex = 0;
-    while ((m = markRe.exec(line))) {
+    MARK_RE.lastIndex = 0;
+    while ((m = MARK_RE.exec(line))) {
       const before = line.slice(last, m.index).trim();
       if (!isNoise(before)) events.push({ t: 'v', s: before });
       events.push({ t: 'l', label: m[2].replace(/\s/g, ''), n: Number(m[1]) });
@@ -36,14 +40,18 @@ export function pairFields(sec) {
   }
 
   const out = [];
-  const pending = [];
+  const pendingLabels = [];
+  const pendingValues = [];
   for (const e of events) {
     if (e.t === 'l') {
       const rec = { n: e.n, label: e.label, value: '' };
       out.push(rec);
-      pending.push(rec);
-    } else if (pending.length) {
-      pending.shift().value = e.s;
+      if (pendingValues.length) rec.value = pendingValues.shift();
+      else pendingLabels.push(rec);
+    } else if (pendingLabels.length) {
+      pendingLabels.shift().value = e.s;
+    } else {
+      pendingValues.push(e.s);
     }
   }
   return out;
@@ -71,7 +79,7 @@ const CHECK = {
 };
 
 const LABEL_RE = {
-  name: /^(名称|商号|会社名|氏名)/,   // 「(1)名称」「商号」など
+  name: /^(名称|商号|会社名|氏名)/,
   location: /^(所在地|本店所在地|住所|本社)/,
   business: /^事業(の)?(内容|概要)|^主?な?事業/,
   capital: /^資本金/,
@@ -79,7 +87,7 @@ const LABEL_RE = {
   ceo: /^代表者|^代表取締役/,
 };
 
-/** 概要セクションから主要項目を取り出す。型に合わない値は採らない（空で返す） */
+/** 概要セクションから主要項目を取り出す。型に合わない値は採らない */
 export function summaryOf(sec) {
   const pairs = pairFields(sec);
   const out = {};
@@ -93,10 +101,10 @@ export function summaryOf(sec) {
 }
 
 /** 字間が空いたラベル（「名　称」「事 業 内 容」）は、空白を潰した1行から前方一致で拾える。
- *  pairFields は行が折り返されると弱いので、layoutモードのテキストに対してこちらを併用する。 */
+ *  行が折り返される様式では pairFields が弱いので、layoutモードのテキストに対して併用する。 */
 export function scanLabels(sec) {
   const out = {};
-  for (const line of sec.split(/\n/)) {
+  for (const line of String(sec).split(/\n/)) {
     const f = String(line)
       .replace(/[　]/g, ' ')
       .replace(/\s+(?=[^\x00-\x7F])/g, '')
@@ -114,20 +122,17 @@ export function scanLabels(sec) {
   return out;
 }
 
-/** rawモードとlayoutモード、それぞれ得意な崩れ方が違うので両方から拾って埋め合わせる */
+/** 3通りの読み方から、いちばん素直に取れているものを項目ごとに選ぶ */
 export function summaryMerged(rawSec, layoutSec) {
-  const a = summaryOf(rawSec);
-  const b = scanLabels(layoutSec || '');
+  const cands = [summaryOf(rawSec), scanLabels(layoutSec || ''), summaryOf(layoutSec || '')];
   const out = {};
   for (const k of Object.keys(LABEL_RE)) {
-    // 折り返しでカッコ書きだけを拾ってしまうことがあるので、素直な方を選ぶ
-    // 折り返しでカッコ書きだけを拾ったり、1行に4項目まとめて入ったりする。
-    // どちらのモードも「短く素直に取れている方」が正しいことが多い。
-    const cands = [a[k], b[k]].filter(Boolean).filter((v) => !/^[(（]/.test(v));
-    const all = cands.length ? cands : [a[k], b[k]].filter(Boolean);
-    out[k] = all.sort((x, y) => x.length - y.length)[0] || '';
+    const vs = cands.map((c) => c[k]).filter(Boolean);
+    // 折り返しでカッコ書きだけを拾うことがあるので、そうでないものを優先。
+    // 1行に4項目まとめて入った長い値より、短く取れている方が正しいことが多い。
+    const clean = vs.filter((v) => !/^[(（]/.test(v));
+    out[k] = (clean.length ? clean : vs).sort((x, y) => x.length - y.length)[0] || '';
   }
-  // 注記つきの長い社名は最初のカッコで切る（「A社(登記上の名称は…)」など）
   if (out.name.length > 30) out.name = out.name.split(/[(（]/)[0].trim() || out.name;
   out.founded = out.founded.replace(/^(年月日|年月|日)/, '');
   return out;

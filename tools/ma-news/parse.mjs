@@ -39,7 +39,12 @@ export function sections(text) {
     const headName = m ? flat(m[2].split(/[(（]/)[0]) : '';
     if (m && headName.length >= 2 && headName.length <= 40 && !/[。]/.test(headName)) {
       out.push(cur);
-      cur = { head: flat(m[2]), body: [line.slice(line.indexOf(m[2]))] };
+      // 「2. 異動する会社の概要 株式会社演算工房」のように、見出しの行に最初の値が乗る様式がある。
+      // 見出し名と値を切り分けないと、社名が見出しの一部として消える。
+      const withValue = /^(.*?概要)[\s　]+(\S.*)$/.exec(m[2]);
+      cur = withValue
+        ? { head: flat(withValue[1]), body: [withValue[2]] }
+        : { head: flat(m[2]), body: [line.slice(line.indexOf(m[2]))] };
     } else {
       cur.body.push(line);
     }
@@ -71,21 +76,41 @@ export function yen(n) {
   return (neg ? '△' : '') + s;
 }
 
+/** 財務テーブルは「決算期」の行に数字が入っていたら、ラベルと値が1行ずれている。
+ *  この様式では、ある行に印字された数字は「次の行のラベル」のものになる。
+ *  会社概要のテーブルと同じ崩れ方だが、こちらは数字なので黙って通すと誤報になる。
+ *  実例: E・Jホールディングス（1276867）の開示。 */
+function isShifted(lines) {
+  for (const line of lines) {
+    const f = flat(line);
+    if (!/^(決算期|決算年月|事業年度|会計期間)/.test(f)) continue;
+    const rest = f.slice(3);
+    if (/年[0-9]{1,2}月期?/.test(rest)) return false;         // 期が正しく並んでいる
+    const nums = rest.match(/[0-9][0-9,]{2,}/g) || [];
+    if (nums.length >= 2) return true;
+  }
+  return false;
+}
+
 /** 財務テーブルの行「売上高(千円) 180,592 395,634 846,874」から直近期の値を取る。
  *  単位が確定できないときは値を捨てる。千円の表を百万円と読むと桁が1000倍ずれ、
  *  記事としては致命的なので推測はしない。 */
 export function moneyIn(sec, labelRe) {
   const flatSec = flat(sec);
   const secUnit = /単位\s*[:：]?\s*(千円|百万円|億円|円)/.exec(flatSec)?.[1] || null;
-  for (const line of String(sec).split(/\n/)) {
-    const f = flat(line);
+  const lines = String(sec).split(/\n/);
+  const shifted = isShifted(lines);
+  for (let i = 0; i < lines.length; i++) {
+    const f = flat(lines[i]);
     const m = labelRe.exec(f);
     if (!m || m.index !== 0) continue;
     if (/1株当たり|1株あたり|1株につき/.test(f)) continue;
     const lineUnit = /[(（](千円|百万円|億円|円)[)）]/.exec(f)?.[1] || null;
-    const rest = f.slice(m.index + m[0].length);
-    // 「411,894 千円 408,667 千円 431,130 千円」のように値ごとに単位が付く様式と、
-    // 「純資産額(千円) 304,442 375,573 559,278」のようにラベル側に付く様式がある。
+    // ずれている様式では、そのラベルの値はひとつ上の行に印字されている
+    const rest = shifted
+      ? flat(lines[i - 1] ?? '').replace(/^[^0-9△▲]*/, '')
+      : f.slice(m.index + m[0].length);
+    NUM_UNIT.lastIndex = 0;
     const hits = [...rest.matchAll(NUM_UNIT)]
       .map((x) => ({
         v: (x[1] && x[1] !== '-' ? -1 : 1) * Number(x[2].replace(/,/g, '')),
@@ -96,7 +121,7 @@ export function moneyIn(sec, labelRe) {
     const last = hits[hits.length - 1];        // 表は「古い期 → 直近期」。最後が直近
     const unit = last.u || lineUnit || secUnit;
     if (!unit) continue;
-    return { raw: last.v * UNIT[unit], unit, periods: hits.length };
+    return { raw: last.v * UNIT[unit], unit, periods: hits.length, shifted };
   }
   return null;
 }
