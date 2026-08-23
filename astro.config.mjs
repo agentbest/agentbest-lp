@@ -11,6 +11,8 @@ import sitemap from '@astrojs/sitemap';
 //
 // content collection は astro.config からは読めないので、Markdown を直接見ている。
 const MEDIA_DIR = new URL('./src/content/media/', import.meta.url);
+// M&Aニュース（tools/ma-news が自動生成）。毎日増えるので lastmod を正しく出す価値が大きい
+const NEWS_DIR = new URL('./src/content/news/', import.meta.url);
 
 // タグの別名解決はページ側と同じ定義を使う（ここで独自実装すると必ずズレる）。
 // astro.config から .ts を読めない環境でも落ちないように動的 import + フォールバック。
@@ -43,7 +45,24 @@ function readArticles() {
   return out;
 }
 
+function readNews() {
+  const out = [];
+  let files = [];
+  try { files = fs.readdirSync(NEWS_DIR); } catch { return out; }
+  for (const file of files) {
+    if (!file.endsWith('.md')) continue;
+    const head = fs.readFileSync(new URL(file, NEWS_DIR), 'utf-8').slice(0, 1200);
+    const m = /^pubDate:\s*(\S+)/m.exec(head);
+    if (!m) continue;
+    const date = new Date(m[1]);
+    if (Number.isNaN(date.getTime())) continue;
+    out.push({ slug: file.slice(0, -3), date });
+  }
+  return out;
+}
+
 const ARTICLES = readArticles();
+const NEWS = readNews();
 const BUILT_AT = new Date();
 
 // 先付けの日付が紛れ込んだ場合の保険。未来の lastmod はサイトマップとして不正なので頭打ちにする。
@@ -76,6 +95,8 @@ const TAG_LASTMOD = tagSlugsOf ? groupLastmod((a) => tagSlugsOf(a)) : new Map();
 
 // メディアトップ・企業一覧・コーポレート各ページは全体の最新日で構わない
 const NEWEST = newestOf(ARTICLES);
+const NEWS_LASTMOD = new Map(NEWS.map((n) => [n.slug, n.date]));
+const NEWS_NEWEST = NEWS.length ? newestOf(NEWS) : null;
 
 export default defineConfig({
   site: 'https://www.agent-best.net',
@@ -91,8 +112,13 @@ export default defineConfig({
         const tag = /\/media\/tag\/([^/]+)\/(?:\d+\/)?$/.exec(item.url)?.[1];
         // 記事ページ（/media/{slug}/）だけ slug が1階層。/media/hub/... は上で拾い済み
         const art = /\/media\/([^/]+)\/$/.exec(item.url)?.[1];
+        // M&Aニュースは /media/ma-news/{slug}/ と2階層。一覧は載っている記事の最新日にする
+        const newsSlug = /\/media\/ma-news\/([^/]+)\/$/.exec(item.url)?.[1];
+        const isNewsIndex = /\/media\/ma-news\/(?:[0-9]+\/)?$/.test(item.url);
 
         const d =
+          (newsSlug && NEWS_LASTMOD.get(newsSlug)) ||
+          (isNewsIndex && NEWS_NEWEST) ||
           (hub && HUB_LASTMOD.get(hub)) ||
           (tag && TAG_LASTMOD.get(tag)) ||
           (art && ARTICLE_LASTMOD.get(art)) ||

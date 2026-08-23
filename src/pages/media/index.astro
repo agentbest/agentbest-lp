@@ -10,6 +10,12 @@ import { getMediaGroups } from '../../lib/mediaTaxonomy';
 import { getTagGroups } from '../../lib/mediaTags';
 
 const posts = await getCollection('media');
+// M&Aニュース（適時開示の自動まとめ）。記事とは別コレクション
+const news = await getCollection('news');
+const newsLatest = news.length
+  ? news.reduce((d, p) => (p.data.pubDate > d ? p.data.pubDate : d), new Date(0))
+  : null;
+const fmtDate = (d) => `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
 const { jobGroups, industryGroups, companyHubs } = getMediaGroups(posts);
 // タグはハブと直交する横断の分類。定義は src/lib/mediaTags.ts
 const { groups: tagGroups } = getTagGroups(posts);
@@ -41,12 +47,43 @@ const description =
     <MediaSearchBox />
 
     <nav class="jump" aria-label="カテゴリ">
+      <a href="/media/ma-news/">M&Aニュース</a>
       <a href="#tag">タグから探す</a>
       <a href="#job">職種から探す</a>
       <a href="#industry">業界から探す</a>
       <a href="#company">企業から探す</a>
       <a href="#latest">新着記事</a>
     </nav>
+
+    <!-- ===== M&Aニュース ===== -->
+    {news.length > 0 && (
+      <section class="news-promo">
+        <div class="news-promo-head">
+          <h2>M&Aニュース</h2>
+          <span class="news-promo-count">
+            {news.length.toLocaleString()}件{newsLatest && ` ／ 最終更新 ${fmtDate(newsLatest)}`}
+          </span>
+        </div>
+        <p class="hub-note">
+          上場企業が開示したM&A（子会社化・株式譲渡・合併・事業譲渡）を、東証の適時開示をもとに日次でまとめています。
+          どの業界で何が動いているかは、そのまま求人が生まれる場所の話でもあります。
+        </p>
+        <ul class="news-promo-list">
+          {news
+            .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+            .slice(0, 5)
+            .map((n) => (
+              <li>
+                <a href={`/media/ma-news/${n.slug}/`}>
+                  <span class="npl-date">{fmtDate(n.data.pubDate)}</span>
+                  <span class="npl-title">{n.data.title}</span>
+                </a>
+              </li>
+            ))}
+        </ul>
+        <p class="news-promo-more"><a href="/media/ma-news/">M&Aニュースの一覧を見る →</a></p>
+      </section>
+    )}
 
     <!-- ===== タグ ===== -->
     <h2 id="tag">タグから探す</h2>
@@ -213,4 +250,22 @@ const description =
     .art-list a { grid-template-columns: 116px minmax(0, 1fr); gap: .75em; }
     .art-desc { -webkit-line-clamp: 1; }
   }
+</style>
+
+<style is:global>
+  /* M&Aニュースの導線。記事一覧とは毛色が違うので枠で囲って区別する */
+  .news-promo {
+    margin: 8px 0 40px; padding: 20px 22px; border: 1px solid #e6e8eb; border-radius: 14px; background: #fafbfc;
+  }
+  .news-promo-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .news-promo-head h2 { margin: 0; font-size: 1.15rem; border: 0; padding: 0; }
+  .news-promo-count { font-size: .8rem; color: #6b7684; }
+  .news-promo-list { list-style: none; margin: 12px 0 0; padding: 0; }
+  .news-promo-list li { border-top: 1px dashed #e6e8eb; }
+  .news-promo-list a { display: flex; gap: 12px; padding: 9px 2px; text-decoration: none; color: inherit; align-items: baseline; }
+  .news-promo-list a:hover .npl-title { color: #1a4fd6; }
+  .npl-date { font-size: .78rem; color: #8a93a0; flex: 0 0 auto; }
+  .npl-title { font-size: .92rem; line-height: 1.6; }
+  .news-promo-more { margin: 14px 0 0; font-size: .88rem; }
+  .news-promo-more a { color: #1a4fd6; text-decoration: none; }
 </style>

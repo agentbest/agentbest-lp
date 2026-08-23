@@ -1,0 +1,157 @@
+---
+// src/pages/media/ma-news/[slug].astro … M&Aニュース個別
+//
+// 本文は tools/ma-news が適時開示から機械的に組み立てたもの。
+// 一次情報へのリンク（sourceUrl）は必ず出す。ここが無いと「どこ発の話か」が読者に分からない。
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import ShareButtons from '../../../components/ShareButtons.astro';
+
+export async function getStaticPaths() {
+  const news = await getCollection('news');
+  return news.map((post) => ({ params: { slug: post.slug }, props: { post, all: news } }));
+}
+
+const { post, all } = Astro.props;
+const { Content } = await post.render();
+const d = post.data;
+
+const fmt = (x) => `${x.getFullYear()}.${String(x.getMonth() + 1).padStart(2, '0')}.${String(x.getDate()).padStart(2, '0')}`;
+const shareUrl = new URL(`/media/ma-news/${post.slug}/`, Astro.site).href;
+
+// 同じ業種の直近ニュース。日付順のなかで「自分の次の5件」を巡回して取り、
+// 内部リンクが1本の記事に集中しないようにする（/media/[slug].astro と同じ考え方）
+const sorted = all.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const sameIndustry = sorted.filter((p) => p.data.industry === d.industry);
+const myIdx = Math.max(0, sameIndustry.findIndex((p) => p.slug === post.slug));
+const related = [];
+for (let i = 1; i < sameIndustry.length && related.length < 5; i++) {
+  related.push(sameIndustry[(myIdx + i) % sameIndustry.length]);
+}
+const recent = sorted.filter((p) => p.slug !== post.slug).slice(0, 5);
+---
+
+<Layout title={`${d.title}｜M&Aニュース`} description={d.description}>
+  <Header />
+  <article class="news-article">
+    <nav class="breadcrumb" aria-label="パンくず">
+      <a href="/media/">キャリアメディア</a>
+      <span aria-hidden="true">/</span>
+      <a href="/media/ma-news/">M&Aニュース</a>
+    </nav>
+
+    <p class="meta">
+      <span class="date">{fmt(d.pubDate)}</span>
+      {d.tags.map((t) => <span class="tag">{t}</span>)}
+    </p>
+    <h1>{d.title}</h1>
+
+    <div class="facts">
+      <dl>
+        <div><dt>開示企業</dt><dd>{d.issuer}{d.issuerCode && <span class="code">（{d.issuerCode}）</span>}</dd></div>
+        <div><dt>対象会社</dt><dd>{d.targetName}</dd></div>
+        <div><dt>業種</dt><dd>{d.industry}</dd></div>
+      </dl>
+    </div>
+
+    <div class="body">
+      <Content />
+    </div>
+
+    <div class="source">
+      <strong>出典</strong>
+      <ul>
+        <li>
+          <a href={d.sourceUrl} target="_blank" rel="noopener nofollow">{d.sourceName}：{d.title}（{d.issuer}）</a>
+        </li>
+      </ul>
+      <p class="note">
+        本記事は{fmt(d.pubDate)}に開示された適時開示資料をもとに、公表された事実のみを整理したものです。
+        金額・比率・日程は開示時点のもので、その後変更される場合があります。投資判断は必ず原文をご確認ください。
+      </p>
+    </div>
+
+    <ShareButtons url={shareUrl} title={d.title} />
+
+    {related.length > 0 && (
+      <section class="block">
+        <h2>{d.industry}の最近のM&A</h2>
+        <ul class="mini-list">
+          {related.map((r) => (
+            <li>
+              <a href={`/media/ma-news/${r.slug}/`}>
+                <span class="mini-date">{fmt(r.data.pubDate)}</span>
+                <span class="mini-title">{r.data.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <section class="block">
+      <h2>新着のM&Aニュース</h2>
+      <ul class="mini-list">
+        {recent.map((r) => (
+          <li>
+            <a href={`/media/ma-news/${r.slug}/`}>
+              <span class="mini-date">{fmt(r.data.pubDate)}</span>
+              <span class="mini-title">{r.data.title}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <p class="more"><a href="/media/ma-news/">M&Aニュースの一覧を見る →</a></p>
+    </section>
+
+    <aside class="news-cta">
+      <h2>M&Aに関わる仕事に、どの立場で関わりますか</h2>
+      <p>
+        同じ「M&Aの仕事」でも、仲介・FAS・PEファンド・事業会社の経営企画では、見る景色も身につく力も違います。
+        エージェントベストでは、案件の入口から関わりたいのか、実行の精度で勝負したいのかを整理したうえで求人をご提案します。
+      </p>
+      <div class="news-cta-links">
+        <a class="cta-button" href={`https://calendly.com/r_matsuoka?utm_source=media&utm_medium=ma-news&utm_campaign=${post.slug}`} target="_blank" rel="noopener">無料キャリア面談を予約する</a>
+        <a class="cta-sub" href="https://ma.agent-best.net/" target="_blank" rel="noopener">未経験からM&Aへの転職を見る →</a>
+      </div>
+    </aside>
+  </article>
+</Layout>
+
+<style is:global>
+  .news-article { max-width: 760px; margin: 0 auto; padding: 32px 20px 64px; color: #24292f; line-height: 1.9; }
+  .news-article .breadcrumb { font-size: .85rem; color: #6b7684; margin-bottom: 14px; display: flex; gap: .4em; flex-wrap: wrap; }
+  .news-article .breadcrumb a { color: #6b7684; }
+  .news-article .meta { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin: 0 0 8px; }
+  .news-article .date { font-size: .84rem; color: #8a93a0; }
+  .news-article .tag { font-size: .72rem; color: #4b5563; background: #eef1f5; border-radius: 999px; padding: 2px 10px; }
+  .news-article h1 { font-size: 1.55rem; line-height: 1.55; margin: 4px 0 20px; }
+
+  .news-article .facts { background: #f7f9fb; border: 1px solid #e6e8eb; border-radius: 12px; padding: 14px 18px; margin-bottom: 24px; }
+  .news-article .facts dl { margin: 0; display: grid; gap: 6px; }
+  .news-article .facts div { display: grid; grid-template-columns: 84px 1fr; gap: 10px; align-items: baseline; }
+  .news-article .facts dt { font-size: .8rem; color: #6b7684; margin: 0; }
+  .news-article .facts dd { margin: 0; font-size: .92rem; font-weight: 600; }
+  .news-article .facts .code { font-weight: 400; color: #6b7684; font-size: .84rem; }
+
+  .news-article .body p { margin: 0 0 1.4em; font-size: 1rem; }
+
+  .news-article .source { margin: 32px 0; padding: 16px 18px; border-left: 3px solid #1c1c2e; background: #fafbfc; }
+  .news-article .source strong { font-size: .86rem; }
+  .news-article .source ul { margin: 6px 0 10px; padding-left: 1.2em; }
+  .news-article .source li { font-size: .86rem; line-height: 1.7; }
+  .news-article .source a { color: #1a4fd6; }
+  .news-article .source .note { font-size: .78rem; color: #6b7684; line-height: 1.75; margin: 0; }
+
+  .news-article .block { margin-top: 40px; }
+  .news-article .block h2 { font-size: 1.05rem; margin: 0 0 12px; padding-bottom: 8px; border-bottom: 1px solid #e6e8eb; }
+  .mini-list { list-style: none; margin: 0; padding: 0; }
+  .mini-list li { border-bottom: 1px dashed #e6e8eb; }
+  .mini-list a { display: flex; gap: 12px; padding: 10px 2px; text-decoration: none; color: inherit; align-items: baseline; }
+  .mini-list a:hover .mini-title { color: #1a4fd6; }
+  .mini-date { font-size: .78rem; color: #8a93a0; flex: 0 0 auto; }
+  .mini-title { font-size: .92rem; line-height: 1.6; }
+  .news-article .more { margin-top: 12px; font-size: .88rem; }
+  .news-article .more a { color: #1a4fd6; text-decoration: none; }
+</style>

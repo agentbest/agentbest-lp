@@ -1,0 +1,140 @@
+---
+// src/pages/media/ma-news/[...page].astro … M&Aニュース一覧
+//
+// 縦リスト＋ページネーション。記事本文は tools/ma-news が適時開示から自動生成している。
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+
+export async function getStaticPaths({ paginate }) {
+  const news = (await getCollection('news')).sort(
+    (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
+      || a.data.title.localeCompare(b.data.title, 'ja'));
+  return paginate(news, { pageSize: 12 });
+}
+
+const { page } = Astro.props;
+const all = await getCollection('news');
+const total = all.length;
+const latest = all.reduce((d, p) => (p.data.pubDate > d ? p.data.pubDate : d), new Date(0));
+
+const isFirst = page.currentPage === 1;
+const title = isFirst
+  ? 'M&Aニュース｜上場企業の適時開示から日次更新'
+  : `M&Aニュース（${page.currentPage}ページ目）`;
+const description = isFirst
+  ? `上場企業が開示したM&A（子会社化・事業譲渡・合併）を、適時開示をもとに毎日まとめています。対象会社の事業内容・業績・取得価額・実行日つき。現在${total}件。`
+  : `上場企業のM&A開示まとめ ${page.currentPage}ページ目。`;
+
+const fmt = (d) => `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
+
+// ページ送りは前後2ページ＋先頭・末尾だけ出す（30ページを超えても崩れないように）
+const around = (cur, last) => {
+  const s = new Set([1, last, cur, cur - 1, cur + 1, cur - 2, cur + 2]);
+  return [...s].filter((n) => n >= 1 && n <= last).sort((a, b) => a - b);
+};
+const pages = around(page.currentPage, page.lastPage);
+const href = (n) => (n === 1 ? '/media/ma-news/' : `/media/ma-news/${n}/`);
+---
+
+<Layout title={title} description={description} noindex={!isFirst && page.currentPage > 3}>
+  <Header />
+  <section class="news-index">
+    <nav class="breadcrumb" aria-label="パンくず">
+      <a href="/media/">キャリアメディア</a>
+      <span aria-hidden="true">/</span>
+      <span>M&Aニュース</span>
+    </nav>
+
+    <h1>M&Aニュース</h1>
+    <p class="lead">
+      上場企業が開示したM&A（子会社化・株式譲渡・合併・事業譲渡）を、
+      <strong>東証の適時開示（TDnet）</strong>をもとにまとめています。
+      対象会社の事業内容・直近期の業績・取得価額・実行日まで、開示に書かれている事実だけを載せています。
+    </p>
+    <p class="meta-line">
+      現在{total.toLocaleString()}件 ／ 最終更新 {fmt(latest)} ／ 出典は各記事にリンクしています
+    </p>
+
+    <ul class="news-list">
+      {page.data.map((n) => (
+        <li>
+          <a href={`/media/ma-news/${n.slug}/`}>
+            <span class="date">{fmt(n.data.pubDate)}</span>
+            <span class="tags">
+              {n.data.tags.map((t) => <span class="tag">{t}</span>)}
+            </span>
+            <span class="news-title">{n.data.title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    {page.lastPage > 1 && (
+      <nav class="pager" aria-label="ページ送り">
+        {page.url.prev && <a class="pager-edge" href={page.url.prev}>前へ</a>}
+        {pages.map((n, i) => (
+          <>
+            {i > 0 && n - pages[i - 1] > 1 && <span class="gap">…</span>}
+            {n === page.currentPage
+              ? <span class="pager-cur" aria-current="page">{n}</span>
+              : <a href={href(n)}>{n}</a>}
+          </>
+        ))}
+        {page.url.next && <a class="pager-edge" href={page.url.next}>次へ</a>}
+      </nav>
+    )}
+
+    <aside class="news-cta">
+      <h2>M&A業界への転職を考えている方へ</h2>
+      <p>
+        エージェントベストは、M&A仲介・FAS・事業会社の経営企画まで、M&Aに関わる職種の転職を支援しています。
+        「どの立場でディールに関わりたいか」から一緒に整理します。
+      </p>
+      <div class="news-cta-links">
+        <a class="cta-button" href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=ma-news&utm_campaign=index" target="_blank" rel="noopener">無料キャリア面談を予約する</a>
+        <a class="cta-sub" href="https://ma.agent-best.net/" target="_blank" rel="noopener">未経験からM&Aへの転職を見る →</a>
+      </div>
+    </aside>
+  </section>
+</Layout>
+
+<style is:global>
+  .news-index { max-width: 860px; margin: 0 auto; padding: 32px 20px 64px; color: #24292f; }
+  .news-index .breadcrumb { font-size: .85rem; color: #6b7684; margin-bottom: 12px; display: flex; gap: .4em; flex-wrap: wrap; }
+  .news-index .breadcrumb a { color: #6b7684; }
+  .news-index h1 { font-size: 1.8rem; margin: 4px 0 14px; }
+  .news-index .lead { line-height: 1.9; font-size: .95rem; color: #3b414b; }
+  .news-index .meta-line { font-size: .82rem; color: #6b7684; margin: 8px 0 28px; }
+
+  .news-list { list-style: none; padding: 0; margin: 0; border-top: 1px solid #e6e8eb; }
+  .news-list li { border-bottom: 1px solid #e6e8eb; }
+  .news-list a {
+    display: grid; grid-template-columns: 92px 1fr; grid-template-areas: "date tags" "title title";
+    gap: 6px 14px; padding: 18px 4px; text-decoration: none; color: inherit;
+  }
+  .news-list a:hover { background: #f7f9fb; }
+  .news-list .date { grid-area: date; font-size: .82rem; color: #8a93a0; letter-spacing: .02em; }
+  .news-list .tags { grid-area: tags; display: flex; gap: 6px; flex-wrap: wrap; }
+  .news-list .tag {
+    font-size: .72rem; color: #4b5563; background: #eef1f5; border-radius: 999px; padding: 2px 10px;
+  }
+  .news-list .news-title { grid-area: title; font-size: 1.02rem; line-height: 1.6; font-weight: 600; }
+  .news-list a:hover .news-title { color: #1a4fd6; }
+
+  @media (min-width: 720px) {
+    .news-list a { grid-template-columns: 92px 200px 1fr; grid-template-areas: "date tags title"; align-items: baseline; }
+    .news-list .news-title { font-size: 1rem; }
+  }
+
+  .pager { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; justify-content: center; margin: 32px 0 8px; }
+  .pager a, .pager-cur {
+    min-width: 38px; text-align: center; padding: 8px 10px; border-radius: 8px; font-size: .9rem; text-decoration: none;
+  }
+  .pager a { color: #24292f; border: 1px solid #dfe3e8; }
+  .pager a:hover { border-color: #1a4fd6; color: #1a4fd6; }
+  .pager-cur { background: #1c1c2e; color: #fff; }
+  .pager .gap { color: #8a93a0; }
+
+  /* .news-cta 系は src/styles/global.css（個別ページと共通で使う） */
+</style>
