@@ -570,11 +570,6 @@ const websiteSchema = {
       /* スマホは映像を弱め、可読性を優先 */
       .hero-scrim { background: rgba(12, 19, 29, 0.72); }
     }
-    /* 動きを減らす設定の人には静止画を出す */
-    @media (prefers-reduced-motion: reduce) {
-      .hero-video { display: none; }
-      .hero-media { background: url(/video/hero-poster.jpg) 62% center / cover no-repeat; }
-    }
 
     /* ---------- VISION ---------- */
     .vision {
