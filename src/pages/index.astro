@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 
+import FooterSites from '../components/FooterSites.astro';
 const domains = [
   { en: 'IT', jp: 'ソフトウェア・インフラ・SI' },
   { en: 'Startup', jp: 'SaaS・自社プロダクト企業' },
@@ -437,6 +438,7 @@ const websiteSchema = {
           </ul>
         </div>
       </nav>
+      <FooterSites />
     </div>
     <div class="wrap footer-base">
       <small>© {new Date().getFullYear()} Agent Best Inc.</small>

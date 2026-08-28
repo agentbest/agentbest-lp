@@ -1,0 +1,70 @@
+---
+/* 特設サイト（LP）の一覧。以前はヘッダーのドロップダウンに置いていたが、
+   フッターに集約した。LPを増やしたらここだけ直せば全ページに反映される。 */
+const specialSites = {
+  '求職者の方へ': [
+    { label: 'PM特化 転職', href: 'https://pm.agent-best.net/' },
+    { label: 'エンジニア→コンサル転職', href: 'https://eng.agent-best.net/' },
+    { label: '未経験からM&A', href: 'https://ma.agent-best.net/' },
+    { label: '未経験からコンサル', href: 'https://consul.agent-best.net/' },
+    { label: '未経験からエンジニア', href: 'https://engineer.agent-best.net/' },
+    { label: 'IoT・組込みエンジニア', href: 'https://embedded.agent-best.net/' },
+    { label: 'ファーム出身者の次のキャリア', href: 'https://consultingcareerchange50.agent-best.net/' },
+    { label: '学生キャリア支援', href: 'https://student.agent-best.net/' },
+  ],
+  '採用ご担当者の方へ': [
+    { label: 'スカウト代行', href: 'https://scout.agent-best.net/' },
+    { label: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
+    { label: 'Green運用代行', href: 'https://green.agent-best.net/' },
+    { label: '長期インターン採用（Infra）', href: 'https://infra.agent-best.net/' },
+  ],
+};
+---
+
+<nav class="footer-sites" aria-label="特設サイト">
+  <p class="footer-sites-title">特設サイト</p>
+  <div class="footer-sites-cols">
+    {Object.entries(specialSites).map(([group, items]) => (
+      <div class="fs-group">
+        <p class="fs-group-title">{group}</p>
+        <ul>
+          {items.map((it) => (
+            <li><a href={it.href} target="_blank" rel="noopener">{it.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+</nav>
+
+<style>
+  .footer-sites { grid-column: 1 / -1; }
+  .footer-sites-title {
+    font-size: 0.84rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    margin: 0 0 0.9rem;
+    color: var(--paper);
+  }
+  .footer-sites-cols {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr));
+    gap: 1.4rem 2.4rem;
+    max-width: 760px;
+  }
+  .fs-group-title {
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: var(--slate-mute);
+    margin: 0 0 0.5rem;
+  }
+  .fs-group ul { list-style: none; margin: 0; padding: 0; }
+  .fs-group li { padding: 0.24rem 0; }
+  .fs-group a {
+    font-size: 0.8rem;
+    color: color-mix(in srgb, var(--paper) 72%, transparent);
+    transition: color .2s ease;
+  }
+  .fs-group a:hover { color: var(--paper); }
+</style>

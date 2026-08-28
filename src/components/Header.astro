@@ -1,6 +1,5 @@
 ---
 const nav = [
-  { label: '求人を探す', href: 'https://jobs.agent-best.net/' },
   { label: 'メディア', href: '/media/' },
   { label: '専門領域', href: '/#domains' },
   { label: '対象となる方', href: '/#audience' },
@@ -8,24 +7,18 @@ const nav = [
   { label: '支援の流れ', href: '/#process' },
   { label: '会社概要', href: '/#company' },
 ];
-const specialSites = {
-  '求職者の方へ': [
-    { label: 'PM特化 転職', href: 'https://pm.agent-best.net/' },
-    { label: 'エンジニア→コンサル転職', href: 'https://eng.agent-best.net/' },
-    { label: '未経験からM&A', href: 'https://ma.agent-best.net/' },
-    { label: '未経験からコンサル', href: 'https://consul.agent-best.net/' },
-    { label: '未経験からエンジニア', href: 'https://engineer.agent-best.net/' },
-    { label: 'IoT・組込みエンジニア', href: 'https://embedded.agent-best.net/' },
-    { label: 'ファーム出身者の次のキャリア', href: 'https://consultingcareerchange50.agent-best.net/' },
-    { label: '学生キャリア支援', href: 'https://student.agent-best.net/' },
-  ],
-  '採用ご担当者の方へ': [
-    { label: 'スカウト代行', href: 'https://scout.agent-best.net/' },
-    { label: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
-    { label: 'Green運用代行', href: 'https://green.agent-best.net/' },
-    { label: '長期インターン採用（Infra）', href: 'https://infra.agent-best.net/' },
-  ],
-};
+/* 求職者向けの特設LPはヘッダーから外し、フッター（FooterSites.astro）に集約した。 */
+/* 新卒サイトはHTTPS証明書の発行待ちのため暫定でhttp。発行後にhttpsへ差し替える。 */
+const jobSites = [
+  { label: '中途採用の求人', note: 'キャリア採用', href: 'https://jobs.agent-best.net/' },
+  { label: '新卒・インターンの求人', note: '2027卒〜', href: 'http://shinsotsu.agent-best.net/' },
+];
+const employerSites = [
+  { label: 'スカウト代行', href: 'https://scout.agent-best.net/' },
+  { label: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
+  { label: 'Green運用代行', href: 'https://green.agent-best.net/' },
+  { label: '長期インターン採用（Infra）', href: 'https://infra.agent-best.net/' },
+];
 ---
 <header class="site-header">
   <div class="wrap header-inner">
@@ -34,21 +27,32 @@ const specialSites = {
       <span class="brand-name">AGENT&nbsp;BEST</span>
     </a>
     <nav class="nav" aria-label="メインナビゲーション">
-      {nav.map((item) => <a href={item.href}>{item.label}</a>)}
       <div class="nav-dd">
-        <button type="button" class="nav-dd-trigger" aria-haspopup="true">特設サイト<span class="dd-caret" aria-hidden="true">▾</span></button>
-        <div class="nav-dd-menu">
-          {Object.entries(specialSites).map(([group, items]) => (
-            <div class="dd-group">
-              <p class="dd-group-title">{group}</p>
-              {items.map((it) => <a class="dd-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>)}
-            </div>
-          ))}
+        <button type="button" class="nav-dd-trigger" aria-haspopup="true">求人を探す<span class="dd-caret" aria-hidden="true">▾</span></button>
+        <div class="nav-dd-menu nav-dd-menu-left">
+          <div class="dd-group">
+            {jobSites.map((it) => (
+              <a class="dd-link dd-link-2line" href={it.href} target="_blank" rel="noopener">
+                <span class="dd-link-label">{it.label}</span>
+                <span class="dd-link-note">{it.note}</span>
+              </a>
+            ))}
+          </div>
         </div>
       </div>
+      {nav.map((item) => <a href={item.href}>{item.label}</a>)}
     </nav>
     <div class="header-actions">
-      <a href="/contact/" class="header-sub-link">採用ご担当者さまはこちら</a>
+      <div class="nav-dd sub-dd">
+        <a href="/contact/" class="header-sub-link nav-dd-trigger" aria-haspopup="true">採用ご担当者さまはこちら<span class="dd-caret" aria-hidden="true">▾</span></a>
+        <div class="nav-dd-menu">
+          <div class="dd-group">
+            <p class="dd-group-title">採用支援サービス</p>
+            {employerSites.map((it) => <a class="dd-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>)}
+            <a class="dd-link dd-link-contact" href="/contact/">採用のご相談・お問い合わせ →</a>
+          </div>
+        </div>
+      </div>
       <a href="/consultation/" class="btn header-cta">
         ご相談はこちら
         <span class="arrow" aria-hidden="true">→</span>
@@ -71,15 +75,15 @@ const specialSites = {
       <nav class="mnav" aria-label="モバイルメニュー">
         {nav.map((item) => <a class="mnav-link" href={item.href}>{item.label}</a>)}
       </nav>
-      <p class="mnav-heading">特設サイト</p>
-      {Object.entries(specialSites).map(([group, items]) => (
-        <details class="mgroup">
-          <summary>{group}<span class="mgroup-caret" aria-hidden="true">▾</span></summary>
-          <div class="mgroup-body">
-            {items.map((it) => <a class="mgroup-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>)}
-          </div>
-        </details>
+      <p class="mnav-heading">求人を探す</p>
+      {jobSites.map((it) => (
+        <a class="mgroup-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>
       ))}
+      <p class="mnav-heading">採用ご担当者の方へ</p>
+      {employerSites.map((it) => (
+        <a class="mgroup-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>
+      ))}
+      <a class="mgroup-link" href="/contact/">採用のご相談・お問い合わせ</a>
       <div class="mobile-cta">
         <a href="/consultation/" class="btn mobile-cta-main">
           ご相談はこちら
@@ -103,6 +107,8 @@ const specialSites = {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    /* ナビと右側のリンクが詰まって見えないよう最低限の間隔を確保する */
+    gap: 18px;
     height: 72px;
   }
   .brand {
@@ -230,6 +236,27 @@ const specialSites = {
     background: color-mix(in srgb, var(--teal) 10%, transparent);
     color: var(--ink);
   }
+  /* 左端のメニューは左揃え（右揃えだと画面外にはみ出す） */
+  .nav-dd-menu-left { left: 0; right: auto; }
+  .dd-link-2line { display: flex; flex-direction: column; gap: 2px; padding-block: 9px; }
+  .dd-link-note {
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    color: var(--slate-mute);
+  }
+  .dd-link-contact {
+    margin-top: 6px;
+    padding-top: 12px;
+    border-top: 1px solid var(--hairline);
+    border-radius: 0;
+    color: var(--teal);
+    font-weight: 600;
+  }
+  .dd-link-contact:hover { background: none; color: var(--teal); }
+
+  /* 「採用ご担当者さまはこちら」のドロップダウン */
+  .sub-dd { display: inline-flex; }
+  .sub-dd .nav-dd-menu { min-width: 236px; }
 
   .header-actions {
     display: flex;
@@ -340,27 +367,6 @@ const specialSites = {
       letter-spacing: 0.16em;
       color: var(--slate-mute);
     }
-    .mgroup { border-bottom: 1px solid var(--hairline); }
-    .mgroup summary {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      padding: 14px 2px;
-      font-size: 0.94rem;
-      font-weight: 500;
-      color: var(--ink);
-      cursor: pointer;
-      list-style: none;
-    }
-    .mgroup summary::-webkit-details-marker { display: none; }
-    .mgroup-caret {
-      font-size: 0.8em;
-      color: var(--slate-mute);
-      transition: transform .2s ease;
-    }
-    .mgroup[open] .mgroup-caret { transform: rotate(180deg); }
-    .mgroup-body { padding: 0 0 10px; }
     .mgroup-link {
       display: block;
       padding: 11px 14px;
@@ -391,7 +397,7 @@ const specialSites = {
   }
 
   @media (max-width: 600px) {
-    .header-sub-link { display: none; }
+    .sub-dd { display: none; }
   }
   @media (max-width: 520px) {
     .header-cta .arrow { display: none; }
