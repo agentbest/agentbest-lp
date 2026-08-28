@@ -377,14 +377,19 @@ const websiteSchema = {
           <span class="eyebrow">Company</span>
           <h2>会社概要</h2>
         </header>
-        <dl class="company-table reveal" data-delay="1">
-          {company.map((row) => (
-            <div class="company-row">
-              <dt>{row.k}</dt>
-              <dd>{row.v}</dd>
-            </div>
-          ))}
-        </dl>
+        <div class="reveal" data-delay="1">
+          <dl class="company-table">
+            {company.map((row) => (
+              <div class="company-row">
+                <dt>{row.k}</dt>
+                <dd>{row.v}</dd>
+              </div>
+            ))}
+          </dl>
+          <a href="/company/" class="company-more">
+            ミッション・行動指針・代表メッセージ <span class="arrow" aria-hidden="true">→</span>
+          </a>
+        </div>
       </div>
     </section>
 
@@ -787,6 +792,10 @@ const websiteSchema = {
     .company-row:last-child { border-bottom: 1px solid var(--hairline); }
     .company-row dt { font-size: 0.84rem; font-weight: 700; color: var(--slate); letter-spacing: 0.04em; }
     .company-row dd { margin: 0; color: var(--ink); font-size: 0.95rem; }
+    .company-more { display: inline-block; margin-top: 1.4rem; font-size: 0.88rem; color: var(--teal); }
+    .company-more:hover { text-decoration: underline; text-underline-offset: 3px; }
+    .company-more .arrow { display: inline-block; transition: transform .25s ease; }
+    .company-more:hover .arrow { transform: translateX(4px); }
 
     /* ---------- FOOTER ---------- */
     .media-banner { padding-block: 0 clamp(48px, 7vw, 80px); }

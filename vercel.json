@@ -11,7 +11,6 @@
     { "source": "/staruptenshokukenkyujyo/:path+/", "destination": "/media/", "permanent": true },
     { "source": "/service/", "destination": "/", "permanent": true },
     { "source": "/service-1/", "destination": "/", "permanent": true },
-    { "source": "/company/", "destination": "/", "permanent": true },
     { "source": "/choukiintern-1/", "destination": "https://infra.agent-best.net/", "permanent": true },
     { "source": "/choukiintern-1/:path+/", "destination": "https://infra.agent-best.net/", "permanent": true },
 
