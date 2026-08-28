@@ -11,22 +11,6 @@ const domains = [
   { en: 'Consulting', jp: '戦略・IT・業務コンサル' },
 ];
 
-const companies = [
-  'SaaS・自社プロダクト企業',
-  'スタートアップ／メガベンチャー',
-  'コンサルティングファーム',
-  'SIer・ITサービス',
-  'M&A・アドバイザリー',
-];
-
-const positions = [
-  'プロダクトマネージャー（PdM／PM）',
-  'ソフトウェアエンジニア',
-  'インフラ／SRE／プラットフォーム',
-  'ITコンサルタント',
-  '事業開発／セールス（SaaS）',
-];
-
 const strengths = [
   {
     no: '01',
@@ -210,31 +194,6 @@ const websiteSchema = {
             </li>
           ))}
         </ul>
-      </div>
-    </section>
-
-    <!-- ============ COVERAGE 取扱領域 ============ -->
-    <section class="section coverage">
-      <div class="wrap coverage-grid">
-        <header class="sec-head reveal">
-          <span class="eyebrow">Coverage</span>
-          <h2>取扱領域</h2>
-          <p class="sec-desc">専門領域のなかで、こうした企業・ポジションをお取り扱いしています。</p>
-        </header>
-        <div class="coverage-cols reveal" data-delay="1">
-          <div class="coverage-col">
-            <h3 class="coverage-h">対象企業</h3>
-            <ul class="coverage-list">
-              {companies.map((c) => (<li>{c}</li>))}
-            </ul>
-          </div>
-          <div class="coverage-col">
-            <h3 class="coverage-h">取扱ポジション</h3>
-            <ul class="coverage-list">
-              {positions.map((p) => (<li>{p}</li>))}
-            </ul>
-          </div>
-        </div>
       </div>
     </section>
 
@@ -655,24 +614,6 @@ const websiteSchema = {
       font-size: clamp(1.5rem, 3vw, 2rem); margin-top: 1.4rem; letter-spacing: 0.03em;
     }
     .domain-jp { display: block; margin-top: 0.7rem; color: var(--slate); font-size: 0.88rem; }
-
-    /* ---------- COVERAGE ---------- */
-    .coverage { background: var(--paper-deep); }
-    .coverage-cols { display: grid; gap: clamp(36px, 5vw, 72px); }
-    @media (min-width: 760px) { .coverage-cols { grid-template-columns: 1fr 1fr; } }
-    .coverage-h {
-      font-family: var(--font-display); font-size: 1.15rem; letter-spacing: 0.06em;
-      padding-bottom: 1rem; border-bottom: 1px solid var(--hairline);
-    }
-    .coverage-list { list-style: none; margin: 1.2rem 0 0; padding: 0; }
-    .coverage-list li {
-      position: relative; padding: 0.8rem 0 0.8rem 1.5em; color: var(--slate);
-      border-bottom: 1px solid var(--hairline);
-    }
-    .coverage-list li::before {
-      content: ""; position: absolute; left: 0; top: 1.35rem; width: 7px; height: 7px;
-      border: 1.5px solid var(--teal); transform: rotate(45deg);
-    }
 
     /* ---------- HIDDEN GEMS ---------- */
     .gems { border-bottom: 1px solid var(--hairline); }
