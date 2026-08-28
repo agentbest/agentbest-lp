@@ -25,6 +25,7 @@ export const HUB_LABEL: Record<string, string> = {
   'qa-engineer': 'QAエンジニア',
   'tech-lead': 'テックリード',
   'db-engineer': 'データベースエンジニア',
+  'forward-deployed-engineer': 'フォワードデプロイドエンジニア（FDE）',
   // インフラ・SRE・セキュリティ
   'infra-engineer': 'インフラエンジニア',
   'cloud-engineer': 'クラウドエンジニア',
@@ -98,6 +99,7 @@ export const HUB_LABEL: Record<string, string> = {
   'business-planning': '事業企画',
   bizdev: '事業開発（BizDev）',
   cxo: 'CxO候補・経営幹部',
+  'revenue-officer': 'CRO（最高収益責任者）',
   // 人事・法務・管理
   hrbp: '人事（HRBP）',
   recruiter: '採用担当（リクルーター）',
@@ -163,7 +165,8 @@ export const JOB_GROUPS: Group[] = [
     key: 'engineer',
     name: 'エンジニア（開発）',
     hubs: ['backend-engineer', 'frontend-engineer', 'fullstack-engineer', 'mobile-engineer',
-      'game-engineer', 'embedded-engineer', 'bridge-se', 'qa-engineer', 'tech-lead', 'db-engineer'],
+      'game-engineer', 'embedded-engineer', 'bridge-se', 'qa-engineer', 'tech-lead', 'db-engineer',
+      'forward-deployed-engineer'],
   },
   {
     key: 'infra',
@@ -213,7 +216,7 @@ export const JOB_GROUPS: Group[] = [
   {
     key: 'planning',
     name: '経営・事業企画',
-    hubs: ['corporate-planning', 'business-planning', 'bizdev', 'cxo'],
+    hubs: ['corporate-planning', 'business-planning', 'bizdev', 'cxo', 'revenue-officer'],
   },
   {
     key: 'corporate',
