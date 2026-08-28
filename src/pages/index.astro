@@ -148,25 +148,27 @@ const websiteSchema = {
       </div>
     </section>
 
-    <!-- ============ VISION（縦書きシグネチャー） ============ -->
-    <section class="vision" aria-labelledby="vision-h">
-      <div class="wrap vision-grid">
-        <div class="vision-side" aria-hidden="true">
-          <span class="vision-vlabel vertical">VISION</span>
+    <!-- ============ MISSION（縦書きシグネチャー） ============ -->
+    <section class="mission" aria-labelledby="mission-h">
+      <div class="wrap mission-grid">
+        <div class="mission-side" aria-hidden="true">
+          <span class="mission-vlabel vertical">MISSION</span>
         </div>
-        <div class="vision-body reveal">
-          <h2 id="vision-h" class="vision-text">
-            才能が、いちばん伸びる場所に<br />
-            流れていく状態をつくる。
+        <div class="mission-body reveal">
+          <h2 id="mission-h" class="mission-text">
+            日本に、<br />磁力を作る。
           </h2>
-          <p class="vision-lead">
-            日本の労働市場では、優秀な人ほど動かない、という状況が長く続いてきました。
-            情報が届かない。判断の材料がない。そうして、力を発揮できる場所と本人との距離が、縮まらないままになる。
+          <p class="mission-lead">
+            人も、資本も、事業も、引きつける力のあるところに集まります。
+            逆に、磁力を失った場所からは、静かに人が離れていきます。
           </p>
-          <p class="vision-lead">
-            私たちは、領域を絞り込み、企業の中身を深く理解し続けることで、その距離を縮めます。
-            人が最も力を発揮できる場所へ移ることが当たり前になったとき、
-            企業の成長速度は上がり、その集積が国の磁力になります。
+          <p class="mission-lead">
+            私たちがやっているのは、人材紹介という一見地味な仕事です。
+            けれど、伸びる企業に必要な人が集まる。その一本の線を確かに引き続けることは、
+            日本という国が人を惹きつけ直すための、最も具体的な手段だと考えています。
+          </p>
+          <p class="mission-sign">
+            一社ずつ、一人ずつ。磁力は、その積み重ねでしか生まれない。
           </p>
         </div>
       </div>
@@ -527,42 +529,42 @@ const websiteSchema = {
       .hero-scrim { background: rgba(12, 19, 29, 0.72); }
     }
 
-    /* ---------- VISION ---------- */
-    .vision {
+    /* ---------- MISSION ---------- */
+    .mission {
       background: var(--ink);
       color: var(--paper);
       padding-block: clamp(84px, 13vw, 168px);
     }
-    .vision-grid {
+    .mission-grid {
       display: grid;
       grid-template-columns: auto 1fr;
       gap: clamp(28px, 6vw, 80px);
       align-items: start;
     }
-    .vision-side { display: flex; justify-content: center; padding-top: 0.4rem; }
-    .vision-vlabel {
+    .mission-side { display: flex; justify-content: center; padding-top: 0.4rem; }
+    .mission-vlabel {
       font-family: var(--font-display);
       font-weight: 500;
       font-size: clamp(1rem, 2vw, 1.3rem);
       letter-spacing: 0.5em;
       color: #B7D9CF;
     }
-    .vision-text {
+    .mission-text {
       font-family: var(--font-display);
       font-weight: 500;
       font-size: clamp(1.7rem, 4.6vw, 3.2rem);
       line-height: 1.7;
       letter-spacing: 0.04em;
     }
-    .vision-lead {
+    .mission-lead {
       color: #C7CCD4;
       margin-top: clamp(1.6rem, 3vw, 2.4rem);
       max-width: 38em;
       line-height: 2.1;
       font-weight: 300;
     }
-    .vision-lead + .vision-lead { margin-top: 1.1rem; }
-    .vision-sign {
+    .mission-lead + .mission-lead { margin-top: 1.1rem; }
+    .mission-sign {
       font-family: var(--font-display);
       color: #B7D9CF;
       margin-top: clamp(2rem, 4vw, 3rem);
