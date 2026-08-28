@@ -387,20 +387,7 @@ const websiteSchema = {
       </p>
       <nav class="footer-links" aria-label="キャリアメディア">
         <p class="footer-links-title"><a href="/media/">キャリアメディア</a></p>
-        <div class="footer-links-cols">
-          <ul>
-            <li><a href="/media/hub/it-consultant/">ITコンサルの転職</a></li>
-            <li><a href="/media/hub/saas-sales/">SaaS営業の転職</a></li>
-            <li><a href="/media/hub/product-manager/">PdMの転職</a></li>
-            <li><a href="/media/hub/backend-engineer/">エンジニアの転職</a></li>
-          </ul>
-          <ul>
-            <li><a href="/media/hub/ai-industry/">生成AI業界研究</a></li>
-            <li><a href="/media/hub/ma-industry/">M&A仲介業界研究</a></li>
-            <li><a href="/media/hub/saas-industry/">SaaS業界研究</a></li>
-            <li><a href="/media/">すべての記事</a></li>
-          </ul>
-        </div>
+        <p class="footer-links-desc">職種・業界・企業ごとの転職情報をまとめています。</p>
       </nav>
       <FooterSites />
     </div>
@@ -759,11 +746,8 @@ const websiteSchema = {
     .footer-links { grid-column: 1 / -1; }
     .footer-links-title { font-size: 0.84rem; font-weight: 700; letter-spacing: 0.04em; margin: 0 0 0.6rem; }
     .footer-links-title a { color: var(--paper); }
-    .footer-links-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(180px, 100%), 1fr)); gap: 0.4rem 2rem; max-width: 480px; }
-    .footer-links-cols ul { list-style: none; margin: 0; padding: 0; }
-    .footer-links-cols li { padding: 0.24rem 0; }
-    .footer-links-cols a { font-size: 0.8rem; color: color-mix(in srgb, var(--paper) 72%, transparent); transition: color .2s ease; }
-    .footer-links-cols a:hover { color: var(--paper); }
+    .footer-links-title a:hover { color: #B7D9CF; }
+    .footer-links-desc { font-size: 0.8rem; margin: 0; max-width: 480px; color: color-mix(in srgb, var(--paper) 72%, transparent); }
     .footer-brand .brand-mark { width: 14px; height: 14px; border: 1.5px solid #B7D9CF; position: relative; }
     .footer-brand .brand-mark::after { content: ""; position: absolute; inset: 3px; background: #B7D9CF; }
     .footer-name { font-family: var(--font-display); font-weight: 700; letter-spacing: 0.16em; font-size: 1.1rem; margin-top: 0.4rem; }
