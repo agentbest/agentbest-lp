@@ -8,7 +8,7 @@ import Layout from '../../../../layouts/Layout.astro';
 import Header from '../../../../components/Header.astro';
 import MediaSearchBox from '../../../../components/MediaSearchBox.astro';
 import ShareButtons from '../../../../components/ShareButtons.astro';
-import { hubLabel, groupOf, CATEGORY_LABEL, KANA_ROWS, companyRow, companySortKey } from '../../../../lib/mediaTaxonomy';
+import { hubLabel, groupOf, CATEGORY_LABEL, KANA_ROWS, companyRow, companySortKey, HUB_SITE } from '../../../../lib/mediaTaxonomy';
 
 export async function getStaticPaths({ paginate }) {
   const posts = await getCollection('media');
@@ -48,6 +48,8 @@ const name = hubLabel(hub);
 const group = groupOf(hub);
 const isCompany = category === '企業';
 const catLabel = CATEGORY_LABEL[category] ?? category;
+// このハブに対応する特設サイトがあれば、記事一覧の手前に導線を1本出す
+const site = HUB_SITE[hub];
 
 // 企業一覧は50音の行ごとに小見出しを立てる（そのページに現れた行だけ）
 const rows = [];
@@ -90,6 +92,13 @@ const description = isCompany
         ? `${name}に分類される${total}社の評判・年収・働き方・選考対策をまとめています。数字は有価証券報告書などの一次情報をもとにしています。`
         : `${name}に関する転職・キャリア記事${total}本の一覧です。検討フェーズに応じてご活用ください。`}
     </p>
+
+    {site && (
+      <p class="hub-site">
+        <span class="hub-site-label">特設サイト</span>
+        <a href={site.href} target="_blank" rel="noopener">{site.label} ↗</a>
+      </p>
+    )}
 
     <MediaSearchBox placeholder={isCompany ? '企業名で検索' : '記事を検索'} />
 
@@ -161,6 +170,12 @@ const description = isCompany
   .hub h2 { font-size: 1.25rem; margin: 2.2em 0 .8em; padding: .35em .8em; border-left: 5px solid #1c1c2e; background: #f6f8fa; border-radius: 4px; display: flex; justify-content: space-between; align-items: baseline; gap: .6em; }
   .page-of { font-size: .78rem; color: #6b7684; font-weight: 400; }
   .hub-lead { color: #454e59; }
+
+  .hub-site { display: flex; flex-wrap: wrap; align-items: center; gap: .7em; margin: 1.2em 0 0;
+    padding: .8em 1em; border: 1px solid #d8dde3; border-left: 4px solid #1c1c2e; border-radius: 8px;
+    background: #fafbfc; font-size: .92rem; }
+  .hub-site-label { font-size: .72rem; font-weight: 700; letter-spacing: .08em; color: #6b7684; }
+  .hub-site a { color: #1c1c2e; font-weight: 700; }
 
   .kana-block { margin-top: 1.6em; }
   .kana { font-size: .9rem; margin: 0 0 .2em; padding: .2em .7em; display: inline-block;

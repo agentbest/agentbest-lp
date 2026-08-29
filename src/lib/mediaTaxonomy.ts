@@ -157,6 +157,18 @@ export const HUB_LABEL: Record<string, string> = {
   startup: 'スタートアップ・IT',
 };
 
+/**
+ * ハブslug → 対応する特設サイト（LP）。
+ * 該当するハブのページに「特設サイトを見る」の導線が1本出ます。無いハブは何も出ません。
+ * ハブと同じテーマのLPを公開したら、ここに1行足してください（LP側からハブへのリンクも忘れずに）。
+ */
+export const HUB_SITE: Record<string, { label: string; href: string }> = {
+  'forward-deployed-engineer': {
+    label: 'FDE（フォワードデプロイドエンジニア）への転職',
+    href: 'https://fde.agent-best.net/',
+  },
+};
+
 export type Group = { key: string; name: string; note?: string; hubs: string[] };
 
 /** 職種の大分類 */
