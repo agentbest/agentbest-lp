@@ -66,5 +66,18 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
   </head>
   <body>
     <slot />
+    <!-- LINE友だち追加のクリックをGA4に送る。LINE側では流入元が分からないので、
+         どのページのボタンから登録されたかはこのイベントでしか追えない。 -->
+    <script is:inline>
+      document.addEventListener('click', function (e) {
+        var a = e.target && e.target.closest && e.target.closest('[data-line-cta]');
+        if (a && typeof window.gtag === 'function') {
+          window.gtag('event', 'line_add_friend', {
+            placement: a.getAttribute('data-line-cta'),
+            page_path: location.pathname,
+          });
+        }
+      });
+    </script>
   </body>
 </html>

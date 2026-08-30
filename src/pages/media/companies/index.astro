@@ -7,6 +7,7 @@ import Layout from '../../../layouts/Layout.astro';
 import Header from '../../../components/Header.astro';
 import MediaSearchBox from '../../../components/MediaSearchBox.astro';
 import ShareButtons from '../../../components/ShareButtons.astro';
+import LineCta from '../../../components/LineCta.astro';
 import { KANA_ROWS, COMPANY_HUBS, companyRow, companySortKey } from '../../../lib/mediaTaxonomy';
 
 const posts = await getCollection('media');
@@ -76,7 +77,11 @@ const description = `評判・年収・働き方・選考対策の記事を掲�
     <aside class="cta">
       <h2>気になる企業の選考対策を相談する</h2>
       <p>掲載企業への転職をお考えなら、選考の進め方や年収交渉まで含めてご相談いただけます。</p>
-      <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=companies" target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
+      <div class="cta-actions">
+        <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=companies" target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
+        <LineCta placement="media-companies" variant="button" label="LINEで相談する" />
+      </div>
+      <p class="cta-sub">面談の前に、まずLINEで質問だけでも大丈夫です。</p>
     </aside>
   </section>
 </Layout>
@@ -114,7 +119,11 @@ const description = `評判・年収・働き方・選考対策の記事を掲�
   .cta { margin-top: 3rem; padding: 2rem 1.5rem; border-radius: 12px; background: #1c1c2e; color: #fff; text-align: center; }
   .cta h2 { background: none; border: none; color: #fff; padding: 0; margin: 0 0 .6em; display: block; }
   .cta p { color: #d5d9e0; }
-  .cta-button { display: inline-block; margin-top: 1rem; padding: .8rem 2.4rem; background: #fff; color: #1c1c2e; border-radius: 8px; text-decoration: none; font-weight: 700; }
+  /* 面談予約（重）とLINE（軽）を並べる。迷った人が軽い方に流れる想定。 */
+  .cta-actions { display: flex; flex-wrap: wrap; gap: .8rem; justify-content: center; align-items: center; margin-top: 1rem; }
+  .cta-sub { margin: .9rem 0 0; font-size: .8rem; color: #a9b1bd; }
+  @media (max-width: 480px) { .cta-actions { flex-direction: column; align-items: stretch; } .cta-actions .cta-button { text-align: center; } }
+  .cta-button { display: inline-block; padding: .8rem 2.4rem; background: #fff; color: #1c1c2e; border-radius: 8px; text-decoration: none; font-weight: 700; }
 
   @media (max-width: 600px) { .co-grid { grid-template-columns: 1fr 1fr; } .co-grid a { font-size: .82rem; padding: .5em .6em; } }
 </style>

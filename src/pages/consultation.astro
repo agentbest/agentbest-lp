@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
+import LineCta from '../components/LineCta.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 
 import FooterSites from '../components/FooterSites.astro';
@@ -152,6 +153,15 @@ const steps = [
           <a href={CALENDLY_URL} target="_blank" rel="noopener" class="btn btn--ghost">
             面談の日程を調整する <span class="arrow" aria-hidden="true">→</span>
           </a>
+        </div>
+
+        <div class="alt-cta">
+          <p class="alt-cta-title">まずは軽く聞いてみたい方へ</p>
+          <p class="alt-cta-body">
+            フォームも面談もまだ早い、という段階なら、LINEでの質問だけでも構いません。
+            トークでそのままやり取りできます。
+          </p>
+          <LineCta placement="consultation-alt" variant="button" label="LINEで相談する" />
         </div>
 
         <p class="alt-note">

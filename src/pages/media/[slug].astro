@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import AuthorBlock from '../../components/AuthorBlock.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
+import LineCta from '../../components/LineCta.astro';
 import Header from '../../components/Header.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
 import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
@@ -175,7 +176,11 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
     <aside class="cta">
       <h2>キャリアの選択肢を、プロと整理しませんか</h2>
       <p>エージェントベストは、IT・スタートアップ・コンサル領域に特化した転職エージェントです。20〜30代のキャリア設計を、求人紹介の前段階からサポートします。</p>
-      <a href={`https://calendly.com/r_matsuoka?utm_source=media&utm_medium=article&utm_campaign=${post.slug}`} target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
+      <div class="cta-actions">
+        <a href={`https://calendly.com/r_matsuoka?utm_source=media&utm_medium=article&utm_campaign=${post.slug}`} target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
+        <LineCta placement={`media-article:${post.slug}`} variant="button" label="LINEで相談する" />
+      </div>
+      <p class="cta-sub">面談の前に、まずLINEで質問だけでも大丈夫です。</p>
     </aside>
   </article>
 </Layout>
@@ -292,9 +297,21 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
   }
   .media-article .cta p { color: #d5d9e0; font-size: .95rem; }
   .media-article .cta-button {
-    display: inline-block; margin-top: 1rem; padding: .8rem 2.4rem;
+    display: inline-block; padding: .8rem 2.4rem;
     background: #fff; color: #1c1c2e; border-radius: 8px;
     text-decoration: none; font-weight: 700;
+  }
+  /* 面談予約（重）とLINE（軽）を並べる。迷った人が軽い方に流れる想定。 */
+  .media-article .cta-actions {
+    display: flex; flex-wrap: wrap; gap: .8rem;
+    justify-content: center; align-items: center; margin-top: 1rem;
+  }
+  .media-article .cta-sub {
+    margin: .9rem 0 0; font-size: .8rem; color: #a9b1bd;
+  }
+  @media (max-width: 480px) {
+    .media-article .cta-actions { flex-direction: column; align-items: stretch; }
+    .media-article .cta-button { text-align: center; }
   }
   /* エージェントベストの見解（markdown本文に <div class="ab-insight"> で記述） */
   .media-article .ab-insight {

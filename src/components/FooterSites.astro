@@ -1,6 +1,8 @@
 ---
 /* 特設サイト（LP）の一覧。以前はヘッダーのドロップダウンに置いていたが、
    フッターに集約した。LPを増やしたらここだけ直せば全ページに反映される。 */
+import LineCta from './LineCta.astro';
+
 const specialSites = {
   '求職者の方へ': [
     { label: 'PM特化 転職', href: 'https://pm.agent-best.net/' },
@@ -38,8 +40,17 @@ const specialSites = {
   </div>
 </nav>
 
+<div class="footer-line">
+  <LineCta
+    placement="corporate-footer"
+    label="LINEで相談する"
+    note="求人紹介・キャリア相談・選考対策まで、トークでそのままやり取りできます。"
+  />
+</div>
+
 <style>
   .footer-sites { grid-column: 1 / -1; }
+  .footer-line { grid-column: 1 / -1; }
   .footer-sites-title {
     font-size: 0.84rem;
     font-weight: 700;

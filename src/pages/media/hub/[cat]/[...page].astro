@@ -8,6 +8,7 @@ import Layout from '../../../../layouts/Layout.astro';
 import Header from '../../../../components/Header.astro';
 import MediaSearchBox from '../../../../components/MediaSearchBox.astro';
 import ShareButtons from '../../../../components/ShareButtons.astro';
+import LineCta from '../../../../components/LineCta.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, KANA_ROWS, companyRow, companySortKey, HUB_SITE } from '../../../../lib/mediaTaxonomy';
 
 export async function getStaticPaths({ paginate }) {
@@ -157,7 +158,11 @@ const description = isCompany
     <aside class="cta">
       <h2>{name}のキャリアを相談する</h2>
       <p>エージェントベストは、IT・スタートアップ・コンサル領域に特化した転職エージェントです。20〜30代のキャリア設計を、求人紹介の前段階からサポートします。</p>
-      <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=hub" target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
+      <div class="cta-actions">
+        <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=hub" target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
+        <LineCta placement="media-hub" variant="button" label="LINEで相談する" />
+      </div>
+      <p class="cta-sub">面談の前に、まずLINEで質問だけでも大丈夫です。</p>
     </aside>
   </section>
 </Layout>
@@ -203,7 +208,11 @@ const description = isCompany
   .cta { margin-top: 3rem; padding: 2rem 1.5rem; border-radius: 12px; background: #1c1c2e; color: #fff; text-align: center; }
   .cta h2 { background: none; border: none; color: #fff; padding: 0; margin: 0 0 .6em; display: block; }
   .cta p { color: #d5d9e0; }
-  .cta-button { display: inline-block; margin-top: 1rem; padding: .8rem 2.4rem; background: #fff; color: #1c1c2e; border-radius: 8px; text-decoration: none; font-weight: 700; }
+  /* 面談予約（重）とLINE（軽）を並べる。迷った人が軽い方に流れる想定。 */
+  .cta-actions { display: flex; flex-wrap: wrap; gap: .8rem; justify-content: center; align-items: center; margin-top: 1rem; }
+  .cta-sub { margin: .9rem 0 0; font-size: .8rem; color: #a9b1bd; }
+  @media (max-width: 480px) { .cta-actions { flex-direction: column; align-items: stretch; } .cta-actions .cta-button { text-align: center; } }
+  .cta-button { display: inline-block; padding: .8rem 2.4rem; background: #fff; color: #1c1c2e; border-radius: 8px; text-decoration: none; font-weight: 700; }
 
   @media (max-width: 600px) {
     .art-list a { grid-template-columns: 116px minmax(0, 1fr); gap: .75em; }
