@@ -36,10 +36,38 @@ const strengths = [
 
 /* === 転職支援事例：以下はサンプルです。実際の匿名化事例に差し替えてください === */
 const cases = [
-  { age: '20代後半', from: '大手SIer', to: 'SaaSスタートアップ', role: 'エンジニア → テックリード', salary: '750万', up: '＋150万' },
-  { age: '30代前半', from: '事業会社（企画）', to: 'SaaS企業', role: '企画 → プロダクトマネージャー', salary: '800万', up: '＋200万' },
-  { age: '30代前半', from: 'コンサルファーム', to: 'M&Aアドバイザリー', role: 'アナリスト → アソシエイト', salary: '900万', up: '＋250万' },
-  { age: '20代後半', from: '受託開発', to: '自社プロダクト企業', role: 'エンジニア → エンジニア', salary: '600万', up: '＋120万' },
+  {
+    age: '20代前半',
+    from: '大手メーカー（営業）',
+    to: 'M&Aアドバイザリー',
+    role: '第二新卒 → アソシエイト',
+    point: '若いうちに勝負する',
+    body: '年次で役割が決まる環境から、案件の成果がそのまま評価になる場所へ。第二新卒での挑戦を選びました。',
+  },
+  {
+    age: '30代前半',
+    from: '大手SIer（PM）',
+    to: 'SaaSスタートアップ',
+    role: 'PM → プロダクトマネージャー',
+    point: '決める側に回る',
+    body: '決まった要件を守り切るPMから、何を作るかを決めるPMへ。裁量の大きさを軸に意思決定しました。',
+  },
+  {
+    age: '30代前半',
+    from: '大手事業会社（企画）',
+    to: 'M&A仲介',
+    role: '企画 → コンサルタント',
+    point: '個人の力を試す',
+    body: '会社の看板で動く仕事から、自分の名前で案件を任される仕事へ。個人の実力がどこまで通用するかを確かめる転職です。',
+  },
+  {
+    age: '20代後半',
+    from: '受託開発',
+    to: '自社プロダクト企業',
+    role: 'エンジニア → エンジニア',
+    point: '働き方を変える',
+    body: '年収は横ばい。納期に追われる開発から、同じプロダクトを長く育てられる環境へ。条件ではなく働き方を変えました。',
+  },
 ];
 
 const process = [
@@ -296,7 +324,7 @@ const websiteSchema = {
         <header class="sec-head sec-head--center reveal">
           <span class="eyebrow">Cases</span>
           <h2>転職支援事例</h2>
-          <p class="sec-desc">領域を絞った提案が、確かな意思決定につながった例です。</p>
+          <p class="sec-desc">年収の上げ幅だけでなく、役割や働き方そのものを変えた例です。</p>
         </header>
         <ul class="case-grid">
           {cases.map((c) => (
@@ -308,9 +336,9 @@ const websiteSchema = {
                 <span class="case-to">{c.to}</span>
               </div>
               <p class="case-role">{c.role}</p>
-              <div class="case-salary">
-                <span class="case-sal-num">{c.salary}</span>
-                <span class="case-sal-up">{c.up}</span>
+              <div class="case-point">
+                <span class="case-point-label">{c.point}</span>
+                <p class="case-point-body">{c.body}</p>
               </div>
             </li>
           ))}
@@ -709,9 +737,9 @@ const websiteSchema = {
     .case-to { color: var(--ink); }
     .case-from { color: var(--slate); }
     .case-role { color: var(--slate); font-size: 0.86rem; }
-    .case-salary { display: flex; align-items: baseline; gap: 0.8em; margin-top: auto; padding-top: 0.8rem; border-top: 1px solid var(--hairline); }
-    .case-sal-num { font-family: var(--font-display); font-weight: 700; font-size: 1.5rem; }
-    .case-sal-up { color: var(--teal); font-weight: 700; font-size: 0.95rem; letter-spacing: 0.04em; }
+    .case-point { display: flex; flex-direction: column; gap: 0.45rem; margin-top: auto; padding-top: 0.9rem; border-top: 1px solid var(--hairline); }
+    .case-point-label { font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; letter-spacing: 0.02em; color: var(--teal); }
+    .case-point-body { margin: 0; color: var(--slate); font-size: 0.86rem; line-height: 1.85; }
     .case-note { margin-top: clamp(24px, 3vw, 36px); font-size: 0.76rem; color: var(--slate-mute); text-align: center; }
 
     /* ---------- PROCESS ---------- */
