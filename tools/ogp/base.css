@@ -1,0 +1,42 @@
+/* OGP画像（1200×630）の共通スタイル。
+   サイト本体の配色トークンをそのまま写している（src/styles/global.css）。
+   ⚠ フォントはWindowsのものに合わせる。Shippori Mincho はローカルに無いので
+     游明朝（Yu Mincho）で代用する。Hiragino はMac専用なので書いても効かない。 */
+html, body { width: 1200px; height: 630px; overflow: hidden; margin: 0; }
+body {
+  background: #16202E;
+  color: #FAF8F4;
+  font-family: "Yu Gothic", "Meiryo", sans-serif;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 86px;
+  border-left: 12px solid #1E5F56;
+  box-sizing: border-box;
+}
+/* 左端のティールの縦線＝サイトの spine と同じ意匠。
+   ⚠ body::before だと flex コンテナの中で潰れて出なかったので border で引く。 */
+.brand { display: flex; align-items: center; gap: 12px; margin-bottom: 40px; }
+.mark { width: 16px; height: 16px; border: 2px solid #B7D9CF; position: relative; }
+.mark::after { content: ""; position: absolute; inset: 4px; background: #B7D9CF; }
+.brand-name { font-weight: 700; letter-spacing: 0.22em; font-size: 20px; }
+.eyebrow {
+  font-size: 17px; letter-spacing: 0.2em; color: #B7D9CF; font-weight: 700;
+  margin-bottom: 26px;
+}
+h1 {
+  font-family: "Yu Mincho", "YuMincho", serif;
+  font-weight: 600;
+  font-size: 76px;
+  line-height: 1.42;
+  letter-spacing: 0.04em;
+  margin: 0;
+}
+.sub { margin-top: 32px; font-size: 24px; color: #C7CCD4; line-height: 1.7; }
+.foot {
+  position: absolute; left: 86px; right: 86px; bottom: 46px;
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 17px; color: #8A93A2; letter-spacing: 0.08em;
+}
+.domains { display: flex; gap: 22px; color: #B7D9CF; }

@@ -1,0 +1,72 @@
+---
+/* 相談フォームの送信完了ページ。
+   Airtable フォームは iframe の中で完結してしまい、送信できたかどうかを
+   親ページから取れない。Airtable 側の「送信後の遷移先」をこのURLにすることで、
+   送信1件＝このページの page_view として GA4 で数えられるようにする。
+   （iframe の中で開いても GA4 は読み込まれ、page_view は飛ぶ）
+
+   ⚠ 検索結果に出す意味がないので noindex。
+   ⚠ 直接このURLを開いた人にも意味が通る文面にしてある。 */
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+---
+
+<Layout
+  title="ご相談ありがとうございます｜株式会社エージェントベスト"
+  description="キャリア相談フォームの送信が完了しました。担当より原則2営業日以内にご連絡します。"
+  noindex={true}
+>
+  <Header />
+
+  <main>
+    <section class="thanks">
+      <div class="wrap thanks-inner">
+        <span class="eyebrow">Thank you</span>
+        <h1 class="thanks-title">ご相談ありがとうございます。</h1>
+        <p class="thanks-body">
+          内容を確認のうえ、担当より<strong>原則2営業日以内</strong>に、ご記入のメールまたはお電話でご連絡します。<br />
+          お急ぎの場合や、先に日程を決めたい場合は、下のボタンから直接ご予約いただけます。
+        </p>
+        <div class="thanks-actions">
+          <a href="https://calendly.com/r_matsuoka" target="_top" rel="noopener" class="btn">
+            面談の日程を決める <span class="arrow" aria-hidden="true">→</span>
+          </a>
+          <a href="https://jobs.agent-best.net/?utm_source=corporate&utm_medium=thanks" target="_top" rel="noopener" class="thanks-alt" data-jobs-cta="consult-thanks">
+            先に求人を見てみる →
+          </a>
+        </div>
+        <p class="thanks-note">
+          このページはフォームの送信完了ページです。<a href="/" target="_top">トップページへ戻る</a>
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <script is:inline>
+    /* 送信1件のコンバージョン。page_view とは別に、GA4 のキーイベントに
+       指定しやすい名前でも1本送っておく。 */
+    if (typeof window.gtag === 'function') {
+      window.gtag('event', 'consult_submit', { page_path: location.pathname });
+    }
+  </script>
+
+  <style>
+    .thanks { padding-block: clamp(64px, 10vw, 130px); }
+    .thanks-inner { max-width: 720px; }
+    .thanks-title {
+      font-size: clamp(1.7rem, 4vw, 2.4rem);
+      margin: 1rem 0 0;
+      letter-spacing: 0.04em;
+    }
+    .thanks-body { margin-top: 1.6rem; color: var(--slate); line-height: 2.1; }
+    .thanks-body strong { color: var(--ink); }
+    .thanks-actions {
+      margin-top: 2.4rem;
+      display: flex; flex-wrap: wrap; gap: 1.2rem; align-items: center;
+    }
+    .thanks-alt { font-size: 0.9rem; color: var(--teal); font-weight: 700; }
+    .thanks-alt:hover { text-decoration: underline; text-underline-offset: 0.3em; }
+    .thanks-note { margin-top: 2.4rem; font-size: 0.82rem; color: var(--slate-mute); }
+    .thanks-note a { text-decoration: underline; text-underline-offset: 0.2em; }
+  </style>
+</Layout>

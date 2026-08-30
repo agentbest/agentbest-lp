@@ -4,6 +4,10 @@ import Header from '../components/Header.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 
 import FooterSites from '../components/FooterSites.astro';
+import { getArticleCount } from '../lib/mediaCount';
+
+// 記事本数は手打ちにしない（古い数字が残るため）。定義は src/lib/mediaCount.ts
+const article = await getArticleCount();
 /* 旧サイトから引き継いだ4つの行動指針。表記（英文の大文字／和文の見出し）は旧サイトのまま */
 const values = [
   {
@@ -49,7 +53,7 @@ const business = [
     no: '03',
     title: 'メディア事業',
     lead: 'キャリアメディアと求人サイトの自社運営。',
-    body: '職種・業界・企業ごとの転職情報を体系的にまとめたキャリアメディア（2,400本以上）と、求人検索サイトを運営しています。記事はすべて代表の松岡が監修しています。',
+    body: `職種・業界・企業ごとの転職情報を体系的にまとめたキャリアメディア（${article.label}本以上）と、求人検索サイトを運営しています。記事はすべて代表の松岡が監修しています。`,
     href: '/media/',
     linkLabel: 'キャリアメディアを見る',
   },
@@ -108,7 +112,7 @@ const organizationSchema = {
 };
 ---
 
-<Layout title={title} description={description}>
+<Layout title={title} description={description} image="/ogp/company.png">
   <Header />
 
   <main>

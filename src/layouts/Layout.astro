@@ -70,10 +70,24 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
          どのページのボタンから登録されたかはこのイベントでしか追えない。 -->
     <script is:inline>
       document.addEventListener('click', function (e) {
-        var a = e.target && e.target.closest && e.target.closest('[data-line-cta]');
-        if (a && typeof window.gtag === 'function') {
+        var t = e.target;
+        if (!t || !t.closest) return;
+
+        var line = t.closest('[data-line-cta]');
+        if (line && typeof window.gtag === 'function') {
           window.gtag('event', 'line_add_friend', {
-            placement: a.getAttribute('data-line-cta'),
+            placement: line.getAttribute('data-line-cta'),
+            page_path: location.pathname,
+          });
+        }
+
+        /* 求人サイトは別ドメインなので、GA4では別セッション扱いになり、
+           どのページから飛んだかがコーポレート側で分からなくなる。
+           リンクのutmとは別に、クリック自体をこちら側でも数える。 */
+        var job = t.closest('a[href*="jobs.agent-best.net"], a[href*="shinsotsu.agent-best.net"]');
+        if (job && typeof window.gtag === 'function') {
+          window.gtag('event', 'jobs_click', {
+            placement: job.getAttribute('data-jobs-cta') || 'link',
             page_path: location.pathname,
           });
         }

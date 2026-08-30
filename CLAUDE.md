@@ -21,6 +21,10 @@
 | カテゴリ定義 | `src/lib/mediaTaxonomy.ts` |
 | シェアボタン | `src/components/ShareButtons.astro` |
 | 著者ブロック | `src/components/AuthorBlock.astro` |
+| 記事本数の表記 | `src/lib/mediaCount.ts`（**手打ち禁止**。100本単位で切り捨てて出す） |
+| 求人サイトへのリンク | `src/lib/jobsLink.ts`（utm付き。ここを通す） |
+| よくある質問の文面 | `src/lib/faq.ts`（トップと `/consultation` が共有） |
+| OGP画像 | `public/ogp/*.png` ＋ 生成元 `tools/ogp/`（README に再出力手順） |
 
 **ヘッダーの注意**: ナビ7項目でちょうど1120pxに収まる設計。**項目を足すと崩れる**。1240px以下はハンバーガー。
 
@@ -62,11 +66,14 @@
 - 診断ツールやAIの「JSON-LDが無い」等の指摘は鵜呑みにせず、`curl` で実物のHTMLを見て裏を取る。
 - **記事の量産＝重複、と決めつけない。** 同テーマ記事の本文重複率を実測したら4〜6%で内容は別物だった。GSCの「重複」588件の真因は**末尾スラッシュの二重URL**で、canonical未宣言だけが原因だった。同じ症状を他サイトで見たら、まず両形式のレスポンスをmd5比較する。
 
-⚠ **記事217本の `pubDate`/`reviewedAt` が未来日付**（最大 2026-09-26）。lastmod はビルド日で頭打ちにして影響を止めてあるが、**記事の表示日と JSON-LD の `datePublished` は未来のまま**。扱いは未決。
+**未来日付の記事は 2026-08-31 時点で0本**（pubDate の最大が 2026-08-29）。以前は217本が先付けだったが、日付が追いついて解消した。`[slug].astro` の「ビルド日で頭打ち」の処理は、量産スクリプトが先の日付を振ったときの保険として残してある。
 
 ## GA4 / CTA / 相談導線
 
 - GA4 測定ID `G-1XXMP8Y1B4`（`src/layouts/Layout.astro`、`is:inline` 必須）
+- `Layout.astro` の共通クリック計測: `line_add_friend`（`data-line-cta`）/ `jobs_click`（求人サイトへのリンク全部）
+- 相談ページの計測: `consult_form_view`（フォームが画面に入った）/ `consult_click`（`data-consult-cta`）/ **`consult_submit`＝`/consultation/thanks/` の page_view**
+  - ⚠ **送信数は Airtable フォームの「送信後の遷移先」を `https://www.agent-best.net/consultation/thanks/` にして初めて数えられる。** iframeの中で完結するので、設定しないと送信0件のまま見える。
 - CTA の既定リンクは `https://calendly.com/r_matsuoka`
 - **`/consultation`** = 求人未定の求職者向けキャリア相談ページ。Airtable「人材紹介事業」`appYkc36EvioYoL1A` / テーブル `求職者（HP）`（`tbl4SgAxixgbv76Vk`）/ フォーム `pagFw3nywLJ4AJF3n` を埋め込み。**求人応募（jobsite側）とはテーブルごと別。**
   - 新世代（Interface）フォームには `shr…` 共有IDが**存在しない**。埋め込みURLは `https://airtable.com/embed/{baseId}/{pageId}/form`。旧フォームの `shr…` 形式と混同しない。

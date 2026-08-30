@@ -5,6 +5,7 @@ import LineCta from '../components/LineCta.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 
 import FooterSites from '../components/FooterSites.astro';
+import { FAQS, faqSchema } from '../lib/faq';
 /* ---------------------------------------------------------------
    Airtable「キャリア相談」フォーム
    ---------------------------------------------------------------
@@ -21,6 +22,9 @@ const FORM_EMBED_URL = `https://airtable.com/embed/${AIRTABLE_BASE_ID}/${FORM_PA
 const FORM_DIRECT_URL = `https://airtable.com/${AIRTABLE_BASE_ID}/${FORM_PAGE_ID}/form`;
 
 const CALENDLY_URL = 'https://calendly.com/r_matsuoka';
+
+// よくある質問。文面は src/lib/faq.ts が原本（トップと共有）
+const faqStructuredData = faqSchema('https://www.agent-best.net/consultation/');
 
 const stages = [
   {
@@ -47,6 +51,7 @@ const steps = [
 <Layout
   title="キャリア相談｜株式会社エージェントベスト"
   description="求人が決まっていない段階でのご相談を受け付けています。転職するか迷っている、市場価値を知りたい、情報収集から始めたい——20代・30代のハイクラス層向けに、領域のプロがキャリアの選択肢を整理します。"
+  image="/ogp/consultation.png"
 >
   <Header />
 
@@ -130,6 +135,7 @@ const steps = [
             フォームの項目を増減したら、この高さも合わせて調整してください。
           -->
           <iframe
+            id="consultForm"
             class="airtable-embed"
             src={FORM_EMBED_URL}
             title="キャリア相談フォーム"
@@ -141,7 +147,7 @@ const steps = [
 
         <p class="form-foot">
           フォームが表示されない場合は
-          <a href={FORM_DIRECT_URL} target="_blank" rel="noopener">こちらから直接ご記入</a>
+          <a href={FORM_DIRECT_URL} target="_blank" rel="noopener" data-consult-cta="form-direct">こちらから直接ご記入</a>
           いただけます。
         </p>
 
@@ -150,7 +156,7 @@ const steps = [
           <p class="alt-cta-body">
             フォームの記入より、まず話したい——という場合は、日程を直接お選びいただけます。
           </p>
-          <a href={CALENDLY_URL} target="_blank" rel="noopener" class="btn btn--ghost">
+          <a href={CALENDLY_URL} target="_blank" rel="noopener" class="btn btn--ghost" data-consult-cta="calendly">
             面談の日程を調整する <span class="arrow" aria-hidden="true">→</span>
           </a>
         </div>
@@ -170,6 +176,30 @@ const steps = [
         </p>
       </div>
     </section>
+    <!-- ============ FAQ ============
+         文面は src/lib/faq.ts が原本。トップと共有している。 -->
+    <section id="faq" class="section faq-sec">
+      <div class="wrap">
+        <header class="sec-head">
+          <span class="eyebrow">FAQ</span>
+          <h2>よくあるご質問</h2>
+        </header>
+        <ul class="faq-list">
+          {FAQS.map((f) => (
+            <li class="faq-item">
+              <details>
+                <summary>
+                  <span class="faq-q">{f.q}</span>
+                  <span class="faq-mark" aria-hidden="true"></span>
+                </summary>
+                <p class="faq-a">{f.a}</p>
+              </details>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
     <div class="wrap">
       <ShareButtons title="キャリア相談｜株式会社エージェントベスト" label="このページをシェア" />
     </div>
@@ -304,5 +334,63 @@ const steps = [
     @media (min-width: 720px) { .footer-meta { text-align: right; } }
     .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; }
     .footer-base small { color: var(--slate-mute); letter-spacing: 0.06em; }
+
+    /* ---------- FAQ ---------- */
+    .faq-sec { padding-top: 0; }
+    .faq-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--hairline); max-width: 780px; }
+    .faq-item { border-bottom: 1px solid var(--hairline); }
+    .faq-item summary {
+      list-style: none; cursor: pointer;
+      display: flex; align-items: center; justify-content: space-between; gap: 1.5em;
+      padding: clamp(16px, 2.2vw, 24px) 0;
+    }
+    .faq-item summary::-webkit-details-marker { display: none; }
+    .faq-q { font-family: var(--font-display); font-weight: 600; font-size: clamp(0.98rem, 2vw, 1.08rem); line-height: 1.7; }
+    /* ＋ / − のマーク。開いたら縦線だけ消す */
+    .faq-mark { position: relative; flex: 0 0 14px; width: 14px; height: 14px; }
+    .faq-mark::before, .faq-mark::after { content: ""; position: absolute; background: var(--teal); transition: opacity .2s; }
+    .faq-mark::before { left: 0; top: 6px; width: 14px; height: 2px; }
+    .faq-mark::after { left: 6px; top: 0; width: 2px; height: 14px; }
+    .faq-item details[open] .faq-mark::after { opacity: 0; }
+    .faq-a { margin: 0; padding: 0 0 clamp(18px, 2.4vw, 26px); color: var(--slate); font-size: 0.92rem; line-height: 2; max-width: 44em; }
   </style>
+
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(faqStructuredData)} />
+
+  <!-- 相談フォームの計測。
+       フォームは Airtable の iframe なので、送信できたかどうかを親ページから
+       直接は取れない（送信完了は iframe の中で起きる）。そのため
+       (1) フォームが実際に画面に入ったか  (2) 別タブで開いたか  (3) Calendlyへ逃げたか
+       の3つを取って、「相談ページに来た人がどこまで進んだか」を見えるようにする。
+       ⚠ 送信数そのものは /consultation/thanks/ の page_view で数える。
+         Airtable 側のフォーム設定で、送信後の遷移先をそのURLにしておくこと。 -->
+  <script is:inline>
+    (function () {
+      var frame = document.getElementById('consultForm');
+      if (frame && 'IntersectionObserver' in window) {
+        var seen = false;
+        var io = new IntersectionObserver(function (entries) {
+          entries.forEach(function (e) {
+            if (e.isIntersecting && !seen) {
+              seen = true;
+              io.disconnect();
+              if (typeof window.gtag === 'function') {
+                window.gtag('event', 'consult_form_view', { page_path: location.pathname });
+              }
+            }
+          });
+        }, { threshold: 0.3 });
+        io.observe(frame);
+      }
+      document.addEventListener('click', function (e) {
+        var a = e.target && e.target.closest && e.target.closest('[data-consult-cta]');
+        if (a && typeof window.gtag === 'function') {
+          window.gtag('event', 'consult_click', {
+            placement: a.getAttribute('data-consult-cta'),
+            page_path: location.pathname,
+          });
+        }
+      });
+    })();
+  </script>
 </Layout>

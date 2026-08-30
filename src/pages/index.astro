@@ -2,8 +2,14 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import ShareButtons from '../components/ShareButtons.astro';
+import { getArticleCount } from '../lib/mediaCount';
+import { jobsUrl, SHINSOTSU_URL } from '../lib/jobsLink';
+import { FAQS, faqSchema } from '../lib/faq';
 
 import FooterSites from '../components/FooterSites.astro';
+
+// 記事本数は手打ちにしない（古い数字が残るため）。定義は src/lib/mediaCount.ts
+const article = await getArticleCount();
 const domains = [
   { en: 'IT', jp: 'ソフトウェア・インフラ・SI' },
   { en: 'Startup', jp: 'SaaS・自社プロダクト企業' },
@@ -54,19 +60,19 @@ const cases = [
   },
   {
     age: '30代前半',
-    from: '大手事業会社（企画）',
+    from: '大手事業会社（エンジニア）',
     to: 'M&A仲介',
-    role: '企画 → コンサルタント',
+    role: 'エンジニア → コンサルタント',
     point: '個人の力を試す',
     body: '会社の看板で動く仕事から、自分の名前で案件を任される仕事へ。個人の実力がどこまで通用するかを確かめる転職です。',
   },
   {
     age: '20代後半',
-    from: '受託開発',
-    to: '自社プロダクト企業',
-    role: 'エンジニア → エンジニア',
-    point: '腰を据えて育てる',
-    body: '年収は横ばい。納期ごとに切り替わる受託から、同じプロダクトを長く育てられる環境へ。条件ではなく中身で選びました。',
+    from: '小売（販売職）',
+    to: '人材紹介会社',
+    role: '販売職 → キャリアアドバイザー',
+    point: '職種を変える',
+    body: '店頭で人に向き合ってきた経験を、そのままキャリア支援へ。年収の上げ幅よりも、長く続けたい仕事に移ることを優先しました。',
   },
 ];
 
@@ -85,7 +91,7 @@ const company = [
   { k: '許可番号', v: '13-ユ-316964' },
 ];
 
-// 構造化データ（Organization / WebSite）
+// 構造化データ（Organization / WebSite / FAQPage）
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
@@ -120,9 +126,12 @@ const websiteSchema = {
   inLanguage: 'ja',
   publisher: { '@id': 'https://www.agent-best.net/#organization' },
 };
+
+// よくある質問。文面は src/lib/faq.ts が原本（/consultation と共有）
+const faqStructuredData = faqSchema('https://www.agent-best.net/');
 ---
 
-<Layout>
+<Layout image="/ogp/home.png">
   <a id="top"></a>
   <Header />
 
@@ -196,30 +205,42 @@ const websiteSchema = {
             この国で育った優秀な人が、日本にいながら、その力を海外の企業のために使っている。
             選ばれなかったのは、日本のほうだ。力の向かう先は、舞台の魅力で決まる。
           </p>
-          <p class="mission-lead">
-            魅力のある国には、人が集まる。
-            だから私たちは、この国に磁力を生む。
-          </p>
-          <p class="mission-lead">
-            磁力は、ひとつのもので生まれない。
-            経済、技術、文化、暮らし。その全部が重なって、人を引きつける力になる。
-            世界のどこででも活躍できる人が、それでもこの国を選ぶことがある。
-            理由は条件ではない。この国でなければならない、と思わせる何かだ。
-          </p>
-          <p class="mission-lead">はじまりは、人だ。</p>
-          <p class="mission-lead">
-            どんな産業も、最初のひとりから動きだす。
-            私たちが支援するのは、人のグロースであり、企業のグロースであり、その先にある国のグロースだ。
-            成長する産業と、そこで勝負しようとする企業に、必要な人が届く線を引き続ける。
-          </p>
-          <p class="mission-lead">
-            磁力は、経済だけでは生まれない。だから私たちは、その外側にも出ていく。
-          </p>
-          <p class="mission-lead">
-            この国が育ててきた表現も、感性も、世界を惹きつける力になる。
-            働く理由も、住む理由も、憧れる理由も、この国にある。
-            日本にしかないものを、日本の強さに変える。
-          </p>
+          <!-- 3段落目以降は畳む。トップの平均滞在は1分弱で、ミッション7段落を
+               読み切る人はほとんどいない。全文は /company/ にもある。
+               ⚠ JSでの出し分けにするとクローラに読まれないので details で畳む。 -->
+          <details class="mission-more">
+            <summary class="mission-more-btn">
+              <span class="mission-more-open">ミッションの全文を読む</span>
+              <span class="mission-more-close">閉じる</span>
+              <span class="mission-more-caret" aria-hidden="true">↓</span>
+            </summary>
+            <div class="mission-more-body">
+              <p class="mission-lead">
+                魅力のある国には、人が集まる。
+                だから私たちは、この国に磁力を生む。
+              </p>
+              <p class="mission-lead">
+                磁力は、ひとつのもので生まれない。
+                経済、技術、文化、暮らし。その全部が重なって、人を引きつける力になる。
+                世界のどこででも活躍できる人が、それでもこの国を選ぶことがある。
+                理由は条件ではない。この国でなければならない、と思わせる何かだ。
+              </p>
+              <p class="mission-lead">はじまりは、人だ。</p>
+              <p class="mission-lead">
+                どんな産業も、最初のひとりから動きだす。
+                私たちが支援するのは、人のグロースであり、企業のグロースであり、その先にある国のグロースだ。
+                成長する産業と、そこで勝負しようとする企業に、必要な人が届く線を引き続ける。
+              </p>
+              <p class="mission-lead">
+                磁力は、経済だけでは生まれない。だから私たちは、その外側にも出ていく。
+              </p>
+              <p class="mission-lead">
+                この国が育ててきた表現も、感性も、世界を惹きつける力になる。
+                働く理由も、住む理由も、憧れる理由も、この国にある。
+                日本にしかないものを、日本の強さに変える。
+              </p>
+            </div>
+          </details>
           <p class="mission-sign">
             一人ずつ、一社ずつ。磁力は、その積み重ねでしか生まれない。
           </p>
@@ -245,6 +266,50 @@ const websiteSchema = {
               <span class="domain-jp">{d.jp}</span>
             </li>
           ))}
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============ JOBS 求人を探す ============
+         求人サイトへの導線はヘッダーのドロップダウンだけで、本文からは1本も
+         繋がっていなかった。「求人を見る」は相談フォームより手前に踏める
+         唯一の低摩擦の入口なので、専門領域のすぐ下に置いている。 -->
+    <section id="jobs" class="section jobs">
+      <div class="wrap">
+        <header class="sec-head sec-head--center reveal">
+          <span class="eyebrow">Jobs</span>
+          <h2>求人を探す</h2>
+          <p class="sec-desc">
+            相談の前に、まずどんな求人があるかだけ見ていただいても構いません。掲載しているのは、私たちが事業と組織を直接確かめた企業だけです。
+          </p>
+        </header>
+        <ul class="job-grid reveal">
+          <li class="job-card">
+            <span class="job-card-label">キャリア採用</span>
+            <h3 class="job-card-title">中途採用の求人</h3>
+            <p class="job-card-body">
+              IT・スタートアップ・M&amp;A・コンサルの4領域から、職種・年収・働き方で絞り込めます。会員登録なしでそのまま閲覧できます。
+            </p>
+            <a
+              class="job-card-link"
+              href={jobsUrl({ medium: 'top-jobs' })}
+              target="_blank"
+              rel="noopener"
+            >求人を見る <span class="arrow" aria-hidden="true">→</span></a>
+          </li>
+          <li class="job-card">
+            <span class="job-card-label">就活・長期インターン</span>
+            <h3 class="job-card-title">新卒・インターンの求人</h3>
+            <p class="job-card-body">
+              学生の方はこちら。新卒採用と長期インターンの募集を、同じ4領域からまとめています。
+            </p>
+            <a
+              class="job-card-link"
+              href={`${SHINSOTSU_URL}?utm_source=corporate&utm_medium=top-jobs`}
+              target="_blank"
+              rel="noopener"
+            >新卒の求人を見る <span class="arrow" aria-hidden="true">→</span></a>
+          </li>
         </ul>
       </div>
     </section>
@@ -367,6 +432,31 @@ const websiteSchema = {
       </div>
     </section>
 
+    <!-- ============ FAQ ============
+         文面は src/lib/faq.ts が原本。/consultation と共有している。 -->
+    <section id="faq" class="section faq spine">
+      <div class="wrap">
+        <header class="sec-head sec-head--center reveal">
+          <span class="eyebrow">FAQ</span>
+          <h2>よくあるご質問</h2>
+          <p class="sec-desc">ご相談の前に、よくいただく質問をまとめています。</p>
+        </header>
+        <ul class="faq-list reveal">
+          {FAQS.map((f) => (
+            <li class="faq-item">
+              <details>
+                <summary>
+                  <span class="faq-q">{f.q}</span>
+                  <span class="faq-mark" aria-hidden="true"></span>
+                </summary>
+                <p class="faq-a">{f.a}</p>
+              </details>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
     <!-- ============ CTA ============ -->
     <section id="contact" class="cta">
       <div class="wrap cta-inner reveal">
@@ -418,7 +508,7 @@ const websiteSchema = {
         <a href="/media/" class="media-banner-card reveal">
           <div class="media-banner-text">
             <span class="eyebrow">Career Media</span>
-            <p class="media-banner-title">転職ノウハウを1,400記事以上公開中</p>
+            <p class="media-banner-title">転職ノウハウを{article.label}記事以上公開中</p>
             <p class="media-banner-desc">職種別の年収相場・キャリアパス・選考対策を、代表・松岡が監修。IT・スタートアップ・コンサル領域の情報を体系的にまとめています。</p>
           </div>
           <span class="media-banner-link">記事を見る <span class="arrow" aria-hidden="true">→</span></span>
@@ -619,6 +709,31 @@ const websiteSchema = {
       font-weight: 300;
     }
     .mission-lead + .mission-lead { margin-top: 1.1rem; }
+
+    /* ---------- MISSION の続き（details で畳む） ---------- */
+    .mission-more { margin-top: clamp(1.6rem, 3vw, 2.2rem); }
+    .mission-more > summary { list-style: none; }
+    .mission-more > summary::-webkit-details-marker { display: none; }
+    .mission-more-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6em;
+      cursor: pointer;
+      font-size: 0.86rem;
+      letter-spacing: 0.06em;
+      color: #B7D9CF;
+      padding: 0.5em 0;
+      border-bottom: 1px solid rgba(183, 217, 207, 0.4);
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .mission-more-btn:hover { color: #FFF; border-color: rgba(255,255,255,0.6); }
+    .mission-more-close { display: none; }
+    .mission-more[open] .mission-more-open { display: none; }
+    .mission-more[open] .mission-more-close { display: inline; }
+    .mission-more[open] .mission-more-caret { transform: rotate(180deg); }
+    .mission-more-caret { display: inline-block; transition: transform 0.2s; }
+    .mission-more-body .mission-lead:first-child { margin-top: clamp(1.4rem, 2.6vw, 2rem); }
+
     .mission-sign {
       font-family: var(--font-display);
       color: #B7D9CF;
@@ -661,6 +776,32 @@ const websiteSchema = {
       font-size: clamp(1.5rem, 3vw, 2rem); margin-top: 1.4rem; letter-spacing: 0.03em;
     }
     .domain-jp { display: block; margin-top: 0.7rem; color: var(--slate); font-size: 0.88rem; }
+
+    /* ---------- JOBS ---------- */
+    .job-grid {
+      list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(16px, 2vw, 24px);
+      grid-template-columns: repeat(1, 1fr);
+    }
+    @media (min-width: 760px) { .job-grid { grid-template-columns: repeat(2, 1fr); } }
+    .job-card {
+      display: flex; flex-direction: column;
+      border: 1px solid var(--hairline); background: #FFF;
+      padding: clamp(26px, 3vw, 38px) clamp(22px, 2.6vw, 34px);
+      transition: border-color .3s ease, transform .3s ease;
+    }
+    .job-card:hover { border-color: var(--teal); transform: translateY(-2px); }
+    .job-card-label {
+      font-size: 0.7rem; letter-spacing: 0.14em; color: var(--teal); font-weight: 700;
+    }
+    .job-card-title {
+      font-size: clamp(1.2rem, 2.4vw, 1.5rem); margin: 0.9rem 0 0; letter-spacing: 0.03em;
+    }
+    .job-card-body { color: var(--slate); font-size: 0.92rem; margin: 1rem 0 0; flex: 1; }
+    .job-card-link {
+      margin-top: 1.6rem; font-weight: 700; font-size: 0.9rem; color: var(--teal);
+      display: inline-flex; align-items: center; gap: 0.5em;
+    }
+    .job-card-link:hover { text-decoration: underline; text-underline-offset: 0.3em; }
 
     /* ---------- HIDDEN GEMS ---------- */
     .gems { background: var(--paper-deep); }
@@ -754,6 +895,38 @@ const websiteSchema = {
     .process-step h3 { font-size: 1.08rem; margin-top: 1.2rem; line-height: 1.5; letter-spacing: 0.03em; }
     .process-step p { margin-top: 0.9rem; color: var(--slate); font-size: 0.88rem; }
 
+    /* ---------- FAQ ---------- */
+    .faq-list {
+      list-style: none; margin: 0 auto; padding: 0; max-width: 780px;
+      border-top: 1px solid var(--hairline);
+    }
+    .faq-item { border-bottom: 1px solid var(--hairline); }
+    .faq-item summary {
+      list-style: none; cursor: pointer;
+      display: flex; align-items: center; justify-content: space-between; gap: 1.5em;
+      padding: clamp(18px, 2.4vw, 26px) 0;
+    }
+    .faq-item summary::-webkit-details-marker { display: none; }
+    .faq-q {
+      font-family: var(--font-display); font-weight: 600;
+      font-size: clamp(1rem, 2vw, 1.1rem); line-height: 1.7;
+    }
+    /* ＋ / − のマーク。2本の線を重ね、開いたら縦線だけ消す */
+    .faq-mark {
+      position: relative; flex: 0 0 14px; width: 14px; height: 14px;
+    }
+    .faq-mark::before, .faq-mark::after {
+      content: ""; position: absolute; background: var(--teal); transition: opacity .2s;
+    }
+    .faq-mark::before { left: 0; top: 6px; width: 14px; height: 2px; }
+    .faq-mark::after { left: 6px; top: 0; width: 2px; height: 14px; }
+    .faq-item details[open] .faq-mark::after { opacity: 0; }
+    .faq-a {
+      margin: 0; padding: 0 0 clamp(20px, 2.6vw, 28px);
+      color: var(--slate); font-size: 0.94rem; line-height: 2;
+      max-width: 44em;
+    }
+
     /* ---------- CTA ---------- */
     .cta { background: var(--ink); color: var(--paper); padding-block: clamp(80px, 12vw, 140px); }
     .eyebrow--on-dark { color: #B7D9CF; }
@@ -830,4 +1003,5 @@ const websiteSchema = {
 
   <script type="application/ld+json" is:inline set:html={JSON.stringify(organizationSchema)} />
   <script type="application/ld+json" is:inline set:html={JSON.stringify(websiteSchema)} />
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(faqStructuredData)} />
 </Layout>

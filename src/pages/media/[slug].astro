@@ -8,6 +8,7 @@ import LineCta from '../../components/LineCta.astro';
 import Header from '../../components/Header.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
 import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
+import { jobsUrl } from '../../lib/jobsLink';
 
 export async function getStaticPaths() {
   const posts = await getCollection('media');
@@ -31,9 +32,10 @@ const catLabel = CATEGORY_LABEL[post.data.category] ?? post.data.category;
 const catAnchor = post.data.category === '職種' ? 'job' : post.data.category === '業界' ? 'industry' : 'company';
 const isCompany = post.data.category === '企業';
 
-// pubDate / reviewedAt には先付けのものが217本ある（最大 2026-09-26）。
-// 「更新日 2026/9/26」と未来の日付が出てしまうので、表示と構造化データはビルド日で頭打ちにする。
-// frontmatter 側は書き換えていないので、その日付になれば自動的に本来の日付が出る。
+// 先付け（未来日付）の記事があったときに「更新日 2026/9/26」と表示されないよう、
+// 表示と構造化データはビルド日で頭打ちにしている。
+// 2026-08-31 時点で未来日付の記事は0本（最大 2026-08-29）＝この頭打ちは実質効いていない。
+// 量産スクリプトが先の日付を振ることがあるので、保険としてこのまま残す。
 const NOW = new Date();
 const capped = (d) => (d && d > NOW ? NOW : d);
 const shownDate = capped(post.data.pubDate);
@@ -42,6 +44,16 @@ const modifiedDate = capped(post.data.reviewedAt ?? post.data.pubDate);
 // 目次。H2だけを拾う（H3まで出すと企業記事は20項目を超えて逆に読みにくい）。
 // 見出しのidはAstroがmarkdownから自動採番したものをそのまま使う。
 const toc = headings.filter((h) => h.depth === 2);
+
+/* 求人サイトへの中間CTA。
+   記事の流入は「◯◯ 年収」「◯◯ 評判」＝調べ物の意図が中心で、いきなり
+   「面談を予約」は重い。求人一覧はその手前に踏める唯一の低摩擦の行動なので、
+   面談・LINEと並べて置く。
+   キーワードは職種記事のときだけ渡す（業界名・企業名で引くと0件になりやすい）。
+   ⚠ q= は jobs.agent-best.net 側が対応するまで無視され、全件一覧が出る。 */
+const jobsQuery = post.data.category === '職種' ? post.data.jobType ?? '' : '';
+const jobsHref = jobsUrl({ medium: 'article', campaign: post.slug, q: jobsQuery });
+const jobsLabel = jobsQuery ? `${jobsQuery}の求人を見る` : '求人を見る';
 
 const related = (post.data.related ?? [])
   .map((s) => all.find((p) => p.slug === s))
@@ -181,6 +193,11 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
         <LineCta placement={`media-article:${post.slug}`} variant="button" label="LINEで相談する" />
       </div>
       <p class="cta-sub">面談の前に、まずLINEで質問だけでも大丈夫です。</p>
+      <p class="cta-jobs">
+        <a href={jobsHref} target="_blank" rel="noopener" data-jobs-cta="media-article">
+          相談の前に求人だけ見たい方は {jobsLabel} <span aria-hidden="true">→</span>
+        </a>
+      </p>
     </aside>
   </article>
 </Layout>
@@ -306,6 +323,17 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
     display: flex; flex-wrap: wrap; gap: .8rem;
     justify-content: center; align-items: center; margin-top: 1rem;
   }
+  /* 求人一覧への導線。面談・LINEより軽い行動なので、ボタンにせず1行で置く。 */
+  .media-article .cta-jobs {
+    margin: 1.1rem 0 0; padding-top: 1rem;
+    border-top: 1px solid rgba(255,255,255,.14);
+    font-size: .88rem;
+  }
+  .media-article .cta-jobs a {
+    color: #fff; text-decoration: underline; text-underline-offset: .3em;
+    text-decoration-color: rgba(255,255,255,.4);
+  }
+  .media-article .cta-jobs a:hover { text-decoration-color: #fff; }
   .media-article .cta-sub {
     margin: .9rem 0 0; font-size: .8rem; color: #a9b1bd;
   }
