@@ -684,57 +684,67 @@ const organizationSchema = {
 </style>
 
 <style>
-  /* ---------- FOOTER（index と同じ体裁） ---------- */
+  /* ---------- FOOTER（index と同じ濃色の体裁） ----------
+     共通コンポーネント FooterSites は濃色フッター前提で文字色が var(--paper)。
+     ここを淡色にすると「求人を探す」「特設サイト」が白文字のまま背景に溶ける。 */
   .site-footer {
-    border-top: 1px solid var(--hairline);
-    background: var(--paper-deep);
-    padding-block: clamp(40px, 6vw, 64px) 24px;
+    border-top: 1px solid var(--hairline-on-dark);
+    background: var(--ink);
+    color: var(--paper);
+    padding-top: clamp(48px, 7vw, 80px);
   }
   .footer-inner {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
-    gap: 28px;
+    gap: clamp(28px, 5vw, 48px);
+    padding-bottom: clamp(40px, 6vw, 64px);
   }
   @media (min-width: 860px) {
     .footer-inner { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr) minmax(0, 1.2fr); align-items: start; }
   }
   .footer-brand { display: flex; flex-direction: column; gap: 8px; }
   .footer-brand .brand-mark {
-    width: 12px; height: 12px; border: 1.5px solid var(--teal); position: relative;
+    width: 14px; height: 14px; border: 1.5px solid #B7D9CF; position: relative;
   }
   .footer-brand .brand-mark::after {
-    content: ""; position: absolute; inset: 3px; background: var(--teal);
+    content: ""; position: absolute; inset: 3px; background: #B7D9CF;
   }
   .footer-name {
     font-family: var(--font-display);
     font-weight: 700;
     letter-spacing: 0.16em;
-    font-size: 0.95rem;
+    font-size: 1.05rem;
   }
-  .footer-tag { font-size: 0.8rem; color: var(--slate); }
-  .footer-meta { font-size: 0.78rem; color: var(--slate); line-height: 2; }
+  .footer-tag { font-size: 0.84rem; color: #AEB6C2; }
+  .footer-meta { font-size: 0.82rem; color: #AEB6C2; line-height: 1.9; }
   .footer-links-title {
-    font-size: 0.8rem;
-    font-weight: 500;
-    margin-bottom: 10px;
+    font-size: 0.84rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    margin: 0 0 0.6rem;
   }
-  .footer-links-title a:hover { color: var(--teal); }
+  .footer-links-title a { color: var(--paper); }
+  .footer-links-title a:hover { color: #B7D9CF; }
   .footer-links-cols { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 4px 20px; }
   .footer-links-cols ul { list-style: none; margin: 0; padding: 0; }
-  .footer-links-cols li { font-size: 0.78rem; line-height: 2.1; }
-  .footer-links-cols a { color: var(--slate); }
-  .footer-links-cols a:hover { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
+  .footer-links-cols li { font-size: 0.8rem; line-height: 2.1; }
+  .footer-links-cols a { color: color-mix(in srgb, var(--paper) 72%, transparent); }
+  .footer-links-cols a:hover { color: #B7D9CF; text-decoration: underline; text-underline-offset: 3px; }
   .footer-base {
-    margin-top: 32px;
-    padding-top: 18px;
-    border-top: 1px solid var(--hairline);
+    border-top: 1px solid var(--hairline-on-dark);
+    padding-block: 1.6rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 10px 20px;
+    gap: 0.8rem 1.6rem;
     align-items: center;
     justify-content: space-between;
   }
-  .footer-base small { font-size: 0.74rem; color: var(--slate-mute); }
-  .footer-contact-link { font-size: 0.78rem; color: var(--slate); }
-  .footer-contact-link:hover { color: var(--teal); }
+  .footer-base small { font-size: 0.74rem; color: var(--slate-mute); letter-spacing: 0.06em; }
+  .footer-contact-link {
+    font-size: 0.78rem;
+    color: #AEB6C2;
+    border-bottom: 1px solid transparent;
+    transition: color .2s ease, border-color .2s ease;
+  }
+  .footer-contact-link:hover { color: #B7D9CF; border-bottom-color: #B7D9CF; }
 </style>
