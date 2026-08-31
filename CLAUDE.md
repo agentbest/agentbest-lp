@@ -14,7 +14,7 @@
 
 | 用途 | パス |
 |---|---|
-| 全ページ共通ナビ | `src/components/Header.astro`（`const nav = [...]` をmapで描画。`specialSites` で特化サイトのドロップダウン） |
+| 全ページ共通ナビ | `src/components/Header.astro`（`const nav = [...]` をmapで描画。`jobSites`／`mediaSites`／`employerSites` がドロップダウン。メディアは `/media/` と `/cases/` の2択） |
 | レイアウト | `src/layouts/Layout.astro`（**共通フッターは無い**。フッターは各ページ内） |
 | ページ | `src/pages/`（index / jobs / contact / consultation / media/…） |
 | メディア記事 | `src/content/media/*.md`（2,486本） |

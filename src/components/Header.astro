@@ -1,6 +1,5 @@
 ---
 const nav = [
-  { label: 'メディア', href: '/media/' },
   { label: '専門領域', href: '/#domains' },
   { label: '対象となる方', href: '/#audience' },
   { label: '選ばれる理由', href: '/#strengths' },
@@ -11,6 +10,11 @@ const nav = [
 const jobSites = [
   { label: '中途採用の求人', note: 'キャリア採用', href: 'https://jobs.agent-best.net/' },
   { label: '新卒・インターンの求人', note: '就活・長期インターン', href: 'https://shinsotsu.agent-best.net/' },
+];
+/* メディアはキャリアメディアと転職事例集の2本立てなのでドロップダウンにしている。 */
+const mediaSites = [
+  { label: 'キャリアメディア', note: '転職・選考のノウハウ記事', href: '/media/' },
+  { label: '転職事例集', note: '領域別のモデルケース', href: '/cases/' },
 ];
 const employerSites = [
   { label: 'スカウト代行', href: 'https://scout.agent-best.net/' },
@@ -32,6 +36,19 @@ const employerSites = [
           <div class="dd-group">
             {jobSites.map((it) => (
               <a class="dd-link dd-link-2line" href={it.href} target="_blank" rel="noopener">
+                <span class="dd-link-label">{it.label}</span>
+                <span class="dd-link-note">{it.note}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+      <div class="nav-dd">
+        <button type="button" class="nav-dd-trigger" aria-haspopup="true">メディア<span class="dd-caret" aria-hidden="true">▾</span></button>
+        <div class="nav-dd-menu nav-dd-menu-left">
+          <div class="dd-group">
+            {mediaSites.map((it) => (
+              <a class="dd-link dd-link-2line" href={it.href}>
                 <span class="dd-link-label">{it.label}</span>
                 <span class="dd-link-note">{it.note}</span>
               </a>
@@ -74,6 +91,10 @@ const employerSites = [
       <nav class="mnav" aria-label="モバイルメニュー">
         {nav.map((item) => <a class="mnav-link" href={item.href}>{item.label}</a>)}
       </nav>
+      <p class="mnav-heading">メディア</p>
+      {mediaSites.map((it) => (
+        <a class="mgroup-link" href={it.href}>{it.label}</a>
+      ))}
       <p class="mnav-heading">求人を探す</p>
       {jobSites.map((it) => (
         <a class="mgroup-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>
