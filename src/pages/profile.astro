@@ -169,10 +169,13 @@ const personSchema = {
 </Layout>
 
 <style>
+  /* 縦並びのflexなので align-self を指定しないと画像が幅いっぱいに伸びる */
   .footer-logo {
     display: block;
-    height: 42px;
+    align-self: flex-start;
+    height: 40px;
     width: auto;
+    max-width: 100%;
   }
   .profile {
     padding: clamp(48px, 8vw, 96px) 0 clamp(56px, 9vw, 104px);

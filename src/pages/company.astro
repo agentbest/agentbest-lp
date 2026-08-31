@@ -702,10 +702,13 @@ const organizationSchema = {
     .footer-inner { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr) minmax(0, 1.2fr); align-items: start; }
   }
   .footer-brand { display: flex; flex-direction: column; gap: 8px; }
+  /* 縦並びのflexなので align-self を指定しないと画像が幅いっぱいに伸びる */
   .footer-logo {
     display: block;
-    height: 42px;
+    align-self: flex-start;
+    height: 40px;
     width: auto;
+    max-width: 100%;
   }
   .footer-tag { font-size: 0.84rem; color: #AEB6C2; }
   .footer-meta { font-size: 0.82rem; color: #AEB6C2; line-height: 1.9; }

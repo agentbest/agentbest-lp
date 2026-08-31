@@ -992,7 +992,8 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
     .footer-links-title a { color: var(--paper); }
     .footer-links-title a:hover { color: #B7D9CF; }
     .footer-links-desc { font-size: 0.8rem; margin: 0; max-width: 480px; color: color-mix(in srgb, var(--paper) 72%, transparent); }
-    .footer-logo { display: block; height: 42px; width: auto; margin-bottom: 0.2rem; }
+    /* 縦並びのflexなので align-self を指定しないと画像が幅いっぱいに伸びる */
+    .footer-logo { display: block; align-self: flex-start; height: 40px; width: auto; max-width: 100%; margin-bottom: 0.2rem; }
     .footer-tag { color: #AEB6C2; font-size: 0.84rem; }
     .footer-meta { color: #AEB6C2; font-size: 0.82rem; line-height: 1.9; }
     @media (min-width: 720px) { .footer-meta { text-align: right; } }
