@@ -1,0 +1,249 @@
+---
+// src/pages/cases/search/index.astro … 事例1,000件のしぼり込み。
+// 結果はURLで変わるので noindex（実体のページは /cases/pattern/… と /cases/{id}/ 側にある）。
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import { CASES, DISCLAIMER } from '../../../lib/cases';
+
+const total = CASES.length;
+const title = '事例をしぼり込む｜転職事例集';
+const description = `転職事例${total.toLocaleString()}件を、領域・年代・年収帯・キーワードでしぼり込めます。`;
+---
+
+<Layout title={title} description={description} noindex={true}>
+  <Header />
+  <section class="wrap">
+    <nav class="breadcrumb" aria-label="パンくず">
+      <a href="/">ホーム</a><span>/</span><a href="/cases/">転職事例集</a><span>/</span><span>しぼり込み</span>
+    </nav>
+
+    <h1>事例をしぼり込む</h1>
+    <p class="lead">全{total.toLocaleString()}件から、領域・年代・年収帯・キーワードで絞り込めます。</p>
+
+    <form class="case-search" role="search" id="f" action="/cases/search/" method="get">
+      <label class="sr-only" for="q">キーワード</label>
+      <input id="q" type="search" name="q" placeholder="職種・業界・キーワード（例：PdM、SIer、ケース面接、年収維持）" autocomplete="off" />
+      <button type="submit">検索</button>
+    </form>
+
+    <div class="facets">
+      <div class="facet"><span class="facet-label">領域</span><div class="chips" id="fx-area"></div></div>
+      <div class="facet"><span class="facet-label">年代</span><div class="chips" id="fx-age"></div></div>
+      <div class="facet"><span class="facet-label">転職後の年収</span><div class="chips" id="fx-income"></div></div>
+      <div class="facet"><span class="facet-label">よく使われるタグ</span><div class="chips" id="fx-tag"></div></div>
+    </div>
+
+    <div class="bar">
+      <p class="status" id="status" role="status" aria-live="polite">読み込み中…</p>
+      <button type="button" class="reset" id="reset">条件をクリア</button>
+    </div>
+
+    <ul class="case-list" id="results"></ul>
+    <p class="more"><button type="button" id="more" hidden>さらに表示</button></p>
+
+    <p class="note">{DISCLAIMER}</p>
+    <p class="fallback">
+      パターンから探したい場合は <a href="/cases/">転職事例集のトップ</a>、
+      職種・業界の解説は <a href="/media/">キャリアメディア</a> にまとめています。
+    </p>
+  </section>
+</Layout>
+
+<script>
+  const PAGE = 40;
+  const state = { q: '', area: '', age: '', income: '', tag: '', shown: PAGE };
+  let index = null;
+
+  const el = (id) => document.getElementById(id);
+  const statusEl = el('status');
+  const list = el('results');
+  const moreBtn = el('more');
+
+  const norm = (s) =>
+    (s || '')
+      .toLowerCase()
+      .replace(/[Ａ-Ｚａ-ｚ０-９]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0xfee0))
+      .replace(/[ァ-ヶ]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0x60))
+      .replace(/[・･\s　‐-‒–—―ー_.,]/g, '');
+
+  const esc = (s) => String(s).replace(/[&<>"']/g, (c) =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+  function loadIndex() {
+    return fetch('/cases/search.json')
+      .then((r) => { if (!r.ok) throw new Error(String(r.status)); return r.json(); })
+      .then((raw) => {
+        index = raw.i.map((a) => ({
+          id: a[0], title: a[1], sub: a[2], summary: a[3],
+          area: raw.a[a[4]], pattern: raw.p[a[5]],
+          age: a[6], income: a[7], incomeVal: a[8],
+          tags: (a[9] || []).map((i) => raw.g[i]),
+        }));
+        index.forEach((it) => { it._hay = norm(it.title + it.sub + it.summary + it.pattern + it.tags.join('')); });
+        return index;
+      });
+  }
+
+  /** 出現数の多い順にファセットの選択肢を作る */
+  function buildFacets() {
+    const count = (get) => {
+      const m = new Map();
+      for (const it of index) for (const v of [].concat(get(it))) m.set(v, (m.get(v) ?? 0) + 1);
+      return [...m.entries()].sort((a, b) => b[1] - a[1]);
+    };
+    // ⚠ この関数を render という名前にしない。下の render()（結果の描画）を隠してしまい、
+    //    チップを押しても一覧が絞り込まれなくなる。
+    const paintChips = (node, key, entries, limit) => {
+      node.innerHTML = entries.slice(0, limit).map(([v, n]) =>
+        `<button type="button" class="chip" data-key="${key}" data-v="${esc(v)}">${esc(v)}<span class="n">${n}</span></button>`
+      ).join('');
+    };
+    paintChips(el('fx-area'), 'area', count((it) => it.area), 8);
+    paintChips(el('fx-age'), 'age', count((it) => it.age).sort((a, b) => a[0].localeCompare(b[0], 'ja')), 6);
+    paintChips(el('fx-income'), 'income', count((it) => it.income), 6);
+    paintChips(el('fx-tag'), 'tag', count((it) => it.tags), 18);
+
+    document.querySelectorAll('.chips .chip').forEach((b) => {
+      b.addEventListener('click', () => {
+        const k = b.dataset.key;
+        state[k] = state[k] === b.dataset.v ? '' : b.dataset.v;
+        state.shown = PAGE;
+        sync(); render();
+      });
+    });
+  }
+
+  function matches(it) {
+    if (state.area && it.area !== state.area) return false;
+    if (state.age && it.age !== state.age) return false;
+    if (state.income && it.income !== state.income) return false;
+    if (state.tag && !it.tags.includes(state.tag)) return false;
+    if (state.q) {
+      const terms = norm(state.q).split(/[,、]/).filter(Boolean);
+      for (const t of terms) if (!it._hay.includes(t)) return false;
+    }
+    return true;
+  }
+
+  function sync() {
+    document.querySelectorAll('.chips .chip').forEach((b) => {
+      b.classList.toggle('on', state[b.dataset.key] === b.dataset.v);
+    });
+    const p = new URLSearchParams();
+    for (const k of ['q', 'area', 'age', 'income', 'tag']) if (state[k]) p.set(k, state[k]);
+    const qs = p.toString();
+    history.replaceState(null, '', qs ? `/cases/search/?${qs}` : '/cases/search/');
+  }
+
+  function render() {
+    if (!index) return;
+    const hits = index.filter(matches);
+    statusEl.textContent = `${hits.length.toLocaleString()}件`;
+    if (!hits.length) {
+      list.innerHTML = '';
+      moreBtn.hidden = true;
+      statusEl.textContent = '条件に合う事例がありません。条件を減らしてください。';
+      return;
+    }
+    list.innerHTML = hits.slice(0, state.shown).map((it) => `
+      <li><a href="/cases/${it.id}/">
+        <span class="c-title">${esc(it.title)}</span>
+        <span class="c-sub">${esc(it.sub)}</span>
+        <span class="c-summary">${esc(it.summary)}</span>
+        <span class="c-meta"><span class="tag">${esc(it.area)}</span><span class="tag mute">${esc(it.pattern)}</span></span>
+      </a></li>`).join('');
+    moreBtn.hidden = hits.length <= state.shown;
+    moreBtn.textContent = `さらに表示（残り${(hits.length - state.shown).toLocaleString()}件）`;
+  }
+
+  el('q').addEventListener('input', () => {
+    state.q = el('q').value.trim();
+    state.shown = PAGE;
+    sync(); render();
+  });
+  el('f').addEventListener('submit', (e) => { e.preventDefault(); render(); });
+  moreBtn.addEventListener('click', () => { state.shown += PAGE; render(); });
+  el('reset').addEventListener('click', () => {
+    Object.assign(state, { q: '', area: '', age: '', income: '', tag: '', shown: PAGE });
+    el('q').value = '';
+    sync(); render();
+  });
+
+  // URLの条件を復元してから描画する
+  const sp = new URLSearchParams(location.search);
+  for (const k of ['q', 'area', 'age', 'income', 'tag']) if (sp.get(k)) state[k] = sp.get(k);
+  el('q').value = state.q;
+
+  loadIndex()
+    .then(() => { buildFacets(); sync(); render(); })
+    .catch(() => { statusEl.textContent = '事例データを読み込めませんでした。時間をおいて再度お試しください。'; });
+</script>
+
+<style>
+  .wrap { max-width: 880px; margin: 0 auto; padding: 32px 20px 72px; line-height: 1.9; color: #24292f; }
+  .breadcrumb { font-size: .85rem; color: #6b7684; display: flex; gap: .4em; flex-wrap: wrap; }
+  .breadcrumb a { color: #6b7684; }
+  h1 { font-size: 1.6rem; margin: .5em 0 .3em; }
+  .lead { font-size: .93rem; color: #57606a; margin: 0 0 1.4em; }
+
+  .case-search { display: flex; gap: 8px; margin: 0 0 1.4em; }
+  .case-search input {
+    flex: 1; min-width: 0; padding: .7em 1em; font-size: .95rem;
+    border: 1px solid #d8dde3; border-radius: 8px; background: #fff; color: #24292f;
+  }
+  .case-search input:focus { outline: 2px solid #1c1c2e; outline-offset: -1px; border-color: #1c1c2e; }
+  .case-search button {
+    padding: .7em 1.6em; font-size: .95rem; font-weight: 700; cursor: pointer;
+    border: none; border-radius: 8px; background: #1c1c2e; color: #fff;
+  }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+
+  .facets { display: grid; gap: .9em; margin: 0 0 1.4em; }
+  .facet { display: grid; grid-template-columns: 7.5em minmax(0, 1fr); gap: .6em; align-items: start; }
+  .facet-label { font-size: .8rem; font-weight: 700; color: #57606a; padding-top: .35em; }
+  .chips { display: flex; flex-wrap: wrap; gap: .35em; }
+  /* チップはJSで差し込むのでスコープ属性が付かない。:global でないと当たらない */
+  .chips :global(.chip) {
+    font-size: .8rem; padding: .3em .8em; border-radius: 999px; cursor: pointer;
+    border: 1px solid #dde1e6; background: #fff; color: #333c47; display: inline-flex; gap: .45em; align-items: center;
+  }
+  .chips :global(.chip:hover) { border-color: #1c1c2e; }
+  .chips :global(.chip.on) { background: #1c1c2e; color: #fff; border-color: #1c1c2e; }
+  .chips :global(.chip .n) { font-size: .7rem; color: #9aa3b0; }
+  .chips :global(.chip.on .n) { color: #c9cfd8; }
+
+  .bar { display: flex; justify-content: space-between; align-items: center; gap: 1em; border-top: 1px solid #eceff2; padding-top: .9em; }
+  .status { margin: 0; font-size: .9rem; color: #24292f; font-weight: 700; }
+  .reset { font-size: .8rem; color: #6b7480; background: none; border: none; cursor: pointer; text-decoration: underline; padding: 0; }
+
+  .case-list { list-style: none; padding: 0; margin: .4em 0 0; }
+  #results :global(li) { border-bottom: 1px solid #eceff2; }
+  #results :global(a) { display: block; padding: 1em .2em; }
+  #results :global(a:hover) { background: #fafbfc; }
+  #results :global(.c-title) { display: block; font-weight: 700; color: #1c1c2e; line-height: 1.6; }
+  #results :global(a:hover .c-title) { text-decoration: underline; }
+  #results :global(.c-sub) { display: block; font-size: .84rem; color: #1e5f56; font-weight: 700; margin-top: .1em; }
+  #results :global(.c-summary) { display: block; font-size: .86rem; color: #57606a; margin-top: .3em; }
+  #results :global(.c-meta) { display: flex; flex-wrap: wrap; gap: .4em; margin-top: .45em; }
+  #results :global(.tag) { font-size: .72rem; border-radius: 4px; padding: 2px 8px; background: #1c1c2e; color: #fff; }
+  #results :global(.tag.mute) { background: #f0f2f5; color: #6b7684; }
+
+  .more { text-align: center; margin: 1.6em 0 0; }
+  .more button {
+    padding: .7em 2em; font-size: .9rem; font-weight: 700; cursor: pointer;
+    border: 1px solid #dde1e6; border-radius: 8px; background: #fff; color: #1c1c2e;
+  }
+  .more button:hover { border-color: #1c1c2e; }
+
+  .note {
+    font-size: .8rem; line-height: 1.85; color: #5c6675;
+    background: #f6f7f9; border: 1px solid #e6e9ed; border-radius: 8px; padding: .85em 1.05em; margin: 2.4em 0 1.2em;
+  }
+  .fallback { font-size: .86rem; color: #6b7480; }
+  .fallback a { color: #1e5f56; text-decoration: underline; }
+
+  @media (max-width: 640px) {
+    .facet { grid-template-columns: 1fr; gap: .3em; }
+    .facet-label { padding-top: 0; }
+  }
+</style>

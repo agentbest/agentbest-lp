@@ -1,0 +1,198 @@
+---
+// src/pages/cases/index.astro … 転職事例集のトップ。
+// 事例そのものはパターンページ（/cases/pattern/{slug}/）に25件ずつ並ぶ。
+// ここは「どのパターンから読むか」を選ばせる階層。
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
+import { CASES, PATTERNS, patternGroups, DISCLAIMER } from '../../lib/cases';
+import { jobsUrl } from '../../lib/jobsLink';
+
+const groups = patternGroups();
+const total = CASES.length;
+
+// 各領域から代表を1件ずつ拾って、事例の粒度が分かるようにする
+const samples = groups
+  .map((g) => CASES.find((c) => c.area === g.key))
+  .filter(Boolean)
+  .slice(0, 5);
+
+const title = `転職事例集｜${total.toLocaleString()}件の異動パターンから探す`;
+const description =
+  `IT・SaaS・コンサル・M&A領域の転職事例を${total.toLocaleString()}件収録。` +
+  `「大手SIerのPjM→SaaSのPdM」のような${PATTERNS.length}種類の異動パターンごとに、` +
+  `転職前後の職種・年収の動き・選考でネックになった点・その突破の仕方をまとめています。`;
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: PATTERNS.slice(0, 12).map((p) => ({
+    '@type': 'Question',
+    name: p.question,
+    acceptedAnswer: { '@type': 'Answer', text: p.lead },
+  })),
+};
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://www.agent-best.net/' },
+    { '@type': 'ListItem', position: 2, name: '転職事例集', item: 'https://www.agent-best.net/cases/' },
+  ],
+};
+---
+
+<Layout title={title} description={description}>
+  <Header />
+  <section class="wrap">
+    <nav class="breadcrumb" aria-label="パンくず">
+      <a href="/">ホーム</a><span>/</span><span>転職事例集</span>
+    </nav>
+
+    <h1>転職事例集</h1>
+    <p class="lead">
+      「どこから、どこへ」で整理した転職の事例集です。全<strong>{total.toLocaleString()}件</strong>を
+      <strong>{PATTERNS.length}種類</strong>の異動パターンに分けて収録しています。
+      1件ごとに、転職前の状況・きっかけ・<strong>選考でネックになったこと</strong>・どう進めたか・年収の動きまでを記載しました。
+    </p>
+
+    <p class="note">{DISCLAIMER}</p>
+
+    <form class="case-search" action="/cases/search/" method="get" role="search">
+      <label class="sr-only" for="q">事例を検索</label>
+      <input id="q" type="search" name="q" placeholder="職種・業界・キーワードで検索（例：PdM、SIer、年収維持、ケース面接）" autocomplete="off" />
+      <button type="submit">検索</button>
+    </form>
+    <p class="search-note">
+      年代・年収帯・領域での絞り込みは <a href="/cases/search/">事例をしぼり込む</a> から。
+    </p>
+
+    <nav class="jump" aria-label="領域">
+      {groups.map((g) => <a href={`#${g.key}`}>{g.label}<span class="jump-count">{g.count}</span></a>)}
+    </nav>
+
+    {groups.map((g) => (
+      <div class="group" id={g.key}>
+        <h2>{g.label}<span class="group-count">{g.count}件</span></h2>
+        <p class="group-note">{g.note}</p>
+        <ul class="pattern-list">
+          {g.patterns.map((p) => (
+            <li>
+              <a href={`/cases/pattern/${p.slug}/`}>
+                <span class="p-label">{p.label}</span>
+                <span class="p-question">{p.question}</span>
+                <span class="p-meta">{p.count}件</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+
+    <h2 id="samples">事例の読み方</h2>
+    <p class="group-note">各領域から1件ずつ。1件がどのくらいの粒度で書かれているかの見本です。</p>
+    <ul class="case-list">
+      {samples.map((c) => (
+        <li>
+          <a href={`/cases/${c.id}/`}>
+            <span class="c-title">{c.title}</span>
+            <span class="c-sub">{c.subtitle}</span>
+            <span class="c-summary">{c.summary}</span>
+            <span class="c-meta"><span class="chip">{c.areaLabel}</span><span class="chip chip-mute">{c.patternLabel}</span></span>
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    <div class="cta">
+      <h2>自分のケースが見つからないとき</h2>
+      <p>
+        事例はあくまで型です。実際の選考は、同じ移動でも年齢・時期・応募先のフェーズで進み方が変わります。
+        自分の経歴だとどのパターンに近いのかを整理したい方は、キャリア相談をご利用ください。
+      </p>
+      <a class="cta-btn" href="/consultation/">キャリア相談について見る →</a>
+      <p class="cta-sub">
+        求人から探したい方は <a href={jobsUrl({ medium: 'cases', campaign: 'cases-index' })} data-jobs-cta="cases-index" target="_blank" rel="noopener">求人検索</a>、
+        職種・業界の解説は <a href="/media/">キャリアメディア</a> にまとめています。
+      </p>
+    </div>
+
+    <ShareButtons title={title} label="この事例集をシェア" />
+  </section>
+
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(faqLd)} />
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbLd)} />
+</Layout>
+
+<style>
+  .wrap { max-width: 980px; margin: 0 auto; padding: 32px 20px 72px; line-height: 1.9; color: #24292f; }
+  .breadcrumb { font-size: .85rem; color: #6b7684; display: flex; gap: .4em; }
+  .breadcrumb a { color: #6b7684; }
+  h1 { font-size: 1.9rem; margin: .5em 0 .5em; }
+  .lead { font-size: 1rem; color: #333c47; margin: 0 0 1.2em; }
+  .note {
+    font-size: .82rem; line-height: 1.85; color: #5c6675;
+    background: #f6f7f9; border: 1px solid #e6e9ed; border-radius: 8px; padding: .9em 1.1em; margin: 0 0 1.8em;
+  }
+
+  .case-search { display: flex; gap: 8px; margin: 0 0 .6em; }
+  .case-search input {
+    flex: 1; min-width: 0; padding: .7em 1em; font-size: .95rem;
+    border: 1px solid #d8dde3; border-radius: 8px; background: #fff; color: #24292f;
+  }
+  .case-search input:focus { outline: 2px solid #1c1c2e; outline-offset: -1px; border-color: #1c1c2e; }
+  .case-search button {
+    padding: .7em 1.6em; font-size: .95rem; font-weight: 700; cursor: pointer;
+    border: none; border-radius: 8px; background: #1c1c2e; color: #fff;
+  }
+  .case-search button:hover { background: #33334d; }
+  .search-note { font-size: .85rem; color: #6b7480; margin: 0 0 2em; }
+  .search-note a, .cta-sub a { color: #1e5f56; text-decoration: underline; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+
+  .jump { display: flex; flex-wrap: wrap; gap: .5em; margin: 0 0 2.4em; }
+  .jump a {
+    font-size: .85rem; font-weight: 700; padding: .45em 1em; border-radius: 999px;
+    border: 1px solid #dde1e6; background: #fff; display: inline-flex; gap: .5em; align-items: center;
+  }
+  .jump a:hover { border-color: #1c1c2e; }
+  .jump-count { font-size: .74rem; color: #8a93a2; font-weight: 500; }
+
+  .group { margin: 0 0 2.6em; }
+  h2 { font-size: 1.25rem; margin: 1.8em 0 .3em; display: flex; align-items: baseline; gap: .6em; }
+  .group-count { font-size: .78rem; color: #8a93a2; font-weight: 400; }
+  .group-note { font-size: .88rem; color: #57606a; margin: 0 0 1em; }
+
+  .pattern-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .pattern-list a {
+    display: block; height: 100%; padding: .95em 1.1em; border: 1px solid #e3e7ec; border-radius: 10px; background: #fff;
+  }
+  .pattern-list a:hover { border-color: #1c1c2e; background: #fcfcfd; }
+  .p-label { display: block; font-weight: 700; font-size: .95rem; color: #1c1c2e; line-height: 1.6; }
+  .p-question { display: block; font-size: .82rem; color: #57606a; line-height: 1.7; margin-top: .3em; }
+  .p-meta { display: block; font-size: .74rem; color: #8a93a2; margin-top: .5em; }
+
+  .case-list { list-style: none; padding: 0; margin: 0; }
+  .case-list li { border-bottom: 1px solid #eceff2; }
+  .case-list a { display: block; padding: 1.1em .2em; }
+  .case-list a:hover { background: #fafbfc; }
+  .c-title { display: block; font-weight: 700; color: #1c1c2e; line-height: 1.6; }
+  .case-list a:hover .c-title { text-decoration: underline; }
+  .c-sub { display: block; font-size: .85rem; color: #1e5f56; font-weight: 700; margin-top: .15em; }
+  .c-summary { display: block; font-size: .87rem; color: #57606a; margin-top: .3em; }
+  .c-meta { display: flex; flex-wrap: wrap; gap: .4em; margin-top: .5em; }
+  .chip { font-size: .72rem; border-radius: 4px; padding: 2px 8px; background: #1c1c2e; color: #fff; }
+  .chip-mute { background: #f0f2f5; color: #6b7684; }
+
+  .cta { margin: 3em 0 0; padding: 1.6em 1.6em 1.8em; background: #f6f7f9; border-radius: 12px; }
+  .cta h2 { margin-top: 0; font-size: 1.1rem; }
+  .cta p { font-size: .9rem; color: #454e59; margin: 0 0 1em; }
+  .cta-btn { display: inline-block; padding: .75em 1.6em; border-radius: 8px; background: #1e5f56; color: #fff; font-weight: 700; font-size: .92rem; }
+  .cta-btn:hover { background: #16453f; }
+  .cta-sub { font-size: .84rem; color: #6b7480; margin: 1.2em 0 0; }
+
+  @media (max-width: 720px) {
+    .pattern-list { grid-template-columns: 1fr; }
+    h1 { font-size: 1.55rem; }
+  }
+</style>

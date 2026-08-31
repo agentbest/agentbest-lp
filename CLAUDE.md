@@ -54,6 +54,42 @@
 - `src/pages/media/search/index.astro` ＋ `search.json.ts` … 全記事検索。インデックスは遅延fetch（gzip後約210KB）
 - `src/pages/media/[slug].astro` … 記事詳細
 
+## 転職事例集（/cases）
+
+「どこから、どこへ」で整理した転職の事例集。**1,000件 = 40パターン × 25件**。
+
+### ⚠ 事例はモデルケースである（最重要）
+
+**実支援実績ではない。** 転職市場で成立している異動パターンをもとに構成したモデルケースで、
+氏名・イニシャル・写真・本人コメントは一切載せない。企業名も「大手SIer」「上場SaaS企業」の**類型**で書く。
+- 注記の原本は `src/lib/cases.ts` の **`DISCLAIMER`**。/cases 配下の全ページがこれを表示する。文言はここだけ直す。
+- **実在の企業名を patterns.mjs に書かない。** 特定企業の選考について述べた記述と読まれる余地を残さないため。
+- 「当社が支援した」「実績」と読める表現を足さない。
+
+### 生成の流れ
+
+`tools/cases/` → `src/data/*.json` → Astroページ。**`src/data/*.json` を手で編集しない。**
+
+| ファイル | 役割 |
+|---|---|
+| `tools/cases/patterns.mjs` | 40パターンの定義（前職/転職後の類型・年齢/年収レンジ・想定質問・パターン固有の文） |
+| `tools/cases/banks.mjs` | 動機10・ネック12・突破口12・年収ロジック8・示唆7の文面バンク（変種を複数持つ） |
+| `tools/cases/generate.mjs` | `node tools/cases/generate.mjs` で `src/data/cases.json` と `case-patterns.json` を出力 |
+
+- 乱数は **seed 固定**。再生成しても同じ内容になる（差分レビューができる）。
+- 生成時に自己点検を出す（ID重複・本文の完全一致・平均文字数）。**本文の完全一致は0であること。**
+
+### ページ構成
+
+- `src/pages/cases/index.astro` … トップ。領域5→パターン40の2階層
+- `src/pages/cases/pattern/[slug].astro` … パターンごとの事例25件（40ページ）。**ここが一番情報量の多い階層**
+- `src/pages/cases/[id].astro` … 事例詳細（1,000ページ）
+- `src/pages/cases/search/index.astro` ＋ `search.json.ts` … 絞り込み。インデックスは遅延fetch（約460KB）。結果はURLで変わるので **noindex**
+- 導線: トップのフッター（`src/pages/index.astro`）と `/media/` のジャンプナビ。**ヘッダーには足さない**（7項目で崩れる）
+
+⚠ `search/index.astro` の `buildFacets()` 内でチップを描く関数を **`render` という名前にしない**。
+外側の `render()`（結果の描画）を隠して、チップを押しても絞り込まれなくなる（一度やった）。
+
 ## ⚠ 技術的SEO（触るときは必ず読む）
 
 - **canonical のホストは `https://www.agent-best.net`（wwwあり）。** apex `agent-best.net` は www へ **308リダイレクト**する。wwwなしで canonical や Sitemap を書くとリダイレクト先を正規URLに指定することになり逆効果。

@@ -1,0 +1,158 @@
+---
+// src/pages/cases/[id].astro … 事例1件の詳細（1,000ページ）。
+//
+// ⚠ 事例はモデルケース。断定的な実績表現を足さないこと（DISCLAIMER を必ず出す）。
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
+import { CASES, PATTERN_BY_SLUG, casesOfPattern, DISCLAIMER } from '../../lib/cases';
+
+export function getStaticPaths() {
+  return CASES.map((c) => ({ params: { id: c.id }, props: { item: c } }));
+}
+
+const { item } = Astro.props;
+const pattern = PATTERN_BY_SLUG.get(item.pattern)!;
+
+// 同じパターンの他の事例。番号が近いものではなく、離れたものを出して幅を見せる
+const siblings = casesOfPattern(item.pattern).filter((c) => c.id !== item.id);
+const others = [0, 6, 12, 18].map((i) => siblings[i % siblings.length]).filter(Boolean)
+  .filter((c, i, a) => a.findIndex((x) => x.id === c.id) === i);
+
+const title = `${item.title}｜${item.subtitle}｜転職事例集`;
+const description =
+  `${item.age}歳、${item.before.company}の${item.before.role}から${item.after.company}の${item.after.role}へ。` +
+  `年収${item.before.income}万円→${item.after.income}万円。${item.summary}`;
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://www.agent-best.net/' },
+    { '@type': 'ListItem', position: 2, name: '転職事例集', item: 'https://www.agent-best.net/cases/' },
+    { '@type': 'ListItem', position: 3, name: pattern.label, item: `https://www.agent-best.net/cases/pattern/${pattern.slug}/` },
+    { '@type': 'ListItem', position: 4, name: item.title, item: `https://www.agent-best.net/cases/${item.id}/` },
+  ],
+};
+---
+
+<Layout title={title} description={description}>
+  <Header />
+  <article class="wrap">
+    <nav class="breadcrumb" aria-label="パンくず">
+      <a href="/">ホーム</a><span>/</span><a href="/cases/">転職事例集</a><span>/</span>
+      <a href={`/cases/pattern/${pattern.slug}/`}>{pattern.label}</a>
+    </nav>
+
+    <p class="eyebrow">{item.areaLabel}／{pattern.label}</p>
+    <h1>{item.title}</h1>
+    <p class="sub">{item.subtitle}</p>
+
+    <table class="facts">
+      <tbody>
+        <tr><th>転職前</th><td>{item.before.company}／{item.before.role}（{item.before.industry}）</td></tr>
+        <tr><th>転職後</th><td>{item.after.company}／{item.after.role}（{item.after.industry}）</td></tr>
+        <tr><th>年齢・経験年数</th><td>{item.age}歳／前職{item.years}年</td></tr>
+        <tr><th>年収</th><td>{item.before.income}万円 → {item.after.income}万円（{item.deltaLabel}）</td></tr>
+        <tr><th>転職のきっかけ</th><td>{item.motive}</td></tr>
+        <tr><th>選考の論点</th><td>{item.barrier}</td></tr>
+        <tr><th>効いた進め方</th><td>{item.breaks.join('／')}</td></tr>
+        <tr><th>選考の状況</th><td>応募{item.process.applied}社・書類通過{item.process.docPass}社・内定{item.process.offers}社／約{item.process.months}か月</td></tr>
+      </tbody>
+    </table>
+
+    {item.sections.map((s) => (
+      <section class="sec">
+        <h2>{s.h}</h2>
+        {s.p.map((t) => <p>{t}</p>)}
+      </section>
+    ))}
+
+    <ul class="tags">
+      {item.tags.map((t) => <li>{t}</li>)}
+    </ul>
+
+    <p class="note">{DISCLAIMER}</p>
+
+    <div class="next">
+      <h2>同じパターンの他の事例</h2>
+      <ul class="case-list">
+        {others.map((c) => (
+          <li>
+            <a href={`/cases/${c.id}/`}>
+              <span class="c-title">{c.title}</span>
+              <span class="c-sub">{c.subtitle}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <p class="more">
+        <a href={`/cases/pattern/${pattern.slug}/`}>「{pattern.label}」の事例{pattern.count}件をすべて見る →</a>
+      </p>
+    </div>
+
+    <div class="cta">
+      <h2>自分の場合はどうか、を確かめたいとき</h2>
+      <p>
+        事例は型であって、そのまま当てはまるものではありません。
+        いまの経歴でどのパターンに近いのか、何が論点になりそうかを整理したい方は、キャリア相談をご利用ください。
+      </p>
+      <a class="cta-btn" href="/consultation/">キャリア相談について見る →</a>
+    </div>
+
+    <ShareButtons title={`${item.title}｜${item.subtitle}`} label="この事例をシェア" />
+  </article>
+
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbLd)} />
+</Layout>
+
+<style>
+  .wrap { max-width: 760px; margin: 0 auto; padding: 32px 20px 72px; line-height: 1.95; color: #24292f; }
+  .breadcrumb { font-size: .84rem; color: #6b7684; display: flex; gap: .4em; flex-wrap: wrap; }
+  .breadcrumb a { color: #6b7684; }
+  .breadcrumb a:hover { text-decoration: underline; }
+  .eyebrow { font-size: .76rem; letter-spacing: .1em; color: #1e5f56; font-weight: 700; margin: 1.4em 0 .2em; }
+  h1 { font-size: 1.5rem; line-height: 1.5; margin: 0 0 .3em; }
+  .sub { font-size: 1rem; font-weight: 700; color: #1e5f56; margin: 0 0 1.6em; }
+
+  .facts { width: 100%; border-collapse: collapse; margin: 0 0 2.4em; font-size: .89rem; }
+  .facts th, .facts td { border-top: 1px solid #e6e9ed; padding: .7em .2em; text-align: left; vertical-align: top; }
+  .facts tr:last-child th, .facts tr:last-child td { border-bottom: 1px solid #e6e9ed; }
+  .facts th { width: 8.5em; font-weight: 700; color: #57606a; white-space: nowrap; }
+  .facts td { color: #24292f; }
+
+  .sec { margin: 0 0 1.8em; }
+  h2 { font-size: 1.08rem; margin: 0 0 .4em; padding-left: .6em; border-left: 3px solid #1e5f56; }
+  .sec p { margin: 0 0 .8em; font-size: .95rem; }
+
+  .tags { list-style: none; padding: 0; margin: 2em 0 1.6em; display: flex; flex-wrap: wrap; gap: .4em; }
+  .tags li { font-size: .74rem; background: #f0f2f5; color: #6b7684; border-radius: 4px; padding: 3px 9px; }
+
+  .note {
+    font-size: .8rem; line-height: 1.85; color: #5c6675;
+    background: #f6f7f9; border: 1px solid #e6e9ed; border-radius: 8px; padding: .85em 1.05em; margin: 0 0 2.4em;
+  }
+
+  .next h2 { border: none; padding: 0; font-size: 1.05rem; margin-bottom: .4em; }
+  .case-list { list-style: none; padding: 0; margin: 0; }
+  .case-list li { border-bottom: 1px solid #eceff2; }
+  .case-list a { display: block; padding: .85em .2em; }
+  .case-list a:hover { background: #fafbfc; }
+  .c-title { display: block; font-weight: 700; color: #1c1c2e; font-size: .92rem; line-height: 1.6; }
+  .case-list a:hover .c-title { text-decoration: underline; }
+  .c-sub { display: block; font-size: .82rem; color: #1e5f56; font-weight: 700; margin-top: .1em; }
+  .more { font-size: .88rem; margin: 1em 0 0; }
+  .more a { color: #1e5f56; text-decoration: underline; }
+
+  .cta { margin: 2.6em 0 0; padding: 1.5em 1.5em 1.7em; background: #f6f7f9; border-radius: 12px; }
+  .cta h2 { border: none; padding: 0; margin-top: 0; font-size: 1.02rem; }
+  .cta p { font-size: .89rem; color: #454e59; margin: 0 0 1em; }
+  .cta-btn { display: inline-block; padding: .75em 1.6em; border-radius: 8px; background: #1e5f56; color: #fff; font-weight: 700; font-size: .92rem; }
+  .cta-btn:hover { background: #16453f; }
+
+  @media (max-width: 600px) {
+    h1 { font-size: 1.25rem; }
+    .facts th { width: 6.5em; font-size: .84rem; }
+    .facts td { font-size: .86rem; }
+  }
+</style>
