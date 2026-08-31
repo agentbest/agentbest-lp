@@ -92,7 +92,7 @@ const organizationSchema = {
   name: '株式会社エージェントベスト',
   alternateName: 'AGENT BEST',
   url: 'https://www.agent-best.net/',
-  logo: 'https://www.agent-best.net/favicon.svg',
+  logo: 'https://www.agent-best.net/logo.png',
   slogan: '日本に磁力を生む',
   description:
     'IT・スタートアップ・M&A・コンサル領域に特化した転職エージェント。人材紹介・採用支援（RPO）・キャリアメディア運営を行っています。',
@@ -339,8 +339,7 @@ const organizationSchema = {
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div class="footer-brand">
-        <span class="brand-mark" aria-hidden="true"></span>
-        <span class="footer-name">AGENT&nbsp;BEST</span>
+        <img class="footer-logo" src="/logo-white.png" alt="エージェントベスト" width="508" height="120" />
         <p class="footer-tag">20代・30代ハイクラスのための転職エージェント</p>
       </div>
       <p class="footer-meta">
@@ -703,17 +702,10 @@ const organizationSchema = {
     .footer-inner { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr) minmax(0, 1.2fr); align-items: start; }
   }
   .footer-brand { display: flex; flex-direction: column; gap: 8px; }
-  .footer-brand .brand-mark {
-    width: 14px; height: 14px; border: 1.5px solid #B7D9CF; position: relative;
-  }
-  .footer-brand .brand-mark::after {
-    content: ""; position: absolute; inset: 3px; background: #B7D9CF;
-  }
-  .footer-name {
-    font-family: var(--font-display);
-    font-weight: 700;
-    letter-spacing: 0.16em;
-    font-size: 1.05rem;
+  .footer-logo {
+    display: block;
+    height: 42px;
+    width: auto;
   }
   .footer-tag { font-size: 0.84rem; color: #AEB6C2; }
   .footer-meta { font-size: 0.82rem; color: #AEB6C2; line-height: 1.9; }

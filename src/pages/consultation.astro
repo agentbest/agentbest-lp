@@ -208,8 +208,7 @@ const steps = [
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div class="footer-brand">
-        <span class="brand-mark" aria-hidden="true"></span>
-        <span class="footer-name">AGENT&nbsp;BEST</span>
+        <img class="footer-logo" src="/logo-white.png" alt="エージェントベスト" width="508" height="120" />
         <p class="footer-tag">ミドル・ハイクラスのための転職エージェント</p>
       </div>
       <p class="footer-meta">
@@ -326,9 +325,7 @@ const steps = [
     .footer-inner { display: grid; gap: clamp(28px, 5vw, 48px); padding-bottom: clamp(40px, 6vw, 64px); }
     @media (min-width: 720px) { .footer-inner { grid-template-columns: 1fr 1fr; align-items: end; } }
     .footer-brand { display: flex; flex-direction: column; gap: 0.4rem; }
-    .footer-brand .brand-mark { width: 14px; height: 14px; border: 1.5px solid #B7D9CF; position: relative; }
-    .footer-brand .brand-mark::after { content: ""; position: absolute; inset: 3px; background: #B7D9CF; }
-    .footer-name { font-family: var(--font-display); font-weight: 700; letter-spacing: 0.16em; font-size: 1.1rem; margin-top: 0.4rem; }
+    .footer-logo { display: block; height: 42px; width: auto; margin-bottom: 0.2rem; }
     .footer-tag { color: #AEB6C2; font-size: 0.84rem; }
     .footer-meta { color: #AEB6C2; font-size: 0.82rem; line-height: 1.9; }
     @media (min-width: 720px) { .footer-meta { text-align: right; } }

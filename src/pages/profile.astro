@@ -151,8 +151,7 @@ const personSchema = {
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div class="footer-brand">
-        <span class="brand-mark" aria-hidden="true"></span>
-        <span class="footer-name">AGENT&nbsp;BEST</span>
+        <img class="footer-logo" src="/logo.png" alt="エージェントベスト" width="508" height="120" />
         <p class="footer-tag">ミドル・ハイクラスのための転職エージェント</p>
       </div>
       <p class="footer-meta">
@@ -170,6 +169,11 @@ const personSchema = {
 </Layout>
 
 <style>
+  .footer-logo {
+    display: block;
+    height: 42px;
+    width: auto;
+  }
   .profile {
     padding: clamp(48px, 8vw, 96px) 0 clamp(56px, 9vw, 104px);
   }
