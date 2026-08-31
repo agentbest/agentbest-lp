@@ -12,7 +12,16 @@ import { writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { PATTERNS, AREAS } from './patterns.mjs';
-import { MOTIVES, BARRIERS, BREAKS, INCOME_LOGIC, TAKEAWAYS } from './banks.mjs';
+import { MOTIVES as M0, BARRIERS as BA0, BREAKS as BR0, INCOME_LOGIC as IL0, TAKEAWAYS as TA0 } from './banks.mjs';
+import { MOTIVES_EXTRA, BARRIERS_EXTRA, BREAKS_EXTRA, INCOME_LOGIC_EXTRA, TAKEAWAYS_EXTRA } from './banks-extra.mjs';
+
+// 追加分は banks-extra.mjs 側。既存エントリの body 配列は絶対に増やさない
+// （選ばれる文がずれて、公開済みの事例の本文が入れ替わるため）
+const MOTIVES = { ...M0, ...MOTIVES_EXTRA };
+const BARRIERS = { ...BA0, ...BARRIERS_EXTRA };
+const BREAKS = { ...BR0, ...BREAKS_EXTRA };
+const INCOME_LOGIC = { ...IL0, ...INCOME_LOGIC_EXTRA };
+const TAKEAWAYS = { ...TA0, ...TAKEAWAYS_EXTRA };
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const OUT = resolve(HERE, '../../src/data/cases.json');
@@ -39,11 +48,11 @@ const mk = (rng) => ({
 
 /* ---------- 年収ロジックの整合 ---------- */
 function incomeLogicFor(delta, candidates) {
-  const up = ['up_scope', 'up_scarcity', 'up_stage', 'up_role', 'up_domain', 'up_negotiation'];
+  const up = ['up_scope', 'up_scarcity', 'up_stage', 'up_role', 'up_domain', 'up_negotiation', 'up_market', 'up_shortage'];
   let ok;
   if (delta > 40) ok = candidates.filter((k) => up.includes(k));
-  else if (delta < -40) ok = candidates.filter((k) => k === 'down_then_up');
-  else ok = candidates.filter((k) => k === 'flat_tradeoff');
+  else if (delta < -40) ok = candidates.filter((k) => k === 'down_then_up' || k === 'down_life');
+  else ok = candidates.filter((k) => k === 'flat_tradeoff' || k === 'flat_stage');
   if (ok.length) return ok;
   // パターン側が持っていない符号になった場合の受け皿
   if (delta > 40) return ['up_scope'];

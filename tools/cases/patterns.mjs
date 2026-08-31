@@ -8,7 +8,9 @@
 // question … その事例集が答えようとしている、求職者側の問いの形。
 //            パターンページの h2 とJSON-LDのFAQに使う。
 
-export const AREAS = {
+import { PATTERNS_EXTRA, AREAS_EXTRA } from './patterns-extra.mjs';
+
+const AREAS_CORE = {
   consul: { label: 'コンサルティング', note: '未経験からの入社、ファーム間の移動、ファームから事業会社への移動まで。' },
   ma: { label: 'M&A・FAS', note: '仲介・FA・FAS・事業会社のM&A部門。同じ「M&A」でも役割は大きく違う。' },
   pm: { label: 'PM・PdM・PMO', note: '受託のプロジェクトマネジメントから、事業会社・SaaSのプロダクト側への移動。' },
@@ -18,7 +20,7 @@ export const AREAS = {
 
 const P = (o) => o;
 
-export const PATTERNS = [
+const PATTERNS_CORE = [
   /* ================= コンサルティング ================= */
   P({
     slug: 'sier-se-to-it-consultant', area: 'consul',
@@ -669,5 +671,10 @@ export const PATTERNS = [
     ],
   }),
 ];
+
+/* 追加分は必ず末尾に連結する。順番＝事例の通し番号＝URL なので、
+   途中に入れると公開済みURLの中身が入れ替わる。 */
+export const AREAS = { ...AREAS_CORE, ...AREAS_EXTRA };
+export const PATTERNS = [...PATTERNS_CORE, ...PATTERNS_EXTRA];
 
 export const PATTERN_BY_SLUG = new Map(PATTERNS.map((p) => [p.slug, p]));

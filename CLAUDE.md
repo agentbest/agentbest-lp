@@ -56,15 +56,16 @@
 
 ## 転職事例集（/cases）
 
-「どこから、どこへ」で整理した転職の事例集。**1,000件 = 40パターン × 25件**。
+「どこから、どこへ」で整理した転職の事例集。**2,000件 = 80パターン × 25件**（8領域）。
 
 ### ⚠ 事例はモデルケースである（最重要）
 
 **実支援実績ではない。** 転職市場で成立している異動パターンをもとに構成したモデルケースで、
 氏名・イニシャル・写真・本人コメントは一切載せない。企業名も「大手SIer」「上場SaaS企業」の**類型**で書く。
-- 注記の原本は `src/lib/cases.ts` の **`DISCLAIMER`**。/cases 配下の全ページがこれを表示する。文言はここだけ直す。
-- **実在の企業名を patterns.mjs に書かない。** 特定企業の選考について述べた記述と読まれる余地を残さないため。
-- 「当社が支援した」「実績」と読める表現を足さない。
+- **実在の企業名を書かない。** 特定企業の選考について述べた記述と読まれる余地を残さないため。
+- 「当社が支援した」「実績」と読める表現も足さない。
+- ⚠ **ページ上のモデルケース注記は 2026-08-31 に松岡さんの指示で削除した**（`DISCLAIMER` 定数ごと）。
+  戻すことになった場合は `src/lib/cases.ts` に定数を置き、/cases 配下の4ページで表示する形に戻す。
 
 ### 生成の流れ
 
@@ -72,19 +73,26 @@
 
 | ファイル | 役割 |
 |---|---|
-| `tools/cases/patterns.mjs` | 40パターンの定義（前職/転職後の類型・年齢/年収レンジ・想定質問・パターン固有の文） |
+| `tools/cases/patterns.mjs` | 領域の定義＋パターン40（前職/転職後の類型・年齢/年収レンジ・想定質問・パターン固有の文）。末尾で extra を連結 |
+| `tools/cases/patterns-extra.mjs` | 追加パターン40＋追加領域3（data／sales／corp） |
+| `tools/cases/banks-extra.mjs` | 追加の文面バンク |
 | `tools/cases/banks.mjs` | 動機10・ネック12・突破口12・年収ロジック8・示唆7の文面バンク（変種を複数持つ） |
 | `tools/cases/generate.mjs` | `node tools/cases/generate.mjs` で `src/data/cases.json` と `case-patterns.json` を出力 |
 
 - 乱数は **seed 固定**。再生成しても同じ内容になる（差分レビューができる）。
+- ⚠ **事例の通し番号（= URL）はパターンの並び順で決まる。** 増やすときは必ず `patterns-extra.mjs` の**末尾に足す**。
+  途中に挿すと公開済みURLの中身が総入れ替えになる。
+- ⚠ **既存の文面バンク（`banks.mjs`）の `body` 配列に変種を足さない。** 選ばれる文がずれて公開済みの事例が書き換わる。
+  文面を増やすときは `banks-extra.mjs` に**新しいキーとして**足す（generate.mjs 側でマージしている）。
+- 拡張したら、拡張前の `cases.json` と突き合わせて**既存事例の変化が0件**であることを確認する。
 - 生成時に自己点検を出す（ID重複・本文の完全一致・平均文字数）。**本文の完全一致は0であること。**
 
 ### ページ構成
 
-- `src/pages/cases/index.astro` … トップ。領域5→パターン40の2階層
-- `src/pages/cases/pattern/[slug].astro` … パターンごとの事例25件（40ページ）。**ここが一番情報量の多い階層**
-- `src/pages/cases/[id].astro` … 事例詳細（1,000ページ）
-- `src/pages/cases/search/index.astro` ＋ `search.json.ts` … 絞り込み。インデックスは遅延fetch（約460KB）。結果はURLで変わるので **noindex**
+- `src/pages/cases/index.astro` … トップ。領域8→パターン80の2階層（表示順は `src/lib/cases.ts` の `AREA_ORDER`）
+- `src/pages/cases/pattern/[slug].astro` … パターンごとの事例25件（80ページ）。**ここが一番情報量の多い階層**
+- `src/pages/cases/[id].astro` … 事例詳細（2,000ページ）
+- `src/pages/cases/search/index.astro` ＋ `search.json.ts` … 絞り込み。インデックスは遅延fetch（gzip後約74KB）。結果はURLで変わるので **noindex**
 - 導線: トップのフッター（`src/pages/index.astro`）と `/media/` のジャンプナビ。**ヘッダーには足さない**（7項目で崩れる）
 
 ⚠ `search/index.astro` の `buildFacets()` 内でチップを描く関数を **`render` という名前にしない**。

@@ -1,11 +1,11 @@
 ---
 // src/pages/cases/[id].astro … 事例1件の詳細（1,000ページ）。
 //
-// ⚠ 事例はモデルケース。断定的な実績表現を足さないこと（DISCLAIMER を必ず出す）。
+// ⚠ 事例はモデルケース（実支援実績ではない）。「当社が支援した」と読める表現を足さないこと。
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
-import { CASES, PATTERN_BY_SLUG, casesOfPattern, DISCLAIMER } from '../../lib/cases';
+import { CASES, PATTERN_BY_SLUG, casesOfPattern } from '../../lib/cases';
 
 export function getStaticPaths() {
   return CASES.map((c) => ({ params: { id: c.id }, props: { item: c } }));
@@ -72,8 +72,6 @@ const breadcrumbLd = {
       {item.tags.map((t) => <li>{t}</li>)}
     </ul>
 
-    <p class="note">{DISCLAIMER}</p>
-
     <div class="next">
       <h2>同じパターンの他の事例</h2>
       <ul class="case-list">
@@ -128,10 +126,6 @@ const breadcrumbLd = {
   .tags { list-style: none; padding: 0; margin: 2em 0 1.6em; display: flex; flex-wrap: wrap; gap: .4em; }
   .tags li { font-size: .74rem; background: #f0f2f5; color: #6b7684; border-radius: 4px; padding: 3px 9px; }
 
-  .note {
-    font-size: .8rem; line-height: 1.85; color: #5c6675;
-    background: #f6f7f9; border: 1px solid #e6e9ed; border-radius: 8px; padding: .85em 1.05em; margin: 0 0 2.4em;
-  }
 
   .next h2 { border: none; padding: 0; font-size: 1.05rem; margin-bottom: .4em; }
   .case-list { list-style: none; padding: 0; margin: 0; }

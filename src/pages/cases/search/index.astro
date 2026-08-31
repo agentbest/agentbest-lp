@@ -3,7 +3,7 @@
 // 結果はURLで変わるので noindex（実体のページは /cases/pattern/… と /cases/{id}/ 側にある）。
 import Layout from '../../../layouts/Layout.astro';
 import Header from '../../../components/Header.astro';
-import { CASES, DISCLAIMER } from '../../../lib/cases';
+import { CASES } from '../../../lib/cases';
 
 const total = CASES.length;
 const title = '事例をしぼり込む｜転職事例集';
@@ -41,7 +41,6 @@ const description = `転職事例${total.toLocaleString()}件を、領域・年�
     <ul class="case-list" id="results"></ul>
     <p class="more"><button type="button" id="more" hidden>さらに表示</button></p>
 
-    <p class="note">{DISCLAIMER}</p>
     <p class="fallback">
       パターンから探したい場合は <a href="/cases/">転職事例集のトップ</a>、
       職種・業界の解説は <a href="/media/">キャリアメディア</a> にまとめています。
@@ -235,10 +234,6 @@ const description = `転職事例${total.toLocaleString()}件を、領域・年�
   }
   .more button:hover { border-color: #1c1c2e; }
 
-  .note {
-    font-size: .8rem; line-height: 1.85; color: #5c6675;
-    background: #f6f7f9; border: 1px solid #e6e9ed; border-radius: 8px; padding: .85em 1.05em; margin: 2.4em 0 1.2em;
-  }
   .fallback { font-size: .86rem; color: #6b7480; }
   .fallback a { color: #1e5f56; text-decoration: underline; }
 

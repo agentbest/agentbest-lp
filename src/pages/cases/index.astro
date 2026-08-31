@@ -5,7 +5,7 @@
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
-import { CASES, PATTERNS, patternGroups, DISCLAIMER } from '../../lib/cases';
+import { CASES, PATTERNS, patternGroups } from '../../lib/cases';
 import { jobsUrl } from '../../lib/jobsLink';
 
 const groups = patternGroups();
@@ -55,8 +55,6 @@ const breadcrumbLd = {
       <strong>{PATTERNS.length}種類</strong>の異動パターンに分けて収録しています。
       1件ごとに、転職前の状況・きっかけ・<strong>選考でネックになったこと</strong>・どう進めたか・年収の動きまでを記載しました。
     </p>
-
-    <p class="note">{DISCLAIMER}</p>
 
     <form class="case-search" action="/cases/search/" method="get" role="search">
       <label class="sr-only" for="q">事例を検索</label>
@@ -130,10 +128,6 @@ const breadcrumbLd = {
   .breadcrumb a { color: #6b7684; }
   h1 { font-size: 1.9rem; margin: .5em 0 .5em; }
   .lead { font-size: 1rem; color: #333c47; margin: 0 0 1.2em; }
-  .note {
-    font-size: .82rem; line-height: 1.85; color: #5c6675;
-    background: #f6f7f9; border: 1px solid #e6e9ed; border-radius: 8px; padding: .9em 1.1em; margin: 0 0 1.8em;
-  }
 
   .case-search { display: flex; gap: 8px; margin: 0 0 .6em; }
   .case-search input {

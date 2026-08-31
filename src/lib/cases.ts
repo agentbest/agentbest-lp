@@ -50,7 +50,7 @@ export const CASES = casesJson as unknown as CaseItem[];
 export const PATTERNS = (patternsJson as any).patterns as CasePattern[];
 export const AREAS = (patternsJson as any).areas as Record<string, { label: string; note: string }>;
 
-export const AREA_ORDER = ['pm', 'consul', 'ma', 'eng', 'biz'];
+export const AREA_ORDER = ['pm', 'consul', 'ma', 'eng', 'data', 'sales', 'corp', 'biz'];
 
 export const CASE_BY_ID = new Map(CASES.map((c) => [c.id, c]));
 export const PATTERN_BY_SLUG = new Map(PATTERNS.map((p) => [p.slug, p]));
@@ -69,16 +69,6 @@ export function patternGroups() {
       count: CASES.filter((c) => c.area === a).length,
     }));
 }
-
-/**
- * 事例集全体の注記。
- * ⚠ ここが唯一の原本。/cases 配下の全ページがこれを表示する。文言を変えるならここだけ直す。
- */
-export const DISCLAIMER =
-  '本事例集は、転職市場で実際に成立している異動パターンをもとに構成したモデルケースです。' +
-  '特定の個人の転職を記述したものではなく、当社が支援した案件の実績を示すものでもありません。' +
-  '氏名・イニシャル・写真・本人のコメントは掲載しておらず、企業名も「大手SIer」「上場SaaS企業」のような類型で表しています。' +
-  '年収は求人票で提示されるレンジをもとにした目安です。';
 
 /** 一覧の表示件数（1ページあたり） */
 export const PER_PAGE = 40;

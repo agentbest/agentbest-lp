@@ -4,7 +4,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import Header from '../../../components/Header.astro';
 import ShareButtons from '../../../components/ShareButtons.astro';
-import { PATTERNS, PATTERN_BY_SLUG, casesOfPattern, DISCLAIMER } from '../../../lib/cases';
+import { PATTERNS, PATTERN_BY_SLUG, casesOfPattern } from '../../../lib/cases';
 
 export function getStaticPaths() {
   return PATTERNS.map((p) => ({ params: { slug: p.slug } }));
@@ -79,7 +79,7 @@ const breadcrumbLd = {
         この移動の事例を<strong>{cases.length}件</strong>掲載しています。
         この{cases.length}件の中で選考の論点になっていたのは、
         {barrierTally.map(([k], i) => (<><b>「{k}」</b>{i < barrierTally.length - 1 ? '、' : ''}</>))}。
-        年収は<b>上がったケースが{upCount}件</b>、横ばいが{flatCount}件、下がったケースが{downCount}件です。
+        年収は{flatCount === 0 && downCount === 0          ? <><b>{cases.length}件すべてで上がっています</b>。</>          : <><b>上がったケースが{upCount}件</b>、横ばいが{flatCount}件、下がったケースが{downCount}件です。</>}
       </p>
       <p class="a-note">※ 市場全体の統計ではなく、この事例集に収録した{cases.length}件の内訳です。</p>
     </div>
@@ -100,8 +100,6 @@ const breadcrumbLd = {
     </div>
 
     <h2 id="cases">事例{cases.length}件</h2>
-    <p class="note">{DISCLAIMER}</p>
-
     <ol class="case-list">
       {cases.map((c, i) => (
         <li>
@@ -174,10 +172,6 @@ const breadcrumbLd = {
   .t-label { color: #333c47; }
   .t-n { color: #8a93a2; font-size: .8rem; white-space: nowrap; }
 
-  .note {
-    font-size: .8rem; line-height: 1.85; color: #5c6675;
-    background: #f6f7f9; border: 1px solid #e6e9ed; border-radius: 8px; padding: .85em 1.05em; margin: 0 0 1.6em;
-  }
 
   .case-list { list-style: none; padding: 0; margin: 0; counter-reset: none; }
   .case-list li { border-bottom: 1px solid #eceff2; }
