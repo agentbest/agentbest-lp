@@ -94,6 +94,8 @@
 - `src/pages/cases/[id].astro` … 事例詳細（2,000ページ）
 - `src/pages/cases/search/index.astro` ＋ `search.json.ts` … 絞り込み。インデックスは遅延fetch（gzip後約74KB）。結果はURLで変わるので **noindex**
 - 導線: トップのフッター（`src/pages/index.astro`）と `/media/` のジャンプナビ。**ヘッダーには足さない**（7項目で崩れる）
+- sitemap の `<lastmod>` は `src/data/case-patterns.json` の `generatedAt`（生成器が書く）を `astro.config.mjs` が読む。
+  記事側の日付に引きずられないようにするため。ファイルのmtimeを使うとVercelのcloneでビルド日に化けるので使わない。
 
 ⚠ `search/index.astro` の `buildFacets()` 内でチップを描く関数を **`render` という名前にしない**。
 外側の `render()`（結果の描画）を隠して、チップを押しても絞り込まれなくなる（一度やった）。

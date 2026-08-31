@@ -184,8 +184,10 @@ const patternMeta = PATTERNS.map((p) => ({
   beforeIndustry: p.before.industry, afterIndustry: p.after.industry,
   count: cases.filter((c) => c.pattern === p.slug).length,
 }));
+// generatedAt は sitemap の <lastmod> に使う（astro.config.mjs）。
+// ファイルの mtime だと Vercel の clone でビルド日に化けるので、生成時刻を中に持たせる。
 writeFileSync(resolve(HERE, '../../src/data/case-patterns.json'),
-  JSON.stringify({ areas: AREAS, patterns: patternMeta }), 'utf8');
+  JSON.stringify({ generatedAt: new Date().toISOString(), areas: AREAS, patterns: patternMeta }), 'utf8');
 
 /* ---------- 自己点検 ---------- */
 const ids = new Set(cases.map((c) => c.id));

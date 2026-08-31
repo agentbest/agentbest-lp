@@ -95,6 +95,19 @@ const TAG_LASTMOD = tagSlugsOf ? groupLastmod((a) => tagSlugsOf(a)) : new Map();
 
 // メディアトップ・企業一覧・コーポレート各ページは全体の最新日で構わない
 const NEWEST = newestOf(ARTICLES);
+
+// 転職事例集（/cases）は記事とは別に日付を持つ。
+// 生成器（tools/cases/generate.mjs）が case-patterns.json に generatedAt を書くので、それを使う。
+// ここが無いと /cases 配下2,000ページの lastmod が「記事の最新日」に引きずられ、
+// 事例を増やしても更新が伝わらず、記事を足しただけで更新したことになる。
+let CASES_LASTMOD = null;
+try {
+  const meta = JSON.parse(fs.readFileSync(new URL('./src/data/case-patterns.json', import.meta.url), 'utf-8'));
+  const d = new Date(meta.generatedAt);
+  if (!Number.isNaN(d.getTime())) CASES_LASTMOD = d;
+} catch {
+  console.warn('[sitemap] case-patterns.json を読めませんでした。/cases の lastmod は全体の最新日にします');
+}
 const NEWS_LASTMOD = new Map(NEWS.map((n) => [n.slug, n.date]));
 const NEWS_NEWEST = NEWS.length ? newestOf(NEWS) : null;
 
@@ -116,7 +129,11 @@ export default defineConfig({
         const newsSlug = /\/media\/ma-news\/([^/]+)\/$/.exec(item.url)?.[1];
         const isNewsIndex = /\/media\/ma-news\/(?:[0-9]+\/)?$/.test(item.url);
 
+        // /cases 配下（トップ・パターン・事例詳細）はまとめて生成日
+        const isCases = item.url.includes('/cases/');
+
         const d =
+          (isCases && CASES_LASTMOD) ||
           (newsSlug && NEWS_LASTMOD.get(newsSlug)) ||
           (isNewsIndex && NEWS_NEWEST) ||
           (hub && HUB_LASTMOD.get(hub)) ||
