@@ -83,14 +83,6 @@ const process = [
   { no: '04', title: '意思決定・入社後フォロー', body: '複数オファーの比較から入社後の立ち上がりまで、判断を伴走します。' },
 ];
 
-const company = [
-  { k: '会社名', v: '株式会社エージェントベスト' },
-  { k: '代表者', v: '代表取締役　松岡 良次' },
-  { k: '所在地', v: '東京都港区六本木4-8-7　嶋田ビル5階' },
-  { k: '事業内容', v: '有料職業紹介事業／採用支援（RPO）' },
-  { k: '許可番号', v: '13-ユ-316964' },
-];
-
 // 構造化データ（Organization / WebSite / FAQPage）
 const organizationSchema = {
   '@context': 'https://schema.org',
@@ -479,29 +471,6 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
       </div>
     </section>
 
-    <!-- ============ COMPANY ============ -->
-    <section id="company" class="section company spine">
-      <div class="wrap company-grid">
-        <header class="sec-head reveal">
-          <span class="eyebrow">Company</span>
-          <h2>会社概要</h2>
-        </header>
-        <div class="reveal" data-delay="1">
-          <dl class="company-table">
-            {company.map((row) => (
-              <div class="company-row">
-                <dt>{row.k}</dt>
-                <dd>{row.v}</dd>
-              </div>
-            ))}
-          </dl>
-          <a href="/company/" class="company-more">
-            ミッション・行動指針・代表メッセージ <span class="arrow" aria-hidden="true">→</span>
-          </a>
-        </div>
-      </div>
-    </section>
-
     <!-- ============ MEDIA BANNER ============ -->
     <section class="section media-banner spine">
       <div class="wrap">
@@ -546,7 +515,10 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
     </div>
     <div class="wrap footer-base">
       <small>© {new Date().getFullYear()} Agent Best Inc.</small>
-      <a href="/contact/" class="footer-contact-link">採用ご担当者さまはこちら</a>
+      <span class="footer-base-links">
+        <a href="/company/" class="footer-contact-link">会社情報</a>
+        <a href="/contact/" class="footer-contact-link">採用ご担当者さまはこちら</a>
+      </span>
     </div>
   </footer>
 
@@ -955,20 +927,6 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
     .cta-alt-link:hover { color: #B7D9CF; border-bottom-color: #B7D9CF; }
     .cta-note { margin-top: 1.8rem; font-size: 0.74rem; color: var(--slate-mute); }
 
-    /* ---------- COMPANY ---------- */
-    .company-grid { display: grid; gap: clamp(36px, 5vw, 64px); }
-    @media (min-width: 860px) { .company-grid { grid-template-columns: 0.6fr 1.4fr; align-items: start; } }
-    .company-table { margin: 0; }
-    .company-row { display: grid; grid-template-columns: 1fr; gap: 0.2rem; padding-block: 1.1rem; border-top: 1px solid var(--hairline); }
-    @media (min-width: 560px) { .company-row { grid-template-columns: 9rem 1fr; gap: 1.5rem; } }
-    .company-row:last-child { border-bottom: 1px solid var(--hairline); }
-    .company-row dt { font-size: 0.84rem; font-weight: 700; color: var(--slate); letter-spacing: 0.04em; }
-    .company-row dd { margin: 0; color: var(--ink); font-size: 0.95rem; }
-    .company-more { display: inline-block; margin-top: 1.4rem; font-size: 0.88rem; color: var(--teal); }
-    .company-more:hover { text-decoration: underline; text-underline-offset: 3px; }
-    .company-more .arrow { display: inline-block; transition: transform .25s ease; }
-    .company-more:hover .arrow { transform: translateX(4px); }
-
     /* ---------- FOOTER ---------- */
     .media-banner { padding-block: 0 clamp(48px, 7vw, 80px); }
     .media-banner-card {
@@ -999,6 +957,7 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
     @media (min-width: 720px) { .footer-meta { text-align: right; } }
     .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; display: flex; flex-wrap: wrap; gap: 0.8rem 1.6rem; align-items: center; justify-content: space-between; }
     .footer-base small { color: var(--slate-mute); letter-spacing: 0.06em; }
+    .footer-base-links { display: flex; flex-wrap: wrap; gap: 0.6rem 1.4rem; align-items: center; }
     .footer-contact-link { font-size: 0.78rem; color: #AEB6C2; border-bottom: 1px solid transparent; transition: color .2s ease, border-color .2s ease; }
     .footer-contact-link:hover { color: #B7D9CF; border-bottom-color: #B7D9CF; }
   </style>
