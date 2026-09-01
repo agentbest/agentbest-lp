@@ -7,19 +7,26 @@ import ShareButtons from '../components/ShareButtons.astro';
 import FooterSites from '../components/FooterSites.astro';
 import { FAQS, faqSchema } from '../lib/faq';
 /* ---------------------------------------------------------------
-   Airtable「キャリア相談」フォーム
+   キャリア相談フォーム（自作・4ステップ）
    ---------------------------------------------------------------
-   ベース: 人材紹介事業 / テーブル: 求職者（HP）
-   相談専用の Airtable フォーム（ページID pagFw3nywLJ4AJF3n）。
-   求人応募フォームとは別テーブル・別フォームで、履歴書・職務経歴書は任意。
-   応募求人・企業名・求人レコードIDはフォームに無いのでプリフィルは不要。
-   Airtable 側でフォームを作り直したら FORM_PAGE_ID を差し替える。
---------------------------------------------------------------- */
-const AIRTABLE_BASE_ID = 'appYkc36EvioYoL1A';
-const FORM_PAGE_ID = 'pagFw3nywLJ4AJF3n';
+   以前は Airtable のフォームを iframe で埋めていたが、
+   ・送信が iframe の中で完結するので離脱も送信も測れない
+   ・高さ固定でモバイルの体験が重い
+   という理由で、求人サイト（jobs.agent-best.net/apply.html）と同じ型の
+   自作フォームに置き換えた。
 
-const FORM_EMBED_URL = `https://airtable.com/embed/${AIRTABLE_BASE_ID}/${FORM_PAGE_ID}/form`;
-const FORM_DIRECT_URL = `https://airtable.com/${AIRTABLE_BASE_ID}/${FORM_PAGE_ID}/form`;
+     フォーム → Supabase public.consultations に INSERT（匿名キー・INSERTのみ許可）
+            → Database Webhook → Apps Script → Gmail通知＋Airtable「求職者（HP）」に登録
+
+   受け皿の作り方（SQL・Webhook・Apps Script）は CONSULT_FORM_SETUP.md にある。
+   ⚠ 送信に失敗したときは、Airtable のフォームへのリンクを出して取りこぼさないようにしている。
+--------------------------------------------------------------- */
+const SUPABASE_URL = 'https://jvdnabtpxcyfnogdulea.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_kVUJIz-lImX0AD5eALVVaA_YiDqi7GQ';
+const CONSULT_TABLE = 'consultations';
+
+/* 送信に失敗したときの逃げ道（Airtableの相談フォーム） */
+const FORM_DIRECT_URL = 'https://airtable.com/appYkc36EvioYoL1A/pagFw3nywLJ4AJF3n/form';
 
 const CALENDLY_URL = 'https://calendly.com/r_matsuoka';
 
@@ -42,7 +49,7 @@ const stages = [
 ];
 
 const steps = [
-  { no: '01', title: 'フォーム送信', body: '所要3分ほど。履歴書がお手元になくても送信いただけます。' },
+  { no: '01', title: 'フォーム送信', body: '4ステップ・3分ほどで送信できます。履歴書はお手元になくて構いません。' },
   { no: '02', title: '担当より連絡', body: '原則2営業日以内に、ご記入のメールまたはお電話でご連絡します。' },
   { no: '03', title: '面談（30〜60分）', body: 'オンラインで。現職中の方が大半です。夜間・土日も調整可能です。' },
 ];
@@ -130,26 +137,122 @@ const steps = [
         </header>
 
         <div class="form-frame">
-          <!--
-            高さは Airtable フォームの実測値に合わせています（内側スクロールを出さないため）。
-            フォームの項目を増減したら、この高さも合わせて調整してください。
-          -->
-          <iframe
-            id="consultForm"
-            class="airtable-embed"
-            src={FORM_EMBED_URL}
-            title="キャリア相談フォーム"
-            width="100%"
-            loading="lazy"
-            frameborder="0"
-          ></iframe>
-        </div>
+          <form id="consultForm" novalidate>
+            <ol class="fsteps" aria-hidden="true">
+              <li class="fstep is-on" data-step="1"><span>1</span>連絡先</li>
+              <li class="fstep" data-step="2"><span>2</span>いまの状況</li>
+              <li class="fstep" data-step="3"><span>3</span>ご希望</li>
+              <li class="fstep" data-step="4"><span>4</span>ご相談内容</li>
+            </ol>
 
-        <p class="form-foot">
-          フォームが表示されない場合は
-          <a href={FORM_DIRECT_URL} target="_blank" rel="noopener" data-consult-cta="form-direct">こちらから直接ご記入</a>
-          いただけます。
-        </p>
+            <!-- ステップ1：連絡先 -->
+            <fieldset class="fpane" data-pane="1">
+              <legend class="fpane-title">ご連絡先</legend>
+              <div class="frow">
+                <label class="flabel" for="cf-name">お名前 <span class="freq">必須</span></label>
+                <input class="finput" id="cf-name" name="name" type="text" autocomplete="name" required />
+              </div>
+              <div class="frow">
+                <label class="flabel" for="cf-kana">フリガナ</label>
+                <input class="finput" id="cf-kana" name="kana" type="text" placeholder="ヤマダ タロウ" />
+              </div>
+              <div class="frow">
+                <label class="flabel" for="cf-email">メールアドレス <span class="freq">必須</span></label>
+                <input class="finput" id="cf-email" name="email" type="email" autocomplete="email" inputmode="email" required />
+              </div>
+              <div class="frow">
+                <label class="flabel" for="cf-phone">電話番号 <span class="freq">必須</span></label>
+                <input class="finput" id="cf-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="09012345678" required />
+                <p class="fhelp">日中つながる番号をご記入ください。留守番電話にメッセージを残す形でも構いません。</p>
+              </div>
+            </fieldset>
+
+            <!-- ステップ2：いまの状況 -->
+            <fieldset class="fpane" data-pane="2" hidden>
+              <legend class="fpane-title">いまの状況</legend>
+              <div class="frow">
+                <label class="flabel" for="cf-status">現在の状況</label>
+                <select class="finput" id="cf-status" name="status">
+                  <option value="">選択してください</option>
+                  <option>在職中</option>
+                  <option>離職中</option>
+                  <option>学生</option>
+                </select>
+              </div>
+              <div class="frow">
+                <label class="flabel" for="cf-company">現在の所属（企業・部署）</label>
+                <input class="finput" id="cf-company" name="company" type="text" placeholder="株式会社◯◯／◯◯部" />
+              </div>
+              <div class="frow">
+                <label class="flabel" for="cf-timing">転職の温度感 <span class="freq">必須</span></label>
+                <select class="finput" id="cf-timing" name="timing" required>
+                  <option value="">選択してください</option>
+                  <option>すぐにでも転職したい（1ヶ月以内）</option>
+                  <option>3ヶ月以内には決めたい</option>
+                  <option>半年以内をめどに検討中</option>
+                  <option>1年以内に良い求人があれば</option>
+                  <option>時期は未定（良い求人があれば）</option>
+                  <option>まずは情報収集・相談から</option>
+                </select>
+                <p class="fhelp">「まずは情報収集から」で構いません。急かすご連絡はしません。</p>
+              </div>
+            </fieldset>
+
+            <!-- ステップ3：ご希望 -->
+            <fieldset class="fpane" data-pane="3" hidden>
+              <legend class="fpane-title">ご希望</legend>
+              <div class="frow">
+                <label class="flabel" for="cf-salary">希望年収（万円）</label>
+                <input class="finput finput--short" id="cf-salary" name="salary" type="text" inputmode="numeric" placeholder="800" />
+                <p class="fhelp">現在の年収ではなく、ご希望の年収を万円単位で。決まっていなければ空欄で構いません。</p>
+              </div>
+              <div class="frow">
+                <label class="flabel" for="cf-wish">希望職種・勤務地</label>
+                <textarea class="finput" id="cf-wish" name="wish" rows="3" placeholder="職種・エリア・働き方（リモート希望など）"></textarea>
+              </div>
+              <div class="frow">
+                <label class="flabel" for="cf-applied">すでに応募・選考中の企業</label>
+                <textarea class="finput" id="cf-applied" name="applied" rows="2"></textarea>
+                <p class="fhelp">他社エージェント経由・直接応募を含め、分かる範囲で。同じ企業へ二重に推薦されるのを防ぐために使います。</p>
+              </div>
+            </fieldset>
+
+            <!-- ステップ4：ご相談内容と同意 -->
+            <fieldset class="fpane" data-pane="4" hidden>
+              <legend class="fpane-title">ご相談内容</legend>
+              <div class="frow">
+                <label class="flabel" for="cf-message">ご希望・ご質問</label>
+                <textarea class="finput" id="cf-message" name="message" rows="5" placeholder="いま迷っていること、聞いてみたいことを自由にご記入ください。"></textarea>
+              </div>
+              <div class="frow">
+                <span class="flabel">求人案内・スカウトの受信 <span class="freq">必須</span></span>
+                <label class="fradio"><input type="radio" name="scout" value="希望する" required /><span>希望する</span></label>
+                <label class="fradio"><input type="radio" name="scout" value="希望しない（このご相談に関する連絡のみ）" /><span>希望しない（このご相談に関する連絡のみ）</span></label>
+              </div>
+              <div class="frow">
+                <label class="fcheck">
+                  <input type="checkbox" id="cf-consent" name="consent" required />
+                  <span><a href="https://jobs.agent-best.net/privacy.html" target="_blank" rel="noopener">個人情報の取り扱い</a>に同意します <span class="freq">必須</span></span>
+                </label>
+                <p class="fhelp">ご記入いただいた情報を、ご本人の同意なく企業へ共有することはありません。</p>
+              </div>
+            </fieldset>
+
+            <!-- 自動入力するbot対策（人には見えない） -->
+            <div class="fhoney" aria-hidden="true">
+              <label for="cf-site">サイト</label>
+              <input id="cf-site" name="site" type="text" tabindex="-1" autocomplete="off" />
+            </div>
+
+            <p class="fmsg" id="cf-msg" hidden></p>
+
+            <div class="factions">
+              <button type="button" class="btn btn--ghost fback" id="cf-back" hidden>戻る</button>
+              <button type="button" class="btn fnext" id="cf-next">次へ <span class="arrow" aria-hidden="true">→</span></button>
+            </div>
+            <p class="fnote" id="cf-note">入力は3分ほどで終わります。途中の内容はこの端末に一時保存されます。</p>
+          </form>
+        </div>
 
         <div class="alt-cta">
           <p class="alt-cta-title">先に話してしまいたい方へ</p>
@@ -296,12 +399,42 @@ const steps = [
       border-radius: 3px;
       overflow: hidden;
     }
-    .airtable-embed { display: block; width: 100%; height: 1960px; border: 0; background: #fff; }
-    @media (max-width: 900px) { .airtable-embed { height: 2150px; } }
-    @media (max-width: 560px) { .airtable-embed { height: 2500px; } }
+    /* --- 相談フォーム（自作・4ステップ） --- */
+    #consultForm { background: #fff; border: 1px solid var(--hairline); padding: clamp(22px, 4vw, 38px); }
+    .fsteps { display: flex; flex-wrap: wrap; gap: 8px 10px; list-style: none; margin: 0 0 clamp(22px, 4vw, 32px); padding: 0; }
+    .fstep { display: flex; align-items: center; gap: 7px; font-size: 0.76rem; color: var(--slate-mute); letter-spacing: 0.04em; }
+    .fstep span { display: grid; place-items: center; width: 22px; height: 22px; border: 1px solid var(--hairline); border-radius: 50%; font-size: 0.72rem; }
+    .fstep.is-on { color: var(--ink); font-weight: 600; }
+    .fstep.is-on span { background: var(--teal); border-color: var(--teal); color: #fff; }
+    .fstep.is-done span { border-color: var(--teal); color: var(--teal); }
+    .fpane { border: 0; margin: 0; padding: 0; min-width: 0; }
+    .fpane-title { font-family: var(--font-display); font-size: 1.05rem; font-weight: 600; padding: 0; margin-bottom: 1.4rem; }
+    .frow { margin-bottom: 1.5rem; }
+    .flabel { display: block; font-size: 0.84rem; font-weight: 600; margin-bottom: 0.5rem; }
+    .freq { display: inline-block; margin-left: 0.5em; padding: 0.15em 0.5em; font-size: 0.66rem; font-weight: 600; letter-spacing: 0.06em; color: var(--teal); border: 1px solid var(--teal); }
+    .finput {
+      display: block; width: 100%; font: inherit; font-size: 16px; color: var(--ink);
+      padding: 0.75em 0.85em; border: 1px solid var(--hairline); border-radius: 2px; background: var(--paper);
+      transition: border-color .2s ease;
+    }
+    .finput:focus { outline: none; border-color: var(--teal); box-shadow: 0 0 0 3px color-mix(in srgb, var(--teal) 12%, transparent); }
+    .finput--short { max-width: 12rem; }
+    textarea.finput { resize: vertical; line-height: 1.9; }
+    .finput.is-ng { border-color: #B3453B; background: #FCF5F4; }
+    .fhelp { margin-top: 0.5rem; font-size: 0.78rem; color: var(--slate-mute); line-height: 1.9; }
+    .fradio, .fcheck { display: flex; align-items: flex-start; gap: 0.6em; margin-top: 0.6rem; font-size: 0.88rem; line-height: 1.7; cursor: pointer; }
+    .fradio input, .fcheck input { margin-top: 0.25em; width: 17px; height: 17px; accent-color: var(--teal); flex: none; }
+    .fcheck a { text-decoration: underline; text-underline-offset: 3px; }
+    .fhoney { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+    .fmsg { margin: 0 0 1rem; padding: 0.9em 1em; font-size: 0.85rem; line-height: 1.9; background: #FCF5F4; border: 1px solid #E4C4BF; color: #8C3229; }
+    .fmsg a { text-decoration: underline; text-underline-offset: 3px; }
+    .factions { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 0.5rem; }
+    /* .btn の display:inline-flex が hidden 属性に勝ってしまうので明示的に消す */
+    .factions [hidden] { display: none !important; }
+    .fnext { flex: 1 1 auto; justify-content: center; }
+    .fback { flex: 0 0 auto; }
+    .fnote { margin-top: 1rem; font-size: 0.76rem; color: var(--slate-mute); line-height: 1.9; }
 
-    .form-foot { margin-top: 1.2rem; font-size: 0.8rem; color: var(--slate-mute); }
-    .form-foot a { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
 
     .alt-cta {
       margin-top: clamp(40px, 6vw, 70px);
@@ -356,38 +489,218 @@ const steps = [
   <script type="application/ld+json" is:inline set:html={JSON.stringify(faqStructuredData)} />
 
   <!-- 相談フォームの計測。
-       フォームは Airtable の iframe なので、送信できたかどうかを親ページから
-       直接は取れない（送信完了は iframe の中で起きる）。そのため
-       (1) フォームが実際に画面に入ったか  (2) 別タブで開いたか  (3) Calendlyへ逃げたか
-       の3つを取って、「相談ページに来た人がどこまで進んだか」を見えるようにする。
-       ⚠ 送信数そのものは /consultation/thanks/ の page_view で数える。
-         Airtable 側のフォーム設定で、送信後の遷移先をそのURLにしておくこと。 -->
-  <script is:inline>
+       自作フォームなので、表示・ステップ通過・送信・エラーをすべて自前で取れる。
+       送信数は /consultation/thanks/ の page_view（＋そこで撃つ consult_submit）で数える。 -->
+  <script is:inline define:vars={{ SUPABASE_URL, SUPABASE_ANON_KEY, CONSULT_TABLE, FORM_DIRECT_URL }}>
     (function () {
-      var frame = document.getElementById('consultForm');
-      if (frame && 'IntersectionObserver' in window) {
+      var form = document.getElementById('consultForm');
+      if (!form) return;
+
+      var DRAFT_KEY = 'consult-draft';
+      var TOTAL = 4;
+      var step = 1;
+      var sending = false;
+
+      var panes = [].slice.call(form.querySelectorAll('.fpane'));
+      var chips = [].slice.call(form.querySelectorAll('.fstep'));
+      var nextBtn = document.getElementById('cf-next');
+      var backBtn = document.getElementById('cf-back');
+      var msgEl = document.getElementById('cf-msg');
+      var noteEl = document.getElementById('cf-note');
+
+      function track(name, params) {
+        try { if (typeof window.gtag === 'function') window.gtag('event', name, params || {}); } catch (e) {}
+      }
+      function val(id) {
+        var el = document.getElementById(id);
+        return el ? String(el.value || '').trim() : '';
+      }
+      function showMsg(html) {
+        msgEl.hidden = !html;
+        msgEl.innerHTML = html || '';
+      }
+
+      /* ---------- 入力チェック ---------- */
+      function fieldNg(el, ng) {
+        if (!el) return;
+        el.classList.toggle('is-ng', !!ng);
+        if (ng) el.setAttribute('aria-invalid', 'true');
+        else el.removeAttribute('aria-invalid');
+      }
+      function validate(n) {
+        var bad = [];
+        if (n === 1) {
+          var name = document.getElementById('cf-name');
+          var mail = document.getElementById('cf-email');
+          var tel = document.getElementById('cf-phone');
+          if (!val('cf-name')) bad.push([name, 'お名前']);
+          if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val('cf-email'))) bad.push([mail, 'メールアドレス']);
+          if (val('cf-phone').replace(/\D/g, '').length < 10) bad.push([tel, '電話番号']);
+        }
+        if (n === 2) {
+          var timing = document.getElementById('cf-timing');
+          if (!val('cf-timing')) bad.push([timing, '転職の温度感']);
+        }
+        if (n === 4) {
+          var scout = form.querySelector('input[name="scout"]:checked');
+          var consent = document.getElementById('cf-consent');
+          if (!scout) bad.push([null, '求人案内・スカウトの受信']);
+          if (!consent.checked) bad.push([null, '個人情報の取り扱いへの同意']);
+        }
+        panes[n - 1].querySelectorAll('.finput').forEach(function (el) { fieldNg(el, false); });
+        bad.forEach(function (b) { fieldNg(b[0], true); });
+        if (bad.length) {
+          showMsg('未入力の項目があります：' + bad.map(function (b) { return b[1]; }).join('、'));
+          var first = bad[0][0];
+          if (first && first.focus) first.focus();
+          return false;
+        }
+        showMsg('');
+        return true;
+      }
+
+      /* ---------- 画面の切り替え ---------- */
+      function paint() {
+        panes.forEach(function (p, i) { p.hidden = i + 1 !== step; });
+        chips.forEach(function (c, i) {
+          c.classList.toggle('is-on', i + 1 === step);
+          c.classList.toggle('is-done', i + 1 < step);
+        });
+        backBtn.hidden = step === 1;
+        nextBtn.innerHTML = step === TOTAL
+          ? '相談を送信する <span class="arrow" aria-hidden="true">→</span>'
+          : '次へ <span class="arrow" aria-hidden="true">→</span>';
+        noteEl.textContent = step === TOTAL
+          ? '送信後、担当より原則2営業日以内にご連絡します。'
+          : '入力は3分ほどで終わります。途中の内容はこの端末に一時保存されます。';
+      }
+
+      /* ---------- 下書き（この端末にだけ残す） ---------- */
+      var FIELDS = ['cf-name', 'cf-kana', 'cf-email', 'cf-phone', 'cf-status', 'cf-company',
+        'cf-timing', 'cf-salary', 'cf-wish', 'cf-applied', 'cf-message'];
+      function saveDraft() {
+        try {
+          var d = {};
+          FIELDS.forEach(function (id) { d[id] = val(id); });
+          var scout = form.querySelector('input[name="scout"]:checked');
+          if (scout) d.scout = scout.value;
+          localStorage.setItem(DRAFT_KEY, JSON.stringify(d));
+        } catch (e) {}
+      }
+      function loadDraft() {
+        try {
+          var d = JSON.parse(localStorage.getItem(DRAFT_KEY) || '{}');
+          FIELDS.forEach(function (id) {
+            var el = document.getElementById(id);
+            if (el && d[id]) el.value = d[id];
+          });
+          if (d.scout) {
+            var r = form.querySelector('input[name="scout"][value="' + d.scout + '"]');
+            if (r) r.checked = true;
+          }
+        } catch (e) {}
+      }
+      function clearDraft() { try { localStorage.removeItem(DRAFT_KEY); } catch (e) {} }
+
+      /* ---------- 送信 ---------- */
+      function submit() {
+        if (sending) return;
+        /* ハニーポット。人には見えない欄なので、埋まっていたらbotとして黙って終わる */
+        if (val('cf-site')) { location.href = '/consultation/thanks/'; return; }
+
+        sending = true;
+        nextBtn.disabled = true;
+        nextBtn.textContent = '送信中…';
+        showMsg('');
+
+        var scout = form.querySelector('input[name="scout"]:checked');
+        var payload = {
+          full_name: val('cf-name'),
+          kana: val('cf-kana') || null,
+          email: val('cf-email'),
+          phone: val('cf-phone').replace(/\D/g, ''),
+          status: val('cf-status') || null,
+          current_company: val('cf-company') || null,
+          timing: val('cf-timing'),
+          desired_salary: val('cf-salary') || null,
+          desired_role: val('cf-wish') || null,
+          applied_companies: val('cf-applied') || null,
+          message: val('cf-message') || null,
+          scout_consent: scout ? scout.value : null,
+          consent: true,
+          source: 'corporate-consultation',
+          page_path: location.pathname
+        };
+
+        fetch(SUPABASE_URL + '/rest/v1/' + CONSULT_TABLE, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            apikey: SUPABASE_ANON_KEY,
+            Authorization: 'Bearer ' + SUPABASE_ANON_KEY,
+            Prefer: 'return=minimal'
+          },
+          body: JSON.stringify(payload)
+        }).then(function (res) {
+          if (!res.ok) throw new Error(String(res.status));
+          clearDraft();
+          track('consult_send', { timing: payload.timing || '' });
+          location.href = '/consultation/thanks/';
+        }).catch(function (err) {
+          sending = false;
+          nextBtn.disabled = false;
+          nextBtn.innerHTML = '相談を送信する <span class="arrow" aria-hidden="true">→</span>';
+          showMsg('送信できませんでした。お手数ですが <a href="' + FORM_DIRECT_URL + '" target="_blank" rel="noopener">こちらのフォーム</a> からご記入いただくか、<a href="mailto:r_matsuoka@agent-best.net">r_matsuoka@agent-best.net</a> あてにご連絡ください。');
+          track('consult_error', { detail: String(err && err.message || '') });
+        });
+      }
+
+      nextBtn.addEventListener('click', function () {
+        if (!validate(step)) return;
+        saveDraft();
+        if (step === TOTAL) { submit(); return; }
+        step += 1;
+        paint();
+        track('consult_step', { step: step });
+        form.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+      backBtn.addEventListener('click', function () {
+        if (step === 1) return;
+        step -= 1;
+        showMsg('');
+        paint();
+        form.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+      form.addEventListener('input', saveDraft);
+      form.addEventListener('keydown', function (e) {
+        /* テキスト入力でEnterを押したときに、送信ではなく「次へ」に進める */
+        if (e.key === 'Enter' && e.target && e.target.tagName === 'INPUT') {
+          e.preventDefault();
+          nextBtn.click();
+        }
+      });
+
+      loadDraft();
+      paint();
+
+      /* フォームが画面に入ったか */
+      if ('IntersectionObserver' in window) {
         var seen = false;
         var io = new IntersectionObserver(function (entries) {
           entries.forEach(function (e) {
             if (e.isIntersecting && !seen) {
               seen = true;
               io.disconnect();
-              if (typeof window.gtag === 'function') {
-                window.gtag('event', 'consult_form_view', { page_path: location.pathname });
-              }
+              track('consult_form_view', { page_path: location.pathname });
             }
           });
         }, { threshold: 0.3 });
-        io.observe(frame);
+        io.observe(form);
       }
+
       document.addEventListener('click', function (e) {
         var a = e.target && e.target.closest && e.target.closest('[data-consult-cta]');
-        if (a && typeof window.gtag === 'function') {
-          window.gtag('event', 'consult_click', {
-            placement: a.getAttribute('data-consult-cta'),
-            page_path: location.pathname,
-          });
-        }
+        if (a) track('consult_click', { placement: a.getAttribute('data-consult-cta'), page_path: location.pathname });
       });
     })();
   </script>
