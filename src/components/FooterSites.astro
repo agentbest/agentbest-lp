@@ -12,6 +12,12 @@ const jobSites = [
   { label: '新卒・インターンの求人', note: '就活・長期インターン', href: `${SHINSOTSU_URL}?utm_source=corporate&utm_medium=footer` },
 ];
 
+/* メディアはヘッダーから外した（2026-09-06）。フッターだけの導線なので全ページ共通のここに置く。 */
+const mediaSites = [
+  { label: 'キャリアメディア', note: '職種・業界・企業ごとの転職情報', href: '/media/' },
+  { label: '転職事例集', note: '「どこから、どこへ」で整理したモデルケース', href: '/cases/' },
+];
+
 const specialSites = {
   '求職者の方へ': [
     { label: 'PM特化 転職', href: 'https://pm.agent-best.net/' },
@@ -39,6 +45,20 @@ const specialSites = {
     {jobSites.map((it) => (
       <li>
         <a href={it.href} target="_blank" rel="noopener">
+          <span class="fj-label">{it.label}</span>
+          <span class="fj-note">{it.note}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<nav class="footer-jobs" aria-label="メディア">
+  <p class="footer-sites-title">メディア</p>
+  <ul class="fj-list">
+    {mediaSites.map((it) => (
+      <li>
+        <a href={it.href}>
           <span class="fj-label">{it.label}</span>
           <span class="fj-note">{it.note}</span>
         </a>
