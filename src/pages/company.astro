@@ -69,7 +69,7 @@ const company = [
 
 const title = '会社情報｜株式会社エージェントベスト';
 const description =
-  '株式会社エージェントベストの会社情報。「日本に磁力を生む」というミッション、4つの行動指針、代表メッセージ、事業内容、会社概要を掲載しています。';
+  '株式会社エージェントベストの会社情報。「日本に磁力を生む」というミッション、4つの行動指針、事業内容、会社概要を掲載しています。';
 
 // 構造化データ（AboutPage / Organization）
 const aboutSchema = {
@@ -126,7 +126,6 @@ const organizationSchema = {
         <nav class="c-hero-index" aria-label="このページの内容">
           <a href="#mission">ミッション</a>
           <a href="#values">行動指針</a>
-          <a href="#message">代表メッセージ</a>
           <a href="#business">事業内容</a>
           <a href="#outline">会社概要</a>
         </nav>
@@ -236,45 +235,6 @@ const organizationSchema = {
             </li>
           ))}
         </ul>
-      </div>
-    </section>
-
-    <!-- ============ 代表メッセージ ============ -->
-    <section id="message" class="section c-message">
-      <div class="wrap c-two">
-        <header class="c-head reveal">
-          <span class="eyebrow">Message</span>
-          <h2>代表メッセージ</h2>
-        </header>
-        <div class="c-two-body reveal" data-delay="1">
-          <p class="c-message-headline">
-            次の一社で、<br />その先の10年が決まる。
-          </p>
-          <p class="c-text">
-            大手人材会社とスタートアップの人材企業で、IT・スタートアップ・メガベンチャーの採用支援に携わってきました。
-            そのなかで一貫して感じてきたのは、転職の成否を分けるのは求人の数ではなく、
-            意思決定の手前でどれだけ確かな材料を持てるか、ということです。
-          </p>
-          <p class="c-text">
-            エージェントベストが領域を絞っているのは、そのためです。扱う世界を狭くするほど、
-            一社の解像度は上がる。選考で何が見られるのか、入社後に何が起きるのか、どういう人が活躍しているのか。
-            そこまで踏み込んで話せて初めて、キャリアの相談相手として意味があると考えています。
-          </p>
-          <p class="c-text">
-            そして、その一件ずつの積み重ねの先に見ているのが、「日本に磁力を生む」というミッションです。
-            力のある人が、力を発揮できる企業に集まる。その流れを一本ずつ確かに通していくことが、
-            結果として日本全体の引力になると信じています。
-          </p>
-          <p class="c-text">
-            転職の意思が固まっていない段階でのご相談も歓迎しています。
-            10年先から逆算したときに、いま選ぶべき一社はどれか。その問いに、一緒に向き合わせてください。
-          </p>
-          <div class="c-sign">
-            <span class="c-sign-role">株式会社エージェントベスト　代表取締役</span>
-            <span class="c-sign-name">松岡 良次</span>
-            <a href="/profile/" class="c-sign-link">代表プロフィールを見る <span class="arrow" aria-hidden="true">→</span></a>
-          </div>
-        </div>
       </div>
     </section>
 
@@ -553,36 +513,6 @@ const organizationSchema = {
     line-height: 2;
     margin-top: 1rem;
   }
-
-  /* ---------- MESSAGE ---------- */
-  .c-message-headline {
-    font-family: var(--font-display);
-    font-size: clamp(1.35rem, 3.2vw, 2rem);
-    line-height: 1.8;
-    letter-spacing: 0.03em;
-    margin-bottom: 1.8rem;
-  }
-  .c-sign {
-    margin-top: clamp(2rem, 4vw, 2.8rem);
-    padding-top: 1.4rem;
-    border-top: 1px solid var(--hairline);
-    display: flex;
-    flex-direction: column;
-    gap: 0.35rem;
-    align-items: flex-start;
-  }
-  .c-sign-role { font-size: 0.78rem; color: var(--slate-mute); letter-spacing: 0.06em; }
-  .c-sign-name {
-    font-family: var(--font-display);
-    font-size: 1.3rem;
-    letter-spacing: 0.14em;
-  }
-  .c-sign-link {
-    margin-top: 0.6rem;
-    font-size: 0.85rem;
-    color: var(--teal);
-  }
-  .c-sign-link:hover { text-decoration: underline; text-underline-offset: 3px; }
 
   /* ---------- BUSINESS ---------- */
   .c-business-list {
