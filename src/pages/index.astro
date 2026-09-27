@@ -2,6 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import ShareButtons from '../components/ShareButtons.astro';
+import { CASES } from '../lib/cases';
+
+// 事例集の件数は手打ちしない（/cases 側と必ず一致させる）
+const caseTotal = CASES.length;
 import { getArticleCount } from '../lib/mediaCount';
 import { jobsUrl, SHINSOTSU_URL } from '../lib/jobsLink';
 import { FAQS, faqSchema } from '../lib/faq';
@@ -40,7 +44,8 @@ const strengths = [
   },
 ];
 
-/* === 転職支援事例：以下はサンプルです。実際の匿名化事例に差し替えてください === */
+/* 転職の型。/cases（2,000件）と同じく、市場で成立している異動を類型として書いたもの。
+   特定の個人の支援実績ではないので、「加工した実例」と読める書き方をしないこと。 */
 const cases = [
   {
     age: '20代前半',
@@ -374,13 +379,15 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
       </div>
     </section>
 
-    <!-- ============ CASES 転職支援事例（※サンプル。実データに差し替え） ============ -->
+    <!-- ============ CASES 転職の型（/cases と同じ類型。個別の支援実績ではない） ============ -->
     <section class="section cases">
       <div class="wrap">
         <header class="sec-head sec-head--center reveal">
           <span class="eyebrow">Cases</span>
-          <h2>転職支援事例</h2>
-          <p class="sec-desc">年収の上げ幅だけでなく、役割や働き方そのものを変えた例です。</p>
+          <h2>どこから、どこへ</h2>
+          <p class="sec-desc">
+            年収の上げ幅だけでなく、役割や働き方そのものが変わる転職の型です。
+          </p>
         </header>
         <ul class="case-grid">
           {cases.map((c) => (
@@ -399,7 +406,9 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
             </li>
           ))}
         </ul>
-        <p class="case-note">※ 掲載事例は個人が特定されないよう一部を加工しています。</p>
+        <a href="/cases/" class="case-more">
+          {caseTotal.toLocaleString()}件の転職事例集を見る <span class="arrow" aria-hidden="true">→</span>
+        </a>
       </div>
     </section>
 
@@ -847,7 +856,19 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
     .case-point { display: flex; flex-direction: column; gap: 0.45rem; margin-top: auto; padding-top: 0.9rem; border-top: 1px solid var(--hairline); }
     .case-point-label { font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; letter-spacing: 0.02em; color: var(--teal); }
     .case-point-body { margin: 0; color: var(--slate); font-size: 0.86rem; line-height: 1.85; }
-    .case-note { margin-top: clamp(24px, 3vw, 36px); font-size: 0.76rem; color: var(--slate-mute); text-align: center; }
+    .case-more {
+      display: block;
+      width: fit-content;
+      margin: clamp(28px, 4vw, 40px) auto 0;
+      font-size: 0.9rem;
+      color: var(--teal);
+      border-bottom: 1px solid color-mix(in srgb, var(--teal) 40%, transparent);
+      padding-bottom: 3px;
+      transition: border-color .2s ease;
+    }
+    .case-more:hover { border-bottom-color: var(--teal); }
+    .case-more .arrow { display: inline-block; transition: transform .25s ease; }
+    .case-more:hover .arrow { transform: translateX(4px); }
 
     /* ---------- PROCESS ---------- */
     .process-track {
