@@ -8,7 +8,9 @@ import LineCta from '../../components/LineCta.astro';
 import Header from '../../components/Header.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
 import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
-import { jobsUrl, jobsGroupOf, jobsGroupUrl } from '../../lib/jobsLink';
+import { jobsUrl, jobsGroupOf, jobsGroupUrl, JOBS_URL } from '../../lib/jobsLink';
+// 企業記事 → 求人サイトの企業ページ（node tools/jobsite-companies/fetch.mjs で作る）
+import jobsiteCompanies from '../../data/jobsite-companies.json';
 
 export async function getStaticPaths() {
   const posts = await getCollection('media');
@@ -60,10 +62,14 @@ const jobsLabel = jobsQuery ? `${jobsQuery}の求人を見る` : '求人を見�
    本文の直後に、同じ職種の求人一覧（求人サイトの /jobs/<職種>/）・転職事例集・相談の3つを必ず置く。 */
 const jobsGroup = jobsGroupOf(hub);
 const tenshokuSubject = isCompany ? `${post.data.companyName}への転職` : `${hubName}の転職`;
-const tenshokuJobsHref = jobsGroup
+// 企業記事で求人サイトに同じ会社のページがあれば、職種一覧より先にそこへつなぐ（求人0件でも会社概要と同業界の求人が見られる）
+const jobsiteCo = isCompany ? (jobsiteCompanies as Record<string, [string, string]>)[post.slug] : undefined;
+const tenshokuJobsHref = jobsiteCo
+  ? `${JOBS_URL}company/${encodeURIComponent(jobsiteCo[0])}/?utm_source=corporate&utm_medium=article-box&utm_campaign=${post.slug}`
+  : jobsGroup
   ? jobsGroupUrl(jobsGroup.slug, { medium: 'article-box', campaign: post.slug })
   : jobsUrl({ medium: 'article-box', campaign: post.slug });
-const tenshokuJobsLabel = jobsGroup ? `${jobsGroup.label}の求人一覧を見る` : '中途採用の求人を探す';
+const tenshokuJobsLabel = jobsiteCo ? `${post.data.companyName}の会社概要・募集中の求人を見る` : jobsGroup ? `${jobsGroup.label}の求人一覧を見る` : '中途採用の求人を探す';
 
 const related = (post.data.related ?? [])
   .map((s) => all.find((p) => p.slug === s))
