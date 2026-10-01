@@ -99,7 +99,7 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
   <Header />
   <article class="media-article">
     <nav class="breadcrumb" aria-label="パンくず">
-      <a href="/media/">キャリアメディア</a>
+      <a href="/media/">転職メディア</a>
       <span aria-hidden="true">/</span>
       <a href={`/media/#${catAnchor}`}>{catLabel}</a>
       {hub && <><span aria-hidden="true">/</span><a href={hubUrl}>{hubName}</a></>}
@@ -481,7 +481,7 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
   // 画面のパンくずと同じ階層にする（ハブページを1段挟む）
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'ホーム', item: `${SITE}/` },
-    { '@type': 'ListItem', position: 2, name: 'キャリアメディア', item: `${SITE}/media/` },
+    { '@type': 'ListItem', position: 2, name: '転職メディア', item: `${SITE}/media/` },
     ...(hub ? [{ '@type': 'ListItem', position: 3, name: hubName, item: `${SITE}${hubUrl}` }] : []),
     { '@type': 'ListItem', position: hub ? 4 : 3, name: post.data.title, item: articleURL },
   ],

@@ -31,7 +31,7 @@ const latest = [...posts]
     || a.data.title.localeCompare(b.data.title, 'ja'))
   .slice(0, 8);
 
-const title = 'キャリアメディア｜IT・SaaS・コンサル・M&A領域の転職情報';
+const title = '転職メディア｜IT・SaaS・コンサル・M&A領域の転職ノウハウ';
 const description =
   `IT・SaaS・コンサル・M&A領域の転職情報を${total}本の記事で解説。職種別・業界別の解説から、企業${companyTotal}社の評判・年収・選考対策まで、一次情報をもとにまとめています。`;
 ---
@@ -39,7 +39,7 @@ const description =
 <Layout title={title} description={description}>
   <Header />
   <section class="hub">
-    <h1>キャリアメディア</h1>
+    <h1>転職メディア</h1>
     <p class="hub-lead">
       IT・SaaS・コンサル・M&A領域の転職・キャリア情報を、<strong>{total.toLocaleString()}本</strong>の記事で解説しています。
       年収相場やキャリアパスから、企業ごとの評判・選考対策まで。数字は有価証券報告書などの一次情報をもとにしています。

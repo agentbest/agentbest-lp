@@ -1,6 +1,6 @@
 # agentbest-lp — コーポレートサイト www.agent-best.net
 
-株式会社エージェントベストの**本番コーポレートサイト**。キャリアメディア `/media`（記事2,486本）も同じリポジトリ。
+株式会社エージェントベストの**本番コーポレートサイト**。転職メディア `/media`（記事2,486本）も同じリポジトリ。
 
 - 技術: **Astro v4**（静的サイト）。`astro.config.mjs` に `site: 'https://www.agent-best.net'`
 - デプロイ: **Vercel にGit連携で自動デプロイ**。`main` に push すると **1〜2分で本番反映**
