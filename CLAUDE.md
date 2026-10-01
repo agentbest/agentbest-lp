@@ -114,6 +114,14 @@
 
 **未来日付の記事は 2026-08-31 時点で0本**（pubDate の最大が 2026-08-29）。以前は217本が先付けだったが、日付が追いついて解消した。`[slug].astro` の「ビルド日で頭打ち」の処理は、量産スクリプトが先の日付を振ったときの保険として残してある。
 
+## 「転職の会社」として認識させるための仕掛け（2026-10-01）
+
+松岡さんの方針：コーポレートも求人サイトも**転職エージェントの会社**として認識されること。記事は職業解説で終わらせず転職に寄せる。
+- Organization は `['Organization', 'EmploymentAgency']`＋`hasCredential`（許可番号）。jobsite も同じ `@id` で運営会社を出している。
+- 全記事の本文直後に「〇〇の転職を考えている方へ」ボックス（`[slug].astro`）。求人サイトの職種一覧への対応表は `src/lib/jobsLink.ts` の `GROUP_BY_HUB`。**ハブを足したらここにも足す**（無ければ求人トップに飛ぶだけで壊れはしない）。逆向き（jobsite→記事）は jobsite `static-pages.js` の `MEDIA_HUBS`。
+- **M&Aニュース（/media/ma-news）は noindex, follow・sitemap 除外。** 適時開示の要約で転職の情報ではないため。
+- 記事タイトルの転職寄せは**100本で試行中**（`media-gen/rewrite/転職タイトル試行_20261001.tsv`）。12月下旬に GSC で比較してから残りに広げるか決める。
+
 ## GA4 / CTA / 相談導線
 
 - GA4 測定ID `G-1XXMP8Y1B4`（`src/layouts/Layout.astro`、`is:inline` 必須）
@@ -135,6 +143,7 @@
 - **`git pull --rebase` が未追跡のメディア画像と衝突して失敗しやすい。** リモート版とハッシュ比較して同一を確認してから退避 → rebase → push が定石。**画像を消さないこと。**
 - **別セッションからも同時に更新される**（記事の量産作業）。ローカルの `dist` や記事数は平気で古くなるので、本番の実URLで確認する。
 - 著者略歴・許可番号は `src/components/AuthorBlock.astro` / `/profile` ページ / `agentbest/jobsite` の求人詳細 の**3か所に重複**している。直すときは全部直す。
+  許可番号は構造化データ（`index.astro`・`company.astro` の `hasCredential`、jobsite の全テンプレの運営会社JSON-LD）にもある。
 
 ## push のルール
 
