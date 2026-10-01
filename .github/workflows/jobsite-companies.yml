@@ -1,0 +1,40 @@
+# 企業記事 → 求人サイトの企業ページの対応表（src/data/jobsite-companies.json）の日次更新
+#
+# 求人サイト（jobs.agent-best.net）は毎朝 06:00 JST に企業DBを取り直す。その後に突き合わせ直し、
+# 変わっていたときだけコミットして push する（Vercel が自動でデプロイする）。変わらなければ何もしない。
+# 企業記事を足した日も、翌朝ここで拾われる。急ぐときは Actions タブ → Run workflow。
+name: 企業記事と求人サイトの企業ページの対応表
+
+on:
+  schedule:
+    # 07:40 JST（UTC 22:40）。求人サイトの更新（06:00 JST）と M&Aニュース（07:10 JST）のあと
+    - cron: '40 22 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 突き合わせ直す
+        run: node tools/jobsite-companies/fetch.mjs
+
+      - name: 変更があればコミットしてpush
+        run: |
+          if [ -z "$(git status --porcelain src/data/jobsite-companies.json)" ]; then
+            echo "対応表に変化なし。何もしない"
+            exit 0
+          fi
+          git config user.name  "jobsite-companies bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/data/jobsite-companies.json
+          git commit -m "企業記事と求人サイトの企業ページの対応表を更新（自動）"
+          git pull --rebase
+          git push

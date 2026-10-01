@@ -120,7 +120,7 @@
 - Organization は `['Organization', 'EmploymentAgency']`＋`hasCredential`（許可番号）。jobsite も同じ `@id` で運営会社を出している。
 - 全記事の本文直後に「〇〇の転職を考えている方へ」ボックス（`[slug].astro`）。求人サイトの職種一覧への対応表は `src/lib/jobsLink.ts` の `GROUP_BY_HUB`。**ハブを足したらここにも足す**（無ければ求人トップに飛ぶだけで壊れはしない）。逆向き（jobsite→記事）は jobsite `static-pages.js` の `MEDIA_HUBS`。
 - トップの h1 に「20代・30代ハイクラスの転職エージェント」（.hero-kicker）。**h1 から外さない。** 企業別ハブ・企業インデックス・タグのタイトルにも「転職」、ハブ一覧に求人サイトの同職種一覧と相談の導線（.hub-jobs）。著者 Person に jobTitle・worksFor（#organization）。
-- 企業記事の転職ボックスは、求人サイトに同じ会社のページがあればそこ（/company/<企業ID>/）へつなぐ。対応表 `src/data/jobsite-companies.json` は `node tools/jobsite-companies/fetch.mjs` で作る（**企業記事を足したら回す**。ビルド時には取りに行かない）。2026-10-01時点で686本中406本が一致。
+- 企業記事の転職ボックスは、求人サイトに同じ会社のページがあればそこ（/company/<企業ID>/）へつなぐ。対応表 `src/data/jobsite-companies.json` は `node tools/jobsite-companies/fetch.mjs` で作る（**毎朝 07:40 JST に GitHub Actions `jobsite-companies.yml` が自動で作り直し、変化があれば push**。ビルド時には取りに行かない）。2026-10-01時点で686本中406本が一致。
 - **M&Aニュース（/media/ma-news）は noindex, follow・sitemap 除外。** 適時開示の要約で転職の情報ではないため。
 - 記事タイトルの転職寄せは**100本で試行中**（`media-gen/rewrite/転職タイトル試行_20261001.tsv`）。12月下旬に GSC で比較してから残りに広げるか決める。
 
