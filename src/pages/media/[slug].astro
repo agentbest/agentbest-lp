@@ -8,7 +8,7 @@ import LineCta from '../../components/LineCta.astro';
 import Header from '../../components/Header.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
 import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
-import { jobsUrl } from '../../lib/jobsLink';
+import { jobsUrl, jobsGroupOf, jobsGroupUrl } from '../../lib/jobsLink';
 
 export async function getStaticPaths() {
   const posts = await getCollection('media');
@@ -54,6 +54,16 @@ const toc = headings.filter((h) => h.depth === 2);
 const jobsQuery = post.data.category === '職種' ? post.data.jobType ?? '' : '';
 const jobsHref = jobsUrl({ medium: 'article', campaign: post.slug, q: jobsQuery });
 const jobsLabel = jobsQuery ? `${jobsQuery}の求人を見る` : '求人を見る';
+
+/* 「この職種・この会社への転職」ボックス。
+   職種記事の多くは職業の解説（英語力・資格・働き方…）で終わっていて、転職サイトの記事として読まれにくかった。
+   本文の直後に、同じ職種の求人一覧（求人サイトの /jobs/<職種>/）・転職事例集・相談の3つを必ず置く。 */
+const jobsGroup = jobsGroupOf(hub);
+const tenshokuSubject = isCompany ? `${post.data.companyName}への転職` : `${hubName}の転職`;
+const tenshokuJobsHref = jobsGroup
+  ? jobsGroupUrl(jobsGroup.slug, { medium: 'article-box', campaign: post.slug })
+  : jobsUrl({ medium: 'article-box', campaign: post.slug });
+const tenshokuJobsLabel = jobsGroup ? `${jobsGroup.label}の求人一覧を見る` : '中途採用の求人を探す';
 
 const related = (post.data.related ?? [])
   .map((s) => all.find((p) => p.slug === s))
@@ -132,6 +142,20 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
         )}
       </div>
     )}
+
+    <aside class="tenshoku-box" aria-label={`${tenshokuSubject}を考えている方へ`}>
+      <p class="tenshoku-box-title">{tenshokuSubject}を考えている方へ</p>
+      <p class="tenshoku-box-lead">
+        {isCompany
+          ? `${post.data.companyName}を含む同じ領域の企業は、時期によって募集職種や求める経験が大きく変わります。公開求人だけで判断せず、いま採用が動いている企業と選考の通り方を確認してから動くのが近道です。`
+          : `${hubName}の転職は、同じ職種名でも企業ごとに求める経験や年収の幅が大きく違います。求人の実例と、転職事例を見比べてから応募先を絞るのが近道です。`}
+      </p>
+      <ul class="tenshoku-box-links">
+        <li><a href={tenshokuJobsHref} target="_blank" rel="noopener" data-jobs-cta="media-article-box">{tenshokuJobsLabel} <span aria-hidden="true">→</span></a></li>
+        <li><a href="/cases/">「どこから、どこへ」転職事例集を見る <span aria-hidden="true">→</span></a></li>
+        <li><a href="/consultation/" data-consult-cta="media-article-box">転職エージェントに無料で相談する <span aria-hidden="true">→</span></a></li>
+      </ul>
+    </aside>
 
     <ShareButtons url={shareUrl} title={post.data.title} />
 
@@ -304,6 +328,12 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
   .media-article .sources ul { margin: .6em 0 0; }
   .media-article .sources li { margin-bottom: .3em; }
   .media-article .sources .reviewed { margin: .9em 0 0; color: #6b7480; font-size: .84rem; }
+  /* 本文直後の「この職種の転職」ボックス */
+  .media-article .tenshoku-box { margin: 36px 0 8px; padding: 20px 22px; border: 1px solid #d8dee6; border-left: 4px solid #0b2a4a; border-radius: 8px; background: #f7f9fb; }
+  .media-article .tenshoku-box-title { font-weight: 700; font-size: 1.05rem; margin: 0 0 6px; color: #0b2a4a; }
+  .media-article .tenshoku-box-lead { font-size: .92rem; margin: 0 0 10px; color: #3d4652; }
+  .media-article .tenshoku-box-links { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+  .media-article .tenshoku-box-links a { font-weight: 600; font-size: .95rem; }
   .media-article .cta {
     margin-top: 2rem; padding: 2rem 1.5rem; border-radius: 12px;
     background: #1c1c2e; color: #fff; text-align: center;

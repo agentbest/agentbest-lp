@@ -1,5 +1,5 @@
 ---
-title: "FIGの評判｜年収・働き方・選考対策まで解説"
+title: "FIGへの転職｜評判・年収・選考対策まで解説"
 description: "FIGを有価証券報告書から整理。IoTとマシーンという異質な2事業と、第7期の14億円赤字からのV字回復を解説します。"
 category: "企業"
 companyName: "FIG"

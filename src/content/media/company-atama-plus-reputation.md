@@ -1,5 +1,5 @@
 ---
-title: "atama plusの評判｜年収・働き方・選考対策まで解説"
+title: "atama plusへの転職｜評判・年収・選考対策まで解説"
 description: "atama plusを公式情報から整理。AI教材・直営塾・大学向け・企業向けと広がる事業構成と、数値が公開されていない前提での確認事項を解説します。"
 category: "企業"
 companyName: "atama plus"

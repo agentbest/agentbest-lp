@@ -67,9 +67,9 @@ const company = [
   { k: '許可番号', v: '有料職業紹介事業　13-ユ-316964' },
 ];
 
-const title = '会社情報｜株式会社エージェントベスト';
+const title = '会社情報｜転職エージェントの株式会社エージェントベスト';
 const description =
-  '株式会社エージェントベストの会社情報。「日本に磁力を生む」というミッション、4つの行動指針、代表メッセージ、事業内容、会社概要を掲載しています。';
+  'IT・スタートアップ・コンサル・M&A領域の転職エージェント、株式会社エージェントベスト（有料職業紹介 13-ユ-316964）の会社情報。「日本に磁力を生む」というミッション、4つの行動指針、代表メッセージ、事業内容、会社概要を掲載しています。';
 
 // 構造化データ（AboutPage / Organization）
 const aboutSchema = {
@@ -86,7 +86,8 @@ const aboutSchema = {
 
 const organizationSchema = {
   '@context': 'https://schema.org',
-  '@type': 'Organization',
+  // Organization だけだと「何の会社か」が伝わらない。転職エージェントの型 EmploymentAgency を併記する
+  '@type': ['Organization', 'EmploymentAgency'],
   '@id': 'https://www.agent-best.net/#organization',
   name: '株式会社エージェントベスト',
   alternateName: 'AGENT BEST',
@@ -102,6 +103,15 @@ const organizationSchema = {
     addressLocality: '港区',
     streetAddress: '六本木4-8-7 嶋田ビル5階',
   },
+  // 有料職業紹介の許可。転職エージェント（職業紹介事業者）であることを検索エンジンに明示する
+  hasCredential: {
+    '@type': 'EducationalOccupationalCredential',
+    name: '有料職業紹介事業許可',
+    credentialCategory: '厚生労働大臣許可',
+    identifier: '13-ユ-316964',
+    recognizedBy: { '@type': 'GovernmentOrganization', name: '厚生労働省' },
+  },
+  areaServed: { '@type': 'Country', name: 'JP' },
   founder: {
     '@type': 'Person',
     name: '松岡 良次',

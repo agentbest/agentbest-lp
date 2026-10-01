@@ -1,5 +1,5 @@
 ---
-title: "SHIFTの評判｜年収・働き方・選考対策まで解説"
+title: "SHIFTへの転職｜評判・年収・選考対策まで解説"
 description: "SHIFTを有価証券報告書から整理。5期で売上2.8倍・従業員2.6倍という成長と、連結子会社38社・平均勤続3.2年の意味を解説します。"
 category: "企業"
 companyName: "SHIFT"

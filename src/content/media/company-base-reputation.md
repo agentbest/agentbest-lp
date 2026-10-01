@@ -1,5 +1,5 @@
 ---
-title: "BASEの評判｜年収・働き方・選考対策まで解説"
+title: "BASEへの転職｜評判・年収・選考対策まで解説"
 description: "BASEを有価証券報告書から整理。3期連続赤字からの黒字転換と、5事業・流通総額1,699億円という構造を解説します。"
 category: "企業"
 companyName: "BASE"

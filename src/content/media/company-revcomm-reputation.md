@@ -1,5 +1,5 @@
 ---
-title: "RevCommの評判｜年収・働き方・選考対策まで解説"
+title: "RevCommへの転職｜評判・年収・選考対策まで解説"
 description: "RevCommを公式の会社概要から整理。社員303名のうち34名がインドネシア籍拠点という構成と、資本金9億3500万円の読み方、選考の準備を解説します。"
 category: "企業"
 companyName: "RevComm"

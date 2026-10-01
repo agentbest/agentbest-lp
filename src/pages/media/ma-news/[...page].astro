@@ -37,7 +37,8 @@ const pages = around(page.currentPage, page.lastPage);
 const href = (n) => (n === 1 ? '/media/ma-news/' : `/media/ma-news/${n}/`);
 ---
 
-<Layout title={title} description={description} noindex={!isFirst && page.currentPage > 3}>
+{/* M&Aニュースは転職の情報ではないので一覧も noindex（2026-10-01） */}
+<Layout title={title} description={description} noindex>
   <Header />
   <section class="news-index">
     <nav class="breadcrumb" aria-label="パンくず">

@@ -32,7 +32,9 @@ for (let i = 1; i < sameIndustry.length && related.length < 5; i++) {
 const recent = sorted.filter((p) => p.slug !== post.slug).slice(0, 5);
 ---
 
-<Layout title={`${d.title}｜M&Aニュース`} description={d.description}>
+{/* M&Aニュースは適時開示の要約で、転職の情報ではない。サイト全体のテーマ（転職）を薄めないよう
+    検索結果には出さない（2026-10-01 松岡さん指示）。リンクはたどらせる（noindex, follow）。sitemap からも外している */}
+<Layout title={`${d.title}｜M&Aニュース`} description={d.description} noindex>
   <Header />
   <article class="news-article">
     <nav class="breadcrumb" aria-label="パンくず">
