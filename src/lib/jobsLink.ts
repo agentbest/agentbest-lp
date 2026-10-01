@@ -82,3 +82,36 @@ export function jobsGroupUrl(slug: string, { medium, campaign }: { medium: strin
   if (campaign) p.set('utm_campaign', campaign);
   return `${JOBS_URL}jobs/${slug}/?${p.toString()}`;
 }
+
+/* 転職事例集の領域（src/lib/cases.ts の AREA_ORDER）→ 求人サイトの職種一覧。
+   事例を読んで「この転職先の求人は実際にあるのか」を見に行けるようにする（2026-10-01） */
+const CASE_AREA_GROUP: Record<string, [string, string]> = {
+  pm: ['project-management', 'プロジェクト管理'],
+  consul: ['consultant', 'コンサルタント'],
+  ma: ['finance', '金融・M&A'],
+  eng: ['engineer', 'エンジニア'],
+  data: ['engineer', 'エンジニア（データ・AI）'],
+  sales: ['sales', '営業'],
+  corp: ['corporate', '管理部門'],
+  biz: ['business-planning', '事業企画'],
+};
+/* 転職先（slug の最後の -to- より後ろ）で、領域より細かく決められるものは先にこちらで決める */
+const CASE_TARGET_GROUP: [RegExp, [string, string]][] = [
+  [/it-consul|erp-consultant|security-consul/, ['it-consultant', 'ITコンサルタント']],
+  [/fas|ib-fa|pmi/, ['consultant', 'コンサルタント（FAS・M&A）']],
+  [/pdm|cpo|saas-pm/, ['internet-service', 'プロダクトマネージャー・Webサービス']],
+  [/saas-cs|cs-manager/, ['sales', '営業・カスタマーサクセス']],
+  [/keiei-kikaku/, ['corporate-planning', '経営企画']],
+  [/hrbp/, ['hr', '人事']],
+  [/marketing|koho|pr-to/, ['marketing', 'マーケティング・広報']],
+  [/bizdev|shinki-jigyou/, ['business-planning', '事業企画・事業開発']],
+];
+export function jobsGroupOfCaseArea(area: string, patternSlug = ''): { slug: string; label: string } | null {
+  const target = patternSlug.includes('-to-') ? patternSlug.slice(patternSlug.lastIndexOf('-to-') + 4) : patternSlug;
+  // 転職先が slug に出てこないもの（広報→スタートアップの広報）は職種の側で引く
+  const key = patternSlug.startsWith('koho') ? 'koho' : target;
+  const hit = CASE_TARGET_GROUP.find(([re]) => re.test(key));
+  if (hit) return { slug: hit[1][0], label: hit[1][1] };
+  const g = CASE_AREA_GROUP[area];
+  return g ? { slug: g[0], label: g[1] } : null;
+}

@@ -6,6 +6,7 @@ import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
 import { CASES, PATTERN_BY_SLUG, casesOfPattern } from '../../lib/cases';
+import { jobsGroupOfCaseArea, jobsGroupUrl } from '../../lib/jobsLink';
 
 export function getStaticPaths() {
   return CASES.map((c) => ({ params: { id: c.id }, props: { item: c } }));
@@ -13,6 +14,9 @@ export function getStaticPaths() {
 
 const { item } = Astro.props;
 const pattern = PATTERN_BY_SLUG.get(item.pattern)!;
+// 転職先の領域の求人一覧（求人サイト）
+const caseJobs = jobsGroupOfCaseArea(pattern.area, pattern.slug);
+const caseJobsHref = caseJobs ? jobsGroupUrl(caseJobs.slug, { medium: 'cases', campaign: String(item.id) }) : null;
 
 // 同じパターンの他の事例。番号が近いものではなく、離れたものを出して幅を見せる
 const siblings = casesOfPattern(item.pattern).filter((c) => c.id !== item.id);
@@ -96,6 +100,9 @@ const breadcrumbLd = {
         いまの経歴でどのパターンに近いのか、何が論点になりそうかを整理したい方は、キャリア相談をご利用ください。
       </p>
       <a class="cta-btn" href="/consultation/">キャリア相談について見る →</a>
+      {caseJobs && caseJobsHref && (
+        <p class="cta-jobs"><a href={caseJobsHref} target="_blank" rel="noopener" data-jobs-cta="cases">転職先の求人を見る：{caseJobs.label}の求人一覧 →</a></p>
+      )}
     </div>
 
     <ShareButtons title={`${item.title}｜${item.subtitle}`} label="この事例をシェア" />
@@ -143,6 +150,8 @@ const breadcrumbLd = {
   .cta p { font-size: .89rem; color: #454e59; margin: 0 0 1em; }
   .cta-btn { display: inline-block; padding: .75em 1.6em; border-radius: 8px; background: #1e5f56; color: #fff; font-weight: 700; font-size: .92rem; }
   .cta-btn:hover { background: #16453f; }
+  .cta-jobs { margin: 1em 0 0; font-size: .9rem; }
+  .cta-jobs a { color: #1e5f56; font-weight: 700; text-decoration: underline; }
 
   @media (max-width: 600px) {
     h1 { font-size: 1.25rem; }

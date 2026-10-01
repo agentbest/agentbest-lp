@@ -5,6 +5,7 @@ import Layout from '../../../layouts/Layout.astro';
 import Header from '../../../components/Header.astro';
 import ShareButtons from '../../../components/ShareButtons.astro';
 import { PATTERNS, PATTERN_BY_SLUG, casesOfPattern } from '../../../lib/cases';
+import { jobsGroupOfCaseArea, jobsGroupUrl } from '../../../lib/jobsLink';
 
 export function getStaticPaths() {
   return PATTERNS.map((p) => ({ params: { slug: p.slug } }));
@@ -12,6 +13,9 @@ export function getStaticPaths() {
 
 const { slug } = Astro.params;
 const pattern = PATTERN_BY_SLUG.get(slug)!;
+// 転職先の領域の求人一覧（求人サイト）
+const caseJobs = jobsGroupOfCaseArea(pattern.area, pattern.slug);
+const caseJobsHref = caseJobs ? jobsGroupUrl(caseJobs.slug, { medium: 'cases', campaign: String(slug) }) : null;
 const cases = casesOfPattern(slug);
 
 /** この25件の中での内訳。市場全体の統計ではないので、見出しでもそう書く */
@@ -136,6 +140,9 @@ const breadcrumbLd = {
         いまの経歴でどこまで通るのかを確かめたい方は、キャリア相談をご利用ください。求人が決まっていない段階でも構いません。
       </p>
       <a class="cta-btn" href="/consultation/">キャリア相談について見る →</a>
+      {caseJobs && caseJobsHref && (
+        <p class="cta-jobs"><a href={caseJobsHref} target="_blank" rel="noopener" data-jobs-cta="cases">転職先の求人を見る：{caseJobs.label}の求人一覧 →</a></p>
+      )}
       <p class="cta-sub">
         この領域の解説記事は <a href="/media/">転職メディア</a>、
         事例の絞り込みは <a href="/cases/search/">事例をしぼり込む</a> から。
@@ -196,6 +203,8 @@ const breadcrumbLd = {
   .cta p { font-size: .9rem; color: #454e59; margin: 0 0 1em; }
   .cta-btn { display: inline-block; padding: .75em 1.6em; border-radius: 8px; background: #1e5f56; color: #fff; font-weight: 700; font-size: .92rem; }
   .cta-btn:hover { background: #16453f; }
+  .cta-jobs { margin: 1em 0 0; font-size: .9rem; }
+  .cta-jobs a { color: #1e5f56; font-weight: 700; text-decoration: underline; }
   .cta-sub { font-size: .84rem; color: #6b7480; margin: 1.2em 0 0; }
   .cta-sub a { color: #1e5f56; text-decoration: underline; }
 
