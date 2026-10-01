@@ -9,6 +9,7 @@ import Header from '../../../../components/Header.astro';
 import MediaSearchBox from '../../../../components/MediaSearchBox.astro';
 import ShareButtons from '../../../../components/ShareButtons.astro';
 import LineCta from '../../../../components/LineCta.astro';
+import { jobsGroupOf, jobsGroupUrl, jobsUrl } from '../../../../lib/jobsLink';
 import { hubLabel, groupOf, CATEGORY_LABEL, KANA_ROWS, companyRow, companySortKey, HUB_SITE } from '../../../../lib/mediaTaxonomy';
 
 export async function getStaticPaths({ paginate }) {
@@ -51,6 +52,12 @@ const isCompany = category === '企業';
 const catLabel = CATEGORY_LABEL[category] ?? category;
 // このハブに対応する特設サイトがあれば、記事一覧の手前に導線を1本出す
 const site = HUB_SITE[hub];
+// 同じ職種の求人一覧（求人サイト）。対応が無いハブは求人トップ
+const jobsGroup = jobsGroupOf(hub);
+const jobsHref = jobsGroup
+  ? jobsGroupUrl(jobsGroup.slug, { medium: 'hub', campaign: hub })
+  : jobsUrl({ medium: 'hub', campaign: hub });
+const jobsLabel = jobsGroup ? `${jobsGroup.label}の求人を見る` : '中途採用の求人を探す';
 
 // 企業一覧は50音の行ごとに小見出しを立てる（そのページに現れた行だけ）
 const rows = [];
@@ -70,10 +77,10 @@ const nextUrl = slash(page.url.next);
 
 const pageSuffix = page.currentPage > 1 ? `（${page.currentPage}／${page.lastPage}ページ）` : '';
 const title = isCompany
-  ? `${name}の企業一覧｜評判・年収・選考対策${pageSuffix}`
+  ? `${name}への転職｜企業別の評判・年収・選考対策${pageSuffix}`
   : `${name}の転職情報まとめ｜年収・キャリア・面接対策${pageSuffix}`;
 const description = isCompany
-  ? `${name}に分類される${total}社の評判・年収・働き方・選考対策の記事一覧です。数字は有価証券報告書などの一次情報をもとにしています。`
+  ? `${name}への転職を考える方へ。${total}社の評判・年収・働き方・選考対策の記事一覧です。数字は有価証券報告書などの一次情報をもとにしています。`
   : `${name}の転職・キャリアに関する記事${total}本の一覧です。年収相場やキャリアパスから選考対策まで、実務目線で解説します。`;
 ---
 
@@ -87,7 +94,7 @@ const description = isCompany
       {group && <><span>/</span><span>{group}</span></>}
     </nav>
 
-    <h1>{isCompany ? `${name}の企業一覧` : `${name}の転職情報`}</h1>
+    <h1>{isCompany ? `${name}への転職｜企業一覧` : `${name}の転職情報`}</h1>
     <p class="hub-lead">
       {isCompany
         ? `${name}に分類される${total}社の評判・年収・働き方・選考対策をまとめています。数字は有価証券報告書などの一次情報をもとにしています。`
@@ -100,6 +107,11 @@ const description = isCompany
         <a href={site.href} target="_blank" rel="noopener">{site.label} ↗</a>
       </p>
     )}
+
+    <p class="hub-jobs">
+      <a href={jobsHref} target="_blank" rel="noopener" data-jobs-cta="media-hub">{jobsLabel} →</a>
+      <a href="/consultation/" data-consult-cta="media-hub">転職エージェントに無料で相談する →</a>
+    </p>
 
     <MediaSearchBox placeholder={isCompany ? '企業名で検索' : '記事を検索'} />
 
@@ -179,6 +191,8 @@ const description = isCompany
   .hub-site { display: flex; flex-wrap: wrap; align-items: center; gap: .7em; margin: 1.2em 0 0;
     padding: .8em 1em; border: 1px solid #d8dde3; border-left: 4px solid #1c1c2e; border-radius: 8px;
     background: #fafbfc; font-size: .92rem; }
+  .hub-jobs { display: flex; flex-wrap: wrap; gap: .5em 1.4em; margin: 1em 0 0; font-size: .92rem; }
+  .hub-jobs a { color: #1c1c2e; font-weight: 700; }
   .hub-site-label { font-size: .72rem; font-weight: 700; letter-spacing: .08em; color: #6b7684; }
   .hub-site a { color: #1c1c2e; font-weight: 700; }
 

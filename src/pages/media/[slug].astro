@@ -456,6 +456,9 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
     '@type': 'Person',
     name: '松岡 良次',
     url: 'https://www.agent-best.net/profile/',
+    // 転職エージェントの代表が書いている、という関係を明示する
+    jobTitle: '代表取締役・転職エージェント',
+    worksFor: { '@id': 'https://www.agent-best.net/#organization' },
     sameAs: [
       'https://x.com/r_matsuoka0919',
       'https://www.facebook.com/ryouji.matsuoka919',
@@ -464,7 +467,7 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
     ]
   },
   publisher: {
-    '@type': 'Organization',
+    '@type': ['Organization', 'EmploymentAgency'],
     '@id': 'https://www.agent-best.net/#organization',
     name: '株式会社エージェントベスト',
     url: 'https://www.agent-best.net/',

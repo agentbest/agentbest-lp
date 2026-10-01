@@ -9,11 +9,12 @@ const personSchema = {
   '@context': 'https://schema.org',
   '@type': 'Person',
   name: '松岡 良次',
-  jobTitle: '代表取締役',
+  jobTitle: '代表取締役・転職エージェント',
   worksFor: {
-    '@type': 'Organization',
+    '@type': ['Organization', 'EmploymentAgency'],
+    '@id': 'https://www.agent-best.net/#organization',
     name: '株式会社エージェントベスト',
-    url: 'https://www.agent-best.net',
+    url: 'https://www.agent-best.net/',
     address: {
       '@type': 'PostalAddress',
       addressCountry: 'JP',
@@ -21,7 +22,7 @@ const personSchema = {
       streetAddress: '港区六本木4-8-7 嶋田ビル5階',
     },
   },
-  url: 'https://www.agent-best.net/profile',
+  url: 'https://www.agent-best.net/profile/',
   sameAs: [
     'https://x.com/r_matsuoka0919',
     'https://www.facebook.com/ryouji.matsuoka919',

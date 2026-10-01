@@ -163,7 +163,9 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
       <span class="hero-vlabel vertical" aria-hidden="true">20s &ndash; 30s High-Class Career</span>
       <div class="wrap hero-inner">
         <div class="hero-lede">
+          {/* h1 に「何の会社か」を入れる。キャッチコピーだけだと検索エンジンにも初見の人にも転職エージェントだと伝わらない */}
           <h1 class="hero-title">
+            <span class="hero-kicker">20代・30代ハイクラスの転職エージェント</span>
             領域を絞った、<br />確かな提案。
           </h1>
           <p class="hero-sub">20代・30代のハイクラスキャリアに、戦略を。</p>
@@ -601,6 +603,15 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
       letter-spacing: 0.04em;
       margin-top: 0;
       text-shadow: 0 2px 24px rgba(8, 13, 20, 0.35);
+    }
+    .hero-kicker {
+      display: block;
+      font-size: clamp(0.9rem, 2vw, 1.05rem);
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      line-height: 1.6;
+      margin-bottom: 0.9rem;
+      color: rgba(255, 255, 255, 0.9);
     }
     .hero-sub {
       font-family: var(--font-display);
