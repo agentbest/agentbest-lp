@@ -12,12 +12,13 @@ const jobSites = [
   { label: '新卒・インターンの求人', note: '就活・長期インターン', href: 'https://shinsotsu.agent-best.net/' },
 ];
 /* メディア（転職メディア・転職事例集）はヘッダーから外し、フッターだけに置く（2026-09-06 松岡さん指示）。 */
+/* OfferBox・Greenはスカウト代行の、Infraは求人広告代理店の個別メニューなので、親の下に子項目（child）として置く。 */
 const employerSites = [
   { label: 'スカウト代行', href: 'https://scout.agent-best.net/' },
-  { label: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
-  { label: 'Green運用代行', href: 'https://green.agent-best.net/' },
-  { label: '長期インターン採用（Infra）', href: 'https://infra.agent-best.net/' },
+  { label: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/', child: true },
+  { label: 'Green運用代行', href: 'https://green.agent-best.net/', child: true },
   { label: '求人広告代理店（新卒・中途・インターンの求人媒体）', href: 'https://saiyo-media.agent-best.net/' },
+  { label: '長期インターン採用（Infra）', href: 'https://infra.agent-best.net/', child: true },
 ];
 ---
 <header class="site-header">
@@ -47,7 +48,7 @@ const employerSites = [
         <div class="nav-dd-menu">
           <div class="dd-group">
             <p class="dd-group-title">採用支援サービス</p>
-            {employerSites.map((it) => <a class="dd-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>)}
+            {employerSites.map((it) => <a class:list={['dd-link', { 'dd-link-child': it.child }]} href={it.href} target="_blank" rel="noopener">{it.label}</a>)}
             <a class="dd-link dd-link-contact" href="/contact/">採用のご相談・お問い合わせ →</a>
           </div>
         </div>
@@ -222,6 +223,8 @@ const employerSites = [
     transition: background .15s ease, color .15s ease;
   }
   .dd-link::after { display: none; }
+  .dd-link-child { padding-left: 28px; font-size: 0.92em; }
+  .dd-link-child::before { content: '└'; margin-right: 6px; opacity: 0.5; }
   .dd-link:hover {
     background: color-mix(in srgb, var(--teal) 10%, transparent);
     color: var(--ink);

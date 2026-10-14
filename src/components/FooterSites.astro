@@ -32,10 +32,10 @@ const specialSites = {
   ],
   '採用ご担当者の方へ': [
     { label: 'スカウト代行', href: 'https://scout.agent-best.net/' },
-    { label: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
-    { label: 'Green運用代行', href: 'https://green.agent-best.net/' },
-    { label: '長期インターン採用（Infra）', href: 'https://infra.agent-best.net/' },
+    { label: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/', child: true },
+    { label: 'Green運用代行', href: 'https://green.agent-best.net/', child: true },
     { label: '求人広告代理店（求人媒体の比較・申込）', href: 'https://saiyo-media.agent-best.net/' },
+    { label: '長期インターン採用（Infra）', href: 'https://infra.agent-best.net/', child: true },
     { label: '求人媒体の運用ノウハウ（記事）', href: 'https://saiyo-media.agent-best.net/media/' },
   ],
 };
@@ -77,7 +77,7 @@ const specialSites = {
         <p class="fs-group-title">{group}</p>
         <ul>
           {items.map((it) => (
-            <li><a href={it.href} target="_blank" rel="noopener">{it.label}</a></li>
+            <li class:list={[{ 'fs-child': it.child }]}><a href={it.href} target="_blank" rel="noopener">{it.label}</a></li>
           ))}
         </ul>
       </div>
@@ -111,6 +111,8 @@ const specialSites = {
   .fj-note { display: block; font-size: 0.76rem; margin-top: 4px; opacity: 0.62; }
 
   .footer-sites { grid-column: 1 / -1; }
+  .fs-group li.fs-child { padding-left: 1.1em; }
+  .fs-child::before { content: '└'; margin-right: 0.4em; opacity: 0.45; }
   .footer-line { grid-column: 1 / -1; }
   .footer-sites-title {
     font-size: 0.84rem;
