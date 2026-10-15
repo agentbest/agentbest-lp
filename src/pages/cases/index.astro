@@ -6,7 +6,7 @@ import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
 import { CASES, PATTERNS, patternGroups } from '../../lib/cases';
-import { jobsUrl } from '../../lib/jobsLink';
+import { jobsUrl, skillUrl } from '../../lib/jobsLink';
 
 const groups = patternGroups();
 const total = CASES.length;
@@ -110,7 +110,7 @@ const breadcrumbLd = {
       </p>
       <a class="cta-btn" href="/consultation/">キャリア相談について見る →</a>
       <p class="cta-sub">
-        求人から探したい方は <a href={jobsUrl({ medium: 'cases', campaign: 'cases-index' })} data-jobs-cta="cases-index" target="_blank" rel="noopener">求人検索</a>、
+        求人から探したい方は <a href={jobsUrl({ medium: 'cases', campaign: 'cases-index' })} data-jobs-cta="cases-index" target="_blank" rel="noopener">ハイクラスの求人検索</a>・<a href={skillUrl({ medium: 'cases', campaign: 'cases-index' })} data-jobs-cta="cases-index-skill" target="_blank" rel="noopener">手に職の求人検索</a>、
         職種・業界の解説は <a href="/media/">転職メディア</a> にまとめています。
       </p>
     </div>

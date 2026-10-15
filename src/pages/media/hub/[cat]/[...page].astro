@@ -9,7 +9,7 @@ import Header from '../../../../components/Header.astro';
 import MediaSearchBox from '../../../../components/MediaSearchBox.astro';
 import ShareButtons from '../../../../components/ShareButtons.astro';
 import LineCta from '../../../../components/LineCta.astro';
-import { jobsGroupOf, jobsGroupUrl, jobsUrl } from '../../../../lib/jobsLink';
+import { jobsGroupOf, jobsGroupUrl, jobsUrl, SKILL_URL } from '../../../../lib/jobsLink';
 import { hubLabel, groupOf, CATEGORY_LABEL, KANA_ROWS, companyRow, companySortKey, HUB_SITE } from '../../../../lib/mediaTaxonomy';
 
 export async function getStaticPaths({ paginate }) {
@@ -110,6 +110,7 @@ const description = isCompany
 
     <p class="hub-jobs">
       <a href={jobsHref} target="_blank" rel="noopener" data-jobs-cta="media-hub">{jobsLabel} →</a>
+      <a href={jobsGroup ? jobsGroupUrl(jobsGroup.slug, { medium: 'hub', campaign: hub, base: SKILL_URL }) : jobsUrl({ medium: 'hub', campaign: hub, base: SKILL_URL })} target="_blank" rel="noopener" data-jobs-cta="media-hub-skill">未経験歓迎・手に職の求人を見る →</a>
       <a href="/consultation/" data-consult-cta="media-hub">転職エージェントに無料で相談する →</a>
     </p>
 

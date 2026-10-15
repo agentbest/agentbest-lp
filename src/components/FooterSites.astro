@@ -2,13 +2,14 @@
 /* 特設サイト（LP）の一覧。以前はヘッダーのドロップダウンに置いていたが、
    フッターに集約した。LPを増やしたらここだけ直せば全ページに反映される。 */
 import LineCta from './LineCta.astro';
-import { jobsUrl, SHINSOTSU_URL } from '../lib/jobsLink';
+import { jobsUrl, skillUrl, SHINSOTSU_URL } from '../lib/jobsLink';
 
 /* 求人サイトへの導線。ヘッダーのドロップダウンにしか無く、フッターからは
    1本も繋がっていなかった。相談フォームより手前に踏める入口なので、
    特設サイトの一覧より先に出す。 */
 const jobSites = [
-  { label: '中途採用の求人', note: 'IT・スタートアップ・M&A・コンサル', href: jobsUrl({ medium: 'footer' }) },
+  { label: 'ハイクラスの求人', note: '中途・年収600万円以上', href: jobsUrl({ medium: 'footer' }) },
+  { label: '手に職をつける求人', note: '中途・未経験歓迎／資格取得支援', href: skillUrl({ medium: 'footer' }) },
   { label: '新卒・インターンの求人', note: '就活・長期インターン', href: `${SHINSOTSU_URL}?utm_source=corporate&utm_medium=footer` },
 ];
 

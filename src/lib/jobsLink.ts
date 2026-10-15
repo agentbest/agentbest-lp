@@ -1,4 +1,5 @@
-/* 求人サイト（jobs.agent-best.net / shinsotsu.agent-best.net）への導線をここに集約する。
+/* 求人サイト（jobs.agent-best.net / skill.agent-best.net / shinsotsu.agent-best.net）への導線をここに集約する。
+   jobs＝年収600万円以上のハイクラス、skill＝それ以外の中途（手に職・未経験歓迎）。職種一覧のslugは両サイト共通。
    コーポレートから求人サイトへの流入は、これまでヘッダーのドロップダウン2箇所しか
    無く、GA4でもどのページから飛んだのか分からなかった。リンクは必ずこの関数で組み、
    utm を付けて出す。
@@ -7,6 +8,7 @@
    無視されて全件一覧が出るだけなので、付けておいても害はない。 */
 export const JOBS_URL = 'https://jobs.agent-best.net/';
 export const SHINSOTSU_URL = 'https://shinsotsu.agent-best.net/';
+export const SKILL_URL = 'https://skill.agent-best.net/';
 
 type JobsLinkOpts = {
   /** どのページから飛んだか。utm_medium に入れる */
@@ -17,14 +19,17 @@ type JobsLinkOpts = {
   q?: string;
 };
 
-export function jobsUrl({ medium, campaign, q }: JobsLinkOpts): string {
+export function jobsUrl({ medium, campaign, q, base = JOBS_URL }: JobsLinkOpts & { base?: string }): string {
   const p = new URLSearchParams();
   if (q) p.set('q', q);
   p.set('utm_source', 'corporate');
   p.set('utm_medium', medium);
   if (campaign) p.set('utm_campaign', campaign);
-  return `${JOBS_URL}?${p.toString()}`;
+  return `${base}?${p.toString()}`;
 }
+
+/** 手に職の求人サイト（skill.agent-best.net）へのURL（utm付き） */
+export const skillUrl = (o: JobsLinkOpts) => jobsUrl({ ...o, base: SKILL_URL });
 
 /* メディアのハブ → 求人サイトの職種一覧（jobs.agent-best.net/jobs/<slug>/）。
    記事を「職業の解説」で終わらせず、同じ職種の求人に必ずつなぐための対応表。
@@ -75,12 +80,12 @@ export function jobsGroupOf(hub: string): { slug: string; label: string } | null
 }
 
 /** 求人サイトの職種一覧ページへのURL（utm付き） */
-export function jobsGroupUrl(slug: string, { medium, campaign }: { medium: string; campaign?: string }): string {
+export function jobsGroupUrl(slug: string, { medium, campaign, base = JOBS_URL }: { medium: string; campaign?: string; base?: string }): string {
   const p = new URLSearchParams();
   p.set('utm_source', 'corporate');
   p.set('utm_medium', medium);
   if (campaign) p.set('utm_campaign', campaign);
-  return `${JOBS_URL}jobs/${slug}/?${p.toString()}`;
+  return `${base}jobs/${slug}/?${p.toString()}`;
 }
 
 /* 転職事例集の領域（src/lib/cases.ts の AREA_ORDER）→ 求人サイトの職種一覧。

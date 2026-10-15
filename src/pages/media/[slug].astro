@@ -9,7 +9,7 @@ import ArticleJobs from '../../components/ArticleJobs.astro';
 import Header from '../../components/Header.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
 import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
-import { jobsUrl, jobsGroupOf, jobsGroupUrl, JOBS_URL } from '../../lib/jobsLink';
+import { jobsUrl, jobsGroupOf, jobsGroupUrl, JOBS_URL, SKILL_URL } from '../../lib/jobsLink';
 // 企業記事 → 求人サイトの企業ページ（node tools/jobsite-companies/fetch.mjs で作る）
 import jobsiteCompanies from '../../data/jobsite-companies.json';
 
@@ -70,6 +70,11 @@ const tenshokuJobsHref = jobsiteCo
   : jobsGroup
   ? jobsGroupUrl(jobsGroup.slug, { medium: 'article-box', campaign: post.slug })
   : jobsUrl({ medium: 'article-box', campaign: post.slug });
+// 手に職の求人サイト（skill）にも同じ職種一覧がある。年収600万円未満・未経験歓迎の求人はこちら
+const skillJobsHref = jobsGroup
+  ? jobsGroupUrl(jobsGroup.slug, { medium: 'article-box', campaign: post.slug, base: SKILL_URL })
+  : jobsUrl({ medium: 'article-box', campaign: post.slug, base: SKILL_URL });
+const skillJobsLabel = jobsGroup ? `未経験歓迎・手に職の${jobsGroup.label}求人を見る` : '未経験歓迎・手に職の求人を探す';
 const tenshokuJobsLabel = jobsiteCo ? `${post.data.companyName}の会社概要・募集中の求人を見る` : jobsGroup ? `${jobsGroup.label}の求人一覧を見る` : '中途採用の求人を探す';
 
 const related = (post.data.related ?? [])
@@ -160,6 +165,7 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
       <ArticleJobs slug={post.slug} companyName={post.data.companyName} hubName={hubName} />
       <ul class="tenshoku-box-links">
         <li><a href={tenshokuJobsHref} target="_blank" rel="noopener" data-jobs-cta="media-article-box">{tenshokuJobsLabel} <span aria-hidden="true">→</span></a></li>
+        <li><a href={skillJobsHref} target="_blank" rel="noopener" data-jobs-cta="media-article-box-skill">{skillJobsLabel} <span aria-hidden="true">→</span></a></li>
         <li><a href="/cases/">「どこから、どこへ」転職事例集を見る <span aria-hidden="true">→</span></a></li>
         <li><a href="/consultation/" data-consult-cta="media-article-box">転職エージェントに無料で相談する <span aria-hidden="true">→</span></a></li>
       </ul>

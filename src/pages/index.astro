@@ -7,7 +7,7 @@ import { CASES } from '../lib/cases';
 // 事例集の件数は手打ちしない（/cases 側と必ず一致させる）
 const caseTotal = CASES.length;
 import { getArticleCount } from '../lib/mediaCount';
-import { jobsUrl, SHINSOTSU_URL } from '../lib/jobsLink';
+import { jobsUrl, skillUrl, SHINSOTSU_URL } from '../lib/jobsLink';
 import { FAQS, faqSchema } from '../lib/faq';
 
 import FooterSites from '../components/FooterSites.astro';
@@ -293,8 +293,8 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
         </header>
         <ul class="job-grid reveal">
           <li class="job-card">
-            <span class="job-card-label">キャリア採用</span>
-            <h3 class="job-card-title">中途採用の求人</h3>
+            <span class="job-card-label">中途・年収600万円以上</span>
+            <h3 class="job-card-title">ハイクラスの求人</h3>
             <p class="job-card-body">
               IT・スタートアップ・M&amp;A・コンサルの4領域から、職種・年収・働き方で絞り込めます。会員登録なしでそのまま閲覧できます。
             </p>
@@ -304,6 +304,19 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
               target="_blank"
               rel="noopener"
             >求人を見る <span class="arrow" aria-hidden="true">→</span></a>
+          </li>
+          <li class="job-card">
+            <span class="job-card-label">中途・未経験歓迎／資格取得支援</span>
+            <h3 class="job-card-title">手に職をつける求人</h3>
+            <p class="job-card-body">
+              技術・資格・専門性が身につく仕事をまとめています。未経験から始められる求人や、研修・資格取得支援のある求人も探せます。
+            </p>
+            <a
+              class="job-card-link"
+              href={skillUrl({ medium: 'top-jobs' })}
+              target="_blank"
+              rel="noopener"
+            >手に職の求人を見る <span class="arrow" aria-hidden="true">→</span></a>
           </li>
           <li class="job-card">
             <span class="job-card-label">就活・長期インターン</span>
@@ -779,6 +792,7 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
       grid-template-columns: repeat(1, 1fr);
     }
     @media (min-width: 760px) { .job-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (min-width: 1040px) { .job-grid { grid-template-columns: repeat(3, 1fr); } }
     .job-card {
       display: flex; flex-direction: column;
       border: 1px solid var(--hairline); background: #FFF;
