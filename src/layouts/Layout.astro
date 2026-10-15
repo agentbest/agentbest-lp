@@ -86,7 +86,7 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
         /* 求人サイトは別ドメインなので、GA4では別セッション扱いになり、
            どのページから飛んだかがコーポレート側で分からなくなる。
            リンクのutmとは別に、クリック自体をこちら側でも数える。 */
-        var job = t.closest('a[href*="jobs.agent-best.net"], a[href*="shinsotsu.agent-best.net"]');
+        var job = t.closest('a[href*="jobs.agent-best.net"], a[href*="shinsotsu.agent-best.net"], a[href*="skill.agent-best.net"]');
         if (job && typeof window.gtag === 'function') {
           window.gtag('event', 'jobs_click', {
             placement: job.getAttribute('data-jobs-cta') || 'link',

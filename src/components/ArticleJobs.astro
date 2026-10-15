@@ -2,7 +2,8 @@
 /* 記事の転職ボックスに出す「募集中の求人」カード（2026-10-15）。
    求人は毎朝入れ替わるので記事には焼き込まず、求人サイトが毎朝作る
    https://jobs.agent-best.net/data/media-jobs/<記事slug>.json を閲覧時に読む（作っているのは jobsite の media-jobs.js）。
-     { k: 'co'|'hub'|'group', l: 見出しの名前, j: [[求人ID, 企業名, 職種名, 年収, 勤務地, ロゴ], ...] }
+     { k: 'co'|'tag'|'hub'|'group', l: 見出しの名前, j: [[求人ID, 企業名, 職種名, 年収, 勤務地, ロゴ, サイト], ...] }
+   k='tag' は Airtable「記事タグ」で選んだ求人（l＝タグ名）。サイトが 's' の求人は skill.agent-best.net（手に職・年収600万円未満）にある。
    ファイルが無い・読めないときは何も出さない（ボックスの文字リンクだけが残る＝従来どおり）。
    クリックは Layout.astro の jobs_click（placement=media-article-jobs）で数える。 */
 import { JOBS_URL } from '../lib/jobsLink';
@@ -41,10 +42,11 @@ const { slug, companyName = '', hubName } = Astro.props;
       box.querySelector('.article-jobs-title').textContent = name + 'の募集中の求人';
       var utm = '?utm_source=corporate&utm_medium=article-jobs&utm_campaign=' + encodeURIComponent(d.slug);
       box.querySelector('.article-jobs-list').innerHTML = data.j.map(function (j) {
+        var base = j[6] === 's' ? 'https://skill.agent-best.net/' : d.base;
         var logo = j[5]
-          ? '<img class="aj-logo" src="' + esc(d.base + j[5]) + '" alt="" width="36" height="36" loading="lazy" onerror="this.remove()">'
+          ? '<img class="aj-logo" src="' + esc(base + j[5]) + '" alt="" width="36" height="36" loading="lazy" onerror="this.remove()">'
           : '';
-        return '<li><a href="' + esc(d.base + 'job/' + encodeURIComponent(j[0]) + '/' + utm) + '" target="_blank" rel="noopener" data-jobs-cta="media-article-jobs">'
+        return '<li><a href="' + esc(base + 'job/' + encodeURIComponent(j[0]) + '/' + utm) + '" target="_blank" rel="noopener" data-jobs-cta="media-article-jobs">'
           + logo
           + '<span class="aj-body"><span class="aj-co">' + esc(j[1]) + '</span>'
           + '<span class="aj-name">' + esc(j[2]) + '</span>'
