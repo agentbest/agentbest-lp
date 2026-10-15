@@ -1,0 +1,471 @@
+---
+/* 採用ご担当者さま向けのまとめページ。
+   ヘッダーの「採用ご担当者さまはこちら」の飛び先。以前は /contact/（フォームだけ）に直行していたが、
+   サービスの説明なしにフォームを出すのは入口として弱いため、3つのサービスの案内＋選び方＋記事＋フォームの順にまとめた（2026-10-15）。
+   フォームは /contact/ と同じGoogleフォーム（B2B LP 4本も共用）。entry ID を変えると全部壊れる。 */
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import ShareButtons from '../components/ShareButtons.astro';
+import FooterSites from '../components/FooterSites.astro';
+
+const FORM_ACTION =
+  'https://docs.google.com/forms/d/e/1FAIpQLSd8Zk9Rxsg292K8R_ttnRYa5d4uXMBkSFrnlEVTFts6feRx6g/formResponse';
+const ENTRY = {
+  company: 'entry.1620407772',
+  name: 'entry.2140471957',
+  email: 'entry.417521654',
+  message: 'entry.1952858857',
+};
+
+/* 3つのサービス。子項目はヘッダーのドロップダウン（Header.astro の employerSites）と同じ親子関係 */
+const services = [
+  {
+    id: 'recruiting',
+    no: '01',
+    title: '人材紹介',
+    sub: '求人のご依頼',
+    lead: 'IT・スタートアップ・M&A・コンサルティングの4領域で、20代・30代の候補者をご紹介します。',
+    body: '当社が面談したうえで、求人に合う方だけをご紹介します。費用は入社が決まったときにだけ発生します。求人票がまだ固まっていない段階からご相談いただけます。',
+    price: '成功報酬（入社決定時のみ）',
+    items: [],
+    cta: { href: '#contact', label: '求人を依頼する', internal: true, type: '人材紹介（求人のご依頼）' },
+  },
+  {
+    id: 'rpo',
+    no: '02',
+    title: '採用代行',
+    sub: 'スカウト運用の代行',
+    lead: '契約しているスカウト媒体の運用を、候補者選定から文面・送信・日程調整まで代行します。',
+    body: '媒体の契約は貴社のまま、手が足りない「送る作業」を引き受けます。面接と合否の判断は貴社で行っていただきます。',
+    price: '',
+    items: [
+      { label: 'スカウト代行', note: 'OpenWork・BizReach・doda・AMBIなど／月額0円のプランから', href: 'https://scout.agent-best.net/' },
+      { label: 'OfferBox運用代行', note: '新卒／入社承諾時のみ20万円の完全成果報酬', href: 'https://scoutdaikou-offerbox.agent-best.net/', child: true },
+      { label: 'Green運用代行', note: 'IT・Web中途／1面談2万円の面談課金', href: 'https://green.agent-best.net/', child: true },
+    ],
+    cta: null,
+  },
+  {
+    id: 'media-agency',
+    no: '03',
+    title: '求人広告代理店',
+    sub: '求人媒体の比較・申込',
+    lead: '新卒・中途・インターンの求人媒体を比較して、合うものの申込みまでひとつの窓口で承ります。',
+    body: '媒体の料金は各社の正規料金のままです。申し込んだあとの運用も、必要なら上の採用代行でお引き受けします。',
+    price: '',
+    items: [
+      { label: '求人広告代理店', note: 'マイナビ・OfferBox・ワンキャリア・doda・Wantedlyなど', href: 'https://saiyo-media.agent-best.net/' },
+      { label: '長期インターン採用（Infra）', note: '月額5万円〜のサブスク／1名9万円〜の成果報酬', href: 'https://infra.agent-best.net/', child: true },
+    ],
+    cta: null,
+  },
+];
+
+/* 状況から選ぶ早見表 */
+const chooser = [
+  { q: '即戦力の中途を、自社の工数をかけずに採りたい', a: '人材紹介', href: '#recruiting' },
+  { q: 'スカウト媒体は契約済み。送る手が足りない', a: 'スカウト代行', href: 'https://scout.agent-best.net/' },
+  { q: '新卒をOfferBoxで採りたい。成果が出るまで費用をかけたくない', a: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
+  { q: 'エンジニアなどIT・Web職をGreenで採りたい', a: 'Green運用代行', href: 'https://green.agent-best.net/' },
+  { q: 'どの媒体を使うかから決めたい', a: '求人広告代理店', href: 'https://saiyo-media.agent-best.net/' },
+  { q: '長期インターンを採りたい', a: 'Infra', href: 'https://infra.agent-best.net/' },
+];
+
+/* 採用ノウハウの記事（求人広告代理店の採用メディア／OfferBox運用代行のメディア） */
+const SM = 'https://saiyo-media.agent-best.net/media/';
+const articles = [
+  { cat: '運用代行', title: '媒体を自社で運用するか代行に出すかの違い', href: `${SM}hikaku-baitai-vs-daikou/` },
+  { cat: '運用代行', title: '運用代行に出す前提の媒体の選び方', href: `${SM}hikaku-daikou-zentei/` },
+  { cat: '媒体比較', title: '新卒媒体と中途媒体の違い｜分けるか1つにするか', href: `${SM}hikaku-shinsotsu-vs-chuuto-baitai/` },
+  { cat: '中途採用', title: '中途採用のKPI｜新卒と分けて募集ごとに見る数', href: `${SM}kh-kpi-chuuto/` },
+  { cat: '新卒採用', title: 'OfferBoxの運用代行に任せられる範囲と自社で持つ判断', href: `${SM}ob-unyou-daikou-hanni/` },
+  { cat: 'インターン', title: 'インターンから本選考への流れの設計', href: `${SM}kh-schedule-intern/` },
+];
+const articleHubs = [
+  { label: '求人媒体の比較・選び方の記事', href: SM },
+  { label: '新卒ダイレクトリクルーティングの記事', href: 'https://scoutdaikou-offerbox.agent-best.net/media/' },
+];
+
+const types = ['人材紹介（求人のご依頼）', '採用代行（スカウト代行・OfferBox・Green）', '求人広告代理店（媒体の比較・申込・Infra）', 'まだ決まっていない・その他'];
+
+const title = '採用ご担当者さまへ｜人材紹介・採用代行・求人広告｜株式会社エージェントベスト';
+const description =
+  '株式会社エージェントベストの採用企業さま向けサービスの一覧です。人材紹介（求人のご依頼）、スカウト代行・OfferBox/Green運用代行、求人広告代理店・Infraの中から、採用の状況に合うものをお選びいただけます。';
+---
+
+<Layout title={title} description={description}>
+  <Header />
+
+  <main>
+    <!-- ============ HERO ============ -->
+    <section class="b-hero">
+      <div class="wrap">
+        <span class="eyebrow">For Companies</span>
+        <h1 class="b-hero-title">採用ご担当者さまへ</h1>
+        <p class="b-hero-lead">
+          人材紹介、採用代行、求人広告代理店の3つで、採用をお手伝いしています。
+          候補者を紹介してほしいのか、媒体の運用を任せたいのか、媒体選びから相談したいのか。
+          状況に合わせてお選びください。決まっていなければ、そのままご相談いただいて構いません。
+        </p>
+        <nav class="b-hero-index" aria-label="このページの内容">
+          <a href="#services">サービス</a>
+          <a href="#chooser">選び方</a>
+          <a href="#articles">記事</a>
+          <a href="#contact">お問い合わせ</a>
+        </nav>
+      </div>
+    </section>
+
+    <!-- ============ サービス ============ -->
+    <section id="services" class="section b-services">
+      <div class="wrap">
+        <header class="b-head reveal">
+          <span class="eyebrow">Services</span>
+          <h2>3つのご支援</h2>
+        </header>
+        <ul class="b-svc-list">
+          {services.map((s) => (
+            <li id={s.id} class="b-svc reveal">
+              <span class="b-svc-no">{s.no}</span>
+              <div class="b-svc-body">
+                <h3 class="b-svc-title">{s.title}<span class="b-svc-sub">{s.sub}</span></h3>
+                <p class="b-svc-lead">{s.lead}</p>
+                <p class="b-svc-text">{s.body}</p>
+                {s.price && <p class="b-svc-price">料金：{s.price}</p>}
+                {s.items.length > 0 && (
+                  <ul class="b-svc-items">
+                    {s.items.map((it) => (
+                      <li class:list={[{ 'is-child': it.child }]}>
+                        <a href={it.href} target="_blank" rel="noopener">
+                          <span class="b-item-label">{it.label} <span aria-hidden="true">↗</span></span>
+                          <span class="b-item-note">{it.note}</span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+                {s.cta && (
+                  <a href={s.cta.href} class="btn b-svc-cta" data-type={s.cta.type}>
+                    {s.cta.label} <span class="arrow" aria-hidden="true">→</span>
+                  </a>
+                )}
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
+    <!-- ============ 選び方 ============ -->
+    <section id="chooser" class="section b-chooser">
+      <div class="wrap">
+        <header class="b-head reveal">
+          <span class="eyebrow">Which one</span>
+          <h2>状況から選ぶ</h2>
+        </header>
+        <dl class="b-table reveal">
+          {chooser.map((c) => (
+            <div class="b-row">
+              <dt>{c.q}</dt>
+              <dd>
+                <a href={c.href} {...(c.href.startsWith('http') ? { target: '_blank', rel: 'noopener' } : {})}>
+                  {c.a} <span class="arrow" aria-hidden="true">→</span>
+                </a>
+              </dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+    </section>
+
+    <!-- ============ 記事 ============ -->
+    <section id="articles" class="section b-articles">
+      <div class="wrap">
+        <header class="b-head reveal">
+          <span class="eyebrow">Articles</span>
+          <h2>採用ノウハウの記事</h2>
+          <p class="b-desc">求人媒体の選び方や、代行に出す前に決めておくことを記事にしています。</p>
+        </header>
+        <div class="b-arts">
+          {articles.map((a) => (
+            <a class="b-art reveal" href={a.href} target="_blank" rel="noopener">
+              <span class="b-art-cat">{a.cat}</span>
+              <span class="b-art-title">{a.title}</span>
+            </a>
+          ))}
+        </div>
+        <p class="b-art-hubs">
+          {articleHubs.map((h) => (
+            <a href={h.href} target="_blank" rel="noopener">{h.label} ↗</a>
+          ))}
+        </p>
+      </div>
+    </section>
+
+    <!-- ============ お問い合わせ ============ -->
+    <section id="contact" class="section b-contact">
+      <div class="wrap b-contact-grid">
+        <header class="b-head">
+          <span class="eyebrow">Contact</span>
+          <h2>お問い合わせ</h2>
+          <p class="b-desc">
+            内容を確認のうえ、担当者よりご連絡いたします。営業のお電話はいたしません。
+          </p>
+          <p class="b-alt">
+            転職をお考えの方は、<a href="/consultation/">キャリア相談の窓口</a>をご利用ください。
+          </p>
+        </header>
+
+        <div class="b-form-wrap">
+          <form id="contact-form" novalidate
+            data-action={FORM_ACTION}
+            data-company={ENTRY.company}
+            data-name={ENTRY.name}
+            data-email={ENTRY.email}
+            data-message={ENTRY.message}
+          >
+            <div class="field">
+              <label for="type">ご相談の種類</label>
+              <select id="type" name="type">
+                {types.map((t) => <option value={t}>{t}</option>)}
+              </select>
+            </div>
+            <div class="field">
+              <label for="company">会社名 <span class="req">必須</span></label>
+              <input type="text" id="company" name="company" required autocomplete="organization" />
+            </div>
+            <div class="field">
+              <label for="name">お名前 <span class="req">必須</span></label>
+              <input type="text" id="name" name="name" required autocomplete="name" />
+            </div>
+            <div class="field">
+              <label for="email">メールアドレス <span class="req">必須</span></label>
+              <input type="email" id="email" name="email" required autocomplete="email" />
+            </div>
+            <div class="field">
+              <label for="message">お問い合わせ内容 <span class="req">必須</span></label>
+              <textarea id="message" name="message" rows="6" required placeholder="採用したい職種・人数・時期など、わかる範囲でご記入ください。"></textarea>
+            </div>
+
+            <p class="form-error" id="form-error" role="alert"></p>
+            <button type="submit" class="btn submit-btn" id="submit-btn">
+              送信する <span class="arrow" aria-hidden="true">→</span>
+            </button>
+            <p class="privacy-note">送信いただいた情報は、お問い合わせ対応の目的にのみ利用いたします。</p>
+          </form>
+
+          <div class="thanks" id="thanks" hidden>
+            <span class="thanks-mark" aria-hidden="true"></span>
+            <h3>送信しました</h3>
+            <p>
+              お問い合わせありがとうございます。<br />
+              内容を確認のうえ、担当者よりご連絡いたします。
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="wrap">
+      <ShareButtons title={title} label="このページをシェア" />
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div class="footer-brand">
+        <img class="footer-logo" src="/logo-white.png" alt="エージェントベスト" width="508" height="120" />
+        <p class="footer-tag">20代・30代ハイクラスのための転職エージェント</p>
+      </div>
+      <p class="footer-meta">
+        株式会社エージェントベスト　許可番号 13-ユ-316964<br />
+        東京都港区六本木4-8-7　嶋田ビル5階
+      </p>
+      <FooterSites />
+    </div>
+    <div class="wrap footer-base">
+      <small>&copy; {new Date().getFullYear()} Agent Best Inc.</small>
+    </div>
+  </footer>
+
+  <script>
+    /* スクロール表示 */
+    const els = document.querySelectorAll('.reveal');
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || !('IntersectionObserver' in window)) {
+      els.forEach((el) => el.classList.add('is-in'));
+    } else {
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); }
+        });
+      }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+      els.forEach((el) => io.observe(el));
+    }
+
+    /* サービスのボタンから来たら、ご相談の種類を選んだ状態にする */
+    const typeSel = document.getElementById('type') as HTMLSelectElement | null;
+    document.querySelectorAll<HTMLElement>('[data-type]').forEach((a) => {
+      a.addEventListener('click', () => { if (typeSel && a.dataset.type) typeSel.value = a.dataset.type; });
+    });
+
+    /* フォーム送信（/contact/ と同じGoogleフォーム。種類は本文の先頭に付けて送る） */
+    const form = document.getElementById('contact-form') as HTMLFormElement | null;
+    const thanks = document.getElementById('thanks');
+    const errBox = document.getElementById('form-error');
+    const submitBtn = document.getElementById('submit-btn') as HTMLButtonElement | null;
+
+    if (form && thanks && errBox && submitBtn) {
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        errBox.textContent = '';
+        const get = (id: string) =>
+          (document.getElementById(id) as HTMLInputElement | HTMLTextAreaElement).value.trim();
+        const company = get('company');
+        const name = get('name');
+        const email = get('email');
+        const message = get('message');
+        const type = typeSel ? typeSel.value : '';
+
+        if (!company || !name || !email || !message) {
+          errBox.textContent = 'すべての項目をご入力ください。';
+          return;
+        }
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+          errBox.textContent = 'メールアドレスの形式をご確認ください。';
+          return;
+        }
+
+        submitBtn.disabled = true;
+        submitBtn.textContent = '送信中...';
+
+        const data = new FormData();
+        data.append(form.dataset.company!, company);
+        data.append(form.dataset.name!, name);
+        data.append(form.dataset.email!, email);
+        data.append(form.dataset.message!, `【ご相談の種類】${type}\n\n${message}\n\nお問い合わせ元：コーポレート 採用ご担当者さまページ`);
+
+        try {
+          // GoogleフォームはCORSを返さないため no-cors で送信（結果は読めないが送信は成立）
+          await fetch(form.dataset.action!, { method: 'POST', mode: 'no-cors', body: data });
+          form.hidden = true;
+          thanks.hidden = false;
+        } catch (err) {
+          submitBtn.disabled = false;
+          submitBtn.textContent = '送信する';
+          errBox.textContent = '送信に失敗しました。お手数ですが、時間をおいて再度お試しください。';
+        }
+      });
+    }
+  </script>
+
+  <style>
+    .b-hero { padding-block: clamp(64px, 10vw, 120px) clamp(32px, 5vw, 56px); }
+    .b-hero-title { font-size: clamp(2rem, 5vw, 3rem); margin-top: 1rem; letter-spacing: 0.04em; }
+    .b-hero-lead { color: var(--slate); margin-top: 1.6rem; line-height: 2; max-width: 40em; }
+    .b-hero-index { display: flex; flex-wrap: wrap; gap: 0.6rem 1.4rem; margin-top: 2rem; font-size: 0.88rem; }
+    .b-hero-index a { color: var(--teal); text-decoration: underline; text-underline-offset: 4px; }
+
+    .b-head h2 { font-size: clamp(1.5rem, 3.4vw, 2.1rem); margin-top: 0.8rem; letter-spacing: 0.04em; }
+    .b-desc { color: var(--slate); margin-top: 1rem; line-height: 1.9; }
+
+    /* サービス */
+    .b-svc-list { list-style: none; margin: clamp(28px, 4vw, 44px) 0 0; padding: 0; display: grid; gap: 18px; }
+    .b-svc {
+      display: grid; grid-template-columns: auto 1fr; gap: clamp(16px, 3vw, 36px);
+      background: var(--paper); border: 1px solid var(--hairline); border-radius: 3px;
+      padding: clamp(22px, 3.4vw, 40px);
+    }
+    .b-svc-no { font-family: var(--font-display); font-size: clamp(1.6rem, 3vw, 2.2rem); color: var(--teal); line-height: 1; }
+    .b-svc-title { font-size: clamp(1.25rem, 2.6vw, 1.6rem); letter-spacing: 0.04em; }
+    .b-svc-sub { display: inline-block; margin-left: 0.8em; font-size: 0.8rem; color: var(--slate); font-family: var(--font-sans); font-weight: 500; letter-spacing: 0.04em; }
+    .b-svc-lead { margin-top: 0.9rem; font-weight: 700; line-height: 1.8; }
+    .b-svc-text { margin-top: 0.6rem; color: var(--slate); line-height: 1.9; font-size: 0.94rem; }
+    .b-svc-price { margin-top: 0.9rem; font-size: 0.9rem; color: var(--teal); font-weight: 700; }
+    .b-svc-items { list-style: none; margin: 1.2rem 0 0; padding: 0; display: grid; gap: 8px; }
+    .b-svc-items li.is-child { padding-left: 1.6em; position: relative; }
+    .b-svc-items li.is-child::before { content: "└"; position: absolute; left: 0.3em; top: 0.85em; color: var(--slate-mute); }
+    .b-svc-items a {
+      display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 1rem;
+      padding: 0.8rem 1rem; border: 1px solid var(--hairline); border-radius: 2px; background: var(--paper-deep);
+      transition: border-color .2s ease;
+    }
+    .b-svc-items a:hover { border-color: var(--teal); }
+    .b-item-label { font-weight: 700; color: var(--ink); }
+    .b-item-note { font-size: 0.82rem; color: var(--slate); }
+    .b-svc-cta { margin-top: 1.4rem; }
+    @media (max-width: 560px) { .b-svc { grid-template-columns: 1fr; } }
+
+    /* 選び方 */
+    .b-chooser { background: var(--paper-deep); }
+    .b-table { margin-top: clamp(24px, 4vw, 40px); border-top: 1px solid var(--hairline); }
+    .b-row {
+      display: grid; grid-template-columns: 1fr auto; gap: 1rem; align-items: center;
+      padding: 1.1rem 0.2rem; border-bottom: 1px solid var(--hairline);
+    }
+    .b-row dt { line-height: 1.7; }
+    .b-row dd { margin: 0; }
+    .b-row dd a { color: var(--teal); font-weight: 700; white-space: nowrap; }
+    @media (max-width: 560px) { .b-row { grid-template-columns: 1fr; gap: 0.3rem; } }
+
+    /* 記事 */
+    .b-arts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: clamp(24px, 4vw, 40px); }
+    @media (max-width: 860px) { .b-arts { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 560px) { .b-arts { grid-template-columns: 1fr; } }
+    .b-art {
+      display: block; padding: 1.1rem 1.2rem; background: var(--paper); border: 1px solid var(--hairline); border-radius: 2px;
+      transition: border-color .2s ease;
+    }
+    .b-art:hover { border-color: var(--teal); }
+    .b-art-cat { display: block; font-size: 0.72rem; letter-spacing: 0.08em; color: var(--teal); font-weight: 700; }
+    .b-art-title { display: block; margin-top: 0.4rem; font-weight: 700; line-height: 1.6; font-size: 0.94rem; }
+    .b-art-hubs { display: flex; flex-wrap: wrap; gap: 0.6rem 1.6rem; margin-top: 1.6rem; font-size: 0.9rem; }
+    .b-art-hubs a { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
+
+    /* お問い合わせ（/contact/ と同じ見た目） */
+    .b-contact { background: var(--paper-deep); }
+    .b-contact-grid { display: grid; gap: clamp(32px, 5vw, 64px); align-items: start; }
+    @media (min-width: 880px) { .b-contact-grid { grid-template-columns: 0.85fr 1.15fr; } }
+    .b-alt { margin-top: 1.4rem; font-size: 0.88rem; color: var(--slate); padding-top: 1.2rem; border-top: 1px solid var(--hairline); }
+    .b-alt a { color: var(--teal); text-decoration: underline; text-underline-offset: 3px; }
+    .b-form-wrap { background: var(--paper); border: 1px solid var(--hairline); padding: clamp(24px, 4vw, 48px); border-radius: 3px; }
+    .field { margin-bottom: 1.5rem; }
+    .field label { display: block; font-size: 0.86rem; font-weight: 700; letter-spacing: 0.04em; margin-bottom: 0.6rem; color: var(--ink); }
+    .req {
+      font-size: 0.66rem; font-weight: 600; color: var(--teal); border: 1px solid var(--teal); border-radius: 999px;
+      padding: 0.1em 0.7em; margin-left: 0.4em; letter-spacing: 0.08em; vertical-align: 1px;
+    }
+    .field input, .field textarea, .field select {
+      width: 100%; font-family: var(--font-sans); font-size: 1rem; color: var(--ink); background: var(--paper);
+      border: 1px solid var(--hairline); border-radius: 2px; padding: 0.85em 1em;
+      transition: border-color .2s ease, box-shadow .2s ease;
+    }
+    .field textarea { resize: vertical; line-height: 1.8; }
+    .field input:focus, .field textarea:focus, .field select:focus {
+      outline: none; border-color: var(--teal); box-shadow: 0 0 0 3px color-mix(in srgb, var(--teal) 14%, transparent);
+    }
+    .form-error { color: #B23B3B; font-size: 0.86rem; min-height: 1.2em; margin-bottom: 0.6rem; }
+    .submit-btn { width: 100%; justify-content: center; font-size: 0.98rem; padding-block: 1.05em; }
+    .submit-btn:disabled { opacity: .6; cursor: default; }
+    .privacy-note { margin-top: 1.2rem; font-size: 0.74rem; color: var(--slate-mute); text-align: center; }
+    .thanks { text-align: center; padding-block: clamp(20px, 4vw, 48px); }
+    .thanks-mark { width: 48px; height: 48px; border-radius: 50%; border: 2px solid var(--teal); display: inline-block; position: relative; }
+    .thanks-mark::after {
+      content: ""; position: absolute; left: 16px; top: 9px; width: 12px; height: 22px;
+      border-right: 2px solid var(--teal); border-bottom: 2px solid var(--teal); transform: rotate(40deg);
+    }
+    .thanks h3 { font-size: clamp(1.4rem, 3vw, 1.8rem); margin-top: 1.4rem; }
+    .thanks p { color: var(--slate); margin-top: 1rem; line-height: 2; }
+
+    /* ---------- FOOTER（contactと同一） ---------- */
+    .site-footer { background: var(--ink); color: var(--paper); padding-top: clamp(48px, 7vw, 80px); border-top: 1px solid var(--hairline-on-dark); }
+    .footer-inner { display: grid; gap: clamp(28px, 5vw, 48px); padding-bottom: clamp(40px, 6vw, 64px); }
+    @media (min-width: 720px) { .footer-inner { grid-template-columns: 1fr 1fr; align-items: end; } }
+    .footer-brand { display: flex; flex-direction: column; gap: 0.4rem; }
+    .footer-logo { display: block; align-self: flex-start; height: 40px; width: auto; max-width: 100%; margin-bottom: 0.2rem; }
+    .footer-tag { color: #AEB6C2; font-size: 0.84rem; }
+    .footer-meta { color: #AEB6C2; font-size: 0.82rem; line-height: 1.9; }
+    @media (min-width: 720px) { .footer-meta { text-align: right; } }
+    .footer-base { border-top: 1px solid var(--hairline-on-dark); padding-block: 1.6rem; }
+    .footer-base small { color: var(--slate-mute); letter-spacing: 0.06em; }
+  </style>
+</Layout>

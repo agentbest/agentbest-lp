@@ -31,6 +31,7 @@ const specialSites = {
     { label: 'FDE（フォワードデプロイドエンジニア）', href: 'https://fde.agent-best.net/' },
   ],
   '採用ご担当者の方へ': [
+    { label: '人材紹介（求人のご依頼）・サービス一覧', href: '/business/', internal: true },
     { label: 'スカウト代行', href: 'https://scout.agent-best.net/' },
     { label: 'OfferBox運用代行', href: 'https://scoutdaikou-offerbox.agent-best.net/', child: true },
     { label: 'Green運用代行', href: 'https://green.agent-best.net/', child: true },
@@ -77,7 +78,7 @@ const specialSites = {
         <p class="fs-group-title">{group}</p>
         <ul>
           {items.map((it) => (
-            <li class:list={[{ 'fs-child': it.child }]}><a href={it.href} target="_blank" rel="noopener">{it.label}</a></li>
+            <li class:list={[{ 'fs-child': it.child }]}><a href={it.href} {...(it.internal ? {} : { target: '_blank', rel: 'noopener' })}>{it.label}</a></li>
           ))}
         </ul>
       </div>
