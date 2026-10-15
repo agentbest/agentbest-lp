@@ -1,0 +1,75 @@
+---
+/* 記事の転職ボックスに出す「募集中の求人」カード（2026-10-15）。
+   求人は毎朝入れ替わるので記事には焼き込まず、求人サイトが毎朝作る
+   https://jobs.agent-best.net/data/media-jobs/<記事slug>.json を閲覧時に読む（作っているのは jobsite の media-jobs.js）。
+     { k: 'co'|'hub'|'group', l: 見出しの名前, j: [[求人ID, 企業名, 職種名, 年収, 勤務地, ロゴ], ...] }
+   ファイルが無い・読めないときは何も出さない（ボックスの文字リンクだけが残る＝従来どおり）。
+   クリックは Layout.astro の jobs_click（placement=media-article-jobs）で数える。 */
+import { JOBS_URL } from '../lib/jobsLink';
+
+interface Props {
+  slug: string;
+  /** k='co' のときの見出し（企業名） */
+  companyName?: string;
+  /** k='hub' のときの見出し（ハブ名） */
+  hubName: string;
+}
+const { slug, companyName = '', hubName } = Astro.props;
+---
+
+<div class="article-jobs" data-article-jobs hidden
+  data-src={`${JOBS_URL}data/media-jobs/${slug}.json`}
+  data-slug={slug} data-company={companyName} data-hub={hubName} data-base={JOBS_URL}>
+  <p class="article-jobs-title"></p>
+  <ul class="article-jobs-list"></ul>
+  <p class="article-jobs-note">応募は無料です。当社のエージェントが企業へ推薦する形で選考が進みます。</p>
+</div>
+
+<script is:inline>
+  (function () {
+    var box = document.querySelector('[data-article-jobs]');
+    if (!box || !window.fetch) return;
+    var d = box.dataset;
+    var esc = function (s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+      });
+    };
+    fetch(d.src).then(function (r) { return r.ok ? r.json() : null; }).then(function (data) {
+      if (!data || !data.j || !data.j.length) return;
+      var name = data.k === 'co' ? (d.company || data.l) : data.k === 'hub' ? d.hub : data.l;
+      box.querySelector('.article-jobs-title').textContent = name + 'の募集中の求人';
+      var utm = '?utm_source=corporate&utm_medium=article-jobs&utm_campaign=' + encodeURIComponent(d.slug);
+      box.querySelector('.article-jobs-list').innerHTML = data.j.map(function (j) {
+        var logo = j[5]
+          ? '<img class="aj-logo" src="' + esc(d.base + j[5]) + '" alt="" width="36" height="36" loading="lazy" onerror="this.remove()">'
+          : '';
+        return '<li><a href="' + esc(d.base + 'job/' + encodeURIComponent(j[0]) + '/' + utm) + '" target="_blank" rel="noopener" data-jobs-cta="media-article-jobs">'
+          + logo
+          + '<span class="aj-body"><span class="aj-co">' + esc(j[1]) + '</span>'
+          + '<span class="aj-name">' + esc(j[2]) + '</span>'
+          + '<span class="aj-meta"><b>' + esc(j[3]) + '</b>' + (j[4] ? '・' + esc(j[4]) : '') + '</span></span></a></li>';
+      }).join('');
+      box.hidden = false;
+    }).catch(function () {});
+  })();
+</script>
+
+<style>
+  .article-jobs { margin: 14px 0 16px; }
+  .article-jobs-title { font-weight: 700; font-size: .95rem; margin: 0 0 8px; color: #0b2a4a; }
+  .article-jobs-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .article-jobs-list :global(a) {
+    display: flex; gap: 12px; align-items: flex-start; padding: 12px 14px;
+    background: #fff; border: 1px solid #d8dee6; border-radius: 8px;
+    color: inherit; text-decoration: none; transition: border-color .15s, box-shadow .15s;
+  }
+  .article-jobs-list :global(a:hover) { border-color: #0b2a4a; box-shadow: 0 2px 8px rgba(11, 42, 74, .08); }
+  .article-jobs-list :global(.aj-logo) { flex: none; width: 36px; height: 36px; object-fit: contain; border-radius: 6px; background: #fff; border: 1px solid #eef1f5; }
+  .article-jobs-list :global(.aj-body) { display: grid; gap: 2px; min-width: 0; }
+  .article-jobs-list :global(.aj-co) { font-size: .78rem; color: #5b6573; }
+  .article-jobs-list :global(.aj-name) { font-weight: 700; font-size: .95rem; line-height: 1.5; color: #0b2a4a; overflow-wrap: anywhere; }
+  .article-jobs-list :global(.aj-meta) { font-size: .82rem; color: #3d4652; }
+  .article-jobs-list :global(.aj-meta b) { color: #c2410c; font-weight: 700; }
+  .article-jobs-note { font-size: .78rem; color: #5b6573; margin: 8px 0 0; }
+</style>

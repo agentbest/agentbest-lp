@@ -47,7 +47,10 @@ export const GET: APIRoute = async () => {
     })
     .sort((a, b) => String(a[1]).localeCompare(String(b[1]), 'ja'));
 
-  return new Response(JSON.stringify({ c: cats, h: hubs, g: tags, i: items }), {
+  // s: ハブのslug（h と同じ並び）。求人サイト（jobsite の fetch-media-companies.js）が
+  // 記事ごとのおすすめ求人を選ぶのに使う。検索ページ自体は使わない
+  const hubSlug = new Map(posts.map((p) => [hubLabel(p.data.hub ?? ''), p.data.hub ?? '']));
+  return new Response(JSON.stringify({ c: cats, h: hubs, s: hubs.map((h) => hubSlug.get(h) ?? ''), g: tags, i: items }), {
     headers: {
       'Content-Type': 'application/json; charset=utf-8',
       'Cache-Control': 'public, max-age=3600',

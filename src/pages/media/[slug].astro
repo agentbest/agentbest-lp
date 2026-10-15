@@ -5,6 +5,7 @@ import Layout from '../../layouts/Layout.astro';
 import AuthorBlock from '../../components/AuthorBlock.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
 import LineCta from '../../components/LineCta.astro';
+import ArticleJobs from '../../components/ArticleJobs.astro';
 import Header from '../../components/Header.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
 import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
@@ -156,6 +157,7 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
           ? `${post.data.companyName}を含む同じ領域の企業は、時期によって募集職種や求める経験が大きく変わります。公開求人だけで判断せず、いま採用が動いている企業と選考の通り方を確認してから動くのが近道です。`
           : `${hubName}の転職は、同じ職種名でも企業ごとに求める経験や年収の幅が大きく違います。求人の実例と、転職事例を見比べてから応募先を絞るのが近道です。`}
       </p>
+      <ArticleJobs slug={post.slug} companyName={post.data.companyName} hubName={hubName} />
       <ul class="tenshoku-box-links">
         <li><a href={tenshokuJobsHref} target="_blank" rel="noopener" data-jobs-cta="media-article-box">{tenshokuJobsLabel} <span aria-hidden="true">→</span></a></li>
         <li><a href="/cases/">「どこから、どこへ」転職事例集を見る <span aria-hidden="true">→</span></a></li>
