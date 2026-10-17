@@ -1,6 +1,11 @@
 {
   "trailingSlash": true,
   "redirects": [
+    { "source": "/media/", "has": [{ "type": "host", "value": "www.agent-best.net" }], "destination": "https://jobs.agent-best.net/media/", "permanent": true },
+    { "source": "/media/:path+/", "has": [{ "type": "host", "value": "www.agent-best.net" }], "destination": "https://jobs.agent-best.net/media/:path+/", "permanent": true },
+    { "source": "/cases/", "has": [{ "type": "host", "value": "www.agent-best.net" }], "destination": "https://jobs.agent-best.net/cases/", "permanent": true },
+    { "source": "/cases/:path+/", "has": [{ "type": "host", "value": "www.agent-best.net" }], "destination": "https://jobs.agent-best.net/cases/:path+/", "permanent": true },
+
     { "source": "/NEWS/", "destination": "/media/", "permanent": true },
     { "source": "/NEWS/:path+/", "destination": "/media/", "permanent": true },
     { "source": "/news/", "destination": "/media/", "permanent": true },

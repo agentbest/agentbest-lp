@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import mediaOnJobs from './integrations/media-on-jobs.mjs';
 
 // 記事の更新日を frontmatter から拾って sitemap の <lastmod> に入れる。
 //
@@ -146,5 +147,7 @@ export default defineConfig({
         return item;
       },
     }),
+    // /media・/cases は jobs.agent-best.net で公開する（2026-10-17）。⚠ sitemap() より後ろに置く。詳細はファイル冒頭
+    mediaOnJobs({ enabled: true }),
   ],
 });

@@ -8,7 +8,7 @@ import { jobsUrl, skillUrl, SHINSOTSU_URL } from '../lib/jobsLink';
    1本も繋がっていなかった。相談フォームより手前に踏める入口なので、
    特設サイトの一覧より先に出す。 */
 const jobSites = [
-  { label: 'ハイクラスの求人', note: '中途・年収600万円以上', href: jobsUrl({ medium: 'footer' }) },
+  { label: '中途・ハイクラスの求人', note: '中途の全求人・ハイクラス含む', href: jobsUrl({ medium: 'footer' }) },
   { label: '手に職をつける求人', note: '中途・未経験歓迎／資格取得支援', href: skillUrl({ medium: 'footer' }) },
   { label: '新卒・インターンの求人', note: '就活・長期インターン', href: `${SHINSOTSU_URL}?utm_source=corporate&utm_medium=footer` },
 ];
