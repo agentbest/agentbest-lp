@@ -28,6 +28,14 @@
 
 **ヘッダーの注意**: ナビ7項目でちょうど1120pxに収まる設計。**項目を足すと崩れる**。1240px以下はハンバーガー。
 
+## ⚠ /media・/cases の公開先は jobs.agent-best.net（2026-10-17〜）
+
+松岡さん「media と cases は jobs に寄せたい」。**ソースはこのリポジトリのまま**で、公開URLだけ jobs.agent-best.net/media/・/cases/ に移した。
+- jobs.agent-best.net の入口は Vercel プロジェクト **agentbest/jobs-front**（Private）。/media/・/cases/・/_astro/・/images/・/ogp/・/video/ とロゴ類を **agentbest-lp.vercel.app** から出す（それ以外は jobsite の GitHub Pages）。⚠ このプロジェクトの `agentbest-lp.vercel.app` を消したり保護（Vercel Authentication）を掛けたりすると jobs の記事が全部落ちる。
+- `vercel.json` の先頭4本：host が www のときだけ /media/・/cases/ を jobs へ301（jobs-front 経由のアクセスは host が agentbest-lp.vercel.app なので掛からない）。
+- `integrations/media-on-jobs.mjs`（ビルド後処理・`sitemap()` より後ろに置く）：/media・/cases の canonical・og:url・JSON-LD を jobs に、そこからのコーポレートへのリンクを www の絶対URLに、コーポレート側から記事へのリンクを jobs の絶対URLに書き換え、sitemap-0.xml から記事・事例を抜いて `dist/media/sitemap.xml`（＝jobs.agent-best.net/media/sitemap.xml、jobsite の robots.txt に記載）へ移す。`mediaOnJobs({ enabled: false })` で www 公開に戻る（同時に vercel.json の4本も外す）。
+- Search Console：jobs のプロパティに `https://jobs.agent-best.net/media/sitemap.xml` を提出する。
+
 ## メディア（/media）
 
 ### カテゴリ定義は `src/lib/mediaTaxonomy.ts` に一本化（最重要）
