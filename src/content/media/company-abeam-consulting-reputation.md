@@ -13,7 +13,7 @@ related: ["job-it-consultant-tenshoku-nanido", "industry-senryaku-consul-tenshok
 reviewedAt: 2026-08-02
 sources:
   - name: "会社情報"
-    url: "ABeam Consulting（公式） | https://www.abeam.com/jp/ja/about/"
+    url: "https://www.abeam.com/jp/ja/about/"
   - name: "アビームコンサルティング(株) 会社概要（従業員数8,816名／2025年4月1日現在 連結）"
     url: "https://job.mynavi.jp/27/pc/search/corp65778/outline.html"
   - name: "NEC グループ会社情報：アビームコンサルティング"
