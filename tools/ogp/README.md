@@ -29,5 +29,7 @@ done
 | `company.png` | `src/pages/company.astro` |
 | `consultation.png` | `src/pages/consultation.astro` |
 
+ロゴは `public/logo-white.png`（新ロゴ・2026-10-25差し替え）をHTMLから相対パスで読む。
+
 `Layout.astro` に `image="/ogp/xxx.png"` を渡すと `og:image` と `twitter:card=summary_large_image` が出る。
 **渡さないページには og:image が出ない**（＝シェアしても白いカードになる）。
