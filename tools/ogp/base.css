@@ -17,10 +17,10 @@ body {
 }
 /* 左端のティールの縦線＝サイトの spine と同じ意匠。
    ⚠ body::before だと flex コンテナの中で潰れて出なかったので border で引く。 */
-.brand { display: flex; align-items: center; gap: 12px; margin-bottom: 40px; }
-.mark { width: 16px; height: 16px; border: 2px solid #B7D9CF; position: relative; }
-.mark::after { content: ""; position: absolute; inset: 4px; background: #B7D9CF; }
-.brand-name { font-weight: 700; letter-spacing: 0.22em; font-size: 20px; }
+.brand { display: flex; align-items: center; margin-bottom: 40px; }
+/* 新ロゴ（public/logo-white.png・原本 C:\Users\user\ロゴ素材\dist\）。
+   2026-10-25 まではCSSで描いた四角マーク＋「AGENT BEST」の文字組み（旧ロゴ）だった。 */
+.brand img { height: 50px; display: block; }
 .eyebrow {
   font-size: 17px; letter-spacing: 0.2em; color: #B7D9CF; font-weight: 700;
   margin-bottom: 26px;
