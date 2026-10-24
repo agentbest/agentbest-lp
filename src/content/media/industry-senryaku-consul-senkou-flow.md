@@ -117,7 +117,7 @@ sources:
 - [マッキンゼー・アンド・カンパニーの評判](/media/company-mckinsey-reputation/)
 - [ボストン コンサルティング グループの評判](/media/company-boston-consulting-group-reputation/)
 - [ベイン・アンド・カンパニーの評判](/media/company-bain-and-company-reputation/)
-- [A.T. カーニーの評判](/media/company-at-kearney-reputation/)
+- [A.T. カーニーの評判](/media/company-a-t-kearney-reputation/)
 - [ローランド・ベルガーの評判](/media/company-roland-berger-reputation/)
 - [アーサー・ディ・リトルの評判](/media/company-arthur-d-little-reputation/)
 - [ドリームインキュベータの評判](/media/company-dream-incubator-reputation/)

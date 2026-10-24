@@ -79,8 +79,13 @@ export function jobsGroupOf(hub: string): { slug: string; label: string } | null
   return g ? { slug: g[0], label: g[1] } : null;
 }
 
+/* skill.agent-best.net に職種一覧ページが無い大分類（2026-10-17 の jobs/skill 分割以降、jobs 側だけにある）。
+   skill でこの slug を組むと 404 になるので、skill のトップ（全件一覧）に飛ばす（2026-10-25 リンク点検） */
+const SKILL_MISSING_GROUPS = new Set(['design', 'executive']);
+
 /** 求人サイトの職種一覧ページへのURL（utm付き） */
 export function jobsGroupUrl(slug: string, { medium, campaign, base = JOBS_URL }: { medium: string; campaign?: string; base?: string }): string {
+  if (base === SKILL_URL && SKILL_MISSING_GROUPS.has(slug)) return jobsUrl({ medium, campaign, base });
   const p = new URLSearchParams();
   p.set('utm_source', 'corporate');
   p.set('utm_medium', medium);
