@@ -1,6 +1,6 @@
 ---
-title: "Natureの評判｜年収・働き方・選考対策まで解説"
-description: "Natureを公式情報から整理。Nature Remo累計80万台、シリーズD12.2億円、エネルギー事業への転換を解説します。"
+title: "Natureの評判｜年収非開示・56名の体制・Remo累計80万台とエネルギー事業への転換"
+description: "Nature（Nature Remo）の年収は非上場のため非開示。従業員56名（業務委託・インターン含む）という開示の読み方、スマートリモコン累計80万台超、東京ガス・ダイキン等が出資したシリーズD約12.2億円、EV充電やスマートロックへの広がりを公式情報から整理。"
 category: "企業"
 companyName: "Nature"
 hub: "startup"
