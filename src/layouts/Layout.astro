@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import ChatConsult from '../components/ChatConsult.astro';
 export interface Props {
   title?: string;
   description?: string;
@@ -7,13 +8,19 @@ export interface Props {
   noindex?: boolean;
   /** SNSでシェアされたときのカード画像。記事はアイキャッチ（1200x630）をそのまま渡す */
   image?: string;
+  /** false で右下のチャット相談を出さない */
+  chat?: boolean;
 }
 const {
   title = '株式会社エージェントベスト｜20代・30代ハイクラスのための転職エージェント',
   description = 'IT・スタートアップ・M&A・コンサル領域に特化。20代・30代でキャリアを積み始めたハイクラス層へ、領域を絞った確かな転職提案を。10年先から逆算する、戦略的な一社をご提案します。',
   noindex = false,
   image,
+  chat = true,
 } = Astro.props;
+
+// 右下のチャット相談：相談フォームのページと、採用企業向けのページには出さない
+const showChat = chat && !/^\/(consultation|business|contact)(\/|$)/.test(Astro.url.pathname);
 
 // canonical URL。sitemap-0.xml の出力（末尾スラッシュあり）と表記を揃える
 const canonicalPath = Astro.url.pathname.endsWith('/')
@@ -76,6 +83,7 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
   </head>
   <body>
     <slot />
+    {showChat && <ChatConsult />}
     <!-- LINE友だち追加のクリックをGA4に送る。LINE側では流入元が分からないので、
          どのページのボタンから登録されたかはこのイベントでしか追えない。 -->
     <script is:inline>
