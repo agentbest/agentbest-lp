@@ -65,6 +65,14 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
       gtag('js', new Date());
       gtag('config', 'G-1XXMP8Y1B4');
     </script>
+    <script is:inline>
+      /* 流入元の記録：最初に来たときの参照元（他サイト）か utm_source をタブ単位で覚え、問い合わせフォームの本文に付ける */
+      (function(){try{if(sessionStorage.getItem('ab_ref'))return;
+        var q='';try{q=new URLSearchParams(location.search).get('utm_source')||'';}catch(e){}
+        var r=document.referrer,h='';try{h=r?new URL(r).hostname:'';}catch(e){}
+        var v=q?('utm_source='+q+(h&&h!==location.hostname?'（'+h+'）':'')):(h&&h!==location.hostname?h:(r?'':'参照元なし'));
+        if(v)sessionStorage.setItem('ab_ref',v+' → '+location.pathname);}catch(e){}})();
+    </script>
   </head>
   <body>
     <slot />

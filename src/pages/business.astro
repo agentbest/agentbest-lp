@@ -243,6 +243,20 @@ const description =
               <input type="email" id="email" name="email" required autocomplete="email" />
             </div>
             <div class="field">
+              <label for="howfound">当社を知ったきっかけ <span class="opt">任意</span></label>
+              <select id="howfound" name="howfound">
+                <option value="">選択してください</option>
+                <option>検索（Google・Yahoo!など）</option>
+                <option>生成AI（ChatGPT・Gemini・Claudeなど）</option>
+                <option>記事・コラムを読んで</option>
+                <option>SNS（X・note・LinkedInなど）</option>
+                <option>ご紹介・口コミ</option>
+                <option>採用媒体・パートナー企業から</option>
+                <option>以前から知っていた・取引がある</option>
+                <option>その他</option>
+              </select>
+            </div>
+            <div class="field">
               <label for="message">お問い合わせ内容 <span class="req">必須</span></label>
               <textarea id="message" name="message" rows="6" required placeholder="採用したい職種・人数・時期など、わかる範囲でご記入ください。"></textarea>
             </div>
@@ -338,11 +352,18 @@ const description =
         submitBtn.disabled = true;
         submitBtn.textContent = '送信中...';
 
+
+        // 知ったきっかけ（任意）と流入元（Layout.astro が最初の来訪時に記録した参照元）
+        const howSel = document.getElementById('howfound') as HTMLSelectElement | null;
+        let ref = '';
+        try { ref = sessionStorage.getItem('ab_ref') || ''; } catch (e) {}
+        const trail = `\n\n知ったきっかけ：${howSel && howSel.value ? howSel.value : '未回答'}\n流入元：${ref || '不明'}`;
+
         const data = new FormData();
         data.append(form.dataset.company!, company);
         data.append(form.dataset.name!, name);
         data.append(form.dataset.email!, email);
-        data.append(form.dataset.message!, `【ご相談の種類】${type}\n\n${message}\n\nお問い合わせ元：コーポレート 採用ご担当者さまページ`);
+        data.append(form.dataset.message!, `【ご相談の種類】${type}\n\n${message}${trail}\n\nお問い合わせ元：コーポレート 採用ご担当者さまページ`);
 
         try {
           // GoogleフォームはCORSを返さないため no-cors で送信（結果は読めないが送信は成立）
@@ -430,6 +451,11 @@ const description =
     .b-form-wrap { background: var(--paper); border: 1px solid var(--hairline); padding: clamp(24px, 4vw, 48px); border-radius: 3px; }
     .field { margin-bottom: 1.5rem; }
     .field label { display: block; font-size: 0.86rem; font-weight: 700; letter-spacing: 0.04em; margin-bottom: 0.6rem; color: var(--ink); }
+    .opt {
+      font-size: .64rem; font-weight: 700; color: inherit; opacity: .6;
+      border: 1px solid currentColor; border-radius: 999px;
+      padding: .1em .7em; margin-left: .5em; letter-spacing: .08em; vertical-align: 1px;
+    }
     .req {
       font-size: 0.66rem; font-weight: 600; color: var(--teal); border: 1px solid var(--teal); border-radius: 999px;
       padding: 0.1em 0.7em; margin-left: 0.4em; letter-spacing: 0.08em; vertical-align: 1px;
