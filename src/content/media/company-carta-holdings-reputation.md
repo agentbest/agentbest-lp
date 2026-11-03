@@ -1,6 +1,6 @@
 ---
-title: "CARTA HOLDINGSの評判｜年収・働き方・選考対策まで解説"
-description: "CARTA HOLDINGSを有価証券報告書と公式リリースから整理。平均年収1,300万円と希望退職、上場廃止とドコモ子会社化を解説します。"
+title: "CARTA HOLDINGSの評判｜年収1,300万円の対象・希望退職・ドコモ子会社化"
+description: "CARTA HOLDINGSの年収1,300万円は持株会社117人の平均で、事業会社931人の水準ではない。2024年12月期の希望退職で連結168名減、営業利益64.4%増の回復、2025年12月の上場廃止と2026年1月のNTTドコモ子会社化、面接で確かめる配属先と制度変更を整理。"
 category: "企業"
 companyName: "CARTA HOLDINGS"
 hub: "startup"
