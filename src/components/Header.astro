@@ -6,12 +6,6 @@ const nav = [
   { label: '支援の流れ', href: '/#process' },
   { label: '会社情報', href: '/company/' },
 ];
-/* 求職者向けの特設LPはヘッダーから外し、フッター（FooterSites.astro）に集約した。 */
-const jobSites = [
-  { label: '中途・ハイクラスの求人', note: '中途の全求人・ハイクラス含む', href: 'https://jobs.agent-best.net/' },
-  { label: '手に職をつける求人', note: '中途・未経験歓迎／資格取得支援', href: 'https://skill.agent-best.net/' },
-  { label: '新卒・インターンの求人', note: '就活・長期インターン', href: 'https://shinsotsu.agent-best.net/' },
-];
 /* メディア（転職メディア・転職事例集）はヘッダーから外し、フッターだけに置く（2026-09-06 松岡さん指示）。 */
 /* OfferBox・Greenはスカウト代行の、Infraは求人広告代理店の個別メニューなので、親の下に子項目（child）として置く。 */
 /* 人材紹介はコーポレート内の /business/ に案内がある（2026-10-15〜。親の「採用ご担当者さまはこちら」も /business/ へ） */
@@ -30,19 +24,7 @@ const employerSites = [
       <img class="brand-logo" src="/logo.png" alt="エージェントベスト" width="508" height="120" />
     </a>
     <nav class="nav" aria-label="メインナビゲーション">
-      <div class="nav-dd">
-        <button type="button" class="nav-dd-trigger" aria-haspopup="true">求人を探す<span class="dd-caret" aria-hidden="true">▾</span></button>
-        <div class="nav-dd-menu nav-dd-menu-left">
-          <div class="dd-group">
-            {jobSites.map((it) => (
-              <a class="dd-link dd-link-2line" href={it.href} target="_blank" rel="noopener">
-                <span class="dd-link-label">{it.label}</span>
-                <span class="dd-link-note">{it.note}</span>
-              </a>
-            ))}
-          </div>
-        </div>
-      </div>
+      <a href="/#jobs">求人を探す</a>
       {nav.map((item) => <a href={item.href}>{item.label}</a>)}
     </nav>
     <div class="header-actions">
@@ -78,10 +60,7 @@ const employerSites = [
       <nav class="mnav" aria-label="モバイルメニュー">
         {nav.map((item) => <a class="mnav-link" href={item.href}>{item.label}</a>)}
       </nav>
-      <p class="mnav-heading">求人を探す</p>
-      {jobSites.map((it) => (
-        <a class="mgroup-link" href={it.href} target="_blank" rel="noopener">{it.label}</a>
-      ))}
+      <a class="mnav-link" href="/#jobs">求人を探す</a>
       <p class="mnav-heading">採用ご担当者の方へ</p>
       {employerSites.map((it) => (
         <a class="mgroup-link" href={it.href} {...(it.internal ? {} : { target: '_blank', rel: 'noopener' })}>{it.label}</a>
