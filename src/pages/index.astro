@@ -7,7 +7,6 @@ import { CASES } from '../lib/cases';
 // 事例集の件数は手打ちしない（/cases 側と必ず一致させる）
 const caseTotal = CASES.length;
 import { getArticleCount } from '../lib/mediaCount';
-import { jobsUrl, skillUrl, SHINSOTSU_URL } from '../lib/jobsLink';
 import { FAQS, faqSchema } from '../lib/faq';
 
 import FooterSites from '../components/FooterSites.astro';
@@ -274,63 +273,6 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
               <span class="domain-jp">{d.jp}</span>
             </li>
           ))}
-        </ul>
-      </div>
-    </section>
-
-    <!-- ============ JOBS 求人を探す ============
-         求人サイトへの導線はヘッダーのドロップダウンだけで、本文からは1本も
-         繋がっていなかった。「求人を見る」は相談フォームより手前に踏める
-         唯一の低摩擦の入口なので、専門領域のすぐ下に置いている。 -->
-    <section id="jobs" class="section jobs">
-      <div class="wrap">
-        <header class="sec-head sec-head--center reveal">
-          <span class="eyebrow">Jobs</span>
-          <h2>求人を探す</h2>
-          <p class="sec-desc">
-            相談の前に、まずどんな求人があるかだけ見ていただいても構いません。掲載しているのは、私たちが事業と組織を直接確かめた企業だけです。
-          </p>
-        </header>
-        <ul class="job-grid reveal">
-          <li class="job-card">
-            <span class="job-card-label">中途・全求人</span>
-            <h3 class="job-card-title">ハイクラスを含む中途の求人</h3>
-            <p class="job-card-body">
-              IT・スタートアップ・M&amp;A・コンサルの4領域から、職種・年収・働き方で絞り込めます。会員登録なしでそのまま閲覧できます。
-            </p>
-            <a
-              class="job-card-link"
-              href={jobsUrl({ medium: 'top-jobs' })}
-              target="_blank"
-              rel="noopener"
-            >求人を見る <span class="arrow" aria-hidden="true">→</span></a>
-          </li>
-          <li class="job-card">
-            <span class="job-card-label">中途・未経験歓迎／資格取得支援</span>
-            <h3 class="job-card-title">手に職をつける求人</h3>
-            <p class="job-card-body">
-              技術・資格・専門性が身につく仕事をまとめています。未経験から始められる求人や、研修・資格取得支援のある求人も探せます。
-            </p>
-            <a
-              class="job-card-link"
-              href={skillUrl({ medium: 'top-jobs' })}
-              target="_blank"
-              rel="noopener"
-            >手に職の求人を見る <span class="arrow" aria-hidden="true">→</span></a>
-          </li>
-          <li class="job-card">
-            <span class="job-card-label">就活・長期インターン</span>
-            <h3 class="job-card-title">新卒・インターンの求人</h3>
-            <p class="job-card-body">
-              学生の方はこちら。新卒採用と長期インターンの募集を、同じ4領域からまとめています。
-            </p>
-            <a
-              class="job-card-link"
-              href={`${SHINSOTSU_URL}?utm_source=corporate&utm_medium=top-jobs`}
-              target="_blank"
-              rel="noopener"
-            >新卒の求人を見る <span class="arrow" aria-hidden="true">→</span></a>
-          </li>
         </ul>
       </div>
     </section>
@@ -827,33 +769,6 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
       font-size: clamp(1.5rem, 3vw, 2rem); margin-top: 1.4rem; letter-spacing: 0.03em;
     }
     .domain-jp { display: block; margin-top: 0.7rem; color: var(--slate); font-size: 0.88rem; }
-
-    /* ---------- JOBS ---------- */
-    .job-grid {
-      list-style: none; margin: 0; padding: 0; display: grid; gap: clamp(16px, 2vw, 24px);
-      grid-template-columns: repeat(1, 1fr);
-    }
-    @media (min-width: 760px) { .job-grid { grid-template-columns: repeat(2, 1fr); } }
-    @media (min-width: 1040px) { .job-grid { grid-template-columns: repeat(3, 1fr); } }
-    .job-card {
-      display: flex; flex-direction: column;
-      border: 1px solid var(--hairline); background: #FFF;
-      padding: clamp(26px, 3vw, 38px) clamp(22px, 2.6vw, 34px);
-      transition: border-color .3s ease, transform .3s ease;
-    }
-    .job-card:hover { border-color: var(--teal); transform: translateY(-2px); }
-    .job-card-label {
-      font-size: 0.7rem; letter-spacing: 0.14em; color: var(--teal); font-weight: 700;
-    }
-    .job-card-title {
-      font-size: clamp(1.2rem, 2.4vw, 1.5rem); margin: 0.9rem 0 0; letter-spacing: 0.03em;
-    }
-    .job-card-body { color: var(--slate); font-size: 0.92rem; margin: 1rem 0 0; flex: 1; }
-    .job-card-link {
-      margin-top: 1.6rem; font-weight: 700; font-size: 0.9rem; color: var(--teal);
-      display: inline-flex; align-items: center; gap: 0.5em;
-    }
-    .job-card-link:hover { text-decoration: underline; text-underline-offset: 0.3em; }
 
     /* ---------- HIDDEN GEMS ---------- */
     .gems { background: var(--paper-deep); }
