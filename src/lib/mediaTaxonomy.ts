@@ -168,12 +168,12 @@ export const HUB_SITE: Record<string, { label: string; href: string }> = {
     href: 'https://fde.agent-best.net/',
   },
   // PMはPjM・PdMの両方から入れる。対外表記は「PM特化」に統一（PMOハブは対象外なので繋がない）
-  'project-manager': { label: 'PM特化の転職', href: 'https://pmtenshoku.com/' },
-  'product-manager': { label: 'PM特化の転職', href: 'https://pmtenshoku.com/' },
+  'project-manager': { label: 'PM特化の転職', href: 'https://lp.pmtenshoku.com/' },
+  'product-manager': { label: 'PM特化の転職', href: 'https://lp.pmtenshoku.com/' },
   'it-consultant': { label: 'エンジニア→コンサル転職', href: 'https://eng.agent-best.net/' },
-  'ma-advisor': { label: '未経験からM&A', href: 'https://matenshoku.com/' },
-  'ma-industry': { label: '未経験からM&A', href: 'https://matenshoku.com/' },
-  'consulting-industry': { label: '未経験からコンサル', href: 'https://consultenshoku.com/' },
+  'ma-advisor': { label: '未経験からM&A', href: 'https://lp.matenshoku.com/' },
+  'ma-industry': { label: '未経験からM&A', href: 'https://lp.matenshoku.com/' },
+  'consulting-industry': { label: '未経験からコンサル', href: 'https://lp.consultenshoku.com/' },
   'embedded-engineer': { label: 'IoT・組込みエンジニアの転職', href: 'https://kumikomitenshoku.com/' },
   'iot-industry': { label: 'IoT・組込みエンジニアの転職', href: 'https://kumikomitenshoku.com/' },
   'post-consultant': {
