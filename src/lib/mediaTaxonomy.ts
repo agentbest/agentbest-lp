@@ -168,19 +168,19 @@ export const HUB_SITE: Record<string, { label: string; href: string }> = {
     href: 'https://fde.agent-best.net/',
   },
   // PMはPjM・PdMの両方から入れる。対外表記は「PM特化」に統一（PMOハブは対象外なので繋がない）
-  'project-manager': { label: 'PM特化の転職', href: 'https://pm.agent-best.net/' },
-  'product-manager': { label: 'PM特化の転職', href: 'https://pm.agent-best.net/' },
+  'project-manager': { label: 'PM特化の転職', href: 'https://pmtenshoku.com/' },
+  'product-manager': { label: 'PM特化の転職', href: 'https://pmtenshoku.com/' },
   'it-consultant': { label: 'エンジニア→コンサル転職', href: 'https://eng.agent-best.net/' },
-  'ma-advisor': { label: '未経験からM&A', href: 'https://ma.agent-best.net/' },
-  'ma-industry': { label: '未経験からM&A', href: 'https://ma.agent-best.net/' },
-  'consulting-industry': { label: '未経験からコンサル', href: 'https://consul.agent-best.net/' },
-  'embedded-engineer': { label: 'IoT・組込みエンジニアの転職', href: 'https://embedded.agent-best.net/' },
-  'iot-industry': { label: 'IoT・組込みエンジニアの転職', href: 'https://embedded.agent-best.net/' },
+  'ma-advisor': { label: '未経験からM&A', href: 'https://matenshoku.com/' },
+  'ma-industry': { label: '未経験からM&A', href: 'https://matenshoku.com/' },
+  'consulting-industry': { label: '未経験からコンサル', href: 'https://consultenshoku.com/' },
+  'embedded-engineer': { label: 'IoT・組込みエンジニアの転職', href: 'https://kumikomitenshoku.com/' },
+  'iot-industry': { label: 'IoT・組込みエンジニアの転職', href: 'https://kumikomitenshoku.com/' },
   'post-consultant': {
     label: 'ファーム出身者の次のキャリア（50代）',
     href: 'https://consultingcareerchange50.agent-best.net/',
   },
-  // 未経験→エンジニア（engineer.agent-best.net）と学生キャリア支援（student.agent-best.net）は
+  // 未経験→エンジニア（engineertenshoku.com）と学生キャリア支援（student.agent-best.net）は
   // 対応する職種・業界ハブが無いため意図的に繋いでいない。近いハブに寄せると読み手がずれる。
 };
 
