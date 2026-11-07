@@ -1,17 +1,22 @@
 ---
-/* 特設サイト（LP）の一覧。以前はヘッダーのドロップダウンに置いていたが、
-   フッターに集約した。LPを増やしたらここだけ直せば全ページに反映される。 */
+// 求人サイトはページ下部の「求人を探す」に集約する。
 import LineCta from './LineCta.astro';
 import { jobsUrl, skillUrl, SHINSOTSU_URL } from '../lib/jobsLink';
 
-/* 求人サイトへの導線。ヘッダーのドロップダウンにしか無く、フッターからは
-   1本も繋がっていなかった。相談フォームより手前に踏める入口なので、
-   特設サイトの一覧より先に出す。 */
 const jobSites = [
   { label: '中途・ハイクラスの求人', note: '中途の全求人・ハイクラス含む', href: jobsUrl({ medium: 'footer' }) },
   { label: '手に職をつける求人', note: '中途・未経験歓迎／資格取得支援', href: skillUrl({ medium: 'footer' }) },
   { label: '新卒・インターンの求人', note: '就活・長期インターン', href: `${SHINSOTSU_URL}?utm_source=corporate&utm_medium=footer` },
   { label: 'フリーランス案件', note: 'エンジニア・コンサルの業務委託', href: 'https://freelanceanken.com/?utm_source=corporate&utm_medium=footer' },
+  { label: 'PM転職', note: 'PM・プロジェクトマネジメントの転職支援', href: 'https://lp.pmtenshoku.com/' },
+  { label: 'エンジニア→コンサル転職', note: 'エンジニア経験を活かすコンサル転職', href: 'https://eng.agent-best.net/' },
+  { label: 'M&A転職', note: '未経験からM&A業界への転職支援', href: 'https://lp.matenshoku.com/' },
+  { label: '未経験からコンサル', note: '未経験からコンサル業界への転職支援', href: 'https://lp.consultenshoku.com/' },
+  { label: '未経験からエンジニア', note: '未経験からエンジニアへの転職支援', href: 'https://engineertenshoku.com/' },
+  { label: 'IoT・組込みエンジニア', note: 'IoT・組込み分野のエンジニア転職', href: 'https://kumikomitenshoku.com/' },
+  { label: 'ファーム出身者の次のキャリア', note: 'コンサルティングファーム経験者の転職支援', href: 'https://consultingcareerchange50.agent-best.net/' },
+  { label: '学生キャリア支援', note: '学生のキャリア・就職支援', href: 'https://student.agent-best.net/' },
+  { label: 'FDE（フォワードデプロイドエンジニア）', note: 'FDEのキャリア・転職支援', href: 'https://fde.agent-best.net/' },
 ];
 
 /* メディアはヘッダーから外した（2026-09-06）。フッターだけの導線なので全ページ共通のここに置く。 */
@@ -20,18 +25,7 @@ const mediaSites = [
   { label: '転職事例集', note: '「どこから、どこへ」で整理したモデルケース', href: '/cases/' },
 ];
 
-const specialSites = {
-  '求職者の方へ': [
-    { label: 'PM特化 転職', href: 'https://lp.pmtenshoku.com/' },
-    { label: 'エンジニア→コンサル転職', href: 'https://eng.agent-best.net/' },
-    { label: '未経験からM&A', href: 'https://lp.matenshoku.com/' },
-    { label: '未経験からコンサル', href: 'https://lp.consultenshoku.com/' },
-    { label: '未経験からエンジニア', href: 'https://engineertenshoku.com/' },
-    { label: 'IoT・組込みエンジニア', href: 'https://kumikomitenshoku.com/' },
-    { label: 'ファーム出身者の次のキャリア', href: 'https://consultingcareerchange50.agent-best.net/' },
-    { label: '学生キャリア支援', href: 'https://student.agent-best.net/' },
-    { label: 'FDE（フォワードデプロイドエンジニア）', href: 'https://fde.agent-best.net/' },
-  ],
+const employerSites = {
   '採用ご担当者の方へ': [
     { label: '人材紹介（求人のご依頼）・サービス一覧', href: '/business/', internal: true },
     { label: 'スカウト代行', href: 'https://scout.agent-best.net/' },
@@ -44,7 +38,7 @@ const specialSites = {
 };
 ---
 
-<nav class="footer-jobs" aria-label="求人を探す">
+<nav id="jobs" class="footer-jobs" aria-label="求人を探す">
   <p class="footer-sites-title">求人を探す</p>
   <ul class="fj-list">
     {jobSites.map((it) => (
@@ -72,10 +66,10 @@ const specialSites = {
   </ul>
 </nav>
 
-<nav class="footer-sites" aria-label="特設サイト">
-  <p class="footer-sites-title">特設サイト</p>
+<nav class="footer-sites" aria-label="採用支援サービス">
+  <p class="footer-sites-title">採用支援サービス</p>
   <div class="footer-sites-cols">
-    {Object.entries(specialSites).map(([group, items]) => (
+    {Object.entries(employerSites).map(([group, items]) => (
       <div class="fs-group">
         <p class="fs-group-title">{group}</p>
         <ul>
@@ -97,6 +91,7 @@ const specialSites = {
 </div>
 
 <style>
+  #jobs { scroll-margin-top: 96px; }
   .footer-jobs { grid-column: 1 / -1; }
   .fj-list {
     list-style: none; margin: 0; padding: 0;
