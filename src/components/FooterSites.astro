@@ -2,6 +2,7 @@
 // 求人サイトはページ下部の「求人を探す」に集約する。
 import LineCta from './LineCta.astro';
 import { jobsUrl, skillUrl, SHINSOTSU_URL } from '../lib/jobsLink';
+const { showComparisons = false } = Astro.props;
 
 const jobSites = [
   { label: '中途・ハイクラスの求人', note: '中途の全求人・ハイクラス含む', href: jobsUrl({ medium: 'footer' }) },
@@ -22,6 +23,12 @@ const mediaSites = [
   { label: '転職メディア', note: '職種・業界・企業ごとの転職情報', href: '/media/' },
   { label: '転職事例集', note: '「どこから、どこへ」で整理したモデルケース', href: '/cases/' },
 ];
+const comparisonSites = [
+  { label: '転職エージェント比較', note: '自分に合う転職エージェントを探す', href: 'https://www.agent-hi-kaku.com/' },
+  { label: '採用代行・RPO比較「エラベル」', note: '採用課題に合うサービス・任せ方を比較する', href: 'https://eraberusaiyodaiko.com/' },
+];
+const resourceTitle = showComparisons ? 'サービス比較' : 'メディア';
+const resourceSites = showComparisons ? comparisonSites : mediaSites;
 
 const employerSites = {
   '採用ご担当者の方へ': [
@@ -50,12 +57,12 @@ const employerSites = {
   </ul>
 </nav>
 
-<nav class="footer-jobs" aria-label="メディア">
-  <p class="footer-sites-title">メディア</p>
+<nav class="footer-jobs" aria-label={resourceTitle}>
+  <p class="footer-sites-title">{resourceTitle}</p>
   <ul class="fj-list">
-    {mediaSites.map((it) => (
+    {resourceSites.map((it) => (
       <li>
-        <a href={it.href}>
+        <a href={it.href} {...(showComparisons ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>
           <span class="fj-label">{it.label}</span>
           <span class="fj-note">{it.note}</span>
         </a>
@@ -66,18 +73,15 @@ const employerSites = {
 
 <nav class="footer-sites" aria-label="採用支援サービス">
   <p class="footer-sites-title">採用支援サービス</p>
-  <div class="footer-sites-cols">
-    {Object.entries(employerSites).map(([group, items]) => (
-      <div class="fs-group">
-        <p class="fs-group-title">{group}</p>
-        <ul>
-          {items.map((it) => (
-            <li class:list={[{ 'fs-child': it.child }]}><a href={it.href} {...(it.internal ? {} : { target: '_blank', rel: 'noopener' })}>{it.label}</a></li>
-          ))}
-        </ul>
-      </div>
+  <ul class="fj-list">
+    {Object.values(employerSites).flat().map((it) => (
+      <li>
+        <a href={it.href} {...(it.internal ? {} : { target: '_blank', rel: 'noopener' })}>
+          <span class="fj-label">{it.label}</span>
+        </a>
+      </li>
     ))}
-  </div>
+  </ul>
 </nav>
 
 <div class="footer-line">
@@ -107,8 +111,6 @@ const employerSites = {
   .fj-note { display: block; font-size: 0.76rem; margin-top: 4px; opacity: 0.62; }
 
   .footer-sites { grid-column: 1 / -1; }
-  .fs-group li.fs-child { padding-left: 1.1em; }
-  .fs-child::before { content: '└'; margin-right: 0.4em; opacity: 0.45; }
   .footer-line { grid-column: 1 / -1; }
   .footer-sites-title {
     font-size: 0.84rem;
@@ -117,25 +119,4 @@ const employerSites = {
     margin: 0 0 0.9rem;
     color: var(--paper);
   }
-  .footer-sites-cols {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr));
-    gap: 1.4rem 2.4rem;
-    max-width: 760px;
-  }
-  .fs-group-title {
-    font-size: 0.62rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    color: var(--slate-mute);
-    margin: 0 0 0.5rem;
-  }
-  .fs-group ul { list-style: none; margin: 0; padding: 0; }
-  .fs-group li { padding: 0.24rem 0; }
-  .fs-group a {
-    font-size: 0.8rem;
-    color: color-mix(in srgb, var(--paper) 72%, transparent);
-    transition: color .2s ease;
-  }
-  .fs-group a:hover { color: var(--paper); }
 </style>

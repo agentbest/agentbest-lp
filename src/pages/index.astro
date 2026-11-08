@@ -2,17 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import ShareButtons from '../components/ShareButtons.astro';
-import { CASES } from '../lib/cases';
-
-// 事例集の件数は手打ちしない（/cases 側と必ず一致させる）
-const caseTotal = CASES.length;
-import { getArticleCount } from '../lib/mediaCount';
 import { FAQS, faqSchema } from '../lib/faq';
 
 import FooterSites from '../components/FooterSites.astro';
 
-// 記事本数は手打ちにしない（古い数字が残るため）。定義は src/lib/mediaCount.ts
-const article = await getArticleCount();
 const domains = [
   { en: 'IT', jp: 'パッケージベンダー・SIer・Web系事業会社' },
   { en: 'Startup', jp: 'AI・SaaS・HR Tech' },
@@ -373,9 +366,6 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
             </li>
           ))}
         </ul>
-        <a href="/cases/" class="case-more">
-          {caseTotal.toLocaleString()}件の転職事例集を見る <span class="arrow" aria-hidden="true">→</span>
-        </a>
       </div>
     </section>
 
@@ -446,20 +436,6 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
       </div>
     </section>
 
-    <!-- ============ MEDIA BANNER ============ -->
-    <section class="section media-banner spine">
-      <div class="wrap">
-        <a href="/media/" class="media-banner-card reveal">
-          <div class="media-banner-text">
-            <span class="eyebrow">Tenshoku Media</span>
-            <p class="media-banner-title">転職ノウハウを{article.label}記事以上公開中</p>
-            <p class="media-banner-desc">職種別の年収相場・キャリアパス・選考対策を、代表・松岡が監修。IT・スタートアップ・コンサル領域の情報を体系的にまとめています。</p>
-          </div>
-          <span class="media-banner-link">記事を見る <span class="arrow" aria-hidden="true">→</span></span>
-        </a>
-      </div>
-    </section>
-
     <!-- ============ 採用企業向け ============
          売上の源泉は企業側なのに、トップからの入口はヘッダーのサブリンクと
          フッター・CTAの1行だけだった（backlog の指摘）。求職者向けの本文を
@@ -520,8 +496,8 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
         株式会社エージェントベスト　許可番号 13-ユ-316964<br />
         東京都港区六本木4-8-7　嶋田ビル5階
       </p>
-      {/* 転職メディア・転職事例集の導線は FooterSites（全ページ共通）に移した */}
-      <FooterSites />
+      {/* 転職メディア・転職事例集への入口は求人サイトに集約する。 */}
+      <FooterSites showComparisons />
     </div>
     <div class="wrap footer-base">
       <small>© {new Date().getFullYear()} Agent Best Inc.</small>
@@ -932,20 +908,6 @@ const faqStructuredData = faqSchema('https://www.agent-best.net/');
     .cta-note { margin-top: 1.8rem; font-size: 0.74rem; color: var(--slate-mute); }
 
     /* ---------- FOOTER ---------- */
-    .media-banner { padding-block: 0 clamp(48px, 7vw, 80px); }
-    .media-banner-card {
-      display: flex; align-items: center; justify-content: space-between; gap: clamp(20px, 4vw, 48px);
-      padding: clamp(24px, 4vw, 40px); border: 1px solid var(--hairline);
-      transition: border-color .25s ease, background .25s ease;
-    }
-    .media-banner-card:hover { border-color: var(--teal); }
-    .media-banner-title { font-family: var(--font-display); font-weight: 700; font-size: clamp(1.05rem, 2vw, 1.3rem); color: var(--ink); margin: 0.5rem 0 0.4rem; }
-    .media-banner-desc { font-size: 0.88rem; color: var(--slate); margin: 0; max-width: 46em; }
-    .media-banner-link { white-space: nowrap; font-size: 0.88rem; font-weight: 500; color: var(--teal); }
-    @media (max-width: 640px) {
-      .media-banner-card { flex-direction: column; align-items: flex-start; }
-    }
-
     /* ---------- 採用企業向け ---------- */
     .biz-banner { padding-block: 0 clamp(48px, 7vw, 80px); }
     .biz-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
