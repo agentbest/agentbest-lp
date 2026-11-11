@@ -3,7 +3,7 @@
    求人は毎朝入れ替わるので記事には焼き込まず、求人サイトが毎朝作る
    https://jobs.agent-best.net/data/media-jobs/<記事slug>.json を閲覧時に読む（作っているのは jobsite の media-jobs.js）。
      { k: 'co'|'tag'|'hub'|'group', l: 見出しの名前, j: [[求人ID, 企業名, 職種名, 年収, 勤務地, ロゴ, サイト], ...] }
-   k='tag' は Airtable「記事タグ」で選んだ求人（l＝タグ名）。サイトが 's' の求人は skill.agent-best.net（手に職・年収600万円未満）にある。
+   k='tag' は Airtable「記事タグ」で選んだ求人（l＝タグ名）。サイトが 's' の求人は skill.agent-best.net（未経験・第二新卒のキャリアチェンジ）にある。
    ファイルが無い・読めないときは何も出さない（ボックスの文字リンクだけが残る＝従来どおり）。
    クリックは Layout.astro の jobs_click（placement=media-article-jobs）で数える。 */
 import { JOBS_URL } from '../lib/jobsLink';

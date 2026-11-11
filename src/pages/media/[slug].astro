@@ -70,11 +70,10 @@ const tenshokuJobsHref = jobsiteCo
   : jobsGroup
   ? jobsGroupUrl(jobsGroup.slug, { medium: 'article-box', campaign: post.slug })
   : jobsUrl({ medium: 'article-box', campaign: post.slug });
-// 手に職の求人サイト（skill）にも同じ職種一覧がある。年収600万円未満・未経験歓迎の求人はこちら
-const skillJobsHref = jobsGroup
-  ? jobsGroupUrl(jobsGroup.slug, { medium: 'article-box', campaign: post.slug, base: SKILL_URL })
-  : jobsUrl({ medium: 'article-box', campaign: post.slug, base: SKILL_URL });
-const skillJobsLabel = jobsGroup ? `未経験歓迎・手に職の${jobsGroup.label}求人を見る` : '未経験歓迎・手に職の求人を探す';
+// skill.agent-best.net は 2026-11-11 から「未経験・第二新卒のキャリアチェンジ」サイト（現場系・技術職の職種一覧は無い）。
+// 職種一覧は件数しだいで消えるので、リンク先はトップに固定する
+const skillJobsHref = jobsUrl({ medium: 'article-box', campaign: post.slug, base: SKILL_URL });
+const skillJobsLabel = '未経験・第二新卒から挑戦できる求人を探す';
 const tenshokuJobsLabel = jobsiteCo ? `${post.data.companyName}の会社概要・募集中の求人を見る` : jobsGroup ? `${jobsGroup.label}の求人一覧を見る` : '中途採用の求人を探す';
 
 const related = (post.data.related ?? [])

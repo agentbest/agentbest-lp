@@ -28,7 +28,7 @@ export function jobsUrl({ medium, campaign, q, base = JOBS_URL }: JobsLinkOpts &
   return `${base}?${p.toString()}`;
 }
 
-/** 手に職の求人サイト（skill.agent-best.net）へのURL（utm付き） */
+/** 未経験・第二新卒のキャリアチェンジ求人サイト（skill.agent-best.net）へのURL（utm付き） */
 export const skillUrl = (o: JobsLinkOpts) => jobsUrl({ ...o, base: SKILL_URL });
 
 /* メディアのハブ → 求人サイトの職種一覧（jobs.agent-best.net/jobs/<slug>/）。
