@@ -1,6 +1,8 @@
 ---
 import '../styles/global.css';
 import ChatConsult from '../components/ChatConsult.astro';
+// 全サイト相互リンクの一覧。正本は C:\Users\user\site-network\network.mjs（node apply.mjs がこのファイルを書く。手で直さない）
+import siteNetworkHtml from '../data/site-network.html?raw';
 export interface Props {
   title?: string;
   description?: string;
@@ -21,6 +23,9 @@ const {
 
 // 右下のチャット相談：相談フォームのページと、採用企業向けのページには出さない
 const showChat = chat && !/^\/(consultation|business|contact)(\/|$)/.test(Astro.url.pathname);
+
+// /media・/cases（jobs.agent-best.net で公開）はページ内にフッターが無いので、ここで全サイト一覧のフッターを出す
+const showNetworkFooter = /^\/(media|cases)(\/|$)/.test(Astro.url.pathname);
 
 // canonical URL。sitemap-0.xml の出力（末尾スラッシュあり）と表記を揃える
 const canonicalPath = Astro.url.pathname.endsWith('/')
@@ -83,6 +88,14 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
   </head>
   <body>
     <slot />
+    {showNetworkFooter && (
+      <footer style="background:var(--ink);color:var(--paper);margin-top:64px;padding:8px 0 40px">
+        <div class="wrap">
+          <Fragment set:html={siteNetworkHtml} />
+          <p style="margin:24px 0 0;font-size:12px;opacity:.6">&copy; 株式会社エージェントベスト（有料職業紹介事業 許可番号 13-ユ-316964）</p>
+        </div>
+      </footer>
+    )}
     {showChat && <ChatConsult />}
     <!-- LINE友だち追加のクリックをGA4に送る。LINE側では流入元が分からないので、
          どのページのボタンから登録されたかはこのイベントでしか追えない。 -->
