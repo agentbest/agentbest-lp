@@ -1,13 +1,19 @@
 ---
 // src/pages/media/index.astro … メディアトップ
 // カテゴリは src/lib/mediaTaxonomy.ts が決める（記事のfrontmatterから推測しない）
+//
+// 2026-11-14 ポータルサイト風の並びに変更（設計方針は C:\Users\user\site-network\portal-brief.md）。
+// カテゴリタブ → 注目の記事（大1＋小4）→ 新着カード → 職種・業界・企業のカテゴリ別セクション → タグ、
+// 右サイドバー（1024px以上だけ。未満は本文の下）に注目の記事・カテゴリ一覧・相談CTA・タグ。
+// ⚠ アクセス数のデータは無いので「人気」「ランキング」「よく読まれている」とは書かない。
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import MediaSearchBox from '../../components/MediaSearchBox.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
 import LineCta from '../../components/LineCta.astro';
-import { getMediaGroups } from '../../lib/mediaTaxonomy';
+import MediaCard from '../../components/MediaCard.astro';
+import { getMediaGroups, hubLabel } from '../../lib/mediaTaxonomy';
 import { getTagGroups } from '../../lib/mediaTags';
 
 const posts = await getCollection('media');
@@ -25,11 +31,46 @@ const tagTotal = tagGroups.reduce((n, g) => n + g.tags.length, 0);
 const total = posts.length;
 const companyTotal = companyHubs.reduce((n, c) => n + c.count, 0);
 
-// 新着。pubDateが同日で並ぶので、同点はタイトル順にして毎回のビルドで並びが揺れないようにする
-const latest = [...posts]
+// 新しい順。pubDateが同日で並ぶので、同点はタイトル順にして毎回のビルドで並びが揺れないようにする
+const byNewest = [...posts]
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
-    || a.data.title.localeCompare(b.data.title, 'ja'))
-  .slice(0, 8);
+    || a.data.title.localeCompare(b.data.title, 'ja'));
+
+// 注目の記事：新しい順に、ハブが重ならないように拾う
+// （量産日に同じハブの記事が固まっても、枠が1テーマで埋まらないようにするため）
+const pickDistinctHubs = (list, n, used) => {
+  const out = [];
+  for (const p of list) {
+    const h = p.data.hub ?? p.slug;
+    if (used.has(h)) continue;
+    used.add(h);
+    out.push(p);
+    if (out.length >= n) break;
+  }
+  return out;
+};
+const usedHubs = new Set();
+const featured = pickDistinctHubs(byNewest, 5, usedHubs);
+const [featuredLead, ...featuredSubs] = featured;
+// サイドバーの「注目の記事」：同じ選び方の続き（注目枠とは重ならない5本）
+const sideFeatured = pickDistinctHubs(byNewest, 5, usedHubs);
+const featuredSlugs = new Set(featured.map((p) => p.slug));
+// 新着：注目枠に出した記事を除いた新しい順12本（旧トップの新着8本は、注目枠か新着のどちらかに必ず入る）
+const newest = byNewest.filter((p) => !featuredSlugs.has(p.slug)).slice(0, 12);
+
+// カテゴリ別セクション：そのグループのハブに属する記事の新しい順4本
+const latestIn = (hubs, n = 4) => {
+  const set = new Set(hubs);
+  return byNewest.filter((p) => set.has(p.data.hub)).slice(0, n);
+};
+const sumCount = (g) => g.items.reduce((n, it) => n + it.count, 0);
+const companyTitle = (p) => (p.data.companyName ? `${p.data.companyName}の評判・年収・選考対策` : undefined);
+const shortLabel = (p) => (p.data.category === '企業' ? p.data.companyName ?? hubLabel(p.data.hub ?? '') : hubLabel(p.data.hub ?? '', p.data.category));
+
+// サイドバーのタグ：本数の多い順に20個（全タグは本文の「タグから探す」にある）
+const sideTags = tagGroups.flatMap((g) => g.tags)
+  .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, 'ja'))
+  .slice(0, 20);
 
 const title = '転職メディア｜IT・SaaS・コンサル・M&A領域の転職ノウハウ';
 const description =
@@ -38,158 +79,277 @@ const description =
 
 <Layout title={title} description={description}>
   <Header />
-  <section class="hub">
-    <h1>転職メディア</h1>
-    <p class="hub-lead">
-      IT・SaaS・コンサル・M&A領域の転職・キャリア情報を、<strong>{total.toLocaleString()}本</strong>の記事で解説しています。
-      年収相場やキャリアパスから、企業ごとの評判・選考対策まで。数字は有価証券報告書などの一次情報をもとにしています。
-    </p>
+  <div class="portal">
+    <header class="portal-head">
+      <h1>転職メディア</h1>
+      <p class="hub-lead">
+        IT・SaaS・コンサル・M&A領域の転職・キャリア情報を、<strong>{total.toLocaleString()}本</strong>の記事で解説しています。
+        年収相場やキャリアパスから、企業ごとの評判・選考対策まで。数字は有価証券報告書などの一次情報をもとにしています。
+      </p>
+      <MediaSearchBox />
+    </header>
 
-    <MediaSearchBox />
-
-    <nav class="jump" aria-label="カテゴリ">
-      <a href="#tag">タグから探す</a>
-      <a href="#job">職種から探す</a>
-      <a href="#industry">業界から探す</a>
-      <a href="#company">企業から探す</a>
-      <a href="#latest">新着記事</a>
-      <a class="jump-alt" href="/media/ma-news/">M&Aニュース</a>
-      <a class="jump-alt" href="/cases/">転職事例集</a>
+    <!-- カテゴリのタブ列。スマホははみ出した分だけタブ列の中で横スクロールする -->
+    <nav class="tabs" aria-label="カテゴリ">
+      <ul>
+        <li><a href="#latest">新着記事</a></li>
+        <li><a href="#job">職種から探す</a></li>
+        <li><a href="#industry">業界から探す</a></li>
+        <li><a href="#company">企業から探す</a></li>
+        <li><a href="#tag">タグから探す</a></li>
+        <li><a class="tab-alt" href="/media/companies/">企業名50音</a></li>
+        <li><a class="tab-alt" href="/media/ma-news/">M&Aニュース</a></li>
+        <li><a class="tab-alt" href="/cases/">転職事例集</a></li>
+      </ul>
     </nav>
 
-    <!-- ===== タグ ===== -->
-    <h2 id="tag">タグから探す</h2>
-    <p class="hub-note">
-      職種・業界・企業をまたいで、テーマから探せます。「面接対策」「年収1000万円」「東証プライム上場」のように、
-      いま知りたいことがはっきりしている場合はこちらが早いです（{tagTotal}タグ）。
-    </p>
-    {tagGroups.map((g) => (
-      <div class="group">
-        <h3>{g.name}<span class="group-count">{g.tags.length}タグ</span></h3>
-        <p class="tag-note">{g.note}</p>
-        <ul class="tag-cloud">
-          {g.tags.map((t) => (
-            <li>
-              <a href={`/media/tag/${t.slug}/`} title={t.note}>
-                {t.label}<span class="count">{t.count}</span>
-              </a>
-            </li>
+    <div class="portal-cols">
+      <div class="portal-main">
+        <!-- ===== 注目の記事（新しい順・ハブが重ならないように5本） ===== -->
+        <section class="featured" aria-labelledby="featured-title">
+          <h2 id="featured-title" class="sec-title">注目の記事</h2>
+          <div class="featured-grid">
+            <div class="featured-lead"><MediaCard post={featuredLead} variant="lead" /></div>
+            <ul class="featured-subs">
+              {featuredSubs.map((p) => <li><MediaCard post={p} /></li>)}
+            </ul>
+          </div>
+        </section>
+
+        <!-- ===== 新着 ===== -->
+        <section>
+          <h2 id="latest" class="sec-title">新着記事</h2>
+          <ul class="card-grid">
+            {newest.map((p) => <li><MediaCard post={p} /></li>)}
+          </ul>
+        </section>
+
+        <!-- ===== 職種 ===== -->
+        <section>
+          <h2 id="job" class="sec-title">職種から探す</h2>
+          <p class="hub-note">職種ごとに、仕事内容・年収相場・キャリアパス・選考対策をまとめています。</p>
+          {jobGroups.map((g) => (
+            <div class="group" id={`job-${g.key}`}>
+              <h3 class="group-title">{g.name}<span class="group-count">{g.items.length}職種・{sumCount(g).toLocaleString()}本</span></h3>
+              <ul class="card-grid four">
+                {latestIn(g.hubs).map((p) => <li><MediaCard post={p} heading="p" /></li>)}
+              </ul>
+              <p class="cat-caption">職種ごとの記事一覧</p>
+              <ul class="cat-grid">
+                {g.items.map((it) => (
+                  <li><a href={`/media/hub/${it.hub}/`}>{it.name}<span class="count">{it.count}</span></a></li>
+                ))}
+              </ul>
+            </div>
           ))}
-        </ul>
-      </div>
-    ))}
+        </section>
 
-    <!-- ===== 職種 ===== -->
-    <h2 id="job">職種から探す</h2>
-    <p class="hub-note">職種ごとに、仕事内容・年収相場・キャリアパス・選考対策をまとめています。</p>
-    {jobGroups.map((g) => (
-      <div class="group">
-        <h3>{g.name}<span class="group-count">{g.items.length}職種</span></h3>
-        <ul class="cat-grid">
-          {g.items.map((it) => (
-            <li><a href={`/media/hub/${it.hub}/`}>{it.name}<span class="count">{it.count}</span></a></li>
+        <!-- ===== 業界 ===== -->
+        <section>
+          <h2 id="industry" class="sec-title">業界から探す</h2>
+          <p class="hub-note">業界の構造・市場動向・そこで求められる人材像から解説しています。</p>
+          {industryGroups.map((g) => (
+            <div class="group" id={`industry-${g.key}`}>
+              <h3 class="group-title">{g.name}<span class="group-count">{g.items.length}業界・{sumCount(g).toLocaleString()}本</span></h3>
+              <ul class="card-grid four">
+                {latestIn(g.hubs).map((p) => <li><MediaCard post={p} heading="p" /></li>)}
+              </ul>
+              <p class="cat-caption">業界ごとの記事一覧</p>
+              <ul class="cat-grid">
+                {g.items.map((it) => (
+                  <li><a href={`/media/hub/${it.hub}/`}>{it.name}<span class="count">{it.count}</span></a></li>
+                ))}
+              </ul>
+            </div>
           ))}
-        </ul>
-      </div>
-    ))}
+        </section>
 
-    <!-- ===== 業界 ===== -->
-    <h2 id="industry">業界から探す</h2>
-    <p class="hub-note">業界の構造・市場動向・そこで求められる人材像から解説しています。</p>
-    {industryGroups.map((g) => (
-      <div class="group">
-        <h3>{g.name}<span class="group-count">{g.items.length}業界</span></h3>
-        <ul class="cat-grid">
-          {g.items.map((it) => (
-            <li><a href={`/media/hub/${it.hub}/`}>{it.name}<span class="count">{it.count}</span></a></li>
+        <!-- ===== 企業 ===== -->
+        <section>
+          <h2 id="company" class="sec-title">企業から探す</h2>
+          <p class="hub-note">
+            企業ごとの評判・年収・働き方・選考対策を、<strong>{companyTotal}社</strong>ぶん掲載しています。
+            社名が決まっているなら<a href="/media/companies/">企業名の50音インデックス</a>が早いです。
+          </p>
+          <ul class="cat-grid wide">
+            {companyHubs.map((c) => (
+              <li>
+                <a href={`/media/hub/${c.hub}/`}>
+                  <span class="c-name">{c.name}<span class="count">{c.count}社</span></span>
+                  <span class="c-note">{c.note}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+          {companyHubs.map((c) => (
+            <div class="group" id={`company-${c.hub}`}>
+              <div class="group-head">
+                <h3 class="group-title">{c.name}<span class="group-count">{c.count}社</span></h3>
+                <a class="more-link" href={`/media/hub/${c.hub}/`}>もっと見る →</a>
+              </div>
+              <ul class="card-grid four">
+                {latestIn([c.hub]).map((p) => (
+                  <li><MediaCard post={p} heading="p" label={c.name} titleOverride={companyTitle(p)} /></li>
+                ))}
+              </ul>
+            </div>
           ))}
-        </ul>
-      </div>
-    ))}
+          <p class="more"><a href="/media/companies/">企業名から探す（50音順・{companyTotal}社）→</a></p>
+        </section>
 
-    <!-- ===== 企業 ===== -->
-    <h2 id="company">企業から探す</h2>
-    <p class="hub-note">
-      企業ごとの評判・年収・働き方・選考対策を、<strong>{companyTotal}社</strong>ぶん掲載しています。
-      社名が決まっているなら<a href="/media/companies/">企業名の50音インデックス</a>が早いです。
-    </p>
-    <ul class="cat-grid wide">
-      {companyHubs.map((c) => (
-        <li>
-          <a href={`/media/hub/${c.hub}/`}>
-            <span class="c-name">{c.name}<span class="count">{c.count}社</span></span>
-            <span class="c-note">{c.note}</span>
-          </a>
-        </li>
-      ))}
-    </ul>
-    <p class="more"><a href="/media/companies/">企業名から探す（50音順・{companyTotal}社）→</a></p>
+        <!-- ===== タグ ===== -->
+        <section>
+          <h2 id="tag" class="sec-title">タグから探す</h2>
+          <p class="hub-note">
+            職種・業界・企業をまたいで、テーマから探せます。「面接対策」「年収1000万円」「東証プライム上場」のように、
+            いま知りたいことがはっきりしている場合はこちらが早いです（{tagTotal}タグ）。
+          </p>
+          {tagGroups.map((g) => (
+            <div class="group">
+              <h3 class="group-title">{g.name}<span class="group-count">{g.tags.length}タグ</span></h3>
+              <p class="tag-note">{g.note}</p>
+              <ul class="tag-cloud">
+                {g.tags.map((t) => (
+                  <li>
+                    <a href={`/media/tag/${t.slug}/`} title={t.note}>
+                      {t.label}<span class="count">{t.count}</span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </section>
 
-    <!-- ===== 新着 ===== -->
-    <h2 id="latest">新着記事</h2>
-    <ul class="art-list">
-      {latest.map((p) => (
-        <li>
-          <a href={`/media/${p.slug}/`}>
-            <img class="art-image" src={p.data.image ?? `/images/media/${p.slug}.png`} alt="" loading="lazy" decoding="async" width="1200" height="630" />
-            <span class="art-body">
-              <span class="art-title">{p.data.title}</span>
-              <span class="art-desc">{p.data.description}</span>
-              <span class="art-meta">
-                <span class="tag">{p.data.category}</span>
-                <span class="theme">{p.data.theme}</span>
+        <!-- ===== M&Aニュース ===== -->
+        <!-- 適時開示の自動まとめ。記事とは毛色が違うので、カテゴリと並べず末尾に導線1本だけ置く -->
+        {news.length > 0 && (
+          <p class="news-link">
+            <a href="/media/ma-news/">
+              <span class="nl-label">M&Aニュース</span>
+              <span class="nl-note">
+                上場企業の適時開示から日次で自動更新（{news.length.toLocaleString()}件{newsLatest && ` ／ 最終更新 ${fmtDate(newsLatest)}`}）
               </span>
-            </span>
-          </a>
-        </li>
-      ))}
-    </ul>
+              <span class="nl-arrow">→</span>
+            </a>
+          </p>
+        )}
 
-    <!-- ===== M&Aニュース ===== -->
-    <!-- 適時開示の自動まとめ。記事とは毛色が違うので、カテゴリと並べず末尾に導線1本だけ置く -->
-    {news.length > 0 && (
-      <p class="news-link">
-        <a href="/media/ma-news/">
-          <span class="nl-label">M&Aニュース</span>
-          <span class="nl-note">
-            上場企業の適時開示から日次で自動更新（{news.length.toLocaleString()}件{newsLatest && ` ／ 最終更新 ${fmtDate(newsLatest)}`}）
-          </span>
-          <span class="nl-arrow">→</span>
-        </a>
-      </p>
-    )}
+        <ShareButtons title={title} label="このページをシェア" />
 
-    <ShareButtons title={title} label="このページをシェア" />
-
-    <aside class="cta">
-      <h2>キャリアの選択肢を、プロと整理しませんか</h2>
-      <p>エージェントベストは、IT・スタートアップ・コンサル領域に特化した転職エージェントです。</p>
-      <div class="cta-actions">
-        <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=top" target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
-        <LineCta placement="media-top" variant="button" label="LINEで相談する" />
+        <aside class="cta">
+          <h2>キャリアの選択肢を、プロと整理しませんか</h2>
+          <p>エージェントベストは、IT・スタートアップ・コンサル領域に特化した転職エージェントです。</p>
+          <div class="cta-actions">
+            <a href="https://calendly.com/r_matsuoka?utm_source=media&utm_medium=top" target="_blank" rel="noopener" class="cta-button">無料キャリア面談を予約する</a>
+            <LineCta placement="media-top" variant="button" label="LINEで相談する" />
+          </div>
+          <p class="cta-sub">面談の前に、まずLINEで質問だけでも大丈夫です。</p>
+        </aside>
       </div>
-      <p class="cta-sub">面談の前に、まずLINEで質問だけでも大丈夫です。</p>
-    </aside>
-  </section>
+
+      <!-- ===== 右サイドバー（1024px未満は本文の下に回る） ===== -->
+      <aside class="portal-side" aria-label="サイドバー">
+        <section class="side-box">
+          <h2 class="side-title">注目の記事</h2>
+          <ol class="side-rank">
+            {sideFeatured.map((p) => (
+              <li>
+                <a href={`/media/${p.slug}/`}>
+                  <span class="sr-label">{shortLabel(p)}</span>
+                  <span class="sr-title">{p.data.title}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </section>
+
+        <section class="side-box">
+          <h2 class="side-title">カテゴリ一覧</h2>
+          <p class="side-sub">職種</p>
+          <ul class="side-cats">
+            {jobGroups.map((g) => <li><a href={`#job-${g.key}`}>{g.name}<span class="count">{sumCount(g).toLocaleString()}</span></a></li>)}
+          </ul>
+          <p class="side-sub">業界</p>
+          <ul class="side-cats">
+            {industryGroups.map((g) => <li><a href={`#industry-${g.key}`}>{g.name}<span class="count">{sumCount(g).toLocaleString()}</span></a></li>)}
+          </ul>
+          <p class="side-sub">企業</p>
+          <ul class="side-cats">
+            {companyHubs.map((c) => <li><a href={`/media/hub/${c.hub}/`}>{c.name}<span class="count">{c.count}</span></a></li>)}
+          </ul>
+        </section>
+
+        <section class="side-box side-cta">
+          <p class="side-cta-title">転職の相談は無料です</p>
+          <p class="side-cta-text">IT・スタートアップ・コンサル領域に特化した転職エージェントが、求人紹介の前段階から相談にのります。</p>
+          <a class="side-cta-button" href="/consultation/" data-consult-cta="media-top-side">無料で相談する</a>
+        </section>
+
+        <section class="side-box">
+          <h2 class="side-title">タグ</h2>
+          <ul class="tag-cloud small">
+            {sideTags.map((t) => <li><a href={`/media/tag/${t.slug}/`}>{t.label}</a></li>)}
+          </ul>
+          <p class="more"><a href="#tag">すべてのタグ（{tagTotal}）↓</a></p>
+        </section>
+      </aside>
+    </div>
+  </div>
 </Layout>
 
 <style>
-  .hub { max-width: 900px; margin: 0 auto; padding: 32px 20px 64px; line-height: 1.9; color: #24292f; }
-  .hub h1 { font-size: 1.7rem; margin: .4em 0; }
-  .hub h2 { font-size: 1.3rem; margin: 2.6em 0 .6em; padding: .35em .8em; border-left: 5px solid #1c1c2e; background: #f6f8fa; border-radius: 4px; scroll-margin-top: 80px; }
-  .hub h3 { font-size: 1rem; margin: 1.6em 0 .5em; color: #1c1c2e; display: flex; align-items: baseline; gap: .6em; }
-  .hub h3::before { content: ''; width: 3px; height: 1em; background: #4a5568; border-radius: 2px; }
-  .group-count { font-size: .75rem; color: #6b7684; font-weight: 400; }
-  .hub-lead { color: #454e59; }
+  .portal { max-width: 1200px; margin: 0 auto; padding: 28px 20px 64px; line-height: 1.9; color: #24292f; }
+  .portal-head { max-width: 900px; }
+  .portal h1 { font-size: 1.7rem; margin: .2em 0 .3em; }
+  .hub-lead { color: #454e59; margin: 0; }
   .hub-note { margin: -.2em 0 .8em; color: #6b7480; font-size: .92rem; }
 
-  .jump { display: flex; flex-wrap: wrap; gap: 8px; margin: 1.4em 0 0; }
-  .jump a { font-size: .85rem; padding: .35em 1em; border: 1px solid #d8dde3; border-radius: 999px; color: #384049; text-decoration: none; background: #fff; }
-  .jump a:hover { border-color: #1c1c2e; }
-  /* M&Aニュースは記事カテゴリではないので、同じ並びでも見た目で区別する */
-  .jump a.jump-alt { border-style: dashed; color: #6b7684; }
+  /* カテゴリのタブ列。はみ出しはこの列の中だけで横スクロール（ページ全体は横に動かない） */
+  .tabs { margin: 1.4em 0 0; border-bottom: 2px solid #1c1c2e; overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; scrollbar-width: thin; }
+  .tabs ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 2px; width: max-content; min-width: 100%; }
+  .tabs a {
+    display: block; white-space: nowrap; padding: .55em 1.1em; font-size: .88rem; font-weight: 700;
+    color: #384049; text-decoration: none; background: #f0f2f5; border-radius: 8px 8px 0 0;
+  }
+  .tabs a:hover { background: #1c1c2e; color: #fff; }
+  /* 記事カテゴリ以外（50音・M&Aニュース・事例集）は同じ列でも見た目で区別する */
+  .tabs a.tab-alt { background: #fff; color: #6b7684; font-weight: 600; }
+  .tabs a.tab-alt:hover { background: #1c1c2e; color: #fff; }
 
-  .tag-note { margin: -.2em 0 .6em; color: #6b7480; font-size: .85rem; }
+  .portal-cols { display: grid; grid-template-columns: minmax(0, 1fr); gap: 40px; margin-top: 8px; }
+  .portal-main, .portal-side { min-width: 0; }
+  @media (min-width: 1024px) {
+    .portal-cols { grid-template-columns: minmax(0, 1fr) 300px; }
+  }
+
+  .sec-title {
+    font-size: 1.25rem; margin: 2.2em 0 .8em; padding: .3em .8em;
+    border-left: 5px solid #1c1c2e; background: #f6f8fa; border-radius: 4px; scroll-margin-top: 88px;
+  }
+  .group { margin-top: 1.8em; scroll-margin-top: 88px; }
+  .group-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1em; }
+  .group-title { font-size: 1rem; margin: 0 0 .7em; color: #1c1c2e; display: flex; align-items: baseline; gap: .6em; flex-wrap: wrap; }
+  .group-title::before { content: ''; width: 3px; height: 1em; background: #4a5568; border-radius: 2px; align-self: center; }
+  .group-count { font-size: .75rem; color: #6b7684; font-weight: 400; }
+  .more-link { flex-shrink: 0; font-size: .85rem; font-weight: 700; color: #1c1c2e; text-decoration: none; }
+  .more-link:hover { text-decoration: underline; }
+  .cat-caption { margin: 1em 0 .4em; font-size: .8rem; font-weight: 700; color: #6b7684; }
+
+  /* 注目枠：PCは大1＋小4（右に2×2）、スマホは縦に積む */
+  .featured-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .featured-subs { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+  @media (min-width: 760px) {
+    .featured-grid { grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); }
+  }
+
+  .card-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+  .card-grid.four { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+  @media (max-width: 900px) {
+    .card-grid, .card-grid.four { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  }
+
+  .tag-note { margin: -.4em 0 .6em; color: #6b7480; font-size: .85rem; }
   .tag-cloud { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 7px; }
   .tag-cloud a {
     display: inline-flex; align-items: baseline; gap: .45em;
@@ -198,15 +358,17 @@ const description =
   }
   .tag-cloud a:hover { border-color: #1c1c2e; background: #1c1c2e; color: #fff; }
   .tag-cloud a:hover .count { color: #b9bfc9; }
+  .tag-cloud.small { gap: 6px; }
+  .tag-cloud.small a { font-size: .78rem; padding: .28em .8em; }
 
-  .cat-grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 8px; }
+  .cat-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 8px; }
   .cat-grid li a {
     display: flex; justify-content: space-between; align-items: center; gap: .5em;
-    padding: .7em .9em; border: 1px solid #e2e6ea; border-radius: 8px;
-    color: #1c1c2e; text-decoration: none; font-weight: 600; background: #fff; font-size: .92rem;
+    padding: .6em .9em; border: 1px solid #e2e6ea; border-radius: 8px;
+    color: #1c1c2e; text-decoration: none; font-weight: 600; background: #fff; font-size: .9rem;
   }
   .cat-grid li a:hover { border-color: #1c1c2e; background: #fafbfc; }
-  .cat-grid.wide { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .cat-grid.wide { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
   .cat-grid.wide li a { flex-direction: column; align-items: flex-start; gap: .2em; }
   .c-name { display: flex; justify-content: space-between; width: 100%; align-items: baseline; }
   .c-note { font-size: .78rem; color: #6b7684; font-weight: 400; }
@@ -215,23 +377,31 @@ const description =
   .more a { font-weight: 600; color: #1c1c2e; text-decoration: none; }
   .more a:hover { text-decoration: underline; }
 
-  .art-list { list-style: none; padding: 0; }
-  .art-list li { border-bottom: 1px solid #eceff2; }
-  .art-list a { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 1em; align-items: center; padding: 1em .2em; text-decoration: none; color: inherit; }
-  .art-image { display: block; width: 100%; height: auto; aspect-ratio: 1200 / 630; object-fit: cover; border-radius: 9px; background: #f0f2f5; }
-  .art-body { min-width: 0; }
-  .art-list a:hover { background: #fafbfc; }
-  .art-title { display: block; font-weight: 700; color: #1c1c2e; line-height: 1.6; }
-  .art-list a:hover .art-title { text-decoration: underline; }
-  .art-desc { display: block; margin-top: .25em; font-size: .87rem; color: #57606a; line-height: 1.75;
-    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-  .art-meta { display: flex; gap: .5em; margin-top: .45em; }
-  .tag, .theme { font-size: .74rem; border-radius: 4px; padding: 2px 8px; }
-  .tag { background: #1c1c2e; color: #fff; }
-  .theme { background: #f0f2f5; color: #6b7684; }
+  /* サイドバー */
+  .portal-side { display: flex; flex-direction: column; gap: 20px; }
+  @media (min-width: 1024px) { .portal-side { padding-top: 2.2em; } }
+  .side-box { border: 1px solid #e6e9ed; border-radius: 10px; padding: 1em 1.1em 1.1em; background: #fff; }
+  .side-title { font-size: .95rem; margin: 0 0 .6em; padding: 0 0 .5em; border-bottom: 2px solid #1c1c2e; color: #1c1c2e; }
+  .side-rank { list-style: none; margin: 0; padding: 0; counter-reset: rank; }
+  .side-rank li { counter-increment: rank; border-bottom: 1px solid #eef0f3; }
+  .side-rank li:last-child { border-bottom: 0; }
+  .side-rank a { display: grid; grid-template-columns: 1.8em minmax(0, 1fr); column-gap: .5em; padding: .6em 0; text-decoration: none; color: inherit; }
+  .side-rank a::before { content: counter(rank); grid-row: span 2; font-weight: 800; font-size: 1.1rem; color: #1c1c2e; line-height: 1.4; }
+  .sr-label { font-size: .7rem; color: #6b7684; line-height: 1.5; }
+  .sr-title { font-size: .85rem; font-weight: 700; color: #1c1c2e; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .side-rank a:hover .sr-title { text-decoration: underline; }
+  .side-sub { margin: .8em 0 .2em; font-size: .75rem; font-weight: 700; color: #6b7684; letter-spacing: .05em; }
+  .side-cats { list-style: none; margin: 0; padding: 0; }
+  .side-cats a { display: flex; justify-content: space-between; gap: .5em; padding: .3em 0; font-size: .85rem; color: #24292f; text-decoration: none; line-height: 1.6; }
+  .side-cats a:hover { color: #1c1c2e; text-decoration: underline; }
+  .side-cta { background: #1c1c2e; border-color: #1c1c2e; color: #fff; }
+  .side-cta-title { margin: 0 0 .3em; font-weight: 700; font-size: 1rem; }
+  .side-cta-text { margin: 0 0 .9em; font-size: .82rem; color: #d5d9e0; line-height: 1.7; }
+  .side-cta-button { display: block; text-align: center; padding: .7em 1em; background: #fff; color: #1c1c2e; border-radius: 8px; font-weight: 700; text-decoration: none; }
+  .side-cta-button:hover { background: #eef0f3; }
 
   .cta { margin-top: 3rem; padding: 2rem 1.5rem; border-radius: 12px; background: #1c1c2e; color: #fff; text-align: center; }
-  .cta h2 { background: none; border: none; color: #fff; padding: 0; margin: 0 0 .6em; }
+  .cta h2 { background: none; border: none; color: #fff; padding: 0; margin: 0 0 .6em; font-size: 1.3rem; }
   .cta p { color: #d5d9e0; }
   /* 面談予約（重）とLINE（軽）を並べる。迷った人が軽い方に流れる想定。 */
   .cta-actions { display: flex; flex-wrap: wrap; gap: .8rem; justify-content: center; align-items: center; margin-top: 1rem; }
@@ -240,11 +410,12 @@ const description =
   .cta-button { display: inline-block; padding: .8rem 2.4rem; background: #fff; color: #1c1c2e; border-radius: 8px; text-decoration: none; font-weight: 700; }
 
   @media (max-width: 600px) {
+    .portal { padding: 20px 16px 48px; }
+    .portal h1 { font-size: 1.45rem; }
     .cat-grid { grid-template-columns: 1fr 1fr; }
     .cat-grid.wide { grid-template-columns: 1fr; }
-    .cat-grid li a { font-size: .85rem; padding: .6em .7em; }
-    .art-list a { grid-template-columns: 116px minmax(0, 1fr); gap: .75em; }
-    .art-desc { -webkit-line-clamp: 1; }
+    .cat-grid li a { font-size: .82rem; padding: .55em .7em; }
+    .featured-subs { gap: 10px; }
   }
 </style>
 

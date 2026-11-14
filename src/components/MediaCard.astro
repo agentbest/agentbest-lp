@@ -1,0 +1,86 @@
+---
+// src/components/MediaCard.astro … メディア記事のカード（ポータル風レイアウト用・2026-11-14）
+// variant:
+//   lead … 注目枠の大きいカード（画像＋ラベル・日付・タイトル・説明文）
+//   card … グリッド用の通常カード（画像＋ラベル・日付・タイトル）
+//   mini … サイドバー用の横並び小カード（小さい画像＋タイトル）
+// サムネイルは記事のアイキャッチ（frontmatter の image）。無い記事だけ CSS で作る面（カテゴリ色＋カテゴリ名）にする。
+// ⚠ ラベルに「人気」「ランキング」は使わない（アクセス数のデータを持っていない）。
+import { hubLabel, COMPANY_HUBS } from '../lib/mediaTaxonomy';
+
+const { post, variant = 'card', heading = 'h3', label: labelOverride, titleOverride } = Astro.props;
+const d = post.data;
+const hub = d.hub ?? '';
+const isCompany = d.category === '企業';
+const label = labelOverride ?? (hub ? hubLabel(hub) : d.category);
+const title = titleOverride ?? d.title;
+
+// 表示日は記事ページと同じく「ビルド日で頭打ち」の pubDate
+const NOW = new Date();
+const date = d.pubDate > NOW ? NOW : d.pubDate;
+const ymd = `${date.getFullYear()}.${String(date.getMonth() + 1).padStart(2, '0')}.${String(date.getDate()).padStart(2, '0')}`;
+const iso = date.toISOString().slice(0, 10);
+
+// 画像が無い記事のCSSサムネイル。色はハブ名から決める固定表（ビルドごとに変わらない）
+const PALETTE = ['#1c1c2e', '#0b2a4a', '#1e5f56', '#5a3e1b', '#3d2c5e', '#6b2737', '#2d4a22', '#374151'];
+let h = 0;
+for (const ch of hub || d.category) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+const tone = PALETTE[h % PALETTE.length];
+const thumbWord = isCompany ? (d.companyName ?? label) : label;
+const Heading = heading;
+---
+
+<a class={`mc mc-${variant}`} href={`/media/${post.slug}/`}>
+  <span class="mc-thumb">
+    {d.image
+      ? <img src={d.image} alt="" loading="lazy" decoding="async" width="1200" height="630" />
+      : <span class="mc-fallback" style={`background:${tone}`}><span class="mc-fb-word">{thumbWord}</span></span>}
+  </span>
+  <span class="mc-body">
+    {variant !== 'mini' && (
+      <span class="mc-meta">
+        <span class="mc-label">{label}</span>
+        <time datetime={iso}>{ymd}</time>
+      </span>
+    )}
+    <Heading class="mc-title">{title}</Heading>
+    {variant === 'lead' && <span class="mc-desc">{d.description}</span>}
+    {variant === 'mini' && <time class="mc-date" datetime={iso}>{ymd}</time>}
+  </span>
+</a>
+
+<style>
+  .mc { display: flex; flex-direction: column; height: 100%; text-decoration: none; color: inherit; border-radius: 10px; background: #fff; border: 1px solid #e6e9ed; overflow: hidden; transition: border-color .15s, box-shadow .15s; }
+  .mc:hover { border-color: #1c1c2e; box-shadow: 0 4px 14px rgba(28, 28, 46, .08); }
+  .mc:hover .mc-title { text-decoration: underline; }
+  .mc-thumb { display: block; aspect-ratio: 16 / 9; background: #f0f2f5; overflow: hidden; flex-shrink: 0; }
+  .mc-thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
+  .mc-fallback { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; padding: 8%; color: #fff; text-align: center; }
+  .mc-fb-word { font-weight: 700; font-size: 1.05rem; line-height: 1.4; letter-spacing: .02em; }
+  .mc-body { display: flex; flex-direction: column; gap: .35em; padding: .75em .9em .9em; min-width: 0; }
+  .mc-meta { display: flex; align-items: center; gap: .6em; font-size: .72rem; color: #6b7684; min-width: 0; }
+  .mc-label { flex-shrink: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 700; color: #1c1c2e; background: #f0f2f5; border-radius: 4px; padding: 1px 7px; }
+  .mc-meta time { flex-shrink: 0; }
+  .mc-title {
+    margin: 0; padding: 0; border: 0; background: none; font-size: .92rem; font-weight: 700; line-height: 1.55; color: #1c1c2e;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .mc-desc { font-size: .85rem; color: #57606a; line-height: 1.75; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .mc-lead .mc-body { padding: 1em 1.2em 1.2em; }
+  .mc-lead .mc-title { font-size: 1.25rem; line-height: 1.5; }
+  .mc-lead .mc-meta { font-size: .78rem; }
+
+  .mc-mini { flex-direction: row; align-items: flex-start; gap: .75em; border: 0; border-radius: 0; background: none; padding: .55em 0; }
+  .mc-mini:hover { box-shadow: none; }
+  .mc-mini .mc-thumb { width: 96px; border-radius: 6px; }
+  .mc-mini .mc-body { padding: 0; gap: .2em; }
+  .mc-mini .mc-title { font-size: .84rem; line-height: 1.5; -webkit-line-clamp: 3; }
+  .mc-mini .mc-fb-word { font-size: .7rem; }
+  .mc-date { font-size: .7rem; color: #6b7684; }
+
+  @media (max-width: 600px) {
+    .mc-lead .mc-title { font-size: 1.08rem; }
+    .mc-title { font-size: .88rem; }
+  }
+</style>

@@ -7,7 +7,8 @@ import ShareButtons from '../../components/ShareButtons.astro';
 import LineCta from '../../components/LineCta.astro';
 import ArticleJobs from '../../components/ArticleJobs.astro';
 import Header from '../../components/Header.astro';
-import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey } from '../../lib/mediaTaxonomy';
+import MediaCard from '../../components/MediaCard.astro';
+import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey, getMediaGroups } from '../../lib/mediaTaxonomy';
 import { getTagGroups, liveTagsOf } from '../../lib/mediaTags';
 import { jobsUrl, jobsGroupOf, jobsGroupUrl, JOBS_URL, SKILL_URL } from '../../lib/jobsLink';
 // 企業記事 → 求人サイトの企業ページ（node tools/jobsite-companies/fetch.mjs で作る）
@@ -17,13 +18,15 @@ export async function getStaticPaths() {
   const posts = await getCollection('media');
   // ページを持っているタグの集合。これで絞らないと記事から404へリンクしてしまう
   const { live } = getTagGroups(posts);
+  // サイドバーのカテゴリ一覧（件数つき）。全記事で同じなので1回だけ数える
+  const groups = getMediaGroups(posts);
   return posts.map((post) => ({
     params: { slug: post.slug },
-    props: { post, all: posts, liveTags: live },
+    props: { post, all: posts, liveTags: live, groups },
   }));
 }
 
-const { post, all, liveTags } = Astro.props;
+const { post, all, liveTags, groups } = Astro.props;
 const { Content, headings } = await post.render();
 const SITE = 'https://www.agent-best.net';
 const articleURL = `${SITE}/media/${post.slug}/`;
@@ -104,10 +107,29 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
   const p = hubMates[(myIndex + i) % hubMates.length];
   if (!relatedSlugs.has(p.slug)) sameHub.push(p);
 }
+
+// 本文の後ろの「関連記事」カード。frontmatter の related が無い記事だけ、同じハブの新しい順で埋める
+const sameHubSlugs = new Set(sameHub.map((p) => p.slug));
+const relatedCards = related.length > 0
+  ? related
+  : all
+      .filter((p) => p.data.hub === hub && p.slug !== post.slug && !sameHubSlugs.has(p.slug))
+      .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime() || a.data.title.localeCompare(b.data.title, 'ja'))
+      .slice(0, 6);
+
+// サイドバーのカテゴリ一覧：この記事と同じ区分（職種／業界／企業）だけ出す。全区分を出すと1ページ119リンク増えて重い
+const sumCount = (g) => g.items.reduce((n, it) => n + it.count, 0);
+const sideCats = isCompany
+  ? groups.companyHubs.map((c) => ({ href: `/media/hub/${c.hub}/`, name: c.name, count: c.count, current: c.hub === hub }))
+  : (post.data.category === '業界' ? groups.industryGroups : groups.jobGroups).map((g) => ({
+      href: `/media/#${catAnchor}-${g.key}`, name: g.name, count: sumCount(g), current: g.hubs.includes(hub),
+    }));
 ---
 
 <Layout title={post.data.title} description={post.data.description} image={post.data.image}>
   <Header />
+  <!-- 2026-11-14 ポータル風：PC（1024px以上）は本文＋右サイドバーの2カラム。スマホはサイドバーが本文の後ろに回る -->
+  <div class="article-layout">
   <article class="media-article">
     <nav class="breadcrumb" aria-label="パンくず">
       <a href="/media/">転職メディア</a>
@@ -183,39 +205,16 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
       </section>
     )}
 
-    {related.length > 0 && (
+    {relatedCards.length > 0 && (
       <section class="related">
         <h2 class="block-title">関連記事</h2>
-        <ul class="art-list">
-          {related.map((r) => (
-            <li>
-              <a href={`/media/${r.slug}/`}>
-                <span class="art-title">{r.data.title}</span>
-                <span class="art-desc">{r.data.description}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      </section>
-    )}
-
-    {sameHub.length > 0 && (
-      <section class="same-hub">
-        <h2 class="block-title">
-          {isCompany ? `${hubName}の他の企業` : `${hubName}の他の記事`}
-        </h2>
-        <ul class="art-list compact">
-          {sameHub.map((r) => (
-            <li>
-              <a href={`/media/${r.slug}/`}>
-                <span class="art-title">{isCompany ? r.data.companyName : r.data.title}</span>
-                <span class="art-theme">{r.data.theme}</span>
-              </a>
-            </li>
+        <ul class="card-grid">
+          {relatedCards.map((r) => (
+            <li><MediaCard post={r} heading="p" /></li>
           ))}
         </ul>
         <p class="more">
-          <a href={hubUrl}>{isCompany ? `${hubName}の企業一覧を見る` : `${hubName}の記事一覧を見る`} →</a>
+          <a href={hubUrl}>{isCompany ? `${hubName}の企業をもっと見る` : `${hubName}の記事をもっと見る`} →</a>
         </p>
       </section>
     )}
@@ -237,17 +236,91 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
       </p>
     </aside>
   </article>
+
+  <aside class="article-side" aria-label="サイドバー">
+    {sameHub.length > 0 && (
+      <section class="side-box same-hub">
+        <h2 class="side-title">
+          {isCompany ? `${hubName}の他の企業` : `${hubName}の他の記事`}
+        </h2>
+        <ul class="side-cards">
+          {sameHub.map((r) => (
+            <li><MediaCard post={r} variant="mini" heading="span" titleOverride={isCompany ? r.data.companyName : undefined} /></li>
+          ))}
+        </ul>
+        <p class="side-more">
+          <a href={hubUrl}>{isCompany ? `${hubName}の企業一覧を見る` : `${hubName}の記事一覧を見る`} →</a>
+        </p>
+      </section>
+    )}
+
+    <div class="side-sticky">
+      <section class="side-box">
+        <h2 class="side-title">{catLabel}のカテゴリ</h2>
+        <ul class="side-cats">
+          {sideCats.map((c) => (
+            <li><a href={c.href} aria-current={c.current ? 'true' : undefined}>{c.name}<span class="count">{c.count.toLocaleString()}</span></a></li>
+          ))}
+        </ul>
+        <p class="side-more"><a href="/media/">転職メディアのトップへ →</a></p>
+      </section>
+
+      <section class="side-box side-cta">
+        <p class="side-cta-title">{tenshokuSubject}、プロに相談しませんか</p>
+        <p class="side-cta-text">IT・スタートアップ・コンサル領域に特化した転職エージェントが、求人紹介の前段階から相談にのります。</p>
+        <a class="side-cta-button" href="/consultation/" data-consult-cta="media-article-side">無料で相談する</a>
+      </section>
+    </div>
+  </aside>
+  </div>
 </Layout>
 
 
 <style is:global>
+  /* 2026-11-14 ポータル風の2カラム。1024px未満は従来どおり760px幅の1カラムで、サイドバーは本文の後ろ */
+  .article-layout { max-width: 760px; margin: 0 auto; }
   .media-article {
-    max-width: 760px;
-    margin: 0 auto;
+    min-width: 0;
     padding: 32px 20px 64px;
     line-height: 1.9;
     color: #24292f;
     font-size: 16px;
+  }
+  .article-side { min-width: 0; display: flex; flex-direction: column; gap: 20px; padding: 0 20px 56px; color: #24292f; }
+  .article-side .side-sticky { display: flex; flex-direction: column; gap: 20px; }
+  @media (min-width: 1024px) {
+    .article-layout {
+      max-width: 1108px; padding: 0 20px;
+      display: grid; grid-template-columns: minmax(0, 720px) 300px; gap: 48px; justify-content: center; align-items: start;
+    }
+    .media-article { padding: 32px 0 64px; }
+    .article-side { padding: 32px 0 64px; align-self: stretch; }
+    /* 長い「他の記事」は流し、カテゴリ一覧と相談CTAだけ追従させる */
+    .article-side .side-sticky { position: sticky; top: 88px; }
+  }
+  .article-side .side-box { border: 1px solid #e6e9ed; border-radius: 10px; padding: 1em 1.1em 1.1em; background: #fff; }
+  .article-side .side-title { font-size: .95rem; line-height: 1.5; margin: 0 0 .5em; padding: 0 0 .5em; border-bottom: 2px solid #1c1c2e; color: #1c1c2e; }
+  .article-side .side-cards { list-style: none; margin: 0; padding: 0; }
+  .article-side .side-cards li { border-bottom: 1px solid #eef0f3; }
+  .article-side .side-cards li:last-child { border-bottom: 0; }
+  .article-side .side-more { margin: .7em 0 0; font-size: .85rem; }
+  .article-side .side-more a { font-weight: 700; color: #1c1c2e; text-decoration: none; }
+  .article-side .side-more a:hover { text-decoration: underline; }
+  .article-side .side-cats { list-style: none; margin: 0; padding: 0; }
+  .article-side .side-cats a { display: flex; justify-content: space-between; gap: .5em; padding: .3em .4em; margin: 0 -.4em; border-radius: 4px; font-size: .85rem; color: #24292f; text-decoration: none; line-height: 1.6; }
+  .article-side .side-cats a:hover { text-decoration: underline; }
+  .article-side .side-cats a[aria-current] { background: #f0f2f5; font-weight: 700; color: #1c1c2e; }
+  .article-side .side-cats .count { font-size: .78rem; color: #6b7684; font-weight: 400; }
+  .article-side .side-cta { background: #1c1c2e; border-color: #1c1c2e; color: #fff; }
+  .article-side .side-cta-title { margin: 0 0 .3em; font-weight: 700; font-size: .98rem; line-height: 1.5; }
+  .article-side .side-cta-text { margin: 0 0 .9em; font-size: .82rem; color: #d5d9e0; line-height: 1.7; }
+  .article-side .side-cta-button { display: block; text-align: center; padding: .7em 1em; background: #fff; color: #1c1c2e; border-radius: 8px; font-weight: 700; text-decoration: none; }
+  .article-side .side-cta-button:hover { background: #eef0f3; }
+  /* 本文の後ろの関連記事カード */
+  .media-article .card-grid { list-style: none; margin: .9em 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+  .media-article .card-grid li { margin: 0; }
+  @media (max-width: 700px) {
+    .media-article .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   }
   .media-article .breadcrumb {
     font-size: .85rem; color: #6b7684; margin-bottom: 12px;
@@ -449,6 +522,7 @@ for (let i = 1; i < hubMates.length && sameHub.length < 6; i++) {
     .media-article .cta-inline { flex-direction: column; align-items: stretch; }
     .media-article .cta-inline a { text-align: center; }
     .media-article { padding: 20px 16px 48px; font-size: 15.5px; }
+    .article-side { padding: 0 16px 48px; }
     .media-article h1 { font-size: 1.35rem; }
     .media-article h2 { font-size: 1.15rem; }
   }
