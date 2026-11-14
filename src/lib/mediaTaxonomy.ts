@@ -174,8 +174,8 @@ export const HUB_SITE: Record<string, { label: string; href: string }> = {
   'ma-advisor': { label: '未経験からM&A', href: 'https://lp.matenshoku.com/' },
   'ma-industry': { label: '未経験からM&A', href: 'https://lp.matenshoku.com/' },
   'consulting-industry': { label: '未経験からコンサル', href: 'https://lp.consultenshoku.com/' },
-  'embedded-engineer': { label: 'IoT・組込みエンジニアの転職', href: 'https://kumikomitenshoku.com/' },
-  'iot-industry': { label: 'IoT・組込みエンジニアの転職', href: 'https://kumikomitenshoku.com/' },
+  'embedded-engineer': { label: 'IoT・組込みエンジニアの転職', href: 'https://lp.kumikomitenshoku.com/' },
+  'iot-industry': { label: 'IoT・組込みエンジニアの転職', href: 'https://lp.kumikomitenshoku.com/' },
   'post-consultant': {
     label: 'ファーム出身者の次のキャリア（50代）',
     href: 'https://consultingcareerchange50.agent-best.net/',
