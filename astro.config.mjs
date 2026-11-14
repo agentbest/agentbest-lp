@@ -148,6 +148,6 @@ export default defineConfig({
       },
     }),
     // /media・/cases は jobs.agent-best.net で公開する（2026-10-17）。⚠ sitemap() より後ろに置く。詳細はファイル冒頭
-    mediaOnJobs({ enabled: true }),
+    mediaOnJobs({ enabled: false }),
   ],
 });
