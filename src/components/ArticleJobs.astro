@@ -5,7 +5,13 @@
      { k: 'co'|'tag'|'hub'|'group', l: 見出しの名前, j: [[求人ID, 企業名, 職種名, 年収, 勤務地, ロゴ, サイト], ...] }
    k='tag' は Airtable「記事タグ」で選んだ求人（l＝タグ名）。サイトが 's' の求人は skill.agent-best.net（未経験・第二新卒のキャリアチェンジ）にある。
    ファイルが無い・読めないときは何も出さない（ボックスの文字リンクだけが残る＝従来どおり）。
-   クリックは Layout.astro の jobs_click（placement=media-article-jobs）で数える。 */
+   クリックは Layout.astro の jobs_click（placement＝data-jobs-cta）で数える。
+
+   2026-11-18 送客の強化（クリック率1.5%＝末尾まで読んだ人にしか見えていなかった）：
+   - placement='mid' … 本文の途中（2つ目のH2の直前。無ければ目次の後ろ）に2件。data-jobs-cta=media-article-jobs-mid
+   - placement='end' … 従来の転職ボックス内に4件。data-jobs-cta=media-article-jobs
+   同じページに2つ置いても JSON の取得は1回（window.__abArticleJobs で共有）。JSON は最大6件で、末尾＝1〜4件目・途中＝5〜6件目（重ならない）。
+   途中の箱は本文（Content）より前に置いてあるので、移動は DOMContentLoaded を待ってから。 */
 import { JOBS_URL } from '../lib/jobsLink';
 
 interface Props {
@@ -14,53 +20,86 @@ interface Props {
   companyName?: string;
   /** k='hub' のときの見出し（ハブ名） */
   hubName: string;
+  /** end＝転職ボックス内（既定）、mid＝本文の途中 */
+  placement?: 'end' | 'mid';
 }
-const { slug, companyName = '', hubName } = Astro.props;
+const { slug, companyName = '', hubName, placement = 'end' } = Astro.props;
+const isMid = placement === 'mid';
 ---
 
-<div class="article-jobs" data-article-jobs hidden
+<div class:list={['article-jobs', { 'article-jobs--mid': isMid }]} data-article-jobs hidden
   data-src={`${JOBS_URL}data/media-jobs/${slug}.json`}
-  data-slug={slug} data-company={companyName} data-hub={hubName} data-base={JOBS_URL}>
+  data-slug={slug} data-company={companyName} data-hub={hubName} data-base={JOBS_URL}
+  data-placement={placement}>
+  {isMid && <p class="article-jobs-eyebrow">この記事に関連する募集中の求人</p>}
   <p class="article-jobs-title"></p>
   <ul class="article-jobs-list"></ul>
-  <p class="article-jobs-note">応募は無料です。当社のエージェントが企業へ推薦する形で選考が進みます。</p>
+  {isMid
+    ? <p class="article-jobs-note">記事の続きは下にあります。応募は無料・当社から企業へ推薦する形で選考が進みます。</p>
+    : <p class="article-jobs-note">応募は無料です。当社のエージェントが企業へ推薦する形で選考が進みます。</p>}
 </div>
 
 <script is:inline>
   (function () {
-    var box = document.querySelector('[data-article-jobs]');
-    if (!box || !window.fetch) return;
-    var d = box.dataset;
+    if (!window.fetch) return;
+    var boxes = document.querySelectorAll('[data-article-jobs]:not([data-aj-done])');
+    if (!boxes.length) return;
     var esc = function (s) {
       return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
         return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
       });
     };
-    fetch(d.src).then(function (r) { return r.ok ? r.json() : null; }).then(function (data) {
-      if (!data || !data.j || !data.j.length) return;
-      var name = data.k === 'co' ? (d.company || data.l) : data.k === 'hub' ? d.hub : data.l;
-      box.querySelector('.article-jobs-title').textContent = name + 'の募集中の求人';
-      var utm = '?utm_source=corporate&utm_medium=article-jobs&utm_campaign=' + encodeURIComponent(d.slug);
-      box.querySelector('.article-jobs-list').innerHTML = data.j.map(function (j) {
-        var base = j[6] === 's' ? 'https://skill.agent-best.net/' : d.base;
-        var logo = j[5]
-          ? '<img class="aj-logo" src="' + esc(base + j[5]) + '" alt="" width="36" height="36" loading="lazy" onerror="this.remove()">'
-          : '';
-        return '<li><a href="' + esc(base + 'job/' + encodeURIComponent(j[0]) + '/' + utm) + '" target="_blank" rel="noopener" data-jobs-cta="media-article-jobs">'
-          + logo
-          + '<span class="aj-body"><span class="aj-co">' + esc(j[1]) + '</span>'
-          + '<span class="aj-name">' + esc(j[2]) + '</span>'
-          + '<span class="aj-meta"><b>' + esc(j[3]) + '</b>' + (j[4] ? '・' + esc(j[4]) : '') + '</span></span></a></li>';
-      }).join('');
-      box.hidden = false;
-    }).catch(function () {});
+    var cache = (window.__abArticleJobs = window.__abArticleJobs || {});
+    var run = function (fn) { if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', fn); else fn(); };
+    Array.prototype.forEach.call(boxes, function (box) { run(function () {
+      box.setAttribute('data-aj-done', '1');
+      var d = box.dataset;
+      var mid = d.placement === 'mid';
+      // 本文の途中に置く箱は、2つ目のH2（本文の見出し）の直前へ移す。H2が2つ未満なら置いた場所（目次の後ろ）のまま
+      if (mid) {
+        var art = box.closest('.media-article');
+        var hs = art ? art.querySelectorAll(':scope > h2') : []; // 本文の見出し（関連記事などの h2 はセクションの中なので拾わない）
+        if (hs.length >= 2) hs[1].parentNode.insertBefore(box, hs[1]);
+      }
+      var p = cache[d.src] || (cache[d.src] = fetch(d.src).then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; }));
+      p.then(function (data) {
+        if (!data || !data.j || !data.j.length) return;
+        // JSON は最大6件（jobsite media-jobs.js の PER）。末尾は先頭4件、途中は5・6件目＝同じ求人を2回見せない
+        var list = mid ? data.j.slice(4, 6) : data.j.slice(0, 4);
+        if (!list.length) return;
+        var name = data.k === 'co' ? (d.company || data.l) : data.k === 'hub' ? d.hub : data.l;
+        box.querySelector('.article-jobs-title').textContent = name + 'の募集中の求人';
+        var medium = mid ? 'article-jobs-mid' : 'article-jobs';
+        var cta = mid ? 'media-article-jobs-mid' : 'media-article-jobs';
+        var utm = '?utm_source=corporate&utm_medium=' + medium + '&utm_campaign=' + encodeURIComponent(d.slug);
+        box.querySelector('.article-jobs-list').innerHTML = list.map(function (j) {
+          var base = j[6] === 's' ? 'https://skill.agent-best.net/' : d.base;
+          var logo = j[5]
+            ? '<img class="aj-logo" src="' + esc(base + j[5]) + '" alt="" width="36" height="36" loading="lazy" onerror="this.remove()">'
+            : '';
+          return '<li><a href="' + esc(base + 'job/' + encodeURIComponent(j[0]) + '/' + utm) + '" target="_blank" rel="noopener" data-jobs-cta="' + cta + '">'
+            + logo
+            + '<span class="aj-body"><span class="aj-co">' + esc(j[1]) + '</span>'
+            + '<span class="aj-name">' + esc(j[2]) + '</span>'
+            + '<span class="aj-meta"><b>' + esc(j[3]) + '</b>' + (j[4] ? '・' + esc(j[4]) : '') + '</span></span></a></li>';
+        }).join('');
+        box.hidden = false;
+      });
+    }); });
   })();
 </script>
 
 <style>
   .article-jobs { margin: 14px 0 16px; }
+  .article-jobs--mid {
+    margin: 28px 0 32px; padding: 16px 16px 14px;
+    background: #f5f8fb; border: 1px solid #d8e2ec; border-radius: 10px;
+  }
+  .article-jobs-eyebrow { margin: 0 0 2px; font-size: .75rem; font-weight: 700; letter-spacing: .04em; color: #1e5f56; }
   .article-jobs-title { font-weight: 700; font-size: .95rem; margin: 0 0 8px; color: #0b2a4a; }
   .article-jobs-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .article-jobs-list :global(li) { margin: 0; padding: 0; }
+  .article-jobs-list :global(li::before) { content: none; }
   .article-jobs-list :global(a) {
     display: flex; gap: 12px; align-items: flex-start; padding: 12px 14px;
     background: #fff; border: 1px solid #d8dee6; border-radius: 8px;

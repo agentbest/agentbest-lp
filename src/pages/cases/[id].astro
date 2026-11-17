@@ -7,6 +7,7 @@ import Header from '../../components/Header.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
 import { CASES, PATTERN_BY_SLUG, casesOfPattern } from '../../lib/cases';
 import { jobsGroupOfCaseArea, jobsGroupUrl } from '../../lib/jobsLink';
+import CaseJobs from '../../components/CaseJobs.astro';
 
 export function getStaticPaths() {
   return CASES.map((c) => ({ params: { id: c.id }, props: { item: c } }));
@@ -71,6 +72,9 @@ const breadcrumbLd = {
         {s.p.map((t) => <p>{t}</p>)}
       </section>
     ))}
+
+    {/* 2026-11-18 転職先の職種の募集中求人（4件）。末尾の文字リンクだけだった導線を本文の直後に */}
+    {caseJobs && <CaseJobs group={caseJobs.slug} label={caseJobs.label} caseId={item.id} />}
 
     <ul class="tags">
       {item.tags.map((t) => <li>{t}</li>)}
