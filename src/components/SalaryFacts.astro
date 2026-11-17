@@ -1,0 +1,50 @@
+---
+/* 年収系の記事の冒頭に出す「当サイト掲載求人のデータ」（2026-11-18）。
+   記事は一般論の年収相場で終わりがちだったので、自社の求人サイトの実数（件数・提示年収の中央値）を添えて、
+   ①記事に自社だけが持つ一次情報を足す（AI・検索に引用されやすく）②求人一覧・年収動向ページへつなぐ。
+   数字は jobs の data/market-index.json（marketStats.ts）。記事のハブで10件以上あればハブの数字、無ければ職種の大分類の数字。
+   ⚠ 「市場の相場」とは書かない。あくまで当サイト掲載求人の集計で、集計日と母数を必ず添える。 */
+import { getMarketIndex } from '../lib/marketStats';
+import { jobsGroupOf, jobsGroupUrl, JOBS_URL } from '../lib/jobsLink';
+
+interface Props { hub: string; hubName: string; slug: string }
+const { hub, hubName, slug } = Astro.props;
+const mi = await getMarketIndex();
+const group = jobsGroupOf(hub);
+const hubRow = mi?.hubs[hub];
+const groupRow = group ? mi?.groups[group.slug] : undefined;
+const row = hubRow ?? groupRow;
+const label = hubRow ? hubName : group?.label ?? '';
+const ok = !!(mi && row && row.medMin && row.medMax && label);
+const groupSlug = hubRow?.g || group?.slug || '';
+const marketOk = !!(groupSlug && mi?.groups[groupSlug] && mi.groups[groupSlug].n >= 30);
+const utm = `utm_source=corporate&utm_medium=article-salary&utm_campaign=${encodeURIComponent(slug)}`;
+const jobsHref = groupSlug ? jobsGroupUrl(groupSlug, { medium: 'article-salary', campaign: slug }) : '';
+const marketHref = marketOk ? `${JOBS_URL}jobs/${groupSlug}/market/?${utm}` : '';
+const d = mi?.updated ? `${Number(mi.updated.slice(0, 4))}年${Number(mi.updated.slice(5, 7))}月${Number(mi.updated.slice(8, 10))}日` : '';
+---
+
+{ok && row && (
+  <aside class="salary-facts" aria-label="当サイト掲載求人のデータ">
+    <p class="sf-eyebrow">当社の求人サイトのデータ（{d}時点）</p>
+    <p class="sf-body">
+      エージェントベストジョブ転職に掲載中の<strong>{label}</strong>の求人<strong>{row.n.toLocaleString('ja-JP')}件</strong>（{row.cos.toLocaleString('ja-JP')}社）では、
+      求人票に書かれた提示年収の中央値が<strong>下限{row.medMin!.toLocaleString('ja-JP')}万円・上限{row.medMax!.toLocaleString('ja-JP')}万円</strong>です。
+    </p>
+    <p class="sf-note">年収の記載がある{row.nSal.toLocaleString('ja-JP')}件の集計で、転職市場全体の相場を示すものではありません。</p>
+    <p class="sf-links">
+      {marketHref && <a href={marketHref} target="_blank" rel="noopener" data-jobs-cta="media-article-salary-market">職種別の年収・勤務地の内訳を見る →</a>}
+      {jobsHref && <a href={jobsHref} target="_blank" rel="noopener" data-jobs-cta="media-article-salary">{label}の求人を見る →</a>}
+    </p>
+  </aside>
+)}
+
+<style>
+  .salary-facts { margin: 20px 0 28px; padding: 14px 16px; border-left: 4px solid #1e5f56; background: #f3f8f7; border-radius: 0 8px 8px 0; }
+  .sf-eyebrow { margin: 0 0 4px; font-size: .75rem; font-weight: 700; letter-spacing: .04em; color: #1e5f56; }
+  .sf-body { margin: 0; font-size: .95rem; line-height: 1.8; }
+  .sf-body strong { color: #0b2a4a; }
+  .sf-note { margin: 6px 0 0; font-size: .78rem; color: #5b6573; }
+  .sf-links { display: flex; flex-wrap: wrap; gap: .4em 1.2em; margin: 8px 0 0; font-size: .88rem; }
+  .sf-links a { color: #1e5f56; font-weight: 700; }
+</style>
