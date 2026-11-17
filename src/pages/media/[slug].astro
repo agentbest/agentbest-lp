@@ -7,6 +7,8 @@ import ShareButtons from '../../components/ShareButtons.astro';
 import LineCta from '../../components/LineCta.astro';
 import ArticleJobs from '../../components/ArticleJobs.astro';
 import JobsStickyBar from '../../components/JobsStickyBar.astro';
+import SalaryFacts from '../../components/SalaryFacts.astro';
+import HiringCompanies from '../../components/HiringCompanies.astro';
 import Header from '../../components/Header.astro';
 import MediaCard from '../../components/MediaCard.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, companySortKey, getMediaGroups } from '../../lib/mediaTaxonomy';
@@ -155,6 +157,9 @@ const sideCats = isCompany
       </nav>
     )}
 
+    {/* 2026-11-18 年収系の記事（企業記事以外）は冒頭に当社求人サイトの実数 */}
+    {!isCompany && /年収/.test(post.data.theme ?? '') && <SalaryFacts hub={hub} hubName={hubName} slug={post.slug} />}
+
     {/* 2026-11-18 本文の途中にも求人2件（表示時に2つ目のH2の直前へ移る）。末尾の4件とは重ならない */}
     <ArticleJobs slug={post.slug} companyName={post.data.companyName} hubName={hubName} placement="mid" />
 
@@ -188,6 +193,7 @@ const sideCats = isCompany
           : `${hubName}の転職は、同じ職種名でも企業ごとに求める経験や年収の幅が大きく違います。求人の実例と、転職事例を見比べてから応募先を絞るのが近道です。`}
       </p>
       <ArticleJobs slug={post.slug} companyName={post.data.companyName} hubName={hubName} />
+      {!isCompany && <HiringCompanies hub={hub} hubName={hubName} />}
       <ul class="tenshoku-box-links">
         <li><a href={tenshokuJobsHref} target="_blank" rel="noopener" data-jobs-cta="media-article-box">{tenshokuJobsLabel} <span aria-hidden="true">→</span></a></li>
         <li><a href={skillJobsHref} target="_blank" rel="noopener" data-jobs-cta="media-article-box-skill">{skillJobsLabel} <span aria-hidden="true">→</span></a></li>

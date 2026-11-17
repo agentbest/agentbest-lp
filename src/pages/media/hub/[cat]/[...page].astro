@@ -10,6 +10,7 @@ import MediaSearchBox from '../../../../components/MediaSearchBox.astro';
 import ShareButtons from '../../../../components/ShareButtons.astro';
 import LineCta from '../../../../components/LineCta.astro';
 import { jobsGroupOf, jobsGroupUrl, jobsUrl, SKILL_URL } from '../../../../lib/jobsLink';
+import GroupJobs from '../../../../components/GroupJobs.astro';
 import { hubLabel, groupOf, CATEGORY_LABEL, KANA_ROWS, companyRow, companySortKey, HUB_SITE } from '../../../../lib/mediaTaxonomy';
 
 export async function getStaticPaths({ paginate }) {
@@ -113,6 +114,9 @@ const description = isCompany
       <a href={jobsUrl({ medium: 'hub', campaign: hub, base: SKILL_URL })} target="_blank" rel="noopener" data-jobs-cta="media-hub-skill">未経験・第二新卒から挑戦できる求人を見る →</a>
       <a href="/consultation/" data-consult-cta="media-hub">転職エージェントに無料で相談する →</a>
     </p>
+
+    {/* 2026-11-18 ハブ一覧にも募集中の求人4件（ページごとにずらす） */}
+    {jobsGroup && <GroupJobs group={jobsGroup.slug} label={jobsGroup.label} campaign={hub} offset={page.currentPage} medium="hub-jobs" lead={`${isCompany ? name + 'と同じ領域' : name}の記事を読んでいる方向けに、いま募集が出ている求人です。`} />}
 
     <MediaSearchBox placeholder={isCompany ? '企業名で検索' : '記事を検索'} />
 

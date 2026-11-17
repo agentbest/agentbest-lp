@@ -1,0 +1,42 @@
+---
+/* 職種・業界の記事に出す「〇〇を募集中の企業」（2026-11-18・施策6）。
+   記事（流入が多い）から求人サイトの企業ページ（jobs.agent-best.net/company/<企業ID>/）への静的リンクを増やし、企業ページの評価を押し上げる。
+   ArticleJobs の求人カードは閲覧時に JS で描くのでクローラーにリンクとして渡りにくい。こちらはビルド時に HTML に書く。
+   数字と会社は jobs の data/market-index.json（marketStats.ts）の co（企業ページがある会社だけ・掲載件数の多い順）。
+   社名の突き合わせはしない（求人の会社リンク＝企業IDそのもの）ので、取り違えが起きない。 */
+import { getMarketIndex } from '../lib/marketStats';
+import { jobsGroupOf, JOBS_URL } from '../lib/jobsLink';
+
+interface Props { hub: string; hubName: string }
+const { hub, hubName } = Astro.props;
+const mi = await getMarketIndex();
+const group = jobsGroupOf(hub);
+const hubRow = mi?.hubs[hub];
+const row = hubRow?.co?.length ? hubRow : group ? mi?.groups[group.slug] : undefined;
+const label = row === hubRow ? hubName : group?.label ?? '';
+const cos = (row?.co ?? []).slice(0, 6) as [string, string, number][];
+---
+
+{cos.length >= 3 && (
+  <section class="hiring-cos" aria-label={`${label}を募集中の企業`}>
+    <p class="hc-title">{label}を募集中の企業</p>
+    <ul>
+      {cos.map(([id, name, n]) => (
+        <li><a href={`${JOBS_URL}company/${id}/`} target="_blank" rel="noopener" data-jobs-cta="media-article-company">{name}<span>{n}件</span></a></li>
+      ))}
+    </ul>
+    <p class="hc-note">エージェントベストジョブ転職の掲載件数が多い順。会社概要と募集中の求人を見られます。</p>
+  </section>
+)}
+
+<style>
+  .hiring-cos { margin: 18px 0 8px; }
+  .hc-title { font-weight: 700; font-size: .95rem; margin: 0 0 8px; color: #0b2a4a; }
+  .hiring-cos ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .hiring-cos li { margin: 0; padding: 0; }
+  .hiring-cos li::before { content: none; }
+  .hiring-cos a { display: inline-flex; gap: 6px; align-items: baseline; padding: 6px 12px; border: 1px solid #d8dee6; border-radius: 999px; background: #fff; color: #0b2a4a; font-size: .85rem; text-decoration: none; }
+  .hiring-cos a:hover { border-color: #0b2a4a; }
+  .hiring-cos a span { font-size: .75rem; color: #5b6573; }
+  .hc-note { font-size: .75rem; color: #5b6573; margin: 6px 0 0; }
+</style>

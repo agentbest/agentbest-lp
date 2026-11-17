@@ -15,6 +15,8 @@ import ShareButtons from '../../../../components/ShareButtons.astro';
 import LineCta from '../../../../components/LineCta.astro';
 import { hubLabel, CATEGORY_LABEL } from '../../../../lib/mediaTaxonomy';
 import { getTagGroups, tagSlugsOf, TAG_BY_SLUG } from '../../../../lib/mediaTags';
+import { jobsGroupOf } from '../../../../lib/jobsLink';
+import GroupJobs from '../../../../components/GroupJobs.astro';
 
 export async function getStaticPaths({ paginate }) {
   const posts = await getCollection('media');
@@ -59,6 +61,17 @@ const slash = (u?: string) => (u ? (u.endsWith('/') ? u : `${u}/`) : u);
 const prevUrl = slash(page.url.prev);
 const nextUrl = slash(page.url.next);
 
+// 2026-11-18 タグ一覧にも募集中の求人4件。このページの記事のハブで一番多い職種の大分類を出す（決まらなければ出さない）
+const tagGroupCount = new Map<string, { slug: string; label: string; n: number }>();
+for (const p of page.data) {
+  const g = jobsGroupOf(p.data.hub ?? '');
+  if (!g) continue;
+  const cur = tagGroupCount.get(g.slug) ?? { ...g, n: 0 };
+  cur.n++;
+  tagGroupCount.set(g.slug, cur);
+}
+const tagJobs = [...tagGroupCount.values()].sort((a, b) => b.n - a.n)[0] ?? null;
+
 const pageSuffix = page.currentPage > 1 ? `（${page.currentPage}／${page.lastPage}ページ）` : '';
 const title = `「${tag.label}」の転職情報・記事一覧｜転職メディア${pageSuffix}`;
 const description =
@@ -81,6 +94,8 @@ const description =
       「{tag.label}」のタグが付いた記事{total}本の一覧です。{tag.note && `${tag.note}。`}
       タグは職種・業界・企業をまたぐので、同じテーマの記事をカテゴリ横断で読めます。
     </p>
+
+    {tagJobs && <GroupJobs group={tagJobs.slug} label={tagJobs.label} campaign={tagSlug} offset={page.currentPage} medium="tag-jobs" lead={`「${tag.label}」の記事を読んでいる方向けに、いま募集が出ている求人です。`} />}
 
     <MediaSearchBox />
 
